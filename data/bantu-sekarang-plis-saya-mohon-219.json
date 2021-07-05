@@ -1,0 +1,148 @@
+{
+    "question": "Bantu sekarang plis saya mohon\u200b",
+    "attachments": [
+        "question-attachments/bantu-sekarang-plis-saya-mohon-219-1.jpg"
+    ],
+    "answers": [
+        {
+            "answer": "<p>kum Kim hurosis ringan akun ku rising hosus hous</p>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "1-volume-kubus-sama-dengan-volume-balok-berukuran-panjang-8-cm-708",
+            "question": "1. Volume kubus sama dengan volume balok berukuran panjang 8 cm, lebar 4 cm dan tinggi 16 cm.    Tentukan berapa cm panjang sisi kubus!\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>\u25cf Materi : Bangun Ruang</p><p>\u25cf Kode Kategorisasi : 8.2.8</p><p></p><h2>s = 8 cm</h2><p></p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>V. Balok</p><p>V = p x l x t</p><p>V = 8 x 4 x 16</p><p>V = 512 cm^3</p><p></p><p>V. Kubus = 512</p><p>         s^3 = 512</p><p>             <strong>s = 8 cm</strong></p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<h2>Jawaban:</h2><p>Panjang sisi kubus = 8 cm</p><p></p><h2>Pembahasan Materi:</h2><p><strong>Kubus</strong> adalah <u>suatu bangun ruang yang memiliki enam sisi yang semua sisinya berbentuk persegi dan memiliki 12 rusuk yang semua rusuknya sama panjang.</u></p><p></p><p>Rumus volume kubus:</p><p>V = s\u00b3</p><p></p><p>Rumus luas permukaan kubus:</p><p>L = 6 \u00d7 s\u00b2</p><p></p><p>Rumus panjang sisi rusuk kubus:</p><p>s = \u00b3\u221aV</p><p>\u00a0\u00a0 = \u221aL \u00f7 6</p><p></p><p>Rumus panjang diagonal sisi kubus:</p><p>ds = s\u221a2</p><p></p><p>Rumus panjang diagonal ruang kubus:</p><p>dr = s\u221a3</p><p></p><p>Rumus luas bidang diagonal kubus:</p><p>bd = s\u00b2\u221a2</p><p></p><p>Rumus keliling kubus:</p><p>K = 12 \u00d7 s</p><p></p><p>Rumus luas alas kubus:</p><p>L = s\u00b2 = s \u00d7 s</p><p></p><p>Keterangan:</p><p>s = panjang sisi rusuk</p><p>ds = diagonal sisi</p><p>dr = diagonal rusuk</p><p>bd = bidang diagonal</p><p></p><p>-------</p><p></p><p><strong>Balok</strong>\u00a0adalah <u>suatu bangun ruang yang memiliki tiga pasang sisi yang ukurannya sama dan saling berhadapan serta memiliki bentuk persegi panjang.</u></p><p></p><p>Rumus Volume Balok:</p><p>V = p \u00d7 l \u00d7 t</p><p></p><p>Rumus Luas Permukaan Balok:</p><p>L = 2((p \u00d7 l) + (p \u00d7 t) + (l \u00d7 t))</p><p></p><p>Rumus Luas Permukaan Balok Tanpa Tutup:</p><p>L = (p \u00d7 l) + 2(l \u00d7 t) + 2(p \u00d7 t)</p><p></p><p>Rumus Panjang Kawat Balok (PKB) :</p><p>PKB = 4(p + l + t)</p><p></p><p>Rumus Luas Alas Balok:</p><p>L = p \u00d7 l</p><p></p><p>Rumus Keliling Balok:</p><p>K = 4(p + l + t)</p><p></p><p>Rumus Diagonal Bidang atau Sisi Balok (ds):</p><p>db1 = \u221ap\u00b2 + l\u00b2</p><p>db2 = \u221ap\u00b2 + t\u00b2</p><p>db3 = \u221al\u00b2 + t\u00b2</p><p></p><p>Rumus Diagonal Ruang Balok (dr):</p><p>dr = \u221a(p\u00b2 + l\u00b2 + t\u00b2)</p><p></p><p>Rumus Luas Bidang Diagonal Balok (bd):</p><p>bd1 = db1 \u00d7 t</p><p>bd2 = db2 \u00d7 l</p><p>bd3 = db3 \u00d7 p</p><p></p><p>Keterangan:</p><p>p = panjang balok</p><p>l = lebar balok</p><p>t = tinggi balok</p><p></p><h2>Penyelesaian:</h2><p>Diketahui:</p><p>p = 8 cm</p><p>l = 4 cm</p><p>t = 16 cm</p><p>V.kubus = V.balok</p><p></p><p>Ditanya: Panjang sisi kubus (s) = ?</p><p></p><p>Dijawab:</p><p>V.balok = p \u00d7 l \u00d7 t</p><p>             = 8 \u00d7 4 \u00d7 16</p><p>             = 32 \u00d7 16</p><p>             = 512 cm\u00b3</p><p></p><p>V.kubus = s\u00b3</p><p>512 = s\u00b3</p><p>s = \u00b3\u221a(512)</p><p>   = 8 cm</p><p></p><p>Jadi, panjang sisi kubus tersebut adalah <strong><u>8</u></strong><strong><u> </u></strong><strong><u>c</u></strong><strong><u>m</u></strong>.</p><p></p><h2>Detail Jawaban</h2><p>Mapel: MTK</p><p>Kelas: 8 SMP</p><p>Materi: Bab 8 - Bangun Ruang</p><p>Kode Soal: 2</p><p>Kode Kategorisasi: 8.2.8</p><p>Kata Kunci: Volume Balok, Volume Kubus, Panjang Sisi Kubus</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "3-dira-andin-dan-risa-masing-masing-memiliki-sebuah-pita-de-362",
+            "question": "3. Dira, andin dan risa masing \u2013 masing memiliki sebuah pita dengan panjang yang berbeda. Jika diketahui selisih panjang pita dira dan andin adalah 5 cm. Sedangkan panjang pita andin 2 cm lebih panjang dari pita risa. Tentukan panjang pita masing \u2013 masing dengan terlebih dahulu menentukan panjang pita seluruhnya!    tolong bantu jawab\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>dyduy2idute7y3lue7dbjsyfgz</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "hasil-dari-akar-akarpersamaan-kuadrat-62-2x-3-0-adalah-787",
+            "question": "Hasil dari akar-akarpersamaan kuadrat 6\u00d7\u00b2 - 2x +3= 0 adalah?\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>Jawabannya 1/2</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>Semoga membantu^^</p>",
+                    "attachments": [
+                        "answer-attachments/hasil-dari-akar-akarpersamaan-kuadrat-62-2x-3-0-adalah-787-1.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "tolongg-dong-kak-lagi-butuh-cepet-pake-jalan-nya-yaaa-makasiii-529",
+            "question": "Tolongg dong kak, lagi butuh cepet, pake jalan nya yaaa, makasiiii\u200b",
+            "attachments": [
+                "question-attachments/tolongg-dong-kak-lagi-butuh-cepet-pake-jalan-nya-yaaa-makasiii-529-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "<p>sudut elevasi</p><p></p><p>\u2206ABC siku di B</p><p>C puncak menara Eifel</p><p>mata pengamat = A </p><p></p><p>\u2220CAB = 32,8\u00b0</p><p>AB = 500 m</p><p></p><p>BC = AB tan 32,8\u00b0</p><p>BC = 500 \u00d7 0,644</p><p>BC = 322 meter</p><p></p><p>tinggi menara</p><p>= BC + tinggi pengamat</p><p>= 322 + 1,6</p><p>= 323,6 m</p><p></p><p>opsi yg me<strong>m</strong><strong>u</strong><strong>n</strong><strong>g</strong><strong>k</strong><strong>i</strong><strong>n</strong>kan : 224,1 m</p><p>ntah pk pendekatan apa yg buat soal </p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "nilai-cosec-30-adalah-410",
+            "question": "Nilai cosec 30 adalah ...\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawab:</strong></p><p></p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>Cosec x = 1 / sin x</p><p>sin 30 = 1/2</p><p>Cosec 30 = 1 / sin 30</p><p>Cosec 30 = 1 / (1/2)</p><p><strong>Cosec 30 = 2</strong></p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p></p><p><strong><em>KELAS </em></strong><strong><em>:</em></strong><strong><em> </em></strong><strong><em>X </em></strong><strong><em>1 </em></strong><strong><em>(</em></strong><strong><em>SMA) </em></strong></p><p><strong><em>materi </em></strong><strong><em>:</em></strong><strong><em> </em></strong><strong><em>Trigonometri </em></strong></p><p><strong><em>Kata </em></strong><strong><em>Kunci </em></strong><strong><em>:</em></strong><strong><em> </em></strong><strong><em>Sudut </em></strong><strong><em>Istimewa </em></strong></p><p></p><p><strong><em>Jawaban </em></strong><strong><em>:</em></strong></p><p></p><p><strong><em>Penjelasan dengan langkah-langkah:</em></strong></p><p></p><p><strong><em>Penjelasan dengan langkah-langkah:cosec 30\u00b0 = 1/(sin 30\u00b0) = 1/ (1/2) = 2</em></strong></p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p></p><p><em>Semoga </em><em>Membantu </em></p><p><em>Jangan </em><em>Lupa </em><em>Follow </em><em>Yah</em></p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "organisme-renang-di-indonesia-adalah-316",
+            "question": "Organisme renang di Indonesia adalah\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>PRSI</p><p></p><p>( persatuan renang seluruh Indonesia )</p><p></p><p>semoga bermanfaat.</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-bantu-ya-pleasee-469",
+            "question": "Tolong bantu ya pleasee",
+            "attachments": [
+                "question-attachments/tolong-bantu-ya-pleasee-469-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "<p>1. B</p><p>2. B</p><p>3. D</p><p>4. C</p><p>5. C</p><p>6. B</p><p>7. A</p><p></p><p>Trust me, itu bener semua</p>",
+                    "attachments": [
+                        "answer-attachments/tolong-bantu-ya-pleasee-469-1.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "nilai-dari-lim-2x-lim-x2-53adalah-457",
+            "question": "Nilai dari lim 2x + lim (x^2\u2014 5)^3adalah :\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>Semoga membantu :). semangat terus ya !</p>",
+                    "attachments": [
+                        "answer-attachments/nilai-dari-lim-2x-lim-x2-53adalah-457-1.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "nilai-dari-sin-450o-adalah-468",
+            "question": "Nilai dari sin 450o\u00a0adalah ....\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>Nilai dari sin 450\u00b0 adalah 1</p><p></p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>semoga bermanfaat</p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>ngakkkkk tauuuuuuuwkk</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-bantuannya-kak-374",
+            "question": "Tolong bantuannya kak\u200b",
+            "attachments": [
+                "question-attachments/tolong-bantuannya-kak-374-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>12/5</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>tan a = depan/ samping </p><p></p><p>depan = 12</p><p>samping = 5</p><p></p><p>tan a = 12/5</p><p></p><p>Kalau Mau Jasa tulis tugas Matematika SMP/SMA </p><p>bisa dm aja ya ig:annisarahmah312 </p><p>Harga mulai dari 10k tf dana/pulsa </p><p>Owner Mahasiswa Jurusan Matematika </p>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

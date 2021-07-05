@@ -1,0 +1,128 @@
+{
+    "question": "Minta caranya dung kak plss",
+    "attachments": [
+        "question-attachments/minta-caranya-dung-kak-plss-897-1.png"
+    ],
+    "answers": [
+        {
+            "answer": "<p><strong>Jawaban:</strong></p><p></p><h2>D. 300 KJ</h2><p></p><h3>Penjelasan dan langkah-langkah:</h3><p></p><p>10m/s\u00d720m/s=200m/s</p><p></p><p>1 ton dijadiin 100 jadi </p><p></p><p>200+100=300</p><p></p><p>=300 kj</p><p></p><p></p><p><strong>Penjelasan:</strong></p><p></p><p>Semoga bermanfaat dan membantu maaf klo salah soalnya ini mikir sendiri hehe:)</p>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "1-sebuah-titik-materi-melakukan-gerak-harmonikvsederhana-dengan-220",
+            "question": "1. sebuah titik materi melakukan gerak harmonikvsederhana dengan amplitudo a.berapakah fase getarannya pada titik seimbang saat :    a. simpangannya 1/2 a\r\n\r\nb. simpangannya 1/2 a \u221a3\r\n\r\n2. sebuah partikel melakukan getaran selaras dengan frekuensi 4 hz dan amplitudo 5 cm.kecepatan partikel pada saat berada pada simpangan 3 cm adalah\r\n\r\n3. sebuah partikel mengalami gerak harmonik sederhana dengan amplitudo 10 cm.saat simpangannya 6 cm kecepatannya 16 \u03c0 cm/s.berapakah frekuensi gerak tersebut !\r\n\r\nmohon bantuannya!!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>1. a. \u03c6  = 1/12</p><p>   b. \u03c6  = 1/6</p><p>2.  V = 32\u03c0 cm/s</p><p>3.  f = 1 Hz</p><p><strong>P</strong><strong>e</strong><strong>n</strong><strong>j</strong><strong>e</strong><strong>l</strong><strong>a</strong><strong>s</strong><strong>a</strong><strong>n</strong></p><p>Dasar teori</p><p>Persamaan Simpangan Gerak Harmonik Sederhana (GHS)</p><p>Y = A sin \u03b8</p><p>Y = A sin (\u03c9t +/- \u03b8o)</p><p>\u03b8 = Sudut fase getaran</p><p>Jika \u03b8o = 0 maka :</p><p>persaaman simpangan menjadi</p><p>Y = A sin \u03c9t</p><p>dimana :</p><p>Y   = simpangan</p><p>A   = amplitudo = simpangan terjauh</p><p>\u03c9 =kec sudut atau frekuensi sudut</p><p>\u03c9= 2\u03c0f atau 2\u03c0/T</p><p>f = frekuensi getar (Hz)</p><p>  = n/t</p><p>T = periode getar</p><p>   = t/n</p><p>n = jlh getaran</p><p>\u03b8o = sudut fase awal (saat t = 0)</p><p>t = waktu getar</p><p></p><p>Fase getar ( \u03c6 )</p><p>\u03b8 = 2\u03c0 \u03c6</p><p>\u03c6 = \u03b8 /2\u03c0</p><p></p><p>Diketahui</p><p>a. Y = 1/2 A</p><p>b. Y = 1/2 a \u221a3</p><p>Ditanya</p><p>fase getar</p><p>Penyelesaian</p><p>a. Y = A sin \u03b8</p><p>1/2 A= A sin 2\u03c0 \u03c6</p><p> 1/2  =  sin 2\u03c0 \u03c6</p><p>sin \u03c0/6 = sin 2\u03c0 \u03c6</p><p>     \u03c0/6 = 2\u03c0 \u03c6</p><p>       \u03c6  = 1/12</p><p></p><p>b.Y = A sin \u03b8 </p><p>1/2 A \u221a3= A sin 2\u03c0 \u03c6</p><p>1/2 \u221a3 = sin 2\u03c0 \u03c6</p><p>sin \u03c0/3= sin 2\u03c0 \u03c6</p><p>     \u03c0/3 = 2\u03c0 \u03c6</p><p>       \u03c6  = 1/6</p><p></p><p>2.Dasar Teori</p><p>Persamaan Kecepatan getar Gerak Harmonik Sederhana</p><p>Turunan atau differensial dari simpangan</p><p>V = dY/dt = \u03c9A cos (\u03c9t +/- \u03b8o)</p><p> atau V = \u03c9A cos \u03c9t</p><p>Kecepatan getar bisa juga dihitung dgn persamaan</p><p>V =\u03c9 \u221a(A^2 - Y^2)</p><p>Kecepatan maksimum saat nilai cos (\u03c9t +/- \u03b8o) = 1</p><p>V maks = \u03c9A</p><p>dimana</p><p>\u03c9= 2\u03c0f atau 2\u03c0/T</p><p>f = frekuensi getar (Hz)</p><p>  = n/t</p><p>T = periode getar</p><p>   = t/n</p><p>n = jlh getaran</p><p>\u03b8o = sudut fase awal (saat t = 0)</p><p>t = waktu getar (s)</p><p>Diketahui</p><p>f = 4 cm</p><p>A = 5 cm</p><p>Y = 3 cm</p><p>Ditanya</p><p>Kecepatan getar</p><p>Penyelesaian</p><p>V = \u03c9 \u221a(A^2 - Y^2)</p><p>   = 2\u03c0f \u221a(A^2 - Y^2)</p><p>   = 2\u03c0 4 \u221a(5^2 - 3^2)</p><p>V = 32\u03c0 cm/s</p><p></p><p>3. Diketahui</p><p>A = 10 cm</p><p>Y = 6 cm </p><p>V = 16 \u03c0 cm/s</p><p>Ditanya</p><p>Frekuensi getaran</p><p>Penyelesaian</p><p>V = \u03c9 \u221a(A^2 - Y^2)</p><p>   = 2\u03c0f \u221a(A^2 - Y^2)</p><p>16 \u03c0 = 2\u03c0f \u221a(10^2 - 6^2)</p><p>      f = 1 Hz</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tulang-yang-tidak-menyusun-tengkorak-adalah-546",
+            "question": "Tulang yang tidak menyusun tengkorak adalah\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p></p><p>Tulang yang menyusun tengkorak adalah </p><p>Tulang dahi, ubun-ubun, baji, pelipis, tengkorak, air mata, hidung, pipi, rahang atas, rahang bawah, lidah . </p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebutkan-3-sumber-energi-alternatif-yang-bisa-diperbaharui-519",
+            "question": "Sebutkan 3 sumber energi alternatif yang bisa diperbaharui\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>Gelombang air laut, Matahari, dan Angin </p><p><strong>Penjelasan:</strong></p><p>gelombang air laut (energi tidal)</p><p>matahari (panel surya)</p><p>angin (PLTA angin)</p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<p></p><p><strong>Penjelasan:</strong></p><p>1. Panas matahari</p><p>Pertama, ada energi alternatif matahari yang bisa diubah menjadi energi listrik dengan bantuan panel surya. Panel surya ini punya rangkaian sel photovoltaic yang diartikan sebagai \u2018cahaya-listrik\u2019. Energi alternatif ini bisa menggerakkan kendaraan listrik bahkan perahu listrik yang dipasang panel surya. Hanya saja penggunaan panel surya masih terbatas karena biaya per wattnya masih relatif tinggi bisa sepuluh kali lipat dari bahan bakar fosil, tergantung keadaan.</p><p></p><p>2. Geothermal</p><p>Selain panas matahari, panas bumi menjadi contoh energi alternatif lainnya. Panas bumi (Geothermal) berasal dari dalam bumi yang berasal dari aktivitas vulkanik gunung berapi seperti air panas, uap alam, dan bebatuan kering. Penelitian di Islandia sudah menemukan kekuatan baru dari energi ini sehingga mampu melipatgandakan jumlah listrik hingga sepuluh kali lipat.</p><p></p><p>3. Angin</p><p>Angin yang setiap hari kita rasakan juga masuk daftar energi alternatif. Energi angin rupanya bisa diubah dari energi kinetik menjadi energi mekanik yang dihubungkan ke mesin generator sehingga menghasilkan energi listrik. Penggunaan energi angin dimanfaatkan dengan baik di Belanda yang memiliki kincir angin besar untuk memompa air irigasi ke pertanian dan penghasil listrik.</p><p></p><p></p><p><strong>J</strong><strong>a</strong><strong>d</strong><strong>i</strong><strong>k</strong><strong>a</strong><strong>n</strong><strong> </strong><strong>j</strong><strong>a</strong><strong>w</strong><strong>a</strong><strong>b</strong><strong>a</strong><strong>n</strong><strong> </strong><strong>t</strong><strong>e</strong><strong>r</strong><strong>b</strong><strong>a</strong><strong>i</strong><strong>k</strong><strong>\u2764</strong></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "perbandingan-massa-planet-a-dan-b-adalah-35-sedangkan-perbanding-514",
+            "question": "Perbandingan massa planet A dan B adalah 3:5 sedangkan perbandingan jari jari planet A dan B adalah 2:3 jika berat benda di planet A adalah W, maka berat benda tersebut di planet B adalah...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>wB = 20/27 w</p><p><strong>Penjelasan:</strong></p><p>mA/mB = 3/5</p><p>rA/rB = 2/3</p><p>wA = w</p><p></p><p>w = m.g </p><p>wA/wB = m.gA/ m.gB</p><p>w/wB = mA.rB^2 / mB.rA^2</p><p>w/wB = 3. 3^2 / 5. 2^2</p><p>w/wB = 3 . 9 / 5 . 4</p><p>w/wB = 27/20</p><p>wB = 20/27 w </p><p></p><p>cmiiw</p><p>Semoga membantu</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-balok-bermassa-m-ditarik-dengan-gaya-f-sebesar-25-n-memben-825",
+            "question": "Sebuah balok bermassa m ditarik dengan gaya F sebesar 25 N membentuk sudut 60\u00b0, sehingga berpindah dari titik A ke titik B sejauh 10 meter seperti gambar berikut ini. Besarnya Usaha yang dilakukan oleh gaya F adalah\u2026.\u00a0*    \ufffc\r\n\r\n100 J\r\n\r\n125 J\r\n\r\n150 J\r\n\r\n200 J\r\n\r\n250 J\r\n\r\n\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>ni jawaban nya tapi boong</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tabung-kaca-berdiameter-10-mm-dimasukkan-kedalam-air-pada-suhu-10-735",
+            "question": "tabung kaca berdiameter 10 mm dimasukkan kedalam air pada suhu 100\u00b0C dalam cangkir.tentukan kenaikan kapiler air dalam tabung 26\u00b0C.tentukan kenaikan kapiler minyak tanah di tabung",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>maap mah </p><p><strong>Penjelasan:</strong></p><p>maap saya hanya butuh poin </p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-banyaknya-angka-penting-dari-hasil-pengukuran-berikut-in-591",
+            "question": "tentukan banyaknya angka penting dari hasil pengukuran berikut ini A. 125,45 m X 23m. B. 36.800 cm X 234.234 cm\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>36800cm8\u00d7234234cm=861.856m</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-bola-balok-bermassa-592-kg-mula-mula-diam-diatas-lantai-h-654",
+            "question": "sebuah bola balok bermassa 5,92 kg mula mula diam diatas lantai horizontal. sebutir peluru bermassa 90 gram menumbuk balok, kemudian bersarang didalam balok. Bila energi kinetik yang hilang selama tumbukan adalah 675 joule. Tentukan kecepatan peluru sesaat sebelum tumbukan ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>Vp = 134 m/s</p><p><strong>Penjelasan:</strong></p><p>Dasar teori</p><p>TUMBUKAN</p><p>Untuk semua jenis tumbukan berlaku</p><p>Hukum Kekekalan momentum</p><p>m1 V1 + m2V2= m1V1&#039; + m2 V2&#039;</p><p></p><p>Koefisien tumbukan atau koefisien restitusi :</p><p>e = V2&#039; - V1&#039; / (V1- V2)</p><p>Tumbukan lenting sempurna, e = 1</p><p>Tumbukan lenting sebagian, 0 &lt; e &lt; 1</p><p>Tumbukan tidak lenting sama sekali, e = 0</p><p>catatan</p><p>m1, m2 = massa benda 1 dan 2</p><p>V1, V2 = kecepatan benda 1 dan 2 sebelum tumbukan</p><p>V1&#039;, V2&#039; = kecepatan benda 1 dan 2 setelah tumbukan</p><p></p><p>Diketahui</p><p>mb = 5 kg</p><p>Vb = 0</p><p>mp = 90 g = 0,09 kg</p><p>Ek hilang = 675 J</p><p>Ditanya</p><p>Kecepatan peluru menumbuk balok</p><p>Penyelesaian</p><p>Hukum Kekekalan momentum</p><p>Peluru tertanam dalam balok (tumbukan tdk lenting dama sekali), setelah tumbukan, balok dan peluru memiliki kecepatan sama yang dinyatakan :</p><p>Vp&#039; = Vb&#039; = V&#039; = [mp Vp + mb Vb ]/(mp + mb]</p><p>Energi kinetik awal</p><p>Ek1 = 1/2 mVp^2</p><p>       = 1/2 0,09 Vp^2</p><p>Ek1 = 4,5 \u00d7 10^-2 Vp^2</p><p>Energi kinetik akhir</p><p>Ek2 = 1/2 (mp+mb)  [(mp Vp + mb Vb )/(mp + mb)]^2</p><p>       = 1/2 [mp Vp]^2/(mp + mb)</p><p>       = 1/2 [0,09Vp]^2/(5,92 + 0,09)</p><p>Ek2  = 7,5 \u00d7 10^-3 Vp^2</p><p>Ek hilang = Ek1 - Ek2</p><p>     675  = (45 - 7,5) 10^-3 Vp^2</p><p>     675  =  37,5 \u00d710^-3 Vp^2</p><p>Vp = 134 m/s</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pada-saat-membaca-jarak-terdekat-yang-dapat-dilihat-seorang-kakek-661",
+            "question": "Pada saat membaca jarak terdekat yang dapat dilihat seorang kakek rabun dekat adalah 40 cm. Kekuatan lensa kacamata yang diperlukan adalah...    a. 3/2 dioptri \r\nb. 2/3 dioptri \r\nc. 4/3 dioptri\r\nd. 3/4 dioptri \r\ne. 1/4 dioptri\r\n\r\nMINTA CARA PENYELESAIAN\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p></p><p>Kekuatan lensa kacamata yang diperlukan adalah 1,5 dioptri (a)</p><p><strong>Penjelasan:</strong></p><p>HYPERMETROPI</p><p>(Rabun dekat)</p><p>Penderita cacat mata yang tdk dapat melihat benda dengan jelas pada jarak lebih dekat dari titik dekatnya</p><p>Bayangan jatuh di belakang retina.</p><p>Agar normal bantu dgn lensa positif (cembung)</p><p>Kekuatan lensa yg dibutuhkan:</p><p>P = 1/f = 1/S + 1/S&#039;</p><p>S&#039; = - PP (Punctum Proximum)</p><p>    = - Titik dekat</p><p>Agar mata normal (S = 25 cm) kekuatan lensa</p><p>P = 100/25 - 100/PP</p><p>   = 4 - 100/PP</p><p>dimana :</p><p>PP dalam cm</p><p></p><p>Diketahui</p><p>PP = 40 cm</p><p>Ditanya</p><p>Kekuatan lensa kacamata yg diperlykan</p><p>Penyelesaian</p><p>P = 4 - 100/PP</p><p>   = 4 - 100/40</p><p>   = 4 - 2,5</p><p>   = 1,5 dioptri</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "gelombang-mekanik-adalah-a-getaran-yang-merambat-melalui-med-233",
+            "question": "Gelombang mekanik adalah ...    A. getaran yang merambat melalui medium tanpa diikuti perambatan medium itu sendiri\r\nB. bentuk lengkungan yang berupa lembah dan bukit\r\nC. bentuk lintasan rapatan dan\r\nregangan\r\nD. gelombang yang tidak memerlukan medium dalam\r\nperambatannya\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>a.getaran yang merambat melalui medium tanpa diikuti perlambatan medium itu sendiri</p><p><strong>Penjelasan:</strong></p><p>Gelombang mekanik adalah sebuah gelombang yang dalam perambatannya memerlukan medium, yang menyalurkan energi untuk keperluan proses penjalaran sebuah gelombang. </p><p></p><p>semoga bermanfaat</p>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

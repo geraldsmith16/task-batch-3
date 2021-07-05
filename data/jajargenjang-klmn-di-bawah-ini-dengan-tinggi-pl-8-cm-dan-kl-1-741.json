@@ -1,0 +1,160 @@
+{
+    "question": "Jajargenjang KLMN di bawah ini dengan tinggi PL = 8 cm dan KL = 15 cm. Jika panjang ML = 10 cm, maka tinggi QL = \u2026 cm\u200b",
+    "attachments": [
+        "question-attachments/jajargenjang-klmn-di-bawah-ini-dengan-tinggi-pl-8-cm-dan-kl-1-741-1.jpg"
+    ],
+    "answers": [
+        {
+            "answer": "<p><strong>Jawab:</strong></p><p><strong>LQ=12</strong></p><p><strong>Penjelasan:</strong></p><p>Karena KLMN adalah jajargenjang maka</p><p>\u2220LKQ = \u2220LMP.</p><p>Berdasarkan gambar,</p><p>\u2220LQK = \u2220LPM. </p><p>Berdasarkan dua fakta diatas bisa disimpulkan bahwa </p><p>segitiga LQK sebangun dengan segitiga LPM dengan kesebangunan Sd-Sd.</p><p>Jadi,</p><p> [tex]\\frac{LQ}{LP}=\\frac{LK}{LM}[/tex]</p><p>\u21d2[tex]\\frac{LQ}{8} =\\frac{15}{10}[/tex]</p><p>\u21d2 [tex]LQ=12[/tex]</p>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "tentukan-luas-segitiga-abc-sudut-a30-sudut-c45-a5cm-424",
+            "question": "Tentukan Luas Segitiga ABC\r\nSUDUT A=30\u00b0 SUDUT C=45\u00b0 A=5cm\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>jadi luas segitiga ABC adalah 18cm</p><p>semoga membantu:)</p>",
+                    "attachments": [
+                        "answer-attachments/tentukan-luas-segitiga-abc-sudut-a30-sudut-c45-a5cm-424-1.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-harga-1-kg-mangga-2-kg-salak-dan-3-kg-kelengkeng-adala-341",
+            "question": "Diketahui harga 1 kg mangga, 2 kg salak dan 3 kg kelengkeng adalah Rp105.000. Harga 4    kg mangga, 1 kg salak dan 2 kg kelengkeng adalah Rp126.000. Harga 3 kg mangga, 3 kg\r\n salak dan 1 kg kelengkeng adalah Rp111.000. Dengan eliminasi Gauss-Jordan, tentukan\r\n harga per kg masing-masing buah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawab:</strong></p><p>Diketahui:</p><p>Misalkan mangga=x , salak=y, dan kelengkeng = z</p><p>x+2y+3z = 105.000</p><p>4x+y+2z=126.000</p><p>3x+3y+z=111.000</p><p>DItanyakan : Berapa harga per kg masing-masing buah menggunakan eliminasi gauss jordan ?</p><p>Jawab</p><p>[tex]\\left[\\begin{array}{ccc}1&amp;2&amp;3\\\\4&amp;1&amp;2\\\\3&amp;3&amp;1\\end{array}\\right] \\left[\\begin{array}{ccc}105.000\\\\126000\\\\111.000\\end{array}\\right][/tex]</p><p>\u2193b2-4b1, b3-3b1 \u00a0 \u00a0catatan=(b=baris ke)</p><p>[tex]\\left[\\begin{array}{ccc}1&amp;2&amp;3\\\\0&amp;-7&amp;-10\\\\0&amp;-3&amp;-8\\end{array}\\right] \\left[\\begin{array}{ccc}105.000\\\\-294.000\\\\-204.000\\end{array}\\right][/tex]</p><p>\u2193b2-2b3</p><p>[tex]\\left[\\begin{array}{ccc}1&amp;2&amp;3\\\\0&amp;1&amp;6\\\\0&amp;-3&amp;-8\\end{array}\\right] \\left[\\begin{array}{ccc}105.000\\\\114.000\\\\-204.000\\end{array}\\right][/tex]</p><p>\u2193b3+3b2, b1-2b2</p><p>[tex]\\left[\\begin{array}{ccc}1&amp;0&amp;-9\\\\0&amp;1&amp;6\\\\0&amp;0&amp;10\\end{array}\\right] \\left[\\begin{array}{ccc}-123.000\\\\114.000\\\\138.000\\end{array}\\right][/tex]</p><p>\u2193b3+b1</p><p>[tex]\\left[\\begin{array}{ccc}1&amp;0&amp;-9\\\\0&amp;1&amp;6\\\\0&amp;0&amp;1\\end{array}\\right] \\left[\\begin{array}{ccc}-123.000\\\\114.000\\\\15.000\\end{array}\\right][/tex]</p><p>\u2193b2-6b3, b1+9b3</p><p>[tex]\\left[\\begin{array}{ccc}1&amp;0&amp;0\\\\0&amp;1&amp;0\\\\0&amp;0&amp;1\\end{array}\\right] \\left[\\begin{array}{ccc}12.000\\\\24.000\\\\15.000\\end{array}\\right][/tex]</p><p>Jadi Harga masing-masing buah adalah</p><p>1 kg mangga = Rp12.000</p><p>1 kg salak = 24.000</p><p>1 kg kelengkeng=15.000</p><p></p><p></p><p></p><p></p><p></p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-a3-4-1-dan-b-2-5-3-maka-a-b-adalah-767",
+            "question": "Jika a=(3 4 -1) dan b=(-2 5 -3) maka |a. b| adalah \u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawab:</strong></p><p>5\u221a89</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>a.b = (3,4,-1) . (-2,5,-3)</p><p>a.b = (3.-2, 4.5, -1.-3)</p><p>a.b = (-6, 20, -3)</p><p></p><p>la.bl = \u221a(-6)^2+20^2+(-3)^2</p><p>la.bl = \u221a36 + 400 + 9</p><p>la.bl = \u221a445</p><p>la.bl = 5\u221a89</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diberikan-a7i8j-dan-p1-2-jika-pq-a-dan-pq-berlawa-240",
+            "question": "Diberikan a=7i+8j dan P(1, -2). Jika | PQ |= | a | dan PQ berlawanan arah dengan a, maka vector posisi Q adalah \u2026    a. 6 10 \r\n b. -6 -10 \r\n c. 6 -10 \r\n d. 10 6 \r\n e. 10 -6",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>semoga membantu</p><p></p><p>maaf kalo salah</p><p></p>",
+                    "attachments": [
+                        "answer-attachments/diberikan-a7i8j-dan-p1-2-jika-pq-a-dan-pq-berlawa-240-1.jpg"
+                    ]
+                },
+                {
+                    "answer": "<p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>ini untuk caranya ya</p><p></p>",
+                    "attachments": [
+                        "answer-attachments/diberikan-a7i8j-dan-p1-2-jika-pq-a-dan-pq-berlawa-240-1.jpeg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "harga-beli-rp20000-harga-jual-rp26000-untung-nya-adalah-138",
+            "question": "Harga beli rp20.000 harga jual rp26.000 untung nya adalah....%",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>6000/20.000. \u00d7 100% </p><p>= 30%</p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<p>Jadi, Persentase keuntungan nya adalah <strong>3</strong><strong>0</strong><strong>%</strong></p>",
+                    "attachments": [
+                        "answer-attachments/harga-beli-rp20000-harga-jual-rp26000-untung-nya-adalah-138-1.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "kak-bantu-jawab-ini-dong-775",
+            "question": "Kak bantu jawab ini dong\u200b",
+            "attachments": [
+                "question-attachments/kak-bantu-jawab-ini-dong-775-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawab:</strong></p><p></p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p></p>",
+                    "attachments": [
+                        "answer-attachments/kak-bantu-jawab-ini-dong-775-1.jpg"
+                    ]
+                },
+                {
+                    "answer": "<p>jawab ny pakai gambar aja ya, jadi hasilnya - 2x + 8y</p>",
+                    "attachments": [
+                        "answer-attachments/kak-bantu-jawab-ini-dong-775-1.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "lim-x-gt2-2x-1-1052x-5x-tolong-bantu-kak-620",
+            "question": "Lim x-&gt;2 (2x + 1 + 10\u221a5/2x + 5x)\r\n\r\n Tolong bantu kak",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>\u2014</strong><strong> </strong><strong>Jawaban</strong><strong> </strong><strong>sudah</strong><strong> terlampir</strong><strong>.</strong></p>",
+                    "attachments": [
+                        "answer-attachments/lim-x-gt2-2x-1-1052x-5x-tolong-bantu-kak-620-1.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "tolong-bantu-kak-lumayan-kak-pointnya-pake-cara-kak-makasih-ka-614",
+            "question": "Tolong bantu kak, lumayan kak pointnya, pake cara kak, makasih kak",
+            "attachments": [
+                "question-attachments/tolong-bantu-kak-lumayan-kak-pointnya-pake-cara-kak-makasih-ka-614-1.png"
+            ],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>saya cuma bisa yang b yang a hrus diagsonal yang lain</p><p>b:59</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>maaf kalo salah</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jawab-dengan-benar-20-poin-menanti-dan-aku-folow-260",
+            "question": "Jawab dengan benar\u2611\r\n20 Poin menanti dan Aku folow\u200b",
+            "attachments": [
+                "question-attachments/jawab-dengan-benar-20-poin-menanti-dan-aku-folow-260-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>1.b.centimeter</p><p>2.b.100</p><p>3.a.15000dm+1000dm</p><p>4.b.200</p><p>5.a.7</p><p>6.c.gram</p><p>7.100g</p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>1.b</p><p>2.b</p><p>3.a</p><p>4.d</p><p>5.a</p><p>6.c</p><p>7.c.</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>jadikan jawaban yang terbaik</p><p></p><p>maaf kalau salah</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-keliling-segitiga-sama-kaki-56-cm-jika-panjang-sisi-sam-632",
+            "question": "diketahui keliling segitiga sama kaki 56 cm jika panjang sisi sama kakinya 17 cm maka panjang sisi yang lain adalah\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban: 22</strong></p><p>Cara:</p><p>[tex]2*(sisi sama kaki)+(sisiyanglain)=56[/tex]</p><p>\u21d2[tex]2*17+(sisiyang lain)=56[/tex]</p><p>\u21d2[tex](sisiyanglain)=22[/tex]</p><p></p>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

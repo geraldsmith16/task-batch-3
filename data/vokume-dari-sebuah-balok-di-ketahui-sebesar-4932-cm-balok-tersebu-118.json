@@ -1,0 +1,136 @@
+{
+    "question": "vokume dari sebuah balok di ketahui sebesar 4932 cm balok tersebut di potong menjadi 2 bagian yang sama besar maka volume potongan balok tersebut adalah",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "<p><strong>Jawaban:</strong></p><p>2196cm</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>tinggal dibagi saja</p><p>4932 :2</p><p>=2196 cm</p>",
+            "attachments": []
+        },
+        {
+            "answer": "<p>volume balok = 4932 cm\u00b3</p><p></p><p>balok dipotong menjadi 2 bagian sama besar , maka volume potongan balok :</p><p></p><p>= 4932/2</p><p><strong>= 2466 cm\u00b3</strong></p><p></p>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "diketahui-harga-1-kg-mangga-2-kg-salak-dan-3-kg-kelengkeng-adala-341",
+            "question": "Diketahui harga 1 kg mangga, 2 kg salak dan 3 kg kelengkeng adalah Rp105.000. Harga 4    kg mangga, 1 kg salak dan 2 kg kelengkeng adalah Rp126.000. Harga 3 kg mangga, 3 kg\r\n salak dan 1 kg kelengkeng adalah Rp111.000. Dengan eliminasi Gauss-Jordan, tentukan\r\n harga per kg masing-masing buah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawab:</strong></p><p>Diketahui:</p><p>Misalkan mangga=x , salak=y, dan kelengkeng = z</p><p>x+2y+3z = 105.000</p><p>4x+y+2z=126.000</p><p>3x+3y+z=111.000</p><p>DItanyakan : Berapa harga per kg masing-masing buah menggunakan eliminasi gauss jordan ?</p><p>Jawab</p><p>[tex]\\left[\\begin{array}{ccc}1&amp;2&amp;3\\\\4&amp;1&amp;2\\\\3&amp;3&amp;1\\end{array}\\right] \\left[\\begin{array}{ccc}105.000\\\\126000\\\\111.000\\end{array}\\right][/tex]</p><p>\u2193b2-4b1, b3-3b1 \u00a0 \u00a0catatan=(b=baris ke)</p><p>[tex]\\left[\\begin{array}{ccc}1&amp;2&amp;3\\\\0&amp;-7&amp;-10\\\\0&amp;-3&amp;-8\\end{array}\\right] \\left[\\begin{array}{ccc}105.000\\\\-294.000\\\\-204.000\\end{array}\\right][/tex]</p><p>\u2193b2-2b3</p><p>[tex]\\left[\\begin{array}{ccc}1&amp;2&amp;3\\\\0&amp;1&amp;6\\\\0&amp;-3&amp;-8\\end{array}\\right] \\left[\\begin{array}{ccc}105.000\\\\114.000\\\\-204.000\\end{array}\\right][/tex]</p><p>\u2193b3+3b2, b1-2b2</p><p>[tex]\\left[\\begin{array}{ccc}1&amp;0&amp;-9\\\\0&amp;1&amp;6\\\\0&amp;0&amp;10\\end{array}\\right] \\left[\\begin{array}{ccc}-123.000\\\\114.000\\\\138.000\\end{array}\\right][/tex]</p><p>\u2193b3+b1</p><p>[tex]\\left[\\begin{array}{ccc}1&amp;0&amp;-9\\\\0&amp;1&amp;6\\\\0&amp;0&amp;1\\end{array}\\right] \\left[\\begin{array}{ccc}-123.000\\\\114.000\\\\15.000\\end{array}\\right][/tex]</p><p>\u2193b2-6b3, b1+9b3</p><p>[tex]\\left[\\begin{array}{ccc}1&amp;0&amp;0\\\\0&amp;1&amp;0\\\\0&amp;0&amp;1\\end{array}\\right] \\left[\\begin{array}{ccc}12.000\\\\24.000\\\\15.000\\end{array}\\right][/tex]</p><p>Jadi Harga masing-masing buah adalah</p><p>1 kg mangga = Rp12.000</p><p>1 kg salak = 24.000</p><p>1 kg kelengkeng=15.000</p><p></p><p></p><p></p><p></p><p></p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-dan-maka-nilai-dari-adalah-lengkap-dengan-cara-yaa-391",
+            "question": "Jika    \r\ndan \r\n\r\nmaka nilai dari \r\n\r\nadalah...\r\n(lengkap dengan cara yaa)\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "waduh otak ku mulai meledak<br>jangan dekat dekat aku nanti kena otak ku",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-hasil-dari-5-km-20-dam-2-suatu-bangun-datar-memiliki-6-si-509",
+            "question": "1. hasil dari 5 Km + 20 Dam =    2. suatu bangun datar memiliki 6 Sisi sama panjang dan 6 sudut sama besar nama bangun datar tersebut adalah ....\r\n\r\n\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>[tex]1. \\: 5.020 \\: dam[/tex]</p><p>2. Segi enam </p>",
+                    "attachments": [
+                        "answer-attachments/1-hasil-dari-5-km-20-dam-2-suatu-bangun-datar-memiliki-6-si-509-1.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "volume-balok-yg-memiliki-panjang-32-cm-lebar-8cm-dan-timggi-8cm-a-755",
+            "question": "Volume balok yg memiliki panjang 32 cm lebar 8cm dan timggi 8cm adalah\r\n Bantu ya kk",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<h3>Jawaban</h3><p></p><p><strong>1</strong><strong> </strong><strong>)</strong><strong> </strong>Volume Balok yang memiliki panjang 32 cm , pebar 8 cm , dan tinggi 8 cm adalah .....</p><p>________</p><p></p><p>A ) Volume Balok :</p><ul><li><strong>P</strong><strong>a</strong><strong>n</strong><strong>j</strong><strong>a</strong><strong>n</strong><strong>g</strong><strong> </strong><strong>\u00d7</strong><strong> </strong><strong>L</strong><strong>e</strong><strong>b</strong><strong>a</strong><strong>r</strong><strong> </strong><strong>\u00d7</strong><strong> </strong><strong>T</strong><strong>i</strong><strong>n</strong><strong>g</strong><strong>g</strong><strong>i</strong></li></ul><p></p><p>= 32 cm \u00d7 8 cm \u00d7 8 cm</p><p>= 32 cm \u00d7 64 cm2</p><p>= <strong>2</strong><strong>.</strong><strong>0</strong><strong>4</strong><strong>8</strong><strong> </strong><strong>c</strong><strong>m</strong><strong>3</strong></p><p></p><p>Jadi , volume dari balok tersebut adalah <strong>2</strong><strong>.</strong><strong>0</strong><strong>4</strong><strong>8</strong><strong> </strong><strong>c</strong><strong>m</strong><strong>3</strong></p><p>___________</p><p></p><h3>Detail Jawaban :</h3><ul><li>Mapel : Matematika</li><li>Kelas : 5 - 6</li><li>Tingkat : SD</li><li>Bab : Bangun Ruang</li></ul><p></p><p></p><p>[tex]\\sf\\blue{Semoga \\: Membantu :)}[/tex]</p><p></p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p><strong>Dikethui:</strong></p><p></p><p>panjang= 32 cm</p><p>lebar= 8 cm</p><p>tinggi= 8 cm</p><p></p><p><strong>Ditanya: Volume?</strong></p><p></p><p><strong>Penyelesaian:</strong></p><p></p><p>V= p\u00d7l\u00d7t</p><p></p><p>V= 32\u00d78\u00d78</p><p></p><p>V= 2.048 cm\u00b3</p><p></p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "ruangan-4012-dan-mau-dipasang-keramik-ukuran-4040berapa-kerami-818",
+            "question": "Ruangan 40*12 dan mau dipasang keramik ukuran 40*40,berapa keramik yg dibutuhkan?\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>ukuran ruangan = 40mx12m</p><p>luas ruangan      = 40x12</p><p>                           = 480 m2</p><p>                           = 480.000 cm2</p><p>ukuran keramik = 40x40 cm</p><p>luas keramik      = 1600 cm2</p><p>banyak keramik = <u>luas </u><u>ruangan</u></p><p>                              luas keramik</p><p>                          = <u>480.000 cm2</u></p><p>                             1600 cm2</p><p>                          = 300</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "8-ibu-sofiah-akan-membuka-usaha-minuman-es-pop-ice-untuk-memula-358",
+            "question": "8. Ibu Sofiah akan membuka usaha minuman es pop ice. Untuk memulainya, beliau    mengeluarkan modal Rp 100.000 untuk membeli pop ice sachet dan bahan-bahan lajanva.\r\nJika satu cup pop ice berhasil mendapat keuntungan Rp 500. Berapa gelas pop\r\nyang\r\nterjual agar nodal Bu Sofiah Kembali.....\r\nice\r\nharus\r\nO a 20 cup\r\nb. 200 cup\r\nc. 2000 cup\r\nO\r\nd. 100 cup\r\n0 e. 1000 cup\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>d 100 cup </p><p>maaf kalau salah</p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<p></p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>modal = 100.000</p><p>keuntungan = 500 / Pop Ice</p><p>100.000 : 500 = 200 cup (B) </p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "perhatikan-gambar-grafik-fungsi-kuadrat-di-samping-yang-titiknya-572",
+            "question": "Perhatikan gambar grafik fungsi kuadrat di samping yang titiknya 0,5 dan 2,9 grafik tersebut memotong sumbu x di.\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>gccgcgggggg di tahun ini</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "siapa-tau-mudah-mudahan-jadi-orang-pinter-amp-prestasi-166-2-550",
+            "question": "Siapa tau mudah mudahan jadi orang pinter &amp; prestasi!    1+6=6\r\n2+7=15\r\n3+8=26\r\n4+9=39\r\n5+10=....?\r\nberapakah hasil dari 5+10=....?\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p></p><p></p><p><strong>Berapakah</strong><strong> </strong><strong>h</strong><strong>asil</strong><strong> </strong><strong>dari</strong><strong> </strong><strong>5</strong><strong>+</strong><strong>1</strong><strong>0</strong><strong>=</strong><strong>.</strong><strong>.</strong><strong>.</strong><strong>.</strong><strong>?</strong></p><p></p><p><strong>Hasil</strong><strong> </strong><strong>dari</strong><strong> </strong><strong>5</strong><strong>+</strong><strong>1</strong><strong>0</strong><strong>=</strong><strong> </strong><strong>1</strong><strong>5</strong></p><p></p><p><strong>#</strong><strong>se</strong><strong>moga</strong><strong> terbantu</strong></p><p><strong>#</strong><strong>sorr</strong><strong>y</strong><strong> if</strong><strong> wrong</strong></p><p><strong>#</strong><strong>eager to learn</strong></p><p><strong>#</strong><strong>learn with brainly</strong></p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bangun-ruang-berbentuk-limas-dengan-tinggi-24-cm-dan-alas-berbent-102",
+            "question": "bangun ruang berbentuk limas dengan tinggi 24 cm dan alas berbentuk persegi panjang yang memiliki panjang 14 cm dan lebar 17 cm volume limas tersebut adalah\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p><strong>Dik </strong><strong>:</strong></p><p>p.alas limas = 14 cm</p><p>l.alas limas = 17 cm</p><p>t.limas = 24 cm</p><p></p><p><strong>Dit </strong><strong>:</strong></p><p>V.Limas Persegi Panjang = ....</p><p></p><p><strong>Jawab </strong><strong>:</strong></p><p>V.Limas Persegi Panjang = \u2153 \u00d7 L.alas \u00d7 t = \u2153 \u00d7 14 \u00d7 17 \u00d7 24 = 14 \u00d7 17 \u00d7 8 = 1.904 cm\u00b3</p><p></p><p><strong>Jadi,</strong><strong> </strong><strong>volume</strong><strong> limasnya</strong><strong> adalah</strong><strong> </strong><strong>1</strong><strong>.</strong><strong>9</strong><strong>0</strong><strong>4</strong><strong> </strong><strong>cm\u00b3</strong></p><p></p><p><strong>Semoga</strong><strong> membantu</strong><strong> </strong><strong>:</strong></p><p><strong>Jangan</strong><strong> lupa</strong><strong> belajar</strong><strong> </strong><strong>^</strong><strong>-</strong><strong>^</strong></p><p></p><p><strong>Maaf </strong><strong>jawaban </strong><strong>yang </strong><strong>sebelumnya</strong><strong> </strong><strong>salah</strong></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pernyataan-berikut-ini-yang-salah-adalah-a-alas-dan-tutup-prisma-481",
+            "question": "Pernyataan berikut ini yang salah adalah    a alas dan tutup prisma bentuk dan ukurannya sama\r\n\r\nb banyak sisi tegak prisma sama dengan jumlah segi pada alas\r\n\r\nc luas permukaan prisma sama dengan dua kali luas alas tambah jumlah luar sisi tegak \r\n\r\nd volume prisma sama dengan luas alas prisma\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>D. volume prisma sama dengan luas alas prisma</p>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,140 @@
+{
+    "question": "Bantu jawab pleaseee\u200b",
+    "attachments": [
+        "question-attachments/bantu-jawab-pleaseee-523-1.jpg"
+    ],
+    "answers": [
+        {
+            "answer": "<p><strong>Jawaban:</strong></p><p>HCl diletakkan di dalam erlenmeyer, sedangkan NaOH diletakkan di dalam biuret.</p>",
+            "attachments": [
+                "answer-attachments/bantu-jawab-pleaseee-523-1.jpg"
+            ]
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "jika-100-ml-larutan-h2so4-01ml-di-campur-dengan-300mllarutang-as-648",
+            "question": "jika 100 ml larutan H2SO4 0,1ml di campur dengan 300mllarutang asam asetat 0,1 m maka oh campuran larutan tersebut adalah ...\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p> </p><p></p><p> </p><p>Untuk menentukan pH, maka di gunakan 2 cara yakni :</p><p></p><p>Cara lengkap dan tidak langsung yang terdiri atas perhitungan mmol, pOH, reaksi kesetimbangan, dst </p><p>Cara tidak langsung tapi sempurna yang terdiri atas 2 perhitungan yakni : </p><p></p><p>mmol = (V1 \u00d7 M1) + (V2 \u00d7 M2) + (Vn \u00d7 Mn) / V1 + V2 + Vn </p><p>pH = -Log [H+]</p><p>[H+] = a \u00d7 Ma </p><p></p><p>Jawab : </p><p></p><p></p><p>Cara 1 : </p><p></p><p>Step 1 : </p><p></p><p>Hitung nilai mmol nya beserta konversikan nilai hasil mmol ke mol : </p><p></p><p>mmol H2SO4 = 0,1 M \u00d7 100 mL = 10 mmol = 0,01 mol </p><p>mmol CH3COOH = 0,1 M \u00d7 300 mL = 30 mmol = 0,03 mol </p><p></p><p>Step 2 :</p><p></p><p>Reaksi kan : </p><p></p><p>   H2SO4 + CH3COOH \u2192 CH3COOH2 + HSO4</p><p> </p><p>M :   0,01         0,03                  - .                   - </p><p>R. :  -0,01        -0,01.            +0,02.            +0,02 </p><p>S. :.     -.            0,02.             +0,02.            +0,02 </p><p></p><p>Step 3 : </p><p></p><p>Nah dikarenakan pada reaksi kesetimbangan itu menyisakan asam lemah di sebelah pereaksi (kanan), maka perhitungan pH di dasarkan pada asam lemah tersebut : </p><p></p><p>Rumus : </p><p></p><p>= Sisa mol / v. total </p><p>= 0,02 mol / 0,4 L </p><p>= 0,025 M </p><p></p><p>[H+] = 0,005 M \u00d7 2 </p><p>       = 0,01 M </p><p></p><p>pH = 2-Log 1 </p><p></p><p></p><p></p><p>Cara 2 : </p><p></p><p>mol = (100 mL \u00d7 0,1 M) + (300 mL \u00d7 0,1 M) / (400 mL ) </p><p>mol = (10 mmol) + (30 mmol) / 400 mL </p><p>mol = (40 mmol) / 400 mL </p><p>mol = 0,1 mol </p><p></p><p>pH = 1-Log 1</p><p></p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bila-di-ukur-pada-sushu-dan-tekanan-yang-sama-maka-perbandingan-787",
+            "question": "Bila di ukur pada sushu dan tekanan yang sama, maka perbandingan volume gas N2 : O2 : NO yaitu\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>1 : 1 : 2</p><p><strong>Penjelasan:</strong></p><p>Persamaan reaksi:</p><p>N2 + O2 =&gt; 2 NO</p><p></p><p>Perbandingan koefisien ~ perbandingan volume</p><p></p><p>N2 : O2 : NO = 1 : 1 : 2</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "larutan-hf-memiliki-ph-4-jika-harga-ka-hf-2-x-108-maka-mo-326",
+            "question": "Larutan HF memiliki pH = 4. Jika harga Ka HF = 2 x 10\u2078, maka molaritas    larutan HF tersebut adalah...\r\n\r\nA. 0,5 M\r\n\r\nB. 5 M\r\n\r\nC. 0,4 M \r\n\r\nD. 4 M\r\n\r\nE. 0,3 M\r\nberi penjelasan\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>A. 0,5 M</p><p><strong>Penjelasan:</strong></p><p>pH= 4 =&gt; [H+] = 10^-4 M</p><p></p><p>[H+] = \u221a( Ka . Ma )</p><p>10^-4 = \u221a( 2x10^-8 . Ma )</p><p>Ma = 0,5 M</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "di-antara-senyawa-senyawa-berikut-yang-termasuk-ke-dalam-golongan-750",
+            "question": "Di antara senyawa-senyawa berikut yang termasuk ke dalam golongan hidrokarbon adala    A. Air\r\nB. Alkohol\r\nC. Cuka\r\nD. Elpiji\r\nE. Urea\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>D. Elpiji</p><p><strong>Penjelasan:</strong></p><p>Gas elpigi campuran gas propana + butana</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apah-jawabanyaa-pleas-538",
+            "question": "Apah jawabanyaa pleas\u200b",
+            "attachments": [
+                "question-attachments/apah-jawabanyaa-pleas-538-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>Alkana: CnH2n+2</p><p>Alkena: CnH2n</p><p>Alkuna: CnH2n-2</p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<p><u>SENYAWA HIDROKARBON</u></p><p><strong>1. Alkana</strong></p><p>Alkana merupakan senyawa hidrokarbon yang memiliki <strong>rangkap tunggal</strong> ( - ) dengan rumus <strong>C\u2099H\u2082\u2099\u208a\u2082</strong>. contoh: CH4, C2H6, C3H8, C4H10 dsb</p><p><strong>2. Alkena</strong></p><p>Alkena merupakan senyawa hidrokarbon yang memiliki <strong>rangkap dua</strong> ( = ) dengan rumus <strong>C\u2099H\u2082\u2099</strong>. contoh: C2H4, C3H6, dsb</p><p><strong>3. Alkuna</strong></p><p>Alkuna merupakan senyawa hidrokarbon yang memiliki <strong>rangkap tiga</strong> ( \u2261 ) dengan rumus <strong>C\u2099H\u2082\u2099\u208b\u2082</strong>. contoh: C2H2, C3H4, C4H6, dsb</p><p></p><p>semoga membantu</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "mohon-bantuan-nya-kaknanti-mlm-dikumpulin-883",
+            "question": "Mohon bantuan nya kak,nanti mlm dikumpulin\u200b",
+            "attachments": [
+                "question-attachments/mohon-bantuan-nya-kaknanti-mlm-dikumpulin-883-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>Tertera di penjelasan</p><p><strong>Penjelasan:</strong></p><p>*H2SO4</p><p>Biloks H + Biloks S + Biloks O = 0</p><p>( +1 x 2 ) + Biloks S + ( -2 x 4 ) = 0</p><p>Biloks S = +6</p><p></p><p>*NO3^-</p><p>Biloks N + Biloks O = -1</p><p>Biloks N + ( -2 x 3 ) = -1</p><p>Biloks N = +5</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-dijawab-yang-benar-kalo-gk-tau-g-usah-dijawab-678",
+            "question": "Tolong dijawab yang benar...\r\n Kalo gk tau g usah dijawab!!...",
+            "attachments": [
+                "question-attachments/tolong-dijawab-yang-benar-kalo-gk-tau-g-usah-dijawab-678-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>  </p><p>1. karbon dioksida: pemanasan global</p><p>karbon monoksida: sesak napas</p><p>oksida belerang : hujan asam</p><p>partikel timah hitam : kerusakan otak</p><p></p><p>2. Hujan asam sendiri merupakan istilah untuk segala bentuk presipitasi atau pengendapan dengan komponen berupa asam seperti asam sulfat (nitrat), yang jatuh ke tanah dari atmosfer dalam bentuk basah ataupun kering</p><p></p><p>3. Hujan asam disebabkan oleh belerang (sulfur) yang merupakan pengotor dalam bahan bakar fosil serta nitrogen di udara yang bereaksi dengan oksigen membentuk sulfur dioksida dan nitrogen oksida</p><p></p><p>4. karena adanya angin yang menghembus sehingga awan yang mengandung cairan zat dari daerah industri akan terdorong jauh. dan demikian terjadinya hujan asam didaerah tersebut. pada dasarnya awan bersifat ringan maka oleh itu awan bisa didorong oleh angin</p><p></p><p>5. a.Hujan asam dengan kadar keasaman tinggi dapat menyebabkan gangguan pernapasan pada manusia. </p><p>b. Menyebabkan korosi dan merusak bangunan. </p><p>c. Tumbuhan menjadi layu, kering dan mati.</p><p>d. Merusak ekosistem perairan.</p><p></p><p>6. langkah terpenting yaitu dengan mengatur emisi yang berasal dari kendaraan dan bangunan. Hal ini dapat dilakukan dengan membatasi penggunaan bahan bakar fosil dan berfokus pada sumber energi yang lebih berkelanjutan seperti tenaga surya dan angin.</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-fx2x-3x5-nilai-f-11-248",
+            "question": "Jika f(x)=2x-3/x+5 nilai f^-1(1)=\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>f(1)^-1 = 8</p><p><strong>Penjelasan:</strong></p><p>f(x) = 2x - 3/ x + 5</p><p>      = 5x + 3 / -x + 2x</p><p>f(x)^-1 = 5x +3 / x </p><p>f(1)^-1  = 5(1) + 3 / (1)</p><p>          = 8 / 1</p><p>          = 8 </p><p></p><p></p><p>f(x) = ax + b / cx + d </p><p>f(x)^-1 = dx - b / -cx + a</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-fxx2-6x-7-maka-nilai-f-19-130",
+            "question": "Jika f(x)=x^2-6x-7 maka nilai f^-1(9)=\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>90</p><p><strong>Penjelasan:</strong></p><p>supaya benar amin koloh salah enggak apa apa</p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>90...</p><p><strong>Penjelasan:</strong></p><p>ini susah amat...</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "umumnya-air-laut-memiliki-komposisi-553-cl-308-na-77-s-821",
+            "question": "umumnya air laut memiliki komposisi 55,3% cl- ; 30,8% na+; 7.7% so4\u00b2-; dan sisanya ion lainnya. tentukan jumlah partikel cl:; na', dan so,'- dalam 10 mol air laut.\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>Terlampir di penjelasan</p><p><strong>Penjelasan:</strong></p><p>Jumlah partikel Cl^- = 55,3% x 10 x 6,02x10^23 = 3,33x10^24 ion Cl^-</p><p></p><p>Jumlah partikel Na^+ = 30,8% x 10 x 6,02x10^23 = 1,85x10^24 ion Na^+</p><p></p><p>Jumlah partikel SO4^2- = 7,7% x 10 x 6,02x10^23 = 4,64x10^23 ion SO4^2-</p>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

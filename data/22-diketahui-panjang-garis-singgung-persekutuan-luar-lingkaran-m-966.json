@@ -1,0 +1,138 @@
+{
+    "question": "22. Diketahui panjang garis singgung persekutuan luar lingkaran M dan N adalah 40 cm. Jari-jari    lingkaran M dan N berturut-turut adalah 10 cm dan 19 cm. Jarak antara kedua pusat lingkaran\r\ntersebut adalah....\r\nA. 17 cm\r\nC. 40 cm\r\nB. 25 cm\r\nD. 41 cm\u200b",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "<p>l = 40 cm</p><p>M = 10 cm</p><p>N = 19 cm</p><p></p><p>p^2 = l^2 + (N - M)^2</p><p>p^2 = 40^2 + (19 - 10)^2</p><p>p^2 = 40^2 + 9^2</p><p>p^2 = 1600 + 81</p><p>p^2 = 1681</p><p>p = V1681</p><p>p = 41 cm (D)</p><p></p><p></p><p></p>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "seorang-petani-menanam-padi-di-lahan-yang-berbentuk-persegi-panja-891",
+            "question": "seorang petani menanam padi di lahan yang berbentuk persegi panjang dengan panjang 80 m dan lebar 35 m Berapakah luas kebun tersebut......?\u200b",
+            "attachments": [
+                "question-attachments/seorang-petani-menanam-padi-di-lahan-yang-berbentuk-persegi-panja-891-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>C. 2800 m\u00b2</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p><strong>diketahui</strong><strong>:</strong></p><p>p = 80 m</p><p>l = 35 m</p><p><strong>ditanya</strong><strong>:</strong><strong> </strong>luas kebun?</p><p><strong>jawab:</strong></p><p>L = p x l</p><p>   = 80 x 35 </p><p>   = 2800 m\u00b2</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-suku-pertama-barisan-geometri-sama-dengan-2-jika-suku-498",
+            "question": "Diketahui suku pertama barisan geometri sama dengan 2, jika suku kedua barisan tersebut adalah 6. Jumlah tujuh suku pertama adalah...    A. 9\r\n\r\nB. 27\r\n\r\nC. 81\r\n\r\nD. 243\r\n\r\n\u0395. 729\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p></p><p>\u0395. 729</p><p></p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p></p><p><strong>diketahui</strong></p><p>[tex]U1 = a \\:  = 2 \\\\U2 = ar \\:  = 6 \\\\  &lt;  =  &gt; 2r \\:  = 6 \\\\ r \\:  =  \\frac{6}{2}  \\\\  = 3[/tex]</p><p>S7</p><p>[tex] =  \\frac{a ({r}^{n - 1}) }{(r - 1)}  =  \\frac{2( {3}^{7 - 1} )}{3 - 1}  \\\\  =  \\frac{2 ({3}^{6}) }{2}  \\\\  =  {3}^{6}  \\\\  = 729[/tex]</p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-fx3x1x52x31-dan-gx3x8-4x25tentukan-296",
+            "question": "Diketahui f(x)3x\u00b9\u2070+x\u2075+2x\u00b3+1 dan g(x)=3x\u2078-4x\u00b2+5.tentukan nilai f(x)-g(x)\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>jawaban</strong><strong>:</strong></p><p>f (x) =g (x)</p><p>4x\u00b2 -2x+a =2x\u00b3 -5x\u00b2 -x+4</p><p>a=2x\u00b3-5x\u00b2-4x\u00b2-x+2x+4</p><p>a=2x\u00b3 -9x\u00b2 +x+4</p><p>x= -2 --&gt;a= 2 (-2)\u00b3-9(-2)\u00b2+(-2)+4</p><p>a=2(-8)-9(4)+2</p><p>a= -16 - 36+2</p><p>a= -50</p><p></p><p>dan rumus f(x)=4x\u00b2-2x+50</p><p>nilai f(-1)+4.g(3)=</p><p>=4(-1)\u00b2-2(-1)+50+4{2(3)\u00b3-5(3)\u00b2-3+4}</p><p>=4+2+50+4{54-45+1}</p><p>=56+4(10)</p><p>=96</p><p>=36</p><p></p><p>Maaf kalau salah:)</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-luas-permukaan-suatu-kubus-adalah-1360-cm-persegi-berap-327",
+            "question": "Diketahui luas permukaan suatu kubus adalah 1360 cm persegi Berapa panjang sisi kubus tersebut\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>Ini di soal luas permukaan 1360 cm\u00b2 atau 1350 cm\u00b2 ya, Kak?</p><p></p><p>Kalo luas permukaannya 1350 cm\u00b2, maka panjang rusuk kubus = 15 cm</p><p></p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>Kubus memiliki 6 sisi. </p><p>Luas permukaan kubus = 6 x L persegi </p><p>                              1350 = 6 x Luas persegi </p><p>                 Luas persegi = 1350 : 6 </p><p>                 Luas persegi = 225 </p><p></p><p>Luas persegi = rusuk2 </p><p>              225 = rusuk\u00b2 </p><p>           rusuk = \u221a225 </p><p>           rusuk = 15</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "8-jika-y-4x2-1-3x-2-maka-y-712",
+            "question": "8. Jika y = ( 4x2-1) (3x + 2), maka y' = ..",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>Ini maksudnya 4x kuadrat kali ya? kalo iya berarti</p><p>[tex]y = (4x^{2} -1)(3x+2)\\\\y = 12x^{3}  +8x^{2} -3x-2\\\\[/tex]</p><p>Ditanyanya turunan pertama, atau y&#039;,</p><p>Sesuai sifat turunan berarti:</p><p>[tex]36x^{2} +16x-3[/tex]</p><p></p><p>Semoga membantu</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-di-bantu-ya-teman-teman-389",
+            "question": "Tolong di bantu ya teman teman\r\n\u200b",
+            "attachments": [
+                "question-attachments/tolong-di-bantu-ya-teman-teman-389-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "<p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>jadikan jawaban tercerdas ya</p>",
+                    "attachments": [
+                        "answer-attachments/tolong-di-bantu-ya-teman-teman-389-1.jpg"
+                    ]
+                },
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>1. b &lt;</p><p>2.C 3/5</p><p>3.b 3/5</p><p>4.C 1 jam 45 menit</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "gambar-diatas-tidak-dikatakan-sebagai-balok-di-karenakan-a-ti-543",
+            "question": "Gambar diatas tidak dikatakan sebagai balok di karenakan...     A. tidak memiliki titik sudut\r\nB. rusuk pada balok tidak sejajar dengan titik sudut\r\nC. sisinya hanya berjumlah 7 buah\r\nD. sisi yang berhadapan sama besar\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>A.tdk memiliki titik sudut</p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>sepertinya jawabannya A</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>karena gak ada gambarnya </p><p>jadi gak jelas </p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "mira-mempunyai-uang-sebesar-rp25000000-uang-itu-ia-tabung-di-658",
+            "question": "Mira mempunyai uang sebesar Rp.2.500.00,00, uang itu ia tabung di Bank yang memberikan bunga tunggal 11% pertahun. Besar uang Mira setelah 2 tahun disimpan adalah...    help meee\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>Jawab:</p><p>Besar uang Mira setelah 2 tahun disimpan adalah Rp 3.050.000,00.</p><p>Penjelasan dengan langkah-langkah:</p><p>Untuk masalah ini, sebagai berikut :</p><p>Rp 2.500.000 + 22%</p><p>Rp 3.050.000,00</p><p>Semoga bisa membantu </p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "12-diketahui-panjang-garis-singgung-persekutuan-luar-lingkaran-2-887",
+            "question": "12. Diketahui panjang garis singgung persekutuan luar lingkaran 24 cm dan jarak kedua titik    pusatnya 25 cm. Jika salah satu jari-jari lingkaran adalah 10 cm, maka panjang jari-jari\r\nlingkaran lainnya adalah ... cm\r\nA. 2\r\nB. 3\r\nC. 7\r\nD. 16\r\n\r\n\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p><strong>C. </strong><strong>7</strong></p><p><em>semoga </em><em>membantu </em><em>ya </em></p><p><em>jadikan </em><em>jawaban </em><em>yang </em><em>terbaik</em></p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-ini-berapa-ya-323",
+            "question": "Tolong ini berapa ya? \u200b",
+            "attachments": [
+                "question-attachments/tolong-ini-berapa-ya-323-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>sekitar 10 bulan an </p><p></p><p>semoga membantu </p>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

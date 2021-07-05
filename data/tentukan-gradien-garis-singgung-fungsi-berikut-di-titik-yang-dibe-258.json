@@ -1,0 +1,144 @@
+{
+    "question": "Tentukan gradien garis singgung fungsi berikut di titik yang diberikan    a. f(x)=4x, di x=2\r\n b. f(x)=x\u00b2-x, di x=1\r\n c. f(x)=3x\u00b2+2x-5, di x=3\u200b",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "<p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>gradian = m</p><p>gradian garis singgung di titik x = a adalah m = f&#039;(a)</p><p></p><p>a. f(x) = 4x</p><p>    f&#039;(x) = 4</p><p>    x = 2 , f&#039;(2) = 4</p><p>    maka gradiennya adalah 4</p><p>b. f(x) = x\u00b2 - x</p><p>    f&#039;(x)= 2x - 1</p><p>    x = 1, f&#039;(1) = 2.1 - 1 = 1</p><p>    maka gradiennya adalah 1</p><p>c. f(x) = 3x\u00b2 + 2x - 5</p><p>    f&#039;(x) = 6x + 2</p><p>    x = 3, f&#039;(3) = 6.3 + 2 =20</p><p>    maka gradiennya adalah 20</p>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "12-diketahui-panjang-garis-singgung-persekutuan-luar-lingkaran-2-887",
+            "question": "12. Diketahui panjang garis singgung persekutuan luar lingkaran 24 cm dan jarak kedua titik    pusatnya 25 cm. Jika salah satu jari-jari lingkaran adalah 10 cm, maka panjang jari-jari\r\nlingkaran lainnya adalah ... cm\r\nA. 2\r\nB. 3\r\nC. 7\r\nD. 16\r\n\r\n\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p><strong>C. </strong><strong>7</strong></p><p><em>semoga </em><em>membantu </em><em>ya </em></p><p><em>jadikan </em><em>jawaban </em><em>yang </em><em>terbaik</em></p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bola-bernomor-1-6diambil-2-bola-sekaligus-dengan-pengembalian-t-627",
+            "question": "bola bernomor 1-6,diambil 2 bola sekaligus dengan pengembalian .tentukan peluang munculnya bola bernomor keduanya genap caranya\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>Jawab:</p><p>\u00bd</p><p>Penjelasan dengan langkah-langkah:</p><p>Ruang sampel=6\u00d76=36</p><p>Titik sampel=18</p><p></p><p>Peluang=18/36=\u00bd</p><p></p><p>Jadi,peluang muncul nya bilangan genap adalah \u00bd</p><p></p><p>\u2193\u2193\u2193\u2193\u2193\u2193\u2193\u2193\u2193\u2193\u2193\u2193\u2193\u2193\u2193\u2193\u2193\u2193\u2193\u2193\u2193\u2193\u2193\u2193\u2193\u2193\u2193\u2193</p><p></p><p>Semoga membantu</p><p></p><p>Jadikan jawaban tercerdas thx!</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "2-hasil-acar-pangkat-dari-gllangan-v-64-adalah-615",
+            "question": "2\r\nHasil acar pangkat ?\r\ndari Gllangan v 64\r\nadalah\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>Hasil dari akar 64</p><p></p><p>Pembahasan</p><p>= \u221a64</p><p>= ( 8 x 8 ) atau 8\u00b2 = 64</p><p></p><p><em>Jadi, Hasil dari \u221a64 adalah 8.</em></p><p></p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suku-pertama-dari-barisan-4-1-6-11-a-5-b-4-c-3-d-1-835",
+            "question": "Suku pertama dari barisan: 4,-1, -6, -11, ...\r\nA. 5\r\nB. 4\r\nC. 3\r\nD.-1\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Penjelasan dengan langkah-langkah:</strong></p><p></p><p>              <u><strong>Rumus </strong><strong>Un</strong></u></p><p></p><p><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong>Un = a + ( n - 1) b</p><p>    </p><p>           * <strong>keterangan </strong></p><p><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong>Un = banyak suku ke-n</p><p>              <strong>a = Suku Awal </strong></p><p><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong>n = banyak suku </p><p>              b = beda </p><p></p><p>      ditanya <strong>Suku </strong><strong>Awal</strong><strong> </strong>( a)  </p><p></p><p>      <strong>4</strong><strong> </strong>, -1 , -6 , -11</p><p></p><p><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong>nilai a adalah 4 / B </p><p>         </p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jawab-dengan-benar-20-poin-menanti-dan-aku-folow-260",
+            "question": "Jawab dengan benar\u2611\r\n20 Poin menanti dan Aku folow\u200b",
+            "attachments": [
+                "question-attachments/jawab-dengan-benar-20-poin-menanti-dan-aku-folow-260-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>1.b.centimeter</p><p>2.b.100</p><p>3.a.15000dm+1000dm</p><p>4.b.200</p><p>5.a.7</p><p>6.c.gram</p><p>7.100g</p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>1.b</p><p>2.b</p><p>3.a</p><p>4.d</p><p>5.a</p><p>6.c</p><p>7.c.</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>jadikan jawaban yang terbaik</p><p></p><p>maaf kalau salah</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-koefisien-dari-persamaan-3x7y-12-129",
+            "question": "Tentukan Koefisien dari Persamaan\r\n3x+7y+ 12\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>3 dan 7</p><p>Karena koefisian adalah angka di depan huruf</p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "hasil-dari-45000m-km-548",
+            "question": "Hasil dari 45.000m =... Km\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Karena </strong><strong>1</strong><strong> </strong><strong>km </strong><strong>=</strong><strong> </strong><strong>1000</strong><strong>m</strong></p><p><strong>Jadi,</strong></p><p><strong>4</strong><strong>5</strong><strong>.</strong><strong>0</strong><strong>0</strong><strong>0</strong><strong> </strong><strong>m </strong><strong>=</strong><strong> </strong><strong>45.000 : 1.000</strong></p><p><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong>=</strong><strong> </strong><strong>45 km</strong></p><p><strong> </strong></p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>45 km</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>   </p><p>     = 45.000/1000</p><p>     = 45</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-bantu-ya-pleasee-469",
+            "question": "Tolong bantu ya pleasee",
+            "attachments": [
+                "question-attachments/tolong-bantu-ya-pleasee-469-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "<p>1. B</p><p>2. B</p><p>3. D</p><p>4. C</p><p>5. C</p><p>6. B</p><p>7. A</p><p></p><p>Trust me, itu bener semua</p>",
+                    "attachments": [
+                        "answer-attachments/tolong-bantu-ya-pleasee-469-1.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "tolong-jawab-plisas-kaka-baik-847",
+            "question": "Tolong jawab plisas Kaka baik\u200b",
+            "attachments": [
+                "question-attachments/tolong-jawab-plisas-kaka-baik-847-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>Hai, selamat Siang</p><p>Jangan lupa makan siang ^^</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>Jika aquarium berbentuk kubus maka</p><p>90 \u00d7 90 \u00d7 90 = 729000 cm\u00b3 = 729 liter</p><p>Untuk mengisi mencapai tinggi 90cm dengan debit 15liter / menit, maka</p><p>729 liter : 15liter = 48.6 menit dan jika dibulatkan menjadi 50 menit</p><p></p><p>jangan lupa tap love &amp; bintang 5 nya ya ^\u2022^</p><p></p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p><em>c</em><em>.</em><em>7</em><em>5</em><em> </em><em>m</em><em>e</em><em>n</em><em>i</em><em>t</em></p><p></p><p><em>m</em><em>a</em><em>a</em><em>f</em><em> </em><em>k</em><em>a</em><em>l</em><em>o</em><em>k</em><em> </em><em>s</em><em>a</em><em>l</em><em>a</em><em>h</em></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "panjang-vektor-q-3i-2j-4k-adalah-585",
+            "question": "Panjang vektor Q = 3i - 2J - 4K adalah\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawab:</strong></p><p>Akar 29</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p></p>",
+                    "attachments": [
+                        "answer-attachments/panjang-vektor-q-3i-2j-4k-adalah-585-1.png"
+                    ]
+                }
+            ]
+        }
+    ]
+}

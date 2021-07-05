@@ -1,0 +1,128 @@
+{
+    "question": "Berapakah banyaknya kalor yang diperluka untuk mengubah 4 gram es pada suhu 00C menjadi uap air pada suhu 1000C?(Kalor jenis air= 4200J/Kg0C, Kalor lebur es = 336J/gr, Kalor lebur uap = 2260 J/gr)\u2026    mohon bantuannya ka\u200b",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "<p>Kalor yg diperlukan untuk mengubah 4 gr es 0\u00b0C menjadi uap 100\u00b0C = 12 064 J</p><p><strong>Penjelasan:</strong></p><p>Dasar Teori</p><p>Kalor adalah Energi dalam bentuk panas</p><p>satuan : kalori , Joule</p><p>1 kalori = 4,2 Joule</p><p></p><p>Kalor Mengubah Suhu</p><p>(Saat perubahan suhu, wujud tetap)</p><p>Q = m c (Tt - To)</p><p></p><p>Kalor mengubah Wujud</p><p>(Saat perubahan wujud suhu tetap)</p><p>Q = m x L</p><p>L = Kalor laten</p><p></p><p>Diketahui</p><p>m = 4 gr</p><p>To=  0 \u00b0 C</p><p>Ta = 100\u00b0C</p><p>ca = 4,2 J/gr\u00b0C</p><p>ce = 2,1 J/gr\u00b0C</p><p>Llebur = 336 J/gr</p><p>Luap = 2260 J/gr</p><p>Ditanya</p><p>Q total mengubah es 0\u00b0C menjadi uap 100\u00b0C</p><p>Penyelesaian</p><p>Proses Es 0 \u00b0C berubah menjadi uap 100\u00b0C</p><p>1.Es 0 \u00b0C menjadi air 0\u00b0C</p><p>Q1 = m Llebur</p><p>     = 4 x 336</p><p>     =  1344 J</p><p></p><p>2.Air 0\u00b0C menjadi Air 100 \u00b0C</p><p>Q2 = m ca (Ta - To)</p><p>      = 4 x 4,2  ( 100 )</p><p>      = 1680 J</p><p></p><p>3.Air 100\u00b0 C menjadi Uap 100\u00b0C</p><p>Q3= m Luap</p><p>      = 4 x 2260</p><p>      = 9040 J</p><p></p><p>Qtot = Q1 + Q2 + Q3</p><p>        =  1344 + 1680 + 9040</p><p>        =  12 064 J</p><p>   </p>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "sebuah-mesin-kalor-menghasilkan-usaha-mekanik-2000-joule-dan-memb-731",
+            "question": "sebuah mesin kalor menghasilkan usaha mekanik 2000 Joule dan membuang 4100 Joule kalor pada setiap siklus Berapa banyak kalor yang harus diberikan ke mesin pada setiap siklus\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>Kalor yg diserap 6 100 J</p><p><strong>Penjelasan:</strong></p><p>Dasar Teori</p><p>MESIN CARNOT</p><p>Siklus mesin carnot terdiri atas</p><p>2 proses isotermis</p><p>2 proses adiabatis</p><p>Proses pertama  ekspansi isotermis pada suhu T1 (suhu reservoir tinggi). Mesin menyerap kalor Q1.</p><p>Proses kedua ekpansi adiabatis, tidak ada kalor yg keluar atau masuk sistem. Pada kedua proses tadi gas melakukan usaha ( W positif) yg ditandai dengan volume sistem bertambah atau ekspansi.</p><p>Proses ketiga kompresi isotermis pada suhu T2 (suhu reservoir rendah).</p><p>Proses keempat kompresi adiabatis dimana sistem kembali ke kondisi awal. Pada kedua pproses terakhir sistem dikenai kerja (W negatif) yg ditandai dengan berkurangnya volume sistem atau kompresi.</p><p>Pada siklus carnot ini perubahan energi dalam (\u0394U) sama dengan nol</p><p>Hubungan Usaha dan kalor dinyatakan dengan</p><p>Q1 = W + Q2</p><p>W = Q1 - Q2</p><p>Effisiensi mesin atau riil dinyatan dengan</p><p>\u03b7 mesin/rill = W/Q1 = (Q1 - Q2)/ Q1 = [ 1 - Q2/ Q1 ] 100%</p><p>Effisuensi maksimum dinyatakan dengan</p><p>\u03b7 maksimum = (T1 - T2)/ T1 = [1 - T2/T1] 100%</p><p>Keterangan\u03b7</p><p>Q1 = Kalor serap pada T1 ( J)</p><p>Q2 = Kalor buang pada T2 (J)</p><p>W = Usaha/Kerja mesin (J)</p><p>T1 = Suhu reservoir tinggi ( K)</p><p>T2 = Suhu reservoir rendah (K)</p><p></p><p>Diketahui</p><p>W = 2000 J</p><p>Q2 = 4100 J</p><p>Ditanya</p><p>Kalor yg diserap</p><p>Penyelesaian</p><p>Q1 = W + Q2</p><p>     = 2000 + 4100</p><p>     = 6 100 J</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-di-jawab-ka-plis-sama-penjelasan-nya-873",
+            "question": "Tolong di jawab ka plis sama penjelasan nya \u200b",
+            "attachments": [
+                "question-attachments/tolong-di-jawab-ka-plis-sama-penjelasan-nya-873-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>d.</p><p><strong>Penjelasan:</strong></p><p>karena itu jawabannya kak</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-muatan-listrik-6-c-dan-muatan-lainnya-8-c-ke-647",
+            "question": "Sebuah\u00a0 muatan listrik\u00a0 6 c\u00a0 /dan\u00a0 muatan\u00a0 lainnya\u00a0 8 c .keduanya\u00a0 berjarak\u00a0 0,5\u00a0 m.\u00a0 besar\u00a0 nilai k\u00a0 =\u00a0 9.109nm2./c2. maka\u00a0 kuat\u00a0 medan\u00a0 listrik\u00a0 nya bila terukur\u00a0 dari muatan\u00a0 pertama\u00a0 adalah\u00a0\u00a0\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>9.127,5</p><p><strong>Penjelasan:</strong></p><p>maaf kalau salah</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suatu-kumpulan-bakteri-diletakkan-3-cm-di-depan-lensa-sebuah-mikr-501",
+            "question": "Suatu kumpulan bakteri diletakkan 3 cm di depan lensa sebuah mikroskop. Jarak fokus lensa    objektif = 2.7 cm. Jika pengamatan tidak berakomodasi, jarak lensa objektif dan okuler adalah\r\n28 cm. Tentukanlah:\r\na. Jarak fokus lensa okuler! \r\nb. Berapa perbesaran total yang diperoleh? \u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>a. fok = 1 cm, mgkin ada salah data soal karena pada mikroskop berlaku fok &gt; fob</p><p>b.M total = 250 kali</p><p></p><p><strong>Penjelasan:</strong></p><p>Dasar teori</p><p>MIKROSKOP</p><p>Terdiri atas 2 lensa positif yaitu:</p><p>-Lensa objejtif : dekat dgn benda/objek</p><p>-Lensa Okuler : dekat dengan mata</p><p></p><p>Benda Sob di letakkan pada :</p><p>fob &lt; Sob &lt; 2 fob</p><p></p><p>Sifat bayangan lensa objektif</p><p>1.Nyata</p><p>2.Terbalik</p><p>3.Diperbesar</p><p></p><p>Bayangan lensa objektif menjadi benda untuk lensa okuler</p><p></p><p>Pengamatan dengan mata Berakomodasi maksimum</p><p>S&#039;ok = - Sn </p><p>Sn = Titik dekat mata</p><p>Mata normal Sn = 25 cm</p><p></p><p>Perbesaran mikroskop</p><p>M = |S&#039;ob/Sob| x |Sn/fok + 1|</p><p></p><p>Panjang Mikroskop (jarak lensa objektif dan lensa okuler):</p><p>d = S&#039;ob + Sok</p><p></p><p></p><p>Pengamatan dengan mata tanpa Akomodasi</p><p>S&#039;ok = di jauh tak hingga</p><p>Sok = fok</p><p></p><p>Perbesaran mikroskop</p><p>M = |S&#039;ob/Sob| x |Sn/fok|</p><p></p><p>Panjang Mikroskop (jarak lensa objektif dan lensa okuler):</p><p>d = S&#039;ob + fok</p><p></p><p>Berlaku rumus lensa :</p><p>1/fob = 1/Sob + 1/S&#039;ob</p><p>1/fok = 1/Sok + 1/S&#039;ok</p><p></p><p>dimana :</p><p>Sob = Jarak benda ke lensa objektif</p><p>S&#039;ob = Jarak bayangan lensa objektif</p><p>Sok = Jarak benda lensa okuler</p><p>S&#039;ok = Jarak bayangan lensa okuler ( bayangan akhir)</p><p>fob = Jarak fokus lensa objektif</p><p>fok = Jarak fokus lensa okuler</p><p></p><p>Diketahui</p><p>Sob = 3 cm</p><p>fob = 2,7 cm</p><p>d = 28 cm</p><p>Pengamatan tanpa akomodasi</p><p>Ditanya</p><p>a.Jarak fokus lensa okuler</p><p>b.Perbesaran total</p><p>Penyelesaian</p><p>a.Kita hitung dulu jarak bayangan objektif</p><p>1/fob = 1/Sob + 1/S&#039;ob</p><p>1/2,7 = 1/3 + 1/S&#039;ob</p><p>(10 - 9)/27 = 1/S&#039;ob</p><p>S&#039;ob = 27 cm</p><p>Panjang Mikroskop (Jarak lensa objektif dan okuler)</p><p>d = S&#039;ob + fok</p><p>28 = 27 + fok</p><p>fok = 1 cm</p><p></p><p>b.Perbesaran total</p><p>M = |S&#039;ob/Sob| x |Sn/fok|</p><p>    = |27/2,7| x |25/1|</p><p>    = 250 kali</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-hasil-konversi-dari-100-derjat-celcius-ke-derjat-reamur-adalah-694",
+            "question": "1. Hasil konversi dari 100 derjat Celcius ke derjat Reamur adalah.....    A 80\r\nB. 60\r\nC. 50\r\nD. 40\r\nE. 30\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>R=4/5C</p><p>= 4/5(100) </p><p>=<strong>8</strong><strong>0</strong><strong>\u00b0</strong><strong>R</strong></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-organ-makhluk-hidup-tersusun-oleh-sel-oleh-sebab-itu-sel-dise-741",
+            "question": "1. Organ makhluk hidup tersusun oleh sel, oleh sebab itu sel disebut sebagai unit    a. Fungsional\r\nc Uniseluler\r\nb. Struktur\r\nd. Multiseluler\r\n2 Sel pertama kall ditemukan oleh ....\r\nMax Shoultze\r\nc. Schleiden\r\nb. Schwann\r\nd. Robert Hooke\r\n3. Olot disebut sebagai alat gerak...\r\na Tulang\r\nc. Refleks\r\nb. Aktif\r\nd. Pasit\r\n4. Organ yang digunakan sebagai organ ekskresi adalah .....\r\na. Jantung\r\nc Ginjal\r\nb. Lambung\r\nd. Usus halus\r\n5. Batang tumbuhan dikotil dapat turnbuh besar karena aktifitas pembelahan sel dari jaringan\r\nmeristem sekunder yang terletak pada .....\r\na Kambium\r\nc Daun\r\nb. Akar\r\nd. Stele\r\n6. Sistem pernapasan tersusun dari....\r\na. Hidung, mulut, kerongkongan, bronkus dan paru-paru\r\nb. Hidung, tenggorokan, bronkus dan paru-paru\r\nc. Hidung, kerongkongan bronkus dan paru-paru\r\nd. Hidung, mulut, tenggorokan, bronkus dan paru-paru\r\n7. Hubungan timbal balik antara makhluk hidup dengan lingkungannya disebut ...\r\na. Populasi\r\nc. Ekosistem\r\nb. Komunitas\r\nd. Bloma\r\n8. Tanah, air, udara, cahaya matahari dan iklim merupakan bagian dari komponen ....\r\na Komunitas\r\nc. Biotik\r\nb. Terrestrial\r\nd. Abiotik\r\n9. Organisme yang dapat membuat makanan sendiri termasuk dalam golongan ....\r\na Produsen\r\nc. Pengurai\r\nb. Konsumen\r\nd. Distributor\r\n10. Organisme pemakan tumbuhan disebut juga sebagai ...\r\na. Omnivora\r\nc. Karnivora\r\nb. Herbivore\r\nd. Predator\r\n11. Seekor laba-laba didinding rumah disebut.\r\na Individu\r\nc Ekosistem\r\nb. Populasi\r\nd. Komunitas\r\n.\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>1.b.struktur</p><p>2.d.robert hooke</p><p>3.b.aktif</p><p>4.c.ginjal</p><p>5.a.kambium</p><p>6.c.hidung, kerongkongan, bronkus dan paru paru</p><p>7.c.ekosistem</p><p>8.d.abiotik</p><p>9.d.distributor</p><p>10.b.hebivore</p><p>11.a.individu</p><p><strong>Penjelasan:</strong></p><p>maaf kalau salah</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "usaha-ekonomi-ada-yg-dikelola-secara-perorangan-dan-ada-pula-dike-195",
+            "question": "usaha ekonomi ada yg dikelola secara perorangan dan ada pula dikelola secara berkelompok atau bersama.sebutkan empat bentuk usaha ekonomi yg dukelola secara berkelompok (bersama)!\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>the iziii mennnnnnnnnnnnnnn</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-bantu-jawab-ya-kak-620",
+            "question": "Tolong bantu jawab ya kak \u200b",
+            "attachments": [
+                "question-attachments/tolong-bantu-jawab-ya-kak-620-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p><strong><em>N</em></strong><strong><em>O</em></strong><strong><em>M</em></strong><strong><em>O</em></strong><strong><em>R</em></strong><strong><em> </em></strong><strong><em>1</em></strong><strong><em> </em></strong><strong><em>,</em></strong><strong><em>H</em></strong><strong><em>U</em></strong><strong><em>R</em></strong><strong><em>U</em></strong><strong><em>F</em></strong><strong><em> </em></strong><strong><em>X</em></strong><strong><em> </em></strong><strong><em>D</em></strong><strong><em>A</em></strong><strong><em>N</em></strong><strong><em> </em></strong><strong><em>Y</em></strong><strong><em> </em></strong><strong><em>D</em></strong><strong><em>I</em></strong><strong><em> </em></strong><strong><em>G</em></strong><strong><em>A</em></strong><strong><em>N</em></strong><strong><em>T</em></strong><strong><em>I</em></strong><strong><em> </em></strong><strong><em>D</em></strong><strong><em>G</em></strong><strong><em>N</em></strong><strong><em> </em></strong><strong><em>S</em></strong><strong><em>O</em></strong><strong><em>A</em></strong><strong><em>L</em></strong><strong><em> </em></strong><strong><em>M</em></strong><strong><em>U</em></strong><strong><em> </em></strong><strong><em>H</em></strong><strong><em>U</em></strong><strong><em>R</em></strong><strong><em>U</em></strong><strong><em>F</em></strong><strong><em> </em></strong><strong><em>A</em></strong><strong><em> </em></strong><strong><em>D</em></strong><strong><em>A</em></strong><strong><em>N</em></strong><strong><em>,</em></strong><strong><em>K</em></strong><strong><em>R</em></strong><strong><em>N</em></strong><strong><em> </em></strong><strong><em>S</em></strong><strong><em>M</em></strong><strong><em> </em></strong><strong><em>S</em></strong><strong><em>O</em></strong><strong><em>A</em></strong><strong><em>L</em></strong><strong><em>N</em></strong><strong><em>Y</em></strong><strong><em>A</em></strong><strong><em> </em></strong><strong><em>D</em></strong><strong><em>G</em></strong><strong><em>N</em></strong><strong><em> </em></strong><strong><em>P</em></strong><strong><em>U</em></strong><strong><em>N</em></strong><strong><em>Y</em></strong><strong><em>A</em></strong><strong><em> </em></strong><strong><em>S</em></strong><strong><em>A</em></strong><strong><em>Y</em></strong><strong><em>A</em></strong></p><p><strong><em>N</em></strong><strong><em>O</em></strong><strong><em>M</em></strong><strong><em>O</em></strong><strong><em>R</em></strong><strong><em> </em></strong><strong><em>2</em></strong><strong><em>.</em></strong></p><p><strong><em>D</em></strong><strong><em>I</em></strong><strong><em>K</em></strong><strong><em>E</em></strong><strong><em>T</em></strong><strong><em> </em></strong><strong><em>N</em></strong><strong><em> </em></strong><strong><em>=</em></strong><strong><em> </em></strong><strong><em>8</em></strong><strong><em>0</em></strong><strong><em> </em></strong><strong><em>K</em></strong><strong><em>A</em></strong><strong><em>L</em></strong><strong><em>I</em></strong></p><p><strong><em> </em></strong><strong><em> </em></strong><strong><em> </em></strong><strong><em> </em></strong><strong><em> </em></strong><strong><em> </em></strong><strong><em> </em></strong><strong><em> </em></strong><strong><em> </em></strong><strong><em> </em></strong><strong><em> </em></strong><strong><em>t</em></strong><strong><em> </em></strong><strong><em>=</em></strong><strong><em> </em></strong><strong><em>5</em></strong><strong><em> </em></strong><strong><em>D</em></strong><strong><em>E</em></strong><strong><em>T</em></strong><strong><em>I</em></strong><strong><em>K</em></strong></p><p><strong><em>D</em></strong><strong><em>I</em></strong><strong><em>T</em></strong><strong><em>A</em></strong><strong><em>N</em></strong><strong><em>Y</em></strong><strong><em>A</em></strong><strong><em> </em></strong><strong><em>:</em></strong><strong><em> </em></strong><strong><em>a</em></strong><strong><em>.</em></strong><strong><em> </em></strong><strong><em>F</em></strong><strong><em>R</em></strong><strong><em>E</em></strong><strong><em>K</em></strong><strong><em>U</em></strong><strong><em>E</em></strong><strong><em>N</em></strong><strong><em>S</em></strong><strong><em>I</em></strong></p><p><strong><em> </em></strong><strong><em> </em></strong><strong><em> </em></strong><strong><em> </em></strong><strong><em> </em></strong><strong><em> </em></strong><strong><em> </em></strong><strong><em> </em></strong><strong><em> </em></strong><strong><em> </em></strong><strong><em> </em></strong><strong><em> </em></strong><strong><em> </em></strong><strong><em> </em></strong><strong><em> </em></strong><strong><em> </em></strong><strong><em> </em></strong><strong><em> </em></strong><strong><em> </em></strong><strong><em>b</em></strong><strong><em> </em></strong><strong><em>.</em></strong><strong><em>P</em></strong><strong><em>E</em></strong><strong><em>R</em></strong><strong><em>I</em></strong><strong><em>O</em></strong><strong><em>D</em></strong><strong><em>E</em></strong></p><p><strong><em>D</em></strong><strong><em>I</em></strong><strong><em>J</em></strong><strong><em>A</em></strong><strong><em>W</em></strong><strong><em>A</em></strong><strong><em>B</em></strong><strong><em> </em></strong><strong><em>:</em></strong><strong><em> </em></strong></p><p><strong>Penjelasan:</strong></p><p>a. <strong><em>f</em></strong><strong><em> </em></strong><strong><em>=</em></strong><strong><em> </em></strong><strong><em>n</em></strong><strong><em> </em></strong><strong><em>/</em></strong><strong><em> </em></strong><strong><em>t</em></strong></p><p><strong><em> </em></strong><strong><em> </em></strong><strong><em> </em></strong><strong><em> </em></strong><strong><em> </em></strong><strong><em> </em></strong><strong><em>=</em></strong><strong><em> </em></strong><strong><em>8</em></strong><strong><em>0</em></strong><strong><em> </em></strong><strong><em>/</em></strong><strong><em> </em></strong><strong><em>5</em></strong></p><p><strong><em> </em></strong><strong><em> </em></strong><strong><em> </em></strong><strong><em> </em></strong><strong><em> </em></strong><strong><em>=</em></strong><strong><em> </em></strong><strong><em>1</em></strong><strong><em>6</em></strong><strong><em> </em></strong><strong><em>H</em></strong><strong><em>z</em></strong><strong><em>.</em></strong></p><p><strong><em>b</em></strong><strong><em>.</em></strong><strong><em> </em></strong><strong><em>T</em></strong><strong><em> </em></strong><strong><em>=</em></strong><strong><em> </em></strong><strong><em>t</em></strong><strong><em> </em></strong><strong><em>/</em></strong><strong><em> </em></strong><strong><em>n</em></strong></p><p><strong><em> </em></strong><strong><em> </em></strong><strong><em> </em></strong><strong><em> </em></strong><strong><em> </em></strong><strong><em> </em></strong><strong><em>=</em></strong><strong><em> </em></strong><strong><em>5</em></strong><strong><em> </em></strong><strong><em>/</em></strong><strong><em> </em></strong><strong><em>8</em></strong><strong><em>0</em></strong></p><p><strong><em> </em></strong><strong><em> </em></strong><strong><em> </em></strong><strong><em> </em></strong><strong><em> </em></strong><strong><em>=</em></strong><strong><em> </em></strong><strong><em>0</em></strong><strong><em>,</em></strong><strong><em>0</em></strong><strong><em>6</em></strong><strong><em>2</em></strong><strong><em>5</em></strong><strong><em> </em></strong><strong><em>d</em></strong><strong><em>e</em></strong><strong><em>t</em></strong><strong><em>i</em></strong><strong><em>k</em></strong></p>",
+                    "attachments": [
+                        "answer-attachments/tolong-bantu-jawab-ya-kak-620-1.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-bola-kasti-bermassa-80-gram-dilemparkan-ke-pemain-kemudian-966",
+            "question": "sebuah bola kasti bermassa 80 gram dilemparkan ke pemain kemudian dipukul sehingga bola meluncur dengan kelajuan 100 m/s. Bila lamanya pemukul menyentuh bola 0,02 detik maka besar gaya pemukul adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>jawabannya adalah tidak tahu </p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "perhatikan-gambar-berikut-jika-gaya-yang-digunakan-untuk-men-241",
+            "question": "Perhatikan gambar berikut!    \ufffc\r\n\r\nJika gaya yang digunakan untuk menarik benda yang massanya 20 kg adalah 40 N , maka percepatan yang dialami benda sebesar .\u00a0.\u00a0.\u00a0m/s\u00a02\u00a0.\r\n\r\nSEBUAH\r\n\r\n5\r\n\r\nB\r\n\r\n8\r\n\r\nC\r\n\r\n3\r\n\r\nD\r\n\r\n1\r\n\r\nE\r\n\r\n2\r\n\r\n\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>8</p><p><strong>Penjelasan:</strong></p><p>maaf kalo ada yang salah</p>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

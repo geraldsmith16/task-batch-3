@@ -1,0 +1,144 @@
+{
+    "question": "Hitunglah sigma 6 2 n^2 + n\u200b",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "<p><strong>Jawab:</strong></p><p>110</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p></p>",
+            "attachments": [
+                "answer-attachments/hitunglah-sigma-6-2-n2-n-981-1.png"
+            ]
+        },
+        {
+            "answer": "<p><strong>Jawaban:</strong></p><p>Kelas 12 Matematika</p><p>Bab Barisan dan Deret</p><p>Kata Kunci : Sigma</p><p></p><p>6</p><p>\u03a3(2n - 1) = (2 . 1 - 1) + (2 . 2 - 1) + (2 . 3 - 1) + (2 . 4 - 1) + (2 . 5 - 1) + (2 . 6 - 1)</p><p>n = 1</p><p></p><p>6</p><p>\u03a3 (2n - 1) = 1 + 3 + 5 + 7 + 9 + 11 = 25</p><p>n = 1</p><p></p>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "ruangan-2012-dan-mau-dipasang-keramik-ukuran-4040berapa-kerami-363",
+            "question": "Ruangan 20*12 dan mau dipasang keramik ukuran 40*40,berapa keramik yg dibutuhkan?\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>luas ruangan = 20 x 12 = 240m\u00b2</p><p>luas keramik = 40 x 40 = 1600cm\u00b2 = 16m\u00b2</p><p>240: 16 = 15 keramik yang di butuhkan</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tlong-kak-jwb-inisoal-nya-penting-519",
+            "question": "Tlong kak jwb ini,soal nya penting\u200b",
+            "attachments": [
+                "question-attachments/tlong-kak-jwb-inisoal-nya-penting-519-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>gambarnya mana kakkkkk</p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jarak-titik-pusat-lingkaran-a-dan-b-adalah-13-cm-jari-jari-lingk-993",
+            "question": "Jarak titik pusat lingkaran A dan B    adalah 13 cm. Jari-jari lingkaran A dan\r\njari-jari lingkaran B berturut-turut 20 cm\r\ndan 8 cm. Panjang garis singgung\r\npersekutuan luar kedua lingkaran\r\nadalah...\r\nA.5 cm\r\nB.10 cm\r\nC.14 cm\r\nD.16 cm\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>A. 5 cm</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p><strong>d</strong><strong>iketahui</strong><strong> </strong><strong>:</strong> Jarak (j)      \u2192 13cm</p><p>                    jari-jari 1 (R)\u2192 20cm</p><p>                    jari jari 2 (r)\u2192 8cm</p><p></p><p><strong>ditanya</strong><strong> </strong><strong>:</strong><strong> </strong>Panjang garis singgung     </p><p>                persekutuan luar (pgl)</p><p></p><p><strong>jawab</strong><strong> </strong><strong>:</strong><strong> </strong>pgl\u00b2=J\u00b2-(R-r)\u00b2</p><p>             pgl\u00b2=13\u00b2-(20-8)\u00b2</p><p>             pgl\u00b2=13\u00b2-12\u00b2</p><p>             pgl\u00b2=169-144</p><p>             pgl\u00b2=25</p><p>             pgl=\u221a25</p><p>             pgl=5cm</p><p></p><p><strong>jadi</strong><strong>,</strong>panjang garis singgung persekutuan luar kedua lingkaran adalah <strong>5cm</strong><strong>.</strong></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-turunan-dari-fungsi-berikut-fx-sama-dengan-3x-pangkat-397",
+            "question": "tentukan turunan dari fungsi berikut f(x) sama dengan 3x pangkat 3 dikurang 3x pangkat 2 ditambah 3???\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p></p><p>[tex]f(x) = 3 {x}^{3}  - 3 {x}^{2}  + 3[/tex]</p><p></p><p>[tex]=\u300bf&#039;(x) = 3.3 {x}^{3 - 1}  - 3.2 {x}^{2 - 1}  + 0 \\\\  = 9 {x}^{2}  - 6x[/tex]</p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "volume-bangun-berikut-ini-adalah-a-3200-cm3-b-4000-cm3-c-277",
+            "question": "Volume bangun berikut ini adalah?\r\n\r\nA. 3.200 cm\u00b3 B. 4.000 cm\u00b3 C. 3.600 cm\u00b3 D. 4.500 cm\u00b3\u200b",
+            "attachments": [
+                "question-attachments/volume-bangun-berikut-ini-adalah-a-3200-cm3-b-4000-cm3-c-277-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>Jawaban difoto aja yaaa</p>",
+                    "attachments": [
+                        "answer-attachments/volume-bangun-berikut-ini-adalah-a-3200-cm3-b-4000-cm3-c-277-1.jpg"
+                    ]
+                },
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>Diketahui:</p><ul><li>Panjang balok 24 cm </li><li>Lebar balok 15 cm </li><li>Tinggi balok 10 cm </li></ul><p>Ditanya:</p><ul><li>Volume Bangun Ruang Berikut? </li></ul><p>Jawab:</p><p>V = p x l x t </p><p>V = 24 x 15 x 10 </p><p>V = 360 x 10 </p><p>V = 3.600 cm\u00b3 </p><p>Jadi Volume bangun ruang tersebut 3.600 cm\u00b3 ,jawaban opsi C. 3.600 cm\u00b3</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dari-deret-geometri-diketahui-suku-pertama-a-7-dan-rasio-r-3-881",
+            "question": "Dari deret geometri diketahui suku pertama a = 7 dan rasio r = 3 maka jumlah 5 suku dari deret tersebut adalah,... a. 447 b. 847 c. 827 d. 667 e. 567",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>\u25cf Materi : Bab 2 - Barisan dan deret</p><p>\u25cf Kode Kategorisasi : 9.2.2</p><p></p><h2>B. S5 = 847</h2><p></p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>Sn = a (r^n - 1) / r - 1</p><p>S5 = 7 (3^5 - 1) / 3 - 1</p><p>S5 = 7 (243 - 1) / 2</p><p>S5 = 7 x 242 / 2</p><p>S5 = 7 x 121</p><p><strong>S5 = 847</strong></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-gx-2x-3-dan-fgx-2x-1-maka-nilai-fx-adalah-249",
+            "question": "Jika g(x) = 2x -3 dan (f\u0e50g)(x) = 2x +1, maka nilai f(x) adalah\u2026\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>(fog) (x) = 2x + 1</p><p>f(g(x)) = 2x + 1</p><p>f(2x - 3) = 2x + 1</p><p>f(x) = 2(x + 3/2) + 1</p><p>      = (2x + 6/2) + 1</p><p>      = 2x + 8/2</p><p></p><p><strong>[tex]f(x) =  \\frac{2x + 8}{2} [/tex]</strong></p><p></p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-persamaan-lingkaran-dengan-pusat-o-00-dan-a-berjari-846",
+            "question": "Tentukan persamaan lingkaran dengan pusat O (0,0) dan    a. berjari-jari 3akar5\r\nb. melalui titik(-5,7)\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>JAWABAN=</p><h2><strong><em><u>B</u></em></strong><strong><em><u>.</u></em></strong><strong><em><u> </u></em></strong><strong><em><u>MELALUI</u></em></strong><strong><em><u> </u></em></strong><strong><em><u>TITIK</u></em></strong><strong><em><u>(</u></em></strong><strong><em><u>-</u></em></strong><strong><em><u>5</u></em></strong><strong><em><u>,</u></em></strong><strong><em><u>7</u></em></strong><strong><em><u>)</u></em></strong></h2><p></p><p>PENJELASAN=</p><h2><strong><em><u>#</u></em></strong><strong><em><u>S</u></em></strong><strong><em><u>E</u></em></strong><strong><em><u>M</u></em></strong><strong><em><u>O</u></em></strong><strong><em><u>G</u></em></strong><strong><em><u>A</u></em></strong><strong><em><u> </u></em></strong><strong><em><u>M</u></em></strong><strong><em><u>E</u></em></strong><strong><em><u>M</u></em></strong><strong><em><u>B</u></em></strong><strong><em><u>A</u></em></strong><strong><em><u>N</u></em></strong><strong><em><u>T</u></em></strong><strong><em><u>U</u></em></strong></h2><h3><strong><em><u>#</u></em></strong><strong><em><u>M</u></em></strong><strong><em><u>A</u></em></strong><strong><em><u>A</u></em></strong><strong><em><u>F</u></em></strong><strong><em><u> </u></em></strong><strong><em><u>K</u></em></strong><strong><em><u>A</u></em></strong><strong><em><u>L</u></em></strong><strong><em><u>O</u></em></strong><strong><em><u> </u></em></strong><strong><em><u>S</u></em></strong><strong><em><u>A</u></em></strong><strong><em><u>L</u></em></strong><strong><em><u>A</u></em></strong><strong><em><u>H</u></em></strong></h3><p><strong><em><u>#</u></em></strong><strong><em><u>S</u></em></strong><strong><em><u>E</u></em></strong><strong><em><u>M</u></em></strong><strong><em><u>A</u></em></strong><strong><em><u>N</u></em></strong><strong><em><u>G</u></em></strong><strong><em><u>A</u></em></strong><strong><em><u>T</u></em></strong><strong><em><u> </u></em></strong><strong><em><u>B</u></em></strong><strong><em><u>E</u></em></strong><strong><em><u>L</u></em></strong><strong><em><u>A</u></em></strong><strong><em><u>J</u></em></strong><strong><em><u>A</u></em></strong><strong><em><u>R</u></em></strong></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "8-jika-y-4x2-1-3x-2-maka-y-712",
+            "question": "8. Jika y = ( 4x2-1) (3x + 2), maka y' = ..",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>Ini maksudnya 4x kuadrat kali ya? kalo iya berarti</p><p>[tex]y = (4x^{2} -1)(3x+2)\\\\y = 12x^{3}  +8x^{2} -3x-2\\\\[/tex]</p><p>Ditanyanya turunan pertama, atau y&#039;,</p><p>Sesuai sifat turunan berarti:</p><p>[tex]36x^{2} +16x-3[/tex]</p><p></p><p>Semoga membantu</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bantu-578",
+            "question": "bantu\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>0.13 + \u00b3\u221a0.064</p><p>= 0.13 + 0.4</p><p>= 0.53</p><p></p><p>jawaban yang bawah yang benar</p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<p><strong>Jawab:</strong></p><p></p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p></p>",
+                    "attachments": [
+                        "answer-attachments/bantu-578-1.jpg"
+                    ]
+                }
+            ]
+        }
+    ]
+}

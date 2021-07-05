@@ -1,0 +1,144 @@
+{
+    "question": "Skala 1:100    14,5 cm\r\nPernyataan yang sesuai dengan kondisi denah di atas adalah\r\nA. Luas tanah pada denah adalah 149,5 m2\r\nB. Panjang tanah sebenarnya adalah 14,5 m\r\nC. Luas tanah pak Khaerul sebenarnya 149,5 cm?\r\nD. Jumlah luas seluruh kamar tidur adalah 25,5 m2\r\nE. Ukuran tanah sebenarnya adalah 14,5 m2 x 11 m2\r\natikan gambar berikut!\u200b",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "<p><strong>Jawaban:</strong></p><p>B.</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>JS= jp \u00d7 S </p><p>JS=14,5 \u00d7 100 </p><p>    =1450  cm = 14,5 m</p><p></p><p>jadi, dari pernyataan di atas yang benar adalah B</p>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "air-mengalir-pada-sebuah-pipa-dgn-penampang-20-cm2-yg-dihubungkan-377",
+            "question": "air mengalir pada sebuah pipa dgn penampang 20 cm2 yg dihubungkan dgn sebuah pipa dengan luas penampang 10 cm2. jika kecepatan air pada penampang pipa besar 12m/s maka kecepatan air pada penampang pipa kecil adalah\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>Kecepatan air yang mengalir pada pipa besar adalah 8 m/s</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>maaf kalo salah ya</p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bantu-jawab-kak-675",
+            "question": "Bantu jawab kak........\u200b",
+            "attachments": [
+                "question-attachments/bantu-jawab-kak-675-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "<p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>1.</p><p>x + y  = 6 </p><p>x - 2y = 0 </p><p>(dikurangi atas ke bawah untuk menghilangkan x)</p><p>3y = 6</p><p>  y = 6/3</p><p>  y = 2</p><p></p><p><strong>Subtitusi</strong><strong> </strong><strong>y,</strong><strong> </strong><strong>y </strong><strong>=</strong><strong> </strong><strong>2</strong></p><p>x + y = 6</p><p>x + 2 = 6</p><p>      x = 6 - 2</p><p>      x = 4</p><p></p><p><strong>jadi </strong><strong>penyelesaian</strong><strong> </strong><strong>SPLDV </strong><strong>diatas </strong><strong>adalah </strong><strong>(</strong><strong>4</strong><strong>,</strong><strong> </strong><strong>2</strong><strong>)</strong></p><p></p><p>2.</p><p>-2x - y = -6</p><p>x + 4y = 17</p><p>menghasilkan:</p><p>-2x -y = -6</p><p>2x + 8y = 34</p><p>(ditambah atas ke bawah untuk menghilangkan x)</p><p>7y = 28</p><p>  y = 28/7</p><p>  y = 4</p><p></p><p><strong>subtitusi</strong><strong> </strong><strong>y,</strong><strong> </strong><strong>y </strong><strong>=</strong><strong> </strong><strong>4</strong></p><p>  x + 4y = 17</p><p>x + 4(4) = 17</p><p>   x + 16 = 17</p><p>          x = 17 - 16</p><p>          x = 1</p><p>jadi penyelesaian SPLDV diatas adalah (1, 4)</p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-luas-segitiga-abc-sudut-a30-sudut-c45-a5cm-424",
+            "question": "Tentukan Luas Segitiga ABC\r\nSUDUT A=30\u00b0 SUDUT C=45\u00b0 A=5cm\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>jadi luas segitiga ABC adalah 18cm</p><p>semoga membantu:)</p>",
+                    "attachments": [
+                        "answer-attachments/tentukan-luas-segitiga-abc-sudut-a30-sudut-c45-a5cm-424-1.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-harga-1-kg-mangga-2-kg-salak-dan-3-kg-kelengkeng-adala-341",
+            "question": "Diketahui harga 1 kg mangga, 2 kg salak dan 3 kg kelengkeng adalah Rp105.000. Harga 4    kg mangga, 1 kg salak dan 2 kg kelengkeng adalah Rp126.000. Harga 3 kg mangga, 3 kg\r\n salak dan 1 kg kelengkeng adalah Rp111.000. Dengan eliminasi Gauss-Jordan, tentukan\r\n harga per kg masing-masing buah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawab:</strong></p><p>Diketahui:</p><p>Misalkan mangga=x , salak=y, dan kelengkeng = z</p><p>x+2y+3z = 105.000</p><p>4x+y+2z=126.000</p><p>3x+3y+z=111.000</p><p>DItanyakan : Berapa harga per kg masing-masing buah menggunakan eliminasi gauss jordan ?</p><p>Jawab</p><p>[tex]\\left[\\begin{array}{ccc}1&amp;2&amp;3\\\\4&amp;1&amp;2\\\\3&amp;3&amp;1\\end{array}\\right] \\left[\\begin{array}{ccc}105.000\\\\126000\\\\111.000\\end{array}\\right][/tex]</p><p>\u2193b2-4b1, b3-3b1 \u00a0 \u00a0catatan=(b=baris ke)</p><p>[tex]\\left[\\begin{array}{ccc}1&amp;2&amp;3\\\\0&amp;-7&amp;-10\\\\0&amp;-3&amp;-8\\end{array}\\right] \\left[\\begin{array}{ccc}105.000\\\\-294.000\\\\-204.000\\end{array}\\right][/tex]</p><p>\u2193b2-2b3</p><p>[tex]\\left[\\begin{array}{ccc}1&amp;2&amp;3\\\\0&amp;1&amp;6\\\\0&amp;-3&amp;-8\\end{array}\\right] \\left[\\begin{array}{ccc}105.000\\\\114.000\\\\-204.000\\end{array}\\right][/tex]</p><p>\u2193b3+3b2, b1-2b2</p><p>[tex]\\left[\\begin{array}{ccc}1&amp;0&amp;-9\\\\0&amp;1&amp;6\\\\0&amp;0&amp;10\\end{array}\\right] \\left[\\begin{array}{ccc}-123.000\\\\114.000\\\\138.000\\end{array}\\right][/tex]</p><p>\u2193b3+b1</p><p>[tex]\\left[\\begin{array}{ccc}1&amp;0&amp;-9\\\\0&amp;1&amp;6\\\\0&amp;0&amp;1\\end{array}\\right] \\left[\\begin{array}{ccc}-123.000\\\\114.000\\\\15.000\\end{array}\\right][/tex]</p><p>\u2193b2-6b3, b1+9b3</p><p>[tex]\\left[\\begin{array}{ccc}1&amp;0&amp;0\\\\0&amp;1&amp;0\\\\0&amp;0&amp;1\\end{array}\\right] \\left[\\begin{array}{ccc}12.000\\\\24.000\\\\15.000\\end{array}\\right][/tex]</p><p>Jadi Harga masing-masing buah adalah</p><p>1 kg mangga = Rp12.000</p><p>1 kg salak = 24.000</p><p>1 kg kelengkeng=15.000</p><p></p><p></p><p></p><p></p><p></p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-titik-a4-5-b8-8-dan-c-3-4-tentukan-abbc-389",
+            "question": "Diketahui titik a(4, 5) , b(8, 8) dan c (3, 4) tentukan ab+bc \u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>   Penyelesaian :</p><p></p><p>Diketahui :  a =(4,5)</p><p>                    b =(8,8)</p><p>                    c =(3,4)</p><p>Ditanya    : Nilai dari  = ab+bc</p><p></p><p>               jawab :</p><p></p><p>ab+bc</p><p>(4,5\u00d78,8)  +   (8,8\u00d73,4)</p><p>   39,6     +        29,92</p><p>=69,52</p><p></p><p>jadi nilai dari ab+bc   = 69,52</p><p></p><p>penjelasan :</p><p>   karna nilai a,b,dan ,c sudah diketahui maka tinggal dimasukan nilai dari a,b,c di atas ,</p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-bagi-tahu-berapa-ya-958",
+            "question": "Tolong bagi tahu berapa ya? \u200b",
+            "attachments": [
+                "question-attachments/tolong-bagi-tahu-berapa-ya-958-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "<h2><strong>Jawab:</strong></h2><p>1/6 tahun = 2 bulan</p><h2>___________________________</h2><h2><strong>Penjelasan:</strong></h2><p><em><strong>1 tahun = 12 bulan </strong></em></p><p>Maka:</p><p>1/6 tahun = 1/6 x 12 bulan = <strong>2 bulan</strong></p><p><strong></strong></p><p><strong></strong></p><p>mei2405~~</p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>2bulan</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p> \u2159\u00d712=2</p><p>maaf kalo salah</p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bantu-sekarang-plis-saya-mohon-219",
+            "question": "Bantu sekarang plis saya mohon\u200b",
+            "attachments": [
+                "question-attachments/bantu-sekarang-plis-saya-mohon-219-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "<p>kum Kim hurosis ringan akun ku rising hosus hous</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pasangan-yang-tetap-antara-jaringan-tumbuhan-dan-fungsinya-adalah-527",
+            "question": "Pasangan yang tetap antara jaringan tumbuhan dan fungsinya adalah\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>1.Jaringan Meristem. Jaringan meristem merupakan jaringan yang sel-selnya aktif membelah diri. ...</p><p>2. Jaringan Penyokong. Seperti namanya, jaringan penyokong berfungsi sebagai penguat/penyokong tumbuhan. ...</p><p>3. Jaringan Dasar. ...</p><p>4. Jaringan Pengangkut. ...</p><p>Jaringan Pelindung.</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "hitunglah-keliling-lingkaran-jika-a-r-14cm-b-d-35cm-637",
+            "question": "Hitunglah keliling lingkaran jika \r\n\r\n a. r= 14cm\r\n b. d= 35cm",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawab:</strong></p><p>a. 88</p><p>b. 109,9</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p></p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>a. K = 2\u03c0r</p><p>       = 2 x 22/7 x 14</p><p>       = 88 cm</p><p>b. K = \u03c0.d</p><p>       = 3.14 x 35</p><p>       = 109,9 cm</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-berikan-jawaban-ya-245",
+            "question": "Tolong berikan jawaban ya..\u200b",
+            "attachments": [
+                "question-attachments/tolong-berikan-jawaban-ya-245-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>lapis ke 1 = 15</p><p>lapis ke 2 = 12</p><p>lapis ke 3 = 20</p><p>jadi banyak kubus satuan 15 + 12 + 20 = 47 satuan</p><p></p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<p><strong>J</strong><strong>a</strong><strong>w</strong><strong>a</strong><strong>b</strong><strong>a</strong><strong>n</strong><strong>:</strong></p><p><strong>4</strong><strong>7</strong><strong> </strong><strong> </strong><strong>y</strong><strong>a</strong><strong> </strong><strong>k</strong><strong>a</strong><strong>k</strong><strong> </strong></p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>15+12+20= 47</p>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

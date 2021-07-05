@@ -1,0 +1,134 @@
+{
+    "question": "Tentukan nilai rata rata dan median dari data berikut : 11,14,15,11,12,15,10,13,14,16,18,14,18,17,12",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "<p><strong>Jawaban:</strong></p><p>mean atau rata-rata:</p><p>[tex] \\frac{jumlah \\: data}{banyak \\: data} =  \\frac{210}{15}  \\\\   \\:  \\:  \\:  \\:  \\:  \\:  \\:  \\:  \\:  \\:  \\:  \\:  \\:  \\:  \\:  \\:  \\:   \\: \\:  \\:  \\:  \\:  \\:  \\:  = 14[/tex]</p><p>median atau nilai tengah: </p><p>14</p><p><em>cara</em><em> </em><em>mencarinya</em><em>:</em><em> </em></p><ul><li><em>susun</em><em> </em><em>data</em><em> </em><em>dari</em><em> </em><em>yang</em><em> </em><em>terkecil</em><em> </em><em>sampai</em><em> </em><em>yang</em><em> </em><em>terbesar</em><em>,</em><em> </em><em>lalu</em><em> </em><em>gunakan</em><em> </em><em>rumus</em><em> </em><em>spt</em><em> </em><em>dibawah</em><em> </em><em>ini</em><em>:</em></li></ul><p>[tex] \\frac{n + 1}{2}  =  \\frac{15 + 1}{2}  \\\\   \\:  \\:  \\:  \\:  =  \\frac{16}{2}  \\\\   \\:  \\:  \\:  \\:  \\:  \\:  \\:  \\:  \\:  \\:  \\:  \\:  \\:  \\:  \\:  \\:  \\:  \\:  \\:  \\:  \\:  = \\: data \\: ke-8[/tex]</p><ul><li>terakhir, cari data yang dimaksud.</li></ul>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "diketahui-segitiga-abc-dengan-panjang-sisi-ab-6-cm-bc-7-cm-705",
+            "question": "Diketahui segitiga abc dengan panjang sisi ab = 6 cm, bc = 7 cm, jika besar 150 derajat. luas segitiga abc adalah...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>luas = \u00bd\u00d7a\u00d7t\u00d7 sin 150\u00b0</p><p>luas = \u00bd \u00d7 6\u00d77 \u00d7sin (180\u00b0-150\u00b0)= 21\u00d7sin 30\u00b0=21\u00d7\u00bd= 4,2</p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "selembar-karton-berbentuk-persegi-dengan-panjang-sisi-18cmpada-k-174",
+            "question": "Selembar karton berbentuk persegi dengan panjang sisi 18cm.pada keempat titik sudutnya dibuat potongan berbentuk persegi dengan ukuran yang sama.sisa potongan karton dilipat ke atas sehingga diperoleh sebuah kotak terbuka.agar volume kotak maksimum tentukan:a)tinggi kotak. b) panjang sisi. c). volume maksimum kotak",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>C.volume maksimum kotak</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suatu-segitiga-siku-siku-yang-panjang-sisinya-a-8-cm-dan-b-2-cm-p-500",
+            "question": "Suatu segitiga siku-siku yang panjang sisinya a 8 cm dan b 2 cm panjang sisi c nya adalah\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawab:</strong></p><p>2[tex]\\sqrt{17[/tex] cm</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>untuk mencari c gunakan rumus pythagoras :</p><p>c = [tex]\\sqrt{a^{2} +b^{2}[/tex]</p><p>c = [tex]\\sqrt{8^{2} +2^{2}[/tex]</p><p>c = [tex]\\sqrt{64+4[/tex]</p><p>c = [tex]\\sqrt{68[/tex] </p><p>c = [tex]\\sqrt{4.17[/tex] : 2[tex]\\sqrt{17[/tex] cm</p><p></p><p>semoga membantu</p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>2\u221a17</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>Pakai Rumus:</p><p><strong>Teorema Pythagoras</strong></p><p></p><p><strong>c</strong><strong>\u00b2</strong><strong>=</strong><strong> </strong><strong>a\u00b2</strong><strong>+</strong><strong>b\u00b2</strong></p><p><strong>c\u00b2</strong><strong>=</strong><strong> </strong><strong>8</strong><strong>\u00b2</strong><strong>+</strong><strong>2</strong><strong>\u00b2</strong></p><p><strong>c</strong><strong>\u00b2</strong><strong>=</strong><strong> </strong><strong>6</strong><strong>4</strong><strong>+</strong><strong>4</strong></p><p><strong>c\u00b2</strong><strong>=</strong><strong> </strong><strong>6</strong><strong>8</strong></p><p><strong>c=</strong><strong> </strong><strong>\u221a</strong><strong>6</strong><strong>8</strong></p><p><strong>c=</strong><strong> </strong><strong>2</strong><strong>\u221a</strong><strong>1</strong><strong>7</strong><strong> </strong><strong>cm</strong></p>",
+                    "attachments": [
+                        "answer-attachments/suatu-segitiga-siku-siku-yang-panjang-sisinya-a-8-cm-dan-b-2-cm-p-500-1.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "seorang-pedagang-mengeluarkan-modal-rp2600000-untuk-menjalankan-667",
+            "question": "seorang pedagang mengeluarkan modal Rp2.600.000 untuk menjalankan usahanya, jika pada hari ini dia mendapatkan keuntungan sebesar 12% maka besarnya pendapatan didapatkan pada hari itu adalah\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>2.600.000 x 12% = 312.000</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>maaf kalau salah</p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "besar-ltabesar-ltbbesar-ltc-besar-ltd-815",
+            "question": "Besar &lt;A=....Besar &lt;B=...Besar &lt;C... =...Besar &lt;D=...\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>BOLEH BERTEMAN TIDAK UNTUK TEMAN BELAJAR HEHEHE</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>BOLEH IYA PLEASE OK</p><ul><li>HEHEHEHEHE SALKEN IYA HY SAYA SOPIA</li></ul>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "motor-rafi-membutuhkan-1liter-bensin-untuk-menempuh-jarak-40kmji-189",
+            "question": "motor rafi membutuhkan 1liter bensin untuk menempuh jarak 40km,jika jarak yang harus di tempuh 120km berapa banyak bensin yang diperlukan\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>3 liter.</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>[tex] \\frac{1}{40}  =  \\frac{x}{120}  \\\\ 40 \\: x = 1 \\times 120 \\\\ 40 \\: x = 120 \\\\ x = 120 \\div 40 \\\\ x = 3[/tex]</p><p>Jadi, banyak bensin yang diperlukan adalah 3 liter.</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "300-mm-9-dm-dm-a-920-dm-b-25-dm-c-21-dm-d-22-dm-323",
+            "question": "300 mm-9 dm =... DM\r\nA. 9,20 DM\r\nb. 25 dm\r\nc. 21 dm\r\nd. 22 dm \u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<h2>-6dm</h2><p></p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>300 mm = 3 dm</p><p>3 - 9 = -6 dm</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apa-ni-kasi-cara-jan-salah-dkdjkssdnjsjwjwnsnsnnsnsndnddnjdjdnfnf-387",
+            "question": "Apa ni kasi cara jan salah     dkdjkssdnjsjwjwnsnsnnsnsndnddnjdjdnfnfn\r\n\r\n\r\n\r\n\u200b",
+            "attachments": [
+                "question-attachments/apa-ni-kasi-cara-jan-salah-dkdjkssdnjsjwjwnsnsnnsnsndnddnjdjdnfnf-387-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>jawaban : b. 108</p><p></p><p>gaada penjelasan</p><p></p><p>sekoga membantu</p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>jawaban nya b 108 penjelasan nya susah</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-u-1-3-2-dan-v-3-2-1-besar-sudut-antara-203",
+            "question": "Diketahui u = (-1, -3, 2) dan v = (3, 2, 1) . besar sudut antara u dan v adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>15 + 15 = 30</p><p>.</p><p>.</p><p>.</p><p>.</p><p>.</p><p>.</p><p>.</p><p>.</p><p>.</p><p>.</p><p>.</p><p>.</p><p>.</p><p>.</p><p>.</p><p>.</p><p>.</p><p></p><p></p><p>.</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "setiap-hari-sabtu-toko-cahaya-ilmu-akan-memberi-diskon-5-kepada-660",
+            "question": "Setiap hari Sabtu toko Cahaya Ilmu akan memberi diskon 5% kepada pelanggan yang berbelanja di atas Rp    50.000,00. Pada hari Sabtu, Pak Anang berbelanja beberapa alat tulis di Toko Cahaya Ilmu. Adapun yang dibeli\r\nPak Anang adalah 2 buah pensil HB, 5 buah buku tulis 58 lembar, 2 buah stabilo dengan warna hijau dan\r\nkuning, 1 buah correction pen, dan 5 buah pulpen hitam. Apakah Pak Anang akan mendapatkan diskon?\r\nO Ya\r\nO Tidak\r\nBerikan alasan dari pilihan jawabanmu dalam bentuk perhitungan!\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Penjelasan dengan langkah-langkah:</strong></p><h2><u>Tidak</u><u> </u><u>Ada</u><u> </u><u>Jawaban</u></h2><h3><u>penjelasan</u></h3><p><u>saya</u><u> </u><u>juga</u><u> </u><u>pusing</u></p>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,149 @@
+{
+    "question": "Diketahui harga 1 kg mangga, 2 kg salak dan 3 kg kelengkeng adalah Rp105.000. Harga 4    kg mangga, 1 kg salak dan 2 kg kelengkeng adalah Rp126.000. Harga 3 kg mangga, 3 kg\r\n salak dan 1 kg kelengkeng adalah Rp111.000. Dengan eliminasi Gauss-Jordan, tentukan\r\n harga per kg masing-masing buah",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "<p><strong>Jawab:</strong></p><p>Diketahui:</p><p>Misalkan mangga=x , salak=y, dan kelengkeng = z</p><p>x+2y+3z = 105.000</p><p>4x+y+2z=126.000</p><p>3x+3y+z=111.000</p><p>DItanyakan : Berapa harga per kg masing-masing buah menggunakan eliminasi gauss jordan ?</p><p>Jawab</p><p>[tex]\\left[\\begin{array}{ccc}1&amp;2&amp;3\\\\4&amp;1&amp;2\\\\3&amp;3&amp;1\\end{array}\\right] \\left[\\begin{array}{ccc}105.000\\\\126000\\\\111.000\\end{array}\\right][/tex]</p><p>\u2193b2-4b1, b3-3b1 \u00a0 \u00a0catatan=(b=baris ke)</p><p>[tex]\\left[\\begin{array}{ccc}1&amp;2&amp;3\\\\0&amp;-7&amp;-10\\\\0&amp;-3&amp;-8\\end{array}\\right] \\left[\\begin{array}{ccc}105.000\\\\-294.000\\\\-204.000\\end{array}\\right][/tex]</p><p>\u2193b2-2b3</p><p>[tex]\\left[\\begin{array}{ccc}1&amp;2&amp;3\\\\0&amp;1&amp;6\\\\0&amp;-3&amp;-8\\end{array}\\right] \\left[\\begin{array}{ccc}105.000\\\\114.000\\\\-204.000\\end{array}\\right][/tex]</p><p>\u2193b3+3b2, b1-2b2</p><p>[tex]\\left[\\begin{array}{ccc}1&amp;0&amp;-9\\\\0&amp;1&amp;6\\\\0&amp;0&amp;10\\end{array}\\right] \\left[\\begin{array}{ccc}-123.000\\\\114.000\\\\138.000\\end{array}\\right][/tex]</p><p>\u2193b3+b1</p><p>[tex]\\left[\\begin{array}{ccc}1&amp;0&amp;-9\\\\0&amp;1&amp;6\\\\0&amp;0&amp;1\\end{array}\\right] \\left[\\begin{array}{ccc}-123.000\\\\114.000\\\\15.000\\end{array}\\right][/tex]</p><p>\u2193b2-6b3, b1+9b3</p><p>[tex]\\left[\\begin{array}{ccc}1&amp;0&amp;0\\\\0&amp;1&amp;0\\\\0&amp;0&amp;1\\end{array}\\right] \\left[\\begin{array}{ccc}12.000\\\\24.000\\\\15.000\\end{array}\\right][/tex]</p><p>Jadi Harga masing-masing buah adalah</p><p>1 kg mangga = Rp12.000</p><p>1 kg salak = 24.000</p><p>1 kg kelengkeng=15.000</p><p></p><p></p><p></p><p></p><p></p><p></p>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "di-ketahui-fx-axb-jika-f28-dan-f422mka-nilai-a-dan-b-473",
+            "question": "Di ketahui f(x) =ax+b, jika f(2)=8 dan f(4)=22,mka nilai a dan B berurut turut adalah \u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>f(x) = ax + b</p><p>f(2) = a(2)+ b</p><p>2a + b = 8</p><p></p><p>f(x) = ax + b</p><p>f(4) = a(4) + b</p><p>4a + b = 22</p><p></p><p>==========</p><p>Nilai a :</p><p>2a + b = 8</p><p>4a + b = 22</p><p>__________ _</p><p>-2a = - 14</p><p>a = -14 \u00f7 (-2)</p><p>a = 7</p><p></p><p>Nilai b :</p><p>2a + b = 8</p><p>2(7) + b = 8</p><p>14 + b = 8</p><p>b = 8 - 14</p><p>b = -6</p><p></p><p>Nilai a dan b berturut-turut adalah 7 dan (-6) </p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dijawab-ya-wahai-orang-baek-122",
+            "question": "Dijawab ya wahai orang Baek..\u200b",
+            "attachments": [
+                "question-attachments/dijawab-ya-wahai-orang-baek-122-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>: \u221a7 semoga membantu :)</p>",
+                    "attachments": [
+                        "answer-attachments/dijawab-ya-wahai-orang-baek-122-1.jpg",
+                        "answer-attachments/dijawab-ya-wahai-orang-baek-122-2.jpg"
+                    ]
+                },
+                {
+                    "answer": "<p>|a-b|\u00b2 = 1\u00b2</p><p>(a-b)(a-b) = 1</p><p>|a|\u00b2 - 2.a.b + |b|\u00b2 = 1</p><p>3 - 2ab + 1 = 1</p><p>-2ab = -3</p><p>2ab = 3</p><p></p><p>|a+b|\u00b2</p><p>(a+b)(a+b)</p><p>|a|\u00b2 + 2ab + |b|\u00b2</p><p>3 + 3 + 1</p><p>7</p><p></p><p>(a+b)\u00b2 = 7</p><p>(a+b) = \u221a7 (C)</p><p></p><p>klu bingung tanya aja yah :)</p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "titik-p-37-dicerminkan-terhadap-garis-y-x-koordinat-bayang-159",
+            "question": "Titik P(-3,7) dicerminkan terhadap garis y = -x. koordinat bayangan titik P adalah\u2026     A. \u2032(\u22127,3)\r\n\r\nB. \u2032(3, \u22127)\r\n\r\nC. \u2032(7, \u22123)\r\n\r\nD. \u2032(7,3)\r\n\r\nE. \u2032(\u22127, \u22123)\r\ntolong dibantu buat UAS besok\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>A. `(-7,3)</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>pencerminan y= -x     = (-y,-x)</p><p></p><p></p><p></p><p>semoga membantu &amp; paham:)</p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-jawab-plisas-kaka-baik-847",
+            "question": "Tolong jawab plisas Kaka baik\u200b",
+            "attachments": [
+                "question-attachments/tolong-jawab-plisas-kaka-baik-847-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>Hai, selamat Siang</p><p>Jangan lupa makan siang ^^</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>Jika aquarium berbentuk kubus maka</p><p>90 \u00d7 90 \u00d7 90 = 729000 cm\u00b3 = 729 liter</p><p>Untuk mengisi mencapai tinggi 90cm dengan debit 15liter / menit, maka</p><p>729 liter : 15liter = 48.6 menit dan jika dibulatkan menjadi 50 menit</p><p></p><p>jangan lupa tap love &amp; bintang 5 nya ya ^\u2022^</p><p></p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p><em>c</em><em>.</em><em>7</em><em>5</em><em> </em><em>m</em><em>e</em><em>n</em><em>i</em><em>t</em></p><p></p><p><em>m</em><em>a</em><em>a</em><em>f</em><em> </em><em>k</em><em>a</em><em>l</em><em>o</em><em>k</em><em> </em><em>s</em><em>a</em><em>l</em><em>a</em><em>h</em></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "nilaii-dari-lim-x1-x2-1-x-1-adalah-bantu-jawab-ya-kak-633",
+            "question": "Nilaii dari lim \"x\u21921\" x\u00b2-1 / x-1 adalah\r\nbantu jawab ya kak\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<h2><strong>Jawab:</strong></h2><p>2</p><h2>_______________________________</h2><h2><strong>Penjelasan:</strong></h2><p>Lim x \u2192 1 \u00a0x\u00b2 - 1 / x - 1</p><p>Lim x \u2192 1 \u00a0(x + 1)(x - 1) / x - 1</p><p>Lim x \u2192 1 \u00a0x + 1</p><p><em><strong>Substitusikan 1 ke setiap x:</strong></em></p><p>(1) + 1</p><p>1 + 1</p><p><strong>2</strong></p><p></p><p></p><p>[tex]{\\blue{Answer~by:Mei^2}}[/tex]</p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<h3>~Limit Fungsi Aljabar</h3><p>____________________</p><p>[tex]\\:[/tex]</p><p><strong>Jawaban:</strong></p><p><strong><u>2</u></strong><strong><u>\u2714</u></strong></p><p>[tex]\\:[/tex]</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>[tex]\\lim\\limits_{x \\to 1} = \\frac{x^{2} - 1}{x - 1}[/tex]</p><p>[tex]\\lim\\limits_{x \\to 1} = \\frac{(x - 1)(x + 1)}{x - 1}[/tex]</p><p>[tex]\\lim\\limits_{x \\to 1} = \\frac{\\cancel{(x - 1)}(x + 1)}{\\cancel{x - 1}}[/tex] \u279e Cancel x - 1</p><p>[tex]\\lim\\limits_{x \\to 1} = x + 1[/tex]</p><p>[tex] = 1 + 1[/tex] \u279e Substitusikan nilai x</p><p>[tex]{\\boxed{\\blue{\\underline{= 2}}}}[/tex]</p><p>[tex]\\:[/tex]</p><p>~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~</p><h3>\u2013 Detail Jawaban</h3><ul><li>Mapel : Matematika</li><li>Kelas : XI</li><li>Materi : Limit Fungsi Aljabar</li><li>Kode Soal : 2</li><li>Kode Kategorisasi : 11.2.8</li></ul><p>[tex]\\:[/tex]</p><p>#GANBATTE</p><p></p><p></p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "hasil-dari-45000m-km-548",
+            "question": "Hasil dari 45.000m =... Km\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Karena </strong><strong>1</strong><strong> </strong><strong>km </strong><strong>=</strong><strong> </strong><strong>1000</strong><strong>m</strong></p><p><strong>Jadi,</strong></p><p><strong>4</strong><strong>5</strong><strong>.</strong><strong>0</strong><strong>0</strong><strong>0</strong><strong> </strong><strong>m </strong><strong>=</strong><strong> </strong><strong>45.000 : 1.000</strong></p><p><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong>=</strong><strong> </strong><strong>45 km</strong></p><p><strong> </strong></p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>45 km</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>   </p><p>     = 45.000/1000</p><p>     = 45</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tuliskan-tiga-bilangan-berikut-dari-a-3-7-11-15-b-12-10-14-12-16-335",
+            "question": "Tuliskan tiga bilangan berikut dari a 3 7 11 15 B 12 10 14 12 16\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>A. 19</p><p>b.18 </p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>semoga membantu</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-prisma-alasnya-berbentuk-segi-tiga-siku-siku-yang-beruku-339",
+            "question": "Sebuah prisma alasnya berbentuk segi    tiga siku - siku yang berukuran panjang\r\nsisi siku-siku 6cm dan 8cm, panjang sisi\r\nmiring 10 cm serta tinggi prisma\r\ntersebut 12 cm, maka volume prisma\r\nadalah....\r\n\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawab:</strong></p><p><strong>288</strong></p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>[tex](volume prisma)=V=(LuasAlas)(TinggiPrisma)[/tex]</p><p>\u21d2[tex]V=(\\frac{1}{2}*6*8 )*12[/tex]</p><p>\u21d2[tex]V=288[/tex]</p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "12-diketahui-panjang-garis-singgung-persekutuan-luar-lingkaran-2-887",
+            "question": "12. Diketahui panjang garis singgung persekutuan luar lingkaran 24 cm dan jarak kedua titik    pusatnya 25 cm. Jika salah satu jari-jari lingkaran adalah 10 cm, maka panjang jari-jari\r\nlingkaran lainnya adalah ... cm\r\nA. 2\r\nB. 3\r\nC. 7\r\nD. 16\r\n\r\n\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p><strong>C. </strong><strong>7</strong></p><p><em>semoga </em><em>membantu </em><em>ya </em></p><p><em>jadikan </em><em>jawaban </em><em>yang </em><em>terbaik</em></p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "a-berapa-jumlah-pengunjung-kebun-binatang-kota-medan-dari-januar-939",
+            "question": "A. Berapa jumlah pengunjung kebun binatang kota Medan dari Januari sampai Juni?    b. Berapa selisih banyak pengunjung bulan Februari dengan bulan Maret?\r\n c. Pada bulan apa terjadi kenaikan pengeunjung paling banyak",
+            "attachments": [
+                "question-attachments/a-berapa-jumlah-pengunjung-kebun-binatang-kota-medan-dari-januar-939-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "<p></p><p></p><p></p><p>semoga <strong>nilai</strong><strong> </strong><strong>kamu</strong><strong> </strong><strong>bagus</strong></p><p></p>",
+                    "attachments": [
+                        "answer-attachments/a-berapa-jumlah-pengunjung-kebun-binatang-kota-medan-dari-januar-939-1.jpg"
+                    ]
+                }
+            ]
+        }
+    ]
+}

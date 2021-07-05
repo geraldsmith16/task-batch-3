@@ -1,0 +1,134 @@
+{
+    "question": "Hitunglah konsentrasi ion H\u00b9 dalam suatu larutan yang mengandung [OH] 0,0002 M (Kw= 1x10-14)",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "<p>JAWAB  </p><p> </p><p></p><p>PENJELASAN : </p><p></p><p></p><ul><li>Step 1 :</li></ul><p></p><p>Rumus : [H+] = \u221a Kw / [OH-] </p><p></p><p>Jawab : </p><p></p><p>X\u00b2 = [H+] . [2 \u00d7 10^-4] = Kw</p><p>X = 1 \u00d7 10^-14 / [2 \u00d7 10^-4] </p><p>X = 5 \u00d7 10^-11 </p><p></p><p>Pembuktian : </p><p></p><p>Kw = [H+] . [OH-] </p><p>      = [5.10^-11] . [2.10^-14] </p><p>      = 1,0 \u00d7 10^-14 </p><p></p>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "direaksikan-2-gram-s-dengan-3-gram-o-dihasilkan-5-gram-so3-maka-234",
+            "question": "Direaksikan 2 gram S dengan 3 gram O, dihasilkan 5    gram SO3. Maka perbandingan massa S dan O pada\r\nSO3 adalah\r\na. 2.2\r\nb. 2:3\r\nc. 2:4\r\nd. 2.5\r\ne. 2:6\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>B. 2 : 3</p><p><strong>Penjelasan:</strong></p><p>2 gram S tepat bereaksi dengan 3 gram O membentuk SO3, maka perbandingan massa S : O = 2 : 3</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pemisahan-minyak-bumi-di-lakukan-dengan-metode-907",
+            "question": "Pemisahan minyak bumi di lakukan dengan metode?\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p></p><p>Proses pemisahan minyak bumi dilakukan dengan cara destilasi bertingkat. Destilasi bertingkat merupakan metode pemisahan yang berdasarkan pada perbedaan titik didih dan dilakukan secara berulang. Bedanya dengan destilasi bertingkat dengan destilasi biasa yaitu, komponen zat yang dipisahkan menggunakan metode destilasi bertingkat memiliki perbedaan titik didih yang berdekatan, Sehingga diperlukan metode khusus untuk</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-beberapa-e-sel-sebagai-berikut-esel-ca-287-volt-es-874",
+            "question": "Diketahui beberapa E sel sebagai berikut:    Esel Ca = -2,87 volt\r\nEsel Zn = -0,76 volt\r\nEsel Ni = -0,25 volt\r\nEsel Fe = -0,44 volt\r\nTentukanlah reaksi berikut berlangsung spontan atau tidak:\r\na. Ca2+ + Zn \u2192 Ca + Zn2+\r\nb. Ni2+ + Fe \u2192 Ni + Fe2\r\n24\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>a. tidak spontan</p><p>b. spontan</p><p><strong>Penjelasan:</strong></p><p>reaksi berlangsung spontan jika </p><p>E\u00b0 reduksi-E\u00b0oksidasi &gt;0</p><p>nah make cara ini kita liat yang a sama b</p><p>a. reduksi = Ca, oksidasi = Zn</p><p>-2,87+0,76 = -2,11&lt;0 (tidak spontan)</p><p>b. reduksi = Ni, oksidasi = Fe</p><p>-0,25+0,44 = 0,19&gt;0 (spontan)</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "29-sebanyak-92-gram-senyawa-organik-dibakar-dan-dianalisis-tern-917",
+            "question": "29. sebanyak 9,2 gram senyawa organik dibakar dan dianalisis ternyata mengandung 4.8 gram karbon. 1.2 gram hidrogen dan sisanya oksigen. rumus empiris (re) senyawa organik itu adalah....ar c-12 h-1: 0-16)\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>C2H6O</p><p><strong>Penjelasan:</strong></p><p>massa O = massa senyawa - massa C - massa H</p><p>massa O = 9,2 - 4,8 - 1,2 = 3,2 g</p><p></p><p>Rumus empiris =&gt; perbandingan mol</p><p>mol C : H : O = ( 4,8 / 12 ) : ( 1,2 / 1 ) : ( 3,2 / 16 ) </p><p>=&gt; 0,4 mol : 1,2 mol : 0,2 mol</p><p>=&gt; 2 : 6 : 1</p><p></p><p>Rumus empirisnya adalah : C2H6O</p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<p>diketahui:</p><p>9,2 gram senyawa organik (CxHyOz)</p><p>4,8 gram C</p><p>1,2 gram H</p><p>(9,2 - 4,8 - 1,2) = 3,2 gram O</p><p></p><p> \u00a0 \u00a0 C \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 H \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 O</p><p> \u00a0 4,8 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 1,2 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 3,2</p><p>(4,8/12) \u00a0 \u00a0 (1,2/1) \u00a0 \u00a0 (3,2/16) \u00a0<em>\u2192 dibagi dengan Ar masing masing unsur</em></p><p> \u00a0 \u00a00,4 \u00a0 \u00a0 \u00a0 \u00a0 \u00a01,2 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 0,2</p><p>------------------------------------ : 0,2</p><p> \u00a0 \u00a0 2 \u00a0 \u00a0 \u00a0: \u00a0 \u00a0 \u00a06 \u00a0 \u00a0 \u00a0 \u00a0: \u00a0 \u00a0 \u00a01</p><p></p><p>maka, rumus empirisnya: C2H6O</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-dijawab-yang-benar-kalo-gk-tau-g-usah-dijawab-678",
+            "question": "Tolong dijawab yang benar...\r\n Kalo gk tau g usah dijawab!!...",
+            "attachments": [
+                "question-attachments/tolong-dijawab-yang-benar-kalo-gk-tau-g-usah-dijawab-678-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>  </p><p>1. karbon dioksida: pemanasan global</p><p>karbon monoksida: sesak napas</p><p>oksida belerang : hujan asam</p><p>partikel timah hitam : kerusakan otak</p><p></p><p>2. Hujan asam sendiri merupakan istilah untuk segala bentuk presipitasi atau pengendapan dengan komponen berupa asam seperti asam sulfat (nitrat), yang jatuh ke tanah dari atmosfer dalam bentuk basah ataupun kering</p><p></p><p>3. Hujan asam disebabkan oleh belerang (sulfur) yang merupakan pengotor dalam bahan bakar fosil serta nitrogen di udara yang bereaksi dengan oksigen membentuk sulfur dioksida dan nitrogen oksida</p><p></p><p>4. karena adanya angin yang menghembus sehingga awan yang mengandung cairan zat dari daerah industri akan terdorong jauh. dan demikian terjadinya hujan asam didaerah tersebut. pada dasarnya awan bersifat ringan maka oleh itu awan bisa didorong oleh angin</p><p></p><p>5. a.Hujan asam dengan kadar keasaman tinggi dapat menyebabkan gangguan pernapasan pada manusia. </p><p>b. Menyebabkan korosi dan merusak bangunan. </p><p>c. Tumbuhan menjadi layu, kering dan mati.</p><p>d. Merusak ekosistem perairan.</p><p></p><p>6. langkah terpenting yaitu dengan mengatur emisi yang berasal dari kendaraan dan bangunan. Hal ini dapat dilakukan dengan membatasi penggunaan bahan bakar fosil dan berfokus pada sumber energi yang lebih berkelanjutan seperti tenaga surya dan angin.</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "mohon-bantuan-nya-kaknanti-mlm-dikumpulin-883",
+            "question": "Mohon bantuan nya kak,nanti mlm dikumpulin\u200b",
+            "attachments": [
+                "question-attachments/mohon-bantuan-nya-kaknanti-mlm-dikumpulin-883-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>Tertera di penjelasan</p><p><strong>Penjelasan:</strong></p><p>*H2SO4</p><p>Biloks H + Biloks S + Biloks O = 0</p><p>( +1 x 2 ) + Biloks S + ( -2 x 4 ) = 0</p><p>Biloks S = +6</p><p></p><p>*NO3^-</p><p>Biloks N + Biloks O = -1</p><p>Biloks N + ( -2 x 3 ) = -1</p><p>Biloks N = +5</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pada-reaksi-n2-dengan-h2-menghasilkan-nh3-reaksinya-n2g-3h-800",
+            "question": "Pada reaksi N2 dengan H2 menghasilkan NH3.    Reaksinya : N2(g) + 3H2(g)\r\n2NH3(g)\r\nJika NH3 yang dihasilkan 30 liter. Maka N2 yang\r\ndireaksikan adalah... liter\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>15 L</p><p><strong>Penjelasan:</strong></p><p>Perbandingan koefisien ~ perbandingan volume</p><p></p><p>N2 : NH3 = 1 : 2</p><p>Volume N2 = ( 1 / 2 ) x 30 L = 15 L</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bantu-jawab-pleaseee-523",
+            "question": "Bantu jawab pleaseee\u200b",
+            "attachments": [
+                "question-attachments/bantu-jawab-pleaseee-523-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>HCl diletakkan di dalam erlenmeyer, sedangkan NaOH diletakkan di dalam biuret.</p>",
+                    "attachments": [
+                        "answer-attachments/bantu-jawab-pleaseee-523-1.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "suatu-campuran-air-dengan-alkohol-dipisahkan-dengan-proses-destil-655",
+            "question": "Suatu campuran air dengan alkohol dipisahkan dengan proses destilasi. Umpan masuk 1.000 kg/jam, fraksi umpan 20 %, fraksi destilat 70 % dan fraksi bawah (bottom) 5%. Berapakah air yang terdapat dalam destilat\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>5%</p><p><strong>Penjelasan:</strong></p><p>20% + 70% + 5% = 95%</p><p>jadi 100% - 95% = 5%</p><p>air 5%</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "berapa-massa-zat-dari-01-m-dalam-300-ml-air-yang-memilik-mr-28-490",
+            "question": "Berapa massa zat dari 0,1 m dalam 300 ml air yang memilik mr = 28?    a.840 mmol\r\nb.480 mmol\r\nc.107 mmol\r\nd.90 mmol\r\ne.0.009 mmol\r\n\r\n\r\n\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>840 mg</p><p><strong>Penjelasan:</strong></p><p>massa jenis air = 1 g / ml, maka 300 ml = 300 g = 0,3 kg</p><p></p><p>m = mol zat terlarut / massa pelarut ( kg )</p><p>0,1 = mol zat terlarut / 0,3</p><p>mol zat terlarut = 0,03 mol</p><p></p><p>massa = 0,03 x 28 = 0,84 gram = 840 mg</p>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

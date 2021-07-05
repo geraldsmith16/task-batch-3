@@ -1,0 +1,132 @@
+{
+    "question": "Zat campuran heterogen\u200b",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "<p><strong>Jawaban:</strong></p><p>Campuran heterogen adalah campuran yang zat penyusunnya tidak tercampur sempurna, sehingga zat penyusun tersebut masih dapat dibedakan. Campuran ini terbagi menjadi dua jenis, yaitu suspensi dan koloid. Suspensi akan mengendap ke bawah apabila dibiarkan beberapa saat.</p><p><strong>Penjelasan:</strong></p><p><strong><em><u>JANGAN LUPA FOLLOW</u></em></strong></p>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "larutan-hf-memiliki-ph-4-jika-harga-ka-hf-2-x-108-maka-mo-326",
+            "question": "Larutan HF memiliki pH = 4. Jika harga Ka HF = 2 x 10\u2078, maka molaritas    larutan HF tersebut adalah...\r\n\r\nA. 0,5 M\r\n\r\nB. 5 M\r\n\r\nC. 0,4 M \r\n\r\nD. 4 M\r\n\r\nE. 0,3 M\r\nberi penjelasan\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>A. 0,5 M</p><p><strong>Penjelasan:</strong></p><p>pH= 4 =&gt; [H+] = 10^-4 M</p><p></p><p>[H+] = \u221a( Ka . Ma )</p><p>10^-4 = \u221a( 2x10^-8 . Ma )</p><p>Ma = 0,5 M</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "29-sebanyak-92-gram-senyawa-organik-dibakar-dan-dianalisis-tern-917",
+            "question": "29. sebanyak 9,2 gram senyawa organik dibakar dan dianalisis ternyata mengandung 4.8 gram karbon. 1.2 gram hidrogen dan sisanya oksigen. rumus empiris (re) senyawa organik itu adalah....ar c-12 h-1: 0-16)\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>C2H6O</p><p><strong>Penjelasan:</strong></p><p>massa O = massa senyawa - massa C - massa H</p><p>massa O = 9,2 - 4,8 - 1,2 = 3,2 g</p><p></p><p>Rumus empiris =&gt; perbandingan mol</p><p>mol C : H : O = ( 4,8 / 12 ) : ( 1,2 / 1 ) : ( 3,2 / 16 ) </p><p>=&gt; 0,4 mol : 1,2 mol : 0,2 mol</p><p>=&gt; 2 : 6 : 1</p><p></p><p>Rumus empirisnya adalah : C2H6O</p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<p>diketahui:</p><p>9,2 gram senyawa organik (CxHyOz)</p><p>4,8 gram C</p><p>1,2 gram H</p><p>(9,2 - 4,8 - 1,2) = 3,2 gram O</p><p></p><p> \u00a0 \u00a0 C \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 H \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 O</p><p> \u00a0 4,8 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 1,2 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 3,2</p><p>(4,8/12) \u00a0 \u00a0 (1,2/1) \u00a0 \u00a0 (3,2/16) \u00a0<em>\u2192 dibagi dengan Ar masing masing unsur</em></p><p> \u00a0 \u00a00,4 \u00a0 \u00a0 \u00a0 \u00a0 \u00a01,2 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 0,2</p><p>------------------------------------ : 0,2</p><p> \u00a0 \u00a0 2 \u00a0 \u00a0 \u00a0: \u00a0 \u00a0 \u00a06 \u00a0 \u00a0 \u00a0 \u00a0: \u00a0 \u00a0 \u00a01</p><p></p><p>maka, rumus empirisnya: C2H6O</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "reaksi-antara-besi-dengan-hcl-adalah-afe-bhci-cfecl2-dh2-nilai-816",
+            "question": "Reaksi antara besi dengan HCl adalah aFe + bHCI    cFeCl2 dH2\r\nNilai a,b,c dan d berturut-turut supaya reaksi tersebut\r\nsetara adalah.....\r\na. 1.2.1 dan 1\r\nb. 1,2,3 dan 2\r\nc. 1.2.3 dan 4\r\nd. 2,3,4 dan 1\r\ne. 1,2,3 dan 2\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>A. 1,2,1,1</p><p><strong>Penjelasan:</strong></p><p>a Fe + b HCl =&gt; c FeCl2 + d H2</p><p></p><p>Fe =&gt; a = c</p><p>H =&gt; b = 2d</p><p>Cl =&gt; b = 2c</p><p></p><p>Misal: a = 1, c = 1</p><p></p><p>b = 2c</p><p>b = 2x1, maka b = 2</p><p></p><p>b = 2d</p><p>2 = 2d, maka d = 1</p><p></p><p>Koefisien a,b,c,d = 1,2,1,1</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebutkan-3-contoh-campuran-heterogen-318",
+            "question": "Sebutkan 3 contoh campuran heterogen\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>- campuran pasir dan air,</p><p>- air dengan minyak, dan</p><p>-serbuk besi dengan serbuk belerang</p><p><strong>Penjelasan:</strong></p><p></p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>Sebutkan 3 contoh campuran heterogen\u200b adalah \u00a0</p><p>1. Campuran pasir dan air,\n</p><p>2. Air dengan minyak\n</p><p>3. Serbuk besi dengan serbuk belerang</p><p><strong></strong></p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pada-reaksi-n2-dengan-h2-menghasilkan-nh3-reaksinya-n2g-3h-800",
+            "question": "Pada reaksi N2 dengan H2 menghasilkan NH3.    Reaksinya : N2(g) + 3H2(g)\r\n2NH3(g)\r\nJika NH3 yang dihasilkan 30 liter. Maka N2 yang\r\ndireaksikan adalah... liter\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>15 L</p><p><strong>Penjelasan:</strong></p><p>Perbandingan koefisien ~ perbandingan volume</p><p></p><p>N2 : NH3 = 1 : 2</p><p>Volume N2 = ( 1 / 2 ) x 30 L = 15 L</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "gas-asetilena-terbakar-menurut-reaksi-berikut-c2-h2-5-o2-menjad-131",
+            "question": "Gas asetilena terbakar menurut reaksi berikut c2 h2 + 5 o2 menjadi co2 + h2o (belum setara) a.tentukan volume udara yang diperlukan untuk membakar 10 liter gas asetilena jika kadar oksigen dalam udara sebesar 20% b.tentukan volume co2 yang dihasilkan\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>A. 125 L</p><p>B. 20 L</p><p><strong>Penjelasan:</strong></p><p>Persamaan reaksi:</p><p>2 C2H2 + 5 O2 =&gt; 4 CO2 + 2 H2O</p><p></p><p>Perbandingan koefisien ~ perbandingan volume</p><p></p><p>C2H2 : O2 : CO2 = 2 : 5 : 4</p><p></p><p>A. Volume O2 = ( 5 / 2 ) x 10 L = 25 L, volume udara yg diperlukan = 25 L : 20% = 125 L</p><p></p><p>B. Volume CO2 = ( 4 / 2 ) x 10 L = 20 L</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "p-p-p-p-p-p-p-p-p-p-p-p-p-p-p-p-p-p-p-p-p-p-p-p-p-p-p-p-p-p-bismi-969",
+            "question": "P P P P P P P P P P P P P P P P P P P P P P P P P P P P P P    Bismillahirrahmanirrahim\r\nbantuin jawab kak,, jangan cuma rakus sama point nya doang:)\r\n\r\n\r\nkalau pun di ambil, silahkan di nikmati point haramnya\u200b",
+            "attachments": [
+                "question-attachments/p-p-p-p-p-p-p-p-p-p-p-p-p-p-p-p-p-p-p-p-p-p-p-p-p-p-p-p-p-p-bismi-969-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>kak tolong jawab pertanyaan ku dong</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "rumus-umum-alkana-adalah-640",
+            "question": "Rumus umum alkana adalah\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p></p><p>Mempunyai rumus umum, untuk deret homolog alkana adalah CnH2n+2.</p><p></p><h3>Semoga Bermanfaat Ya</h3>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "perbandingan-massa-h-dengan-0-pada-senyawa-h20-adalah-18-jika-d-161",
+            "question": "Perbandingan massa H dengan 0 pada senyawa H20    adalah 1:8. Jika direaksikan 2 gram H dengan 8 gram\r\nO. Maka akan dihasilkan H20 sebanyak.... Gram\r\na. 9\r\nb. 10\r\nc. 11\r\nd. 12\r\ne. 13\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>A. 9</p><p><strong>Penjelasan:</strong></p><p>massa H : O bereaksi = 1 gram : 8 gram</p><p>massa H2O = 1 + 8 gram = 9 gram</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-fx2x-3x5-nilai-f-11-248",
+            "question": "Jika f(x)=2x-3/x+5 nilai f^-1(1)=\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>f(1)^-1 = 8</p><p><strong>Penjelasan:</strong></p><p>f(x) = 2x - 3/ x + 5</p><p>      = 5x + 3 / -x + 2x</p><p>f(x)^-1 = 5x +3 / x </p><p>f(1)^-1  = 5(1) + 3 / (1)</p><p>          = 8 / 1</p><p>          = 8 </p><p></p><p></p><p>f(x) = ax + b / cx + d </p><p>f(x)^-1 = dx - b / -cx + a</p>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

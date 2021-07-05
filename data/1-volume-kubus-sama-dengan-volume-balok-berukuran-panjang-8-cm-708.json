@@ -1,0 +1,146 @@
+{
+    "question": "1. Volume kubus sama dengan volume balok berukuran panjang 8 cm, lebar 4 cm dan tinggi 16 cm.    Tentukan berapa cm panjang sisi kubus!\u200b",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "<p>\u25cf Materi : Bangun Ruang</p><p>\u25cf Kode Kategorisasi : 8.2.8</p><p></p><h2>s = 8 cm</h2><p></p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>V. Balok</p><p>V = p x l x t</p><p>V = 8 x 4 x 16</p><p>V = 512 cm^3</p><p></p><p>V. Kubus = 512</p><p>         s^3 = 512</p><p>             <strong>s = 8 cm</strong></p>",
+            "attachments": []
+        },
+        {
+            "answer": "<h2>Jawaban:</h2><p>Panjang sisi kubus = 8 cm</p><p></p><h2>Pembahasan Materi:</h2><p><strong>Kubus</strong> adalah <u>suatu bangun ruang yang memiliki enam sisi yang semua sisinya berbentuk persegi dan memiliki 12 rusuk yang semua rusuknya sama panjang.</u></p><p></p><p>Rumus volume kubus:</p><p>V = s\u00b3</p><p></p><p>Rumus luas permukaan kubus:</p><p>L = 6 \u00d7 s\u00b2</p><p></p><p>Rumus panjang sisi rusuk kubus:</p><p>s = \u00b3\u221aV</p><p>\u00a0\u00a0 = \u221aL \u00f7 6</p><p></p><p>Rumus panjang diagonal sisi kubus:</p><p>ds = s\u221a2</p><p></p><p>Rumus panjang diagonal ruang kubus:</p><p>dr = s\u221a3</p><p></p><p>Rumus luas bidang diagonal kubus:</p><p>bd = s\u00b2\u221a2</p><p></p><p>Rumus keliling kubus:</p><p>K = 12 \u00d7 s</p><p></p><p>Rumus luas alas kubus:</p><p>L = s\u00b2 = s \u00d7 s</p><p></p><p>Keterangan:</p><p>s = panjang sisi rusuk</p><p>ds = diagonal sisi</p><p>dr = diagonal rusuk</p><p>bd = bidang diagonal</p><p></p><p>-------</p><p></p><p><strong>Balok</strong>\u00a0adalah <u>suatu bangun ruang yang memiliki tiga pasang sisi yang ukurannya sama dan saling berhadapan serta memiliki bentuk persegi panjang.</u></p><p></p><p>Rumus Volume Balok:</p><p>V = p \u00d7 l \u00d7 t</p><p></p><p>Rumus Luas Permukaan Balok:</p><p>L = 2((p \u00d7 l) + (p \u00d7 t) + (l \u00d7 t))</p><p></p><p>Rumus Luas Permukaan Balok Tanpa Tutup:</p><p>L = (p \u00d7 l) + 2(l \u00d7 t) + 2(p \u00d7 t)</p><p></p><p>Rumus Panjang Kawat Balok (PKB) :</p><p>PKB = 4(p + l + t)</p><p></p><p>Rumus Luas Alas Balok:</p><p>L = p \u00d7 l</p><p></p><p>Rumus Keliling Balok:</p><p>K = 4(p + l + t)</p><p></p><p>Rumus Diagonal Bidang atau Sisi Balok (ds):</p><p>db1 = \u221ap\u00b2 + l\u00b2</p><p>db2 = \u221ap\u00b2 + t\u00b2</p><p>db3 = \u221al\u00b2 + t\u00b2</p><p></p><p>Rumus Diagonal Ruang Balok (dr):</p><p>dr = \u221a(p\u00b2 + l\u00b2 + t\u00b2)</p><p></p><p>Rumus Luas Bidang Diagonal Balok (bd):</p><p>bd1 = db1 \u00d7 t</p><p>bd2 = db2 \u00d7 l</p><p>bd3 = db3 \u00d7 p</p><p></p><p>Keterangan:</p><p>p = panjang balok</p><p>l = lebar balok</p><p>t = tinggi balok</p><p></p><h2>Penyelesaian:</h2><p>Diketahui:</p><p>p = 8 cm</p><p>l = 4 cm</p><p>t = 16 cm</p><p>V.kubus = V.balok</p><p></p><p>Ditanya: Panjang sisi kubus (s) = ?</p><p></p><p>Dijawab:</p><p>V.balok = p \u00d7 l \u00d7 t</p><p>             = 8 \u00d7 4 \u00d7 16</p><p>             = 32 \u00d7 16</p><p>             = 512 cm\u00b3</p><p></p><p>V.kubus = s\u00b3</p><p>512 = s\u00b3</p><p>s = \u00b3\u221a(512)</p><p>   = 8 cm</p><p></p><p>Jadi, panjang sisi kubus tersebut adalah <strong><u>8</u></strong><strong><u> </u></strong><strong><u>c</u></strong><strong><u>m</u></strong>.</p><p></p><h2>Detail Jawaban</h2><p>Mapel: MTK</p><p>Kelas: 8 SMP</p><p>Materi: Bab 8 - Bangun Ruang</p><p>Kode Soal: 2</p><p>Kode Kategorisasi: 8.2.8</p><p>Kata Kunci: Volume Balok, Volume Kubus, Panjang Sisi Kubus</p>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "diketahui-sebuah-balok-memiliki-lebar-5-cm-dan-tingginya-4-cm-jik-137",
+            "question": "Diketahui Sebuah balok Memiliki Lebar 5 cm dan tingginya 4 cm jika volume balok 200 cm maka Tentukan Panjang balok!\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>200= 5 .4 .X</p><p>200= 20x</p><p>200/20= x</p><p>10 = x</p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>10 cm</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p><strong>Diketahui</strong><strong>:</strong></p><p>l = 5 cm</p><p>t = 4 cm</p><p>V = 200 cm\u00b3</p><p><strong>ditanya</strong><strong>:</strong><strong> </strong> p?</p><p><strong>jawab:</strong></p><p>    V = p x l x t</p><p>200 = p x 5 x 4</p><p>200 = 20p</p><p>     p = 200/20</p><p>     p = 10</p><p><strong>jadi </strong><strong>panjang </strong><strong>balok</strong><strong> </strong><strong>adalah </strong><strong>1</strong><strong>0</strong><strong> </strong><strong>cm</strong></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "8-jika-y-4x2-1-3x-2-maka-y-712",
+            "question": "8. Jika y = ( 4x2-1) (3x + 2), maka y' = ..",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>Ini maksudnya 4x kuadrat kali ya? kalo iya berarti</p><p>[tex]y = (4x^{2} -1)(3x+2)\\\\y = 12x^{3}  +8x^{2} -3x-2\\\\[/tex]</p><p>Ditanyanya turunan pertama, atau y&#039;,</p><p>Sesuai sifat turunan berarti:</p><p>[tex]36x^{2} +16x-3[/tex]</p><p></p><p>Semoga membantu</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-proyek-dikerjakan-dikerjakan-oleh-8-orang-selesai-dalam-wa-383",
+            "question": "Sebuah proyek dikerjakan dikerjakan oleh 8    orang selesai dalam waktu 15 hari. Supaya\r\nproyek selesai dalam waktu 12 hari, banyak\r\npekerja yang perlu ditambahkan adalah.....\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>8 orang = 15 hari </p><p>x orang = 12 hari</p><p></p><p>x = (15 x 8) : 12 = 10 orang</p><p></p><p>jadi banyak pekerja yg harus ditambah </p><p>10-8 = 2 orang pekerja</p><p></p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<p><strong>Jawab:</strong></p><p>10 orang</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>proyek dikerjakan 8 orang selesai dalam 15 hari</p><p>proyek dikerjakan a orang selesai dalam 12 hari</p><p>maka :</p><p>15 x 8 = 12 x a</p><p>120 = 12a</p><p>a = 120 : 12</p><p>a = 10 orang</p><p></p><p>ini jawaban yang benar</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-hasil-pengukuran-berat-badan-10-org-siswa-kelas-v-adala-916",
+            "question": "diketahui hasil pengukuran berat badan 10 org siswa kelas V adalah sebagai berikut: 30,29,32,31,28,29,28,30,30,34 urutan berat badan 10 siswa tersebut dari yang teringan adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>28,28,29,29,30,30,30,31,32,34</p><p></p><p>semoga membantu.</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "skala-1100-145-cm-pernyataan-yang-sesuai-dengan-kondisi-denah-d-392",
+            "question": "Skala 1:100    14,5 cm\r\nPernyataan yang sesuai dengan kondisi denah di atas adalah\r\nA. Luas tanah pada denah adalah 149,5 m2\r\nB. Panjang tanah sebenarnya adalah 14,5 m\r\nC. Luas tanah pak Khaerul sebenarnya 149,5 cm?\r\nD. Jumlah luas seluruh kamar tidur adalah 25,5 m2\r\nE. Ukuran tanah sebenarnya adalah 14,5 m2 x 11 m2\r\natikan gambar berikut!\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>B.</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>JS= jp \u00d7 S </p><p>JS=14,5 \u00d7 100 </p><p>    =1450  cm = 14,5 m</p><p></p><p>jadi, dari pernyataan di atas yang benar adalah B</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-bak-mandi-berbentuk-kubus-berukuran-15mandi-telah-menggu-371",
+            "question": "Sebuah bak mandi berbentuk kubus berukuran 1,5m.andi telah menggunakannya untuk mandi sehingga air nya tersisa 2/3 bagian ,sisa air pada bak mandi tersebut adalah\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>2,25 m\u00b3</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>Volume kubus = s \u00d7 s \u00d7 s = s\u00b3</p><p>1,5 \u00d7 1,5 \u00d7 1,5 = 1,5\u00b3 = 3,375 m\u00b3</p><p>3,375 \u00d7 2/3 = 2,25 m\u00b3</p><p></p><p>Semoga Membantu^^</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "perhatikan-gambar-berikut-besar-ltd-adalah-a-36-b-72-629",
+            "question": "Perhatikan gambar berikut!\r\nbesar &lt;D adalah......\r\na. 36\u00b0\r\nb. 72\u00b0\r\nc. 144\u00b0\r\nd. 288\u00b0\u200b",
+            "attachments": [
+                "question-attachments/perhatikan-gambar-berikut-besar-ltd-adalah-a-36-b-72-629-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p> kkkkkokokokkokookkkkkk</p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>A. 36\u00b0</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>semoga benar dan semoga membantu </p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-cos-50pmaka-sin-140-a-p-b-p-c-p-d-2p-e-840",
+            "question": "Jika cos 50\u00b0=p,maka sin 140\u00b0=.....\r\na. p\r\nb. -p\r\nc. \u221ap\r\nd. 2p\r\ne. -2p\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawab:</strong></p><p></p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>trigonometri</p><p>sudut relasi</p><p>__</p><p>cos 50 = p</p><p>sin 140 = sin (90 + 50)</p><p>= - cos 50</p><p>= - p</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "nilai-x-dari-gambar-berikut-adalah-a-16-b-7-c-11-d-4-786",
+            "question": "Nilai x dari gambar berikut adalah... \r\nA. 16\r\nB. 7\r\nC. 11\r\nD. 4\r\n\r\n\u200b",
+            "attachments": [
+                "question-attachments/nilai-x-dari-gambar-berikut-adalah-a-16-b-7-c-11-d-4-786-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>(8x-20)+(4x+8)= 180</p><p>12x -12 = 180</p><p>12x = 180 +12</p><p>x= 192/12</p><p>x= 16 </p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bantuin-please-ya-kak-599",
+            "question": "Bantuin please ya kak\u200b",
+            "attachments": [
+                "question-attachments/bantuin-please-ya-kak-599-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>33.-garis yg sejajar adalah garis a dan b</p><p>     -garis yg berpotongan adalah garis b dan c</p><p></p><p>34.</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>maaf cuma bisa jawab 2 soal</p>",
+                    "attachments": [
+                        "answer-attachments/bantuin-please-ya-kak-599-1.jpg"
+                    ]
+                }
+            ]
+        }
+    ]
+}

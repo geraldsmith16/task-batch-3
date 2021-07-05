@@ -1,0 +1,138 @@
+{
+    "question": "9. Tentukan nilai integral dari \u017f 2x3 + 7x \u2013 3 dx ?\u200b",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "<p><strong>Jawaban:</strong></p><p>x\u2074/2 + 7x\u00b2/2 + 3x + c </p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>[tex]fx = 2x^{3}  + 7x - 3 \\: dx \\\\  =   \\frac{ {2x}^{3 + 1} }{3 + 1}  +  \\frac{ {7x}^{1 + 1} }{1 + 1}  + -  \\frac{{3x}^{0 + 1} }{0 + 1}  + c \\: dx \\\\  =  \\frac{ {2x}^{4} }{4}  +  \\frac{ {7x}^{2} }{2}  + 3x + c \\: dx \\\\  =  \\frac{ {x}^{4} }{2}  +   \\frac{ {7x}^{2} }{2}  + 3x + c \\: dx[/tex]</p>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "lontong-plisss-kak-346",
+            "question": "Lontong .....plisss kak\u200b",
+            "attachments": [
+                "question-attachments/lontong-plisss-kak-346-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>88 cm\u00b2</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>diketahui:</p><p>bangun persegi</p><p>bangun segitiga</p><p><strong>ditanya</strong><strong>:</strong><strong> </strong><strong>luas </strong><strong>bangun </strong><strong>gabungan</strong><strong>?</strong></p><p><strong>jawab:</strong></p><p>L = luas persegi + luas segitiga</p><p>   = ( 8 x 8 ) + ( 1/2 x 6 x 8)</p><p>   = 64 + 24</p><p>   = 88 cm\u00b2</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-keliling-segitiga-sama-kaki-56-cm-jika-panjang-sisi-sam-632",
+            "question": "diketahui keliling segitiga sama kaki 56 cm jika panjang sisi sama kakinya 17 cm maka panjang sisi yang lain adalah\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban: 22</strong></p><p>Cara:</p><p>[tex]2*(sisi sama kaki)+(sisiyanglain)=56[/tex]</p><p>\u21d2[tex]2*17+(sisiyang lain)=56[/tex]</p><p>\u21d2[tex](sisiyanglain)=22[/tex]</p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "hitunglah-keliling-lingkaran-jika-a-r-14cm-b-d-35cm-637",
+            "question": "Hitunglah keliling lingkaran jika \r\n\r\n a. r= 14cm\r\n b. d= 35cm",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawab:</strong></p><p>a. 88</p><p>b. 109,9</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p></p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>a. K = 2\u03c0r</p><p>       = 2 x 22/7 x 14</p><p>       = 88 cm</p><p>b. K = \u03c0.d</p><p>       = 3.14 x 35</p><p>       = 109,9 cm</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "hitunglah-jari-jari-lingkaran-yang-mempunyai-luas-100-69-cm-280",
+            "question": "Hitunglah jari-jari lingkaran yang mempunyai luas 100-69 cm",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>3</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>diketahui :</p><p>Luas lingkaran 100 - 69 cm</p><p>ditanyakan :</p><p>jari\u00b2 ?</p><p>jawab :</p><p>Luas : 100 - 69 = 31 cm</p><p>                      \u03c0 = 3,14</p><p>Luas =  \u03c0 x r\u00b2</p><p>31 = 3,14 x r\u00b2</p><p>r\u00b2 = 31 : 3,14</p><p>r\u00b2 = 9</p><p>r = \u221a9</p><p>r = 3</p><p>     </p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "23-diberikan-suatu-persegi-panjang-abcd-e-dan-f-berturut-turut-596",
+            "question": "23. Diberikan suatu persegi panjang ABCD, E, dan F berturut-turut adalah titik tengah dari AB dar    yang diarsir adalah 7 cmP.Maka luas persegi panjang ABCD yang\r\na. 35 cm\r\nb. 42 cm\r\nc.49 cm\r\nd. 56 cm\r\n\r\n\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>jawabannya ada 2 ya tergantung daerah mana yang diarsir( karena ngga ada gambarnya ) tapi karena dipilihan ada 56, berarti itu jawabannya</p>",
+                    "attachments": [
+                        "answer-attachments/23-diberikan-suatu-persegi-panjang-abcd-e-dan-f-berturut-turut-596-1.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "titik-p-37-dicerminkan-terhadap-garis-y-x-koordinat-bayang-159",
+            "question": "Titik P(-3,7) dicerminkan terhadap garis y = -x. koordinat bayangan titik P adalah\u2026     A. \u2032(\u22127,3)\r\n\r\nB. \u2032(3, \u22127)\r\n\r\nC. \u2032(7, \u22123)\r\n\r\nD. \u2032(7,3)\r\n\r\nE. \u2032(\u22127, \u22123)\r\ntolong dibantu buat UAS besok\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>A. `(-7,3)</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>pencerminan y= -x     = (-y,-x)</p><p></p><p></p><p></p><p>semoga membantu &amp; paham:)</p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-banget-dibantu-yaa-626",
+            "question": "Tolong banget dibantu yaa\u200b",
+            "attachments": [
+                "question-attachments/tolong-banget-dibantu-yaa-626-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawab:</strong></p><p></p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p></p>",
+                    "attachments": [
+                        "answer-attachments/tolong-banget-dibantu-yaa-626-1.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "tolong-ini-berapa-ya-323",
+            "question": "Tolong ini berapa ya? \u200b",
+            "attachments": [
+                "question-attachments/tolong-ini-berapa-ya-323-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>sekitar 10 bulan an </p><p></p><p>semoga membantu </p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "please-bantu-jawab-489",
+            "question": "Please bantu jawab........\u200b",
+            "attachments": [
+                "question-attachments/please-bantu-jawab-489-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>x^3</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>2x+2&lt;83-x</p><p>pindah ruas</p><p>3x&lt;81</p><p>x&lt;27</p><p>x^3 = 27</p><p>cmiiw kalo caranya salah</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jarak-titik-pusat-lingkaran-a-dan-b-adalah-13-cm-jari-jari-lingk-993",
+            "question": "Jarak titik pusat lingkaran A dan B    adalah 13 cm. Jari-jari lingkaran A dan\r\njari-jari lingkaran B berturut-turut 20 cm\r\ndan 8 cm. Panjang garis singgung\r\npersekutuan luar kedua lingkaran\r\nadalah...\r\nA.5 cm\r\nB.10 cm\r\nC.14 cm\r\nD.16 cm\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>A. 5 cm</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p><strong>d</strong><strong>iketahui</strong><strong> </strong><strong>:</strong> Jarak (j)      \u2192 13cm</p><p>                    jari-jari 1 (R)\u2192 20cm</p><p>                    jari jari 2 (r)\u2192 8cm</p><p></p><p><strong>ditanya</strong><strong> </strong><strong>:</strong><strong> </strong>Panjang garis singgung     </p><p>                persekutuan luar (pgl)</p><p></p><p><strong>jawab</strong><strong> </strong><strong>:</strong><strong> </strong>pgl\u00b2=J\u00b2-(R-r)\u00b2</p><p>             pgl\u00b2=13\u00b2-(20-8)\u00b2</p><p>             pgl\u00b2=13\u00b2-12\u00b2</p><p>             pgl\u00b2=169-144</p><p>             pgl\u00b2=25</p><p>             pgl=\u221a25</p><p>             pgl=5cm</p><p></p><p><strong>jadi</strong><strong>,</strong>panjang garis singgung persekutuan luar kedua lingkaran adalah <strong>5cm</strong><strong>.</strong></p>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

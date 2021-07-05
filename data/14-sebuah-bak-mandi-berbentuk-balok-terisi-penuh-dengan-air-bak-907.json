@@ -1,0 +1,146 @@
+{
+    "question": "14.    Sebuah bak mandi berbentuk balok\r\nterisi penuh dengan air, bak mandi\r\ntersebut berukuran panjang 2 m,\r\nlebar 50 cm dan volume bak mandi\r\n300 liter air. Tinggi bak mandi\r\ntersebut adalah....\r\nA. 10 cm\r\nB. 20 cm\r\nC. 30 cm\r\nD. 50 cm\u200b",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "<p><strong>Jawaban:</strong></p><p>C. 30 cm</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>panjang = 2 m = 20 dm</p><p>lebar = 5 dm</p><p>volume = 300 liter = 300 dm\u00b3</p><p></p><p>tinggi = volume/(panjang x lebar)</p><p>tinggi = 300/(20x5) = 300/100 = 3 dm = <strong>30</strong><strong> </strong><strong>cm</strong></p>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "dekat-fungsi-dengan-fungsi-invres-fx-3x-9-f-r-r-f-1x-512",
+            "question": "Dekat fungsi\u00a0dengan\u00a0\u00a0 fungsi invres f(x) 3x-9 f : R-R , f-1(x)    adalah...\r\n\r\ntolong bantuannya kak\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>f(x) = 3x - 9</p><p></p><p></p><p></p><p>y = 3x - 9</p><p>y + 9 = 3x</p><p>y + 9/3 = x</p><p></p><p></p><p></p><p>[tex] {f}^{ - 1} (x) =  \\frac{x + 9}{3} [/tex]</p><p></p><p></p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<p><strong>Penjelasan dengan langkah-langkah:</strong></p><p><em>D</em><em>i</em><em>k</em><em>e</em><em>t</em><em>a</em><em>h</em><em>u</em><em>i</em><em>:</em></p><p>f(x)=3x-9</p><p></p><p><em>D</em><em>i</em><em>t</em><em>a</em><em>n</em><em>y</em><em>a</em><em>:</em><em> </em><em>f</em><em>-</em><em>\u00b9</em><em>(</em><em>x</em><em>)</em></p><p></p><p><em>P</em><em>e</em><em>m</em><em>b</em><em>a</em><em>h</em><em>a</em><em>s</em><em>a</em><em>n</em><em>:</em></p><p>y=3x-9</p><p>3x=y+9</p><p>x=(y+9)/3</p><p>f-\u00b9(y)=(y+9)/3</p><p><strong>f-\u00b9(x)=(x+9)/3</strong></p><p></p><p><em>p</em><em>e</em><em>l</em><em>a</em><em>j</em><em>a</em><em>r</em><em>i</em><em> </em><em>s</em><em>o</em><em>a</em><em>l</em><em> </em><em>b</em><em>e</em><em>r</em><em>i</em><em>k</em><em>u</em><em>t</em><em>:</em></p><p>https://brainly.co.id/tugas/27158302</p><p>https://brainly.co.id/tugas/1342460</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "kak-di-jawab-ya-kak-795",
+            "question": "Kak di jawab ya kak\u200b",
+            "attachments": [
+                "question-attachments/kak-di-jawab-ya-kak-795-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>hitung luasnya hitung kelilingnya</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><ol><li><em><u>g</u></em><em><u>h</u></em><em><u>h</u></em><em><u>j</u></em></li></ol>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-harga-1-kg-mangga-2-kg-salak-dan-3-kg-kelengkeng-adala-341",
+            "question": "Diketahui harga 1 kg mangga, 2 kg salak dan 3 kg kelengkeng adalah Rp105.000. Harga 4    kg mangga, 1 kg salak dan 2 kg kelengkeng adalah Rp126.000. Harga 3 kg mangga, 3 kg\r\n salak dan 1 kg kelengkeng adalah Rp111.000. Dengan eliminasi Gauss-Jordan, tentukan\r\n harga per kg masing-masing buah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawab:</strong></p><p>Diketahui:</p><p>Misalkan mangga=x , salak=y, dan kelengkeng = z</p><p>x+2y+3z = 105.000</p><p>4x+y+2z=126.000</p><p>3x+3y+z=111.000</p><p>DItanyakan : Berapa harga per kg masing-masing buah menggunakan eliminasi gauss jordan ?</p><p>Jawab</p><p>[tex]\\left[\\begin{array}{ccc}1&amp;2&amp;3\\\\4&amp;1&amp;2\\\\3&amp;3&amp;1\\end{array}\\right] \\left[\\begin{array}{ccc}105.000\\\\126000\\\\111.000\\end{array}\\right][/tex]</p><p>\u2193b2-4b1, b3-3b1 \u00a0 \u00a0catatan=(b=baris ke)</p><p>[tex]\\left[\\begin{array}{ccc}1&amp;2&amp;3\\\\0&amp;-7&amp;-10\\\\0&amp;-3&amp;-8\\end{array}\\right] \\left[\\begin{array}{ccc}105.000\\\\-294.000\\\\-204.000\\end{array}\\right][/tex]</p><p>\u2193b2-2b3</p><p>[tex]\\left[\\begin{array}{ccc}1&amp;2&amp;3\\\\0&amp;1&amp;6\\\\0&amp;-3&amp;-8\\end{array}\\right] \\left[\\begin{array}{ccc}105.000\\\\114.000\\\\-204.000\\end{array}\\right][/tex]</p><p>\u2193b3+3b2, b1-2b2</p><p>[tex]\\left[\\begin{array}{ccc}1&amp;0&amp;-9\\\\0&amp;1&amp;6\\\\0&amp;0&amp;10\\end{array}\\right] \\left[\\begin{array}{ccc}-123.000\\\\114.000\\\\138.000\\end{array}\\right][/tex]</p><p>\u2193b3+b1</p><p>[tex]\\left[\\begin{array}{ccc}1&amp;0&amp;-9\\\\0&amp;1&amp;6\\\\0&amp;0&amp;1\\end{array}\\right] \\left[\\begin{array}{ccc}-123.000\\\\114.000\\\\15.000\\end{array}\\right][/tex]</p><p>\u2193b2-6b3, b1+9b3</p><p>[tex]\\left[\\begin{array}{ccc}1&amp;0&amp;0\\\\0&amp;1&amp;0\\\\0&amp;0&amp;1\\end{array}\\right] \\left[\\begin{array}{ccc}12.000\\\\24.000\\\\15.000\\end{array}\\right][/tex]</p><p>Jadi Harga masing-masing buah adalah</p><p>1 kg mangga = Rp12.000</p><p>1 kg salak = 24.000</p><p>1 kg kelengkeng=15.000</p><p></p><p></p><p></p><p></p><p></p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-di-jawab-ya-kk-cntik-abg-gnteng-952",
+            "question": "Tolong di jawab ya kk cntik abg gnteng \u200b",
+            "attachments": [
+                "question-attachments/tolong-di-jawab-ya-kk-cntik-abg-gnteng-952-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "<p></p><p>Kalau Mau Jasa tulis tugas Matematika SMP/SMA </p><p>bisa dm aja ya ig:annisarahmah312 </p><p>Harga mulai dari 10k tf dana/pulsa </p><p>Owner Mahasiswa Jurusan Matematika </p><p></p><p>penyelesaian ada di gambar yaa, untuk soal 14 dan 15 juga sama caranya, semoga Bermanfaat \u2764\ufe0f</p>",
+                    "attachments": [
+                        "answer-attachments/tolong-di-jawab-ya-kk-cntik-abg-gnteng-952-1.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "tolong-saya-untuk-membantu-soal-ini-241",
+            "question": "Tolong saya untuk membantu soal ini\u200b",
+            "attachments": [
+                "question-attachments/tolong-saya-untuk-membantu-soal-ini-241-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>=\u271313\u00b2-5\u00b2</p><p>=\u2713169-25</p><p>=\u2713144</p><p>=12cm</p><p></p><p>semoga membantu&gt;&lt;</p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>12cm................................</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-banyak-pengunjung-seluruhnya-adalah-1380-orang-banyak-peng-744",
+            "question": "Jika banyak pengunjung seluruhnya adalah 1.380 orang, banyak pengunjung pada hari Kamis adalah",
+            "attachments": [
+                "question-attachments/jika-banyak-pengunjung-seluruhnya-adalah-1380-orang-banyak-peng-744-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>Jumlah pengunjung= 1.380 orang</p><p>Jumlah pengunjung Hari Kamis= 1.380-(Senin-Selasa+Rabu+Jumat+Sabtu+Minggu)</p><p>=1.380-(170+140+190+200+220+300)</p><p>=1.380-1.220</p><p>=160 orang</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "mohon-dibantu-ya-kakaka-623",
+            "question": "Mohon dibantu ya kakaka\u2764\ufe0f",
+            "attachments": [
+                "question-attachments/mohon-dibantu-ya-kakaka-623-1.jpeg"
+            ],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>1.A. segitiga sama sisi</p><p>  B. 3</p><p>  C. IPK PKI KIP</p><p>  D. TRS RST STR</p><p>  E. tiga</p><p></p><p>2.A.segitiga sama kaki</p><p>  B. kaki</p><p>  C. Tiga</p><p>  D. Garis dan sudut</p><p>  </p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p> SEMOGA MEMBANTU;)</p><p></p><p>jadikan yg terbaik</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "70000-dollar-itu-berapa-rupiah-99846250000-itu-berapa-juta-652",
+            "question": "70.000 dollar itu berapa rupiah ? 998.462.500,00 Itu berapa juta?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p></p><p>998,462,500.00 Indonesian Rupiah</p><p>998 jt</p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>1 US dollar berkisar 14.000 rupiah, tidak diketahui pasti, bisa lebih bisa kurang. paling umum, 1 US $ = 14.270 rupiah.</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>1 US $ = Rp. 14.270</p><p>70.000 \u00d7 14.270 = 998.900.000</p><p>__ ___ __ ___ __</p><p>$ -&gt; dollar </p><p>US -&gt; Amerika</p><p>__ ___ __ ___ __</p><p>998.462.500,00 dibaca <strong>sembilan</strong><strong> </strong><strong>rat</strong><strong>us</strong><strong> </strong><strong>sembilan</strong><strong> </strong><strong>puluh</strong><strong> </strong><strong>del</strong><strong>apan</strong><strong> </strong><strong>juta</strong><strong> </strong><strong>empa</strong><strong>t</strong><strong> </strong><strong>rat</strong><strong>us</strong><strong> </strong><strong>ena</strong><strong>m</strong><strong> puluh</strong><strong> </strong><strong>du</strong><strong>a</strong><strong> </strong><strong>rib</strong><strong>u</strong><strong> </strong><strong>lim</strong><strong>a</strong><strong> ratus</strong><strong> </strong><strong>rupi</strong><strong>ah</strong><strong>.</strong></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dari-data-162432404856-tentukan-persentil-ke-30nya-644",
+            "question": "Dari data 16,24,32,40,48,56 Tentukan persentil ke 30nya\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>248</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>Karena di mulai dari 16 yaitu hasil 2\u00d78</p><p>maka presentil ke 30 adalah 31\u00d78=248</p><p></p><p>semoga membantu</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "42-perhatikan-gambar-di-bawah-ini-k-l-10-cm-6-cm-m-n-berapa-cm-679",
+            "question": "42. Perhatikan gambar di bawah ini!    K\r\n.L\r\n10 cm\r\n6 cm\r\nM\r\nN\r\nBerapa cm\u00b2 luas persegi panjang di atas?\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>Rumus Luas persegi panjang :</p><p>    </p><p>      P x l</p><p>    10 x  6</p><p>=60 cm </p><p></p><p>jadi luas persegi panjang do atas adalah  = 60 cm</p><p></p>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

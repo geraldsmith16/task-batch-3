@@ -1,0 +1,140 @@
+{
+    "question": "sebuah buku memiliki massa 0,5 kg dijatuhkan pada ketinggian 20 cm dan gaya gravitasi bumi 10 N/kg Hitunglah besar energi potensial buku tersebut\u200b",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "<h2>Materi Energi</h2><h3>(energi potensial)</h3><h3></h3><p>Energi potensial adalah energi yang terdapat pada suatu benda yang mempunyai ketinggian. Satuan SI-nya adalah joule (J). Energii potensial juga dapat dimiliki oleh benda yang tertekan, seperti anak panah yang akan dilepas, Atau jika kita merenggangkan pegas, maka bisa dikatakan pegas tersebut memiliki gaya potensial elastik.</p><p></p><p>Rumusnya adalah:</p><p></p><p>Ep = m \u00d7 g \u00d7 h</p><p></p><p>dengan ketentuan:</p><p>Ep = energi potensial</p><p>m = massa (m)</p><p>g = percepatan gravitasi (m/s\u00b2)</p><p>h = tinggi (m)</p><p></p><h3><u>Pembahasan:</u></h3><h3></h3><p>Diketahui:</p><p>m = 0,5 kg</p><p>h = 20 cm \u21d2 0,2 m</p><p>g = 10 N/kg \u21d4 10 m/s\u00b2 (sama saja)</p><p></p><p>Ditanya:</p><p>energi potensial (Ep) ?</p><p></p><p>jawab:</p><p></p><p>Ep = m \u00d7 g \u00d7 h</p><p>= 0,5 \u00d7 10 \u00d7 0,2</p><p>= 1 Joule</p><h3></h3>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "sebuah-bola-balok-bermassa-592-kg-mula-mula-diam-diatas-lantai-h-654",
+            "question": "sebuah bola balok bermassa 5,92 kg mula mula diam diatas lantai horizontal. sebutir peluru bermassa 90 gram menumbuk balok, kemudian bersarang didalam balok. Bila energi kinetik yang hilang selama tumbukan adalah 675 joule. Tentukan kecepatan peluru sesaat sebelum tumbukan ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>Vp = 134 m/s</p><p><strong>Penjelasan:</strong></p><p>Dasar teori</p><p>TUMBUKAN</p><p>Untuk semua jenis tumbukan berlaku</p><p>Hukum Kekekalan momentum</p><p>m1 V1 + m2V2= m1V1&#039; + m2 V2&#039;</p><p></p><p>Koefisien tumbukan atau koefisien restitusi :</p><p>e = V2&#039; - V1&#039; / (V1- V2)</p><p>Tumbukan lenting sempurna, e = 1</p><p>Tumbukan lenting sebagian, 0 &lt; e &lt; 1</p><p>Tumbukan tidak lenting sama sekali, e = 0</p><p>catatan</p><p>m1, m2 = massa benda 1 dan 2</p><p>V1, V2 = kecepatan benda 1 dan 2 sebelum tumbukan</p><p>V1&#039;, V2&#039; = kecepatan benda 1 dan 2 setelah tumbukan</p><p></p><p>Diketahui</p><p>mb = 5 kg</p><p>Vb = 0</p><p>mp = 90 g = 0,09 kg</p><p>Ek hilang = 675 J</p><p>Ditanya</p><p>Kecepatan peluru menumbuk balok</p><p>Penyelesaian</p><p>Hukum Kekekalan momentum</p><p>Peluru tertanam dalam balok (tumbukan tdk lenting dama sekali), setelah tumbukan, balok dan peluru memiliki kecepatan sama yang dinyatakan :</p><p>Vp&#039; = Vb&#039; = V&#039; = [mp Vp + mb Vb ]/(mp + mb]</p><p>Energi kinetik awal</p><p>Ek1 = 1/2 mVp^2</p><p>       = 1/2 0,09 Vp^2</p><p>Ek1 = 4,5 \u00d7 10^-2 Vp^2</p><p>Energi kinetik akhir</p><p>Ek2 = 1/2 (mp+mb)  [(mp Vp + mb Vb )/(mp + mb)]^2</p><p>       = 1/2 [mp Vp]^2/(mp + mb)</p><p>       = 1/2 [0,09Vp]^2/(5,92 + 0,09)</p><p>Ek2  = 7,5 \u00d7 10^-3 Vp^2</p><p>Ek hilang = Ek1 - Ek2</p><p>     675  = (45 - 7,5) 10^-3 Vp^2</p><p>     675  =  37,5 \u00d710^-3 Vp^2</p><p>Vp = 134 m/s</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-vas-bunga-besar-bermassa-m3-kg-berada-di-atas-meja-pada-k-386",
+            "question": "Sebuah vas bunga besar bermassa m=3 kg berada di atas meja pada ketinggian h=1 meter. Jika percepatan gravirasi bumi g=10 m/s\u00b2. Berapakah energi potensial (Ep) yang dimiliki vas bunga pada ketinggian tersebut ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Dik</strong><strong> </strong><strong>:</strong></p><p>m = 3 kg</p><p>h = 1 m</p><p>g = 10 m/s\u00b2</p><p></p><p><strong>Dit</strong><strong> </strong><strong>:</strong></p><p>Ep</p><p></p><p><strong>Jawab</strong><strong> </strong><strong>:</strong></p><p>Ep = m \u00d7 h \u00d7 g</p><p>     = 3 \u00d7 1 \u00d7 10</p><p>     = 30 J</p><p></p><p>Energi potensial vas bunga tersebut adalah 30 J</p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<h2>Jawaban:</h2><p>EP = 30 Joule</p><p></p><h2>Pembahasan Materi:</h2><p><strong>Energi potensial (Energi potensial gravitasi)</strong> adalah\u00a0<u>suatu energi yang tersimpan pada benda karena kedudukan atau posisi benda terhadap titik acuannya\u00a0(biasanya ketinggian benda diukur dari permukaan tanah).</u></p><p></p><p>Rumus Energi Potensial:</p><p>EP = m \u00d7 g \u00d7 h</p><p></p><p>Keterangan:</p><p>EP = Energi Potensial (Joule)</p><p>m = massa benda (kg)</p><p>g = percepatan gravitasi (10 m/s\u00b2 atau 9,8 m/s\u00b2)</p><p>h = ketinggian benda (m)</p><p></p><h2>Penyelesaian:</h2><p>Diketahui:</p><p>m = 3 kg</p><p>g = 10 m/s\u00b2</p><p>h = 1 m</p><p></p><p>Ditanya: Energi potensial yang dimiliki vas bunga pada ketinggian tersebut = ?</p><p></p><p>Dijawab:</p><p>EP = m \u00d7 g \u00d7 h</p><p>     = 3 \u00d7 10 \u00d7 1</p><p>     = 30 Joule</p><p></p><p>Jadi, energi potensial yang dimiliki vas bunga pada ketinggian tersebut adalah <strong><u>3</u></strong><strong><u>0</u></strong><strong><u> </u></strong><strong><u>J</u></strong><strong><u>o</u></strong><strong><u>u</u></strong><strong><u>l</u></strong><strong><u>e</u></strong>.</p><p></p><h2>Detail Jawaban</h2><p>Mapel: Fisika</p><p>Kelas: 7 SMP</p><p>Materi: Bab 6 - Energi dalam Sistem Kehidupan</p><p>Kode Soal: 6</p><p>Kode Kategorisasi: 7.6.6</p><p>Kata Kunci: Energi Potensial, Massa Benda, Percepatan Gravitasi, Ketinggian Benda</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pake-caranya-juga-yak-488",
+            "question": "Pake caranya juga yak\u200b",
+            "attachments": [
+                "question-attachments/pake-caranya-juga-yak-488-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "<p><strong><em>J</em></strong><strong><em>A</em></strong><strong><em>W</em></strong><strong><em>A</em></strong><strong><em>B</em></strong><strong><em>A</em></strong><strong><em>N</em></strong><strong><em> </em></strong><strong><em>D</em></strong><strong><em>.</em></strong></p><p><strong><em>K</em></strong><strong><em>A</em></strong><strong><em>L</em></strong><strong><em>A</em></strong><strong><em>U</em></strong><strong><em> </em></strong><strong><em>D</em></strong><strong><em>I</em></strong><strong><em> </em></strong><strong><em>S</em></strong><strong><em>O</em></strong><strong><em>A</em></strong><strong><em>L</em></strong><strong><em> </em></strong><strong><em>P</em></strong><strong><em>U</em></strong><strong><em>N</em></strong><strong><em>Y</em></strong><strong><em>A</em></strong><strong><em>K</em></strong><strong><em>U</em></strong><strong><em> </em></strong><strong><em>J</em></strong><strong><em>A</em></strong><strong><em>W</em></strong><strong><em>A</em></strong><strong><em>B</em></strong><strong><em>A</em></strong><strong><em>N</em></strong><strong><em>N</em></strong><strong><em>Y</em></strong><strong><em>A</em></strong><strong><em> </em></strong><strong><em>A</em></strong><strong><em>.</em></strong></p><p></p>",
+                    "attachments": [
+                        "answer-attachments/pake-caranya-juga-yak-488-1.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "1-hasil-konversi-dari-100-derjat-celcius-ke-derjat-reamur-adalah-694",
+            "question": "1. Hasil konversi dari 100 derjat Celcius ke derjat Reamur adalah.....    A 80\r\nB. 60\r\nC. 50\r\nD. 40\r\nE. 30\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>R=4/5C</p><p>= 4/5(100) </p><p>=<strong>8</strong><strong>0</strong><strong>\u00b0</strong><strong>R</strong></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "32pihak-yang-ditunjuk-produsen-untuk-menyalurkan-barang-disebut-130",
+            "question": "32.pihak yang ditunjuk produsen untuk menyalurkan barang disebut\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>distributor</p><p><strong>Penjelasan:</strong></p><p>pihak yang ditujukan produsen untuk menyalurkan barang disebut distributor\n</p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dalam-surah-alhumazah-allah-mengancam-orang-yang-memiliki-sifat-639",
+            "question": "Dalam surah alhumazah Allah mengancam orang yang memiliki sifat?\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>orang\u00b2 yang suka mencela, suka mengumpat dan juga duka mrngumpulkan harta namun tidak mau menafkahkannya di jalan allah swt</p><p><strong>Penjelasan:</strong></p><p>semoga bermanfaat.</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pak-arif-sedang-membaca-buku-dengan-jelas-paling-dekat-50-cm-agar-816",
+            "question": "Pak Arif sedang membaca buku dengan jelas paling dekat 50 cm agar ia dapat membaca dengan jelas pada jarak baca normal 25 cm pertanyaan:    A. kelainan mata apakah yang diderita Pak Arif? \r\nB. jenis lensa kacamata apa yang dapat membantu Pak Arif ?\r\nC. Berapa besar kekuatan lensa yang dapat digunakan Pak Arif?\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>a. rabun dekat (hypermetropi)</p><p>b. lensa cembung ( negatif) </p><p>c. Diketahui : s = 25 cm, s&#039; = -50 cm</p><p> \u00a0 \u00a01/f = 1/s +1/s&#039;</p><p> \u00a0 \u00a01/f = 1/25 +1/-50</p><p> \u00a0 \u00a01/f = 2/50 - 1/50</p><p> \u00a0 \u00a01/f = 1/50</p><p> \u00a0 \u00a0 f= 50 cm</p><p> \u00a0 \u00a0 P = 100/f = 100/50 = 2 Dioptri</p><p><strong>jadi kekuatan lensa = 2 Dioptri</strong></p><p></p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<p>a. Jarak titik bergeser menjauh dari titik normal pada kisaran 25 - 30 cm sehingga di simpulkan mengalami rabun dekat atau hipermetropi</p><p>b. lensa positif atau cembung</p><p>c. P = 100/PPn - 100/PP</p><p>P = 100/25 - 100/50</p><p>P = 4 - 2 = 2 Dioptri = +2D</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebutkan-tiga-contoh-iklan-secara-visual-tolong-di-jawab-ya-p-589",
+            "question": "Sebutkan tiga contoh iklan secara visual !!!\r\ntolong di jawab ya pliss \u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>iklan visual adalah suatu promosi dari sebuah produk barang atau pun jasa yang dapat dilihat dengan indra.</p><p></p><p>contohnya :</p><p></p><p>- iklan sebuah produk pada televisi</p><p></p><p>- iklan penawaran jasa pada koran</p><p></p><p>- iklan pada poster dinding</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-jawaban-dengan-benar-ya-beserta-caranya-yg-g-bisa-tolong-j-348",
+            "question": "Tolong jawaban dengan benar ya beserta caranya yg g bisa tolong jangan jawab\u200b",
+            "attachments": [
+                "question-attachments/tolong-jawaban-dengan-benar-ya-beserta-caranya-yg-g-bisa-tolong-j-348-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "<p>LISTRIK DINAMIS</p><p>\u25b6 Hukum I Kirchoff</p><p></p><p>\u2211 i.masuk = \u2211 i.keluar</p><p>i\u2082 + i\u2083 = i\u2081 + i\u2084</p><p>i\u2082 + 8 = 6 + 7</p><p>i\u2082 = 13 - 8</p><p>i\u2082 = 5 A \u2714</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "ipa-1-jika-ada-dua-bukit-satu-lembah-gelombang-merambat-sepanjan-251",
+            "question": "IPA    1) jika ada dua Bukit satu Lembah gelombang merambat sepanjang 36 cm dengan waktu 3 sekon Coba anda Tentukan besar periode frekuensi panjang gelombang dan cepat rambat gelombang\r\n\r\nSKI\r\n2) Sebutkan nama-nama tokoh tersohor yang berhasil menyalin Kitab Alquran yang paling besar dalam waktu 60 hari \r\n\r\nPLIS BANTUIN YA KAK\r\nNANTI SAYA LIKE DAN SAYA FOLLOW\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>1. frekuensi panjang gelombang adalah 12 cm dan cepat rambatnya adalah 3 detik</p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<p>GELOMBANG</p><p></p><p>1 bukit atau 1 lembah = 0,5 gelombang</p><p></p><p>jika terdapat 2 bukit dan 1 lembah, maka terdapat 1,5 gelombang (0,5 \u00d7 3).</p><p></p><p>n = 1,5</p><p>S = 36 cm</p><p>t = 3 sekon</p><p></p><p>f = __ ?</p><p></p><p>frekuensi gelombang</p><p></p><p>f = n / t</p><p>f = 1,5 / 3</p><p>f = 0,5 Hz \u2714</p><p></p><p>T = __ ?</p><p></p><p>periode gelombang</p><p>T = 1 / f</p><p>T = 1 / 0,5</p><p>T = 2 sekon \u2714</p><p></p><p>\u03bb = __ ?</p><p></p><p>panjang gelombang</p><p>\u03bb = S / n</p><p>\u03bb = 36 / 1,5</p><p>\u03bb = 24 cm \u2714</p><p></p><p>v = __ ?</p><p></p><p>cepat rambat gelombang</p><p>v = \u03bb / T</p><p>v = 24 / 2</p><p>v = 12 cm/s \u2714</p>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

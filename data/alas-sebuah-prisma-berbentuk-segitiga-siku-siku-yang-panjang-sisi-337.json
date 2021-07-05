@@ -1,0 +1,140 @@
+{
+    "question": "Alas sebuah prisma berbentuk segitiga siku-siku yang panjang sisi-sisinya 10 cm, 8    cm, dan 6 cm. Jika tinggi prisma 12 cm, hitunglah:\r\na. luas alas prisma.\r\nb. volume prisma.\u200b",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "<h2>Jawaban:</h2><p>a. Luas alas prisma segitiga siku-siku = 40 cm\u00b2</p><p>b. Volume prisma segitiga siku-siku = 480 cm\u00b3</p><p></p><h2>Pembahasan Materi:</h2><p><strong>Prisma</strong>\u00a0adalah <u>suatu bangun ruang yang punya bidang alas dan bidang atas sejajar serta kongruen yang dikarenakan sisi lainnya berupa sisi tegak berbentuk persegi panjang atau jajargenjang.</u></p><p></p><p>Rumus volume prisma:</p><p>V = Luas alas \u00d7 t</p><p></p><p>Rumus luas permukaan prisma:</p><p>L = (Keliling alas \u00d7 t) + (2 \u00d7 Luas alas)</p><p></p><p>Rumus mencari tinggi prisma:</p><p>t = V \u00f7 Luas alas</p><p></p><p>-------</p><p></p><p><strong>Segitiga</strong> adalah <u>suatu bangun geometri satu dimensi yang membagi bidang menjadi tiga himpunan titik saling lepas.</u></p><p></p><p>Rumus luas segitiga:</p><p>L\u0394 = \u00bd \u00d7 a \u00d7 t\u0394</p><p></p><p>Rumus keliling segitiga:</p><p>K\u0394 = a + b + c</p><p>\u00a0\u00a0\u00a0\u00a0\u00a0 = 3 \u00d7 s</p><p></p><p>Rumus memcari alas segitiga:</p><p>a = (2 \u00d7 L\u0394) \u00f7 t\u0394</p><p></p><p>Rumus mencari tinggi segitiga:</p><p>t\u0394 = (2 \u00d7 L\u0394) \u00f7 a</p><p></p><h2>Penyelesaian:</h2><p>Diketahui:</p><p>Panjang sisi a (a) = 10 cm</p><p>Panjang sisi b (b) = 8 cm</p><p>Panjang sisi c (c) = 6 cm</p><p>Tinggi prisma segitiga siku-siku (t) = 12 cm</p><p></p><p>Ditanya:</p><p>a. Luas alas prisma segitiga siku-siku = ?</p><p>b. Volume prisma segitiga siku-siku = ?</p><p></p><p>Dijawab:</p><p>a. L = \u00bd \u00d7 a \u00d7 b</p><p>       = \u00bd \u00d7 10 \u00d7 8</p><p>       = 10 \u00d7 4</p><p>       = 40 cm\u00b2</p><p></p><p>b. V = Luas alas \u00d7 t</p><p>       = 40 \u00d7 12</p><p>       = 480 cm\u00b3</p><p></p><h2>Detail Jawaban</h2><p>Mapel: MTK</p><p>Kelas: 8 SMP</p><p>Materi: Bab 8 - Bangun Ruang</p><p>Kode Soal: 2</p><p>Kode Kategorisasi: 8.2.8</p><p>Kata Kunci: Volume Prisma Segitiga Siku-Siku, Luas Alas Prisma Segitiga, Tinggi Prisma Segitiga Siku-Siku</p>",
+            "attachments": []
+        },
+        {
+            "answer": "<p><strong>Jawaban:</strong></p><p><strong>Luas </strong><strong>alas:</strong></p><p>La = \u00bd x a x t</p><p>La = \u00bd x 10 x 8</p><p>La = 40 cm\u00b2</p><p><strong>Volume:</strong></p><p>V = La x t</p><p>V = 40 x 12</p><p>V = 480 cm\u00b3</p>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "8-ibu-sofiah-akan-membuka-usaha-minuman-es-pop-ice-untuk-memula-358",
+            "question": "8. Ibu Sofiah akan membuka usaha minuman es pop ice. Untuk memulainya, beliau    mengeluarkan modal Rp 100.000 untuk membeli pop ice sachet dan bahan-bahan lajanva.\r\nJika satu cup pop ice berhasil mendapat keuntungan Rp 500. Berapa gelas pop\r\nyang\r\nterjual agar nodal Bu Sofiah Kembali.....\r\nice\r\nharus\r\nO a 20 cup\r\nb. 200 cup\r\nc. 2000 cup\r\nO\r\nd. 100 cup\r\n0 e. 1000 cup\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>d 100 cup </p><p>maaf kalau salah</p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<p></p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>modal = 100.000</p><p>keuntungan = 500 / Pop Ice</p><p>100.000 : 500 = 200 cup (B) </p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-dekat-dan-dimana-dan-maka-fungsi-fx-x1-gofx-2x2-169",
+            "question": "1). dekat dan , dimana dan maka fungsi    f(x) = x+1 (gof)(x) =2x\u00b2+6x+3\r\nf: R-R g: R-R , g(x) adalah...\r\n\r\n2). ada dua fungsi dan dengan fungsi dan fungsi komposisi\r\nf(x) =3x+4\r\ng(x)=4x-1\r\nf: R-R g: R-R,\r\n(fog)(x) adalah...\r\n\r\nmohon bantuannya kak...\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawab:</strong></p><p></p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>fungsi komposisi</p><p>soal 1</p><p>f(x) = x + 1</p><p>gof(x) = \u00a02x\u00b2 + 6x +3</p><p>g(x + 1) = 2x\u00b2 + 6x +3</p><p>g(x + 1) = \u00a02(x +1)\u00b2 + \u00a02(x+ 1) \u00a0- 1</p><p>g(x) = 2x\u00b2 + 2x - 1</p><p></p><p>soal2</p><p>f(x) = \u00a03x+ 4</p><p>g(x)= 4x - 1</p><p>fog(x)= \u00a0f{ g(x)}</p><p>= 3. g(x) + \u00a04</p><p>= 3 (4x - 1) + 4</p><p>= 12x + 1</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukanlah-1038-a-15-b-14-c-13-d-12-e-11-470",
+            "question": "Tentukanlah 10!/3!8! = \u22ef\r\n\r\nA. 15\r\n\r\nB. 14\r\n\r\nC. 13\r\n\r\nD. 12\r\n\r\nE. 11\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>B. 14</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>maaf kalo salah semoga membantu Anda</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "nilai-cos-225-adalah-434",
+            "question": "Nilai cos 225\u00b0 adalah\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>\njawaban : </strong></p><p><strong>- \u00bd \u221a2</strong></p><p><strong>penjelasan :</strong></p><p><strong>cos 225\u00b0\n</strong></p><p><strong>\n= cos (180\u00b0 + 45\u00b0)\n</strong></p><p><strong>\n= - cos 45\u00b0\n</strong></p><p><strong>\n= - \u00bd \u221a2\n</strong></p><p><strong>\n</strong></p><p><strong>atau\n</strong></p><p><strong>\n</strong></p><p><strong>cos 225\u00b0\n</strong></p><p><strong>\n= cos (270\u00b0 - 45\u00b0)\n</strong></p><p><strong>\n= - sin 45\u00b0\n</strong></p><p><strong>\n= - \u00bd \u221a2</strong></p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<h2><strong>Jawab:</strong></h2><p>cos 225\u00b0 = -1/2\u221a2</p><h2>_______________________________</h2><h2><strong>Penjelasan:</strong></h2><p>cos 225\u00b0 </p><p>cos (180\u00b0 + 45\u00b0)</p><p><strong><em>Karena 225\u00b0 \u2192 Kuadran 3, maka cosinusnya bernilai negatif:</em></strong></p><p>- cos 45\u00b0</p><p><strong>-1/2\u221a2</strong></p><p><strong></strong></p><p><strong></strong></p><p><strong></strong></p><p>mei2405~~</p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suatu-segitiga-sembarang-memiliki-panjang-siku-siku-13-cm-14-c-567",
+            "question": "suatu segitiga sembarang memiliki panjang siku - siku 13 cm, 14 cm, 15 cm maka keliling segitiga adalah....\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>keliling segitiga &gt;&gt; menjumlahkan ketiga sisi</p><p>maka,</p><p>keliling = 13+14+15 = 42 cm</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-kubus-memiliki-volume-340-cm-maka-panjang-rusuknya-adalah-214",
+            "question": "Sebuah kubus memiliki volume 340 cm maka panjang rusuknya adalah\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>6,97cm</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>Rumus kubus s\u00b3</p><p>340 = s\u00b3</p><p>\u00b3\u221a340 = s</p><p>s = 6,97cm</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "ni-38-besar-sudut-b-di-bawah-ini-adalah-959-b-30-c-a-45-591",
+            "question": "Ni 38. Besar sudut B di bawah ini adalah ....    959\r\nB\r\n30\u00b0\r\nC\r\nA. 45\r\nB. 55\r\nC. 60\r\nD. 90\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>hajjdhdiwjsjskdhsjsk</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>ododkdododofofoeye</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "quiz-22-edisi-sore-poin-banyak-gampang-no-s-595",
+            "question": "##Quiz #22 ##    \u2022 edisi sore\r\n\u2022 poin banyak\r\n\u2022 gampang\r\n\u2022 no spam\r\n\r\n==========\r\n\r\nsoal :\r\nperbandingan volume 3 buah kubus berturut-turut = 2 : 5 : 8\r\njika panjang rusuk kubus yg berukuran sedang = 10 cm, tentukan selisih panjang rusuk kubus yang terbesar dengan yang terkecil!\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<h2><strong>Jawab:</strong></h2><p>Selisih : 10,62</p><h2>___________________________</h2><h2><strong>Penjelasan:</strong></h2><p>V1 : V2 : V3</p><p>2 : 5 : 8</p><p></p><p>s sedang = 10 cm</p><p>s besar = ?</p><p>s kecil = ?</p><p></p><p></p><p>V1 : V2 : V3</p><p>s1\u00b3 : s2\u00b3 : s3\u00b3</p><p>s1\u00b3 : 10\u00b3 : s3\u00b3</p><p>s1\u00b3 : 1.000 : s3\u00b3</p><p></p><p>1.000 : 5 = 200</p><p></p><h3>Maka:</h3><p>V1 = 2 x 200</p><p>V1 = 400 cm\u00b3</p><p></p><p>V1 = s1\u00b3</p><p>400 = s1\u00b3</p><p>s1 = \u221b400</p><p></p><p></p><p></p><p>V3 = 8 x 200</p><p>V3 = 1.600 cm\u00b3</p><p>s3 = \u221b1600</p><p></p><p></p><p>Selisih :</p><p>s3 - s1</p><p>\u221b1600 - \u221b400</p><p>\u221b1200</p><p><strong>10,62 </strong></p><p></p><p>[tex]{\\blue{Answer~by:Mei^2}}[/tex]</p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>12 cm</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>rusuk terbesar:</p><p>[tex] \\rm\\frac{5}{10}=\\frac{8}{x}\\\\\\rm5x=10\\times8\\\\\\rm5x=8\\\\\\rm x=\\frac{80}{5}\\\\\\rm x=16 [/tex]</p><p></p><p>rusuk terkecil:</p><p>[tex] \\rm\\frac{5}{10}=\\frac{2}{x}\\\\\\rm5x=10\\times2\\\\\\rm5x=20\\\\\\rm x=\\frac{20}{5}\\\\\\rm x=4[/tex]</p><p>sehingga</p><p>16 - 4</p><p>12</p><p></p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pernyataan-berikut-ini-yang-salah-adalah-a-alas-dan-tutup-prisma-481",
+            "question": "Pernyataan berikut ini yang salah adalah    a alas dan tutup prisma bentuk dan ukurannya sama\r\n\r\nb banyak sisi tegak prisma sama dengan jumlah segi pada alas\r\n\r\nc luas permukaan prisma sama dengan dua kali luas alas tambah jumlah luar sisi tegak \r\n\r\nd volume prisma sama dengan luas alas prisma\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>D. volume prisma sama dengan luas alas prisma</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-bantu-jawab-ya-628",
+            "question": "Tolong bantu jawab ya\u200b",
+            "attachments": [
+                "question-attachments/tolong-bantu-jawab-ya-628-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "<h2><u>Jawaban</u></h2><p>3a ---&gt; Benar</p><p>3b ---&gt; Benar</p><p>3c ---&gt; Benar</p><p>3d ---&gt; Salah</p><p></p><h2><u>Pembahasan</u></h2><p><strong>Nomor 3a</strong></p><p>x\u00b2 = 17\u00b2 - 15\u00b2</p><p>    = 289 - 225</p><p>    = 64</p><p>x  = 8</p><p></p><p><strong>Nomor</strong><strong> </strong><strong>3</strong><strong>b</strong><strong> </strong></p><p><strong>y</strong><strong>\u00b2</strong><strong> </strong><strong>=</strong><strong> </strong><strong>9</strong><strong>\u00b2</strong><strong> </strong><strong>+</strong><strong> </strong><strong>9</strong><strong>\u00b2</strong></p><p>    = 81 + 81</p><p>    = 162</p><p>y  = akar 162</p><p></p><p><strong>Nomor 3c</strong></p><p>z\u00b2 = 24\u00b2 + 7\u00b2</p><p>    = 576 + 49</p><p>    = 25</p><p></p><p><strong>Nomor</strong><strong> </strong><strong>3</strong><strong>d</strong></p><p>v\u00b2 = 15\u00b2 - 9\u00b2</p><p>    = 225 - 81</p><p>    = 144</p><p>v  = 12</p>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

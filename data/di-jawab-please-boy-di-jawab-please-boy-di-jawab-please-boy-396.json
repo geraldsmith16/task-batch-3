@@ -1,0 +1,146 @@
+{
+    "question": "Di jawab please boy di jawab please boy di jawab please boy",
+    "attachments": [
+        "question-attachments/di-jawab-please-boy-di-jawab-please-boy-di-jawab-please-boy-396-1.jpg"
+    ],
+    "answers": [
+        {
+            "answer": "<p>Jawab:</p><p>= 0</p><p>Penjelasan dengan langkah-langkah:</p><p></p>",
+            "attachments": []
+        },
+        {
+            "answer": "<p>Jawab:</p><p>= 0</p><p>Penjelasan dengan langkah-langkah:</p><p>karna 0</p>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "1-andi-melempar-sebuah-dadu-tentukanlah-peluang-munculnya-mata-469",
+            "question": "1. Andi melempar sebuah dadu, tentukanlah peluang munculnya mata dadu 2!    A. 1\r\n /6\r\n\r\nB. 1\r\n\r\nC. 2 \r\nD. 4\r\n\r\nE. 6\r\n\r\ntolong dibantu untuk UAS besok\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p> </p><p>A.1/6</p><p> </p><p>dadu kembar (1.1,2,2,3,3,4,4,5,5,6,6)</p><p>ada 6 jadi </p><p>6/36=1/6</p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>banyaknya= n = 6</p><p></p><p>muncul mata dadu dua = 1</p><p></p><p><strong>p</strong><strong>e</strong><strong>l</strong><strong>u</strong><strong>a</strong><strong>n</strong><strong>g</strong><strong>=</strong><strong> </strong><strong>1</strong><strong>/</strong><strong>6</strong><strong> </strong><strong><em>o</em></strong><strong><em>p</em></strong><strong><em>s</em></strong><strong><em>i</em></strong><strong><em>A</em></strong></p>",
+                    "attachments": [
+                        "answer-attachments/1-andi-melempar-sebuah-dadu-tentukanlah-peluang-munculnya-mata-469-1.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "tolong-dong-kak-di-kupulin-sekarang-soalnya-873",
+            "question": "Tolong dong kak di kupulin sekarang soalnya...\u200b",
+            "attachments": [
+                "question-attachments/tolong-dong-kak-di-kupulin-sekarang-soalnya-873-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>15.C</p><p>16.D</p><p></p><p>semoga membantu </p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "2-hasil-acar-pangkat-dari-gllangan-v-64-adalah-615",
+            "question": "2\r\nHasil acar pangkat ?\r\ndari Gllangan v 64\r\nadalah\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>Hasil dari akar 64</p><p></p><p>Pembahasan</p><p>= \u221a64</p><p>= ( 8 x 8 ) atau 8\u00b2 = 64</p><p></p><p><em>Jadi, Hasil dari \u221a64 adalah 8.</em></p><p></p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "b-s-c-b-s-d-d-a-sudut-a-0-0-sudut-b-sudut-c-sudut-d-196",
+            "question": "B    \u0441 C\r\nb\r\n\u0441\r\nd\r\nD\r\na\r\nSudut a = ...\r\n0\r\n0\r\nSudut b=.\r\nSudut c=...\r\nSudut d= ..\r\n2021 K.13 - MTK Kls. 4\r\n4\u200b",
+            "attachments": [
+                "question-attachments/b-s-c-b-s-d-d-a-sudut-a-0-0-sudut-b-sudut-c-sudut-d-196-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>Sudut a = 60\u00b0</p><p>Sudut b = 90\u00b0</p><p>Sudut c = 120\u00b0</p><p>Sudut d = 120\u00b0</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-harga-1-kg-mangga-2-kg-salak-dan-3-kg-kelengkeng-adala-341",
+            "question": "Diketahui harga 1 kg mangga, 2 kg salak dan 3 kg kelengkeng adalah Rp105.000. Harga 4    kg mangga, 1 kg salak dan 2 kg kelengkeng adalah Rp126.000. Harga 3 kg mangga, 3 kg\r\n salak dan 1 kg kelengkeng adalah Rp111.000. Dengan eliminasi Gauss-Jordan, tentukan\r\n harga per kg masing-masing buah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawab:</strong></p><p>Diketahui:</p><p>Misalkan mangga=x , salak=y, dan kelengkeng = z</p><p>x+2y+3z = 105.000</p><p>4x+y+2z=126.000</p><p>3x+3y+z=111.000</p><p>DItanyakan : Berapa harga per kg masing-masing buah menggunakan eliminasi gauss jordan ?</p><p>Jawab</p><p>[tex]\\left[\\begin{array}{ccc}1&amp;2&amp;3\\\\4&amp;1&amp;2\\\\3&amp;3&amp;1\\end{array}\\right] \\left[\\begin{array}{ccc}105.000\\\\126000\\\\111.000\\end{array}\\right][/tex]</p><p>\u2193b2-4b1, b3-3b1 \u00a0 \u00a0catatan=(b=baris ke)</p><p>[tex]\\left[\\begin{array}{ccc}1&amp;2&amp;3\\\\0&amp;-7&amp;-10\\\\0&amp;-3&amp;-8\\end{array}\\right] \\left[\\begin{array}{ccc}105.000\\\\-294.000\\\\-204.000\\end{array}\\right][/tex]</p><p>\u2193b2-2b3</p><p>[tex]\\left[\\begin{array}{ccc}1&amp;2&amp;3\\\\0&amp;1&amp;6\\\\0&amp;-3&amp;-8\\end{array}\\right] \\left[\\begin{array}{ccc}105.000\\\\114.000\\\\-204.000\\end{array}\\right][/tex]</p><p>\u2193b3+3b2, b1-2b2</p><p>[tex]\\left[\\begin{array}{ccc}1&amp;0&amp;-9\\\\0&amp;1&amp;6\\\\0&amp;0&amp;10\\end{array}\\right] \\left[\\begin{array}{ccc}-123.000\\\\114.000\\\\138.000\\end{array}\\right][/tex]</p><p>\u2193b3+b1</p><p>[tex]\\left[\\begin{array}{ccc}1&amp;0&amp;-9\\\\0&amp;1&amp;6\\\\0&amp;0&amp;1\\end{array}\\right] \\left[\\begin{array}{ccc}-123.000\\\\114.000\\\\15.000\\end{array}\\right][/tex]</p><p>\u2193b2-6b3, b1+9b3</p><p>[tex]\\left[\\begin{array}{ccc}1&amp;0&amp;0\\\\0&amp;1&amp;0\\\\0&amp;0&amp;1\\end{array}\\right] \\left[\\begin{array}{ccc}12.000\\\\24.000\\\\15.000\\end{array}\\right][/tex]</p><p>Jadi Harga masing-masing buah adalah</p><p>1 kg mangga = Rp12.000</p><p>1 kg salak = 24.000</p><p>1 kg kelengkeng=15.000</p><p></p><p></p><p></p><p></p><p></p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "5-sebuah-pekerjaan-direncanakan-dapat-diselesaikan-dalam-waktu-2-607",
+            "question": "5. Sebuah pekerjaan direncanakan    dapat diselesaikan dalam waktu 24 hari\r\njika dikerjakan oleh 18 orang pekerja.\r\nJika pekerjaan tersebut hanya dapat\r\ndikerjakan oleh 16 orang, maka waktu\r\nyang dibutuhkan untuk menyelesaikan\r\npekerjaan tersbeut adalah ...\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>=\u300bDiket:</p><p>\u2022 x1 = 24 hari</p><p>\u2022 y1 = 18 orang</p><p>\u2022 y2 = 16 orang</p><p>=\u300bDitanya:</p><p>\u2022 x2 =...?</p><p>=\u300bJawab:</p><p>[tex] \\frac{x1}{x2}  =  \\frac{y2}{y1}  \\\\  \\frac{24}{x2}  =  \\frac{16}{18}  \\\\ 16x2 = 432 \\\\ x2 =  \\frac{432}{16}  \\\\ x2 = 27 \\: hari[/tex]</p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-bela-ketupat-denagn-panjang-diagonalnya-16-cm-dan-10-cm-794",
+            "question": "diketahui bela ketupat denagn panjang diagonalnya 16 cm dan 10 cm ,hitunglah luas bela ketupat tersebut",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>80 cm</p><p></p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p> Luas Belah Ketupat Dengan Rumus</p><p></p><p></p><p>Diketahui :</p><p>Diagonal 1 : 16cm</p><p>Diagonal 2 : 10cm</p><p></p><p></p><p>Rumus ;</p><p>L =  \u00bd \u00d7 D\u00b9 \u00d7 D\u00b2</p><p></p><p>Maka</p><p></p><p>L = \u00bd \u00d7 D\u00b9 \u00d7 D\u00b2</p><p>L = \u00bd \u00d7 16 \u00d7 10</p><p>L = \u00bd \u00d7 160</p><p>L = 80cm\u00b2</p><p></p><p></p><p>jadi Luas Belah Ketupat adalah 80cm</p><p></p><p>maaf klo salah.....</p><p>terimakasih</p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<p>Diketahui bela ketupat denagn panjang diagonalnya 16 cm dan 10 cm, maka luas belah ketupat tersebut yaitu<strong> </strong><strong>8</strong><strong>0</strong><strong> </strong><strong>cm\u00b2</strong></p><h2>Pendahuluan</h2><p>Belah ketupat merupakan bentuk istimewa dari jajargenjang dengan sifat keempat sisinya sama panjang. Sifat-sifat belah ketupat:</p><ul><li>Keempat sisinya sama panjang</li><li>Sudut-sudut yang berhadapan sama besar</li><li>Kedua diagonalnya saling berpotongan tegak lurus dan membagi dua sama panjang</li><li>Dapat menempati bingkainya dengan 4 cara</li></ul><p>Rumus luas belah ketupat</p><p>[tex]\\sf{ { {L =  }}} \\frac{1}{2} \\times  d_{1} \\times d_{2}\\\\[/tex]</p><p>Rumus keliling belah ketupat</p><p>[tex]{\\sf{ kll = 4 \\times s}}[/tex]</p><h2>Penyelesaian</h2><p>Diketahui</p><ul><li>diagonal (1) 16 cm</li><li>diagonal (2) 10 cm</li></ul><p>Ditanya</p><ul><li>Hitunglah luas belah ketupat tersebut!</li></ul><p>Dijawab</p><p>[tex]\\sf{ { { L = }}} \\frac{1}{2} \\times  d_{1} \\times  d_{2}\\\\[/tex]</p><p>[tex]{\\sf{ L =  \\frac{1}{\\cancel{2} } \\times \\cancel{16} \\: cm \\times 10 \\: cm}}[/tex]</p><p>[tex]{\\sf{ L  =  {80 \\: cm}^{2} }}[/tex]</p><p>Jadi, luas belah ketupat tersebut adalah<strong> </strong><strong>8</strong><strong>0</strong><strong> </strong><strong>cm\u00b2</strong></p><p>.</p><h3>PELAJARI LEBIH LANJUT</h3><ul><li>https://brainly.co.id/tugas/21584498</li><li>https://brainly.co.id/tugas/29160428</li><li>https://brainly.co.id/tugas/8121353</li></ul><p>=====================================</p><p>[tex]{{\\mathscr{ DETAIL \\:  JAWABAN}}}[/tex]</p><p>Mapel : Matematika</p><p>Kelas : 5</p><p>Materi : Bab 3 - Luas Bangun Datar \nSederhana</p><p>Kata kunci : Luas belah ketupat</p><p>Kode soal : 2</p><p>Kode kategorisasi : 5.2.3</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-bayangan-titik-5-2-oleh-ttranslasi-868",
+            "question": "Tentukan bayangan titik (5,-2) oleh ttranslasi \r\n\r\n\r\n\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawab: </strong></p><p><strong>(3,4)</strong></p><p><strong>Penjelasan:</strong></p><p>Bayangan titik [tex](5,-2)[/tex] oleh translasi [tex]T=(-2,6)[/tex] adalah</p><p>[tex](5,-2)+(-2,6)=(5-2,-2+6)=(3,4)[/tex]</p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-nilai-penjumlahan-dari-persamaan-7x-4y-12-dan-16x-313",
+            "question": "Tentukan nilai penjumlahan dari persamaan 7x - 4y + 12 dan 16x + 5y - 7!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>(7x - 4y + 12) + (16x + 5y - 7) =</p><p>7x + 16x - 4y + 5y + 12 - 7 </p><p>= 23x + y + 5</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dekat-fungsi-dengan-fungsi-invres-fx-3x-9-f-r-r-f-1x-512",
+            "question": "Dekat fungsi\u00a0dengan\u00a0\u00a0 fungsi invres f(x) 3x-9 f : R-R , f-1(x)    adalah...\r\n\r\ntolong bantuannya kak\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>f(x) = 3x - 9</p><p></p><p></p><p></p><p>y = 3x - 9</p><p>y + 9 = 3x</p><p>y + 9/3 = x</p><p></p><p></p><p></p><p>[tex] {f}^{ - 1} (x) =  \\frac{x + 9}{3} [/tex]</p><p></p><p></p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<p><strong>Penjelasan dengan langkah-langkah:</strong></p><p><em>D</em><em>i</em><em>k</em><em>e</em><em>t</em><em>a</em><em>h</em><em>u</em><em>i</em><em>:</em></p><p>f(x)=3x-9</p><p></p><p><em>D</em><em>i</em><em>t</em><em>a</em><em>n</em><em>y</em><em>a</em><em>:</em><em> </em><em>f</em><em>-</em><em>\u00b9</em><em>(</em><em>x</em><em>)</em></p><p></p><p><em>P</em><em>e</em><em>m</em><em>b</em><em>a</em><em>h</em><em>a</em><em>s</em><em>a</em><em>n</em><em>:</em></p><p>y=3x-9</p><p>3x=y+9</p><p>x=(y+9)/3</p><p>f-\u00b9(y)=(y+9)/3</p><p><strong>f-\u00b9(x)=(x+9)/3</strong></p><p></p><p><em>p</em><em>e</em><em>l</em><em>a</em><em>j</em><em>a</em><em>r</em><em>i</em><em> </em><em>s</em><em>o</em><em>a</em><em>l</em><em> </em><em>b</em><em>e</em><em>r</em><em>i</em><em>k</em><em>u</em><em>t</em><em>:</em></p><p>https://brainly.co.id/tugas/27158302</p><p>https://brainly.co.id/tugas/1342460</p>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

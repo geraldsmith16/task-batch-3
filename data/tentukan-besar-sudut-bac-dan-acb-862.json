@@ -1,0 +1,136 @@
+{
+    "question": "Tentukan besar sudut BAC dan ACB!\u200b",
+    "attachments": [
+        "question-attachments/tentukan-besar-sudut-bac-dan-acb-862-1.jpg"
+    ],
+    "answers": [
+        {
+            "answer": "<p><strong>Jawaban:</strong></p><p>ABC = 180 - 120</p><p>= 60</p><p></p><p>acb= 180 -86</p><p>= 94</p><p></p><p>bac= 180 -60-94</p><p>=26</p>",
+            "attachments": []
+        },
+        {
+            "answer": "<p>&lt;BAC = 26\u00b0</p><p>&lt;ACB = 94\u00b0</p><p></p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>&lt; ABC = 180\u00b0 - &lt; CBD</p><p>           = 180\u00b0 - 120\u00b0</p><p>           = 60\u00b0</p><p>&lt;BAC + &lt;ABC = &lt;BCE</p><p>&lt;BAC = &lt;BCE - &lt;ABC</p><p>          = 86\u00b0 - 60\u00b0</p><p>          = 26\u00b0</p><p>&lt;ACB = 180\u00b0 - &lt;BCE</p><p>          = 180\u00b0 - 86\u00b0</p><p>          = 94\u00b0</p>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "kuis-pertanyaan-menjebak-6686-96berapa-urutan-angka-yg-ko-770",
+            "question": "Kuis pertanyaan menjebak 66,86,. . .,96.berapa urutan angka yg kosong\r\n\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>angka nya dibalik jadi 96,97,98,99</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>jadi yg kosong itu jawabannya 97</p><p>itukan teka teki kayak di flim Shimbi hous</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-nilai-penjumlahan-dari-persamaan-7x-4y-12-dan-16x-313",
+            "question": "Tentukan nilai penjumlahan dari persamaan 7x - 4y + 12 dan 16x + 5y - 7!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>(7x - 4y + 12) + (16x + 5y - 7) =</p><p>7x + 16x - 4y + 5y + 12 - 7 </p><p>= 23x + y + 5</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "fungsi-f-r-r-dan-g-r-r-diketahui-fx-2x-3-d-342",
+            "question": "Fungsi f : R \u2192 R dan g : R \u2192 R. Diketahui : f(x) = 2x \u2212 3 dan f(x) = x2 + 2x \u2212 3.    Nilai dari (fog)(2) = \u22ef\r\nA. 0\r\n\r\nB. 1\r\n\r\nC. 7\r\n\r\nD. 8\r\n\r\nE. 11\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><em>Jika diketahui fungsi f: R-&gt; R dan g\n: R\u2192 R dengan ketentuan f(x) = 2x - 3 dan g(x) = x\u00b2 + 2x - 3, maka</em> <em><strong>nilai dari fog(2) adalah 7. \u00a0 \u00a0 (C)</strong></em></p><p><em></em></p><h2><u>Pembahasan</u>\n</h2><p><strong>Fungsi komposisi</strong> adalah <u><em>suatu penggabungan fungsi dari operasi dua jenis fungsi yaitu f(x) dan g(x) sehingga menghasilkan fungsi baru</em></u>.\n</p><p>\n</p><p>Operasi fungsi komposisi dinotasikan dengan \"o\" dibaca sebagai bundaran. Fungsi baru yang terbentuk dari fungsi f(x) dan fungsi g(x) sebagai berikut. \u00a0</p><ul><li><strong>(fog(x)) = f(g(x))</strong> ---&gt; maksudnya adalah nilai x pada fungsi f(x) diganti dengan fungsi g(x)\n</li><li><strong>(gof(x)) = g(f(x)) </strong>---&gt; maksudnya adalah nilai x pada fungsi g(x) diganti dengan fungsi f(x)</li></ul><h2><u></u></h2><h2><u>Penyelesaian</u></h2><p><em><strong>diket:</strong></em></p><p>f(x) = 2x - 3</p><p>g(x) = x\u00b2 + 2x - 3</p><p></p><p><em><strong>ditanya:</strong></em></p><p>nilai fog(2).....?</p><p></p><p><em><strong>jawab:</strong></em></p><p>- menentukan fungsi fog(x) lebih dulu</p><p> \u00a0fog(x) = f(g(x))</p><p> \u00a0fog(x) = 2(x\u00b2 + 2x - 3) - 3</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 2x\u00b2 + 4x - 6 - 3</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 2x\u00b2 + 4x - 9</p><p></p><p>- menentukan nilai fog(2)</p><p> \u00a0fog(x) = 2x\u00b2 + 4x - 9</p><p> \u00a0fog(2) = 2(2)\u00b2 + 4(2) - 9</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 8 + 8 - 9</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 7</p><p> </p><h3><u>Kesimpulan</u></h3><p><em><strong>Jadi, nilai dari fog(2) adalah 7. \u00a0 \u00a0 (C)</strong></em></p><p></p><h3><u>Pelajari Lebih Lanjut</u>\n</h3><p>- berbagai latihan fungsi komposisi: \u00a0</p><ul><li>brainly.co.id/tugas/34480586\n</li><li>brainly.co.id/tugas/34431660\n</li><li>brainly.co.id/tugas/29473682\n</li><li>brainly.co.id/tugas/29507677\n</li><li>brainly.co.id/tugas/34539635</li></ul><p>\n</p><h3><u>Detail Jawaban</u>\n</h3><p>Kelas: 10 \u00a0</p><p>Mapel: Matematika \u00a0</p><p>Bab: Fungsi \u00a0</p><p>Materi: Fungsi komposisi \u00a0\n</p><p>Kode kategorisasi: 10.2.3 \u00a0</p><p>Kata kunci: f(x) = 2x - 3, g(x) = x\u00b2 + 2x - 3, nilai fog(2)</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "frekuensi-harapan-muncul-mata-dadu-5-pada-pelemparan-sebuah-dadu-106",
+            "question": "Frekuensi harapan muncul mata dadu 5 pada pelemparan sebuah dadu sebanyak 2.130 kali    adalah ....\r\nA. 213 kali\r\nB. 355 kali\r\nC. 426 kali\r\nD. 710 kali\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<h2>\u200bMateri Peluang</h2><h3>(Frekuensi harapan)</h3><p></p><p>Dalam peluang terdapat istilah frekuensi harapan. Frekuensi harapan memiliki rumus sebagai berikut:</p><p></p><p>fh = P(A) \u00d7 n</p><p>P(A) = n(A) / n(S)</p><p></p><p>dengan ketentuan:</p><p>fh = frekuensi harapan</p><p>P(A) = peluang kejadian A</p><p>n = banyak percobaan</p><p>n(A) = banyak kejadian A yang bisa terjadi</p><p>n(S) = banyak seluruh kejadian/banyak ruang sampel</p><p></p><h3><u>Pembahasan:</u></h3><h3><u></u></h3><p>Mencari P(A)-nya terlebih dahulu.</p><p>pada soal, diketahui muncul mata dadu 5. Maka n(A)-nya adalah 1. Lalu n(S)-nya adalah jumlah kejadian yang mungkin terjadi, yaitu 1,2,3,4,5,6. Ada 6.</p><p>Maka:</p><p>P(A) = n(A) / n(S)</p><p>= 1/6</p><p></p><p>Lalu banyak percobaan yang dilakukan adalah 2.130 kali. Maka kita bisa mencari frekuensi harapannya.</p><p>fh = P(A) \u00d7 n</p><p>= 1/6 \u00d7 2130</p><p>= 355</p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-tentukan-panjang-bd-dari-sisi-sisi-yang-diketahui-pada-gambar-393",
+            "question": "1. Tentukan panjang BD dari sisi sisi yang diketahui pada gambar di bawah ini menggunakan Teorema Pitagoras! \u200b",
+            "attachments": [
+                "question-attachments/1-tentukan-panjang-bd-dari-sisi-sisi-yang-diketahui-pada-gambar-393-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p> yok mau ga aku.mah bebas aya by</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>kuntul</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-diketahui-g3-danfog-2-6-maka-tentukan-f-762",
+            "question": "Jika diketahui g(\u00d7)=\u00d7+3 dan(fog) (\u00d7)=\u00d72-6 maka tentukan f(\u00d7)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>f(x) = x\u00b2 - 6x + 3</p><p></p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>f \u2022 g (x) = f (g (x))</p><p>x\u00b2 - 6 = f (x + 3)</p><p><em>dimisalkan</em><em> </em><em>x</em><em> </em><em>+</em><em> </em><em>3</em><em> </em><em>=</em><em> </em><em>a</em><em>,</em><em> </em><em>maka</em><em> </em><em>x</em><em> </em><em>=</em><em> </em><em>a</em><em> </em><em>-</em><em> </em><em>3</em><em>.</em></p><p>(a - 3)\u00b2 - 6 = f (a)</p><p>(a - 3) (a - 3) - 6 = f (a)</p><p>a\u00b2 - 3a - 3a + 9 - 6 = f (a)</p><p>a\u00b2 - 6a + 3 = f (a)</p><p>x\u00b2 - 6x + 3 = f (x)</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pak-johan-senang-membuat-teka-teki-jika-kamu-bagi-umurku-dengan-2-648",
+            "question": "Pak johan senang membuat teka teki jika kamu bagi umurku dengan 2 maka akan diperoleh sisa 1. katanya kemudian jika kamu bagu umurku dengan 3,4,atau 5 juga akan di peroleh sisa 1. berapakah umur pak johan    tolong berikan penyelesaiannya \u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>KPK dari=2,3,4,5 =60 + 1 =61</p><p>Jadi Umur pak Johan adalah 61</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>Semoga membantu</p><p>Tolong jadi kan Jawaban tercedas</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "hitunglah-keliling-lingkaran-jika-a-r-14cm-b-d-35cm-637",
+            "question": "Hitunglah keliling lingkaran jika \r\n\r\n a. r= 14cm\r\n b. d= 35cm",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawab:</strong></p><p>a. 88</p><p>b. 109,9</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p></p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>a. K = 2\u03c0r</p><p>       = 2 x 22/7 x 14</p><p>       = 88 cm</p><p>b. K = \u03c0.d</p><p>       = 3.14 x 35</p><p>       = 109,9 cm</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "lim-x-gt2-2x-1-1052x-5x-tolong-bantu-kak-620",
+            "question": "Lim x-&gt;2 (2x + 1 + 10\u221a5/2x + 5x)\r\n\r\n Tolong bantu kak",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>\u2014</strong><strong> </strong><strong>Jawaban</strong><strong> </strong><strong>sudah</strong><strong> terlampir</strong><strong>.</strong></p>",
+                    "attachments": [
+                        "answer-attachments/lim-x-gt2-2x-1-1052x-5x-tolong-bantu-kak-620-1.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "diberikan-persamaan-f-414-dan-gx-15-hasil-dari-g-747",
+            "question": "Diberikan persamaan f(\u00d7) =4\u00d7+14 dan g(\u00d7)=x + 15. hasil dari (gof)(\u00d7) adalah....    tolong ya dijawab makasii\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p> = 4x + 29</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>(g\u00b0f)(x) = g (f(x))</p><p>           = (4x+14)+15</p><p>          = 4x + 29.</p><p>semoga membantu, maaf ya kalau salah :)</p>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

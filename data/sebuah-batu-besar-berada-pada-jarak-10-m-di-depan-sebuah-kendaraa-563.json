@@ -1,0 +1,140 @@
+{
+    "question": "sebuah batu besar berada pada jarak 10 m di depan sebuah kendaraan bermassa 200 kg yang sedang bergerak dengan kecepatan 10 m agar tepat berhenti sebelum mengetahui batu berapa besar gaya yang harus diberikan\u200b",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "<p><strong>Jawaban:</strong></p><p>F = 2500 N </p><p><strong>Penjelasan:</strong></p><p>[tex]v_0=10m/s\\\\s=10 m\\\\m=200kg\\\\v_t=0m/s\\\\\\\\v_t^2=v_0^2+2*a*s\\\\0^2=10^2+2*a*10\\\\0=100+20a\\\\-20a=100\\\\a=100/-20\\\\a=-5m/s^2 (diperlambat)\\\\\\\\F=m*a\\\\F=200*5=2500N[/tex]</p><p></p>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "sebuah-bola-ditendang-dengan-gaya-400-n-dengan-selang-waktu-112-688",
+            "question": "Sebuah bola ditendang dengan gaya 400 n dengan selang waktu 1/12 menit, tentukan besar impulsnya",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>Impuls = 2000 Ns</p><p></p><p><strong>Penjelasan:</strong></p><p>Diketahui</p><p>F = 400 N</p><p>t = 1/12 menit = 1/12 \u00d7 60</p><p>  = 5 s</p><p></p><p>Ditanya</p><p>Impuls (I)</p><p></p><p>Penyelesaian</p><p>I = F x t</p><p>dimana</p><p>F = gaya (N)</p><p>t = waktu sentuh gaya (s)</p><p></p><p>I = 400 x 5</p><p>  = 2000 Ns</p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebutkan-3-contoh-alat-yang-merubh-energi-listrik-menjadi-panas-903",
+            "question": "Sebutkan 3 contoh alat yang merubh energi listrik menjadi panas\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Penjelasan:</strong></p><p>1. Setrika Listrik. Setrika listrik yang dialiri arus listrik akan memanaskan elemen pemanas setrika.</p><p>2. Penanak Nasi. Penanak nasi juga dialiri arus listrik.</p><p>3. Kompor Listrik. </p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<p><strong><em>Jawaban</em></strong><strong><em>:</em></strong><em> </em><em>1.setrika</em></p><p><em> </em><em> </em><em> </em><em> </em><em> </em><em> </em><em> </em><em> </em><em> </em><em> </em><em> </em><em> </em><em> </em><em> </em><em> </em><em> </em><em> </em><em>2.alat</em><em> </em><em>pencatok</em><em> </em><em>rambut</em></p><p><em> </em><em> </em><em> </em><em> </em><em> </em><em> </em><em> </em><em> </em><em> </em><em> </em><em> </em><em> </em><em> </em><em> </em><em> </em><em> </em><em> </em><em>3</em><em>.</em><em> </em><em>Hairdaraer</em></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "kuis-50-poin-kexcvi-doppel-terdapat-satu-sumber-bunyi-dan-p-276",
+            "question": "Kuis +50 poin [kexcvi] - Doppel:    Terdapat satu sumber bunyi dan pendengarnya. Frekuensi yang bisa didengar pendengar adalah 1580 Hz. Pendengar mendekati sumber bunyi dengan kecepatan 40 m/s, sementara sumber bunyi menjauhi pendengar dengan kecepatan 80 m/s. Tentukan frekuensi sumber bunyi jika cepat rambat bunyi di udara 360 m/s.\r\n (ngasal, report)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>1738 hz</p><p></p><p><strong>Penje</strong><strong>lasan:</strong></p><p>Fp = V + Vp / V + Vs x Fs</p><p>1580 = 360 + 40 / 360+80 x a</p><p>1580 = 400/440 a</p><p>400a = 1580x440</p><p>a =  695200/400</p><p>a = 1738 hz</p><p></p><p> </p><p>\u2022 \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 </p><p></p><p><strong>Mapel</strong> : Fisika</p><p><strong>Kelas</strong> : 11 </p><p><strong>Materi</strong> : Energi</p><p><strong>Rincian</strong> : Doppler</p><p></p><p>maaf jika salah</p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<h3>\u2194\ufe0f Jadi, besar Frekuensi sumber bunyi (fs) adalah 1.738 Hz</h3><h2></h2><h2>Pendahuluan </h2><p>Bunyi mempunyai formula untuk mencari. Jarak sumber bunyi.</p><p>Bunyi bisa merambat karena sifat nya yaitu dapat merambat di hantarkan oleh udara. </p><p>S = v x t</p><p>S = jarak </p><p>V = cepat rambat bunyi</p><p>t = waktu</p><p>Langkahnya gunakan rumus jarak setelah itu kita kalikan waktu dengan cepat rambat bunyi.</p><p></p><h2>Diketahui </h2><p>Terdapat satu sumber bunyi dan pendengarnya. Frekuensi yang bisa didengar pendengar adalah 1580 Hz. Pendengar mendekati sumber bunyi dengan kecepatan 40 m/s, sementara sumber bunyi menjauhi pendengar dengan kecepatan 80 m/s. Tentukan frekuensi sumber bunyi jika cepat rambat bunyi di udara 360 m/s.</p><p></p><h2>Ditanya </h2><p>Tentukan frekuensi sumber bunyi jika cepat rambat bunyi di udara 360 m/s ?</p><p></p><h2>Jawab</h2><p>Jadi, besar Frekuensi sumber bunyi (fs) adalah 1.738 Hz</p><p></p><h2>Pembahasan </h2><p>fp = 1580 Hz</p><p>vp = +40 m/s (bernilai positif karena pendengar mendekati sumber bunyi)</p><p>vs = +80 m/s (bernilai positif karena sumber bunyi menjauhi pendengar)</p><p>v = 360 m/s</p><p></p><p>Dit:</p><p>fs = ...?</p><p></p><p>Peny:</p><p>Rumus efek Doppler</p><p>fp = (v \u00b1 vp)/(v \u00b1 vs) . fs</p><p>1580 = (360 + 40)/(360 + 80) . fs</p><p>1580 = (400/440) . fs</p><p>1580 = (10/11) . fs</p><p>fs = 1580 (11/10)</p><p>fs = 158 \u00d7 11</p><p>fs = 1738</p><p></p><p>Ket:</p><p>fp = frekuensi yang di dengar pendengar (Hz)</p><p>fs = frekuensi sumber bunyi (Hz)</p><p>vp = kecepatan pendengar (m/s)</p><p>vs = kecepatan sumber bunyi (m/s)</p><p></p><h2>Kesimpulan </h2><p>Jadi, besar Frekuensi sumber bunyi (fs) adalah 1.738 Hz</p><p></p><p>==============================</p><h3>Pelajari lebih lanjut :</h3><p>Sebutkan dua bunyi yang ada di sekitarmu! : https://brainly.co.id/tugas/27396218</p><p></p><p>Bagaimana bunyi keramik bila disentil??? : https://brainly.co.id/tugas/1243415</p><p></p><p>Bunyi pantulan adalah bunyi : https://brainly.co.id/tugas/7023081</p><p></p><h3>Detail Jawaban </h3><p>Mapel  : Fisika </p><p>Materi  : 11 SMA </p><p>Bab      : Bab 9 - Gelombang Bunyi</p><p>Kode Kategorisasi : 11.6.9</p><p>Kata Kunci : Tentukan frekuensi sumber bunyi jika cepat rambat bunyi di udara 360 m/s.</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "termometer-x-yang-telah-ditera-menunjukkan-angka-30pada-titik-680",
+            "question": "Termometer X yang telah ditera menunjukkan angka -30\u2070pada titik beku air dan 90\u2070pada titik didih air.Suhu 60\u2070X sama dengan?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>TC = 75\u00b0C</p><p><strong>Penjelasan:</strong></p><p>Dasar teori</p><p>TERMOMETER</p><p>Termometer Skala Reamur, Celcius, Fahrenheit dan Kelvin menggunakan batas titik beku air dan titik didih air sebagai acuan untuk membuat skala pengukurannya.</p><p></p><p>                              R       C           F          K</p><p>Titik Beku Air        0        0          32       273</p><p>Titik Didih Air       80      100       212      373</p><p>Selisih suhu         80       100      180       100.......bagi 20</p><p>Rumus                 4n       5n       9n+32   5n+273</p><p>Jadi kita dapat  Rumus masing masing skala</p><p>TR = 4n</p><p>TC = 5n</p><p>TF = 9n + 32</p><p>TK = 5n + 273 </p><p>Catatan : Tentukan dulu nilai n dari suhu/skala yg diketahui di soal.</p><p></p><p>Diketahui</p><p>TbX = -30\u00b0X </p><p>TdX =  90\u00b0X</p><p>TX  =   60\u00b0X</p><p>Ditanya</p><p>TC</p><p>Penyelesaian          </p><p>                                C              X</p><p></p><p>Titik Beku Air          0             -30</p><p>Titik Didih Air         100            90</p><p>Selisih suhu           100           120.....bagi 20</p><p>Rumus                    5n          6n - 30</p><p></p><p></p><p>TX = 6n - 30 = 60</p><p>             6n = 90 </p><p>               n = 15</p><p>TC= 5n = 5\u00d7 15 = 75 \u00b0C</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "23amplitudo-dari-gelombang-yang-ditampilkan-pada-gambar-dibawah-688",
+            "question": "23.Amplitudo dari gelombang yang ditampilkan pada     gambar dibawah ini adalah... \r\na. I meter\r\nb. 2 meter\r\nc. 4 meter\r\nd. 8 meter\u200b",
+            "attachments": [
+                "question-attachments/23amplitudo-dari-gelombang-yang-ditampilkan-pada-gambar-dibawah-688-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p> <strong>Amplitudo merupakan jarak dari puncak (lembah) ke titik x = 0.</strong>Berdasarkan gambar, jarak dari lembah ke puncak sebesar 2 m. Maka, jarak dari titik x = 0 ke puncak sebesar begin mathsize 14px style 1 half cross times 2 end style = 1 m. </p><p><strong><em><u>Jadi, nilai amplitudo pada gambar di atas sebesar 1 m.undefined </u></em></strong></p><p></p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>a.1 meter</p><p><strong>Penjelasan:</strong></p><p>itu jawabanya,</p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "termometer-celcius-dan-reamur-digunakan-untuk-mengukur-suhu-suatu-505",
+            "question": "termometer celcius dan reamur digunakan untuk mengukur suhu suatu benda ternyata jumlah skala yang ditunjukkan oleh kedua termometer = 90o. berapa oc danor suhu benda tersebut?\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>TC = 50\u00b0C</p><p><strong>Penjelasan:</strong></p><p>Dasar teori</p><p>TERMOMETER</p><p>Termometer Skala Reamur, Celcius, Fahrenheit dan Kelvin menggunakan batas titik beku air dan titik didih air untuk membuat skala pengukurannya.</p><p></p><p>                              R       C           F          K</p><p>Titik Beku Air        0        0          32       273</p><p>Titik Didih Air       80      100       212      373</p><p>Selisih suhu         80       100      180       100.......bagi 20</p><p>Rumus                 4n       5n       9n+32   5n+273</p><p>Jadi kita dapat  Rumus masing masing skala</p><p>TR = 4n</p><p>TC = 5n</p><p>TF = 9n + 32</p><p>TK = 5n + 273</p><p>dimana n adalah variabel</p><p>Untuk menghitung/konversi dari satu skala ke skala lain kita tentukan dulu nilai n dari suhu/skala yg diketahui di soal.</p><p></p><p>Diketahui</p><p>TR + TC = 90</p><p>Ditanya</p><p>TR dan TC</p><p>Penyelesaian          </p><p>Dari dasar teori diatas kita ketahui</p><p>TR = 4n</p><p>TC = 5n</p><p>TR + TC = 90</p><p>4n + 5n = 90</p><p>9n = 90</p><p> n = 10</p><p>TC = 5n = 5 \u00d7 10 = 50\u00b0 C</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "perhatikan-gambar-berikut-jika-gaya-yang-digunakan-untuk-men-241",
+            "question": "Perhatikan gambar berikut!    \ufffc\r\n\r\nJika gaya yang digunakan untuk menarik benda yang massanya 20 kg adalah 40 N , maka percepatan yang dialami benda sebesar .\u00a0.\u00a0.\u00a0m/s\u00a02\u00a0.\r\n\r\nSEBUAH\r\n\r\n5\r\n\r\nB\r\n\r\n8\r\n\r\nC\r\n\r\n3\r\n\r\nD\r\n\r\n1\r\n\r\nE\r\n\r\n2\r\n\r\n\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>8</p><p><strong>Penjelasan:</strong></p><p>maaf kalo ada yang salah</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-kalor-yang-dilepas-sama-dengan-kalor-yang-diterima-adalah-914",
+            "question": "Sebuah kalor yang dilepas sama dengan kalor yang diterima adalah\u2026\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>Joseph black</p><p><strong>Penjelasan:</strong></p><p></p><p></p><p></p><p>maaf kalo salah</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tabung-kaca-berdiameter-10-mm-dimasukkan-kedalam-air-pada-suhu-10-735",
+            "question": "tabung kaca berdiameter 10 mm dimasukkan kedalam air pada suhu 100\u00b0C dalam cangkir.tentukan kenaikan kapiler air dalam tabung 26\u00b0C.tentukan kenaikan kapiler minyak tanah di tabung",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>maap mah </p><p><strong>Penjelasan:</strong></p><p>maap saya hanya butuh poin </p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suatu-benda-bergerak-lurus-beraturan-dalam-selang-waktu-5-dt-m-819",
+            "question": "Suatu benda bergerak lurus beraturan dalam selang waktu = 5 dt, menempuh jarak = 30m. tentukan kecepatan benda\u2026    A\r\n10 m/dt\r\n\r\nB\r\n6 m/dt\r\n\r\nC\r\n12 m/dt\r\n\r\nD\r\n150 m/dt\r\n\r\nE\r\n15 m/dt\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>B. 6 m/dt</p><p><strong>Penjelasan:</strong></p><p>K=Jarak : waktu</p><p>  =30m : 5 dt</p><p>  =6 m/dt</p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p></p><p><strong>Rumus</strong><strong> </strong><strong>kecepatan</strong><strong> </strong><strong>benda</strong><strong> </strong><strong>=</strong><strong> </strong><strong>Jarak</strong><strong> </strong><strong>tempuh</strong><strong> </strong><strong>:</strong><strong> </strong><strong>waktu</strong></p><p></p><p><strong>Kecepatan</strong><strong> </strong><strong>benda</strong><strong> </strong><strong>=</strong><strong> </strong><strong>3</strong><strong>0</strong><strong> </strong><strong>meter</strong><strong> </strong><strong>:</strong><strong> </strong><strong>5</strong><strong> </strong><strong>detik</strong></p><p><strong>Kecepatan</strong><strong> </strong><strong>benda</strong><strong> </strong><strong>=</strong><strong> </strong><strong>6</strong><strong> </strong><strong>meter</strong><strong> </strong><strong>/</strong><strong> </strong><strong>detik</strong></p><p></p><p><strong>Jadi</strong><strong> </strong><strong>jawabanya</strong><strong> </strong><strong>yang</strong><strong> </strong><strong>B</strong><strong>.</strong><strong> </strong><strong>6</strong><strong> </strong><strong>m</strong><strong>/</strong><strong>dt</strong></p><p></p><p><strong>Semoga</strong><strong> </strong><strong>membantu</strong><strong> </strong><strong>kamu</strong></p><p></p>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

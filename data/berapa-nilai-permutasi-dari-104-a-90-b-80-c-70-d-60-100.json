@@ -1,0 +1,166 @@
+{
+    "question": "Berapa nilai permutasi dari (10,4)!\r\n a. 90\r\n b. 80\r\n c. 70\r\n d. 60\u200b",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "<p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>nilai permutasi dari (10,4)=</p><p>n=10</p><p>r=4</p><p></p><p>nPr= n!/(n-r)!</p><p>10P4=10!/(10-4)!</p><p>=10!/6!</p><p>=7\u00d78\u00d79\u00d710</p><p>=<strong>5</strong><strong>0</strong><strong>4</strong><strong>0</strong></p>",
+            "attachments": [
+                "answer-attachments/berapa-nilai-permutasi-dari-104-a-90-b-80-c-70-d-60-100-1.jpg"
+            ]
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "jika-jarak-qr-adalah-100-meter-maka-tinggi-rp-dan-pq-berturut-tur-281",
+            "question": "Jika jarak qr adalah 100 meter maka tinggi Rp dan pq berturut turut adalah\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>PQ = 50\u221a3 m</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>QR/sinP : PQ/sinR</p><p></p><p>100/sin90\u00b0 : PQ/sin60\u00b0</p><p></p><p>100/1 : PQ/1/2\u221a3</p><p></p><p>100.1/2\u221a3 : PQ</p><p></p><p>PQ = 50\u221a3 m</p><h3>maaf kak klo salah</h3>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bantuin-pleasejgn-ngasal-ok-ngga-bisa-jawab-skip-lbh-baik-874",
+            "question": "Bantuin please,,jgn ngasal ok ngga bisa jawab skip lbh baik\u200b",
+            "attachments": [
+                "question-attachments/bantuin-pleasejgn-ngasal-ok-ngga-bisa-jawab-skip-lbh-baik-874-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>Jawaban terlampir</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>semoga bermanfaat</p>",
+                    "attachments": [
+                        "answer-attachments/bantuin-pleasejgn-ngasal-ok-ngga-bisa-jawab-skip-lbh-baik-874-1.jpg",
+                        "answer-attachments/bantuin-pleasejgn-ngasal-ok-ngga-bisa-jawab-skip-lbh-baik-874-2.jpg",
+                        "answer-attachments/bantuin-pleasejgn-ngasal-ok-ngga-bisa-jawab-skip-lbh-baik-874-3.jpg",
+                        "answer-attachments/bantuin-pleasejgn-ngasal-ok-ngga-bisa-jawab-skip-lbh-baik-874-4.jpg",
+                        "answer-attachments/bantuin-pleasejgn-ngasal-ok-ngga-bisa-jawab-skip-lbh-baik-874-5.jpg"
+                    ]
+                },
+                {
+                    "answer": "<p> semoga benar ya hehehhe</p>",
+                    "attachments": [
+                        "answer-attachments/bantuin-pleasejgn-ngasal-ok-ngga-bisa-jawab-skip-lbh-baik-874-1.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "dari-gambar-di-bawah-ini-hubungan-antara-b-dan-d-adalah-718",
+            "question": "Dari gambar di bawah ini, hubungan antara \u2220b dan \u2220d adalah\u200b",
+            "attachments": [
+                "question-attachments/dari-gambar-di-bawah-ini-hubungan-antara-b-dan-d-adalah-718-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "<p>Dari gambar tersebut, hubungan antara \u2220b dan \u2220d adalah <strong>S</strong><strong>u</strong><strong>d</strong><strong>u</strong><strong>t</strong><strong> </strong><strong>d</strong><strong>a</strong><strong>l</strong><strong>a</strong><strong>m</strong><strong> </strong><strong>b</strong><strong>e</strong><strong>r</strong><strong>s</strong><strong>e</strong><strong>b</strong><strong>r</strong><strong>a</strong><strong>n</strong><strong>g</strong><strong>a</strong><strong>n</strong></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suatu-metode-pembuktikan-deduktif-yang-di-gunakan-untuk-membuktik-838",
+            "question": "suatu metode pembuktikan deduktif yang di gunakan untuk membuktikan pernyataan matematika yang bergantung pada himpunan bilangan yang terurut rapi itu ialah\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p><strong>Induksi matematika</strong><strong>.</strong></p><p></p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p><strong><u>Induksi matematika merupakan sebuah metode pembuktian deduktif yang dipakai guna membuktikan pernyataan matematika yang berkaitan dengan himpunan bilangan yang terurut rapi (well ordered set).</u></strong></p><p></p><p>Bilangan tersebut contohnya bilangan asli maupun himpunan bagian tak kosong dari bilangan asli.</p><p></p><p><strong>Perlu kalian catat:</strong>\u00a0bahwa induksi matematika hanya dipakai untuk mengecek atau membuktikan kebenaran dari sebuah pernyataan atau rumus. Dan induksi matematika tidak untuk menurunkan rumus.</p><p></p><p>Berikut ini adalah beberapa contoh dari pernyataan matematika yang bisa dibuktikan kebenarannya pada induksi matematika:</p><p></p><p>P(n): \u00a02 + 4 + 6 + \u2026 + 2n = n(n + 1), n bilangan asli</p><p>P(n): \u00a06n\u00a0+ 4 habis dibagi 5, untuk n bilangan asli.</p><p>P(n): \u00a04n &lt; 2n, untuk masing-masing bilangan asli n \u2265 4</p><p></p><p></p><h2>Semoga Membantu:)</h2>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "salah-satu-faktor-dari-suku-banyak-px2x3-5x2px3-adalah-x-261",
+            "question": "Salah satu faktor dari suku banyak P(x)=2x\u00b3-5x\u00b2+Px+3 adalah (x+1).Tentukan faktor dari suku banyak.\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>maaf gak bisa matematika</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "nilai-dari-sin-30-cos-90-tan-45-adalah-202",
+            "question": "Nilai dari sin 30\u00b0+ cos 90\u00b0 \u2013 tan 45\u00b0 \r\n\r\n\r\n\r\nadalah...\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawab:</strong></p><p>-1/2</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>\nsin 30\u00b0 = 1/2\n</p><p>cos 90\u00b0 = 0\n</p><p>tan 45\u00b0 = 1\n</p><p>\n</p><p>Sehingga :\n</p><p>\n</p><p>sin 30\u00b0 + cos 90\u00b0 - tan 45\u00b0\n</p><p>= 1/2 + 0 - 1\n</p><p>= -1/2\n</p><p>\n</p><p>\n</p><p>\n</p><p>Semoga membantu</p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>30,0174524064\u2070</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>maaf jika salah</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "plisssss-jawabbbbbnnsjsjdkjrj-278",
+            "question": "Plisssss jawabbbbbnnsjsjdkjrj\u200b",
+            "attachments": [
+                "question-attachments/plisssss-jawabbbbbnnsjsjdkjrj-278-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawab:</strong></p><p></p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p></p>",
+                    "attachments": [
+                        "answer-attachments/plisssss-jawabbbbbnnsjsjdkjrj-278-1.jpg"
+                    ]
+                },
+                {
+                    "answer": "<p>24) 33\u00b0</p><p>25) 122\u00b0</p><p></p><h2>PENYELESAIAN</h2><p></p><h3>Nomor 24</h3><p>\u2220C = 180\u00b0 \u2013 (110\u00b0 + 37\u00b0) </p><p>      = 180\u00b0 \u2013 147\u00b0</p><p>      = 33\u00b0</p><p></p><p></p><h3>Nomor 25</h3><p>\u2220A = 360\u00b0 \u2013 (102\u00b0 + 90\u00b0 + 46\u00b0) </p><p>      = 360\u00b0 \u2013 238\u00b0</p><p>      = 122\u00b0</p><p></p><p></p><h2>PEMBAHASAN</h2><p>Pada nomor 24, pada soal membahas bangun datar segitiga, di mana jumlah ketiga sudutnya adalah 180\u00b0</p><p></p><p>Pada nomor 25, pada soal membahas bangun trapesium siku-siku di mana salah satu sudutnya memiliki besar 90\u00b0 dan jumlah keempat sudutnya adalah 360\u00b0</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "5-hitunglah-nilai-limit-fungsi-berikut-limx-gt2-x2-4-di-bag-722",
+            "question": "\u06d4\r\n\r\n5. Hitunglah nilai limit fungsi berikut limx-&gt;2 x2-4 di bagi x-2\r\n\r\n\r\n\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>Kalau Mau Jasa tulis tugas Matematika SMP/SMA </p><p>bisa dm aja ya ig:annisarahmah312 </p><p>Harga mulai dari 10k tf dana/pulsa </p><p>Owner Mahasiswa Jurusan Matematika </p><p></p><p>semoga membantu yaa\u2764\ufe0f</p>",
+                    "attachments": [
+                        "answer-attachments/5-hitunglah-nilai-limit-fungsi-berikut-limx-gt2-x2-4-di-bag-722-1.jpg"
+                    ]
+                },
+                {
+                    "answer": "<p></p><p>[tex]4[/tex]</p><p>Penjelasan dilampiran foto</p>",
+                    "attachments": [
+                        "answer-attachments/5-hitunglah-nilai-limit-fungsi-berikut-limx-gt2-x2-4-di-bag-722-1.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "luas-bangun-yang-diarsir-adalah-260",
+            "question": "Luas bangun yang diarsir adalah...\r\n\u200b",
+            "attachments": [
+                "question-attachments/luas-bangun-yang-diarsir-adalah-260-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>10+10978</p><p>10=990007</p><p>1098=\u2206\u2206\u22066</p><p>     888098</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apa-saja-yang-harus-dikerjakan-oleh-pengrajin-kayu-199",
+            "question": "Apa saja yang harus dikerjakan oleh pengrajin kayu\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>memahat kayu, mengukir, mengecat</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>maaf kalo salah ya</p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>Membuat kerajinan yang berdasar bahan kayu.</p>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,146 @@
+{
+    "question": "##Quiz #22 ##    \u2022 edisi sore\r\n\u2022 poin banyak\r\n\u2022 gampang\r\n\u2022 no spam\r\n\r\n==========\r\n\r\nsoal :\r\nperbandingan volume 3 buah kubus berturut-turut = 2 : 5 : 8\r\njika panjang rusuk kubus yg berukuran sedang = 10 cm, tentukan selisih panjang rusuk kubus yang terbesar dengan yang terkecil!\u200b",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "<h2><strong>Jawab:</strong></h2><p>Selisih : 10,62</p><h2>___________________________</h2><h2><strong>Penjelasan:</strong></h2><p>V1 : V2 : V3</p><p>2 : 5 : 8</p><p></p><p>s sedang = 10 cm</p><p>s besar = ?</p><p>s kecil = ?</p><p></p><p></p><p>V1 : V2 : V3</p><p>s1\u00b3 : s2\u00b3 : s3\u00b3</p><p>s1\u00b3 : 10\u00b3 : s3\u00b3</p><p>s1\u00b3 : 1.000 : s3\u00b3</p><p></p><p>1.000 : 5 = 200</p><p></p><h3>Maka:</h3><p>V1 = 2 x 200</p><p>V1 = 400 cm\u00b3</p><p></p><p>V1 = s1\u00b3</p><p>400 = s1\u00b3</p><p>s1 = \u221b400</p><p></p><p></p><p></p><p>V3 = 8 x 200</p><p>V3 = 1.600 cm\u00b3</p><p>s3 = \u221b1600</p><p></p><p></p><p>Selisih :</p><p>s3 - s1</p><p>\u221b1600 - \u221b400</p><p>\u221b1200</p><p><strong>10,62 </strong></p><p></p><p>[tex]{\\blue{Answer~by:Mei^2}}[/tex]</p>",
+            "attachments": []
+        },
+        {
+            "answer": "<p><strong>Jawaban:</strong></p><p>12 cm</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>rusuk terbesar:</p><p>[tex] \\rm\\frac{5}{10}=\\frac{8}{x}\\\\\\rm5x=10\\times8\\\\\\rm5x=8\\\\\\rm x=\\frac{80}{5}\\\\\\rm x=16 [/tex]</p><p></p><p>rusuk terkecil:</p><p>[tex] \\rm\\frac{5}{10}=\\frac{2}{x}\\\\\\rm5x=10\\times2\\\\\\rm5x=20\\\\\\rm x=\\frac{20}{5}\\\\\\rm x=4[/tex]</p><p>sehingga</p><p>16 - 4</p><p>12</p><p></p><p></p>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "diketahui-suku-ke-6-dan-suku-ke-8-suatu-barisan-aritmatika-adalah-298",
+            "question": "Diketahui suku ke-6 dan suku ke-8 suatu barisan aritmatika adalah 24 dan 32 nilai suku -15\u200b",
+            "attachments": [
+                "question-attachments/diketahui-suku-ke-6-dan-suku-ke-8-suatu-barisan-aritmatika-adalah-298-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p></p><p>sebelum mencari suku ke 15 cari nilai a dan b terlebih dahulu dengan cara substitusi dan eliminasi suku ke 6 dan 8</p><p></p><p>suku ke 6=24</p><p>a+(6-1)b=24</p><p>a+5b=24......(1)</p><p></p><p>suku ke 8=32</p><p>a+(8-1)b=32</p><p>a+7b=32......(2)</p><p></p><p>substitusi kan persamaan 1 dan 2</p><p></p><p>a+5b=24</p><p>a+7b=32</p><p>_______ _</p><p>   -2b=-8</p><p>      b= -8/-2</p><p>      b=4</p><p></p><p>eliminasi nilai b=4 ke persamaan 1</p><p>a+5b=24</p><p>a+5(4)=24</p><p>a+20=24</p><p>a=24-20</p><p>a=4</p><p></p><p>nilai a dan b sudah di ketahui,sekarang lanjut mencari suku ke 15</p><p></p><p></p><p>Sn =n/2(2a+(n-1)b)</p><p>S15=15/2(2.4+(15-1)4)</p><p>      =15/2(8+56)</p><p>      =15/2(64)</p><p>      =15.32</p><p>      =450</p><p></p><p>tapi kok GK ada y di jwabnnya,apa salah</p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jumlah-besar-ketiga-sudut-pada-segitiga-sama-sisi-adalah-1800-be-819",
+            "question": "Jumlah besar ketiga sudut pada segitiga sama sisi adalah 1800. Besar setiap sudut pada segitiga sama sisi adalah\u00a0\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>besar tiap sudut 180\u00b0 : 3 = 60\u00b0</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "perhatikan-data-berikut-6-7-9-8-7-10-8-7-10-8-9-6-9-710",
+            "question": "Perhatikan data berikut: 6, 7, 9, 8, 7, 10, 8, 7, 10, 8, 9, 6, 9, 5, 7. Berapakah anak yang mendapat nilai di atas 6.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<h2><strong><em><u>\u26a1TABRANI IM\u26a1</u></em></strong></h2><p></p><p></p><h3>1. URUTKAN DATA TERLEBIH DAHULU</h3><p>Nilai 5 = 1</p><p>Nilai 6 = 2</p><p>Nilai 7 = 4</p><p>Nilai 8 = 3</p><p>Nilai 9 = 3</p><p>Nilai 10 = 2</p><p></p><h3>2. CARI LAH PERNYATAAN SESUAI SOAL</h3><p>Dari data diatas dapat di simpulkan bahwa Jumlah anak yang mendapat nilai diatas 6 adalah</p><p>4 + 3 + 3 + 2</p><h2>= 12 anak</h2><p></p><p></p><p><strong>\u26a1Semoga bermanfaat </strong></p><p><strong>\u26a1 Semangat Belajar</strong></p><p><strong>\u26a1Good Luck</strong></p><p></p><p>\"Barang siapa yang menghendaki dunia harus dengan ILMU. Barang siapa yang menghendaki akhirat maka harus dengan ILMU\"</p><p>(Imam Syafi&#039;i)</p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<p><strong>Jawab:</strong></p><p>12</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>diket:</p><p>Nilai 5 = 1\n</p><p>\nNilai 6 = 2\n</p><p>\nNilai 7 = 4\n</p><p>\nNilai 8 = 3\n</p><p>Nilai 9 = 3\n</p><p>\nNilai 10 = 2</p><p>ditan:</p><p>berapa yang mendapat di atas 6?</p><p>jawab:</p><p>nilai di atas 6 = 7,8,9,10</p><p>=4+3+3+2</p><p>=12</p><p></p><p></p><p>semoga membantu</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "nilai-persamaan-xy29-dan-x-y-adalah-507",
+            "question": "Nilai persamaan x+y=29 dan x - y adalah\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>x=20</p><p>y=9</p><p>x+y=29</p><p>x-y=1       29+1=30</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-tentukan-panjang-bd-dari-sisi-sisi-yang-diketahui-pada-gambar-393",
+            "question": "1. Tentukan panjang BD dari sisi sisi yang diketahui pada gambar di bawah ini menggunakan Teorema Pitagoras! \u200b",
+            "attachments": [
+                "question-attachments/1-tentukan-panjang-bd-dari-sisi-sisi-yang-diketahui-pada-gambar-393-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p> yok mau ga aku.mah bebas aya by</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>kuntul</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "10-sepotong-papan-berbentuk-persegi-panjang-dengan-ukuran-panjan-176",
+            "question": "10. Sepotong papan berbentuk persegi panjang dengan ukuran panjang 250cm dan lebar Im Luas papan    tersebut adalah ...\r\n25.000 cm b. 2.500 cm\r\nc, 250 cm\r\nd. 25 cm\r\n\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>A. 25.000 cm2</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>1 m = 100 cm</p><p></p><p>L = p . l = 250 . 100 = 25.000 cm2</p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolongin-aku-minta-jwb-tugas-nya-mendadak-ini-dari-nomor-2-6-688",
+            "question": "Tolongin aku minta jwb tugas nya :) mendadak ini dari nomor 2-6\u200b",
+            "attachments": [
+                "question-attachments/tolongin-aku-minta-jwb-tugas-nya-mendadak-ini-dari-nomor-2-6-688-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>2. A</p><p>3. A</p><p>4. B</p><p>5. B</p><p>6. B</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>2. jumlah kubus satuan = 4 \u00d7 3 \u00d7 3 = 24</p><p>3. dik : r = 13 cm</p><p>            V = r\u00b3</p><p>               = 13\u00b3</p><p>               = 2197 cm\u00b3</p><p>4. dik : V = 4913 cm\u00b3</p><p>            V = r\u00b3</p><p>             </p><p>[tex]r =  \\sqrt[3]{4913}  \\\\ r = 17[/tex]</p><p>jd panjang sisinya 17 cm</p><p></p><p>5. V = p \u00d7 l \u00d7 t</p><p>     V = 24 \u00d7 15 \u00d7 10</p><p>        = 3600 cm\u00b3</p><p></p><p>6. V = 336.000 liter</p><p>        = 336.000 dm\u00b3</p><p>        = 336 m\u00b3</p><p>     V = p \u00d7 l \u00d7 t</p><p>      t = V \u00f7 p \u00f7 l</p><p>        = 336 \u00f7 20 \u00f7 12</p><p>        = 1.4 m</p><p>        = 140 cm</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "kak-bantu-jawab-ini-dong-775",
+            "question": "Kak bantu jawab ini dong\u200b",
+            "attachments": [
+                "question-attachments/kak-bantu-jawab-ini-dong-775-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawab:</strong></p><p></p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p></p>",
+                    "attachments": [
+                        "answer-attachments/kak-bantu-jawab-ini-dong-775-1.jpg"
+                    ]
+                },
+                {
+                    "answer": "<p>jawab ny pakai gambar aja ya, jadi hasilnya - 2x + 8y</p>",
+                    "attachments": [
+                        "answer-attachments/kak-bantu-jawab-ini-dong-775-1.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-luas-permukaan-suatu-kubus-adalah-1360-cm-persegi-berap-327",
+            "question": "Diketahui luas permukaan suatu kubus adalah 1360 cm persegi Berapa panjang sisi kubus tersebut\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>Ini di soal luas permukaan 1360 cm\u00b2 atau 1350 cm\u00b2 ya, Kak?</p><p></p><p>Kalo luas permukaannya 1350 cm\u00b2, maka panjang rusuk kubus = 15 cm</p><p></p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>Kubus memiliki 6 sisi. </p><p>Luas permukaan kubus = 6 x L persegi </p><p>                              1350 = 6 x Luas persegi </p><p>                 Luas persegi = 1350 : 6 </p><p>                 Luas persegi = 225 </p><p></p><p>Luas persegi = rusuk2 </p><p>              225 = rusuk\u00b2 </p><p>           rusuk = \u221a225 </p><p>           rusuk = 15</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "seseorang-pedagang-membeli-sekarung-cabai-seberat-25-kg-harga-sel-133",
+            "question": "Seseorang pedagang membeli sekarung cabai seberat 25 kg harga seluruh cabai 150 pedagang tersebut hendak menjualnya kembali dengan harga Rp75.000 per kg Tentukan a. harga pembelian cabai per kg    b.prentase keuntungan dari hasil penjual\r\n\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<h2>[tex]{\\huge{{\\mathbb{MATEMATIKA}}}}[/tex]</h2><p></p><h3><strong><em><u>Pertanyaan</u></em></strong><strong><em><u> </u></em></strong><strong><em><u>:</u></em></strong></h3><p>seseorang pedagang membeli sekarung cabai seberat 25 kg harga seluruh cabai 150 pedagang tersebut hendak menjualnya kembali dengan harga Rp75.000 per kg Tentukan :</p><p>a. harga pembelian cabai per kg </p><p>b. prentase keuntungan dari hasil penjual</p><p></p><h3><strong><em><u>Jawaban</u></em></strong><strong><em><u> </u></em></strong><strong><em><u>:</u></em></strong></h3><p></p><ul><li><strong>Harga</strong><strong> </strong><strong>pembelian</strong><strong> </strong><strong>cabai</strong><strong>/</strong><strong>kg</strong></li></ul><p>= 1.500.000 \u00f7 25</p><p>= 60.000</p><p><em><u>Jadi</u></em><em><u>,</u></em><em><u> </u></em><em><u>harga</u></em><em><u> </u></em><em><u>cabai</u></em><em><u>/</u></em><em><u>kg</u></em><em><u> </u></em><em><u>adalah</u></em><em><u> </u></em><em><u>Rp</u></em><em><u>.</u></em><em><u> </u></em><em><u>6</u></em><em><u>0</u></em><em><u>.</u></em><em><u>0</u></em><em><u>0</u></em><em><u>0</u></em></p><p></p><ul><li><strong>Presentase</strong><strong> </strong><strong>keuntungan</strong></li></ul><p>= [ ( 75.000 \u00d7 25 ) - 1.500.000 ] \u00f7 1.500.000 \u00d7 100</p><p>= ( 375.000 \u00f7 1.500.000 ) \u00d7 100</p><p>= 0,25 \u00d7 100</p><p>= 25</p><p><em><u>Jadi</u></em><em><u>,</u></em><em><u> </u></em><em><u>persentase</u></em><em><u> </u></em><em><u>keuntungan</u></em><em><u> </u></em><em><u>nya</u></em><em><u> </u></em><em><u>adalah</u></em><em><u> </u></em><em><u>2</u></em><em><u>5</u></em><em><u>%</u></em></p><p></p><p></p><p></p><h2>\u2756\u25c6\u25c7\u25c6\u25c7\u25c6\u25c7\u25c6\u25c7\u2756\u25c6\u25c7\u25c6\u25c7\u25c6\u25c7\u25c6\u25c7\u2756</h2><p></p><p>[tex]\\huge{\\purple{\\boxed{\\orange{Sem}{\\pink{oga}{\\blue{Memb}{\\green{antu}}}}}}}[/tex]</p><p></p><p></p><p>[tex]{\\boxed{ \\boxed{ \\pink{JanganLupaFollowDanLove}}}}[/tex]</p><p></p><p>[tex] \\huge{ \\purple{ \\boxed{ \\orange{\u2606farach}{ \\pink{azz}{ \\blue{a7x\u2606}}}}}}[/tex]</p>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

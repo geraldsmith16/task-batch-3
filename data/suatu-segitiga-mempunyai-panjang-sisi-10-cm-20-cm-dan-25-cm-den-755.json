@@ -1,0 +1,144 @@
+{
+    "question": "Suatu segitiga mempunyai panjang sisi 10 cm, 20 cm dan 25 cm. dengan menggunakan kebalikan teorema pythagoras, maka jenis segitiga tersebut adalah",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "<p>=\u300bDiket:</p><p>\u2022 a = 10 cm</p><p>\u2022 b = 20 cm</p><p>\u2022 c = 25 cm</p><p>=\u300bDitanya:</p><p>\u2022 Jenis segitiga =...?</p><p>=\u300bJawab:</p><p>[tex] {c}^{2} ... {a}^{2}  +  {b}^{2}  \\\\  {25}^{2} ... {10}^{2}  +  {20}^{2}  \\\\ 625...100 + 400 \\\\ 625...500 \\\\ 625 &gt; 500[/tex]</p><p>Apabila c2 &gt; a2 + b2 maka jenis segitiga tersebut adalah segitiga tumpul</p><p>  </p>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "jarak-kota-samarinda-dengan-kota-balikpapan-pada-peta-adalah-8-cm-335",
+            "question": "Jarak kota Samarinda dengan kota Balikpapan pada peta adalah 8 cm, dengan skala 1 : 1.000.000. Berapakah jarak sebenarnya antara kota Samarinda ke Balikpapan?\u00a0*    10 poin\r\n\r\n\r\n\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>80 km</p><p></p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>jarak sebenarnya = jarak pada peta : skala</p><p></p><p>Js= 8cm : 1/1.000.000</p><p></p><p>Js= 8cm \u00d7 1.000.000</p><p></p><p>Js= 8.000.000cm</p><p></p><p>Js=80km</p><p></p><p>Penjelasan dengan langkah-langkah:</p><p></p><p>Jadi jarak sebenarnya antara kota Balikpapan dengan Samarinda adalah 80km.</p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<h2>Jawaban:</h2><p>Jarak sebenarnya = 80 km</p><p>.</p><p></p><h2>Pembahasan Materi:</h2><p><strong>Skala</strong>\u00a0adalah <u>suatu perbandingan antara jarak pada gambar dengan jarak yang sebenarnya.</u></p><p></p><p>.</p><p></p><p>Rumus mencari skala peta:</p><p>S = Jp : Js</p><p></p><p>.</p><p></p><p>Rumus mencari jarak pada peta:</p><p>Jp = S \u00d7 Js</p><p></p><p>.</p><p></p><p>Rumus mencari jarak sebenarnya:</p><p>Js = Jp : S</p><p></p><p>.</p><p></p><p>Keterangan:</p><p>S = Skala Peta</p><p>Jp = Jarak pada Peta</p><p>Js = Jarak Sebenarnya</p><p></p><p>.</p><p></p><h2>Penyelesaian:</h2><p>Diketahui:</p><p>Skala peta = 1 : 1.000.000</p><p>Jarak pada peta = 8 cm</p><p></p><p>.</p><p></p><p>Ditanya: Jarak sebenarnya antara kota Samarinda ke Balikpapan = ?</p><p></p><p>.</p><p></p><p>Dijawab:</p><p>[tex]js \\:  =  \\:  \\frac{jp}{s}  \\:  \\\\  \\: js \\:  =  \\:  \\frac{8}{ \\frac{1}{1.000.000} }  \\:  \\\\  \\: js \\:  =  \\: 8 \\:  \\times  \\: 1.000.000 \\:  \\\\  \\: js \\:  =  \\: 8.000.000 \\: cm \\:  \\\\  \\: js \\:  =  \\: 80 \\: km \\: [/tex]</p><p>.</p><p></p><p>Jadi, jarak sebenarnya antara kota Samarinda ke Balikpapan adalah <strong><u>8</u></strong><strong><u>0</u></strong><strong><u> </u></strong><strong><u>k</u></strong><strong><u>m</u></strong>.</p><p></p><p>.</p><p></p><h2>Detail Jawaban</h2><p>Mapel: MTK</p><p>Kelas: 7 SMP</p><p>Materi: Bab 5 - Perbandingan Skala</p><p>Kode Soal: 2</p><p>Kode Kategorisasi: 7.2.5</p><p>Kata Kunci: Skala Peta, Jarak pada Peta, Jarak Sebenarnya</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pak-made-meminjam-uang-di-bank-sebesar-rp-400000000-dengan-bun-482",
+            "question": "pak made meminjam uang di bank sebesar rp 40.000.000.0 dengan bunga 24% pertahun besar bunga yang di tanggung pak Made meminjam 6 bulan adalah \u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>bunga per tahun = 24%</p><p>bunga 6 bulan (1/2 tahun = 1/2\u00d724%= 12%</p><p></p><p>bunga 6 bulan = 12%\u00d7 Rp 40.000.000,00</p><p>                         = Rp 4.800.000,00</p><p></p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>Rp4.800.000</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>Bunga =n/12 x %bunga x besar pinjaman</p><p>            =6/12 x 24/100 x 40.000.000</p><p>            =Rp4.800.000</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-jawab-dengan-benar-176",
+            "question": "Tolong jawab dengan benar\u200b",
+            "attachments": [
+                "question-attachments/tolong-jawab-dengan-benar-176-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>v = 20 x 50 x 30</p><p>= 30.000cm\u00b3</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-jam-dinding-berbentuk-persegi-mempunyai-luas-permukaan-289-729",
+            "question": "Sebuah jam dinding berbentuk persegi mempunyai luas permukaan 289 cm\u00b2 keliling jam dinding adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>[tex]s =  \\sqrt{289}  \\\\  =  \\:  \\:  \\:  17[/tex]</p><p>[tex]k = 4 \\times s \\\\   \\:  \\: \\:  \\:  \\:  \\:  = 4 \\times 17 \\\\ = 68[/tex]</p><p></p><p></p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sudut-yang-terbentuk-antara-diameter-dengan-garis-singgung-lingka-393",
+            "question": "Sudut yang terbentuk antara diameter dengan garis singgung lingkaran adalah\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><em>sudut yang terbentuk antara diameter</em><em> dengan garis singgung lingkaran</em><em> adalah </em><strong><em>9</em></strong><strong><em>0</em></strong><strong><em>\u00b0</em></strong><strong><em> </em></strong><strong><em>atau</em></strong><strong><em> </em></strong><strong><em>siku-</em></strong><strong><em>siku</em></strong><strong><em>.</em></strong></p><p></p><p><em>semoga</em><em> </em><em>mem</em><em>bantu</em><em>.</em><em>.</em></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "berikut-adalah-data-hasil-ulangan-matematika-siswa-kelas-4-60-70-499",
+            "question": "Berikut adalah data hasil ulangan matematika siswa kelas 4 60 70 70 100 70 90 80 70 80 60 80 70 90 100 80 70 70 60 90 sajikan lah dalam bentuk tabel dan diagram batang!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>jawabannya ada di gambar ya</p><p>semoga benar:) </p><p></p>",
+                    "attachments": [
+                        "answer-attachments/berikut-adalah-data-hasil-ulangan-matematika-siswa-kelas-4-60-70-499-1.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "pakai-caranya-ya-pls-973",
+            "question": "Pakai caranya ya pls \u200b",
+            "attachments": [
+                "question-attachments/pakai-caranya-ya-pls-973-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "<h3><strong>Jawab:</strong></h3><p><strong>x = 12,5\u00b0</strong></p><p><strong>keliling = 20</strong></p><p><strong>luas = 10 satuan luas</strong></p><p><strong></strong></p><h3><strong>Penjelasan:</strong></h3><p>3. </p><p>F = 180\u00b0 - 80\u00b0</p><p>F = 100\u00b0 </p><p></p><p>8x = F</p><p>8x = 100\u00b0</p><p>x = 100\u00b0 : 8</p><p><strong>x = 12,5\u00b0</strong></p><p><strong></strong></p><p>4. </p><p>keliling = 4 + 6 + 10</p><p><strong>keliling = 20</strong></p><p><strong></strong></p><p>luas = 1/2 x 10 x 2</p><p>luas = 5 x 2</p><p><strong>luas = 10 satuan luas</strong></p><p><strong></strong></p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bentuk-sederhana-dari-200-cm-83-m-adalah-255",
+            "question": "Bentuk sederhana dari 200 cm : 8/3 m adalah..\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>200 cm : 267 cm</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>dari cm ke m = dikali 100</p>",
+                    "attachments": [
+                        "answer-attachments/bentuk-sederhana-dari-200-cm-83-m-adalah-255-1.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "2-keliling-sebuah-persegi-128-cm-tentukan-luasnya-599",
+            "question": "2. Keliling sebuah persegi 128 cm tentukan luasnya\r\n\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>k = 128</p><p>4 x s = 128</p><p>s = 128/4</p><p>s= 32cm</p><p></p><p>luas = s x s</p><p>= 32 x 32</p><p>= 1.024cm\u00b2</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-tinggi-segitiga-siku-siku-tersebut-355",
+            "question": "Tentukan tinggi segitiga siku siku tersebut !\u200b",
+            "attachments": [
+                "question-attachments/tentukan-tinggi-segitiga-siku-siku-tersebut-355-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "<h2><strong>luas</strong><strong> </strong><strong>seg</strong><strong>itiga</strong><strong> </strong><strong>:</strong><strong> </strong><strong>\u00bd</strong><strong> </strong><strong>\u00d7</strong><strong> </strong><strong>a</strong><strong> </strong><strong>\u00d7</strong><strong> </strong><strong>t</strong></h2><p></p><p>165 = \u00bd \u00d7 22 \u00d7 t</p><p>165 = 11t</p><p>t = 165/11</p><p><strong>t</strong><strong> </strong><strong>=</strong><strong> </strong><strong>1</strong><strong>5</strong><strong> </strong><strong>cm</strong></p><p></p><p>tinggi segitiga siku siku tersebut adalah <strong>1</strong><strong>5</strong><strong> </strong><strong>cm</strong></p><p></p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>15 cm.</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><h2>\u2728 Diketahui:</h2><p>Luas segitiga siku-siku = 165 cm\u00b2</p><p>alas segitiga siku-siku (a) = 22 cm</p><p></p><h2>\u2728 Ditanya:</h2><p>tinggi segitiga siku-siku (t) ... ?</p><p></p><h2>\u2728 Rumus:</h2><p>[tex]luas \\: lingkaran  = \\frac{a \\times t}{2} [/tex]</p><p></p><h2>\u2728 Jawab:</h2><p>[tex]luas \\: lingkaran =  \\frac{a \\times t}{2}  \\\\ 165  \\: {cm}^{2}  =  \\frac{22 \\: cm \\times t}{2}  \\\\ 165 \\:  {cm}^{2}  = 11 \\: cm \\times t \\\\ t = 165 \\:  {cm}^{2}  \\div 11 \\: cm \\\\ t = 15 \\: cm[/tex]</p><p></p><h2>\u2728 Kesimpulan:</h2><p>Jadi, tinggi segitiga siku-siku dengan luas 165 cm\u00b2 dan alas 22 cm adalah 15 cm.</p>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

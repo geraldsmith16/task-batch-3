@@ -1,0 +1,140 @@
+{
+    "question": "jika 100 ml larutan H2SO4 0,1ml di campur dengan 300mllarutang asam asetat 0,1 m maka oh campuran larutan tersebut adalah ...\u200b",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "<p> </p><p></p><p> </p><p>Untuk menentukan pH, maka di gunakan 2 cara yakni :</p><p></p><p>Cara lengkap dan tidak langsung yang terdiri atas perhitungan mmol, pOH, reaksi kesetimbangan, dst </p><p>Cara tidak langsung tapi sempurna yang terdiri atas 2 perhitungan yakni : </p><p></p><p>mmol = (V1 \u00d7 M1) + (V2 \u00d7 M2) + (Vn \u00d7 Mn) / V1 + V2 + Vn </p><p>pH = -Log [H+]</p><p>[H+] = a \u00d7 Ma </p><p></p><p>Jawab : </p><p></p><p></p><p>Cara 1 : </p><p></p><p>Step 1 : </p><p></p><p>Hitung nilai mmol nya beserta konversikan nilai hasil mmol ke mol : </p><p></p><p>mmol H2SO4 = 0,1 M \u00d7 100 mL = 10 mmol = 0,01 mol </p><p>mmol CH3COOH = 0,1 M \u00d7 300 mL = 30 mmol = 0,03 mol </p><p></p><p>Step 2 :</p><p></p><p>Reaksi kan : </p><p></p><p>   H2SO4 + CH3COOH \u2192 CH3COOH2 + HSO4</p><p> </p><p>M :   0,01         0,03                  - .                   - </p><p>R. :  -0,01        -0,01.            +0,02.            +0,02 </p><p>S. :.     -.            0,02.             +0,02.            +0,02 </p><p></p><p>Step 3 : </p><p></p><p>Nah dikarenakan pada reaksi kesetimbangan itu menyisakan asam lemah di sebelah pereaksi (kanan), maka perhitungan pH di dasarkan pada asam lemah tersebut : </p><p></p><p>Rumus : </p><p></p><p>= Sisa mol / v. total </p><p>= 0,02 mol / 0,4 L </p><p>= 0,025 M </p><p></p><p>[H+] = 0,005 M \u00d7 2 </p><p>       = 0,01 M </p><p></p><p>pH = 2-Log 1 </p><p></p><p></p><p></p><p>Cara 2 : </p><p></p><p>mol = (100 mL \u00d7 0,1 M) + (300 mL \u00d7 0,1 M) / (400 mL ) </p><p>mol = (10 mmol) + (30 mmol) / 400 mL </p><p>mol = (40 mmol) / 400 mL </p><p>mol = 0,1 mol </p><p></p><p>pH = 1-Log 1</p><p></p><p></p>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "2-tuliskan-reaksi-ionicasi-zar-zot-berikut-2-h2so4-c-felohy-294",
+            "question": "2. Tuliskan reaksi ionicasi zar zot berikut\r\n2. H\u2082SO4 C. FeLOHY\r\nb. HBr\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Penjelasan:</strong></p><p>H2SO4 = 2H+ + SO4^-2</p><p>HBr = H+ + Br-</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-fx2x-3x5-nilai-f-11-248",
+            "question": "Jika f(x)=2x-3/x+5 nilai f^-1(1)=\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>f(1)^-1 = 8</p><p><strong>Penjelasan:</strong></p><p>f(x) = 2x - 3/ x + 5</p><p>      = 5x + 3 / -x + 2x</p><p>f(x)^-1 = 5x +3 / x </p><p>f(1)^-1  = 5(1) + 3 / (1)</p><p>          = 8 / 1</p><p>          = 8 </p><p></p><p></p><p>f(x) = ax + b / cx + d </p><p>f(x)^-1 = dx - b / -cx + a</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "6-who-met-the-idol-a-manda-and-herna-b-manda-e-herna-c-mand-321",
+            "question": "6. Who met the idol?    a. Manda and herna\r\nb. Manda\r\ne. herna\r\nc. Manda's uncle\r\nd. Herna's uncle\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>e. Herna </p><p></p><p>maaf kalau salah</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-bilangan-oksidasi-s-dalam-ion-so-adalah-a-2-b-1-c-2-d-216",
+            "question": "1. Bilangan oksidasi S dalam ion SO, adalah    a. -2\r\nb. +1\r\nc. +2\r\nd.+4\r\nd.\u00d77\r\n2. Bilangan oksidasi dari senyawa 'CH3COOH adalah\r\na.4\r\nb. 3\r\nd.2\r\nd.1\r\ne. O\r\n4. Rumus kimia dari Natrium Hidroksida adalah\r\na.Mgo\r\nb. Nao\r\nc.mg (OH)2\r\nd.NaOH\r\ne. Na2co3\r\n5. Rumus kimia dari Asam Sulfat adalah....\r\na. H2SO4 d. NaOH\r\nb. MgSO e. Na C\r\nc. Mg(OH)\r\n6. Rumus kimia dari Glukosa adalah....\r\na. C.H.200 d. NaOH\r\nb. C,H,O4 e. Na\u2082C\r\nc. Mg(OH)\r\n7. Berapakah biloks atom H dan O dalam berturut-turut\r\na +1 dan-2 d. +1 dan -3\r\nb. 2 dan +1 e. + dan - 4\r\nc.+2 dan -3\r\nbantu jawab sekarang tolong besok di kumpulin\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>1.Bilangan oksidasi S dalam SO3\u00a0adalah +6.\u00a0Jumlah\u00a0total\u00a0bilangan oksidasi\u00a0(BO) atom-atom\u00a0dalam\u00a0senyawa sama dengan nol.</p><p></p><p>2.Bilangan oksidasi dari senyawa\u00a0CH\u2083COOH adalah 0 dengan\u00a0biloks unsur\u00a0-\u00a0unsur\u00a0sebagai berikut :\u00a0Bilangan oksidasi unsur\u00a0oksigen akan ditulis terlebih dahulu sebesar { -2 } dan hidrogen sebesar { +1 } tiap unsurnya dan diikuti\u00a0unsur\u00a0-\u00a0unsur\u00a0lain berdasarkan golongannya masing - masing.</p><p></p><p></p><p></p><p>4.NaOH</p><p></p><p></p><p>5.H\u2082SO\u2084</p><p></p><p></p><p></p><p>6.C\u2086H\u2081\u2082O\u2086</p><p></p><p></p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "8-berapakah-biloks-unsur-c-yang-terdapat-pada-senyawa-ch4-adalah-127",
+            "question": "8. Berapakah biloks unsur C yang terdapat pada senyawa    CH4 adalah....\r\na.-4 d.-1\r\nb. -3 e. O\r\nc. -2\r\n9. Bilangan oksidasi unsur S pada senyawa H2SO4 adalah...\r\na.+2 d.+5\r\nb.+3 d.+6\r\nc.+4\r\n10. Berikut ini adalah unsur yang mempunyai biloks 0,\r\nkecuali....\r\na.H d.P\r\nB.N Br2\r\nC.O\r\n\r\ntolong bantu jawab sekarang\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>8. A.</p><p>9. D. </p><p><strong>Penjelasan:</strong></p><p>8. Biloks C + Biloks H = 0</p><p>Biloks C  + ( +1 x 4 ) = 0</p><p>Biloks C = -4</p><p></p><p>9. Biloks H + Biloks S + Biloks O = 0</p><p>( +1 x 2 ) + Biloks S + ( +2 x 4 ) = 0</p><p>Biloks S = +6</p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<p>Jawaban:</p><p></p><p>Penjelasan:</p><p> </p>",
+                    "attachments": [
+                        "answer-attachments/8-berapakah-biloks-unsur-c-yang-terdapat-pada-senyawa-ch4-adalah-127-1.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "tolong-kalo-liat-bantuin-ya-pls-sebutkan-nama-dan-rumus-senyawa-d-686",
+            "question": "Tolong kalo liat bantuin ya pls    sebutkan nama dan rumus senyawa dari\r\na. kation K+ anion OH-\r\nb. kation Ca\u00b2+ anion Br-\r\nc. kation Li+ anion O\u00b2-\r\nd. kation Fe\u00b3+ anion SO4\u00b2-\r\ne. kation H+ anion PO4\u00b3-\r\nf. kation NH4+ anion CI- \r\ng. kation Pb\u00b2+ anion S\u00b2-\r\nh. kation Ag+ anion CO3\u00b2-\r\ni. kation Cu+ anion NO\u00b2-\r\nj. kation Sn\u00b2+ anion F-\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>a. KOH / Kalium Hidroksida</p><p>b. CaBr / Kalsium Bromida</p><p>c. Li2O / Litium Oksida</p><p>d. Fe2(SO4)3 / Besi ( III ) Sulfat</p><p>e. H3PO4 / Asam Fosfat</p><p>f. NH4Cl / Ammonium Klorida</p><p>g. PbS / Timbal ( II ) Sulfida</p><p>h. Ag2CO3 / Perak Karbonat</p><p>i. CuNO2 / Tembaga ( I ) Nitrit</p><p>j. SnF2 / Timah ( II ) Fluorida</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bantu-jawab-pleaseee-523",
+            "question": "Bantu jawab pleaseee\u200b",
+            "attachments": [
+                "question-attachments/bantu-jawab-pleaseee-523-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>HCl diletakkan di dalam erlenmeyer, sedangkan NaOH diletakkan di dalam biuret.</p>",
+                    "attachments": [
+                        "answer-attachments/bantu-jawab-pleaseee-523-1.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "berapakah-berat-ekivalen-isoniazid-506",
+            "question": "Berapakah berat ekivalen isoniazid?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>15 ml x 0,05 N x 34,285= 2713 mg.</p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-bantu-jawab-ya-kk-629",
+            "question": "TOLONG BANTU JAWAB YA KK\u200b",
+            "attachments": [
+                "question-attachments/tolong-bantu-jawab-ya-kk-629-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "<p>Jawaban:</p><p></p><p>Penjelasan:</p><p> </p>",
+                    "attachments": [
+                        "answer-attachments/tolong-bantu-jawab-ya-kk-629-1.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "aliran-elektron-yang-terjadi-pada-uji-hantaran-arus-listrik-pada-505",
+            "question": "Aliran elektron yang terjadi pada uji hantaran arus listrik pada senyawa elektrolit adalah \u2026.. *    \u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>Dari kutub negatif ke kutub positif</p><p><strong>Penjelasan:</strong></p><p>Karena elektron di kutub negatif lebih byk drpd positif sehingga elektron mengalir dari yg lebih byk (negatif) ke yg lebih sedikit (positif)</p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>adalah kation bergerak menuju katode dan anion bergerak menuju anode sehingga arus listrik dapat mengalir</p><p></p><p></p><p></p><p><strong>semoga </strong><strong>membantu</strong></p><p></p>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

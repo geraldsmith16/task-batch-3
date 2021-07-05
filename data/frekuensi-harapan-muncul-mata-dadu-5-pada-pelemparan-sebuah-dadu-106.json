@@ -1,0 +1,144 @@
+{
+    "question": "Frekuensi harapan muncul mata dadu 5 pada pelemparan sebuah dadu sebanyak 2.130 kali    adalah ....\r\nA. 213 kali\r\nB. 355 kali\r\nC. 426 kali\r\nD. 710 kali\u200b",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "<h2>\u200bMateri Peluang</h2><h3>(Frekuensi harapan)</h3><p></p><p>Dalam peluang terdapat istilah frekuensi harapan. Frekuensi harapan memiliki rumus sebagai berikut:</p><p></p><p>fh = P(A) \u00d7 n</p><p>P(A) = n(A) / n(S)</p><p></p><p>dengan ketentuan:</p><p>fh = frekuensi harapan</p><p>P(A) = peluang kejadian A</p><p>n = banyak percobaan</p><p>n(A) = banyak kejadian A yang bisa terjadi</p><p>n(S) = banyak seluruh kejadian/banyak ruang sampel</p><p></p><h3><u>Pembahasan:</u></h3><h3><u></u></h3><p>Mencari P(A)-nya terlebih dahulu.</p><p>pada soal, diketahui muncul mata dadu 5. Maka n(A)-nya adalah 1. Lalu n(S)-nya adalah jumlah kejadian yang mungkin terjadi, yaitu 1,2,3,4,5,6. Ada 6.</p><p>Maka:</p><p>P(A) = n(A) / n(S)</p><p>= 1/6</p><p></p><p>Lalu banyak percobaan yang dilakukan adalah 2.130 kali. Maka kita bisa mencari frekuensi harapannya.</p><p>fh = P(A) \u00d7 n</p><p>= 1/6 \u00d7 2130</p><p>= 355</p><p></p>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "hari-ini-ulang-tahunku-dan-ayah-mengajak-kami-makan-pizza-sesuai-593",
+            "question": "hari ini ulang tahunku Dan ayah mengajak kami makan pizza. sesuai dengan peraturan, setiap pembelian akan dikenakan pajak 10%. jika pizza yang kami makan seharga RP475.000,00 maka yang harus dibayar ayah adalah....\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>Harga = Rp 475.000</p><p>pajak  = 10%</p><p>pajak  = Rp 475. 000 X 10% = Rp 47.500</p><p>uang yang harus di bayar ialah = Rp 475.000 + Rp 47.500 = Rp 522.500</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolongg-dong-kak-lagi-butuh-cepet-pake-jalan-nya-yaaa-makasiii-529",
+            "question": "Tolongg dong kak, lagi butuh cepet, pake jalan nya yaaa, makasiiii\u200b",
+            "attachments": [
+                "question-attachments/tolongg-dong-kak-lagi-butuh-cepet-pake-jalan-nya-yaaa-makasiii-529-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "<p>sudut elevasi</p><p></p><p>\u2206ABC siku di B</p><p>C puncak menara Eifel</p><p>mata pengamat = A </p><p></p><p>\u2220CAB = 32,8\u00b0</p><p>AB = 500 m</p><p></p><p>BC = AB tan 32,8\u00b0</p><p>BC = 500 \u00d7 0,644</p><p>BC = 322 meter</p><p></p><p>tinggi menara</p><p>= BC + tinggi pengamat</p><p>= 322 + 1,6</p><p>= 323,6 m</p><p></p><p>opsi yg me<strong>m</strong><strong>u</strong><strong>n</strong><strong>g</strong><strong>k</strong><strong>i</strong><strong>n</strong>kan : 224,1 m</p><p>ntah pk pendekatan apa yg buat soal </p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "panjang-rusuk-kubus-abcd-efgh-pada-gambar-di-bawah-adalah-6-cm-927",
+            "question": "Panjang rusuk kubus ABCD. EFGH pada gambar di bawah adalah 6 cm. Jarak titik E ke bidang diagonal BDHF adalah ....\u200b",
+            "attachments": [
+                "question-attachments/panjang-rusuk-kubus-abcd-efgh-pada-gambar-di-bawah-adalah-6-cm-927-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p> </p><p>smoga bermanfaat yaa :) </p><p></p><p> </p><p>maaf klo ada yg slh jwbn ny :)</p><p>klo boleh jadiin jawaban terbaik boleh? klo g mau gpp :)</p>",
+                    "attachments": [
+                        "answer-attachments/panjang-rusuk-kubus-abcd-efgh-pada-gambar-di-bawah-adalah-6-cm-927-1.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-deret-geometri-26-18-729-tentukan-banyak-suku-pada-d-597",
+            "question": "Diketahui deret geometri 2+6-18+ =729 tentukan banyak suku pada deret geometri tersebut\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p></p><p>BANYAKNYA suku tersebut adalah 6</p><p>Penjelasan dengan langkah-langkah:</p><p>a = 2</p><p>r = 6 / 2 = 3</p><p>Sn= a (r^n - 1) / r - 1</p><p>728 = 2 (3^n - 1) / 3 - 1</p><p>728 = 2 (3^n - 1) / 2</p><p>728 = 3^n - 1</p><p>729 = 3^n</p><p>3^6 = 3^n</p><p>6 = n</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "9-perhatikanlah-gambar-berikut-ini-besar-sudut-hasil-pengukuran-193",
+            "question": "9. Perhatikanlah gambar berikut ini!    Besar sudut hasil pengukuran di atas adalah..\r\n\u0441 C\r\nA. 60\r\nC. 110\r\nB. 70\r\nD. 120\r\ntolong jawabbbb 4nj1ng\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>bahasnya nya jangan begitu juga m0ny3T</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "hasil-dari-akar-akarpersamaan-kuadrat-62-2x-3-0-adalah-787",
+            "question": "Hasil dari akar-akarpersamaan kuadrat 6\u00d7\u00b2 - 2x +3= 0 adalah?\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>Jawabannya 1/2</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>Semoga membantu^^</p>",
+                    "attachments": [
+                        "answer-attachments/hasil-dari-akar-akarpersamaan-kuadrat-62-2x-3-0-adalah-787-1.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "plisss-tolong-jawab-jangan-ngasal-lho-217",
+            "question": "Plisss tolong jawab. Jangan ngasal lho",
+            "attachments": [
+                "question-attachments/plisss-tolong-jawab-jangan-ngasal-lho-217-1.png"
+            ],
+            "answers": [
+                {
+                    "answer": "<h2><strong>volume</strong><strong> </strong><strong>kubus</strong><strong> </strong><strong>:</strong><strong> </strong><strong>p</strong><strong> </strong><strong>\u00d7</strong><strong> </strong><strong>l</strong><strong> </strong><strong>\u00d7</strong><strong> </strong><strong>t</strong></h2><p>= 24 \u00d7 12 \u00d7 18</p><p>= 5184 cm\u00b3</p><p></p><p>jawabannya opsi <strong>D</strong></p><p></p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>d. 5184cm\u00b3</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>rumus menghitung volume balok = p \u00d7 l \u00d7 t </p><p>= 24cm \u00d7 12cm \u00d7 18cm</p><p>= 5184 cm\u00b3</p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "14-ibu-membeli-5-ons-tomat-dan-1-kg-cabai-berat-seluruh-belanja-492",
+            "question": "14. Ibu membeli 5 ons tomat dan 1 kg cabai. Berat seluruh belanjaan ibu adalah     a. 6 kg\r\nb. 15 kg\r\nc. 15 ons\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>C. 15 ons </p><p>maaf kalau salah</p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<p>Jawab:</p><p>15 ons</p><p>Penjelasan dengan langkah-langkah:</p><p>1 kg = 10 ons</p><p>tomat = 5 ons</p><p>cabai = 1 kg = 10 ons</p><p>total berat:</p><p>= 5 ons + 10 ons</p><p>= 15 ons</p><p>    </p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "hitunglah-keliling-lingkaran-jika-a-r-14cm-b-d-35cm-637",
+            "question": "Hitunglah keliling lingkaran jika \r\n\r\n a. r= 14cm\r\n b. d= 35cm",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawab:</strong></p><p>a. 88</p><p>b. 109,9</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p></p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>a. K = 2\u03c0r</p><p>       = 2 x 22/7 x 14</p><p>       = 88 cm</p><p>b. K = \u03c0.d</p><p>       = 3.14 x 35</p><p>       = 109,9 cm</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-nilai-penjumlahan-dari-persamaan-7x-4y-12-dan-16x-313",
+            "question": "Tentukan nilai penjumlahan dari persamaan 7x - 4y + 12 dan 16x + 5y - 7!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>(7x - 4y + 12) + (16x + 5y - 7) =</p><p>7x + 16x - 4y + 5y + 12 - 7 </p><p>= 23x + y + 5</p>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

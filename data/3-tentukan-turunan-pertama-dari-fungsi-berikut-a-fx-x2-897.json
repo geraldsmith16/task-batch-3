@@ -1,0 +1,149 @@
+{
+    "question": "3. Tentukan turunan pertama dari fungsi berikut ;    a. f(x) = (x\u00b2 + 12x - 7) (5x - 4)\r\nb. f(x) = 2x - 1 3x\u00b2 + x - 2\r\nc. f(x) = ( 6x - 3 )\u200b",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "<h2>PERTANYAAN :</h2><p></p><h2>NOMOR.3</h2><ul><li>Tentukan turunan pertama dari fungsi berikut ;</li></ul><p>a. f(x) = (x\u00b2 + 12x - 7) (5x - 4)</p><p>b. f(x) = 2x - 1 3x\u00b2 + x - 2</p><p>c. f(x) = ( 6x - 3 )</p><p></p><h2>CARA PENGERJAANNYA :</h2><p></p><p>NOMOR.3</p><ul><li>A. f(x) = (x\u00b2 + 12x - 7) (5x - 4)</li></ul><p>[tex] \\frac{d}{dx}((x^{2}  + 12x - 7)(5x - 4) \\\\ 15x^{2} + 112x - 83 \\\\  \\frac{d}{dx}(f(x)) = 15x^{2} + 112x - 83    \\\\ Jadi,</p><p> \\: hasil \\: turunan \\:pertama \\\\  dari \\: fungsi \\:tersebut \\:  \\\\ adalah \\:   \\frac{d}{dx}(f(x)) = 15x^{2} + 112x - 83   [/tex]</p><ul><li>B. f(x) = 2x - 1 3x\u00b2 + x - 2</li></ul><p>[tex] \\frac{d}{dx}(2x - 13x^{2} + x - 2)  \\\\  - 26x + 3 \\\\  \\frac{d}{dx}(f \\: (x))  =  - 26x + 3 \\\\  Jadi \\: , hasil  \\: turunan \\: pertama \\: dari \\\\ fungsi \\: tersebut \\\\ adalah \\: \\frac{d}{dx}(f \\: (x))  =  - 26x + 3[/tex]</p><ul><li>C. f(x) = ( 6x - 3 )</li></ul><p>[tex] \\frac{d}{dx}(6x - 3) \\\\ 6 \\\\  \\frac{d}{dx}(f(x)) = 6 \\\\ Jadi, \\: hasil \\: turunan \\: pertama \\: dari \\\\ fungsi \\: tersebut \\:  \\\\ adalah \\: \\frac{d}{dx}(f(x)) = 6[/tex]</p><p>___________________________________________</p><p></p><p></p><p>[tex]KAMIS, \\: 10 \\: JUNI \\: 2021 \\\\  \\\\ IKUTI  \\: ANJURAN \\\\  PROTOKOL \\:  KESEHATAN \\:  ! \\\\  \\\\  \\frac{fatversrealaccount}{SEMOGA  \\: BERMANFAAT}[/tex]</p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p>",
+            "attachments": []
+        },
+        {
+            "answer": "<p>[tex]\\huge \\orange{\\underbrace{\\overbrace{\\sf{\\bold{\\blue{Ambiziuz02}}}}}}[/tex] </p><p>_______________________________________________</p><p>[tex]{\\boxed{\\mathfrak{\\huge\\blue{{\\boxed{\\mathfrak{\\huge\\red{Penyelesaian}}}}}}}}[/tex]</p><p>_______________________________________________</p><p>A.</p><p>\u25aa [tex]\\large f(x) = (x^2 + 12x - 7)~(5x - 4)[/tex] </p><p>\u25aa [tex]\\large f(x) = 5x^3 - 4x^2 + 60x^2 - 48x - 35x + 28[/tex] </p><p>\u25aa [tex]\\large f(x) = 5x^3 + 56x^2 - 83x + 28[/tex]</p><p>\u25aa [tex]\\large f&#039;(x) = 5(3x^2) + 56(2x) - 83 + 0[/tex] </p><p>\u25aa [tex]\\large \\red{f&#039;(x) = 15x^2 + 112x - 83}[/tex]</p><p>B.</p><p>\u25aa [tex]\\large f(x) = 2x - 13x^2 + x - 2[/tex] </p><p>\u25aa [tex]\\large f(x) = -13x^2 + 2x + x - 2[/tex] </p><p>\u25aa [tex]\\large f(x) = -13x^2 + 3x - 2[/tex]</p><p>\u25aa [tex]\\large f&#039;(x) = -13(2x) + 3 - 0[/tex]</p><p>\u25aa [tex]\\large \\red{f&#039;(x) = -26x + 3}[/tex] </p><p>C.</p><p>\u25aa [tex]\\large f(x) = 6x - 3 [/tex] </p><p>\u25aa [tex]\\large f&#039;(x) = 6 - 0 [/tex]</p><p>\u25aa [tex]\\large \\red{f&#039;(x) = 6}[/tex] </p><p>_______________________________________________</p><p>[tex]\\large\\bigstar[/tex] Detail Jawaban [tex]\\large\\bigstar[/tex] </p><p></p><p>\u261e Mapel : Matematika</p><p>\u261e Cabang : - </p><p>\u261e Materi : Turunan Fungsi Aljabar</p><p>\u261e Kelas/Jenjang : 11 SMA</p><p>\u261e Kata Kunci : Derivatif</p><p> _______________________________________________ </p>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "1berikut-ini-adalah-data-tinggi-badan-siswa-kelas-7-dalam-cm-14-306",
+            "question": "1.Berikut ini adalah data tinggi badan siswa kelas 7 dalam cm:    149, 150, 148, 151, 150, 149, 147, 149, 151, 150, \r\n\r\n148, 147, 149, 148, 150, 148, 147, 149, 151, 148\r\n\r\nBuatlah diagram batang berdasarkan data di atas!\r\n\r\n\r\n\r\n2. Sebuah taman berbentuk persegi panjang dengan ukuran panjang 45 m dan lebar 30 m. Di sekeliling taman akan \r\n\r\nditanami pohon dengan jarak 5 m antar pohonnya. Berapakah pohon yang diperlukan?\r\n bantu ya jangan ngasal jawab nya\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>jawaban terlampir</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>semoga membantu</p>",
+                    "attachments": [
+                        "answer-attachments/1berikut-ini-adalah-data-tinggi-badan-siswa-kelas-7-dalam-cm-14-306-1.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "2-keliling-sebuah-persegi-128-cm-tentukan-luasnya-599",
+            "question": "2. Keliling sebuah persegi 128 cm tentukan luasnya\r\n\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>k = 128</p><p>4 x s = 128</p><p>s = 128/4</p><p>s= 32cm</p><p></p><p>luas = s x s</p><p>= 32 x 32</p><p>= 1.024cm\u00b2</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bentuk-sederhana-dari-pecahan-4575-adalah-a-15-b-25-c-35-d-738",
+            "question": "Bentuk sederhana dari pecahan 45/75 adalah\r\n\r\na 1/5\r\nb. 2/5\r\nc. 3/5\r\nd. 4/5\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>c. 3/5</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>= 45/75 (sama-sama dibagi 15)</p><p>= 3/5</p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>C.3/5</p><p></p><h3><u>Penjelasan </u><u>:</u><u> </u><u>maaf </u><u>kalo </u><u>salah</u></h3><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "8-peluang-ayam-yang-terkena-flu-burung-adalah-04-jika-dalam-su-293",
+            "question": "8. Peluang ayam yang terkena flu burung adalah    0,4. Jika dalam suatu kandang terdapat 1.200\r\nayam, banyaknya ayam yang terkena flu\r\nburung adalah..\r\nA. 4.800 ayam\r\n8. 480 ayam\r\nC. 300 ayam\r\nD. 120 ayam\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawab:</strong></p><p>480 ayam (B)</p><p></p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>Peluang ayam terkena flu burung = 0,4</p><p>Banyak ayam = 1.200 ekor</p><p></p><p>Ayam yang terkena flu burung = 0,4 x 1.200 = 480 ayam (B)</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "quizz-jarak-perahu-b-ke-titik-c-yang-ada-di-menara-adalah-met-985",
+            "question": "Quizz    Jarak perahu B ke titik C yang ada di Menara adalah ... meter.\r\n\r\n#Sertai dngn penjelasan\u200b",
+            "attachments": [
+                "question-attachments/quizz-jarak-perahu-b-ke-titik-c-yang-ada-di-menara-adalah-met-985-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>karna bentuknya segitiga maka menggunakan rumus pythagoras.</p><p>BF = 410m(garis hipotenusa)</p><p>CF = 90m</p><p>jarak B ke C = panjang BC=?</p><p></p><p></p><p>BC =\u221aBF\u00b2-CF\u00b2</p><p>     = \u221a410\u00b2-90\u00b2</p><p>     =\u221a160.000</p><p>     = 400m</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-bantu-jawab-dengan-cara-nya-ya-kak-208",
+            "question": "Tolong bantu jawab dengan cara nya ya kak!!\u200b",
+            "attachments": [
+                "question-attachments/tolong-bantu-jawab-dengan-cara-nya-ya-kak-208-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><h3>nga nanya aku yaha </h3><h2>biasa lah </h2>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "berikut-adalah-data-hasil-ulangan-matematika-siswa-kelas-4-60-70-499",
+            "question": "Berikut adalah data hasil ulangan matematika siswa kelas 4 60 70 70 100 70 90 80 70 80 60 80 70 90 100 80 70 70 60 90 sajikan lah dalam bentuk tabel dan diagram batang!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>jawabannya ada di gambar ya</p><p>semoga benar:) </p><p></p>",
+                    "attachments": [
+                        "answer-attachments/berikut-adalah-data-hasil-ulangan-matematika-siswa-kelas-4-60-70-499-1.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "yang-dimaksud-dengan-satu-getaran-pada-gambar-di-bawah-ini-adala-459",
+            "question": ".Yang dimaksud dengan satu getaran pada gambar di bawah ini adalah...    a. A-B-C-B-A\r\nb. B-C-B-A\r\nC. A-B-C\r\nd. C-B-A\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawab:</strong></p><p>a. A-B-C-B-A</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>A-B-C-B-A</p><p>merupakan gerakan pola teratur yang seimbang</p><p>dalam 1 getaran harus memiliki frekeunsi dan periode yang konstan</p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "kak-tolong-dibantu-menjawab-ya-599",
+            "question": "Kak tolong dibantu menjawab ya \u263a\ufe0f\u200b",
+            "attachments": [
+                "question-attachments/kak-tolong-dibantu-menjawab-ya-599-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>no 1: </p><p>no 2:</p><p> semoga membantu</p>",
+                    "attachments": [
+                        "answer-attachments/kak-tolong-dibantu-menjawab-ya-599-1.jpg",
+                        "answer-attachments/kak-tolong-dibantu-menjawab-ya-599-2.jpg"
+                    ]
+                },
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>2. 45\u00b0</p><p>3. Rp 3.862.000</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>2. cara 1 lihat segitiga besar : 180\u00b0 - 28\u00b0 - 45\u00b0 = 107 \u00b0</p><p>maka b = 107\u00b0 - 47 \u00b0 = 60\u00b0</p><p>cara 2 lihat segitiga yg kiri untuk mencari a.</p><p>a = 180\u00b0 - 28\u00b0 - 47\u00b0 = 105\u00b0</p><p>maka a-b = 105\u00b0-60\u00b0 = 45\u00b0</p><p></p><p>3. dik : lebih dari 1.000.000 diskon 10%</p><p>   kurang dari 1.000.000 diskon 5%</p><p>dit : harga yg harus dibayar?</p><p>jawab : </p><p>harga kalung 3.500.000 diskon 10%</p><p>maka 3.500.000 \u00d7 10/100 = 350.000</p><p>sehingga harga kalung mjd 3.500.000 - 350.000 = 3.150.000</p><p>lakukan cara yg sama untuk menghitung harga anting. nanti hasilnya dijumlah itu jawabannya.</p><p></p><p>semoga membantu, maaf kalau salah, lebih baik dihitung ulang.</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-tanda-artinya-harga-celana-kali-3-tambah-rp-50000-kemudia-697",
+            "question": "Jika tanda * artinya harga celana kali 3 tambah Rp 50.000 kemudian ditambah dua kali harga baju. misal c = harga satu celana Rp 200.000 dan b = harga satu baju Rp 55.000. maka niali dari c * b adalah . . .    a. Rp 630.000\r\nb. Rp 640.000\r\nc. Rp 650.000\r\nd. Rp 660.000\r\n\r\nbntu pls, caranya jgn lupa ya tysm.\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>Kalau Mau Jasa tulis tugas Matematika SMP/SMA </p><p>bisa dm aja ya ig:annisarahmah312 </p><p>Harga mulai dari 10k tf dana/pulsa </p><p>Owner Mahasiswa Jurusan Matematika </p><p></p><p>jawabannya gaada di option, kayaknya typo soal/jawabannya</p>",
+                    "attachments": [
+                        "answer-attachments/jika-tanda-artinya-harga-celana-kali-3-tambah-rp-50000-kemudia-697-1.jpg"
+                    ]
+                }
+            ]
+        }
+    ]
+}

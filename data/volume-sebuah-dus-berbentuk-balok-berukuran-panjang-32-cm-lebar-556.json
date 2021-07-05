@@ -1,0 +1,158 @@
+{
+    "question": "Volume sebuah dus berbentuk balok berukuran panjang 32 cm, lebar 16 cm, dan tinggi 8 cm sama dengan volume sebuah kaleng berbentuk kubus. Tentukan panjang rusuk kaleng tersebut!    ( soal tersebut adalah uraian)",
+    "attachments": [
+        "question-attachments/volume-sebuah-dus-berbentuk-balok-berukuran-panjang-32-cm-lebar-556-1.jpg"
+    ],
+    "answers": [
+        {
+            "answer": "<p><strong>Jawaban:</strong></p><p>32 x 16 x 8 = 4096cm\u00b3</p><p>v kubus = s\u00b3</p><p>4096 = 16\u00b3</p><p>rusuk= 16 cm</p>",
+            "attachments": []
+        },
+        {
+            "answer": "<h2>Jawaban:</h2><p>Panjang rusuk kaleng = 16 cm</p><p></p><h2>Pembahasan Materi:</h2><p><strong>Kubus</strong> adalah <u>suatu bangun ruang yang memiliki enam sisi yang semua sisinya berbentuk persegi dan memiliki 12 rusuk yang semua rusuknya sama panjang.</u></p><p></p><p>Rumus volume kubus:</p><p>V = s\u00b3</p><p></p><p>Rumus luas permukaan kubus:</p><p>L = 6 \u00d7 s\u00b2</p><p></p><p>Rumus panjang sisi rusuk kubus:</p><p>s = \u00b3\u221aV</p><p>\u00a0\u00a0 = \u221aL \u00f7 6</p><p></p><p>Rumus panjang diagonal sisi kubus:</p><p>ds = s\u221a2</p><p></p><p>Rumus panjang diagonal ruang kubus:</p><p>dr = s\u221a3</p><p></p><p>Rumus luas bidang diagonal kubus:</p><p>bd = s\u00b2\u221a2</p><p></p><p>Rumus keliling kubus:</p><p>K = 12 \u00d7 s</p><p></p><p>Rumus luas alas kubus:</p><p>L = s\u00b2 = s \u00d7 s</p><p></p><p>Keterangan:</p><p>s = panjang sisi rusuk</p><p>ds = diagonal sisi</p><p>dr = diagonal rusuk</p><p>bd = bidang diagonal</p><p></p><p>-------</p><p></p><p><strong>Balok</strong>\u00a0adalah <u>suatu bangun ruang yang memiliki tiga pasang sisi yang ukurannya sama dan saling berhadapan serta memiliki bentuk persegi panjang.</u></p><p></p><p>Rumus Volume Balok:</p><p>V = p \u00d7 l \u00d7 t</p><p></p><p>Rumus Luas Permukaan Balok:</p><p>L = 2((p \u00d7 l) + (p \u00d7 t) + (l \u00d7 t))</p><p></p><p>Rumus Luas Permukaan Balok Tanpa Tutup:</p><p>L = (p \u00d7 l) + 2(l \u00d7 t) + 2(p \u00d7 t)</p><p></p><p>Rumus Panjang Kawat Balok (PKB) :</p><p>PKB = 4(p + l + t)</p><p></p><p>Rumus Luas Alas Balok:</p><p>L = p \u00d7 l</p><p></p><p>Rumus Keliling Balok:</p><p>K = 4(p + l + t)</p><p></p><p>Rumus Diagonal Bidang atau Sisi Balok (ds):</p><p>db1 = \u221ap\u00b2 + l\u00b2</p><p>db2 = \u221ap\u00b2 + t\u00b2</p><p>db3 = \u221al\u00b2 + t\u00b2</p><p></p><p>Rumus Diagonal Ruang Balok (dr):</p><p>dr = \u221a(p\u00b2 + l\u00b2 + t\u00b2)</p><p></p><p>Rumus Luas Bidang Diagonal Balok (bd):</p><p>bd1 = db1 \u00d7 t</p><p>bd2 = db2 \u00d7 l</p><p>bd3 = db3 \u00d7 p</p><p></p><p>Keterangan:</p><p>p = panjang balok</p><p>l = lebar balok</p><p>t = tinggi balok</p><p></p><h2>Penyelesaian:</h2><p>Diketahui:</p><p>p = 32 cm</p><p>l = 16 cm</p><p>t = 8 cm</p><p>V.balok = V.kubus</p><p></p><p>Ditanya: Panjang rusuk kaleng berbentuk kubus (r) = ?</p><p></p><p>Dijawab:</p><p>V.balok = p \u00d7 l \u00d7 t</p><p>             = 32 \u00d7 16 \u00d7 8</p><p>             = 512 \u00d7 8</p><p>             = 4.096 cm\u00b3</p><p></p><p>V.kubus = r\u00b3</p><p>4.096 = r\u00b3</p><p>r = \u00b3\u221a(4.096)</p><p>  = 16 cm</p><p></p><p>Jadi, panjang rusuk kaleng tersebut adalah <strong><u>1</u></strong><strong><u>6</u></strong><strong><u> </u></strong><strong><u>c</u></strong><strong><u>m</u></strong>.</p><p></p><h2>Detail Jawaban</h2><p>Mapel: MTK</p><p>Kelas: 8 SMP</p><p>Materi: Bab 8 - Bangun Ruang</p><p>Kode Soal: 2</p><p>Kode Kategorisasi: 8.2.8</p><p>Kata Kunci: Volume Balok, Volume Kubus, Panjang Rusuk Kubus</p>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "kaka-bantuin-donk-makasih-yang-udah-bantuin-388",
+            "question": "Kaka bantuin donk\r\nmakasih yang udah bantuin \u200b",
+            "attachments": [
+                "question-attachments/kaka-bantuin-donk-makasih-yang-udah-bantuin-388-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban dan Pembahasan :</strong></p><p></p><p>a. <em>Pada hari apa penjualan ikan terbanyak?</em></p><p>Jawab : Menurut data diatas, hari penjualan ikan terbanyak yakni hari sabtu sebnyak 140 kg.</p><p></p><p>b. <em>B</em><em>a</em><em>gaimana keadaan penjualan ikan dari hari kamis ke jumat ?</em></p><p>jawab : Keadaan penjualan ikan dihari kamis ke jumat <strong>menurun</strong><strong>,</strong> karena dari 120 kg ke 100 kg.</p><p></p><p>c. <em>Berapa selisih penjualan ikan di hari sabtu dan rabu?</em></p><p>jawab : Pada hari sabtu penjualan ikan sebesar 140 kg, dan di hari rabu penjualan ikan sebesar 80 kg.</p><p></p><p><strong>Selisih sabtu - rabu = 140 - 80 = 60 kg</strong></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-dijawab-yah-kk-686",
+            "question": "Tolong dijawab yah kk\u263a\ufe0f\u2728 \u200b",
+            "attachments": [
+                "question-attachments/tolong-dijawab-yah-kk-686-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>C) 14.528</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>4 jam = 14.400 detik</p><p>2 menit = 120 detik</p><p>4jam + 2menit + 8detik = 14.528 detik </p><p></p><p>semoga membantu :)</p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><h3>1<u>4</u><u>.</u><u>5</u><u>2</u><u>8</u><u> </u><u>detik</u></h3><p></p><p>1 jam = 3.600 detik</p><p>1 menit = 60 detik</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>(4 \u00d7 3.600 ) + ( 2 \u00d7 60 detik ) + 8 detik</p><p>= 14.400 + 120 + 8</p><p>= 14.528 detik</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-dong-kak-yang-nomer-12-dan-14-189",
+            "question": "Tolong dong kak yang nomer 12 dan 14\u200b",
+            "attachments": [
+                "question-attachments/tolong-dong-kak-yang-nomer-12-dan-14-189-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "<p>Jawab:</p><p>12 A ka</p><p>13 C ka</p><p>14 B ka</p><p>15 D ka itu saja aku tau sih</p><p></p><p>Penjelasan dengan langkah-langkah:</p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "45-2-12-a-1-45-b-2-15-c-1-15-d-1-25-174",
+            "question": "4,5 \u00f7 2 1/2=\r\na. 1 4/5\r\nb. 2 1/5\r\nc. 1 1/5\r\nd. 1 2/5\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>[tex]4.5 \\div 2 \\frac{1}{2} [/tex]</p><p>[tex] =  \\frac{45}{10}  \\div  \\frac{5}{2} [/tex]</p><p>[tex] =  \\frac{45}{10}  \\times  \\frac{2}{5}  =  \\frac{90}{50} [/tex]</p><p>[tex] =  \\frac{90}{50}   \\: disederhanakan \\:  =   \\\\  \\frac{90}{50}  \\div  \\frac{10}{10}  =  \\frac{9}{5} [/tex]</p><p>[tex]  = \\frac{9}{5}  =  1\\frac{4}{5} [/tex]</p><p>Jawaban 1 4/5 </p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<h3><strong>Penyelesaian :</strong></h3><h3><strong></strong></h3><p>4,5 : [tex]2\\frac{1}{2}[/tex] </p><p></p><p>4,5 : [tex]\\frac{5}{2}[/tex]</p><p></p><p>4,5 x [tex]\\frac{2}{5}[/tex] </p><p></p><p>[tex]4\\frac{5}{10}[/tex] x [tex]\\frac{2}{5}[/tex] </p><p></p><p>[tex]\\frac{45}{10}[/tex] x [tex]\\frac{2}{5}[/tex] </p><p></p><p>[tex]\\frac{9}{5}[/tex]</p><p></p><p>[tex]1\\frac{4}{5}[/tex] [ A ]</p><p></p><p>SEMOGA MEMBANTU !!!</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jangan-lupa-kasih-cara-240",
+            "question": "Jangan lupa kasih cara!!\u200b",
+            "attachments": [
+                "question-attachments/jangan-lupa-kasih-cara-240-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>125 cm\u00b3</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>untuk balok besar, </p><p>p = 5 - 2 =3 (maaf ini nggak jelas angka di gambarnya 8 atau 5, jd ak ambil 5 aja)</p><p>l = 5</p><p>t = 7</p><p>maka volumenya adalah,</p><p>v 1 = p\u00d7l\u00d7t</p><p>     = 3\u00d75\u00d77</p><p>     = 105 cm\u00b3</p><p>untuk volume balok kecil, </p><p>p=2</p><p>l=5</p><p>t=2</p><p>v2 = p\u00d7l\u00d7t</p><p>     = 2\u00d75\u00d72</p><p>     =20 cm\u00b3</p><p>maka total volume adala</p><p>=volume balok besar + vol. balok kecil</p><p>=105 cm\u00b3+20 cm\u00b3</p><p>= 125 cm\u00b3</p><p>semoga membantu, maaf ya kalau salah :)</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "berapa-cm-volume-air-terbanyak-yang-dapat-ditampung-sebuah-bak-m-605",
+            "question": "Berapa cm' volume air terbanyak yang dapat ditampung sebuah    bak mandi berbentuk kubus dengan panjang rusuk bagian dalam 70 cm?\r\n O A. 490\r\n O 8. 1.000\r\n O c. 34.300\r\n D. 343.000\r\n Tolong cepet jangan ngasal terimakasih yang telah menjawab",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>D. 343.000 cm\u00b3</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>s = 70 cm</p><p>V kubus = s x s x s</p><p>              = 70 x 70 x 70</p><p>              = 343.000 cm\u00b3</p><p></p><p>Semoga membantu^^</p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<h3>Jawaban :\n</h3><p>D. 343.000 cm\u00b3</p><p></p><p></p><h3>Pendahuluan :\n</h3><p>Kubus adalah bangun ruang yang memiliki 6 sisi yang sama besar , memiliki 8 \u00a0titik sudut , memiliki 12 rusuk yang sama panjang dan memiliki alas yang berbentuk persegi</p><p></p><p></p><h3>Rumus luas permukaan dan volume kubus :\n</h3><p>Luas permukaan = 6 x sisi\u00b2</p><p></p><p></p><p>Volume = sisi x sisi x sisi</p><p></p><p></p><h3>Diketahui :\n</h3><p>bak mandi berbentuk kubus dengan panjang rusuk bagian dalam 70 cm</p><p></p><p></p><h3>Ditanya :\n</h3><p>Berapa cm\u00b2 volume air terbanyak yang dapat ditampung = ?</p><p></p><p></p><h3>Penyelesaian :\n</h3><p>Karena panjang sisi sudah diketahui sedangkan volume yang ditanyakan maka kita akan menggunakan rumus volume kubus yaitu V = sisi x sisi x sisi</p><p></p><p></p><p>V = sisi x sisi x sisi</p><p></p><p></p><p>V = 70 cm x 70 cm x 70 cm</p><p></p><p></p><p>V = 4.900 cm\u00b2 x 70 cm</p><p></p><p></p><p>V = 343.000 cm\u00b3</p><p></p><p></p><h3>Kesimpulan :\n</h3><p>Jadi volume kubus tersebut sebesar 343.000 cm\u00b3</p><p></p><p></p><h3>Detail Jawaban :\n</h3><p>Kelas : 8 SMP</p><p></p><p></p><p>Materi : Volume dan luas permukaan kubus</p><p></p><p></p><p>Mapel : Matematika</p><p></p><p></p><p>Kata Kunci : volume , bak mandi , rusuk , kubus</p><p></p><p></p><p>Kode soal : 2</p><p></p><p></p><p>Kode Kategoris : 8.2.8 [ Bab 8 : Bangun Ruang ]</p><p></p><p></p><h3>Pelajari Lebih lanjut :\n</h3><p>brainly.co.id/tugas/22405345 =&gt; Rumus keliling dan luas persegi , volume dan luas permukaan kubus</p><p></p><p></p><p>brainly.co.id/tugas/29969255 =&gt; Contoh soal kubus</p><p></p><p></p><p>brainly.co.id/tugas/147385 =&gt; Perbedaan kubus dan balok</p><p></p><p></p><p>brainly.co.id/tugas/2465458 =&gt; Sifat - sifat kubus</p><p></p><p>SEMOGA MEMBANTU !!!</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-keran-dalam-10-menit-dapat-mengalirkan-air-sebanyak-30-lit-693",
+            "question": "sebuah keran dalam 10 menit dapat mengalirkan air sebanyak 30 liter Berapa liter per menit debit keran tersebut\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>Debit  = Volume : Waktu</p><p>Debit = 30 Liter : 10 menit</p><p>Debit = 3 Liter/menit</p><p></p><p>Jadi keran menghasilkan <strong>3 liter per menit ( 3 L/Menit</strong> )</p><p></p><p><strong><em>Jadikan </em></strong><strong><em>jawaban</em></strong><strong><em> tercerdas</em></strong></p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<p><strong>Jawaban </strong><strong>&amp;</strong><strong> </strong><strong>penjelasan </strong><strong>:</strong></p><ul><li><strong><em>Rumus </em></strong><strong><em>=</em></strong><strong><em> </em></strong><strong><em>Debit </em></strong><strong><em>:</em></strong><strong><em> </em></strong></li><li><strong><em>[tex] \\frac{v.aliran}{waktu \\: aliran} [/tex]</em></strong></li><li><strong><em>Debit </em></strong><strong><em>=</em></strong><strong><em> </em></strong><strong><em>3</em></strong><strong><em>0</em></strong><strong><em> </em></strong><strong><em>:</em></strong><strong><em> </em></strong><strong><em>1</em></strong><strong><em>0</em></strong><strong><em> </em></strong><strong><em>=</em></strong><strong><em> </em></strong><strong><em>3</em></strong></li><li><strong><em>Jadi </em></strong><strong><em>keran </em></strong><strong><em>mengeluarkan </em></strong><strong><em>air </em></strong><strong><em>3</em></strong><strong><em> </em></strong><strong><em>liter </em></strong><strong><em>per </em></strong><strong><em>menitnya</em></strong></li></ul><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jumlah-kenaikan-penjualan-ikan-dari-bulan-april-ke-mei-adalah-597",
+            "question": "Jumlah kenaikan penjualan ikan dari bulan April ke Mei adalah",
+            "attachments": [
+                "question-attachments/jumlah-kenaikan-penjualan-ikan-dari-bulan-april-ke-mei-adalah-597-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>A. 30</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>Mei = 120</p><p>April = 90</p><p>Mei - April = 30</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "16-perhatikan-gambar-dibawah-ini-keliling-bangun-a-51cm-b-56c-251",
+            "question": "16. Perhatikan gambar dibawah ini keliling. bangun\r\na. 51cm\r\nb. 56cm\r\nc. 63cm\r\nd. 72cm\u200b",
+            "attachments": [
+                "question-attachments/16-perhatikan-gambar-dibawah-ini-keliling-bangun-a-51cm-b-56c-251-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>51 cm </p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>pokoknya 5+87+18+13(13nya hasil dari pytagoras)</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "volume-bangun-sesuai-jaring-jaring-di-atas-adalah-plis-jawab-ya-k-189",
+            "question": "Volume bangun sesuai jaring jaring di atas adalah\r\n\r\nplis jawab ya kak soalnya di cocokan besok\u200b",
+            "attachments": [
+                "question-attachments/volume-bangun-sesuai-jaring-jaring-di-atas-adalah-plis-jawab-ya-k-189-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "<p> </p><p></p><p> </p><p>gambar tersebut merupakan jaring jaring kubus dengan sisi 7 cm.. </p><p>cara cari volume=</p><p>  V= SxSxS</p><p>    = 7cmx7cmx7cm</p><p>    = 343 cm\u00b3</p><p></p><p>Jadi, volume kubus tersebut 343 cm\u00b3</p><p>Maaf kalau salah..</p><p>jangan lupa follow yak...</p>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

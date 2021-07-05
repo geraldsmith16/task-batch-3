@@ -1,0 +1,140 @@
+{
+    "question": "Suatu pekerjaan akan dapat diselesaikan selama 12 hari oleh 8 orang. Jika 2 pekerja diberhentikan, maka lama waktu yang bisa diselesaikan oleh pekerja yang tersisa adalah ...\u200b",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "<p>Jawaban:</p><p></p><p>X = waktu menyelesaikan</p><p></p><p></p><p>12\u00d78 = (8-2)X</p><p>12\u00d78 = 6X</p><p>     X = 12\u00d78</p><p>           \u2014\u2014\u2014</p><p>              6</p><p>      X = 16 </p><p></p><p>jadi waktu untuk menyelesaikan adalah 16 hari</p><p></p><p>semoga membantu :)</p>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "jika-1-karung-beras-tertulis-brutto-500-kg-tara-5-kg-maka-berat-n-533",
+            "question": "Jika 1 karung beras tertulis brutto 500 kg tara 5 kg maka berat nettonya adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawab:</strong></p><p>495 kg</p><p></p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>Bruto = 500 kg</p><p>Tara = 5 kg</p><p></p><p>Netto = Bruto - Tara</p><p>= 500 kg - 5 kg</p><p>= 495 kg</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suku-ke-49-dari-barisan-3-10-19-30-adalah-205",
+            "question": "Suku ke 49 dari barisan 3, 10, 19, 30, .... adalah ..... *\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>a = 4</p><p>b = 7</p><p></p><p>un   = a + (n-1) b</p><p>u49 = 4 + (49-1) 7</p><p>       = 4 + (48) 7</p><p>       = 4 + 336</p><p>       = 340</p><p></p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>semoga membantu, jadi jawaban terbaik makasih ya</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-segitiga-memiliki-sisi-bc-panjangnya-6-cmdan-sisi-ac-8-cm-543",
+            "question": "Sebuah segitiga memiliki sisi bc panjangnya 6 cm,dan sisi ac 8 cm, berapa cm kah sisi miring dari segitiga tersebut (ab)?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>10 cm </p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p></p><p>ac \u00b2  + bc\u00b2 = ab\u00b2</p><p>8\u00b2 + 6\u00b2 = ab\u00b2</p><p>64 + 36 = ab\u00b2</p><p>100 = ab\u00b2</p><p>ab = </p><p>[tex] \\sqrt{100} [/tex]</p><p>ab = 10 </p><p></p><p>jadi sisi miringnya 10 cm</p><p></p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<p>ab = 10 cm</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>[tex] \\sqrt{ {6}^{2}  +  {8}^{2} }  = 10[/tex]</p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pak-ahmad-memiliki-sebidang-tanah-berbentuk-persegi-panjang-dgn-u-429",
+            "question": "Pak Ahmad memiliki sebidang tanah berbentuk persegi panjang dgn ukuran panjang 20 meter dan lebar 15 meter, jika tanah itu terjual dgn harga Rp 750.000/m2, maka uang yg di peroleh pak Ahmad adalah....\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p> luas = 20 x 15 = 300m\u00b2</p><p>750.000 x 300 = 225.000.000</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diameter-56cm-tinggi-tabung-70cm-berapa-volume-tabung-tersebut-963",
+            "question": "Diameter 56cm tinggi tabung 70cm berapa volume tabung tersebut",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>172.480</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>cari luas alas (lingkaran)</p><p>phi\u00d7r\u00b2</p><p>22/7 \u00d7 28\u00b2</p><p>= 2464</p><p></p><p>luas :</p><p>2464 \u00d7 70</p><p>= 172.480</p><p></p><p>jadikan jawaban terbaik kak </p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-segitiga-yang-diketahui-panjang-alasnya-12-cm-dan-tinggi-s-791",
+            "question": "Sebuah segitiga yang diketahui panjang alasnya 12 cm dan tinggi segitiga16 cm. hitunglah luas segitiga tersebut     tolong di jawab ya kak\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>96 cm\u00b2</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>L \u2206 = \u00bd x a x t</p><p>L \u2206 = \u00bd x 12 x 16</p><p>L \u2206 = 96 cm\u00b2</p><p></p><p>semoga membantu :)</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "susi-membeli-hair-dryer-dari-toko-seharga-rp100000-dengan-potong-872",
+            "question": "Susi membeli hair dryer dari toko seharga Rp100.000 dengan potongan harga 18% Tami harus membayar sebesar\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Penjelasan dengan langkah-langkah:</strong></p><p></p><p>[tex]100 \\times  \\frac{18}{100}  = 18[/tex]</p><p>100.000 - 18.000 = 82.000</p><p></p><p></p><p>jadi, tami harus membayar sebanyak Rp.82.000,00</p><p></p><p></p><p></p><p>semoga membantu</p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<p><strong>Jawab:</strong></p><p>Rp. 82.000</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>harga awal : 100.000</p><p>diskon : 18%</p><p>maka :</p><p>harga potong : 18/100 x 100.000 = 18.000</p><p>tami harus membayar :</p><p>100.000 - 18.000 = 82.000</p><p></p><p>semoga membantu</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-dong-gak-nemu-jawabnya-799",
+            "question": "Tolong dong gak nemu jawabnya\u200b",
+            "attachments": [
+                "question-attachments/tolong-dong-gak-nemu-jawabnya-799-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>Lp Prisma = (2 x L.alas) + (Keliling alas x t)</p><p></p><p>Mencari Luas alas = 1/2 x a x t = 1/2 x 12 x 9 = 54 cm</p><p></p><p>Mencari Keliling alas = 12 + 9 + 15 = 36</p><p></p><p>Lp = (2 x 54) + (36 x 16)</p><p>     = 108 + 576 = 684 cm\u00b2</p><p></p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>maaf kalau salah</p><p></p>",
+                    "attachments": [
+                        "answer-attachments/tolong-dong-gak-nemu-jawabnya-799-1.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-segitiga-siku-siku-memiliki-panjang-alas-15-cm-dan-memilik-272",
+            "question": "Sebuah segitiga siku-siku memiliki panjang alas 15 cm dan memiliki tinggi 20 cm. tentukan luas dari segitiga siku-siku tersebut.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>luas :</p><p>[tex]150 \\:  {cm}^{2} [/tex]</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>diketahui:</p><ul><li>panjang alas : 15 cm</li><li>tinggi : 20 cm</li><li>bangun datar : segitiga</li><li>jenis segitiga : siku-siku (90\u00b0)</li></ul><p>ditanyakan: berapakah luas?</p><p></p><p>maka untuk mencari luas segitiga menggunakan rumus </p><p>[tex] \\frac{alas \\:  \\times  \\: tinggi}{2} [/tex]</p><p>maka penyelesaian:</p><p>[tex]l =  \\frac{15 \\times 20}{2}  \\\\  = 15 \\times 10 \\\\  = 150 \\:  {cm}^{2} [/tex]</p><p>bagaimana di penyelesaian terdapat angka 10</p><p>[tex]10 = 20 \\div 2[/tex]</p><p>untuk mencari perlakuan 10  hanya perlu menambahkan 1 angka 0 pada belakang angka </p><p>contoh:</p><p>[tex]20 \\times 10 = 200 \\\\ 1000000  \\times 10= 10000000[/tex]</p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "8-jarak-ke-kota-a-dan-b-pada-peta-yang-berskala-1-1500000-adal-301",
+            "question": "8. Jarak ke kota A dan B pada peta yang berskala 1: 1500.000 adalah 20 cm berapa km jarak sebenarnya...    a 30 km\r\nb. 60 km\r\nc. 300 km\r\nd. 600 km\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>c. 300 km</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>Diketahui</p><p>skala 1 : 1.500.000</p><p>jarak pada peta 20 cm</p><p>1 km = 100.000 cm</p><p>Ditanya jarak sebenarnya?</p><p>Jawab</p><p>1    : 1.500.000</p><p>20 : x</p><p>x = 1500.000x 20/1</p><p>x = 30.000.000 cm</p><p>x = 300 km</p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p> jawaban nya c. 300 km</p><p></p><p></p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p></p><p>maaf kalau salah</p><p></p>",
+                    "attachments": [
+                        "answer-attachments/8-jarak-ke-kota-a-dan-b-pada-peta-yang-berskala-1-1500000-adal-301-1.jpg"
+                    ]
+                }
+            ]
+        }
+    ]
+}

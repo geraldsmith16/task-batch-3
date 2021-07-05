@@ -1,0 +1,136 @@
+{
+    "question": "Diketahui titik a(4, 5) , b(8, 8) dan c (3, 4) tentukan ab+bc \u200b",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "<p><strong>Jawaban:</strong></p><p>   Penyelesaian :</p><p></p><p>Diketahui :  a =(4,5)</p><p>                    b =(8,8)</p><p>                    c =(3,4)</p><p>Ditanya    : Nilai dari  = ab+bc</p><p></p><p>               jawab :</p><p></p><p>ab+bc</p><p>(4,5\u00d78,8)  +   (8,8\u00d73,4)</p><p>   39,6     +        29,92</p><p>=69,52</p><p></p><p>jadi nilai dari ab+bc   = 69,52</p><p></p><p>penjelasan :</p><p>   karna nilai a,b,dan ,c sudah diketahui maka tinggal dimasukan nilai dari a,b,c di atas ,</p><p></p>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "diketahui-suku-pertama-barisan-geometri-sama-dengan-2-jika-suku-498",
+            "question": "Diketahui suku pertama barisan geometri sama dengan 2, jika suku kedua barisan tersebut adalah 6. Jumlah tujuh suku pertama adalah...    A. 9\r\n\r\nB. 27\r\n\r\nC. 81\r\n\r\nD. 243\r\n\r\n\u0395. 729\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p></p><p>\u0395. 729</p><p></p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p></p><p><strong>diketahui</strong></p><p>[tex]U1 = a \\:  = 2 \\\\U2 = ar \\:  = 6 \\\\  &lt;  =  &gt; 2r \\:  = 6 \\\\ r \\:  =  \\frac{6}{2}  \\\\  = 3[/tex]</p><p>S7</p><p>[tex] =  \\frac{a ({r}^{n - 1}) }{(r - 1)}  =  \\frac{2( {3}^{7 - 1} )}{3 - 1}  \\\\  =  \\frac{2 ({3}^{6}) }{2}  \\\\  =  {3}^{6}  \\\\  = 729[/tex]</p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-bantu-jawab-soal-trigonometri-tersebut-menggunakan-cara-738",
+            "question": "Tolong bantu jawab soal trigonometri tersebut, menggunakan cara\r\n\u200b",
+            "attachments": [
+                "question-attachments/tolong-bantu-jawab-soal-trigonometri-tersebut-menggunakan-cara-738-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "<p>trigonometri</p><p></p><p><em>soal sy sesuaikan dg opsi </em></p><p></p><p>tan a = y/x = 3 3/7 = 24/7</p><p></p><p>r = \u221a(x\u00b2 + y\u00b2)</p><p>r = \u221a(7\u00b2 + 24\u00b2)</p><p>r = 25</p><p></p><p>selang <strong>(</strong><strong>\u03c0</strong><strong> </strong><strong>,</strong><strong> </strong><strong>3</strong><strong>/</strong><strong>2</strong><strong> </strong><strong>\u03c0</strong><strong>)</strong><strong> </strong><strong> </strong><strong>\u2192</strong><strong> </strong><strong> </strong><strong>K</strong><strong>D</strong><strong> </strong><strong>I</strong><strong>I</strong><strong>I</strong><strong> </strong><strong> </strong><strong>(</strong><strong>-</strong><strong>x</strong><strong> </strong><strong>,</strong><strong> </strong><strong>-</strong><strong>y</strong><strong>)</strong></p><p></p><p>sin a</p><p>= -y/r</p><p>= -24/25</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-a3-4-1-dan-b-2-5-3-maka-a-b-adalah-767",
+            "question": "Jika a=(3 4 -1) dan b=(-2 5 -3) maka |a. b| adalah \u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawab:</strong></p><p>5\u221a89</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>a.b = (3,4,-1) . (-2,5,-3)</p><p>a.b = (3.-2, 4.5, -1.-3)</p><p>a.b = (-6, 20, -3)</p><p></p><p>la.bl = \u221a(-6)^2+20^2+(-3)^2</p><p>la.bl = \u221a36 + 400 + 9</p><p>la.bl = \u221a445</p><p>la.bl = 5\u221a89</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "persamaan-lingkaran-dengan-pusat-12-dan-jari-jari-32-adala-390",
+            "question": "Persamaan lingkaran dengan pusat (-1,2) dan jari-jari    3\u221a2 adalah..\r\na. (x - 1)2 + (y - 2)2 = 3\u221a2\r\nb. (x - 1)2 + (y + 2)2 = 12\r\nc.(x + 1)2 + (y - 2)2 = 12\r\nd. (x + 1)2 + (y \u2013 2)2 = 18\r\ne. (x + 1)2 + (y + 2)2 = 18\r\n\r\n\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>c </p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>maaf ya kalo salah </p><p>dada teman teman</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-woy-tolong-ini-woy-802",
+            "question": "TOLONG WOY\r\n\r\n\r\n\r\n\r\nTOLONG INI WOY\u200b",
+            "attachments": [
+                "question-attachments/tolong-woy-tolong-ini-woy-802-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p><strong>P</strong><strong>1</strong><strong> </strong><strong>:</strong><strong> </strong><strong>1</strong><strong>2</strong><strong> </strong><strong>+</strong><strong> </strong><strong>4</strong><strong> </strong><strong>=</strong><strong>1</strong><strong>6</strong></p><p><strong>P</strong><strong>2</strong><strong>:</strong><strong>1</strong><strong>2</strong><strong> </strong><strong>+</strong><strong> </strong><strong>4</strong><strong> </strong><strong>=</strong><strong>1</strong><strong>6</strong></p><p><strong>P</strong><strong>3</strong><strong>:</strong><strong>8</strong><strong> </strong><strong>+</strong><strong> </strong><strong>8</strong><strong> </strong><strong>+</strong><strong> </strong><strong>8</strong><strong>=</strong><strong>2</strong><strong>4</strong></p><p><strong>1</strong><strong>6</strong><strong> </strong><strong>+</strong><strong> </strong><strong>1</strong><strong>6</strong><strong> </strong><strong>+</strong><strong> </strong><strong>2</strong><strong>4</strong><strong> </strong><strong>=</strong><strong>5</strong><strong>6</strong></p><p></p><p><strong>j</strong><strong>a</strong><strong>w</strong><strong>a</strong><strong>b</strong><strong>a</strong><strong>n</strong><strong>n</strong><strong>y</strong><strong>a</strong><strong> </strong><strong>:</strong><strong> </strong><strong>a</strong><strong>.</strong><strong>5</strong><strong>6</strong><strong> </strong><strong>c</strong><strong>m</strong></p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p></p><p><strong>P</strong><strong>1</strong><strong> </strong><strong>=</strong><strong>p</strong><strong>e</strong><strong>r</strong><strong>s</strong><strong>e</strong><strong>g</strong><strong>i</strong><strong> </strong><strong>p</strong><strong>a</strong><strong>n</strong><strong>j</strong><strong>a</strong><strong>n</strong><strong>g</strong></p><p><strong>P</strong><strong>2</strong><strong>=</strong><strong>persegi panjang</strong></p><p><strong>P</strong><strong>3</strong><strong>=</strong><strong>persegi panjang</strong></p><p></p><p><strong>m</strong><strong>a</strong><strong>a</strong><strong>f</strong><strong> </strong><strong>k</strong><strong>a</strong><strong>l</strong><strong>o</strong><strong> </strong><strong>n</strong><strong>g</strong><strong>e</strong><strong>g</strong><strong>a</strong><strong>s</strong><strong> </strong><strong>t</strong><strong>a</strong><strong>d</strong><strong>i</strong><strong> </strong><strong>:</strong><strong>)</strong></p><p></p><h3>mapel :matematika</h3><p><strong>K</strong><strong>E</strong><strong>L</strong><strong>A</strong><strong>S</strong><strong> </strong><strong> </strong><strong>:</strong><strong>4</strong></p><p></p><p><strong>L</strong><strong>U</strong><strong>A</strong><strong>S</strong><strong> </strong><strong>B</strong><strong>A</strong><strong>N</strong><strong>G</strong><strong>U</strong><strong>N</strong><strong> </strong><strong>D</strong><strong>A</strong><strong>T</strong><strong>A</strong><strong>R</strong><strong>/</strong><strong>K</strong><strong>E</strong><strong>L</strong><strong>I</strong><strong>L</strong><strong>I</strong><strong>N</strong><strong>G</strong><strong> </strong><strong>B</strong><strong>A</strong><strong>N</strong><strong>G</strong><strong>U</strong><strong>N</strong><strong> </strong><strong>D</strong><strong>A</strong><strong>T</strong><strong>A</strong><strong>R</strong></p><p></p><p></p><p></p><p><strong>S</strong><strong>E</strong><strong>M</strong><strong>O</strong><strong>G</strong><strong>A</strong><strong> </strong><strong>B</strong><strong>E</strong><strong>R</strong><strong>M</strong><strong>A</strong><strong>N</strong><strong>F</strong><strong>A</strong><strong>A</strong><strong>T</strong></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "berikut-ini-yang-merupakan-sifat-balok-adalal-577",
+            "question": "Berikut ini yang merupakan sifat balok adalal\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawab:</strong></p><p>keras</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>coba aja kalau ngga percaya</p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>Memiliki 6 sisi, 4 sisi berbentuk persegi panjang dan 2 sisi berbentuk kotak dan sejajar.</p><p>Memiliki 12 rusuk, dengan 8 pasang rusuk yang sama panjang.</p><p>Memiliki 8 sudut.</p><p>Memiliki 12 garis diagonal bidang/sisi, 4 garis diagonal ruang.</p><p>Memiliki 6 bidang diagonal.</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolongin-aku-minta-jwb-tugas-nya-mendadak-ini-dari-nomor-2-6-688",
+            "question": "Tolongin aku minta jwb tugas nya :) mendadak ini dari nomor 2-6\u200b",
+            "attachments": [
+                "question-attachments/tolongin-aku-minta-jwb-tugas-nya-mendadak-ini-dari-nomor-2-6-688-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>2. A</p><p>3. A</p><p>4. B</p><p>5. B</p><p>6. B</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>2. jumlah kubus satuan = 4 \u00d7 3 \u00d7 3 = 24</p><p>3. dik : r = 13 cm</p><p>            V = r\u00b3</p><p>               = 13\u00b3</p><p>               = 2197 cm\u00b3</p><p>4. dik : V = 4913 cm\u00b3</p><p>            V = r\u00b3</p><p>             </p><p>[tex]r =  \\sqrt[3]{4913}  \\\\ r = 17[/tex]</p><p>jd panjang sisinya 17 cm</p><p></p><p>5. V = p \u00d7 l \u00d7 t</p><p>     V = 24 \u00d7 15 \u00d7 10</p><p>        = 3600 cm\u00b3</p><p></p><p>6. V = 336.000 liter</p><p>        = 336.000 dm\u00b3</p><p>        = 336 m\u00b3</p><p>     V = p \u00d7 l \u00d7 t</p><p>      t = V \u00f7 p \u00f7 l</p><p>        = 336 \u00f7 20 \u00f7 12</p><p>        = 1.4 m</p><p>        = 140 cm</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-kawat-panjangnya-7-m-seluruhnya-digunakan-untuk-membuat-k-418",
+            "question": "Sebuah kawat panjangnya 7 m, seluruhnya    digunakan untuk membuat kerangka limas\r\npersegi dengan panjang rusuk alas 18 cm dan\r\nrusuk tegak 12 cm. Panjang sisa kawat adalah\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Penjelasan dengan langkah-langkah:</strong></p><p></p><p><strong><u>Rumus menghitung jumlah Rusuk seluruhnya</u></strong></p><p><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong>4(r) + 4(t) </p><p>   </p><p>          *<strong>keterangan </strong></p><p><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong>r = rusuk alas</p><p>           t = rusuk tegak </p><p></p><p>   Diketahui = r = 18 cm</p><p>                       t = 12 cm </p><p>                      p  = 7m </p><p></p><p>   *  Jumlah rusuk seluruhnya </p><p></p><p>   <strong> Rusuk</strong><strong> </strong>total = 4(r) + 4(t) </p><p>                       = 4( 18 ) + 4 ( 12 ) </p><p>                       = 72 cm + 48 cm </p><p>                       = <strong>1</strong><strong>2</strong><strong>0</strong><strong> </strong><strong>cm </strong></p><p></p><p>agar menjadi kerangka maka </p><p></p><p>   120 x 5 = 600 cm </p><p></p><p></p><p><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong>*</strong><strong> </strong>panjang sisa kawat </p><p></p><p>    </p><p>panjang sisa kawat = panjang seluruhnya - total rusuk </p><p>                                = 7m - 600 cm </p><p>                                = 7(100) - 600cm</p><p>                                = 700 cm - 600cm </p><p>                                <strong>=</strong><strong> </strong><strong>1</strong><strong>0</strong><strong>0</strong><strong> </strong><strong>cm</strong></p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>Diketahui : </p><ul><li>Sebuah kawat panjangnya 7 m</li><li> seluruhnya</li><li>digunakan untuk membuat kerangka limas</li><li>persegi </li><li>panjang rusuk alas 18 cm </li><li>rusuk tegak 12 cm</li></ul><p>Ditanya:</p><ul><li> Panjang sisa kawat adalah</li></ul><p>Jawab :</p><p>Panjang seluruh kawat 7 m = 700 cm </p><p>keliling limas = 4 x rusuk alas + 4 x rusuk tegak </p><p>= ( 4 x 18 ) + ( 4 x 12 )</p><p>= 72 + 48 </p><p>= 120 cm </p><p>Agar menjadi beberapa kerangka maka, </p><p>120 x 5 = 600 cm </p><p></p><p>700 - 600 = 100 cm </p><p>Jadi panjang sisa kawat adalah 100 cm </p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dua-dadu-dilemparkan-bersama-sama-sebanyak-180-kalihitunglah-fre-697",
+            "question": "dua dadu dilemparkan bersama sama sebanyak 180 kali.Hitunglah frekuensi harapan muncul kedua mata dadu berjumlah 9??\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>1.620 ( seribu enam ratus dua puluh )</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>maaf kalau salah </p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "usia-ayah-50-tahun-dan-usia-ibu-40-tahun-sedangkan-usia-amir-20-836",
+            "question": "Usia Ayah 50 tahun dan usia ibu 40    tahun, sedangkan usia Amir 20 tahun\r\nserta usia Adi 15 tahun. Perbandingan\r\nUsia Ayah, Ibu, Amir dan Adi adalah....\r\na\r\n10:8:4:3\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>10 : 8 : 4 : 3</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>Ayah = 50</p><p>Ibu = 40</p><p>Amir = 20</p><p>Adi = 15</p><p></p><p>Dibagi 5</p><p></p><p>Ayah = 50 \u00f7 5 = 10</p><p>Ibu = 40 \u00f7 5 = 8</p><p>Amir = 20 \u00f7 5 = 4</p><p>Adi = 15 \u00f7 5 = 3</p><p></p><p>Jadi perbandingan Ayah : Ibu : Amir : Adi adalah 10 : 8 : 4 : 3</p><p></p><h2>Semoga Membantu^_^</h2>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,144 @@
+{
+    "question": "Perhatikan gambar berikut!\r\n\u200b",
+    "attachments": [
+        "question-attachments/perhatikan-gambar-berikut-965-1.jpg"
+    ],
+    "answers": [
+        {
+            "answer": "<h2>a. 240 cm\u00b2</h2><p></p><h3><strong><u>Pembahasan</u></strong></h3><p>L = (jumlah sisi sejajar / 2) \u00d7 tinggi</p><p>   = (10+5 / 2) \u00d7 32</p><p>   = 7,5 \u00d7 32</p><p>   = <strong>240 cm\u00b2</strong></p>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "tentukan-nilai-lim-x-gt32212-481",
+            "question": "Tentukan nilai lim x-&gt;3(2\u00d72)1/2",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p></p><p>jadi nilai limnya adalah <strong><em>9</em></strong></p><p></p><p><strong>Note :</strong></p><p><em>jalan ada di foto </em></p><p></p><p></p><p></p><p><strong><em><u>SEMOGA BERMANFAAT </u></em></strong></p><p></p><p></p><p></p><p></p>",
+                    "attachments": [
+                        "answer-attachments/tentukan-nilai-lim-x-gt32212-481-1.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "mapel-mtk-bantu-ya-kk-516",
+            "question": "Mapel: MTK\r\nbantu ya kk\u200b",
+            "attachments": [
+                "question-attachments/mapel-mtk-bantu-ya-kk-516-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>480</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>V= 120\u00d780\u00d760</p><p>  = 480.</p><p>MAAF KALAU SALAH </p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "fungsi-f-r-r-dan-g-r-r-diketahui-fx-2x-3-d-342",
+            "question": "Fungsi f : R \u2192 R dan g : R \u2192 R. Diketahui : f(x) = 2x \u2212 3 dan f(x) = x2 + 2x \u2212 3.    Nilai dari (fog)(2) = \u22ef\r\nA. 0\r\n\r\nB. 1\r\n\r\nC. 7\r\n\r\nD. 8\r\n\r\nE. 11\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><em>Jika diketahui fungsi f: R-&gt; R dan g\n: R\u2192 R dengan ketentuan f(x) = 2x - 3 dan g(x) = x\u00b2 + 2x - 3, maka</em> <em><strong>nilai dari fog(2) adalah 7. \u00a0 \u00a0 (C)</strong></em></p><p><em></em></p><h2><u>Pembahasan</u>\n</h2><p><strong>Fungsi komposisi</strong> adalah <u><em>suatu penggabungan fungsi dari operasi dua jenis fungsi yaitu f(x) dan g(x) sehingga menghasilkan fungsi baru</em></u>.\n</p><p>\n</p><p>Operasi fungsi komposisi dinotasikan dengan \"o\" dibaca sebagai bundaran. Fungsi baru yang terbentuk dari fungsi f(x) dan fungsi g(x) sebagai berikut. \u00a0</p><ul><li><strong>(fog(x)) = f(g(x))</strong> ---&gt; maksudnya adalah nilai x pada fungsi f(x) diganti dengan fungsi g(x)\n</li><li><strong>(gof(x)) = g(f(x)) </strong>---&gt; maksudnya adalah nilai x pada fungsi g(x) diganti dengan fungsi f(x)</li></ul><h2><u></u></h2><h2><u>Penyelesaian</u></h2><p><em><strong>diket:</strong></em></p><p>f(x) = 2x - 3</p><p>g(x) = x\u00b2 + 2x - 3</p><p></p><p><em><strong>ditanya:</strong></em></p><p>nilai fog(2).....?</p><p></p><p><em><strong>jawab:</strong></em></p><p>- menentukan fungsi fog(x) lebih dulu</p><p> \u00a0fog(x) = f(g(x))</p><p> \u00a0fog(x) = 2(x\u00b2 + 2x - 3) - 3</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 2x\u00b2 + 4x - 6 - 3</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 2x\u00b2 + 4x - 9</p><p></p><p>- menentukan nilai fog(2)</p><p> \u00a0fog(x) = 2x\u00b2 + 4x - 9</p><p> \u00a0fog(2) = 2(2)\u00b2 + 4(2) - 9</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 8 + 8 - 9</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 7</p><p> </p><h3><u>Kesimpulan</u></h3><p><em><strong>Jadi, nilai dari fog(2) adalah 7. \u00a0 \u00a0 (C)</strong></em></p><p></p><h3><u>Pelajari Lebih Lanjut</u>\n</h3><p>- berbagai latihan fungsi komposisi: \u00a0</p><ul><li>brainly.co.id/tugas/34480586\n</li><li>brainly.co.id/tugas/34431660\n</li><li>brainly.co.id/tugas/29473682\n</li><li>brainly.co.id/tugas/29507677\n</li><li>brainly.co.id/tugas/34539635</li></ul><p>\n</p><h3><u>Detail Jawaban</u>\n</h3><p>Kelas: 10 \u00a0</p><p>Mapel: Matematika \u00a0</p><p>Bab: Fungsi \u00a0</p><p>Materi: Fungsi komposisi \u00a0\n</p><p>Kode kategorisasi: 10.2.3 \u00a0</p><p>Kata kunci: f(x) = 2x - 3, g(x) = x\u00b2 + 2x - 3, nilai fog(2)</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bantu-jawab-gaesk-yg-jawab-gua-beliin-pulsav-800",
+            "question": "Bantu Jawab Gaes:(k\r\nYg Jawab Gua Beliin Pulsa:v\r\n\u200b",
+            "attachments": [
+                "question-attachments/bantu-jawab-gaesk-yg-jawab-gua-beliin-pulsav-800-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "<p><strong>SEMOGA</strong><strong> </strong><strong>BERMANFAAT</strong></p><p></p><p><strong>FOLLOW</strong><strong> </strong><strong>AJA</strong><strong>,</strong><strong> </strong><strong>GAPERLU</strong><strong> </strong><strong>PULSA</strong></p>",
+                    "attachments": [
+                        "answer-attachments/bantu-jawab-gaesk-yg-jawab-gua-beliin-pulsav-800-1.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "4-ayah-akan-membuat-kubus-yang-memiliki-panjang-rusuk-5-cm-ayah-116",
+            "question": "4. Ayah akan membuat kubus yang memiliki panjang rusuk 5 cm. Ayah akan membuat kerangka    kubus menggunakan kawat. Tentukan panjang kawat yang dibutuhkan jika ayah membuat 2 buah\r\nkubus?\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>rusuk kubus = 12</p><p>jadi 5cm x 12 = 60 cm</p><p>2 kubus = 2x 60= 120 cm</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "gambar-diatas-tidak-dikatakan-sebagai-balok-di-karenakan-a-ti-543",
+            "question": "Gambar diatas tidak dikatakan sebagai balok di karenakan...     A. tidak memiliki titik sudut\r\nB. rusuk pada balok tidak sejajar dengan titik sudut\r\nC. sisinya hanya berjumlah 7 buah\r\nD. sisi yang berhadapan sama besar\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>A.tdk memiliki titik sudut</p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>sepertinya jawabannya A</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>karena gak ada gambarnya </p><p>jadi gak jelas </p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-jawab-ya-kakak-nanti-aku-kasih-bintang-lima-deh-842",
+            "question": "Tolong jawab ya kakak nanti aku kasih bintang lima deh\u200b",
+            "attachments": [
+                "question-attachments/tolong-jawab-ya-kakak-nanti-aku-kasih-bintang-lima-deh-842-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>15\u00d73 + 11\u00d72</p><p>= 45+22</p><p>= 67 m</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>jawabannya C ya</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "hasil-dari-45000m-km-548",
+            "question": "Hasil dari 45.000m =... Km\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Karena </strong><strong>1</strong><strong> </strong><strong>km </strong><strong>=</strong><strong> </strong><strong>1000</strong><strong>m</strong></p><p><strong>Jadi,</strong></p><p><strong>4</strong><strong>5</strong><strong>.</strong><strong>0</strong><strong>0</strong><strong>0</strong><strong> </strong><strong>m </strong><strong>=</strong><strong> </strong><strong>45.000 : 1.000</strong></p><p><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong>=</strong><strong> </strong><strong>45 km</strong></p><p><strong> </strong></p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>45 km</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>   </p><p>     = 45.000/1000</p><p>     = 45</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "ada-yg-bisa-bantu-jawab-no-1-3-matematika-kelas-5-sd-thankyou-619",
+            "question": "Ada yg bisa bantu jawab no 1-3? Matematika kelas 5 SD thankyou",
+            "attachments": [
+                "question-attachments/ada-yg-bisa-bantu-jawab-no-1-3-matematika-kelas-5-sd-thankyou-619-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "<p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>1. 14/25-(12/40)=</p><p>112/200-60/200=52/200=13/50</p><p>2. 407.5</p><p>3.    13.824+125+3375=17.324</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-3loh-5y-maka-nilai-dari-15log-25-adalah-mohon-151",
+            "question": "Diketahui \u00b3loh 5=y, maka nilai dari \u00b9\u2075log 25 adalah....\r\n\r\n\r\nmohon bantuannya\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>logaritma</p><p></p><p>\u00b3log 5 = y</p><p></p><p>\u00b9\u2075log 25</p><p>= \u00b3log 25 / \u00b3log 15</p><p>= \u00b3log 5\u00b2 / \u00b3log (3 \u00d7 5)</p><p>= (2 . \u00b3log 5) / (\u00b3log 3 + \u00b3log 5)</p><p>= 2y/(1 + y)</p>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,142 @@
+{
+    "question": "Diketahui kelompok ukuran sisi segitiga    1.3cm,4cm,6cm\r\n 2.7cm,9cm,15cm\r\n 3.6cm,8cm,10cm\r\n 4.10cm,12cm,14cm\r\n Yamg merupakan segitiga tumpul adalah",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "<p><strong>Jawab:</strong></p><h3>Segitiga 1 dan 2</h3><p><strong></strong></p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>Segitiga tumpul, yang sudutnya lebih dari 90\u00b0</p><p>Pake rumus cosinus</p><p>c\u00b2 = a\u00b2+b\u00b2-2ab(cos(x))</p><p></p><p><strong>(1) </strong>{3, 4, 6}, maka</p><p>6\u00b2 = 3\u00b2+4\u00b2-(2\u00b73\u00b74\u00b7(cos(x)))</p><p>36 = 9+16-24cos(x)</p><p>24cos(x) = 9+16-36</p><p>24cos(x) = -11</p><p>cos(x) = -11/24</p><p>x \u2248 <strong>117,28\u00b0 [tumpul]</strong></p><p></p><p><strong>(2) </strong>{7, 9, 15}, maka</p><p>12\u00b2 = 7\u00b2+9\u00b2-(2\u00b77\u00b79\u00b7(cos(x)))</p><p>144 = 49+81-126cos(x)</p><p>126cos(x) = 49+81-144</p><p>126cos(x) = -14</p><p>cos(x) = -14/126</p><p>x \u2248<strong> 96,38\u00b0 [tumpul]</strong></p><p></p><p>(3) {6, 8, 10}, maka</p><p>10\u00b2 = 6\u00b2+8\u00b2-(2\u00b76\u00b78\u00b7(cos(x)))</p><p>100 = 36+64-96cos(x)</p><p>96cos(x) = 36+64-100</p><p>96cos(x) = 0</p><p>cos(x) = 0/96</p><p>cos(x) = 0</p><p>x = 90\u00b0 [siku-siku]</p><p></p><p>(4) {10, 12, 14}, maka</p><p>14\u00b2 = 10\u00b2+12\u00b2-(2\u00b710\u00b712\u00b7(cos(x)))</p><p>196 = 100+144-240cos(x)</p><p>240cos(x) = 100+144-196</p><p>240cos(x) = 48</p><p>cos(x) = 48/240</p><p>x \u2248 78,46 [lancip]</p><p></p><p>Yang segitiga tumpul adalah segitiga 1 dan 2</p><p>- \u5609\u8aa0 -</p>",
+            "attachments": []
+        },
+        {
+            "answer": "<p><strong>Jawaban:</strong></p><p><strong>1.3cm,4cm,6cm</strong></p><p></p><p><strong>2.7cm,9cm,15cm</strong></p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p></p><p>sudut segitiga tumpul</p><p></p><p>segitiga berdasarkan sudutnya yang ketiga adalah segitiga tumpul. Segitiga tumpul adalah segitiga yang salah satu besar sudutnya lebih dari 90 derajat.</p><p></p><p>4 ciri ciri segitiga tumpul. </p><p></p><ul><li>memiliki 3 sisi.</li><li>besar sudut nya lebih dari 90 derajat namun kurang dari 180 derajat.</li><li>memiliki 3 sudut.</li><li>4.jika ketiga besar sudut di jumblah kan akan berjumblah 180 derajat</li></ul><p></p><p>Semoga membantu </p>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "43-besar-sudut-m-5y-16-dan-besar-sudut-n-2y-jika-sudu-669",
+            "question": "43. Besar sudut M = (5y - 16)\u00b0 dan besar sudut N = 2y. Jika sudut M dan sudut N berpelurus, maka tentukan besar sudut M!\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>ini untuk penjelasan caranya ya</p>",
+                    "attachments": [
+                        "answer-attachments/43-besar-sudut-m-5y-16-dan-besar-sudut-n-2y-jika-sudu-669-1.jpeg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-fungsi-linier-fx-2x24x-2-nilai-dari-f4-dan-f6-136",
+            "question": "Diketahui fungsi linier\r\nf(x) =2x\u00b2+4x-2\r\nNilai dari f(4) dan f(6) adalah\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>f(4) = 46</p><p>f(6) = 94</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>f(x) = 2x\u00b2 + 4x - 2</p><p></p><p>f(4) = 2.4\u00b2 + 4.4 - 2</p><p>f(4) = 2.16 + 16 - 2</p><p>f(4) = 32 + 16 - 2</p><p>f(4) = 46</p><p></p><p>f(6) = 2.6\u00b2 + 4.6 - 2</p><p>f(6) =2.36 + 24 - 2</p><p>f(6) = 72 + 24 - 2</p><p>f(6) = 94</p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<h2><strong>Jawab:</strong></h2><p>f(4) = 44</p><p>f(6) = 94</p><h2>_______________________________</h2><h2><strong>Penjelasan:</strong></h2><p>f(x) = 2x\u00b2 + 4x - 2</p><p>f(4) = 2(4)\u00b2 + 4(4) - 2</p><p>f(4) = 2(16) + 16 - 2</p><p>f(4) = 32 + 16 - 2</p><p>f(4) = 48 - 2</p><p>f(4) = <strong>46</strong></p><p><strong></strong></p><p><strong></strong></p><p>f(x) = 2x\u00b2 + 4x - 2</p><p>f(6) = 2(6)\u00b2 + 4(6) - 2</p><p>f(6) = 2(36) + 24 - 2</p><p>f(6) = 72 + 24 - 2</p><p>f(6) = 96 - 2</p><p>f(6) = <strong>94</strong></p><p><strong></strong></p><p><strong></strong></p><p>mei2405~~</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sudut-39-p-rad-jika-diubah-kedalam-satuan-derajat-adalah-863",
+            "question": "Sudut 3/9 \u03c0 rad jika diubah kedalam satuan derajat adalah\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>dalam derajat adalah:</p><p>60\u00b0</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>3/9 Pi = 3/9 \u00d7180\u00b0 = 60\u00b0</p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suku-ke-n-barisan-geometri-dinyatakan-dalam-un-sama-dengan-tolon-907",
+            "question": "Suku ke n barisan geometri dinyatakan dalam Un sama dengan?\r\n\r\ntolong dibantu ya kak plisss\u200b",
+            "attachments": [
+                "question-attachments/suku-ke-n-barisan-geometri-dinyatakan-dalam-un-sama-dengan-tolon-907-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawab:</strong></p><p>6, 12 , 24 , 48 , ...\n</p><p>\n</p><p>rasio = 12/6 = 3\n</p><p>\n</p><p>U1/a = 6\n</p><p>\n</p><p>b = 6\n</p><p>\n</p><p>b+c = 6 \u00ab\u00bb 6 + c = 6 \u00ab\u00bb c = 0\n</p><p>\n</p><p>Masukkan rumus Un = 3 \u00d7 2^n\n</p><p>\n</p><p>U1 = 3 \u00d7 2^1\n</p><p>U1 = 3 \u00d7 2\n</p><p>U1 = 6\n</p><p>U2 = 3 \u00d7 2^2\n</p><p>U2 = 3 \u00d7 4\n</p><p>U2 = 12\n</p><p>U3 = 3 \u00d7 2^3\n</p><p>U3 = 3 \u00d7 8\n</p><p>U3 = 24\n</p><p>U4 = 3 \u00d7 2^4\n</p><p>U4 = 3 \u00d7 16\n</p><p>U4 = 48\n</p><p>Jadi, U1/Suku Pertamanya pada barisan tersebut adalah 6, dan suku kedua sampai selanjutnya tinggal dikalikan \u00d72.\n</p><p>\n</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>Semoga Membantu :)</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "2-hasil-acar-pangkat-dari-gllangan-v-64-adalah-615",
+            "question": "2\r\nHasil acar pangkat ?\r\ndari Gllangan v 64\r\nadalah\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>Hasil dari akar 64</p><p></p><p>Pembahasan</p><p>= \u221a64</p><p>= ( 8 x 8 ) atau 8\u00b2 = 64</p><p></p><p><em>Jadi, Hasil dari \u221a64 adalah 8.</em></p><p></p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "hasil-dari-300m-200cm-m-223",
+            "question": "Hasil dari 300m - 200cm =... m\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<h2>\u2740Penyelesaian-\u2728</h2><p></p><p><strong>300 </strong><strong>m </strong><strong>-</strong><strong> </strong><strong>2</strong><strong>0</strong><strong>0</strong><strong> </strong><strong>cm </strong><strong>=</strong><strong> </strong><strong>.</strong><strong>.</strong><strong>.</strong><strong>.</strong><strong> </strong><strong>m</strong></p><p>[tex]\u21d2\\sf{300 - (200 \\div 100)} \\\\\u21d2\\sf{300 - 2} \\\\\u21d2\\sf{298 \\: m} [/tex]</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dari-gambar-di-bawah-ini-hubungan-antara-b-dan-d-adalah-718",
+            "question": "Dari gambar di bawah ini, hubungan antara \u2220b dan \u2220d adalah\u200b",
+            "attachments": [
+                "question-attachments/dari-gambar-di-bawah-ini-hubungan-antara-b-dan-d-adalah-718-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "<p>Dari gambar tersebut, hubungan antara \u2220b dan \u2220d adalah <strong>S</strong><strong>u</strong><strong>d</strong><strong>u</strong><strong>t</strong><strong> </strong><strong>d</strong><strong>a</strong><strong>l</strong><strong>a</strong><strong>m</strong><strong> </strong><strong>b</strong><strong>e</strong><strong>r</strong><strong>s</strong><strong>e</strong><strong>b</strong><strong>r</strong><strong>a</strong><strong>n</strong><strong>g</strong><strong>a</strong><strong>n</strong></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bismilahhjawab-dengan-benar-ya-465",
+            "question": "Bismilahh,jawab dengan benar ya\u200b",
+            "attachments": [
+                "question-attachments/bismilahhjawab-dengan-benar-ya-465-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "<p>a. kaka ok </p><p></p><p></p><p></p><p></p><p>maaf kalau salah :)</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-sudut-pusat-juring-lingkaran-boc-170-maka-besar-sudut-keli-310",
+            "question": "Jika sudut pusat juring lingkaran BOC 170\u00b0 maka besar sudut keliling BOC adalah\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>sudut keliling BOC = 85\u00b0</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>dik: sudut pusat = 170\u00b0</p><p>dit: sudut keliling?</p><p>jawab:</p><p>sudut keliling = \u00bd \u00d7 sudut pusat</p><p>sudut keliling = \u00bd \u00d7 170\u00b0</p><p>sudut keliling = 85\u00b0</p><p></p><p>terimakasih</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bangun-yang-memiliki-4-sisi-2-pasang-sisi-sama-panjang-dan-memili-337",
+            "question": "Bangun yang memiliki 4 sisi 2 pasang sisi sama panjang dan memiliki 4 sudut yang sama besar\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>Persegi, yaitu bangun datar yang mempunyai 4 sisi, keempat sisinya sama panjang dan keempat sudutnya siku-siku</p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>bangun yang memiliki 4 sisi 2 pasang sisi sama panjang dan memiliki 4 sudut yang sama besar</p><p><strong>persegi </strong><strong>panjang</strong></p><p></p>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

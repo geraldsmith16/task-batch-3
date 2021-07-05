@@ -1,0 +1,144 @@
+{
+    "question": "Suatu sumber bunyi memiliki frekuensi 1,920 Hz bergerakmendekati seorang pengamat dengan kecepatan 20 m/s .pengamat bergerak menjauhi sumber bunyi dengan kecepatan 15 m/s .jika cepat rambat bunyi di udara 340 m/s ,berapakah frekuensi bunyi yang didengar pengamat .",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "<p><strong>Jawaban:</strong></p><h3>1950 Hz</h3><p>......................</p><p><strong>Penjelasan:</strong></p><p>Efek Doppler. Rumusnya:</p><h3>fp = (fs\u00d7(v\u00b1vp))/(v\u00b1vs)</h3><p>fp = frekuensi pendengar (Hz)</p><p>fs = frekuensi sumber suara (Hz)</p><p>v = kecepatan bunyi udara (m/s)</p><p>vp = kecepatan pendengar bergerak (m/s)</p><ul><li>jika pendengar dekat sumber bunyi, nilai vp (+)</li><li>jika pendengar jauh dr sumber bunyi, nilai vp (-)</li></ul><p>vs = kecepatan sumber bunyi yg bergerak (m/s)</p><ul><li>jika sumber bunyi menjauh dr pendengar, nilai vs (+)</li><li>jika sumber bunyi mendeketi pendengar, nilai vs (-)</li></ul><p>......................</p><p><strong>Diketahui</strong>:</p><ul><li>fs = 1920 Hz</li><li>vs = 20 m/s (mendekati) = -20 m/s</li><li>vp = 15 m/s (menjauhi) = -15 m/s</li><li>v = 340 m/s</li></ul><p>Ditanya: <strong>fp</strong></p><p>Dengan rumus</p><p>fp = (fs\u00d7(v\u00b1vp))/(v\u00b1vs)</p><p>maka</p><p>fp = (1920\u00d7(340-15))/(340-20)</p><p>fp = (1920\u00d7325)/320</p><h3>fp = 1950 Hz</h3><p>Maka frekuensi yang didengar = <strong>1950 Hz</strong></p><p>Kalau salah, tolong koreksi ok..</p><p>- \u5609\u8aa0 -</p>",
+            "attachments": []
+        },
+        {
+            "answer": "<p><strong>diketahui :\n</strong></p><p>fs = 1920 Hz\n</p><p>vs = 20 m/s\n</p><p>vp = 15 m/s\n</p><p>v = 340 m/s<strong>\n</strong></p><p><strong>\n</strong></p><p><strong>ditanyakan:\n</strong></p><p>fp = ?<strong>\n</strong></p><p><strong>\n</strong></p><p><strong>jawab :\n</strong></p><p>fp = (v-vp)/(v-vs) \u00a0x fs\n</p><p>fp = (340-15)/(340-20) \u00a0x 1920\n</p><p>fp = 325/320 \u00a0x 1920\n</p><p>fp = 1950 Hz</p><p></p>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "sebuah-muatan-listrik-6-c-dan-muatan-lainnya-8-c-ke-647",
+            "question": "Sebuah\u00a0 muatan listrik\u00a0 6 c\u00a0 /dan\u00a0 muatan\u00a0 lainnya\u00a0 8 c .keduanya\u00a0 berjarak\u00a0 0,5\u00a0 m.\u00a0 besar\u00a0 nilai k\u00a0 =\u00a0 9.109nm2./c2. maka\u00a0 kuat\u00a0 medan\u00a0 listrik\u00a0 nya bila terukur\u00a0 dari muatan\u00a0 pertama\u00a0 adalah\u00a0\u00a0\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>9.127,5</p><p><strong>Penjelasan:</strong></p><p>maaf kalau salah</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tulang-yang-tidak-menyusun-tengkorak-adalah-546",
+            "question": "Tulang yang tidak menyusun tengkorak adalah\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p></p><p>Tulang yang menyusun tengkorak adalah </p><p>Tulang dahi, ubun-ubun, baji, pelipis, tengkorak, air mata, hidung, pipi, rahang atas, rahang bawah, lidah . </p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "23amplitudo-dari-gelombang-yang-ditampilkan-pada-gambar-dibawah-688",
+            "question": "23.Amplitudo dari gelombang yang ditampilkan pada     gambar dibawah ini adalah... \r\na. I meter\r\nb. 2 meter\r\nc. 4 meter\r\nd. 8 meter\u200b",
+            "attachments": [
+                "question-attachments/23amplitudo-dari-gelombang-yang-ditampilkan-pada-gambar-dibawah-688-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p> <strong>Amplitudo merupakan jarak dari puncak (lembah) ke titik x = 0.</strong>Berdasarkan gambar, jarak dari lembah ke puncak sebesar 2 m. Maka, jarak dari titik x = 0 ke puncak sebesar begin mathsize 14px style 1 half cross times 2 end style = 1 m. </p><p><strong><em><u>Jadi, nilai amplitudo pada gambar di atas sebesar 1 m.undefined </u></em></strong></p><p></p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>a.1 meter</p><p><strong>Penjelasan:</strong></p><p>itu jawabanya,</p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "perkembangan-teknologi-mempengaruhi-permintaan-dan-penawaran-pih-695",
+            "question": "perkembangan teknologi mempengaruhi permintaan dan penawaran, pihak yang diuntungkan saat teknologi menyebabkan jumlah barang dan jasa yang dihasilkan lebih banyak dan menghasilkan laba yang lebih besar adalah\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>produsen jawaban nya.......... </p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>jawabannya ada Produsen</p><p><strong>Penjelasan:</strong></p><p>saya yakin benar ;)</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-tiga-muatan-a-b-dan-c-a-menolak-b-dan-b-menarik-c-ji-287",
+            "question": "Diketahui tiga muatan a, b dan c. a menolak b dan b menarik c. jika c bermuatan negatif, tentukan muatan a dan b!\u00a0*\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>a dan b bermuatan positif (+) </p><p><strong>Penjelasan:</strong></p><p>muatan sejenis akan tolak menolak dan jika tidak sejenis maka akan tarik menarik</p><p>jika c (-) menarik b, maka b = (+)</p><p>jika b(+) tolak menolak a, maka a juga (+) </p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>a dan b bermuatan positif.</p><p></p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-hasil-konversi-dari-100-derjat-celcius-ke-derjat-reamur-adalah-694",
+            "question": "1. Hasil konversi dari 100 derjat Celcius ke derjat Reamur adalah.....    A 80\r\nB. 60\r\nC. 50\r\nD. 40\r\nE. 30\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>R=4/5C</p><p>= 4/5(100) </p><p>=<strong>8</strong><strong>0</strong><strong>\u00b0</strong><strong>R</strong></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tabung-kaca-berdiameter-10-mm-dimasukkan-kedalam-air-pada-suhu-10-735",
+            "question": "tabung kaca berdiameter 10 mm dimasukkan kedalam air pada suhu 100\u00b0C dalam cangkir.tentukan kenaikan kapiler air dalam tabung 26\u00b0C.tentukan kenaikan kapiler minyak tanah di tabung",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>maap mah </p><p><strong>Penjelasan:</strong></p><p>maap saya hanya butuh poin </p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-batu-besar-berada-pada-jarak-10-m-di-depan-sebuah-kendaraa-563",
+            "question": "sebuah batu besar berada pada jarak 10 m di depan sebuah kendaraan bermassa 200 kg yang sedang bergerak dengan kecepatan 10 m agar tepat berhenti sebelum mengetahui batu berapa besar gaya yang harus diberikan\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>F = 2500 N </p><p><strong>Penjelasan:</strong></p><p>[tex]v_0=10m/s\\\\s=10 m\\\\m=200kg\\\\v_t=0m/s\\\\\\\\v_t^2=v_0^2+2*a*s\\\\0^2=10^2+2*a*10\\\\0=100+20a\\\\-20a=100\\\\a=100/-20\\\\a=-5m/s^2 (diperlambat)\\\\\\\\F=m*a\\\\F=200*5=2500N[/tex]</p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "5-perbedaan-dari-kecepatan-dan-percepatan-adalah-320",
+            "question": "5. Perbedaan dari kecepatan dan Percepatan adalah?\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>Sederhananya kecepatan adalah seberapa cepat perubahan posisi dalam selang waktu tertentu, dan percepatan adalah perubahan kecepatan dalam selang waktu tertentu</p><p></p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>percepatan itu perubahan kecepatan dalam selang waktu tertentu.</p><p>kecepatan itu perubahan posisi dalam selang waktu tertentu.</p><p><strong>Penjelasan:</strong></p><p>rumus percepatan a= v/t</p><p>rumus kecepatan v= s/t</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "gaya-f-bekerja-pada-benda-yang-bermasa-ml-menghasilkan-4-ms2-j-564",
+            "question": "Gaya f bekerja pada benda yang bermasa ml menghasilkan 4 m/s\u00b2. Jika gaya f ini bekerja    pada benda kedua yang bermasa m2 dan menghasilkan percepatan 12 m/s? berapakah nilai ml\r\ndan m2?\r\n\r\nmksih bnyak bgi yg sudah menjawab",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p><strong>M\u00b9 = 3</strong></p><p><strong>M\u00b2 = 1</strong></p><p><strong>Penjelasan:</strong></p><p><strong>F, M\u00b9,A =  4 M / S\u00b2      </strong></p><p><strong>F, M\u00b2,A = 12 M / </strong><strong>S</strong></p><p><strong>M\u00b9 = 12 = 3M\u00b2 = 4 = 1</strong></p><p><strong>JADI, NILAI M\u00b9 DAN M\u00b2 ADALAH 3 DAN 1</strong><strong> </strong><strong>SEMOGA MEMBANTU ^_^</strong></p>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

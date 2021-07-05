@@ -1,0 +1,134 @@
+{
+    "question": "tekanan hidrostatik air pada kedalaman 50 cm dari permukaan air jika diketahui massa jenis air 1000 kg/m\u00b3 dan percepatan gravitasi bumi 10 m/s\u00b2 adalah\u200b",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "<p>=\u300bDiket:</p><p>[tex]\u2022 \\: \u03c1 = 1000 \\: kg/ {m}^{3}  \\\\ \u2022 \\: g = 10 \\: m/ {s}^{2}  \\\\ \u2022 \\: h = 50 \\: cm = 0.5 \\: m[/tex]</p><p>=\u300bDitanya:</p><p>[tex]\u2022 \\: Ph\u00a0=...?[/tex]</p><p>=\u300bJawab:</p><p>[tex]Ph\u00a0=\u00a0\u03c1 \\times g \\times h \\\\  = 1000 \\times 10 \\times 0.5 \\\\  = 5000 \\: Pa[/tex]</p><p></p>",
+            "attachments": []
+        },
+        {
+            "answer": "<h2>Jawaban:</h2><p>Ph = 5.000 N/m\u00b2</p><p></p><h2>Pembahasan Materi:</h2><p><strong>Tekanan Hidrostatis</strong> adalah <u>suatu tekanan yang disebabkan oleh zat cair diam pada suatu kedalaman tertentu ke semua arah.</u></p><p></p><p>Rumus Tekanan Hidrostatis:</p><p>Ph = \u03c1 \u00d7 g \u00d7 h</p><p></p><p>Keterangan:</p><p>Ph = Tekanan Hidrostatis (N/m\u00b2 atau Pa)</p><p>\u03c1 = massa jenis zat (kg/m\u00b3)</p><p>g = percepatan gravitasi (m/s\u00b2 atau N/kg)</p><p>h = kedalaman (m)</p><p></p><h2>Penyelesaian:</h2><p>Diketahui:</p><p>Massa jenis air (\u03c1) = 1.000 kg/m\u00b3</p><p>Percepatan gravitasi bumi (g) = 10 m/s\u00b2</p><p>Kedalaman air (h) = 50 cm =&gt; 0,5 m</p><p></p><p>Ditanya: Ph (Tekanan Hidrostatis) = ?</p><p></p><p>Dijawab:</p><p>Ph = \u03c1 \u00d7 g \u00d7 h</p><p>     = 1.000 \u00d7 10 \u00d7 0,5</p><p>     = 1.000 \u00d7 5</p><p>     = 5.000 N/m\u00b2</p><p></p><p>Jadi, besarnya tekanan hidrostatis tersebut adalah <strong><u>5</u></strong><strong><u>.</u></strong><strong><u>0</u></strong><strong><u>0</u></strong><strong><u>0</u></strong><strong><u> </u></strong><strong><u>N</u></strong><strong><u>/</u></strong><strong><u>m</u></strong><strong><u>\u00b2</u></strong>.</p><p></p><h2>Detail Jawaban</h2><p>Mapel: Fisika</p><p>Kelas: 8 SMP</p><p>Materi: Bab 3 - Fluida</p><p>Kode Soal: 6</p><p>Kode Kategorisasi: 8.6.3</p><p>Kata Kunci: Tekanan Hidrostatis, Massa Jenis Air, Percepatan Gravitasi Bumi, Kedalaman Air</p>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "ipa-1-jika-ada-dua-bukit-satu-lembah-gelombang-merambat-sepanjan-251",
+            "question": "IPA    1) jika ada dua Bukit satu Lembah gelombang merambat sepanjang 36 cm dengan waktu 3 sekon Coba anda Tentukan besar periode frekuensi panjang gelombang dan cepat rambat gelombang\r\n\r\nSKI\r\n2) Sebutkan nama-nama tokoh tersohor yang berhasil menyalin Kitab Alquran yang paling besar dalam waktu 60 hari \r\n\r\nPLIS BANTUIN YA KAK\r\nNANTI SAYA LIKE DAN SAYA FOLLOW\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>1. frekuensi panjang gelombang adalah 12 cm dan cepat rambatnya adalah 3 detik</p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<p>GELOMBANG</p><p></p><p>1 bukit atau 1 lembah = 0,5 gelombang</p><p></p><p>jika terdapat 2 bukit dan 1 lembah, maka terdapat 1,5 gelombang (0,5 \u00d7 3).</p><p></p><p>n = 1,5</p><p>S = 36 cm</p><p>t = 3 sekon</p><p></p><p>f = __ ?</p><p></p><p>frekuensi gelombang</p><p></p><p>f = n / t</p><p>f = 1,5 / 3</p><p>f = 0,5 Hz \u2714</p><p></p><p>T = __ ?</p><p></p><p>periode gelombang</p><p>T = 1 / f</p><p>T = 1 / 0,5</p><p>T = 2 sekon \u2714</p><p></p><p>\u03bb = __ ?</p><p></p><p>panjang gelombang</p><p>\u03bb = S / n</p><p>\u03bb = 36 / 1,5</p><p>\u03bb = 24 cm \u2714</p><p></p><p>v = __ ?</p><p></p><p>cepat rambat gelombang</p><p>v = \u03bb / T</p><p>v = 24 / 2</p><p>v = 12 cm/s \u2714</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-bola-balok-bermassa-592-kg-mula-mula-diam-diatas-lantai-h-654",
+            "question": "sebuah bola balok bermassa 5,92 kg mula mula diam diatas lantai horizontal. sebutir peluru bermassa 90 gram menumbuk balok, kemudian bersarang didalam balok. Bila energi kinetik yang hilang selama tumbukan adalah 675 joule. Tentukan kecepatan peluru sesaat sebelum tumbukan ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>Vp = 134 m/s</p><p><strong>Penjelasan:</strong></p><p>Dasar teori</p><p>TUMBUKAN</p><p>Untuk semua jenis tumbukan berlaku</p><p>Hukum Kekekalan momentum</p><p>m1 V1 + m2V2= m1V1&#039; + m2 V2&#039;</p><p></p><p>Koefisien tumbukan atau koefisien restitusi :</p><p>e = V2&#039; - V1&#039; / (V1- V2)</p><p>Tumbukan lenting sempurna, e = 1</p><p>Tumbukan lenting sebagian, 0 &lt; e &lt; 1</p><p>Tumbukan tidak lenting sama sekali, e = 0</p><p>catatan</p><p>m1, m2 = massa benda 1 dan 2</p><p>V1, V2 = kecepatan benda 1 dan 2 sebelum tumbukan</p><p>V1&#039;, V2&#039; = kecepatan benda 1 dan 2 setelah tumbukan</p><p></p><p>Diketahui</p><p>mb = 5 kg</p><p>Vb = 0</p><p>mp = 90 g = 0,09 kg</p><p>Ek hilang = 675 J</p><p>Ditanya</p><p>Kecepatan peluru menumbuk balok</p><p>Penyelesaian</p><p>Hukum Kekekalan momentum</p><p>Peluru tertanam dalam balok (tumbukan tdk lenting dama sekali), setelah tumbukan, balok dan peluru memiliki kecepatan sama yang dinyatakan :</p><p>Vp&#039; = Vb&#039; = V&#039; = [mp Vp + mb Vb ]/(mp + mb]</p><p>Energi kinetik awal</p><p>Ek1 = 1/2 mVp^2</p><p>       = 1/2 0,09 Vp^2</p><p>Ek1 = 4,5 \u00d7 10^-2 Vp^2</p><p>Energi kinetik akhir</p><p>Ek2 = 1/2 (mp+mb)  [(mp Vp + mb Vb )/(mp + mb)]^2</p><p>       = 1/2 [mp Vp]^2/(mp + mb)</p><p>       = 1/2 [0,09Vp]^2/(5,92 + 0,09)</p><p>Ek2  = 7,5 \u00d7 10^-3 Vp^2</p><p>Ek hilang = Ek1 - Ek2</p><p>     675  = (45 - 7,5) 10^-3 Vp^2</p><p>     675  =  37,5 \u00d710^-3 Vp^2</p><p>Vp = 134 m/s</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebutkan-tiga-contoh-iklan-secara-visual-tolong-di-jawab-ya-p-589",
+            "question": "Sebutkan tiga contoh iklan secara visual !!!\r\ntolong di jawab ya pliss \u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>iklan visual adalah suatu promosi dari sebuah produk barang atau pun jasa yang dapat dilihat dengan indra.</p><p></p><p>contohnya :</p><p></p><p>- iklan sebuah produk pada televisi</p><p></p><p>- iklan penawaran jasa pada koran</p><p></p><p>- iklan pada poster dinding</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-bola-dijatuhkan-dari-ketinggian-10m-dan-memantul-setinggi-482",
+            "question": "Sebuah bola dijatuhkan dari ketinggian 10m dan memantul setinggi 2m. hitunglah:    a. koefisien restitusi\r\nb. kecepatan bola saat terpantul",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>a...... </p><p><strong>Penjelasan:</strong></p><p>maaf kalo salah^_^</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-sebuah-titik-materi-melakukan-gerak-harmonikvsederhana-dengan-220",
+            "question": "1. sebuah titik materi melakukan gerak harmonikvsederhana dengan amplitudo a.berapakah fase getarannya pada titik seimbang saat :    a. simpangannya 1/2 a\r\n\r\nb. simpangannya 1/2 a \u221a3\r\n\r\n2. sebuah partikel melakukan getaran selaras dengan frekuensi 4 hz dan amplitudo 5 cm.kecepatan partikel pada saat berada pada simpangan 3 cm adalah\r\n\r\n3. sebuah partikel mengalami gerak harmonik sederhana dengan amplitudo 10 cm.saat simpangannya 6 cm kecepatannya 16 \u03c0 cm/s.berapakah frekuensi gerak tersebut !\r\n\r\nmohon bantuannya!!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>1. a. \u03c6  = 1/12</p><p>   b. \u03c6  = 1/6</p><p>2.  V = 32\u03c0 cm/s</p><p>3.  f = 1 Hz</p><p><strong>P</strong><strong>e</strong><strong>n</strong><strong>j</strong><strong>e</strong><strong>l</strong><strong>a</strong><strong>s</strong><strong>a</strong><strong>n</strong></p><p>Dasar teori</p><p>Persamaan Simpangan Gerak Harmonik Sederhana (GHS)</p><p>Y = A sin \u03b8</p><p>Y = A sin (\u03c9t +/- \u03b8o)</p><p>\u03b8 = Sudut fase getaran</p><p>Jika \u03b8o = 0 maka :</p><p>persaaman simpangan menjadi</p><p>Y = A sin \u03c9t</p><p>dimana :</p><p>Y   = simpangan</p><p>A   = amplitudo = simpangan terjauh</p><p>\u03c9 =kec sudut atau frekuensi sudut</p><p>\u03c9= 2\u03c0f atau 2\u03c0/T</p><p>f = frekuensi getar (Hz)</p><p>  = n/t</p><p>T = periode getar</p><p>   = t/n</p><p>n = jlh getaran</p><p>\u03b8o = sudut fase awal (saat t = 0)</p><p>t = waktu getar</p><p></p><p>Fase getar ( \u03c6 )</p><p>\u03b8 = 2\u03c0 \u03c6</p><p>\u03c6 = \u03b8 /2\u03c0</p><p></p><p>Diketahui</p><p>a. Y = 1/2 A</p><p>b. Y = 1/2 a \u221a3</p><p>Ditanya</p><p>fase getar</p><p>Penyelesaian</p><p>a. Y = A sin \u03b8</p><p>1/2 A= A sin 2\u03c0 \u03c6</p><p> 1/2  =  sin 2\u03c0 \u03c6</p><p>sin \u03c0/6 = sin 2\u03c0 \u03c6</p><p>     \u03c0/6 = 2\u03c0 \u03c6</p><p>       \u03c6  = 1/12</p><p></p><p>b.Y = A sin \u03b8 </p><p>1/2 A \u221a3= A sin 2\u03c0 \u03c6</p><p>1/2 \u221a3 = sin 2\u03c0 \u03c6</p><p>sin \u03c0/3= sin 2\u03c0 \u03c6</p><p>     \u03c0/3 = 2\u03c0 \u03c6</p><p>       \u03c6  = 1/6</p><p></p><p>2.Dasar Teori</p><p>Persamaan Kecepatan getar Gerak Harmonik Sederhana</p><p>Turunan atau differensial dari simpangan</p><p>V = dY/dt = \u03c9A cos (\u03c9t +/- \u03b8o)</p><p> atau V = \u03c9A cos \u03c9t</p><p>Kecepatan getar bisa juga dihitung dgn persamaan</p><p>V =\u03c9 \u221a(A^2 - Y^2)</p><p>Kecepatan maksimum saat nilai cos (\u03c9t +/- \u03b8o) = 1</p><p>V maks = \u03c9A</p><p>dimana</p><p>\u03c9= 2\u03c0f atau 2\u03c0/T</p><p>f = frekuensi getar (Hz)</p><p>  = n/t</p><p>T = periode getar</p><p>   = t/n</p><p>n = jlh getaran</p><p>\u03b8o = sudut fase awal (saat t = 0)</p><p>t = waktu getar (s)</p><p>Diketahui</p><p>f = 4 cm</p><p>A = 5 cm</p><p>Y = 3 cm</p><p>Ditanya</p><p>Kecepatan getar</p><p>Penyelesaian</p><p>V = \u03c9 \u221a(A^2 - Y^2)</p><p>   = 2\u03c0f \u221a(A^2 - Y^2)</p><p>   = 2\u03c0 4 \u221a(5^2 - 3^2)</p><p>V = 32\u03c0 cm/s</p><p></p><p>3. Diketahui</p><p>A = 10 cm</p><p>Y = 6 cm </p><p>V = 16 \u03c0 cm/s</p><p>Ditanya</p><p>Frekuensi getaran</p><p>Penyelesaian</p><p>V = \u03c9 \u221a(A^2 - Y^2)</p><p>   = 2\u03c0f \u221a(A^2 - Y^2)</p><p>16 \u03c0 = 2\u03c0f \u221a(10^2 - 6^2)</p><p>      f = 1 Hz</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-muatan-listrik-6-c-dan-muatan-lainnya-8-c-ke-647",
+            "question": "Sebuah\u00a0 muatan listrik\u00a0 6 c\u00a0 /dan\u00a0 muatan\u00a0 lainnya\u00a0 8 c .keduanya\u00a0 berjarak\u00a0 0,5\u00a0 m.\u00a0 besar\u00a0 nilai k\u00a0 =\u00a0 9.109nm2./c2. maka\u00a0 kuat\u00a0 medan\u00a0 listrik\u00a0 nya bila terukur\u00a0 dari muatan\u00a0 pertama\u00a0 adalah\u00a0\u00a0\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>9.127,5</p><p><strong>Penjelasan:</strong></p><p>maaf kalau salah</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-bola-kasti-bermassa-80-gram-dilemparkan-ke-pemain-kemudian-966",
+            "question": "sebuah bola kasti bermassa 80 gram dilemparkan ke pemain kemudian dipukul sehingga bola meluncur dengan kelajuan 100 m/s. Bila lamanya pemukul menyentuh bola 0,02 detik maka besar gaya pemukul adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>jawabannya adalah tidak tahu </p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jelaskan-fungsi-dari-enphasizing-dalam-prinsip-tata-letak-525",
+            "question": "Jelaskan fungsi dari enphasizing dalam prinsip tata letak\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>Menata prinsip-prinsip tata letak secara elekronik antara lain : proposi, irama (rythem), keseimbangan, kontras, kesatuan (unity) dan harmoni. Layout didalam bahasa memiliki arti tata letak</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "berapakah-banyaknya-kalor-yang-diperluka-untuk-mengubah-4-gram-es-341",
+            "question": "Berapakah banyaknya kalor yang diperluka untuk mengubah 4 gram es pada suhu 00C menjadi uap air pada suhu 1000C?(Kalor jenis air= 4200J/Kg0C, Kalor lebur es = 336J/gr, Kalor lebur uap = 2260 J/gr)\u2026    mohon bantuannya ka\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>Kalor yg diperlukan untuk mengubah 4 gr es 0\u00b0C menjadi uap 100\u00b0C = 12 064 J</p><p><strong>Penjelasan:</strong></p><p>Dasar Teori</p><p>Kalor adalah Energi dalam bentuk panas</p><p>satuan : kalori , Joule</p><p>1 kalori = 4,2 Joule</p><p></p><p>Kalor Mengubah Suhu</p><p>(Saat perubahan suhu, wujud tetap)</p><p>Q = m c (Tt - To)</p><p></p><p>Kalor mengubah Wujud</p><p>(Saat perubahan wujud suhu tetap)</p><p>Q = m x L</p><p>L = Kalor laten</p><p></p><p>Diketahui</p><p>m = 4 gr</p><p>To=  0 \u00b0 C</p><p>Ta = 100\u00b0C</p><p>ca = 4,2 J/gr\u00b0C</p><p>ce = 2,1 J/gr\u00b0C</p><p>Llebur = 336 J/gr</p><p>Luap = 2260 J/gr</p><p>Ditanya</p><p>Q total mengubah es 0\u00b0C menjadi uap 100\u00b0C</p><p>Penyelesaian</p><p>Proses Es 0 \u00b0C berubah menjadi uap 100\u00b0C</p><p>1.Es 0 \u00b0C menjadi air 0\u00b0C</p><p>Q1 = m Llebur</p><p>     = 4 x 336</p><p>     =  1344 J</p><p></p><p>2.Air 0\u00b0C menjadi Air 100 \u00b0C</p><p>Q2 = m ca (Ta - To)</p><p>      = 4 x 4,2  ( 100 )</p><p>      = 1680 J</p><p></p><p>3.Air 100\u00b0 C menjadi Uap 100\u00b0C</p><p>Q3= m Luap</p><p>      = 4 x 2260</p><p>      = 9040 J</p><p></p><p>Qtot = Q1 + Q2 + Q3</p><p>        =  1344 + 1680 + 9040</p><p>        =  12 064 J</p><p>   </p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "besaran-yang-satuannya-telah-ditetapkan-terlebih-dahulu-dan-tidak-294",
+            "question": "Besaran yang satuannya telah ditetapkan terlebih dahulu    dan tidak diturunkan dari besaran manapun disebut...\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>besaran pokok</p><p><strong>Penjelasan:</strong></p><p>Besaran pokok adalah besaran-besaran utama yang dapat menurunkan besaran-besaran lain, tetapi bukan turunan besaran lain dan satuannya telah ditentukan terlebih dahulu. </p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>pecahan/bilangan</p><p><strong>Penjelasan:</strong></p><p>maaf kalo slah</p>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

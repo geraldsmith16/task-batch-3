@@ -1,0 +1,138 @@
+{
+    "question": "sebuah mesin kalor menghasilkan usaha mekanik 2000 Joule dan membuang 4100 Joule kalor pada setiap siklus Berapa banyak kalor yang harus diberikan ke mesin pada setiap siklus\u200b",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "<p>Kalor yg diserap 6 100 J</p><p><strong>Penjelasan:</strong></p><p>Dasar Teori</p><p>MESIN CARNOT</p><p>Siklus mesin carnot terdiri atas</p><p>2 proses isotermis</p><p>2 proses adiabatis</p><p>Proses pertama  ekspansi isotermis pada suhu T1 (suhu reservoir tinggi). Mesin menyerap kalor Q1.</p><p>Proses kedua ekpansi adiabatis, tidak ada kalor yg keluar atau masuk sistem. Pada kedua proses tadi gas melakukan usaha ( W positif) yg ditandai dengan volume sistem bertambah atau ekspansi.</p><p>Proses ketiga kompresi isotermis pada suhu T2 (suhu reservoir rendah).</p><p>Proses keempat kompresi adiabatis dimana sistem kembali ke kondisi awal. Pada kedua pproses terakhir sistem dikenai kerja (W negatif) yg ditandai dengan berkurangnya volume sistem atau kompresi.</p><p>Pada siklus carnot ini perubahan energi dalam (\u0394U) sama dengan nol</p><p>Hubungan Usaha dan kalor dinyatakan dengan</p><p>Q1 = W + Q2</p><p>W = Q1 - Q2</p><p>Effisiensi mesin atau riil dinyatan dengan</p><p>\u03b7 mesin/rill = W/Q1 = (Q1 - Q2)/ Q1 = [ 1 - Q2/ Q1 ] 100%</p><p>Effisuensi maksimum dinyatakan dengan</p><p>\u03b7 maksimum = (T1 - T2)/ T1 = [1 - T2/T1] 100%</p><p>Keterangan\u03b7</p><p>Q1 = Kalor serap pada T1 ( J)</p><p>Q2 = Kalor buang pada T2 (J)</p><p>W = Usaha/Kerja mesin (J)</p><p>T1 = Suhu reservoir tinggi ( K)</p><p>T2 = Suhu reservoir rendah (K)</p><p></p><p>Diketahui</p><p>W = 2000 J</p><p>Q2 = 4100 J</p><p>Ditanya</p><p>Kalor yg diserap</p><p>Penyelesaian</p><p>Q1 = W + Q2</p><p>     = 2000 + 4100</p><p>     = 6 100 J</p>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "fungsi-komposisi-dari-fl-393",
+            "question": "Fungsi komposisi dari f\u00b0l \r\n\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Penjelasan:</strong></p><p>tentukan volume balok jika panjang panjang 7 cm lebar 3 cm dan tinggi 5 cm</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "perkembangan-teknologi-mempengaruhi-permintaan-dan-penawaran-pih-695",
+            "question": "perkembangan teknologi mempengaruhi permintaan dan penawaran, pihak yang diuntungkan saat teknologi menyebabkan jumlah barang dan jasa yang dihasilkan lebih banyak dan menghasilkan laba yang lebih besar adalah\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>produsen jawaban nya.......... </p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>jawabannya ada Produsen</p><p><strong>Penjelasan:</strong></p><p>saya yakin benar ;)</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-bola-dijatuhkan-dari-ketinggian-10m-dan-memantul-setinggi-482",
+            "question": "Sebuah bola dijatuhkan dari ketinggian 10m dan memantul setinggi 2m. hitunglah:    a. koefisien restitusi\r\nb. kecepatan bola saat terpantul",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>a...... </p><p><strong>Penjelasan:</strong></p><p>maaf kalo salah^_^</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "semburan-gas-mula-mula-roket-diam-jika-gaya-dotong-gas-habis-sete-556",
+            "question": "Semburan gas mula-mula roket diam jika gaya dotong gas habis setelah 10 detik tinggi maksimum yang dapat dicapai roket adalah    A 5000\r\nB 4000\r\nC 3000\r\nD 2000\r\nE 1000\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>a.5000</p><p></p><p><strong>Penjelasan:</strong></p><p>jangan lupa like and suskrib</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pak-arif-sedang-membaca-buku-dengan-jelas-paling-dekat-50-cm-agar-816",
+            "question": "Pak Arif sedang membaca buku dengan jelas paling dekat 50 cm agar ia dapat membaca dengan jelas pada jarak baca normal 25 cm pertanyaan:    A. kelainan mata apakah yang diderita Pak Arif? \r\nB. jenis lensa kacamata apa yang dapat membantu Pak Arif ?\r\nC. Berapa besar kekuatan lensa yang dapat digunakan Pak Arif?\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>a. rabun dekat (hypermetropi)</p><p>b. lensa cembung ( negatif) </p><p>c. Diketahui : s = 25 cm, s&#039; = -50 cm</p><p> \u00a0 \u00a01/f = 1/s +1/s&#039;</p><p> \u00a0 \u00a01/f = 1/25 +1/-50</p><p> \u00a0 \u00a01/f = 2/50 - 1/50</p><p> \u00a0 \u00a01/f = 1/50</p><p> \u00a0 \u00a0 f= 50 cm</p><p> \u00a0 \u00a0 P = 100/f = 100/50 = 2 Dioptri</p><p><strong>jadi kekuatan lensa = 2 Dioptri</strong></p><p></p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<p>a. Jarak titik bergeser menjauh dari titik normal pada kisaran 25 - 30 cm sehingga di simpulkan mengalami rabun dekat atau hipermetropi</p><p>b. lensa positif atau cembung</p><p>c. P = 100/PPn - 100/PP</p><p>P = 100/25 - 100/50</p><p>P = 4 - 2 = 2 Dioptri = +2D</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "besarnya-gaya-gesekan-yang-dialami-peti-yang-didorong-di-atas-lan-418",
+            "question": "Besarnya gaya gesekan yang dialami peti yang didorong di atas lantai kasar bergantung pada....    (1) Massa benda\r\n (2) Percepatan gravitasi bumi\r\n (3) Koefisien gesekan\r\n (4) Luas permukaan benda\r\n\r\n\r\n Pernyataan tersebut yang benar adalah.........\r\n A. 1 &amp; 3\r\n B. 2&amp; 4\r\n C. 1,2 dan 3\r\n D. Semua benar\r\n E. Hanya 4",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>a..........</p><p>semoga membantu</p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>A.</p><p>Semoga membantu yaaa</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tiga-buah-hambatan-r-masing-masing-besarnya-6-ohm-dihubungkan-den-863",
+            "question": "Tiga buah hambatan R masing-masing besarnya 6 ohm dihubungkan dengan tegangan 9 volt. Kuat arus I yang mengalir pada hambatan tersebut adalah\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>0,25 Ampere</p><p><strong>Penjelasan:</strong></p><p>V=I.R</p><p>9=I.6x6 \u03a9 (Seri)</p><p>36I=9</p><p>I=9/36</p><p>I= 1/4 A atau 0,25 Ampere</p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-hasil-konversi-dari-100-derjat-celcius-ke-derjat-reamur-adalah-694",
+            "question": "1. Hasil konversi dari 100 derjat Celcius ke derjat Reamur adalah.....    A 80\r\nB. 60\r\nC. 50\r\nD. 40\r\nE. 30\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>R=4/5C</p><p>= 4/5(100) </p><p>=<strong>8</strong><strong>0</strong><strong>\u00b0</strong><strong>R</strong></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-buku-memiliki-massa-05-kg-dijatuhkan-pada-ketinggian-20-c-877",
+            "question": "sebuah buku memiliki massa 0,5 kg dijatuhkan pada ketinggian 20 cm dan gaya gravitasi bumi 10 N/kg Hitunglah besar energi potensial buku tersebut\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<h2>Materi Energi</h2><h3>(energi potensial)</h3><h3></h3><p>Energi potensial adalah energi yang terdapat pada suatu benda yang mempunyai ketinggian. Satuan SI-nya adalah joule (J). Energii potensial juga dapat dimiliki oleh benda yang tertekan, seperti anak panah yang akan dilepas, Atau jika kita merenggangkan pegas, maka bisa dikatakan pegas tersebut memiliki gaya potensial elastik.</p><p></p><p>Rumusnya adalah:</p><p></p><p>Ep = m \u00d7 g \u00d7 h</p><p></p><p>dengan ketentuan:</p><p>Ep = energi potensial</p><p>m = massa (m)</p><p>g = percepatan gravitasi (m/s\u00b2)</p><p>h = tinggi (m)</p><p></p><h3><u>Pembahasan:</u></h3><h3></h3><p>Diketahui:</p><p>m = 0,5 kg</p><p>h = 20 cm \u21d2 0,2 m</p><p>g = 10 N/kg \u21d4 10 m/s\u00b2 (sama saja)</p><p></p><p>Ditanya:</p><p>energi potensial (Ep) ?</p><p></p><p>jawab:</p><p></p><p>Ep = m \u00d7 g \u00d7 h</p><p>= 0,5 \u00d7 10 \u00d7 0,2</p><p>= 1 Joule</p><h3></h3>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suatu-sumber-bunyi-memiliki-frekuensi-1920-hz-bergerakmendekati-684",
+            "question": "Suatu sumber bunyi memiliki frekuensi 1,920 Hz bergerakmendekati seorang pengamat dengan kecepatan 20 m/s .pengamat bergerak menjauhi sumber bunyi dengan kecepatan 15 m/s .jika cepat rambat bunyi di udara 340 m/s ,berapakah frekuensi bunyi yang didengar pengamat .",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><h3>1950 Hz</h3><p>......................</p><p><strong>Penjelasan:</strong></p><p>Efek Doppler. Rumusnya:</p><h3>fp = (fs\u00d7(v\u00b1vp))/(v\u00b1vs)</h3><p>fp = frekuensi pendengar (Hz)</p><p>fs = frekuensi sumber suara (Hz)</p><p>v = kecepatan bunyi udara (m/s)</p><p>vp = kecepatan pendengar bergerak (m/s)</p><ul><li>jika pendengar dekat sumber bunyi, nilai vp (+)</li><li>jika pendengar jauh dr sumber bunyi, nilai vp (-)</li></ul><p>vs = kecepatan sumber bunyi yg bergerak (m/s)</p><ul><li>jika sumber bunyi menjauh dr pendengar, nilai vs (+)</li><li>jika sumber bunyi mendeketi pendengar, nilai vs (-)</li></ul><p>......................</p><p><strong>Diketahui</strong>:</p><ul><li>fs = 1920 Hz</li><li>vs = 20 m/s (mendekati) = -20 m/s</li><li>vp = 15 m/s (menjauhi) = -15 m/s</li><li>v = 340 m/s</li></ul><p>Ditanya: <strong>fp</strong></p><p>Dengan rumus</p><p>fp = (fs\u00d7(v\u00b1vp))/(v\u00b1vs)</p><p>maka</p><p>fp = (1920\u00d7(340-15))/(340-20)</p><p>fp = (1920\u00d7325)/320</p><h3>fp = 1950 Hz</h3><p>Maka frekuensi yang didengar = <strong>1950 Hz</strong></p><p>Kalau salah, tolong koreksi ok..</p><p>- \u5609\u8aa0 -</p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<p><strong>diketahui :\n</strong></p><p>fs = 1920 Hz\n</p><p>vs = 20 m/s\n</p><p>vp = 15 m/s\n</p><p>v = 340 m/s<strong>\n</strong></p><p><strong>\n</strong></p><p><strong>ditanyakan:\n</strong></p><p>fp = ?<strong>\n</strong></p><p><strong>\n</strong></p><p><strong>jawab :\n</strong></p><p>fp = (v-vp)/(v-vs) \u00a0x fs\n</p><p>fp = (340-15)/(340-20) \u00a0x 1920\n</p><p>fp = 325/320 \u00a0x 1920\n</p><p>fp = 1950 Hz</p><p></p>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

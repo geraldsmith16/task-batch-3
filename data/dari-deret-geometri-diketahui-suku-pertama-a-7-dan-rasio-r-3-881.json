@@ -1,0 +1,136 @@
+{
+    "question": "Dari deret geometri diketahui suku pertama a = 7 dan rasio r = 3 maka jumlah 5 suku dari deret tersebut adalah,... a. 447 b. 847 c. 827 d. 667 e. 567",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "<p>\u25cf Materi : Bab 2 - Barisan dan deret</p><p>\u25cf Kode Kategorisasi : 9.2.2</p><p></p><h2>B. S5 = 847</h2><p></p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>Sn = a (r^n - 1) / r - 1</p><p>S5 = 7 (3^5 - 1) / 3 - 1</p><p>S5 = 7 (243 - 1) / 2</p><p>S5 = 7 x 242 / 2</p><p>S5 = 7 x 121</p><p><strong>S5 = 847</strong></p>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "x-5-y-8-dan-z-3x-y-13-berapa-nilai-xyz-644",
+            "question": "X = 5, y= 8 dan z = 3x + y - 13.\r\n berapa nilai xyz?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>400</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p><strong>diketahui</strong><strong>:</strong></p><p>x = 5</p><p>y = 8</p><p>z = 3x + y - 13</p><p><strong>ditanya</strong><strong> </strong><strong>:</strong><strong> </strong>berapa nilai xyz?</p><p><strong>jawab </strong><strong>:</strong></p><p>z = 3x + y - 13</p><p>   = 3 (5) + 8 - 13</p><p>   = 15 + 8 - 13</p><p>   = 10</p><p><strong>xy</strong><strong>z</strong><strong>:</strong></p><p>= 5 x 8 x 10</p><p>= 400</p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>400</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>x = 5</p><p>y = 8</p><p></p><p>z = 3x + y - 13</p><p>   = 3(5) + 8 - 13</p><p>   = 15 - 5</p><p>   = 10</p><p></p><p>xyz = (5)(8)(10)</p><p>      = 400</p><p></p><p>Maaf klau slh</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "9-perhatikanlah-gambar-berikut-ini-besar-sudut-hasil-pengukuran-193",
+            "question": "9. Perhatikanlah gambar berikut ini!    Besar sudut hasil pengukuran di atas adalah..\r\n\u0441 C\r\nA. 60\r\nC. 110\r\nB. 70\r\nD. 120\r\ntolong jawabbbb 4nj1ng\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>bahasnya nya jangan begitu juga m0ny3T</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "berapa-hasil-dari-cos-45-830",
+            "question": "Berapa hasil dari cos 45\u00b0\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>[tex]50.625[/tex]</p><p>45\u2070 hainegabsha iabshujabi jahsjw aibshahsba =</p><p>51728x81727xy17w717x63736=50.625</p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<p> </p><p>cos dari 45\u00b0adalah \u221a2/2</p><p>dalam bentuk desimalnya=0.70710678</p><p></p><p>Smoga membantuu hehe</p><p>maaf kalau salah</p><p> </p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-volume-kubus-sama-dengan-volume-balok-berukuran-panjang-8-cm-708",
+            "question": "1. Volume kubus sama dengan volume balok berukuran panjang 8 cm, lebar 4 cm dan tinggi 16 cm.    Tentukan berapa cm panjang sisi kubus!\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>\u25cf Materi : Bangun Ruang</p><p>\u25cf Kode Kategorisasi : 8.2.8</p><p></p><h2>s = 8 cm</h2><p></p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>V. Balok</p><p>V = p x l x t</p><p>V = 8 x 4 x 16</p><p>V = 512 cm^3</p><p></p><p>V. Kubus = 512</p><p>         s^3 = 512</p><p>             <strong>s = 8 cm</strong></p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<h2>Jawaban:</h2><p>Panjang sisi kubus = 8 cm</p><p></p><h2>Pembahasan Materi:</h2><p><strong>Kubus</strong> adalah <u>suatu bangun ruang yang memiliki enam sisi yang semua sisinya berbentuk persegi dan memiliki 12 rusuk yang semua rusuknya sama panjang.</u></p><p></p><p>Rumus volume kubus:</p><p>V = s\u00b3</p><p></p><p>Rumus luas permukaan kubus:</p><p>L = 6 \u00d7 s\u00b2</p><p></p><p>Rumus panjang sisi rusuk kubus:</p><p>s = \u00b3\u221aV</p><p>\u00a0\u00a0 = \u221aL \u00f7 6</p><p></p><p>Rumus panjang diagonal sisi kubus:</p><p>ds = s\u221a2</p><p></p><p>Rumus panjang diagonal ruang kubus:</p><p>dr = s\u221a3</p><p></p><p>Rumus luas bidang diagonal kubus:</p><p>bd = s\u00b2\u221a2</p><p></p><p>Rumus keliling kubus:</p><p>K = 12 \u00d7 s</p><p></p><p>Rumus luas alas kubus:</p><p>L = s\u00b2 = s \u00d7 s</p><p></p><p>Keterangan:</p><p>s = panjang sisi rusuk</p><p>ds = diagonal sisi</p><p>dr = diagonal rusuk</p><p>bd = bidang diagonal</p><p></p><p>-------</p><p></p><p><strong>Balok</strong>\u00a0adalah <u>suatu bangun ruang yang memiliki tiga pasang sisi yang ukurannya sama dan saling berhadapan serta memiliki bentuk persegi panjang.</u></p><p></p><p>Rumus Volume Balok:</p><p>V = p \u00d7 l \u00d7 t</p><p></p><p>Rumus Luas Permukaan Balok:</p><p>L = 2((p \u00d7 l) + (p \u00d7 t) + (l \u00d7 t))</p><p></p><p>Rumus Luas Permukaan Balok Tanpa Tutup:</p><p>L = (p \u00d7 l) + 2(l \u00d7 t) + 2(p \u00d7 t)</p><p></p><p>Rumus Panjang Kawat Balok (PKB) :</p><p>PKB = 4(p + l + t)</p><p></p><p>Rumus Luas Alas Balok:</p><p>L = p \u00d7 l</p><p></p><p>Rumus Keliling Balok:</p><p>K = 4(p + l + t)</p><p></p><p>Rumus Diagonal Bidang atau Sisi Balok (ds):</p><p>db1 = \u221ap\u00b2 + l\u00b2</p><p>db2 = \u221ap\u00b2 + t\u00b2</p><p>db3 = \u221al\u00b2 + t\u00b2</p><p></p><p>Rumus Diagonal Ruang Balok (dr):</p><p>dr = \u221a(p\u00b2 + l\u00b2 + t\u00b2)</p><p></p><p>Rumus Luas Bidang Diagonal Balok (bd):</p><p>bd1 = db1 \u00d7 t</p><p>bd2 = db2 \u00d7 l</p><p>bd3 = db3 \u00d7 p</p><p></p><p>Keterangan:</p><p>p = panjang balok</p><p>l = lebar balok</p><p>t = tinggi balok</p><p></p><h2>Penyelesaian:</h2><p>Diketahui:</p><p>p = 8 cm</p><p>l = 4 cm</p><p>t = 16 cm</p><p>V.kubus = V.balok</p><p></p><p>Ditanya: Panjang sisi kubus (s) = ?</p><p></p><p>Dijawab:</p><p>V.balok = p \u00d7 l \u00d7 t</p><p>             = 8 \u00d7 4 \u00d7 16</p><p>             = 32 \u00d7 16</p><p>             = 512 cm\u00b3</p><p></p><p>V.kubus = s\u00b3</p><p>512 = s\u00b3</p><p>s = \u00b3\u221a(512)</p><p>   = 8 cm</p><p></p><p>Jadi, panjang sisi kubus tersebut adalah <strong><u>8</u></strong><strong><u> </u></strong><strong><u>c</u></strong><strong><u>m</u></strong>.</p><p></p><h2>Detail Jawaban</h2><p>Mapel: MTK</p><p>Kelas: 8 SMP</p><p>Materi: Bab 8 - Bangun Ruang</p><p>Kode Soal: 2</p><p>Kode Kategorisasi: 8.2.8</p><p>Kata Kunci: Volume Balok, Volume Kubus, Panjang Sisi Kubus</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "12-diketahui-panjang-garis-singgung-persekutuan-luar-lingkaran-2-887",
+            "question": "12. Diketahui panjang garis singgung persekutuan luar lingkaran 24 cm dan jarak kedua titik    pusatnya 25 cm. Jika salah satu jari-jari lingkaran adalah 10 cm, maka panjang jari-jari\r\nlingkaran lainnya adalah ... cm\r\nA. 2\r\nB. 3\r\nC. 7\r\nD. 16\r\n\r\n\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p><strong>C. </strong><strong>7</strong></p><p><em>semoga </em><em>membantu </em><em>ya </em></p><p><em>jadikan </em><em>jawaban </em><em>yang </em><em>terbaik</em></p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "faktor-kan-lah-aljabar-dr-3x-24-adalah-135",
+            "question": "Faktor kan lah aljabar dr 3x-24 adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>3(x-8)</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>Menggunakan pemfaktoran bentuk ax + b </p><p> -Digunkana dengan mencari FPB</p><p><strong>Ketentuan FPB</strong> : </p><p>Hasil kali faktor yang sama saja dan ambil faktor dengan pangkat terkecil. </p><p></p><p>3 = 1 \u00d7 3</p><p>24 = 2\u00d72\u00d72\u00d73.     ====&gt; <strong>3(x-8)</strong> </p><p></p><p><strong>J</strong><strong>a</strong><strong>d</strong><strong>i</strong><strong> </strong><strong>j</strong><strong>a</strong><strong>w</strong><strong>a</strong><strong>b</strong><strong>a</strong><strong>n</strong><strong>n</strong><strong>y</strong><strong>a</strong><strong> </strong><strong>a</strong><strong>d</strong><strong>a</strong><strong>l</strong><strong>a</strong><strong>h</strong><strong> </strong><strong>:</strong><strong> </strong>3(x-8)</p><p></p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "berikut-merupakan-diagram-data-golongan-darah-siswakelas-v-sekola-285",
+            "question": "berikut merupakan diagram data golongan darah siswakelas V sekolah dasar berikut pernyataan yg sesuai dengan diagram Batang d samping adalah\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>mana gambar diagramnyaa biar bisa di jawab </p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-kotak-berisi-4kelereng-merah-dan-5-kelereng-biru-banyak-c-437",
+            "question": "Sebuah kotak berisi 4kelereng merah dan 5 kelereng biru. Banyak cara mengambil 5 kelereng yang terdiri dari 3 kelereng merah dan 2 kelereng biru adalah ... (jawaban hasil akhir berupa angka\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>2 kleng maaf kalau salah</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tabel-tersebut-menunjukkan-data-banyak-pengunjung-kebun-binatang-446",
+            "question": "Tabel tersebut menunjukkan data banyak pengunjung kebun binatang selama lima bulan    Pernyataan Yang sesuai dengan data pada tabel tersebut",
+            "attachments": [
+                "question-attachments/tabel-tersebut-menunjukkan-data-banyak-pengunjung-kebun-binatang-446-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "<p>C.pada bulan mei banyak pengunjung anak2ada 253 orang dan dewasa ada 264.jadi totalnya adalah 517 orang</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "5-diketahui-keliling-segitiga-sauna-kaki-56-cm-jika-panjang-sisi-117",
+            "question": "5 Diketahui keliling segitiga sauna kaki 56 cm. Jika panjang sisi sama kakinya 17 cm. maka panjang sisi    Yang lain adalah\r\nA.22cm \r\nB.23cm\r\nC.24cm\r\nD.25cm\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<h2><strong><em><u>\u26a1TABRANI IM\u26a1</u></em></strong></h2><p></p><p></p><p>Keliling = 2 sisi sama kaki + sisi lain</p><p>56 cm = 17 cm + 17 cm + sisi lain</p><p>56 cm = 34 cm + sisi lain</p><p>sisi lain = 56 cm - 34 cm</p><h3>sisi lain = 22 cm</h3><p></p><p></p><p>Jadi, panjang sisi lain segitiga tersebut adalah</p><h2>A. 22 cm</h2><p></p><p></p><p><strong>\u26a1Semoga bermanfaat </strong></p><p><strong>\u26a1 Semangat Belajar</strong></p><p><strong>\u26a1Good Luck</strong></p><p></p><p>\"Barang siapa yang menghendaki dunia harus dengan ILMU. Barang siapa yang menghendaki akhirat maka harus dengan ILMU\"</p><p>(Imam Syafi&#039;i)</p>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

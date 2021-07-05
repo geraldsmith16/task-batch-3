@@ -1,0 +1,134 @@
+{
+    "question": "Nilaii dari lim \"x\u21921\" x\u00b2-1 / x-1 adalah\r\nbantu jawab ya kak\u200b",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "<h2><strong>Jawab:</strong></h2><p>2</p><h2>_______________________________</h2><h2><strong>Penjelasan:</strong></h2><p>Lim x \u2192 1 \u00a0x\u00b2 - 1 / x - 1</p><p>Lim x \u2192 1 \u00a0(x + 1)(x - 1) / x - 1</p><p>Lim x \u2192 1 \u00a0x + 1</p><p><em><strong>Substitusikan 1 ke setiap x:</strong></em></p><p>(1) + 1</p><p>1 + 1</p><p><strong>2</strong></p><p></p><p></p><p>[tex]{\\blue{Answer~by:Mei^2}}[/tex]</p>",
+            "attachments": []
+        },
+        {
+            "answer": "<h3>~Limit Fungsi Aljabar</h3><p>____________________</p><p>[tex]\\:[/tex]</p><p><strong>Jawaban:</strong></p><p><strong><u>2</u></strong><strong><u>\u2714</u></strong></p><p>[tex]\\:[/tex]</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>[tex]\\lim\\limits_{x \\to 1} = \\frac{x^{2} - 1}{x - 1}[/tex]</p><p>[tex]\\lim\\limits_{x \\to 1} = \\frac{(x - 1)(x + 1)}{x - 1}[/tex]</p><p>[tex]\\lim\\limits_{x \\to 1} = \\frac{\\cancel{(x - 1)}(x + 1)}{\\cancel{x - 1}}[/tex] \u279e Cancel x - 1</p><p>[tex]\\lim\\limits_{x \\to 1} = x + 1[/tex]</p><p>[tex] = 1 + 1[/tex] \u279e Substitusikan nilai x</p><p>[tex]{\\boxed{\\blue{\\underline{= 2}}}}[/tex]</p><p>[tex]\\:[/tex]</p><p>~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~</p><h3>\u2013 Detail Jawaban</h3><ul><li>Mapel : Matematika</li><li>Kelas : XI</li><li>Materi : Limit Fungsi Aljabar</li><li>Kode Soal : 2</li><li>Kode Kategorisasi : 11.2.8</li></ul><p>[tex]\\:[/tex]</p><p>#GANBATTE</p><p></p><p></p><p></p>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "hasil-dari-akar-akarpersamaan-kuadrat-62-2x-3-0-adalah-787",
+            "question": "Hasil dari akar-akarpersamaan kuadrat 6\u00d7\u00b2 - 2x +3= 0 adalah?\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>Jawabannya 1/2</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>Semoga membantu^^</p>",
+                    "attachments": [
+                        "answer-attachments/hasil-dari-akar-akarpersamaan-kuadrat-62-2x-3-0-adalah-787-1.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "jika-g-10-ms2-dan-kedalaman-benda-2-m-dan-tekanan-hidrostatis-712",
+            "question": "Jika g = 10 m/s2 dan kedalaman benda 2 m. Dan tekanan hidrostatisnya 2000 Pa. Berapakah massa jenis benda tersebut ......... kg/m3\u00a0\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>1+1=2</p><p>2+2=3</p><p>3+3=1</p><p>1+1= banyaaak</p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-fungsi-komposisi-f-o-gx-6-x-3-dan-fungsi-gx-444",
+            "question": "diketahui fungsi komposisi (f o g)(x) = 6 x + 3 dan fungsi g(x) = 2 X - 3 Tentukan nilai dari f (x) \u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>ini untuk caranya</p><p></p>",
+                    "attachments": [
+                        "answer-attachments/diketahui-fungsi-komposisi-f-o-gx-6-x-3-dan-fungsi-gx-444-1.jpeg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "angka-247-jika-dibulatkan-ke-ratusan-terdekat-adalah-370",
+            "question": "Angka 247 jika dibulatkan ke ratusan terdekat adalah\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawab:</strong></p><p>200</p><p></p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>Jika di bulatkan ke ratusan terdekat adalah dengan melihat angka puluhannya, apabila lebih dari 50 maka bisa di bulatkan ke 300, dan apabila kurang dari 50, maka di bulatkan ke 200</p><p></p><p></p><p><strong>Semoga membantu &amp; Selamat belajar kembali</strong></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "2-hasil-acar-pangkat-dari-gllangan-v-64-adalah-615",
+            "question": "2\r\nHasil acar pangkat ?\r\ndari Gllangan v 64\r\nadalah\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>Hasil dari akar 64</p><p></p><p>Pembahasan</p><p>= \u221a64</p><p>= ( 8 x 8 ) atau 8\u00b2 = 64</p><p></p><p><em>Jadi, Hasil dari \u221a64 adalah 8.</em></p><p></p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pliss-bantu-kak-sama-caranya-585",
+            "question": "Pliss bantu kak sama caranya \u200b",
+            "attachments": [
+                "question-attachments/pliss-bantu-kak-sama-caranya-585-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawab:</strong></p><p>Hasilnya dapat ditampilkan dalam beberapa bentuk.\n</p><p>Bentuk yang Tepat:\n</p><p>15-\u221a3/12\n</p><p>Bentuk Desimal:\n</p><p>1.10566243\n</p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "nilai-x-dari-gambar-di-bawah-ini-adalah-754",
+            "question": "Nilai x dari gambar di bawah ini adalah\u200b",
+            "attachments": [
+                "question-attachments/nilai-x-dari-gambar-di-bawah-ini-adalah-754-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "<p>Dalam sebuah segitiga apabila semua sudutnya dijumlahkan akan bernilai 180\u00b0, maka</p><p>                   &lt;A + &lt;B + &lt;C = 180\u00b0</p><p>3x\u00b0 + 3\u00b0 + 2x\u00b0 + 33\u00b0 + 3x\u00b0 = 180\u00b0</p><p>                          8x\u00b0+ 36\u00b0 = 180\u00b0</p><p>                                   8x\u00b0 = 180\u00b0 - 36\u00b0</p><p>                                   8x\u00b0 = 144\u00b0</p><p>                                     x\u00b0 = 144\u00b0/8</p><p>                                     <strong>x\u00b0 = 18\u00b0</strong></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "larutan-naoh-03m-sebanyak-10-ml-ditambahkan-kedalam-20-ml-ch3coo-381",
+            "question": "larutan NaOH 0,3m sebanyak 10 mL ditambahkan kedalam 20 mL CH3COOH 0,15M (Ka=10-^), tentukanlah reaksi hidrolisis garam tersebut",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawab:</strong></p><p></p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-hasil-pengukuran-berat-badan-10-org-siswa-kelas-v-adala-916",
+            "question": "diketahui hasil pengukuran berat badan 10 org siswa kelas V adalah sebagai berikut: 30,29,32,31,28,29,28,30,30,34 urutan berat badan 10 siswa tersebut dari yang teringan adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>28,28,29,29,30,30,30,31,32,34</p><p></p><p>semoga membantu.</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-dan-maka-nilai-dari-adalah-lengkap-dengan-cara-yaa-391",
+            "question": "Jika    \r\ndan \r\n\r\nmaka nilai dari \r\n\r\nadalah...\r\n(lengkap dengan cara yaa)\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "waduh otak ku mulai meledak<br>jangan dekat dekat aku nanti kena otak ku",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

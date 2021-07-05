@@ -1,0 +1,145 @@
+{
+    "question": "Suatu ketika Zainul pergi ketoko baju di suatu mall . Zainul membeli baju di toko tersebut seharga Rp 90.000,00 jika baju tersebut didiskon 30% , berapakah harga baju setelah didiskon ?\u200b",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "<p><strong>Jawaban:</strong></p><p>Jadi harga baju setelah diskon adalah 63.000</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>Diketahui </p><p>Harga baju 90.000</p><p>Diskon 30 %</p><p>Ditanya harga baju setelah diskon?</p><p>Jawab</p><p>= 30% x 90.000</p><p>= 30 x 900</p><p>= 27.000</p><p>Harga baju setelah diskon</p><p>= 90.000- 27000</p><p>= 63.000</p>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "quiz-tentukan-jumlah-bilangan-pada-masing-masing-barisan-beriku-312",
+            "question": "QUIZ!!    Tentukan jumlah bilangan pada masing-masing barisan berikut ini :\r\n\r\na. 1, 8, 15, 22, \u2026 , 92\r\nb, 7, 11, 15, 19, \u2026 ,103\r\nc. 4, 13, 22, 31, \u2026 , 157\r\nd. -8, -2, 4, 10, \u2026 , 106\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<h3>_Soal a</h3><p></p><p>Un = a + (n-1) b</p><p>92 = 1 + (n-1) 7</p><p>92 = 1 + 7n - 7</p><p>92 = -6 + 7n</p><p>-7n = -6 - 92</p><p>-7n = -98</p><p>   n = -98/-7</p><p>   n = 14</p><p></p><p>Sn = n/2 (a + Un)</p><p>    = 14/2 (1 + 92)</p><p>    = 7 \u00d7 93</p><p>    = <strong><em><u>6</u></em></strong><strong><em><u>5</u></em></strong><strong><em><u>1</u></em></strong></p><p></p><h3>_Soal b</h3><p></p><p>Un = a + (n-1) b</p><p>103 = 7 + (n-1) 4</p><p>103 = 7 + 4n - 4</p><p>103 = 3 + 4n</p><p>-4n = 3 - 103</p><p>-4n = -100</p><p>   n = -100/-4</p><p>   n = 25</p><p></p><p>Sn = n/2 (a + Un)</p><p>     = 25/2 (7 + 103)</p><p>     = 12,5 \u00d7 110</p><p>     = <strong><em><u>1</u></em></strong><strong><em><u>.</u></em></strong><strong><em><u>3</u></em></strong><strong><em><u>7</u></em></strong><strong><em><u>5</u></em></strong></p><p></p><h3>_Soal C</h3><p></p><p>Un = a + (n-1) b</p><p>157 = 4 + (n-1) 9</p><p>157 = 4 + 9n - 9</p><p>157 = -5 + 9n</p><p>-9n = -5 - 157</p><p>-9n = -162</p><p>   n = -162/-9</p><p>   n = 18</p><p></p><p>Sn = n/2 (a + Un)</p><p>     = 18/2 (4 + 157)</p><p>     = 9 \u00d7 161</p><p>     = <strong><em><u>1</u></em></strong><strong><em><u>.</u></em></strong><strong><em><u>4</u></em></strong><strong><em><u>4</u></em></strong><strong><em><u>9</u></em></strong></p><p></p><h3>_Soal D</h3><p></p><p>Un = a + (n-1) b</p><p>106 = -8 + (n-1) 6</p><p>106 = -8 + 6n - 6</p><p>106 = -14 + 6n</p><p>-6n = -14 - 106</p><p>-6n = -120</p><p>   n = -120/-6</p><p>   n = 20</p><p></p><p>Sn = n/2 (a + Un)</p><p>    = 20/2 (-8 + 106)</p><p>    = 10 \u00d7 98</p><p>    = <strong><em><u>9</u></em></strong><strong><em><u>8</u></em></strong><strong><em><u>0</u></em></strong></p><p></p><p>koreksi ya...</p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>a. 651</p><p>b. 1.375</p><p>c. 1.449</p><p>d. 980</p><p></p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p><strong>M</strong><strong>e</strong><strong>n</strong><strong>e</strong><strong>n</strong><strong>t</strong><strong>u</strong><strong>k</strong><strong>a</strong><strong>n</strong><strong> </strong><strong>j</strong><strong>u</strong><strong>m</strong><strong>l</strong><strong>a</strong><strong>h</strong><strong> </strong><strong>b</strong><strong>i</strong><strong>l</strong><strong>a</strong><strong>n</strong><strong>g</strong><strong>a</strong><strong>n</strong><strong> </strong><strong>p</strong><strong>a</strong><strong>d</strong><strong>a</strong><strong> </strong><strong>b</strong><strong>a</strong><strong>r</strong><strong>i</strong><strong>s</strong><strong>a</strong><strong>n</strong><strong> </strong><strong>a</strong><strong>r</strong><strong>i</strong><strong>t</strong><strong>m</strong><strong>a</strong><strong>t</strong><strong>i</strong><strong>k</strong><strong>a</strong><strong> </strong><strong> </strong><strong>:</strong></p><p>1. tentukan banyaknya suku pada barisan tersebut (tentukan n) dengan cara substitusi bilangan terakhir pada barisan (Un) ke rumus barisan aritmatika </p><p>2. setelah itu, masukkan Un, n, suku pertama (a) , dan beda (b) ke rumus deret aritmatika </p><p><strong>R</strong><strong>u</strong><strong>m</strong><strong>u</strong><strong>s</strong><strong> </strong><strong>b</strong><strong>a</strong><strong>r</strong><strong>i</strong><strong>s</strong><strong>a</strong><strong>n</strong><strong> </strong><strong>a</strong><strong>r</strong><strong>i</strong><strong>t</strong><strong>m</strong><strong>a</strong><strong>t</strong><strong>i</strong><strong>k</strong><strong>a</strong><strong> </strong><strong>:</strong><strong> </strong><strong>U</strong><strong>n</strong><strong> </strong><strong>=</strong><strong> </strong><strong>a</strong><strong> </strong><strong>+</strong><strong> </strong><strong>(</strong><strong>n</strong><strong> </strong><strong>-</strong><strong> </strong><strong>1</strong><strong>)</strong><strong>b</strong></p><p><strong>R</strong><strong>u</strong><strong>m</strong><strong>u</strong><strong>s</strong><strong> </strong><strong>d</strong><strong>e</strong><strong>r</strong><strong>e</strong><strong>t</strong><strong> </strong><strong>a</strong><strong>r</strong><strong>i</strong><strong>t</strong><strong>m</strong><strong>a</strong><strong>t</strong><strong>i</strong><strong>k</strong><strong>a</strong><strong> </strong><strong>:</strong><strong> </strong><strong>S</strong><strong>n</strong><strong> </strong><strong>=</strong><strong> </strong><strong>{</strong><strong> </strong><strong>n</strong><strong> </strong><strong>(</strong><strong>a</strong><strong> </strong><strong>+</strong><strong> </strong><strong>U</strong><strong>n</strong><strong>)</strong><strong> </strong><strong>}</strong><strong> </strong><strong>/</strong><strong>2</strong></p><p></p><p><strong>a</strong><strong>.</strong><strong> </strong><strong>1</strong><strong>,</strong><strong> </strong><strong>8</strong><strong>,</strong><strong> </strong><strong>1</strong><strong>5</strong><strong>,</strong><strong> </strong><strong>2</strong><strong>2</strong><strong>,</strong><strong> </strong><strong>.</strong><strong>.</strong><strong>.</strong><strong> </strong><strong>,</strong><strong> </strong><strong>9</strong><strong>2</strong></p><p>suku pertama (a) = 1</p><p>beda (b) = 8 - 1 = 7</p><p><strong>.</strong><strong> </strong><strong>T</strong><strong>e</strong><strong>n</strong><strong>t</strong><strong>u</strong><strong>k</strong><strong>a</strong><strong>n</strong><strong> </strong><strong>n</strong></p><p>Un = a + (n - 1)b</p><p>92 = 1 + (n - 1)7</p><p>92 - 1 = 7n - 7</p><p>91 + 7 = 7n </p><p>98 = 7n </p><p>n = 98 \u00f7 7</p><p>n = 14</p><p><strong>.</strong><strong> </strong><strong>T</strong><strong>e</strong><strong>n</strong><strong>t</strong><strong>u</strong><strong>k</strong><strong>a</strong><strong>n</strong><strong> </strong><strong>j</strong><strong>u</strong><strong>m</strong><strong>l</strong><strong>a</strong><strong>h</strong><strong> </strong><strong>(</strong><strong>S</strong><strong>n</strong><strong>)</strong></p><p>Sn = { n (a + Un) } / 2</p><p>S14 = { 14 (1 + 92) } / 2</p><p>S14 = (14 \u00d7 93) /2</p><p>S14 = 7 \u00d7 93</p><p><strong>S</strong><strong>1</strong><strong>4</strong><strong> </strong><strong>=</strong><strong> </strong><strong>6</strong><strong>5</strong><strong>1</strong></p><p></p><p><strong>b, 7, 11, 15, 19, \u2026 ,103</strong></p><p>suku pertama (a) = 7</p><p>beda (b) = 11 - 7 = 4</p><p><strong>. Tentukan n</strong></p><p>103 = a + (n - 1)b</p><p>103 = 7 + (n - 1)4</p><p>103 - 7 = 4n - 4</p><p>96 + 4 = 4n </p><p>100 = 4n </p><p>n = 100 \u00f7 4</p><p>n = 25</p><p><strong>. Tentukan jumlah (Sn)</strong></p><p>Sn = { n (a + Un) } / 2</p><p>S25 = { 25 (7+ 103) } / 2</p><p>S25 = (25 \u00d7 110) /2</p><p>S25 = 2.750 / 2</p><p><strong>S25 = 1.37</strong><strong>5</strong></p><p></p><p><strong>c. 4, 13, 22, 31, \u2026 , 157</strong></p><p>suku pertama (a) = 4</p><p>beda (b) = 13 - 4 = 9</p><p>. Tentukan n</p><p>Un = a + (n - 1)b</p><p>157 = 4 + (n - 1)9</p><p>157 - 4 = 9n - 9</p><p>153 + 9 = 9n </p><p>162 = 9n </p><p>n = 162 \u00f7 9</p><p>n = 18</p><p><strong>. Tentukan jumlah (Sn)</strong></p><p>Sn = { n (a + Un) } / 2</p><p>S18 = { 18 (4 + 157) } / 2</p><p>S18 = (18 \u00d7 161) /2</p><p>S18 = 9 \u00d7 161</p><p><strong>S18 = 1.449</strong></p><p></p><p><strong>d. -8, -2, 4, 10, \u2026 , 106</strong></p><p>suku pertama (a) = -8</p><p>beda (b) = -2 - (-8) = -2 + 8 = 6</p><p><strong>. Tentukan n</strong></p><p>Un = a + (n - 1)b</p><p>106 = -8 + (n - 1)6</p><p>106 + 8 = 6n - 6</p><p>114 + 6 = 6n </p><p>120 = 6n </p><p>n = 120 \u00f7 6</p><p>n = 20</p><p><strong>. Tentukan jumlah (Sn)</strong></p><p>Sn = { n (a + Un) } / 2</p><p>S20 = { 20 (-8 + 106) } / 2</p><p>S20 = (20 \u00d7 98) / 2</p><p>S20 = 10 \u00d7 98</p><p><strong>S</strong><strong>2</strong><strong>0</strong><strong> = </strong><strong>9</strong><strong>8</strong><strong>0</strong></p><p></p><p></p><p></p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-jika-a-20-34-maka-nilai-a-adalah-b-3-c-4-d-15-725",
+            "question": "1. Jika a : 20 = 3:4 maka nilai a adalah\r\nb. 3\r\nc. 4.\r\nd. 15\r\n \u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>d.15</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>hasil perbandingan\u00d75</p><p>=3\u00d75:4\u00d75</p><p>=15:20</p><p></p><p>jadi, nilai a adalah:15</p><p>semoga membantu&lt;3</p><p>difollow yh</p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>d. 15</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>a = 20 : 4 </p><p>==&gt; 5 \u00d7 3 </p><p>==&gt; 15</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "hasil-perkalian-x-15-x-15-adalah-a-x2-15-b-x2-3-918",
+            "question": "Hasil perkalian (x - 15) (x + 15) adalah....    a. x2 - 15\r\nb. x2 - 30\r\nc. x2-225\r\nd. x2 - 625\r\n\r\nJawab yang bener jangan ngasal kalo ngasal report.\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>c. x\u00b2 - 225</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>= ( x - 15 ) ( x + 15)</p><p>= x\u00b2 + 15x - 15x - 225</p><p>= x\u00b2 - 225</p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<p><strong>Rumus</strong></p><p><strong>(a+b)(a-b)</strong></p><p><strong>= a\u00b2 - b\u00b2*</strong></p><p></p><p>( x - 15 )( x + 15 )</p><p>= x\u00b2 - 15 x 15</p><p>= <strong>x\u00b2 - 225 (C)</strong></p><p></p><p>*(a\u00b2- ab + ab-b\u00b2 \u21d2 a\u00b2 - b\u00b2)</p><p></p><p>Semangat belajarnya :D</p><p>Semoga sukses!</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "anto-sedang-membereskan-mainannya-anto-memasukkan-mainan-mainann-968",
+            "question": "Anto Sedang membereskan mainannya, Anto memasukkan mainan mainannya ke dalam kotak mainan berbentuk kubus kotak mainan tersebut dapat memuat isi sebanyak 21.952 cm3     Berapa panjang sisi kotak mainan anto? \r\ntolong jangan ngasal :D\r\n\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<h3>Mencari panjang sisi kubus pada kotak mainan Anto </h3><p></p><ul><li>[tex] \\sqrt[3]{21.952}  \\: cm[/tex]</li><li>28 cm </li><li>Karena, 28 cm x 28 cm x 28 cm = 21.952 cm\u00b2</li><li>Jadi, panjang sisi kotak mainan Anto adalah 28 cm </li></ul><p></p><h2>Semoga membantu.. Jangan dihapus jawaban saya.. =)</h2><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bu-riri-ingin-membeli-2-kodi-pensil-dengan-harga-54000-karena-ua-268",
+            "question": "bu riri ingin membeli 2 kodi pensil dengan harga 54.000 karena uang ibu riri ternyata kurang , maka beliau membeli h anya 2 lusin pensil berapakah uang yang harus dibayar ibu riri\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>Rp. 32.000 </p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>cara penyelesaiannya ada dipoto</p>",
+                    "attachments": [
+                        "answer-attachments/bu-riri-ingin-membeli-2-kodi-pensil-dengan-harga-54000-karena-ua-268-1.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "pak-ahmad-memiliki-sebidang-tanah-berbentuk-persegi-panjang-dgn-u-429",
+            "question": "Pak Ahmad memiliki sebidang tanah berbentuk persegi panjang dgn ukuran panjang 20 meter dan lebar 15 meter, jika tanah itu terjual dgn harga Rp 750.000/m2, maka uang yg di peroleh pak Ahmad adalah....\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p> luas = 20 x 15 = 300m\u00b2</p><p>750.000 x 300 = 225.000.000</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "kebun-paman-berbentuk-persegi-dengan-luas-2500-m2-keliling-keb-963",
+            "question": "Kebun paman berbentuk persegi dengan luas 2.500 m\u00b2. Keliling kebun paman adalah .... m *\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>Keliling kebun adalah <strong>2</strong><strong>0</strong><strong>0</strong><strong> </strong><strong>m</strong></p><p></p><h2>Pendahuluan</h2><p>Persegi merupakan bentuk bangun datar yang memiliki 4 sisi dan membentuk sudut siku-siku. Jumlah besar sudut persegi adalah 90\u00b0. Sifat-sifat persegi, antara lain yaitu :</p><ol><li>Memiliki 4 sisi</li><li>Mempunyai 4 sumbu simetri</li><li>Perpotongan antar diagonalnya membentuk sudut siku-siku</li></ol><p></p><h2>Penyelesaian</h2><h3>Diketahui</h3><ul><li>Luas = 2.500 m\u00b2</li></ul><h3>Ditanyakan</h3><p>Keliling</p><h3>Jawab</h3><p>  Luas = s\u00b2</p><p>2.500 = s\u00b2</p><p>       s\u00b2 = \u221a2.500</p><p>         s = 50 m</p><p></p><p>Keliling = 4 \u00d7 s</p><p>              = 4 \u00d7 50</p><p>              = 200 m</p><p></p><h2>Pelajari lebih lanjut</h2><ul><li>APA yang dimaksud persegi : <u>brainly.co.id/tugas/1357708</u></li><li>Menentukan lebar dan keliling persegi ..diketahui panjang 22 dm dan luas 17.600cm persegi : <u>brainly.co.id/tugas/20960870</u></li><li>Sebutkan sifat-sifat Persegi! : <u>brainly.co.id/tugas/2043135</u></li></ul><h2>Detail jawaban</h2><p>Kelas : 3</p><p>Mapel : Matematika</p><p>Materi : Bab 10 \u2014 Persegi dan persegi panjang</p><p>Kode Mapel : 2</p><p>Kode Kategorisasi : 3.2.10</p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<p></p><h2>[tex]{\\sf{\\small\\color{blue}{Pertanyaan}}}[/tex]</h2><p></p><p>Kebun paman berbentuk persegi dengan luas 2.500 m\u00b2. Keliling kebun paman adalah .... m</p><p></p><h2>[tex]{\\sf{\\small\\color{blue}{Jawaban}}}[/tex]</h2><p></p><p><strong>Ket</strong><strong>erangan</strong><strong> </strong><strong>:</strong></p><ul><li>L = Luas</li><li>K = Keliling</li><li>s = Sisi</li></ul><p></p><p><strong>Dik</strong><strong> </strong><strong>:</strong></p><p>L = 2.500 m\u00b2</p><p></p><p><strong>Dit</strong><strong> </strong><strong>:</strong></p><p>K = ....?</p><p></p><p>\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550</p><p></p><p>Sebelum mencari keliling, cari dulu sisinya.</p><p>[tex] \\boxed{ \\sf{s \\:  =  \\:  \\sqrt{L} }}[/tex]</p><p>[tex]  \\: \\sf{s \\:  =  \\:  \\sqrt{2.500} }[/tex]</p><p>[tex] \\boxed{ \\sf{s \\:  =  \\: 50}}[/tex]</p><p></p><p></p><p>\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550</p><p></p><p>[tex]  \\boxed{\\sf{ K \\:  =  \\:  4 \\:  \\times  \\: s}}[/tex]</p><p>[tex]  \\: \\sf{K \\:  =  \\: 4 \\:  \\times  \\: 50}[/tex]</p><p>[tex]  \\boxed{ \\sf{K \\:  =  \\: 200 }}[/tex]</p><p></p><h3>Jadi, keliling kebun Paman adalah 200 cm.</h3><p></p><p>\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550</p><p></p><h2>=====================</h2><p></p><p>[tex] \\huge \\colorbox{pink}{Semoga Membantu}[/tex]</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bantu-jawabo-125",
+            "question": "Bantu jawab\uff3c(^o^)\uff0f\r\n.\r\n...\r\n..\r\n....\u200b",
+            "attachments": [
+                "question-attachments/bantu-jawabo-125-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "<p><strong><em><u>J</u></em></strong><strong><em><u>A</u></em></strong><strong><em><u>W</u></em></strong><strong><em><u>A</u></em></strong><strong><em><u>B</u></em></strong><strong><em><u>A</u></em></strong><strong><em><u>N</u></em></strong><strong><em><u>N</u></em></strong><strong><em><u>Y</u></em></strong><strong><em><u>A</u></em></strong><strong><em><u> </u></em></strong><strong><em><u>S</u></em></strong><strong><em><u>U</u></em></strong><strong><em><u>D</u></em></strong><strong><em><u>A</u></em></strong><strong><em><u>H</u></em></strong><strong><em><u> </u></em></strong><strong><em><u>A</u></em></strong><strong><em><u>D</u></em></strong><strong><em><u>A</u></em></strong><strong><em><u> </u></em></strong><strong><em><u>Y</u></em></strong><strong><em><u>A</u></em></strong><strong><em><u> </u></em></strong><strong><em><u>D</u></em></strong><strong><em><u>I</u></em></strong><strong><em><u> </u></em></strong><strong><em><u>F</u></em></strong><strong><em><u>O</u></em></strong><strong><em><u>T</u></em></strong><strong><em><u>O</u></em></strong></p><p></p><h2><strong><em><u>S</u></em></strong><strong><em><u>E</u></em></strong><strong><em><u>M</u></em></strong><strong><em><u>O</u></em></strong><strong><em><u>G</u></em></strong><strong><em><u>A</u></em></strong><strong><em><u> </u></em></strong><strong><em><u>M</u></em></strong><strong><em><u>E</u></em></strong><strong><em><u>M</u></em></strong><strong><em><u>B</u></em></strong><strong><em><u>A</u></em></strong><strong><em><u>N</u></em></strong><strong><em><u>T</u></em></strong><strong><em><u>U</u></em></strong></h2><p></p>",
+                    "attachments": [
+                        "answer-attachments/bantu-jawabo-125-1.jpg",
+                        "answer-attachments/bantu-jawabo-125-2.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "penyelesaian-sistem-persamaan-x2y7-dan-3x2y17-adalah-xa-yb-130",
+            "question": "Penyelesaian sistem persamaan x+2y=7 dan 3x+2y=17 adalah x=a y=b nilai a+b adalah\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p></p><p><strong><em>x=a y=b </em></strong></p><p><strong><em>nilai a+</em></strong><strong><em>b</em></strong></p><p><strong><em>5</em></strong><strong><em>+</em></strong><strong><em>1</em></strong><strong><em>=</em></strong><strong><em>6</em></strong></p><p></p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>[tex]x =  5\\\\   y = 1 \\\\ mari \\: kita \\: coba \\\\ 5 + 2(1) = 7 \\\\ 3(5) + 2(1) = 17 \\\\ [/tex]</p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-volume-balok-2400-cm3-jika-panjang-balok-25-cm-dan-le-616",
+            "question": "Diketahui volume balok 2.400 cm3. Jika panjang balok 25 cm dan lebar balok 6 cm, maka tinggi balok adalah ...\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawab:</strong></p><p>tinggi balok = 16 cm</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>volume balok = panjang.lebar.tinggi</p><p>2400 = 25.6.x</p><p>2400 = 150x</p><p>x = 2400 : 150</p><p>x = 16 cm</p><p></p><p>semoga membantu</p>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

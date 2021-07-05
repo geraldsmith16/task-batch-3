@@ -1,0 +1,138 @@
+{
+    "question": "tentukanlah pusat dari jari-jari lingkaran dengan persamaan 2 x kuadrat + 2 y kuadrat + 8x kurang 12 Y kurang 24 =0\u200b",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "<p><strong>Pertanyaan :</strong></p><p>tentukanlah pusat dari jari-jari lingkaran dengan persamaan 2x \u00b2 + 2y\u00b2 + 8x - 12y - 24 = 0</p><p></p><p><strong>Penyelesaian :</strong></p><p>2x \u00b2 + 2y\u00b2 + 8x - 12y - 24 = 0</p><p></p><p><u>Menentukna titik pusat:</u></p><p>Titik pusat M(a,b) = (-\u00bdA , -\u00bdB) </p><p>                             = (-\u00bd(8)  , -\u00bd(-12))</p><p>                             = <strong>(-4 , 6)</strong></p><p><em>Jadi, Pusat lingkarannya adalah (-4 , 6)</em></p><p></p><p></p><p>Menentukan jari-jari lingkaran :</p><p>r = \u221a\u00bcA\u00b2 + \u00bcB\u00b2 - C</p><p>  = \u221a\u00bc(64) + \u00bc(144) - (-24)</p><p>  = \u221a16 + 36 + 24</p><p>  = \u221a76</p><p>  = 2\u221a19</p><p></p><p><em>Jdi, jari-jarinya adalah 2\u221a19</em></p><p></p><p></p><p></p><h2>#SemogaMembantu</h2><h2>#SelamatBelajar</h2><p>   <em>b</em><em>y</em><em>.</em><em>r</em><em>i</em><em>a</em><em>n</em><em>n</em><em>d</em></p>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "diketahui-a-2i-3j-4k-dan-b-4i-6j-2k-nilai-dari-a-b-a-938",
+            "question": "Diketahui a = 2i + 3j -4k dan b = 4i+ 6j    - 2k, nilai dari a - b adalah ...\r\na. -2i + 3j + 2k\r\nb. 2i - 3j + 2k\r\nc. -21 \u2013 3j - 2K\r\nd. 3i+ 6j \u2013 2k\r\ne. 31-6] + 2K\r\ndi bantu lgi ya kk\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>ini untuk caranya</p><p></p>",
+                    "attachments": [
+                        "answer-attachments/diketahui-a-2i-3j-4k-dan-b-4i-6j-2k-nilai-dari-a-b-a-938-1.jpeg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "22-diketahui-panjang-garis-singgung-persekutuan-luar-lingkaran-m-966",
+            "question": "22. Diketahui panjang garis singgung persekutuan luar lingkaran M dan N adalah 40 cm. Jari-jari    lingkaran M dan N berturut-turut adalah 10 cm dan 19 cm. Jarak antara kedua pusat lingkaran\r\ntersebut adalah....\r\nA. 17 cm\r\nC. 40 cm\r\nB. 25 cm\r\nD. 41 cm\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>l = 40 cm</p><p>M = 10 cm</p><p>N = 19 cm</p><p></p><p>p^2 = l^2 + (N - M)^2</p><p>p^2 = 40^2 + (19 - 10)^2</p><p>p^2 = 40^2 + 9^2</p><p>p^2 = 1600 + 81</p><p>p^2 = 1681</p><p>p = V1681</p><p>p = 41 cm (D)</p><p></p><p></p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "menara-eiffel-yang-terbuat-dari-baja-117-x-10-6-c-tinggin-710",
+            "question": "Menara Eiffel yang terbuat dari baja ( = 11,7 x 10-6 /C), tingginya 320 m pada suhu -20 C. Berapakah perubahan ketinggian menara ketika suhu berubah pada kisaran dari -20 C sampai 35 C?\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>ketinggiannya akan berubah menjadi 365m</p><p>klo ga  salah </p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-luas-permukaan-suatu-kubus-adalah-1360-cm-persegi-berap-327",
+            "question": "Diketahui luas permukaan suatu kubus adalah 1360 cm persegi Berapa panjang sisi kubus tersebut\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>Ini di soal luas permukaan 1360 cm\u00b2 atau 1350 cm\u00b2 ya, Kak?</p><p></p><p>Kalo luas permukaannya 1350 cm\u00b2, maka panjang rusuk kubus = 15 cm</p><p></p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>Kubus memiliki 6 sisi. </p><p>Luas permukaan kubus = 6 x L persegi </p><p>                              1350 = 6 x Luas persegi </p><p>                 Luas persegi = 1350 : 6 </p><p>                 Luas persegi = 225 </p><p></p><p>Luas persegi = rusuk2 </p><p>              225 = rusuk\u00b2 </p><p>           rusuk = \u221a225 </p><p>           rusuk = 15</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suku-pertama-dari-barisan-4-1-6-11-a-5-b-4-c-3-d-1-835",
+            "question": "Suku pertama dari barisan: 4,-1, -6, -11, ...\r\nA. 5\r\nB. 4\r\nC. 3\r\nD.-1\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Penjelasan dengan langkah-langkah:</strong></p><p></p><p>              <u><strong>Rumus </strong><strong>Un</strong></u></p><p></p><p><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong>Un = a + ( n - 1) b</p><p>    </p><p>           * <strong>keterangan </strong></p><p><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong>Un = banyak suku ke-n</p><p>              <strong>a = Suku Awal </strong></p><p><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong>n = banyak suku </p><p>              b = beda </p><p></p><p>      ditanya <strong>Suku </strong><strong>Awal</strong><strong> </strong>( a)  </p><p></p><p>      <strong>4</strong><strong> </strong>, -1 , -6 , -11</p><p></p><p><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong>nilai a adalah 4 / B </p><p>         </p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "hitunglah-keliling-bangun-datar-berikut-140",
+            "question": "Hitunglah keliling bangun datar berikut\u200b",
+            "attachments": [
+                "question-attachments/hitunglah-keliling-bangun-datar-berikut-140-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>40 maaf kalau salah soalnya gambarnya gk kelihatan yang samping</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "nilai-dari-sin-60-cos-30-adalah-402",
+            "question": "Nilai dari sin 60\u00b0 \u00d7 cos 30\u00b0 adalah\u00a0\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p></p><p>[tex] \\sin(60)  \\times  \\cos(30)  =  \\frac{1}{2}  \\sqrt{3}  \\times  \\frac{1}{2}  \\sqrt{3}  \\\\  =  \\frac{1}{4} .3 \\\\  =  \\frac{4}{3} [/tex]</p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "turunan-dari-fungsi-fx-50-864",
+            "question": "Turunan dari fungsi f(x): 50?\r\n\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>[tex]\\huge \\orange{\\underbrace{\\overbrace{\\sf{\\bold{\\blue{Ambiziuz02}}}}}}[/tex] </p><p>_______________________________________________</p><p>[tex]{\\boxed{\\mathfrak{\\huge\\blue{{\\boxed{\\mathfrak{\\huge\\red{Penyelesaian}}}}}}}}[/tex]</p><p>_______________________________________________</p><p>50 adalah konstanta.</p><p>Turunan dari konstanta selalu bernilai 0</p><p>Maka : </p><p>\u25aa [tex]\\large f(x) = 50   [/tex] </p><p>\u25aa [tex]\\large \\red{f&#039;(x) = 0}   [/tex] </p><p>_______________________________________________</p><p>[tex]\\large\\red{\\bigstar}[/tex] Detail Jawaban [tex]\\large\\red{\\bigstar}[/tex] </p><p></p><p>\u261e Mapel : Matematika</p><p>\u261e Cabang : - </p><p>\u261e Materi : Turunan Fungsi Aljabar</p><p>\u261e Kelas/Jenjang : 11 SMA</p><p>\u261e Kata Kunci : Derivatif</p><p> _______________________________________________</p><p></p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<p><strong>Jawab:</strong></p><p>0</p><p></p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>[tex]F(x) = 50\\\\F(x) = 50x^{0} \\\\F&#039;(x) = (0.50)x^{0-1}\\\\F&#039;(x) = 0\\\\[/tex]</p><p>Jadi, turunan dari F(x) = 50 adalah 0.</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "hasil-dari-45000m-km-548",
+            "question": "Hasil dari 45.000m =... Km\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Karena </strong><strong>1</strong><strong> </strong><strong>km </strong><strong>=</strong><strong> </strong><strong>1000</strong><strong>m</strong></p><p><strong>Jadi,</strong></p><p><strong>4</strong><strong>5</strong><strong>.</strong><strong>0</strong><strong>0</strong><strong>0</strong><strong> </strong><strong>m </strong><strong>=</strong><strong> </strong><strong>45.000 : 1.000</strong></p><p><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong>=</strong><strong> </strong><strong>45 km</strong></p><p><strong> </strong></p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>45 km</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>   </p><p>     = 45.000/1000</p><p>     = 45</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "nilai-dari-sin-30-cos-90-tan-45-adalah-202",
+            "question": "Nilai dari sin 30\u00b0+ cos 90\u00b0 \u2013 tan 45\u00b0 \r\n\r\n\r\n\r\nadalah...\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawab:</strong></p><p>-1/2</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>\nsin 30\u00b0 = 1/2\n</p><p>cos 90\u00b0 = 0\n</p><p>tan 45\u00b0 = 1\n</p><p>\n</p><p>Sehingga :\n</p><p>\n</p><p>sin 30\u00b0 + cos 90\u00b0 - tan 45\u00b0\n</p><p>= 1/2 + 0 - 1\n</p><p>= -1/2\n</p><p>\n</p><p>\n</p><p>\n</p><p>Semoga membantu</p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>30,0174524064\u2070</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>maaf jika salah</p>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

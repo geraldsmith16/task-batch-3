@@ -1,0 +1,148 @@
+{
+    "question": "Sebuah segitiga memiliki sisi bc panjangnya 6 cm,dan sisi ac 8 cm, berapa cm kah sisi miring dari segitiga tersebut (ab)?",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "<p><strong>Jawaban:</strong></p><p>10 cm </p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p></p><p>ac \u00b2  + bc\u00b2 = ab\u00b2</p><p>8\u00b2 + 6\u00b2 = ab\u00b2</p><p>64 + 36 = ab\u00b2</p><p>100 = ab\u00b2</p><p>ab = </p><p>[tex] \\sqrt{100} [/tex]</p><p>ab = 10 </p><p></p><p>jadi sisi miringnya 10 cm</p><p></p>",
+            "attachments": []
+        },
+        {
+            "answer": "<p>ab = 10 cm</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>[tex] \\sqrt{ {6}^{2}  +  {8}^{2} }  = 10[/tex]</p><p></p>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "hitunglah-volume-bolajika-memiliki-diameter-6cm-806",
+            "question": "Hitunglah volume bola,jika memiliki diameter 6cm",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawab:</strong></p><p>113,14 cm\u00b3</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>v = 4/3 \u03c0 r\u00b3 = 4/3 \u00d7 22/7 \u00d7 3\u00b3 = 36 \u00d7 22/7 = 792/7 = 113,14 cm\u00b3</p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<p></p><h2>[tex]{\\sf{\\small\\color{blue}{Pertanyaan}}}[/tex]</h2><p></p><p>Hitunglah volume bola, jika memiliki diameter 6 cm</p><p></p><h2>[tex]{\\sf{\\small\\color{blue}{Jawaban}}}[/tex]</h2><p></p><p><strong>Ket</strong><strong>erangan</strong><strong> </strong><strong>:</strong></p><ul><li>V = Volume</li><li>d = Diameter</li><li>r = Jari-jari</li><li>\u03c0 = [tex] \\sf{ \\frac{22}{7} }[/tex] atau 3,14</li></ul><p></p><p><strong>Dik</strong><strong> </strong><strong>:</strong></p><p>d = 6 cm</p><p></p><p><strong>Dit </strong><strong>:</strong></p><p>V = ....?</p><p></p><p>\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550</p><p></p><p>Sebelum mencari volume, cari dulu jari-jarinya.</p><p>[tex] \\boxed {\\sf{ r \\:  =  \\:  \\frac{d}{2} }}[/tex]</p><p>[tex] \\:  \\sf{r \\:  =  \\:  \\frac{6}{2} } \\\\ [/tex]</p><p>[tex] \\boxed{ \\sf{r \\:  =  \\:3 }}[/tex]</p><p></p><p>\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550</p><p></p><p></p><p>[tex]  \\boxed{\\sf{V \\:  =  \\:  \\frac{4}{3} \\:  \\times  \\: \\pi \\:  \\times  \\:  r \\:  \\times  \\: r \\:  \\times  \\: r}}[/tex]</p><p>[tex] \\sf{ \\: V \\:  =  \\:  \\frac{4 }{3} \\:  \\times  \\:  \\frac{22}{7}  \\:  \\times  \\: 3 \\:  \\times  \\: 3 \\:  \\times  \\: 3 } \\\\ [/tex]</p><p>[tex]  \\: \\sf{V \\:  =  \\: \\frac{4 \\:  \\times  \\: 22 \\:  \\times  \\: 3 \\:  \\times  \\: 3 \\:  \\times  \\: 3}{3 \\: \u00d7 \\: 7}  } \\\\ [/tex]</p><p>[tex] \\:  \\sf{V \\:  =  \\:  \\frac{2.376}{21} } \\\\ [/tex]</p><p>[tex] \\boxed{ \\sf{V \\:  =  \\:  113,14 }}[/tex]</p><p></p><h3>Jadi, volume dari bola tersebut adalah 113,14 cm\u00b3.</h3><p></p><p>\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550</p><p></p><h2>=====================</h2><p></p><p>[tex] \\huge \\colorbox{pink}{Semoga Membantu}[/tex]</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "faktor-dari-2x2-11x-15-adalah-kasih-solusi-kak-287",
+            "question": "Faktor dari 2x2 + 11x + 15 adalah...\r\nkasih solusi kak\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>(2x+5) (x+3) </p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>cara nya klo gw </p><p>angka faktor yang di kali hasilnya 15,dijumlah 11</p><p>gitu kurang lebih, klo blm paham ngefaktorin bisa cek di google aja pelajarin. </p><p>semoga membantu</p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>( 2\u00d7+5 ) ( \u00d7+3 )</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>2\u00d72 + 11\u00d7 + 15</p><p>2\u00d72 + 6\u00d7 + 5\u00d7 + 15</p><p>2\u00d7 (\u00d7 +3 ) + 5 ( \u00d7 +3 )</p><p><strong>(</strong><strong> </strong><strong>2</strong><strong>\u00d7</strong><strong>+</strong><strong>5</strong><strong> </strong><strong>)</strong><strong> </strong><strong>(</strong><strong> </strong><strong>\u00d7</strong><strong>+</strong><strong>3</strong><strong> </strong><strong>)</strong></p><p><strong>Semoga</strong><strong> membantu</strong><strong>:</strong><strong>)</strong></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-kak-pakai-cara-ya-no-ngasal-188",
+            "question": "Tolong kak\r\npakai cara ya\r\nno ngasal\u200b\u200b",
+            "attachments": [
+                "question-attachments/tolong-kak-pakai-cara-ya-no-ngasal-188-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawab:</strong></p><p>jawabannya 6\u221a5</p>",
+                    "attachments": [
+                        "answer-attachments/tolong-kak-pakai-cara-ya-no-ngasal-188-1.jpeg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "29-alan-mengendarai-sepeda-motor-jaraknya-480-km-kecepatan-rat-396",
+            "question": "29. Alan mengendarai sepeda motor, jaraknya 480 km, kecepatan rata-ratanya 60. Berapa    jam ia akan sampai ?\r\na. 12\r\nb. 8\r\nc. 6,4\r\nd. 6\r\n\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>waktu 480 km : 60 km/jam = 8 jam</p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>b. 8</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>waktu</p><p>=jarak/kecepatan</p><p>=480/60</p><p>=8</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tuliskan-bunyi-sila-pancasila-yang-sesuai-dengan-toleransi-antar-271",
+            "question": "Tuliskan bunyi sila pancasila yang sesuai dengan toleransi antar umat beragama \u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>Ketuhanan Yang Maha Esa</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>aku gak ngasal,jadikan jawaban terbaik</p><p>follow aku</p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>Ketuhanan yang maha Esa</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>semoga membantu :)</p><p></p><p>jadikan jawaban tercerdas :)</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pak-ahmad-memiliki-sebidang-tanah-berbentuk-persegi-panjang-dgn-u-429",
+            "question": "Pak Ahmad memiliki sebidang tanah berbentuk persegi panjang dgn ukuran panjang 20 meter dan lebar 15 meter, jika tanah itu terjual dgn harga Rp 750.000/m2, maka uang yg di peroleh pak Ahmad adalah....\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p> luas = 20 x 15 = 300m\u00b2</p><p>750.000 x 300 = 225.000.000</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "soal-no12pak-budi-meminjam-uang-di-banksebesar-rp-100000000-de-580",
+            "question": "Soal no12pak budi meminjam uang di banksebesar rp 1.000.000,00 denganbunga 18 pertahun.tentukakeseluruhan nomimal yany harusdikembalikan oleh pak budi jikaakan meminjam selama 6 bulan",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>1.090.000</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>Pinjam : 1.000.000,00</p><p>Bunga : 18</p><p>Bunga setahun :</p><p>= 1.000.000 \u00d7 18/100 = 180.000</p><p>Bunga sebulan :</p><p>= 180.000 : 12 = 15.000</p><p>Bunga 6 bulan :</p><p>= 15.000 \u00d7 6 = 90.000</p><p>Jadi banyak yang dikembalikan </p><p>= 1.000.000 + 90.000</p><p>= <strong>1</strong><strong>.</strong><strong>0</strong><strong>9</strong><strong>0</strong><strong>.</strong><strong>0</strong><strong>0</strong><strong>0</strong></p><p><strong>Semoga</strong><strong> membantu</strong><strong>:</strong><strong>)</strong></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-bantu-di-jawab-ya-kk-secepatnya-jangan-ngasal-627",
+            "question": "Tolong bantu di jawab ya kk secepatnya jangan ngasal!!\u200b",
+            "attachments": [
+                "question-attachments/tolong-bantu-di-jawab-ya-kk-secepatnya-jangan-ngasal-627-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>no 2. Rp 720.000-20%=576.000</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "selembar-karton-berbentuk-persegi-dengan-panjang-sisi-18cmpada-k-174",
+            "question": "Selembar karton berbentuk persegi dengan panjang sisi 18cm.pada keempat titik sudutnya dibuat potongan berbentuk persegi dengan ukuran yang sama.sisa potongan karton dilipat ke atas sehingga diperoleh sebuah kotak terbuka.agar volume kotak maksimum tentukan:a)tinggi kotak. b) panjang sisi. c). volume maksimum kotak",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>C.volume maksimum kotak</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "5-berat-bersih-adalah-pengertian-dari-a-bruto-b-neto-c-tara-550",
+            "question": "5. Berat bersih adalah pengertian dari...    a Bruto\r\nb. Neto\r\nc. Tara\r\nd. Kemasan\r\n6. Selisih antara bruto dan neto adalah pengertian dari ...,\r\na. Bruto\r\nb, Neto\r\nc. Tara\r\nd. Kemasan\r\n7 Pak Ague manual bare dengan harga per mangkok Rp 10.000 Pak Agus\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p></p><p>5). B.Neto</p><p>6).C.Tara</p><p></p><p>semoga membantu</p>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,150 @@
+{
+    "question": "sebuah rumah memiliki 3 buah ac yang berdaya 260 watt. ac tersebut digunakan 10 jam setiap hari hitunglah besarnya energi listrik yang digunakan masing-masing aset tersebut selama 30 hari (1 bulan)!\u200b",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "<p><strong>Jawaban:</strong></p><p>w30 hari = 234 KWh</p><p><strong>Penjelasan:</strong></p><p>w = n x p x t</p><p>   = 3 x 260 x 10</p><p>   = 7800 Wh</p><p>   = 7,8 KWh</p><p></p><p>w30 hari = 7,8 x 30</p><p>               = 234 KWh</p><p>  </p>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "bagaimana-agar-bengkel-pada-saat-bermain-ketapel-dapat-terlontar-736",
+            "question": "Bagaimana agar bengkel pada saat bermain ketapel dapat terlontar jauh \u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "dwngan cara mencium ketapel tersebut sampai semriwing flying unch",
+                    "attachments": []
+                },
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>penarikan ketapel,arah ketapel,dan kekuatan angin memengaruhi gerak lambatny krikil saat bermain ketapel,, jadi saat menarik dan mengarahkan ketapel harus tepat dan benar untuk kerikil yg jauh </p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suatu-kumpulan-bakteri-diletakkan-3-cm-di-depan-lensa-sebuah-mikr-501",
+            "question": "Suatu kumpulan bakteri diletakkan 3 cm di depan lensa sebuah mikroskop. Jarak fokus lensa    objektif = 2.7 cm. Jika pengamatan tidak berakomodasi, jarak lensa objektif dan okuler adalah\r\n28 cm. Tentukanlah:\r\na. Jarak fokus lensa okuler! \r\nb. Berapa perbesaran total yang diperoleh? \u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>a. fok = 1 cm, mgkin ada salah data soal karena pada mikroskop berlaku fok &gt; fob</p><p>b.M total = 250 kali</p><p></p><p><strong>Penjelasan:</strong></p><p>Dasar teori</p><p>MIKROSKOP</p><p>Terdiri atas 2 lensa positif yaitu:</p><p>-Lensa objejtif : dekat dgn benda/objek</p><p>-Lensa Okuler : dekat dengan mata</p><p></p><p>Benda Sob di letakkan pada :</p><p>fob &lt; Sob &lt; 2 fob</p><p></p><p>Sifat bayangan lensa objektif</p><p>1.Nyata</p><p>2.Terbalik</p><p>3.Diperbesar</p><p></p><p>Bayangan lensa objektif menjadi benda untuk lensa okuler</p><p></p><p>Pengamatan dengan mata Berakomodasi maksimum</p><p>S&#039;ok = - Sn </p><p>Sn = Titik dekat mata</p><p>Mata normal Sn = 25 cm</p><p></p><p>Perbesaran mikroskop</p><p>M = |S&#039;ob/Sob| x |Sn/fok + 1|</p><p></p><p>Panjang Mikroskop (jarak lensa objektif dan lensa okuler):</p><p>d = S&#039;ob + Sok</p><p></p><p></p><p>Pengamatan dengan mata tanpa Akomodasi</p><p>S&#039;ok = di jauh tak hingga</p><p>Sok = fok</p><p></p><p>Perbesaran mikroskop</p><p>M = |S&#039;ob/Sob| x |Sn/fok|</p><p></p><p>Panjang Mikroskop (jarak lensa objektif dan lensa okuler):</p><p>d = S&#039;ob + fok</p><p></p><p>Berlaku rumus lensa :</p><p>1/fob = 1/Sob + 1/S&#039;ob</p><p>1/fok = 1/Sok + 1/S&#039;ok</p><p></p><p>dimana :</p><p>Sob = Jarak benda ke lensa objektif</p><p>S&#039;ob = Jarak bayangan lensa objektif</p><p>Sok = Jarak benda lensa okuler</p><p>S&#039;ok = Jarak bayangan lensa okuler ( bayangan akhir)</p><p>fob = Jarak fokus lensa objektif</p><p>fok = Jarak fokus lensa okuler</p><p></p><p>Diketahui</p><p>Sob = 3 cm</p><p>fob = 2,7 cm</p><p>d = 28 cm</p><p>Pengamatan tanpa akomodasi</p><p>Ditanya</p><p>a.Jarak fokus lensa okuler</p><p>b.Perbesaran total</p><p>Penyelesaian</p><p>a.Kita hitung dulu jarak bayangan objektif</p><p>1/fob = 1/Sob + 1/S&#039;ob</p><p>1/2,7 = 1/3 + 1/S&#039;ob</p><p>(10 - 9)/27 = 1/S&#039;ob</p><p>S&#039;ob = 27 cm</p><p>Panjang Mikroskop (Jarak lensa objektif dan okuler)</p><p>d = S&#039;ob + fok</p><p>28 = 27 + fok</p><p>fok = 1 cm</p><p></p><p>b.Perbesaran total</p><p>M = |S&#039;ob/Sob| x |Sn/fok|</p><p>    = |27/2,7| x |25/1|</p><p>    = 250 kali</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "gelombang-mekanik-adalah-a-getaran-yang-merambat-melalui-med-233",
+            "question": "Gelombang mekanik adalah ...    A. getaran yang merambat melalui medium tanpa diikuti perambatan medium itu sendiri\r\nB. bentuk lengkungan yang berupa lembah dan bukit\r\nC. bentuk lintasan rapatan dan\r\nregangan\r\nD. gelombang yang tidak memerlukan medium dalam\r\nperambatannya\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>a.getaran yang merambat melalui medium tanpa diikuti perlambatan medium itu sendiri</p><p><strong>Penjelasan:</strong></p><p>Gelombang mekanik adalah sebuah gelombang yang dalam perambatannya memerlukan medium, yang menyalurkan energi untuk keperluan proses penjalaran sebuah gelombang. </p><p></p><p>semoga bermanfaat</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "taraf-intensitas-sebuah-mesih-adalah-112",
+            "question": "Taraf intensitas sebuah mesih adalah\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>adalah 60dB ( dengan acuan intensitas ambang pendengaran 10^-12 watt /m^2)</p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>taraf intensitas sebuah mesin sebuah mesin adalah 60dB ( dengan acuan intensitas ambang pendengaran 10^-12 watt /m^2). jika tafar intensitas di dalam sebuah pabrik yang menggunakan beberapa mesin adalah 80dB ,maka jumlah mesin yang digunakan </p><p><strong>Penjelasan:</strong></p><h2><strong><em><u>SEMOGA MEMBANTU:)</u></em></strong></h2><h2><strong><em><u>SEMOGA MEMBANTU:)FOLLOW YAH ENTAR DI FOLLBACK:)</u></em></strong></h2>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suatu-benda-bergerak-lurus-beraturan-dalam-selang-waktu-5-dt-m-819",
+            "question": "Suatu benda bergerak lurus beraturan dalam selang waktu = 5 dt, menempuh jarak = 30m. tentukan kecepatan benda\u2026    A\r\n10 m/dt\r\n\r\nB\r\n6 m/dt\r\n\r\nC\r\n12 m/dt\r\n\r\nD\r\n150 m/dt\r\n\r\nE\r\n15 m/dt\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>B. 6 m/dt</p><p><strong>Penjelasan:</strong></p><p>K=Jarak : waktu</p><p>  =30m : 5 dt</p><p>  =6 m/dt</p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p></p><p><strong>Rumus</strong><strong> </strong><strong>kecepatan</strong><strong> </strong><strong>benda</strong><strong> </strong><strong>=</strong><strong> </strong><strong>Jarak</strong><strong> </strong><strong>tempuh</strong><strong> </strong><strong>:</strong><strong> </strong><strong>waktu</strong></p><p></p><p><strong>Kecepatan</strong><strong> </strong><strong>benda</strong><strong> </strong><strong>=</strong><strong> </strong><strong>3</strong><strong>0</strong><strong> </strong><strong>meter</strong><strong> </strong><strong>:</strong><strong> </strong><strong>5</strong><strong> </strong><strong>detik</strong></p><p><strong>Kecepatan</strong><strong> </strong><strong>benda</strong><strong> </strong><strong>=</strong><strong> </strong><strong>6</strong><strong> </strong><strong>meter</strong><strong> </strong><strong>/</strong><strong> </strong><strong>detik</strong></p><p></p><p><strong>Jadi</strong><strong> </strong><strong>jawabanya</strong><strong> </strong><strong>yang</strong><strong> </strong><strong>B</strong><strong>.</strong><strong> </strong><strong>6</strong><strong> </strong><strong>m</strong><strong>/</strong><strong>dt</strong></p><p></p><p><strong>Semoga</strong><strong> </strong><strong>membantu</strong><strong> </strong><strong>kamu</strong></p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "rangkuman-mengenai-titik-berat-861",
+            "question": "Rangkuman mengenai titik berat\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>Titik berat terletak pada titik dimana resultan momen gaya dari setiap gaya gravitasi partikel berjumlah nol. Ketika momen gaya yang bekerja pada benda ini bernilai nol, hal ini menunjukkanbahwa benda dalam keadaan seimbang.  Untuk benda yang simetris, titik berat terletak poda perpotongan garis-garis sumbu simetrisnya</p><p><strong>Penjelasan:</strong></p><p><em>s</em><em>e</em><em>m</em><em>o</em><em>g</em><em>a</em><em> </em><em>m</em><em>e</em><em>m</em><em>b</em><em>a</em><em>n</em><em>t</em><em>u</em><em> </em><em>*</em><em>_</em><em>*</em></p><p><strong><em>j</em></strong><strong><em>a</em></strong><strong><em>n</em></strong><strong><em>g</em></strong><strong><em>a</em></strong><strong><em>n</em></strong><strong><em> </em></strong><strong><em>l</em></strong><strong><em>u</em></strong><strong><em>p</em></strong><strong><em>a</em></strong><strong><em> </em></strong><strong><em>f</em></strong><strong><em>o</em></strong><strong><em>l</em></strong><strong><em>l</em></strong><strong><em>o</em></strong><strong><em>w</em></strong><strong><em>.</em></strong></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "23amplitudo-dari-gelombang-yang-ditampilkan-pada-gambar-dibawah-688",
+            "question": "23.Amplitudo dari gelombang yang ditampilkan pada     gambar dibawah ini adalah... \r\na. I meter\r\nb. 2 meter\r\nc. 4 meter\r\nd. 8 meter\u200b",
+            "attachments": [
+                "question-attachments/23amplitudo-dari-gelombang-yang-ditampilkan-pada-gambar-dibawah-688-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p> <strong>Amplitudo merupakan jarak dari puncak (lembah) ke titik x = 0.</strong>Berdasarkan gambar, jarak dari lembah ke puncak sebesar 2 m. Maka, jarak dari titik x = 0 ke puncak sebesar begin mathsize 14px style 1 half cross times 2 end style = 1 m. </p><p><strong><em><u>Jadi, nilai amplitudo pada gambar di atas sebesar 1 m.undefined </u></em></strong></p><p></p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>a.1 meter</p><p><strong>Penjelasan:</strong></p><p>itu jawabanya,</p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-gerak-dari-a-b-c-memerlukan-waktu-03-detik-maka-frekuensi-d-321",
+            "question": "Jika gerak dari A-B-C memerlukan waktu 0.3 detik maka frekuensi dan periode getarannya adalah    a.0,6 Hz dan 1,67s\r\nb.1,67 Hz dan 0,6 s\r\nc.0,3 Hz dan 3,3 s\r\nd.3,3 Hz dan 0,3 s\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>b.1,67 Hz dan 0,6 s</p><p><strong>Penjelasan:</strong></p><p>maaf kalo salah,semoga membantu</p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>B. 1,67 Hz dan 0,6 s</p><p><strong>Penjelasan:</strong></p><p>jika sebuah bandul bergerak dari A-B-C saja maka terhitung 1/2 getaran</p><p>f = n/t</p><p>f = \u00bd  getaran/ 0,3 sekon</p><p>f = 1,67 getaran/sekon</p><p>f = 1,67 Hz</p><p></p><p>untuk periodenya,</p><p></p><p>T = t/n</p><p>T = 0,3 sekon/1/2 getaran</p><p>T = 0,6 sekon/getaran</p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "benda-benda-di-bawah-ini-yang-merupakan-contoh-benda-dalam-keadaa-633",
+            "question": "Benda-benda di bawah ini yang merupakan contoh benda dalam keadaan stabil adalah nomor...    A. (2) dan (3)\r\nB. (1),(2),(3), dan (4)\r\nC. (1), (2), dan (3)\r\nD. (2) dan (4)\r\nE. (3) dan (4)\r\n\u200b",
+            "attachments": [
+                "question-attachments/benda-benda-di-bawah-ini-yang-merupakan-contoh-benda-dalam-keadaa-633-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>a.(2) dan (3) </p><p><strong>Penjelasan:</strong></p><p>maaf kalo salah,semoga membantu</p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>2 dan 3</p><p><strong>Penjelasan:</strong></p><p>maapin kalo salah</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "termometer-celcius-dan-reamur-digunakan-untuk-mengukur-suhu-suatu-505",
+            "question": "termometer celcius dan reamur digunakan untuk mengukur suhu suatu benda ternyata jumlah skala yang ditunjukkan oleh kedua termometer = 90o. berapa oc danor suhu benda tersebut?\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>TC = 50\u00b0C</p><p><strong>Penjelasan:</strong></p><p>Dasar teori</p><p>TERMOMETER</p><p>Termometer Skala Reamur, Celcius, Fahrenheit dan Kelvin menggunakan batas titik beku air dan titik didih air untuk membuat skala pengukurannya.</p><p></p><p>                              R       C           F          K</p><p>Titik Beku Air        0        0          32       273</p><p>Titik Didih Air       80      100       212      373</p><p>Selisih suhu         80       100      180       100.......bagi 20</p><p>Rumus                 4n       5n       9n+32   5n+273</p><p>Jadi kita dapat  Rumus masing masing skala</p><p>TR = 4n</p><p>TC = 5n</p><p>TF = 9n + 32</p><p>TK = 5n + 273</p><p>dimana n adalah variabel</p><p>Untuk menghitung/konversi dari satu skala ke skala lain kita tentukan dulu nilai n dari suhu/skala yg diketahui di soal.</p><p></p><p>Diketahui</p><p>TR + TC = 90</p><p>Ditanya</p><p>TR dan TC</p><p>Penyelesaian          </p><p>Dari dasar teori diatas kita ketahui</p><p>TR = 4n</p><p>TC = 5n</p><p>TR + TC = 90</p><p>4n + 5n = 90</p><p>9n = 90</p><p> n = 10</p><p>TC = 5n = 5 \u00d7 10 = 50\u00b0 C</p>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

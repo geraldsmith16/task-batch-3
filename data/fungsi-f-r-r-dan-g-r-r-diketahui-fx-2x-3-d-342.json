@@ -1,0 +1,138 @@
+{
+    "question": "Fungsi f : R \u2192 R dan g : R \u2192 R. Diketahui : f(x) = 2x \u2212 3 dan f(x) = x2 + 2x \u2212 3.    Nilai dari (fog)(2) = \u22ef\r\nA. 0\r\n\r\nB. 1\r\n\r\nC. 7\r\n\r\nD. 8\r\n\r\nE. 11\u200b",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "<p><em>Jika diketahui fungsi f: R-&gt; R dan g\n: R\u2192 R dengan ketentuan f(x) = 2x - 3 dan g(x) = x\u00b2 + 2x - 3, maka</em> <em><strong>nilai dari fog(2) adalah 7. \u00a0 \u00a0 (C)</strong></em></p><p><em></em></p><h2><u>Pembahasan</u>\n</h2><p><strong>Fungsi komposisi</strong> adalah <u><em>suatu penggabungan fungsi dari operasi dua jenis fungsi yaitu f(x) dan g(x) sehingga menghasilkan fungsi baru</em></u>.\n</p><p>\n</p><p>Operasi fungsi komposisi dinotasikan dengan \"o\" dibaca sebagai bundaran. Fungsi baru yang terbentuk dari fungsi f(x) dan fungsi g(x) sebagai berikut. \u00a0</p><ul><li><strong>(fog(x)) = f(g(x))</strong> ---&gt; maksudnya adalah nilai x pada fungsi f(x) diganti dengan fungsi g(x)\n</li><li><strong>(gof(x)) = g(f(x)) </strong>---&gt; maksudnya adalah nilai x pada fungsi g(x) diganti dengan fungsi f(x)</li></ul><h2><u></u></h2><h2><u>Penyelesaian</u></h2><p><em><strong>diket:</strong></em></p><p>f(x) = 2x - 3</p><p>g(x) = x\u00b2 + 2x - 3</p><p></p><p><em><strong>ditanya:</strong></em></p><p>nilai fog(2).....?</p><p></p><p><em><strong>jawab:</strong></em></p><p>- menentukan fungsi fog(x) lebih dulu</p><p> \u00a0fog(x) = f(g(x))</p><p> \u00a0fog(x) = 2(x\u00b2 + 2x - 3) - 3</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 2x\u00b2 + 4x - 6 - 3</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 2x\u00b2 + 4x - 9</p><p></p><p>- menentukan nilai fog(2)</p><p> \u00a0fog(x) = 2x\u00b2 + 4x - 9</p><p> \u00a0fog(2) = 2(2)\u00b2 + 4(2) - 9</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 8 + 8 - 9</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 7</p><p> </p><h3><u>Kesimpulan</u></h3><p><em><strong>Jadi, nilai dari fog(2) adalah 7. \u00a0 \u00a0 (C)</strong></em></p><p></p><h3><u>Pelajari Lebih Lanjut</u>\n</h3><p>- berbagai latihan fungsi komposisi: \u00a0</p><ul><li>brainly.co.id/tugas/34480586\n</li><li>brainly.co.id/tugas/34431660\n</li><li>brainly.co.id/tugas/29473682\n</li><li>brainly.co.id/tugas/29507677\n</li><li>brainly.co.id/tugas/34539635</li></ul><p>\n</p><h3><u>Detail Jawaban</u>\n</h3><p>Kelas: 10 \u00a0</p><p>Mapel: Matematika \u00a0</p><p>Bab: Fungsi \u00a0</p><p>Materi: Fungsi komposisi \u00a0\n</p><p>Kode kategorisasi: 10.2.3 \u00a0</p><p>Kata kunci: f(x) = 2x - 3, g(x) = x\u00b2 + 2x - 3, nilai fog(2)</p>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "the-rooms-are-there-in-a-house-are-number-255",
+            "question": "The rooms are there in a house are number\r\n\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>disusun apa gimana? ntar aku jawab di komentar</strong></p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-nilai-p-pada-gambar-dibawah-ini-beserta-penjelasannya-667",
+            "question": "Tentukan nilai p pada gambar dibawah ini!\r\n\r\n\r\n #beserta penjelasannya",
+            "attachments": [
+                "question-attachments/tentukan-nilai-p-pada-gambar-dibawah-ini-beserta-penjelasannya-667-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "<p>Jawab:</p><p>10\u221a3cm</p><p>Penjelasan dengan langkah-langkah:</p><p>Kita pakai rumus phytagoras</p><p></p><p>A\u00b2=C\u00b2-B\u00b2</p><p>A\u00b2=20\u00b2-10\u00b2</p><p>A\u00b2=400-100</p><p>A\u00b2=300</p><p>A=\u221a300=\u221a100\u00d73</p><p>A=10\u221a3cm</p><p></p><p>Jadi nilai p adalah 10\u221a3cm</p><p></p><p>\u2193\u2193\u2193\u2193\u2193\u2193\u2193\u2193\u2193\u2193\u2193\u2193\u2193\u2193\u2193\u2193\u2193\u2193\u2193\u2193\u2193\u2193\u2193\u2193\u2193\u2193\u2193\u2193</p><p></p><p>Semoga membantu</p><p></p><p>Jadikan jawaban tercerdas thx!</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-sya-untuk-membantu-soal-ini-karna-besok-di-kumpulkan-527",
+            "question": "Tolong sya untuk membantu soal ini karna besok di kumpulkan\u200b",
+            "attachments": [
+                "question-attachments/tolong-sya-untuk-membantu-soal-ini-karna-besok-di-kumpulkan-527-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "<p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>32.L = \u03c0r\u00b2 = 22/7 \u00d7 21 \u00d7 21</p><p>                 = 22 \u00d7 3 \u00d7 21 = 1.386</p><p></p><p>33.V = luas alas \u00d7 tinggi</p><p>        = 1/2 \u00d7 6 \u00d7 8 \u00d7 13</p><p>        = 24 \u00d7 13 = 312 cm\u00b3</p><p></p><p>34.p = 2m</p><p>      l  = 1m</p><p>      t  = 50 cm = 0,5 m</p><p>panjang aluminium</p><p>4(p + l + t) = 4(2+1+0,5)</p><p>                  = 4(3,5) = 14 m</p><p>Biaya yang di perlukan</p><p>14m \u00d7 30.000 per meter </p><p>Rp. 420.000,00</p><p></p><p>35. 176 \u00d7 8 = 1.408</p><p>       175 \u00d7 6 = 1.050</p><p>1.408 - 1.050 = 358</p><p>358 : 2 = 179 cm</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-fugsi-fx-x2-3x-15-nilai-fungsi-untuk-x-2-633",
+            "question": "Diketahui fugsi f(x) = x2 + 3x \u2013 15. Nilai fungsi untuk x = -2 adalah \u2026\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>f(x) = x\u00b2 + 3x - 15</p><p>f(-2) = (-2)\u00b2 + 3(-2) - 15</p><p>f(-2) = 4 - 6 - 15</p><p>f(-2) = -2 - 15</p><p>f(-2) = -17</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "27-suatu-segitiga-sma-sisi-memiliki-panjang-alas-20cm-dan-tinggi-243",
+            "question": "27 suatu segitiga sma sisi memiliki panjang alas 20cm dan tinggi 10 cm luas segitiga adalah    a.90cm\u00b2\r\nb.100cm\u00b2\r\nc.110cm\u00b2\r\nd.120cm\u00b2\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>jawabannya C</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>maaf klo salah</p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>L = 1/2 \u00d7 a \u00d7 t</p><p>   = 1/2 \u00d7 20 \u00d7 10</p><p>   = 1/2 \u00d7 200 = 100 cm\u00b2</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-suku-ke-6-dan-suku-ke-12-suatu-barisan-aritmatika-adala-126",
+            "question": "Diketahui suku ke-6 dan suku ke-12 suatu barisan aritmatika adalah 13 dan 25.Tentukan suku ke 25\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>deret Aritmetika</p><p>U6 = 13</p><p>U12=25</p><p></p><p>Un = a + (n-1)b</p><p>U6= a+(6-1)b</p><p>U6= a+5b</p><p>13=a+5b  </p><p><em>a</em><em>=</em><em>1</em><em>3</em><em>-</em><em>5</em><em>b</em><em> </em><em> </em><em> </em><em>------------pers1</em></p><p></p><p></p><p>U12= a+(12-1)b</p><p>25= a+11b</p><p>25= <em>1</em><em>3</em><em>-</em><em>5</em><em>b</em><em> </em>+11b  masukkan <em>p</em><em>e</em><em>r</em><em>s</em><em>1</em></p><p>12=6b</p><p>b=2</p><p></p><p><em>a=13-5b   ------------pers1</em></p><p>a=13-5(2)</p><p>=3</p><p></p><p><strong>U</strong><strong>2</strong><strong>5</strong><strong> </strong><strong>=</strong><strong> </strong><strong>a</strong><strong>+</strong><strong>(</strong><strong>2</strong><strong>5</strong><strong>-</strong><strong>1</strong><strong>)</strong><strong>b</strong></p><p>= 3+24(2)</p><p>= <strong>5</strong><strong>1</strong></p><p></p><p></p><p><em>p</em><em>e</em><em>l</em><em>a</em><em>j</em><em>a</em><em>r</em><em>i</em><em> </em><em>s</em><em>o</em><em>a</em><em>l</em><em> </em><em>b</em><em>e</em><em>r</em><em>i</em><em>k</em><em>u</em><em>t</em><em>:</em></p><p><em>https://brainly.co.id/tugas/24577345</em></p><p><em>https://brainly.co.id/tugas/7640494</em></p><p></p><p><em>=</em><em>=</em><em>=</em><em>=</em><em>=</em><em>=</em><em>=</em><em>=</em><em>=</em><em>=</em><em>=</em><em>=</em><em>=</em><em>=</em><em>=</em><em>=</em><em>=</em><em>=</em><em>=</em><em>=</em><em>=</em><em>=</em><em>=</em></p><p><em>M</em><em>a</em><em>p</em><em>e</em><em>l</em><em>:</em><em> </em><em>M</em><em>a</em><em>t</em><em>e</em><em>m</em><em>a</em><em>t</em><em>i</em><em>k</em><em>a</em></p><p><em>K</em><em>e</em><em>l</em><em>a</em><em>s</em><em>:</em><em>1</em><em>1</em></p><p><em>k</em><em>o</em><em>d</em><em>e</em><em> </em><em>s</em><em>o</em><em>a</em><em>l</em><em>:</em><em>2</em></p><p><em>B</em><em>a</em><em>b</em><em>:</em><em> </em><em>b</em><em>a</em><em>r</em><em>i</em><em>s</em><em>a</em><em>n</em><em>,</em><em> </em><em>d</em><em>e</em><em>r</em><em>e</em><em>t</em></p><p><em>k</em><em>o</em><em>d</em><em>e</em><em>:</em><em> </em><em>1</em><em>1</em><em>.</em><em>2</em><em>.</em><em>7</em></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "21-persamaan-garis-singgung-lingkaran-x-22-y-12-26-d-224",
+            "question": "21. Persamaan garis singgung lingkaran (x + 2)2 + (y    - 1)2 = 26 di titik (-3, 6) adalah ...\r\na. x + 5y + 33 = 0\r\nd. 5x + y - 33 = 0\r\nb. x + 2y - 5 = 0\r\ne. 5x \u2013 y + 33 = 0\r\nc. X - 5y + 33 = 0\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p><strong>C</strong><strong>.</strong><strong> </strong><strong>x</strong><strong> </strong><strong>-</strong><strong> </strong><strong>5y</strong><strong> </strong><strong>+</strong><strong> </strong><strong>3</strong><strong>3</strong><strong> </strong><strong>=</strong><strong> </strong><strong>0</strong></p><p></p><p></p><p>Semoga membantu, maaf jikalau ada kesilapan. silahkan dikomentari..</p><p></p>",
+                    "attachments": [
+                        "answer-attachments/21-persamaan-garis-singgung-lingkaran-x-22-y-12-26-d-224-1.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "mohon-bnatuaaaanyaa-pakai-jalan-400",
+            "question": "Mohon. bnatuaaaanyaa pakai jalan. ....\u200b",
+            "attachments": [
+                "question-attachments/mohon-bnatuaaaanyaa-pakai-jalan-400-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "<p>Jawab:</p><p>80\u00b0(D)</p><p>Penjelasan dengan langkah-langkah:</p><p>Dik:</p><p>Bac=60\u00b0</p><p>Abc=40\u00b0</p><p>Dit:</p><p>Acb?</p><p>Jawab:</p><p>180\u00b0=60\u00b0+40\u00b0+x\u00b0</p><p>180\u00b0=100\u00b0+x\u00b0</p><p>X\u00b0=180\u00b0-100\u00b0</p><p>X=80\u00b0(D)</p><p></p><p>Jadi,sudut acb memiliki sudut sebesar 80\u00b0(D)</p><p></p><p>\u2193\u2193\u2193\u2193\u2193\u2193\u2193\u2193\u2193\u2193\u2193\u2193\u2193\u2193\u2193\u2193\u2193\u2193\u2193\u2193\u2193\u2193\u2193\u2193\u2193\u2193\u2193\u2193</p><p></p><p>Semoga membantu</p><p></p><p>Jadikan jawaban tercerdas thx!</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "perolehan-data-warna-kesukaan-siswa-kelas-v-sdn-suka-cita-yang-be-430",
+            "question": "Perolehan data warna kesukaan siswa kelas V SDN Suka Cita yang berjumlah 25 siswa.    Adalah sebagai berikut:\r\n\r\n- Warna Merah : 24%\r\n\r\n- Warna Biru : 40%\r\n\r\n- Warna Hijau : 32%\r\n\r\n- Warna Kuning : 4%\r\n\r\n4. Hitunglah banyak siswa dalam setiap persen!\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>dia yg di difgdydjguyihkuiu</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "nilaii-dari-lim-x1-x2-1-x-1-adalah-bantu-jawab-ya-kak-633",
+            "question": "Nilaii dari lim \"x\u21921\" x\u00b2-1 / x-1 adalah\r\nbantu jawab ya kak\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<h2><strong>Jawab:</strong></h2><p>2</p><h2>_______________________________</h2><h2><strong>Penjelasan:</strong></h2><p>Lim x \u2192 1 \u00a0x\u00b2 - 1 / x - 1</p><p>Lim x \u2192 1 \u00a0(x + 1)(x - 1) / x - 1</p><p>Lim x \u2192 1 \u00a0x + 1</p><p><em><strong>Substitusikan 1 ke setiap x:</strong></em></p><p>(1) + 1</p><p>1 + 1</p><p><strong>2</strong></p><p></p><p></p><p>[tex]{\\blue{Answer~by:Mei^2}}[/tex]</p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<h3>~Limit Fungsi Aljabar</h3><p>____________________</p><p>[tex]\\:[/tex]</p><p><strong>Jawaban:</strong></p><p><strong><u>2</u></strong><strong><u>\u2714</u></strong></p><p>[tex]\\:[/tex]</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>[tex]\\lim\\limits_{x \\to 1} = \\frac{x^{2} - 1}{x - 1}[/tex]</p><p>[tex]\\lim\\limits_{x \\to 1} = \\frac{(x - 1)(x + 1)}{x - 1}[/tex]</p><p>[tex]\\lim\\limits_{x \\to 1} = \\frac{\\cancel{(x - 1)}(x + 1)}{\\cancel{x - 1}}[/tex] \u279e Cancel x - 1</p><p>[tex]\\lim\\limits_{x \\to 1} = x + 1[/tex]</p><p>[tex] = 1 + 1[/tex] \u279e Substitusikan nilai x</p><p>[tex]{\\boxed{\\blue{\\underline{= 2}}}}[/tex]</p><p>[tex]\\:[/tex]</p><p>~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~</p><h3>\u2013 Detail Jawaban</h3><ul><li>Mapel : Matematika</li><li>Kelas : XI</li><li>Materi : Limit Fungsi Aljabar</li><li>Kode Soal : 2</li><li>Kode Kategorisasi : 11.2.8</li></ul><p>[tex]\\:[/tex]</p><p>#GANBATTE</p><p></p><p></p><p></p>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,134 @@
+{
+    "question": "6.\tdiketahui persegi abcd dengan panjang sisi 25 cm. panjang diagonalnya adalah\u2026    15\u221a2\r\n20\u221a2\r\n25\u221a2\r\n30\u221a2\r\n7.\tsebuah persegipanjang mempunyai panjang 24cm dan lebar 10 cm .panjang diagonal sisinya adalah\u2026 \r\na. 26 cm\r\nb. 30cm\r\nc. 34cm\r\nd. 40cm\u200b",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "<p><strong>Jawaban:</strong></p><p>6. c.25\u221a2</p><p>7. a.26 cm</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>6.</p><p>Diagonal = \u221ap\u00b2+l\u00b2</p><p>Diagonal = \u221a25\u00b2+25\u00b2</p><p>Diagonal = \u221a625+625</p><p>Diagonal = \u221a1250</p><p>Diagonal = \u221a625\u00d72</p><p>Diagonal = 25\u221a2</p><p></p><p>7</p><p>Diagonal = \u221ap\u00b2\u00d7l\u00b2</p><p>Diagonal = \u221a24\u00b2+10\u00b2</p><p>Diagonal = \u221a576+100</p><p>Diagonal = \u221a676</p><p>Diagonal = 26 cm</p>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "hitunglah-nilai-dari-tiap-perbandingan-trigonometri-berikut-ini-103",
+            "question": "Hitunglah nilai dari tiap perbandingan trigonometri berikut ini! \r\ntan 125\u00b0 \r\n\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>Tan 125\u00b0=-1,42815</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>*semoga membantu</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "alas-sebuah-prisma-berbentuk-segitiga-siku-siku-yang-panjang-sisi-337",
+            "question": "Alas sebuah prisma berbentuk segitiga siku-siku yang panjang sisi-sisinya 10 cm, 8    cm, dan 6 cm. Jika tinggi prisma 12 cm, hitunglah:\r\na. luas alas prisma.\r\nb. volume prisma.\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<h2>Jawaban:</h2><p>a. Luas alas prisma segitiga siku-siku = 40 cm\u00b2</p><p>b. Volume prisma segitiga siku-siku = 480 cm\u00b3</p><p></p><h2>Pembahasan Materi:</h2><p><strong>Prisma</strong>\u00a0adalah <u>suatu bangun ruang yang punya bidang alas dan bidang atas sejajar serta kongruen yang dikarenakan sisi lainnya berupa sisi tegak berbentuk persegi panjang atau jajargenjang.</u></p><p></p><p>Rumus volume prisma:</p><p>V = Luas alas \u00d7 t</p><p></p><p>Rumus luas permukaan prisma:</p><p>L = (Keliling alas \u00d7 t) + (2 \u00d7 Luas alas)</p><p></p><p>Rumus mencari tinggi prisma:</p><p>t = V \u00f7 Luas alas</p><p></p><p>-------</p><p></p><p><strong>Segitiga</strong> adalah <u>suatu bangun geometri satu dimensi yang membagi bidang menjadi tiga himpunan titik saling lepas.</u></p><p></p><p>Rumus luas segitiga:</p><p>L\u0394 = \u00bd \u00d7 a \u00d7 t\u0394</p><p></p><p>Rumus keliling segitiga:</p><p>K\u0394 = a + b + c</p><p>\u00a0\u00a0\u00a0\u00a0\u00a0 = 3 \u00d7 s</p><p></p><p>Rumus memcari alas segitiga:</p><p>a = (2 \u00d7 L\u0394) \u00f7 t\u0394</p><p></p><p>Rumus mencari tinggi segitiga:</p><p>t\u0394 = (2 \u00d7 L\u0394) \u00f7 a</p><p></p><h2>Penyelesaian:</h2><p>Diketahui:</p><p>Panjang sisi a (a) = 10 cm</p><p>Panjang sisi b (b) = 8 cm</p><p>Panjang sisi c (c) = 6 cm</p><p>Tinggi prisma segitiga siku-siku (t) = 12 cm</p><p></p><p>Ditanya:</p><p>a. Luas alas prisma segitiga siku-siku = ?</p><p>b. Volume prisma segitiga siku-siku = ?</p><p></p><p>Dijawab:</p><p>a. L = \u00bd \u00d7 a \u00d7 b</p><p>       = \u00bd \u00d7 10 \u00d7 8</p><p>       = 10 \u00d7 4</p><p>       = 40 cm\u00b2</p><p></p><p>b. V = Luas alas \u00d7 t</p><p>       = 40 \u00d7 12</p><p>       = 480 cm\u00b3</p><p></p><h2>Detail Jawaban</h2><p>Mapel: MTK</p><p>Kelas: 8 SMP</p><p>Materi: Bab 8 - Bangun Ruang</p><p>Kode Soal: 2</p><p>Kode Kategorisasi: 8.2.8</p><p>Kata Kunci: Volume Prisma Segitiga Siku-Siku, Luas Alas Prisma Segitiga, Tinggi Prisma Segitiga Siku-Siku</p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p><strong>Luas </strong><strong>alas:</strong></p><p>La = \u00bd x a x t</p><p>La = \u00bd x 10 x 8</p><p>La = 40 cm\u00b2</p><p><strong>Volume:</strong></p><p>V = La x t</p><p>V = 40 x 12</p><p>V = 480 cm\u00b3</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-kak-dengan-cara-nya-nya-yang-jawab-benar-aku-follow-926",
+            "question": "Tolong kak dengan cara nya nya, yang jawab benar aku follow\u200b",
+            "attachments": [
+                "question-attachments/tolong-kak-dengan-cara-nya-nya-yang-jawab-benar-aku-follow-926-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "<p><strong>SEMOGA</strong><strong> </strong><strong>BERMANFAAT</strong><strong> </strong><strong>YAA</strong><strong>.</strong><strong>.</strong><strong>.</strong></p>",
+                    "attachments": [
+                        "answer-attachments/tolong-kak-dengan-cara-nya-nya-yang-jawab-benar-aku-follow-926-1.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "amir-badri-dan-sodri-berenang-bersama-tanggal-2-juni-jika-amir-be-327",
+            "question": "Amir Badri dan Sodri berenang bersama tanggal 2 Juni jika Amir berenang setiap 3 hari sekali badri4 hari sekali sedangkan sodri 6 hari sekali Pada tanggal berapa mereka berenang bersama kembali\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<h2><strong>\u2192</strong><strong> </strong><strong>Pertanyaan</strong><strong> </strong><strong>\u2190</strong></h2><p>Amir, Badri dan Sodri berenang bersama tanggal 2 Juni. Jika Amir berenang setiap 3 hari sekali, Badri 4 hari sekali, sedangkan Sodri 6 hari sekali. Pada tanggal berapa mereka berenang bersama kembali?</p><p></p><p></p><h2><strong>\u2192</strong><strong> </strong><strong>Jawaban</strong><strong> </strong><strong>\u2190</strong></h2><p>Amir, Badri, dan Sodri akan berenang bersama kembali pada tanggal 14 Juni. </p><p></p><p></p><h2>\u2192 Cara Penyelesaian \u2190</h2><p><strong>Diketahui</strong><strong>:</strong><strong> </strong></p><ul><li>Tanggal terakhir mereka berenang bersama = 2 Juni</li><li>Amir = 3 hari sekali</li><li>Badri = 4 hari sekali</li><li>Sodri = 6 hari sekali</li></ul><p></p><p><strong>Ditanya</strong><strong>:</strong><strong> </strong>Tanggal berapa mereka akan berenang bersama kembali?</p><p></p><p><strong>Jawab</strong><strong>:</strong></p><p><u>Langkah</u><u> </u><u>1</u><u>:</u><u> </u><u>Menentukan</u><u> </u><u>KPK</u></p><p>FP 3 = 3</p><p>FP 4 = 2\u00b2</p><p>FP 6 = 2 \u00d7 6</p><p>[tex]\\red{\\boxed{\\green{\\boxed{\\blue{KPK =  {2}^{2}  \\times 3 = 12}}}}}[/tex]</p><p><u>Langkah 2</u></p><p>[tex]\\red{\\boxed{\\green{\\boxed{\\blue{ \\: 2 \\: juni + 12 = \\purple{\\boxed{14 \\: juni}}}}}}}[/tex]</p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "mohon-bantuaaanyaa-pakaijalan-909",
+            "question": "Mohon. bantuaaanyaa pakai.jalan....\u200b",
+            "attachments": [
+                "question-attachments/mohon-bantuaaanyaa-pakaijalan-909-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban</strong><strong>:</strong></p><p><strong>1</strong><strong>.</strong><strong> </strong><strong>A.</strong><strong> </strong><strong>1</strong><strong>0</strong><strong>,</strong><strong>5</strong><strong> </strong><strong>Kg</strong></p><p><strong>2</strong><strong>.</strong><strong> </strong><strong>B.</strong><strong> </strong><strong>4</strong><strong>8</strong><strong>,</strong><strong>5</strong><strong> </strong><strong>Kg</strong></p><p>Cara Di Foto</p>",
+                    "attachments": [
+                        "answer-attachments/mohon-bantuaaanyaa-pakaijalan-909-1.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "lingkungan-yang-terdiri-atas-lumut-cacing-dan-jamur-disebut-juga-379",
+            "question": "Lingkungan yang terdiri atas lumut cacing dan jamur disebut juga lingkungan\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>biotik</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>semoga membantu:)</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukanlah-1038-a-15-b-14-c-13-d-12-e-11-470",
+            "question": "Tentukanlah 10!/3!8! = \u22ef\r\n\r\nA. 15\r\n\r\nB. 14\r\n\r\nC. 13\r\n\r\nD. 12\r\n\r\nE. 11\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>B. 14</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>maaf kalo salah semoga membantu Anda</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-kotak-berisi-4kelereng-merah-dan-5-kelereng-biru-banyak-c-437",
+            "question": "Sebuah kotak berisi 4kelereng merah dan 5 kelereng biru. Banyak cara mengambil 5 kelereng yang terdiri dari 3 kelereng merah dan 2 kelereng biru adalah ... (jawaban hasil akhir berupa angka\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>2 kleng maaf kalau salah</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "taman-di-halaman-rumah-raffi-berbentuk-persegi-dengan-panjang-sis-528",
+            "question": "taman di halaman rumah Raffi berbentuk persegi dengan panjang sisi 21 m Maka luas taman tersebut adalah...... m\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>441 m</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p></p><p><strong>L </strong><strong>Persegi</strong><strong> </strong><strong>=</strong><strong> </strong>s \u00d7 s</p><p>L = 21 \u00d7 21</p><p>L = 441 m</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "poinnya-banyak-loh-bantuin-plss-cuma-1-soal-akar-2-bagi-akar-5-555",
+            "question": "Poinnya banyak loh \r\n Bantuin plss cuma 1 soal \r\n Akar 2 bagi akar 5=",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<h3>~Eksponen</h3><p>___________</p><p>[tex]\\:[/tex]</p><p><strong>Jawaban:</strong></p><p>[tex]{\\boxed{\\blue{\\frac{\\sqrt{10}}{ 5 }}}} [/tex]</p><p>[tex]\\:[/tex]</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>[tex] =  \\sqrt{2}  \\div  \\sqrt{5} [/tex]</p><p>[tex] = \\frac{ \\sqrt{2}}{ \\sqrt{5} } [/tex]</p><p>[tex] = \\frac{ \\sqrt{2}}{ \\sqrt{5} } \\times \\frac{\\sqrt{5}}{\\sqrt{5}} [/tex]</p><p>[tex] = \\frac{ \\sqrt{2}\\sqrt{5}}{ \\sqrt{5}^{2} } [/tex]</p><p>[tex] = {\\boxed{\\blue{\\frac{\\sqrt{10}}{ 5 }}}} [/tex]</p><p>[tex]\\:[/tex]</p><p>~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~</p><h3>\u2013 Detail Jawaban</h3><ul><li>Mapel : Matematika</li><li>Kelas : IX</li><li>Materi : Bentuk akar dan pangkat</li><li>Kode Soal : 2</li><li>Kode Kategorisasi : 9.2.1</li></ul><p>[tex]\\:[/tex]</p><p>#GANBATTE</p>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

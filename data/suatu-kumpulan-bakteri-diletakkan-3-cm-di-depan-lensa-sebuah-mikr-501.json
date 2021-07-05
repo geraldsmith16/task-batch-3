@@ -1,0 +1,136 @@
+{
+    "question": "Suatu kumpulan bakteri diletakkan 3 cm di depan lensa sebuah mikroskop. Jarak fokus lensa    objektif = 2.7 cm. Jika pengamatan tidak berakomodasi, jarak lensa objektif dan okuler adalah\r\n28 cm. Tentukanlah:\r\na. Jarak fokus lensa okuler! \r\nb. Berapa perbesaran total yang diperoleh? \u200b",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "<p>a. fok = 1 cm, mgkin ada salah data soal karena pada mikroskop berlaku fok &gt; fob</p><p>b.M total = 250 kali</p><p></p><p><strong>Penjelasan:</strong></p><p>Dasar teori</p><p>MIKROSKOP</p><p>Terdiri atas 2 lensa positif yaitu:</p><p>-Lensa objejtif : dekat dgn benda/objek</p><p>-Lensa Okuler : dekat dengan mata</p><p></p><p>Benda Sob di letakkan pada :</p><p>fob &lt; Sob &lt; 2 fob</p><p></p><p>Sifat bayangan lensa objektif</p><p>1.Nyata</p><p>2.Terbalik</p><p>3.Diperbesar</p><p></p><p>Bayangan lensa objektif menjadi benda untuk lensa okuler</p><p></p><p>Pengamatan dengan mata Berakomodasi maksimum</p><p>S&#039;ok = - Sn </p><p>Sn = Titik dekat mata</p><p>Mata normal Sn = 25 cm</p><p></p><p>Perbesaran mikroskop</p><p>M = |S&#039;ob/Sob| x |Sn/fok + 1|</p><p></p><p>Panjang Mikroskop (jarak lensa objektif dan lensa okuler):</p><p>d = S&#039;ob + Sok</p><p></p><p></p><p>Pengamatan dengan mata tanpa Akomodasi</p><p>S&#039;ok = di jauh tak hingga</p><p>Sok = fok</p><p></p><p>Perbesaran mikroskop</p><p>M = |S&#039;ob/Sob| x |Sn/fok|</p><p></p><p>Panjang Mikroskop (jarak lensa objektif dan lensa okuler):</p><p>d = S&#039;ob + fok</p><p></p><p>Berlaku rumus lensa :</p><p>1/fob = 1/Sob + 1/S&#039;ob</p><p>1/fok = 1/Sok + 1/S&#039;ok</p><p></p><p>dimana :</p><p>Sob = Jarak benda ke lensa objektif</p><p>S&#039;ob = Jarak bayangan lensa objektif</p><p>Sok = Jarak benda lensa okuler</p><p>S&#039;ok = Jarak bayangan lensa okuler ( bayangan akhir)</p><p>fob = Jarak fokus lensa objektif</p><p>fok = Jarak fokus lensa okuler</p><p></p><p>Diketahui</p><p>Sob = 3 cm</p><p>fob = 2,7 cm</p><p>d = 28 cm</p><p>Pengamatan tanpa akomodasi</p><p>Ditanya</p><p>a.Jarak fokus lensa okuler</p><p>b.Perbesaran total</p><p>Penyelesaian</p><p>a.Kita hitung dulu jarak bayangan objektif</p><p>1/fob = 1/Sob + 1/S&#039;ob</p><p>1/2,7 = 1/3 + 1/S&#039;ob</p><p>(10 - 9)/27 = 1/S&#039;ob</p><p>S&#039;ob = 27 cm</p><p>Panjang Mikroskop (Jarak lensa objektif dan okuler)</p><p>d = S&#039;ob + fok</p><p>28 = 27 + fok</p><p>fok = 1 cm</p><p></p><p>b.Perbesaran total</p><p>M = |S&#039;ob/Sob| x |Sn/fok|</p><p>    = |27/2,7| x |25/1|</p><p>    = 250 kali</p>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "5-perbedaan-dari-kecepatan-dan-percepatan-adalah-320",
+            "question": "5. Perbedaan dari kecepatan dan Percepatan adalah?\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>Sederhananya kecepatan adalah seberapa cepat perubahan posisi dalam selang waktu tertentu, dan percepatan adalah perubahan kecepatan dalam selang waktu tertentu</p><p></p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>percepatan itu perubahan kecepatan dalam selang waktu tertentu.</p><p>kecepatan itu perubahan posisi dalam selang waktu tertentu.</p><p><strong>Penjelasan:</strong></p><p>rumus percepatan a= v/t</p><p>rumus kecepatan v= s/t</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-ya-hbs-ini-di-kumpulin-698",
+            "question": "Tolong ya :) hbs ini di kumpulin\u200b",
+            "attachments": [
+                "question-attachments/tolong-ya-hbs-ini-di-kumpulin-698-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>2 Hz</p><p><strong>Penjelasan:</strong></p><p>Dari rumus tersebut kecepatan sudut w = 4\u03c0</p><p>f = w/2\u03c0</p><p>f = 4\u03c0/2\u03c0</p><p>f = 2Hz</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "percepatan-gravitasi-planet-y-bernilai-tiga-kali-percepatan-gravi-335",
+            "question": "Percepatan gravitasi planet Y bernilai tiga kali percepatan gravitasi bumi, jika massa bumi M dan jari jari planet Y empat kali jari jari bumi, massa planet Y adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p></p><p>MY = 48 M</p><p></p><p><strong>P</strong><strong>e</strong><strong>n</strong><strong>j</strong><strong>e</strong><strong>l</strong><strong>a</strong><strong>s</strong><strong>a</strong><strong>n</strong></p><p>Dasar Teori</p><p>PERCEPATAN GRAVITASI</p><p></p><p>Gaya gravitasi</p><p>Gaya gravitasi adalah gaya tarik menarik satu benda dengan benda lain pada jarak tertentu, dirumuskan:</p><p>F = G m1 x m2 / r^2</p><p>dimana :</p><p>F = Gaya gravitasi (N)</p><p>m1 = massa benda 1 (kg)</p><p>m2 = massa benda 2 (kg)</p><p>r = jarak kedua benda diukur dari  pusat masing-masing benda (m)</p><p>G= konstanta gravitasi </p><p>   = 6,67 \u00d7 10^-11 Nm2/kg2</p><p></p><p>Percepatan gravitasi (g)</p><p>Benda yg berada dipermukaan bumi/planet akan mengalami percepatan gravitasi mengikuti hukum Newton ttg gerak</p><p>F = m x a  (a = g )</p><p></p><p>F = Gaya gravitasi antara benda dan bumi/planet</p><p>   = G M m/r^2</p><p>m = massa benda </p><p></p><p>jadi percepatan gravitasi :</p><p>g = G M/r^2</p><p>r = jari jari bumi/planet</p><p>M = massa bumi/planet</p><p></p><p>Diketahui</p><p>rY = 4 rb</p><p>gY = 3 gb</p><p>Mb = M</p><p></p><p>Ditanya</p><p>Massa planet Y</p><p></p><p>Penyelesaian</p><p>Kita bandingkan percepatan gravitasi di planet Y dan bumi</p><p>gY = G MY/rY^2</p><p>gb = G Mb/rb^2</p><p></p><p>gY/gb = [MY/Mb] x [rb/rY]^2</p><p>3 gb/gb = MY/M \u00d7 [rb/4 rb]^2</p><p>MY = 48 M</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "quis-fisika-aturan-no-ngasal-jawaba-893",
+            "question": "\u23e9\u2728Quis Fisika\u2728\u23ea    \u26a0.Aturan.\u26a0\r\n\u23e9 No: Ngasal.\r\n\u23e9 Jawaban Harus Logis dan benar.\r\n\u23e9 Kerjakan Semuanya.\r\n\u23e9 Mapel. fisika\r\n\u23e9 Kelas: XI\u200b\u200b\r\n\r\n1.persamaan gelombang y = 10 Sin \u03c0 ( 0,5t - 2x ). jika x dan y dalam meter serta t dalam sekon maka tentukanlah panjang gelombang nya\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>Panjang gelombang </p><p>\u03bb  = 1 m</p><p><strong>Penjelasan:</strong></p><p>Diketahui</p><p>y = 10 Sin \u03c0 ( 0,5t - 2x )</p><p>y = 10 sin (0,5\u03c0t - 2\u03c0x)</p><p>y = A sin ( \u03c9 t - k x)</p><p></p><p>Kita hitung panjang gelombang dari bilangan gelombang </p><p>k = 2\u03c0</p><p>2\u03c0/\u03bb  = 2\u03c0</p><p>     \u03bb  = 1 m</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-rumah-memiliki-3-buah-ac-yang-berdaya-260-watt-ac-tersebu-808",
+            "question": "sebuah rumah memiliki 3 buah ac yang berdaya 260 watt. ac tersebut digunakan 10 jam setiap hari hitunglah besarnya energi listrik yang digunakan masing-masing aset tersebut selama 30 hari (1 bulan)!\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>w30 hari = 234 KWh</p><p><strong>Penjelasan:</strong></p><p>w = n x p x t</p><p>   = 3 x 260 x 10</p><p>   = 7800 Wh</p><p>   = 7,8 KWh</p><p></p><p>w30 hari = 7,8 x 30</p><p>               = 234 KWh</p><p>  </p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "taraf-intensitas-sebuah-mesih-adalah-112",
+            "question": "Taraf intensitas sebuah mesih adalah\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>adalah 60dB ( dengan acuan intensitas ambang pendengaran 10^-12 watt /m^2)</p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>taraf intensitas sebuah mesin sebuah mesin adalah 60dB ( dengan acuan intensitas ambang pendengaran 10^-12 watt /m^2). jika tafar intensitas di dalam sebuah pabrik yang menggunakan beberapa mesin adalah 80dB ,maka jumlah mesin yang digunakan </p><p><strong>Penjelasan:</strong></p><h2><strong><em><u>SEMOGA MEMBANTU:)</u></em></strong></h2><h2><strong><em><u>SEMOGA MEMBANTU:)FOLLOW YAH ENTAR DI FOLLBACK:)</u></em></strong></h2>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "2-sebuah-kawat-lurus-berarus-listrik-5-ampere-medan-magnet-yang-452",
+            "question": "2. Sebuah kawat lurus berarus listrik 5 Ampere, medan    magnet yang terjadi di sebuah titik pada jarak 20 cm\r\nadalah... Tesla\r\na. 5 x 10-7\r\nd. 10 x 10-6\r\nb. 10 x 10-7\r\ne. 100 x 10-7\r\nc. 5 x 10-6\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>ksjdhdiebdjehdiebdie</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "hewan-apa-yang-dapat-hidup-di-darat-dan-di-air-sebutkan-minimal-700",
+            "question": "Hewan apa yang dapat hidup di darat dan di air?\r\nsebutkan minimal 3 hewan\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>\u00a0   1. Katak</p><p>\u00a0 \u00a0 2. Buaya</p><p>\u00a0 \u00a0 3. Kadal</p><p>\u00a0 \u00a0 4. kura-kura ( tidak semua jenis )</p><p>\u00a0 \u00a0 5. Salamander</p><p>\u00a0   6. Komodo</p><p>\u00a0 \u00a0 </p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<h2>Jawaban:</h2><p></p><p>Di Air</p><ul><li>Ikan</li><li>Cumi-Cumi</li><li>Gurita</li><li>Dan lain sebagainya</li></ul><p>Di Darat</p><ul><li>Rusa</li><li>Kuda</li><li>Kerbau</li><li>Dan lain sebagainya</li></ul><p>Di Air dan Di Darat</p><ul><li>Buaya</li><li>Katak</li><li>Lungfish</li></ul><h2>Penjelasan:</h2><p>Hewan, binatang, fauna, margasatwa, atau satwa adalah organisme eukariotik multiseluler yang membentuk kerajaan biologi Animalia</p><p></p><p>Semoga membantu~~</p><p>Maaf jika salah.. jika benar tolong dijadikan jawaban tercerdas.. kalau gak dikasih gpp:)</p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tulang-yang-tidak-menyusun-tengkorak-adalah-546",
+            "question": "Tulang yang tidak menyusun tengkorak adalah\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p></p><p>Tulang yang menyusun tengkorak adalah </p><p>Tulang dahi, ubun-ubun, baji, pelipis, tengkorak, air mata, hidung, pipi, rahang atas, rahang bawah, lidah . </p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "fungsi-komposisi-dari-fl-393",
+            "question": "Fungsi komposisi dari f\u00b0l \r\n\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Penjelasan:</strong></p><p>tentukan volume balok jika panjang panjang 7 cm lebar 3 cm dan tinggi 5 cm</p>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

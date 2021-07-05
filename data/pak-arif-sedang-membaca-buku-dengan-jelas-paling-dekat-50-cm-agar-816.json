@@ -1,0 +1,146 @@
+{
+    "question": "Pak Arif sedang membaca buku dengan jelas paling dekat 50 cm agar ia dapat membaca dengan jelas pada jarak baca normal 25 cm pertanyaan:    A. kelainan mata apakah yang diderita Pak Arif? \r\nB. jenis lensa kacamata apa yang dapat membantu Pak Arif ?\r\nC. Berapa besar kekuatan lensa yang dapat digunakan Pak Arif?\u200b",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "<p><strong>Jawaban:</strong></p><p>a. rabun dekat (hypermetropi)</p><p>b. lensa cembung ( negatif) </p><p>c. Diketahui : s = 25 cm, s&#039; = -50 cm</p><p> \u00a0 \u00a01/f = 1/s +1/s&#039;</p><p> \u00a0 \u00a01/f = 1/25 +1/-50</p><p> \u00a0 \u00a01/f = 2/50 - 1/50</p><p> \u00a0 \u00a01/f = 1/50</p><p> \u00a0 \u00a0 f= 50 cm</p><p> \u00a0 \u00a0 P = 100/f = 100/50 = 2 Dioptri</p><p><strong>jadi kekuatan lensa = 2 Dioptri</strong></p><p></p>",
+            "attachments": []
+        },
+        {
+            "answer": "<p>a. Jarak titik bergeser menjauh dari titik normal pada kisaran 25 - 30 cm sehingga di simpulkan mengalami rabun dekat atau hipermetropi</p><p>b. lensa positif atau cembung</p><p>c. P = 100/PPn - 100/PP</p><p>P = 100/25 - 100/50</p><p>P = 4 - 2 = 2 Dioptri = +2D</p>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "quis-fisika-aturan-no-ngasal-jawab-962",
+            "question": "\u23e9\u2728Quis FISIKA \u2728\u23ea    \u26a0.Aturan.\u26a0\r\n\u23e9 No: Ngasal.\r\n\u23e9 Jawaban Harus Logis dan benar.\r\n\u23e9 Kerjakan Semuanya.\r\n\u23e9 Mapel. fisika\r\n\u23e9 Kelas: XI\u200b\u200b\u200b",
+            "attachments": [
+                "question-attachments/quis-fisika-aturan-no-ngasal-jawab-962-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "<p>a.frekuensi = 0,25 Hz</p><p>b.Periode = 4 d</p><p>c Cepat rambat gelombang = 0,25 m/s</p><p>d. Panjang gelombang = 1 m</p><p></p><p><strong>Penjelasan:</strong></p><p>Diketahui</p><p>Y = 10 sin \u03c0 ( 0,5 t - 2 x )</p><p>Ditanya</p><p>a.frekuensi</p><p>b.Periode</p><p>c Cepat rambat gelombang</p><p>d Panjang gelombang</p><p>Penyelesaian</p><p>Y = 10 sin \u03c0 ( 0,5 t - 2 x )</p><p>Kita samakan dengan bentuk umum gelombang berjalan</p><p>Y= 10 sin (0,5\u03c0 t - 2\u03c0 x)</p><p>Y = A sin (\u03c9 t - k x)</p><p>a.Frekuensi kita hitung dgn \u03c9 = 2\u03c0 f</p><p>  Dari persamaan simpangan kita dapat</p><p>  \u03c9 = 0,5\u03c0</p><p>2\u03c0 f = 0,5 \u03c0 </p><p>     f = 0,25 Hz</p><p></p><p>b.Periode</p><p>T = 1/f</p><p>   = 1/0,25</p><p>   = 4 s</p><p></p><p>c.Cepat rambat gelombang dapat kita hitung dengan</p><p>  V = koef t/ koef x</p><p>     = 0,5/2 </p><p>     = 0,25 m/s</p><p></p><p>d. Panjang gelombang</p><p>    V = f x \u03bb</p><p>    \u03bb  = V/f = 0,25/0,25 = 1 m</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "plis-jawabnya-ka-sama-cara-ngerjain-nya-178",
+            "question": "Plis jawabnya ka sama cara ngerjain nya.\u200b",
+            "attachments": [
+                "question-attachments/plis-jawabnya-ka-sama-cara-ngerjain-nya-178-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>jawabannya b</p><p>prinsip pembiasan cahaya yaitu arah gelombang nya dibelokkan.</p><p>ini aja poinnya, arah gelombang awalnya dengan arah gelombang saat melalui medium itu berbeda (tidak garis lurus)</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jelaskan-prosedur-dan-teknik-merangkai-kelistrikan-sederhana-ban-811",
+            "question": "Jelaskan prosedur dan teknik merangkai kelistrikan sederhana?\r\n\r\nbantu jawab dong ka\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:1.</strong></p><p><strong> Pasangkan bola lampu ke fiting. Fiting lampu adalah alat yang dibuat sebagai wadah lampu. Fiting ini juga memiliki 2 terminal. Satu terminal untuk kutub positif, dan satunya lagi untuk kutub negatif. Dengan demikian, kamu bisa mengalirkan listrik melalui lampu di dalam fitingnya.</strong></p><p><strong></strong></p><p><strong> \u00a0 \u00a0Pastikan kamu menggunakan lampu berdaya rendah (kira-kira 1-10 volt).</strong></p><p><strong>2</strong></p><p><strong>Buka kabel sepanjang 2,5 cm dari setiap ujung 2 kabel tembaga. Kamu akan menggunakan 2 kabel tembaga supaya mudah membedakan kutub positif dan negatif. Gunakan pisau atau alat pembuka kabel untuk memotong insulasi (bagian berwarna) sepanjang 2,5 cm. Ketika sudah terbuka, bagian tembaga kabel akan terlihat. [2]</strong></p><p><strong></strong></p><p><strong> \u00a0 \u00a0Kabel merah dan hitam paling lazim dijual di pasaran, tetapi kamu bisa menggunakan kabel warna lain, misalnya merah dan putih.</strong></p><p><strong> \u00a0 \u00a0Jangan potong bagian tembaga kabel. Kamu hanya perlu membuka bagian insulasi plastik yang menutupi kabel. Kalau sudah terbuka, kupas atau geser insulasi keluar dari kabel.</strong></p><p><strong>3</strong></p><p><strong>Sambungkan kutub positif. Umumnya kabel merah digunakan menyambungkan kutub positif. Salah satu ujung kabel merah akan terhubung dengan salah satu sisi fiting lampu. Ujung lain kabel merah harus tersambung dengan kutub positif baterai. [3]</strong></p><p><strong></strong></p><p><strong> \u00a0 \u00a0Jika kamu tidak dapat memperoleh kabel merah, pilihlah salah satu dari dua warna kabel sebagai kabel positif.</strong></p><p><strong></strong></p><p><strong>5</strong></p><p><strong>Nyalakan lampu. Sentuhkan ujung kabel hitam (negatif) yang bebas ke terminal negatif baterai. Dengan demikian, rangkaian listrik sudah lengkap dan listrik bisa mengalir. Listrik akan melalui dan pada akhirnya menyalakan lampu. </strong></p><p><strong></strong></p><p><strong></strong></p><p><strong>Gambar berjudul Make a Circuit Step 2</strong></p><p></p><p><strong>Penjelasan:Rangkaian listrik memungkinkan listrik mengalir dari kutub positif ke kutub negatif. Rangkaian sederhana dapat menjadi alat peraga listrik dasar yang bagus, dan sarana eksperimen listrik di rumah. Pastikan kamu diawasi oleh orang dewasa yang tepercaya saat mengerjakan rangkaian listrik. Membuat rangkaian listrik tidak sulit asalkan kamu memiliki sumber daya, kabel, dan bola lampu (atau komponen listrik lainnya). Jika kamu ingin mempelajari lebih lanjut terkait rangkaian listrik, cobalah memasang sakelar sederhana supaya kamu bisa mematikan dan menghidupkan lampu dengan mudah. Walaupun tidak diperlukan, sakelar ini akan menunjukkan rangkaian terbuka dan tertutup dengan baik. </strong></p><p>ITU RANGKAIAN MENGUNAKAN BATRAI,MAAF KALAU KURANG RINGKAS DIPERINGKAS SENDIRI</p><p></p><p></p><p></p><p>MAAF JUGA KALAU SALAH</p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "i-dua-benda-bermuatan-masing-masing-24-uc-dan-18-uc-berjarak-12-c-251",
+            "question": "I    Dua benda bermuatan masing-masing 24 uC dan 18 uC\r\nberjarak 12 cm. Hitung besar gaya Coulomb yang bekerja\r\npada kedua muatan apabila:\r\n\r\na. kedua benda berada di udara,\r\n\r\nb. kedua benda berada dalam bahan dengan permitivitas\r\nrelatif 2!\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>LISTRIK STATIS</p><p>\u25b6 Gaya Coulomb</p><p></p><p>Q\u2081 = 24 \u03bcC = 2,4 \u00d7 10\u207b\u2075 C</p><p>Q\u2082 = 18 \u03bcC = 1,8 \u00d7 10\u207b\u2075 C</p><p>r = 12 cm = 1,2 \u00d7 10\u207b\u00b9 m</p><p>k = 9 \u00d7 10\u2079 Nm\u00b2/C\u00b2</p><p></p><p>a]</p><p>F = __ ?</p><p></p><p>gaya coulomb yang bekerja di udara</p><p>F = k Q\u2081 Q\u2082 / r\u00b2</p><p>F = 9 \u00d7 10\u2079 \u00d7 2,4 \u00d7 10\u207b\u2075 \u00d7 1,8 \u00d7 10\u207b\u2075 / (1,2 \u00d7 10\u207b\u00b9)\u00b2</p><p>F = 270 N \u2714</p><p></p><p>b]</p><p>\u03b5\u1d63 = 2</p><p></p><p>F&#039; = __ ?</p><p></p><p>gaya coulomb pada medium</p><p>F&#039; = F / \u03b5\u1d63</p><p>F&#039; = 270 / 2</p><p>F&#039; = 135 N \u2714</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bagaimana-agar-bengkel-pada-saat-bermain-ketapel-dapat-terlontar-736",
+            "question": "Bagaimana agar bengkel pada saat bermain ketapel dapat terlontar jauh \u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "dwngan cara mencium ketapel tersebut sampai semriwing flying unch",
+                    "attachments": []
+                },
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>penarikan ketapel,arah ketapel,dan kekuatan angin memengaruhi gerak lambatny krikil saat bermain ketapel,, jadi saat menarik dan mengarahkan ketapel harus tepat dan benar untuk kerikil yg jauh </p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "besarnya-gaya-gesekan-yang-dialami-peti-yang-didorong-di-atas-lan-418",
+            "question": "Besarnya gaya gesekan yang dialami peti yang didorong di atas lantai kasar bergantung pada....    (1) Massa benda\r\n (2) Percepatan gravitasi bumi\r\n (3) Koefisien gesekan\r\n (4) Luas permukaan benda\r\n\r\n\r\n Pernyataan tersebut yang benar adalah.........\r\n A. 1 &amp; 3\r\n B. 2&amp; 4\r\n C. 1,2 dan 3\r\n D. Semua benar\r\n E. Hanya 4",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>a..........</p><p>semoga membantu</p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>A.</p><p>Semoga membantu yaaa</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tuliskan-1-gerakan-tarian-yang-dapat-dilakukan-menggunakan-kaki-448",
+            "question": "Tuliskan 1 gerakan tarian yang dapat dilakukan menggunakan kaki\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>gerakan Kaki</p><ol><li>Kenser.</li><li>Gejug.</li><li>Jinjit.</li><li>Nggroda.</li><li>Mendak.</li><li>Tanjak Kanan/Kiri.</li><li>Sila.</li><li>Jengkeng</li></ol><h3>Jan lupa follow Ig: frdmldnaa</h3><p></p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>Kenser.</p><p>Gejug.</p><p>Jinjit.</p><p>Nggroda.</p><p>Mendak.</p><p>Tanjak Kanan/Kiri.</p><p>Sila.</p><p>Jengkeng.</p><p><strong>Penjelasan:</strong></p><p>(\u2022\u203f\u2022)</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "penganten-sunat-diarak-keliling-kampung-dengan-mengendarai-310",
+            "question": "Penganten sunat diarak keliling kampung dengan mengendarai \u2026 *    a. kuda\r\nb. angkot\r\nc. sepeda\r\nd. mobil\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>A. Kuda</p><p><strong>Penjelasan:</strong></p><p>Semoga membantu</p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>a. kuda. </p><p></p><p><strong>penjelasan</strong><strong> </strong><strong>:</strong><strong> </strong></p><p>semoga mmbntu</p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "2-sebuah-kawat-lurus-berarus-listrik-5-ampere-medan-magnet-yang-452",
+            "question": "2. Sebuah kawat lurus berarus listrik 5 Ampere, medan    magnet yang terjadi di sebuah titik pada jarak 20 cm\r\nadalah... Tesla\r\na. 5 x 10-7\r\nd. 10 x 10-6\r\nb. 10 x 10-7\r\ne. 100 x 10-7\r\nc. 5 x 10-6\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>ksjdhdiebdjehdiebdie</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "9-jieun-kalimah-make-kecap-paman-193",
+            "question": "9. Jieun kalimah mak\u00e9 kecap paman!\u200b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>paman mawa buah ti kampung</p><p>maap klo slh</p>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}
