@@ -1,0 +1,138 @@
+{
+    "question": "1) panjang sisi sebuah persegi sama dengan 5cm tentukan panjang diagonal persegi tersebut    2) jika luas persegi 49cm berapakah panjang diagonal persegi tersebut",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "1) panjang sisi = 5 cm<br>\u00a0 Maka, panjang diagonal =\u00a0[tex] \\sqrt{25+25} [/tex]<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0=\u00a0[tex] \\sqrt{50} [/tex] = 5[tex] \\sqrt{2} [/tex]<br>2) Jika luasnya 49, maka pnjng sisi= 7cm<br>\u00a0 Panjang diagonal =\u00a0[tex] \\sqrt{49+49} [/tex]<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0=\u00a0[tex] \\sqrt{98} [/tex]= 7[tex] \\sqrt{2} [/tex]",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "tentukan-banyak-himunan-bagian-dari-hiimpunan-tersebut-ahimpuna-715",
+            "question": "Tentukan banyak himunan bagian dari hiimpunan tersebut,    a.himpunan bilangan asli kurang dari 6.\r\nb.himpunan bilangan prima antara 4 dan 20\r\nc.q={nama nama hari dalam seminggu }",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a {1,2,3,4,5} = 5 anggota himp.<br>b. {5,7,11,13,17} = 5 anggota himp.<br>c. {senin, selasa , rabu, kamis, jumat, sabtu, minggu} = 7 anggota himp<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tiga-uang-logam-ditos-bersama-samatentukan-peluang-amuncul-3gam-619",
+            "question": "Tiga uang logam ditos bersama-sama.tentukan peluang    A.muncul 3gambar\r\nB.muncul 1 gambar dan 2 angka\r\nC.muncul 2 angka",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "peluang = <u>kejadian ditanya</u><br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 kemungkinan kejadian<br>a. kemungkinan 3 gambar <br>=<u> 1\u00a0</u> <br>\u00a0\u00a0  8 \u00a0 <br>b. kemungkinan1 gambar 2 angka<br>\u00a0= <u>\u00a03\u00a0 </u><br>\u00a0\u00a0\u00a0\u00a0 8<br>c. kemungkinan 2 angka<br>=\u00a0<u> 4</u>\u00a0  atau\u00a0<u> 1 \u00a0  </u><br>\u00a0 \u00a0 8\u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 2<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "persamaan-2x-1-5-adalah-kalimat-benar-himpunan-penyelesaia-268",
+            "question": "Persamaan 2x\u00a0- 1 = 5 adalah kalimat benar . himpunan penyelesaiannya adalah ...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "2X-1=5<br>2X=5+1<br>2X=6<br>X=6/2<br>X=3<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "himpunan penyelesaian itu utk pertidaksamaan kalau utk persamaaan mungkin ini :<br>2x-1=5<br>2x=4<br>x=2",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "barapakah-hasil-dari-19999999999999828782428-694",
+            "question": "Barapakah hasil dari 19999999999999828782+428",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "jawabannya :20.000.000.000.427<br><br>maaf kalau salah :)",
+                    "attachments": []
+                },
+                {
+                    "answer": "19.999.999.999.999.829.210<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "semua-himpunan-dari-10ltxlt10-xbilangan-bulat-yang-habis-278",
+            "question": "Semua himpunan dari -10&lt;x&lt;10    x\u2208bilangan bulat yang habis dibagi 3\r\nyang mempunyai 3 anggota",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "{-9,-8,-7,-6,-5,-4,-3,-2,-1,0,1,2,3,4,5,6,7,8,9}",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bilangan-cacah-ganjil-yang-kurang-dari-16-dan-habis-dibagi-3-nota-716",
+            "question": "Bilangan cacah ganjil yang kurang dari 16 dan habis dibagi 3 notasinya mendaftar anggotanya \u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "angota :15,12,9,6,3<br><br>K={3,6,9,12,15}<br><br>Notasi:<br>{x|x adalah himp yang kurang dari 16 dan dapat dibagi habis 3}<br><br><br>Menurut saya itu jawabannya",
+                    "attachments": []
+                },
+                {
+                    "answer": "{\u00a0x | x adalah bilangan cacah ganjil yang habis dibagi 3 dan\u00a0bernilai\u00a0kurang dari 16 }<br><br>x = {3, 6, 9, 12, 15}",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-dijawabnya-nyatakan-himpunan-berikut-sebagai-himpunan-kos-426",
+            "question": "tolong dijawabnya !nyatakan himpunan berikut sebagai himpunan kosong atau bukan himpunan kosong! petanyaan himpuan bilangan kuadrat antara 30 dan 50 !! dijawabnyaa",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]A=\\{36,49\\}[/tex]",
+                    "attachments": []
+                },
+                {
+                    "answer": "{36,49}<br>semoga jawabanku mmbantu<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dijawab-menggunakan-dik-dit-dan-jawab-pak-niman-membeli-2-peti-755",
+            "question": "Dijawab\u00a0menggunakan DIK , DIT dan JAWAB    pak niman membeli 2 peti jeruk\u00a0dengan berat masing masing25 kg dan harga Rp.4000 per kg. Jika besar tara = 8% , berapa rupiah pak niman harus membayar ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "2 peti masing\" 25 kg sehingga berat seluruh nya adalah 50 kg<br>tara 8% = 92/100 x 50 = 46 kg<br><br>harga yang harus dibayar pak usman = 46 x 4000 = rp 184000<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bagamana-cara-mencari-a-panjang-busur-ac-b-luas-juring-aoc-jik-238",
+            "question": "Bagamana cara mencari:    a. panjang busur AC\r\nb. luas juring AOC\r\njika lingkaran berdiameter 30cm dan sudut AOC=60 derajat",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a. 60/360 . 3,14 . 30 = 15,7<br>b. 60/360 . 3,14 .15 .15 = 117,75",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1gaji-ayah-rp2500000jika-tiap-bulan-ayah-harus-membayar-paja-102",
+            "question": "1.gaji ayah rp.2.500.000.jika tiap bulan ayah harus membayar pajak sebesar 2,5% dari gaji nya ,maka tentukanlah gaji bersih yg di terima ayah..??\\    2.hitunglah bunga tunggal\u00a0 pada modal awal Rp.550.000 dengan suku bunga 5% tiap tahun selama satu tahun 5 bulan !\r\n3.harga penjualan sebuah pesawat tv adalah Rp.552.000 jika keuntungan yg diperoleh 15%,maka tentukan harga pembeliannya..??\r\nbeserta caranya yhaa\r\nthank sblm'a",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1\u00a0.2,5/100x 2.500.000 =62.500<br>\u00a02.500.000-62.500=.........<br>3.15/100 x\u00a0552000=82.800<br>harga pembelian 552000-82800=......",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,140 @@
+{
+    "question": "Sebuah katrol dengan memiliki massa beban = 2kg massa ktrol =2 kg jari jari = 0.4 m    hitunglah\u00a0\r\n\r\na. momen inersia katrol\r\nb. momen gaya yang bekerja pada katrol\r\nc. percepatan sudut katrol\u00a0\r\n\r\nmohon segera dijawab karena pagi ini saya ngumpulkan tugas",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "1---------------------------------------------<br>I=(1/2)MR\u00b2<br>l=(1/2) x 2 x (0,4)\u00b2<br>l=0,4 x 0,4<br>l=0,16 kgm\u00b2<br><br>2-----------------------------------------------<br>momen gaya = Fd<br><br>ingat.... F = w = m g\u00a0 dan d = r\u00a0 \u00a0  G= 9,8 atau dibulatkan mnjdi 10m/s\u00b2<br><br>momen gaya = (mg)r<br>momen gaya = (2 x 10) 0,4<br>momen gaya = 20 x 0,4<br>momen gaya = 20 x 0,4r<br>momen gaya = 8\u00a0 Nm<br><br>3------------------------------------------------<br>\u03b1=momen gaya : momen inersia<br>\u03b1= 8/0,16<br>\u03b1= 50 rad/s\u00b2<br><br>jadikan jwbn terbaik :D<br><br><br><br><br><br><br><br><br><br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "help-me-1-tepat-di-tengah-batang-ditancapkan-paku-masa-bata-439",
+            "question": "HELP ME!!    1)\u00a0Tepat di tengah\u00a0batang ditancapkan paku. Masa batang adalah 0,4 kg. Berapakah kecepatan sudut yg dialami batang jika diputar dari keadaan diam selama 5 menit?\r\n\r\n2)\u00a0Dari keadaan diam sebuah lempeng silinder pejal tipis berdiameter 400 cm menuruni sebuah bidang miring seperti gambar. Berapa kecepatan silinder di titik x?",
+            "attachments": [
+                "question-attachments/help-me-1-tepat-di-tengah-batang-ditancapkan-paku-masa-bata-439-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "yang nomor 2 pakai hukum kekekalan energi .....<br>Em1=Em2 <br>Ep=EK ( Rotasi) + EK ( Translasi )\u00a0 { sudah diajarkan kan persamaan ini????} <br>m.g.h=[tex] \\frac{1}{2} [/tex] m.[tex] v^{2} [/tex] + [tex] \\frac{1}{2} [/tex] I . [tex]w^{2} [/tex]<br>m.g.h= [tex] \\frac{1}{2} [/tex] { m . [tex] v^{2} [/tex] + [tex] \\frac{1}{2} [/tex] m.[tex] r^{2} [/tex] . [tex] \\frac{ v^{2} }{ r^{2} } [/tex] } } <br>\u00a0\u00a0 g.h = [tex] \\frac{1}{2} [/tex] m.[tex] v^{2} [/tex] + [tex] \\frac{1}{4} [/tex] m.[tex] v^{2} [/tex]<br>\u00a0\u00a0 v = [tex] \\sqrt{ \\frac{4}{3}  . gh} [/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "ciri-umum-gelombang-berdiri-252",
+            "question": "Ciri umum gelombang berdiri",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "mengalami pemantulan (refleksi), pembiasan (refraksi), penggabungan (superposisi), pelenturan (defraksi<span>), dan polarisasi (khusus gelombang transversal).</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suspensi-truk-sering-memiliki-pegas-pembantuyang-bekerja-ketik-784",
+            "question": "Suspensi truk (sering memiliki \"pegas pembantu\"yang bekerja ketika beban truk sangat besar. pegas ayun\u00a0 dengan pegas pembantu berupa pegaskoil dipasang ditengah-tengahnya. Pegas pembantu akan bekerja ketika pegas ayun tertekan sejauh",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "sejauh pembatas yang ada pada mobil truk dan sesuai dengan kemampuan pegas ayun yang akan menekannya",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-momen-gaya-1-nm-dikerjakan-pada-roda-yang-mula-mula-diam-667",
+            "question": "Sebuah momen gaya 1 Nm dikerjakan pada roda yang mula-mula diam. momentum sudut roda setelah 2 sekon?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1 new nton dikali 2 =3/5<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span>1 new nton dikali 2 =3/5</span><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "kak-tolong-jelasin-tentang-rumus-hukum-newton-2-698",
+            "question": "Kak tolong jelasin tentang Rumus hukum newton 2",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "percepatan yg dihasilkan oleh resultan gaya bekerja pada suatu benda berbanding lurus dgn resultan gaya dan searah dengan resultan gaya dan berbanding terbalik dgnn massa",
+                    "attachments": []
+                },
+                {
+                    "answer": "\"Percepatan sebuah benda berbanding lurus dengan resultan gaya dan berbalik terbalik dengan massa benda.\"<br>a= F/m<br><u></u><strong>S\u00a0F= m a</strong><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "faktor-apa-saja-yang-mempengaruhi-besarnya-konstanta-elastisitas-773",
+            "question": "Faktor apa saja yang mempengaruhi besarnya konstanta elastisitas suatu kawat?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "menurut saya yang mempengaruhi konstanta adalah<br>gaya dan pertambahan panjang :)",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-bola-pejal-dengan-massa-6-kg-dan-berjari-jari-20-cm-berger-996",
+            "question": "sebuah bola pejal dengan massa 6 kg dan berjari-jari 20 cm bergerak pada kelajuan 30 m/s sambil berputar. total energi kinetiknya adalah....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "ek=1/2\u00d7m\u00d7v\u00b2<br>ek=1/2.6.30\u00b2<br>ek=2700<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Ek= 1/2 . m. v \u00b2 + 1/2.I.\u03c9\u00b2<br>\u00a0\u00a0 \u00a0= 1/2. 6. 900 + 1/2. (1/2.6.0,04). (900/0,04)<br>\u00a0\u00a0 \u00a0 = 2700 + 1350<br>\u00a0\u00a0 \u00a0 = 4050 m/s\u00b2",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-benda-panjangnya-2-meter-setelah-ditarik-oleh-gaya-30n-pan-113",
+            "question": "sebuah benda panjangnya 2 meter setelah ditarik oleh gaya 30N panjangnya menjadi 2,02 meter. Besar konstanta pegas benda tersebut adalah..",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "dik<br>panjang awal = 2 m<br>panjang akhir = 2,02 m<br>F = 30 N<br>dit :<br>k..?<br>jwb ..<br>x= panjang akhir - panjang awal = 2,02 - 2 m = 0,02 m<br><br>maka k = F/x = 30 N / 0,02 m = 1500 N/m",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-bus-kecepatannya-berubah-dari-ms-menjadi-35-ms-setelah-m-590",
+            "question": "Sebuah bus kecepatannya berubah dari m/s menjadi 35 m/s setelah menempuh jarak 50 m. waktu yang dibutuhkan bus tersebut adalah...s.     a. 3,61\r\nb.3\r\nc.2,82\r\nd.1,82\r\ne.0,83",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "dik :\u00a0<br>v\u2080 = 0<br>v\u2081= 35 m/s<br>s = 50 m<br>t..?<br><br>v = s/t<br>35m/s = 50 m / t<br>t . 35 m/s = 50 m<br>t = 50 m/ 35 m/s<br>t = 10/7/s<br>t=1,428 s<br><br>maaf kalau salah pemahaman :)<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-kumparan-ketika-dihubungkan-dengan-sumber-arus-searah-150v-824",
+            "question": "Sebuah kumparan ketika dihubungkan dengan sumber arus searah 150v mengalir arus 5 A. sedangkan ketika dihubungkan dengan sumber arus bolak balik juga 150v, mengalir arus 3 A. Reaktansi kumparan sebesar... Ohm    mohon bantuannya?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "R1 = V/l = 150 / 5 = 30<br>R2 = V/l = 150 / 3 = 50<br>R total = R1 + R2 = 30 + 50 = 80<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span>R total = R1 + R2 = 30 + 50 = 80</span><br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

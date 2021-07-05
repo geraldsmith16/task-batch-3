@@ -1,0 +1,128 @@
+{
+    "question": "Dengan menggunakan matriks persegi, tunjukkan bahwa (B^-1)^-1=B\r\n dan [B^t]^-1=[B^-1]^t",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "a)<br>misalkan matik B = (1 \u00a03)<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0(2 \u00a04)<br><br>(B^-1)^-1 = B<br>B^-1 = 1/-2 (4 \u00a0-3)<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0(-2 \u00a01)<br>\u00a0 \u00a0<br>\u00a0 \u00a0 \u00a0 \u00a0 = (-2 \u00a03/2)<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0(1 \u00a0 -1/2)<br><br>(B^-1)^-1 = -2 ( -1/2 \u00a0 \u00a0-3/2)<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0( -1 \u00a0 \u00a0 \u00a0 \u00a0-2)<br>\u00a0 \u00a0\u00a0<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = (1 \u00a0 \u00a0 3)<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0(2 \u00a0 \u00a0 4)<br><br>terbukti bahwa (b^-1)^-1 = B<br><br>b)<br>B^t = (1 \u00a02)<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0(3 \u00a04)<br>(B^t)^-1 = 1/-2 (4 \u00a0-2)<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 (-3 \u00a01)<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= (-2 \u00a0 \u00a0 \u00a0\u00a01)<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 (3/2 \u00a0-1/2)\u00a0<br><br>(B^-1)^t = (-2 \u00a0 \u00a01)<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 (3/2 \u00a0-1/2)<br><br>terbukti bahwa (B^t)^-1 = (B^-1)^t<br><br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "dik-3tex-leftbeginarraycccpampq2amp6endarray-186",
+            "question": "Dik 3[tex] \\left[\\begin{array}{ccc}p&amp;q\\\\2&amp;6\\\\\\end{array}\\right]    [/tex] = +  . nilai dari 2q + p adalah,\r\n\r\ntolong bantu, cara + penjelasanya kawan",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]3\\left[\\begin{array}{cc}p&amp;q\\\\2&amp;6\\end{array}\\right]=\\left[\\begin{array}{cc}p&amp;6\\\\-1&amp;5\\end{array}\\right]+\\left[\\begin{array}{cc}4&amp;p+q\\\\7&amp;13\\end{array}\\right]\\\\\n\\left[\\begin{array}{cc}3p&amp;3q\\\\6&amp;18\\end{array}\\right]=\\left[\\begin{array}{cc}p+4&amp;6+(p+q)\\\\-1+7&amp;5+13\\end{array}\\right]\\\\\n\\left[\\begin{array}{cc}3p&amp;3q\\\\6&amp;18\\end{array}\\right]=\\left[\\begin{array}{cc}p+4&amp;p+q+6\\\\6&amp;18\\end{array}\\right]\\\\\n\\\\\n3p=p+4\\\\\np=2\\\\\n\\\\\n3q=p+q+6\\\\\n2q=2+6\\\\\n2q=8\\\\\n\\\\\nmaka\\ 2q+p=8+2=10[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "di-bantu-yah-sulaiman-ingin-membeli-3-baju-dan-1-pasang-sepa-324",
+            "question": "Di Bantu yah.....    Sulaiman ingin membeli 3 baju Dan 1 pasang sepatu di toko swalayan . Jika di toko tsb tersedia 6baju Dan 2pasang sepatu, banyak nya cara sulaiman memilih barang adalah........",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "21 cara memilih baju dan 3 baju diantaranya dipilih<br>2 cara memilih sepatu dan salah satunya dipilih",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-suku-pertama-beda-dan-u20-jika-u810-dan-u1226-395",
+            "question": "Tentukan suku pertama, beda, dan U20. jika U8=10 dan U12=26",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "beda = 26 - 10 per 12 - 8 = 16 per 4 = 4.<br>suku pertama = 10-4-4-4-4-4-4-4 = -18<br>semoga membantu :))<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bentuk-sederhana-dari-3-akar-81-2-akar-27-3-akar-243-445",
+            "question": "Bentuk sederhana dari 3\u00a0akar 81 - 2 akar 27 + 3 akar 243",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex] \\sqrt[3]{81} = 9 -  \\sqrt[2]{27} = 13,5 +  \\sqrt[3]{243} = 81\u00a0<br>9-13,5+81= 76,5",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-nilai-x-yang-memenuhi-pertidaksamaan-irasional-berikut-384",
+            "question": "Tentukan nilai x yang memenuhi pertidaksamaan irasional berikut\r\n\u221ax\u00b2-x+2 per \u221ax+5 \u2265 1",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex] \\frac{ \\sqrt{ x^{2} -x+2} }{ \\sqrt{x+5} }  \\geq 1[/tex]<br><br>kalikan penyebut ke 1<br><br>[tex] \\sqrt{ x^{2}-x+2}  \\geq  \\sqrt{x+5} [/tex]<br><br>kuadratkan kedua ruas<br><br>[tex] x^{2} -x+2-(x+5)  \\geq 0[/tex]<br><br>[tex] x^{2} -2x+3 \\geq 0[/tex]<br><br>(x+1)(x-3)\u00a0[tex] \\geq 0[/tex]..........(1)<br><br>buat grafik koordinat garis x pada -1 dan 3 sehingga didapat nilai di antara -1 dan 3 misal 2 dimasukkan ke pers 1 dapet minus, padahal nilai yg diharapkan\u00a0[tex] \\geq 0[/tex] maka kedua nilai disebelah kanan dan kiri merupakan plus dg melakukan pembuktian yang sama, dapet x[tex] \\leq -1[/tex] atau x[tex] \\geq 3[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-rumus-invers-dr-fungsi-brikut-a-fxx-3-b-fx2x5-436",
+            "question": "Tentukan rumus invers dr fungsi\" brikut:    a. f(x)=x-3\r\nb. f(x)=2x+5\r\nc. f(x)=2-seperdua x\r\nd. f(x)=x3\r\ne. f(x)= 6per x, tidak sama dengan 0\r\nf). f(x)= 2 per x-1, x tidak sama dengan 1\r\ng). f(x)=2x-3 per 4x-1, xtidak sama dengan seperempat\r\nh). f(x)= 3x+5 per x-5, x-5 tidak sama dengan 0.\r\nthanks bg yang bs jwb.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "perhatikan caranya : f(x) = x+ 3<br>&lt;=&gt; y = x + 3<br>&lt;=&gt; x = y - 3<br>&lt;=&gt; finvers(y) = y - 3\u00a0<br>jadi finvers (x) = x - 3 \u00a0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-3log-2-x-dan-2log-5y-nilai-5log-15-beserta-car-876",
+            "question": "Diketahui\u00a03log 2 = x dan\u00a0\r\n 2log 5=y. Nilai 5log 15 =\r\n\r\n\r\nBeserta caranya ya",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "3log2= x , diubah jadi 2log3=1/x<br>2log5=y<br><br>5log15 = 2log15 / 2log5<br>= 2log 3 x 2log5 / 2log5<br>= 1/x + y / y<br>= ( y + xy /xy) / y<br>= y + xy / y(xy)<br>= y + xy / xy^2<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apabila-p42-dan-a-sudut-yang-dibentuk-oleh-sisi-op-dengan-su-434",
+            "question": "apabila P(4,2) dan\u00a0\u03b1 sudut yang dibentuk oleh sisi OP dengan sumbu Y, tentukan nilai dari sin\u03b1, cos\u03b1, tan\u03b1, sec\u03b1,cosec\u03b1 !",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "harap dikoreksi apabila terdapat kesalahan<br>silakan dipelajari",
+                    "attachments": [
+                        "answer-attachments/apabila-p42-dan-a-sudut-yang-dibentuk-oleh-sisi-op-dengan-su-434-1.png"
+                    ]
+                },
+                {
+                    "answer": "diket = OP (4,2) dengan a=4 dan b = 2. cari c/sisi miringnya = \u221a16 + \u221a4 = \u221a20 = 2\u221a5.<br>sin \u03b1 = b/c = 2/2\u221a5 = 4\u221a5/20= 1/5 \u221a5<br>cos \u03b1 =\u00a0 a/c = 4/2\u221a5= 8\u221a5/20=2\u221a5/5<br>tan= b/ a = 2/4 = 1/2<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "seorang-pengusaha-kaya-memiliki-500-botol-jus-tapi-diketahui-ter-402",
+            "question": "Seorang pengusaha kaya memiliki 500 botol jus. Tapi diketahui terdapat 1 botol jus yang beracun di antara 500 botol jus tersebut. Jika terminum bisa menyebabkan kematian dalam waktu kurang lebih 24 jam.    Seorang cendekiawan bernama joko diperintah untuk menemukan 1 botol jus beracun tersebut. joko membuat strategi. Dia akan mengambil sampel jus-jus tersebut dan mencobanya kepada beberapa ekor tikus. Setelah itu tikus-tikus itu dibiarkan dalam 24 jam dalam kurungan untuk melihat reaksinya.\u00a0\r\n\r\nBerapakah tikus minimal yang dibutuhkan joko? Dan bagaimana strateginya?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "sekitar 300 - 500 ekor tikus",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-sebuah-bangunan-dikerjakan-oleh-30-orang-akan-selesai-selama-960",
+            "question": "jika sebuah bangunan dikerjakan oleh 30 orang akan selesai selama 15 hari, jika dimnta pekerjaan harus selesai dalam waktu 5 hari berapa pekerja yang harus ditambahkan?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "30 org = 15 hari<br>x org\u00a0 = 5 hari<br><br>jawab:<br><u>x\u00a0</u> \u00a0 =\u00a0 <u>15</u><br>30\u00a0 \u00a0\u00a0 \u00a0 5 <br><br>5x = 30 \u00d7 15<br>x\u00a0 = <u>450</u><br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 5<br>x = 90 orang<br><br>pekerja yang harus ditambah:<br>90 - 30 = 60 orang<br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

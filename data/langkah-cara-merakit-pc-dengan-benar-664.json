@@ -1,0 +1,140 @@
+{
+    "question": "Langkah\u00a0cara\u00a0merakit\u00a0pc\u00a0dengan\u00a0benar?",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "<span>1. Letakkan motherboard pada tempat yang datar dan jangan lupa beri alas dengan permukaan yang lembut agar motherboard tidak tergores atau putus jalur komponennya.<br><br><br>\u00a02. Pasang processor pada motherboard. Pemasangan processor usahakan diluar casing agar memudahkan anda dalam pemasangan processor tersebut. Pemasangan processor disesuaikan dengan jenis processor dan motherboard yang digunakan.<br><br><br>\u00a03. Setelah prosessor terpasang kemudian lakukan pemasangan kipas processor.</span><span><br><br><span>\u00a04. Pasang RAM pada slot RAM yang tersedia pada motherboard. Pemasangan RAM pada slot harus mengikuti aturan karena apabila terjadi kesalahan dalam pemasangan dapat membuat RAM dan motherboard rusak atau terbakar.\u00a0</span><br><br><br></span>5. Siapkan casing untuk pemasangan semua komponen yang sudah di sediakan.<span><br><span>6. Setelah menyiapkan casing pasanglah catu daya atau power supply seperti gambar dibawah ini.\u00a0</span><br><br><br></span><span><span>7. Setelah itu masukkan motherboard pada casing secara perlahan agar motherboard tidak rusak. Pada saat pemasangan motherboard, perhatikan konektor mouse, keyboard, serial, vga dan sound agar terpasang dengan panel yang terdapat pada casing dengan benar.\u00a0</span><br><span><br><br></span></span>8. Kemudian bautlah motherboard dengan dudukannya agar kuat dan tidak goyang.<span><br>9. Di contoh ini kita menggunakan motherboard yang sudah dilengkapi dengan VGA, Sound Card, dan LAN Card yang sudah menjadi satu dalam motherboard. Komponen yang sudah menjadi satu dengan motherboard disebut dengan komponen ON BOARD.</span><span><br>10. Setelah itu pasanglah CD ROM pada rak yang terdapat pada casing, dengan cara memasukkannya dari depan.</span><span><br>11. Kemudian bautlah CD ROM yang telah terpasang tadi dangan raknya agar tidak goncang. Kemudian pasangkan kabel power dan kabel data atau kabel ATA CD ROM pada motherboard.</span><span><br>12. Pasanglah harddisk pada rak yang terdapat pada casing dengan perlahan agar harddisk tidak terbentur. Karena komponen harddisk ini sangat rawan tehadap goncangan. Kemudian baut dengan kencang agar tidak goyang.</span><span><br><span>13. Setelah harddisk terpasang kemudian pasanglah kabel data atau kabel ATA harddisk pada motherboard dan pada harddisk itu sendiri.\u00a0</span><br><br><br></span><span>14. Pasang konektor power supply pada tempatnya yang terdapat di motherboard. Jika pemasangan ini salah maka akan mengakibatkan kerusakan yang fatal pada motherboard.<br><br><br></span><span><span>15. Kemudian tancapkan konektor power / restart / hdd lad / power lad dan pad konektor lainnya yang terdapat di motherboard seperti gambar berikut.\u00a0</span><br><br><br></span><span>16. Setelah kita selesai merakit semua komponen kemudian pasang penutup casing dan perakitan tersebut harus kita tes apakah berhasil atau tidak. Pasang kabel port VGA ke monitor kemudian power monitor dan CPU ke saklar listrik, selanjutnya hidupkan bila komputer dapat BOOTING maka perakitan berhasil. Bila tidak dapat BOOTING berarti perakitan belum sempurna, maka harus disempurnakan terlebih dahulu bila nanti ingin menginstal Sistem Operasi nya dengan cara cek kembali semua komponen yang telah terpasang apakah sudah benar atau tidak</span><br>Semoga Bermanfaat",
+            "attachments": []
+        },
+        {
+            "answer": "tahap2 perakitan komputer.<br>1. pemilihan komponen dan spesifikasi komputer <br>2. memeriksa komponen komputer <br>3. mengkonfigurasikan<br>4. penambahan peralatan jika di perlukan<br>5. tahap pemeriksaan hasil instalasi<br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "dalam-istilah-kata-desain-grafis-huruf-manakah-yang-paling-tepa-924",
+            "question": "Dalam istilah kata desain grafis,\u00a0huruf manakah yang paling tepat. design graphic,\u00a0desain\u00a0graphic, design grafis? dan alasan",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "tergantung,<br>jika inggris, benarnya \"design graphic\"<br>jika dalam bahasa, benarnya \"desain grafis\"<br><br>CMIIW",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bagaimana-cara-kerja-wireless-network-tp-link-tl-wn3211g-agar-dap-166",
+            "question": "Bagaimana cara kerja Wireless Network TP-Link TL-WN3211G agar dapat membantu mempercepat koneksi / speed Modem Smartfren, apa yang harus dilakukan agar bisa berfungsi dengan baik, jelaskan langkah-langkahnya!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Wireless Adapter tidak dapat mempengaruhi KECEPATAN INTERNET<br>Jika Ingin lebih cepat , Gunakan paket yang paling tinggi dan sinyal yang kuat",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentang-microsoft-office-excel-1-pada-setiap-tab-terdapat-sat-751",
+            "question": "Tentang Microsoft Office\u00a0Excel\u00a0    1. pada setiap tab terdapat satu huruf yang digaris bawah. jelaskan fungsi hal tersebut dan berikan 2 contoh penggunaanya ?\r\n\r\n2. perintah apakah yang dapat di gunakan untuk memodifikasi suatu sel? jelaskan langkahnya\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "fungsinya adalah untuk sebagai shortcut, tekan tombol ALT maka setiap objek akan digaris bawahi, tekan tombol yg digaris bawahi dinkeyboard",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bagaimana-cara-mengimplementasikan-php-dengan-css-untuk-menampilk-651",
+            "question": "Bagaimana cara mengimplementasikan PHP dengan CSS untuk menampilkan data dari database ?",
+            "attachments": [
+                "question-attachments/bagaimana-cara-mengimplementasikan-php-dengan-css-untuk-menampilk-651-1.docx"
+            ],
+            "answers": [
+                {
+                    "answer": "Pertama ada perbedaan antara PHP dengan CSS, PHP adalah bahasa pemrograman sedangkan CSS adalah pelengkap dalam pemrograman web, yang pada artinya CSS bukan lah bahasa pemrograman itu sendiri.<br><br>PHP degan CSS, artinya PHP di gunakan dalam CSS. yang seharusnya CSS dengan PHP, yang dengan nalar bahasa indonesia yag baik dan benar dapat di artikan bahwa CSS di gunakan untuk PHP.<br><br>penggunaan pengaksesan database menggunakan credential HANYA pada PHP, dengan pengelogikaan sesuai logika masing-masing.<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-jelaskan-hierarchy-chomsky-973",
+            "question": "1.\u00a0\u00a0\u00a0\u00a0\u00a0\r\nJelaskan Hierarchy Chomsky",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Hierarchy Chomsky adalah menyusun grammar dalam urutan yang dia sebut tipe 0,1,2,3, dan seterusnya. tipe o adalah bentuk yang paling bebas dan paling sulit dikenali<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "cara-membuat-cover-novel-keren-dari-coreldraw-814",
+            "question": "Cara membuat cover novel keren dari coreldraw",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "caranya tinggal diedit-edit ajalah",
+                    "attachments": []
+                },
+                {
+                    "answer": "Caranya dengan mendownload gbr yang anda suka, lalu di edit dengan corel draw dengan tool yang ada dan bisa di trim juga. Bisa divariasikan dgn gmbr lain sesuai imajinasi, tambahkan teks dengan text tool",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "kenapa-sih-windows-7-tidak-bisa-update-otomatis-lagi-ketika-diu-579",
+            "question": "Kenapa sih Windows 7 tidak bisa update otomatis lagi ?    Ketika diupdate, malah gagal.\r\n\r\nSolusi mengatasinya gimana ya ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "ori gk? sejak kapan?",
+                    "attachments": []
+                },
+                {
+                    "answer": "virusnya udah numpuk X , hixhixhix ,\u00a0mungkin bisa juga kendala dari jaringan ketika nge update...!",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "buat-halaman-html-untuk-menampilkan-aplikasi-program-tiket-pesawa-977",
+            "question": "Buat halaman html untuk menampilkan aplikasi program tiket pesawat dengan menggunakan javascript",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Program osTicket,Bisa Di Download Penginstallan Nya Juga Mudah<br>Bisa Di Download Lewat\u00a0osticket.com/download",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apa-yang-kalian-ketahui-tentang-memory-ram-pc-ddr3-sebutkan-se-268",
+            "question": "Apa yang kalian ketahui tentang memory RAM PC DDR3???\r\nSEButkan sejarah singkatnya???",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>DDR3 sudah menggunakan teknologi 90 nm sehingga konsusmsi daya yang diperlukan hanya 1.5v. Ia mampu mentransfer data dengan clock efektif sebesar 800-1600 MHzDDR3 memiliki clock internal 400-800 MHz (Random Access Memory) ditemukan oleh Robert Dennard dan diproduksi secara besar-besaran oleh intel pada tahun 1968</span><br>Sejarah Perkembangan RAM<br><span>1 . DRAMmunculpadatahun 1970,IBMmenciptakansebuahmemori yang dinamakan DRAM(Dynamic Random Access Memory) yang mempunyaifrekuensikerja yang bervariasi,yaituantara 4,77MHz hingga 40MHz</span><span>2 . FPM RAMmunculpadatahun 1987,RAMjenis FPM (Fast Page Mode) merupakan RAM paling kerap digunakan dalam system komputer pada masa itu,FPM bekerja pada rentangfrekuensi 16MHz hingga 66MHz dengan access time sekitar 50ns.selain itu FPM mampumengolah transfer data (bandwith) sebesar 188,71MB/detik, FPM jugadikenalisebagai DRAM (Dynamic Random Access Memory) saja,FPMmenggunakanmodulmemori SIMM 30 pin &amp; SIMM 72 pin</span><span>3 . EDORAMmunculpadatahun 1995,Extended Data Output Dynamic Random Access Memory yang merupakanpenyempurnaandari FPM. EDORAM mempunyai access time sekitar 70ns hingga 50ns &amp;bekerjapadafrekuensi 33MHz hingga 75MHz.</span><span>4. SDRAMmunculpadaperalihan 1996-1997,Synchronous Dynamic Random AccsessMemory,lebihdikenalsebagai PC66 karenabekerjapadafrekuensi bus 66MHz.,tegangan hanya 3,3volt, access time sebesar 10ns &amp;mampumenghantarkan data dengankecepatanmaksimal 55MB/det</span><span>5.\u00a0 RDRAMmunculpadatahun 1999,yangmenggunakanmodulRIMM,transfer data secara serial pada data bus 16-bit,dengan kecepatan 16GB/det.</span><span>6. SDRAM PC 133bekerjapada bus berfrekuensi 133MHz dengan access time sebesar 1,06GB/det.</span><span>7. SDRAM PC 150padatahun 2000 memori PC150 mempunyaiaccsess time 7ns &amp;mampumengalirkan data sebesar 1,28GB/det</span><span>8. DDR-SDRAMpadatahun 2000 menggunakansistem bus denganfrekuensisebesar 100-133MHz</span><span>9. DDR2 SDRAMpadatahun 2004 memilkikelebihan High clock speed 400-800MHz,memiliki 1 keping 2 GB &amp;dipasangkanpada single bank sertamenggunakanteknologikoneksi Ball Grid Array (BGA)</span><span>10. DDR3 2GBpada 2007, memilikibandwithsampaidengan 1600MHz&amp;mampu mentransfer data dengan clock efektif 800-1600MHz.</span>",
+                    "attachments": []
+                },
+                {
+                    "answer": "DDR3 sudah menggunakan teknologi 90 nm sehingga konsusmsi daya yang \ndiperlukan hanya 1.5v. Ia mampu mentransfer data dengan clock efektif \nsebesar 800-1600 MHz. DDR3 memiliki clock internal 400-800 MHz.Prototipe\n dari DDR3 yang memiliki 240 pin. Sejarah: (Random Access Memory) \nditemukan oleh Robert Dennard dan diproduksi secara besar-besaran oleh \nintel pada tahun 1968<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "mengapa-ilmu-pengetahuan-dan-teknologi-saat-ini-banyak-dikuasai-o-245",
+            "question": "mengapa ilmu pengetahuan dan teknologi saat ini banyak dikuasai oleh umat nonmuslim, padahal al-Quran banyak memerintahkan kaum muslimin mengeksplorasi ilmu pengetahuan dan alam semesta? analisislah hal tersebut dan kemukakan alasannya!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Mungkin karena kebanyakan yang tidak bersungguh sungguh dlam belajar,,,<br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

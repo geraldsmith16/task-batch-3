@@ -1,0 +1,138 @@
+{
+    "question": "Jika : 13 + 11 + 9 +...... + Un = -1800\r\ntentukan banyak suku deret tersebut ?",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "cari dlu rumus suku ke-n atau Un<br>Un = (a +(n-1)b) = 13 +(n-1)-2 = 15 - 2n<br>kemudian masukkan rumus jumlah sukuk ke- n atau Sn<br>Sn= n/2(a + Un)<br>-1800=n/2(13 + 15 - 2n)<br>-1800=(28n - 2n^2)/2<br>-3600 = 28n - 2n^2 \u00a0 \u00a0 \u00a0 (pindahkan semua yang di ruas kanan ke ruas kiri)<br>2n^2 - 28n -3600 = 0 \u00a0 \u00a0 (bagi 2 kedua ruas)<br>n^2 - 14n -1800 = 0 \u00a0 \u00a0 \u00a0 \u00a0 (faktorkan)<br>(n-50)(n+36) = 0<br>n = 50 atau -36<br><br>jawabannya n adalah 50, karena harus bernilai positif, atau syarat di atas adalah n= bil . asli<br>(coba saja bayangkan apakah ada suku ke -36??) yang ada adalah suku ke 50,\u00a0<br><br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "jika-salah-satu-akar-dari-2x2-ax-3-0-adalah-3-maka-nil-475",
+            "question": "Jika salah satu akar dari 2x^2 \u2013 ax + 3 = 0 ,\r\n adalah 3 maka nilai a dan akar yang lain adalah?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "2x^2-ax+3=0<br>x=3,x?<br>x^2-(x1+x2)x+x1x2=0<br>x^2-(3+x)/2x+3/2=0<br>jdi x1.x2=3/2<br>3.x=3/2<br>x=1/2<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "harga-tiket-masuk-ke-ruangan-pameran-untuk-balita-rp200000-dan-415",
+            "question": "harga tiket masuk ke ruangan pameran untuk balita Rp.2000,00 dan untuk dewasa Rp.3000,00.Pada hari minggu terjual 540 tiket adengan hasil penjualan Rp1.260.000,00.banyak masing-masing tiket masuk balita dan dewasa terjual berturut turut adalah...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "balita = 360 tiket = 720.000<br>dewasa = 180 riket = 540.000<br>total = 1.260.000",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-bola-jatuh-dari-ketinggian-8m-dan-memantul-kembali-dengan-827",
+            "question": "sebuah bola jatuh dari ketinggian 8m dan memantul kembali dengan ketinggian 3/5 kali tinggi sebelumnya. Pemantulan ini berlangsung terus menerus hingga bola berhenti. Berapakah jarak lintasan seluruhnya?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "stidak terhingga=8 per 1-3/5<br>=8 per 2/5<br>=20m<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "n(5+3)/(5-3) = 8(8)/2 = 64/2 = 32m<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-ab-dan-c-adl-sudut2-pda-sebuah-segtiga-dan-nilai-dari-tan-367",
+            "question": "jika A,B, dan C adl sudut2 pda sebuah segtiga dan nilai dari tan A = 4, tan B = 3, maka nilai dari tan C=.......?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]A,\\ B\\ dan\\ C\\ merupakan\\ sudut2\\ dlm\\ segitiga,\\ maka\\\\\nA+B+C=180^{o}\\\\\nA+B=180^{o}-C\\\\\nTan(A+B)=Tan(180^{o}-C)\\\\\n\\frac{Tan A+Tan B}{1-TanATanB}=-TanC\\\\\n\\frac{4+3}{1-4(3)}=-TanC\\\\\n\\frac{7}{-11}=-TanC\\\\\nTanC=\\frac{7}{11}\n[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tuliskan-persamaan-x-y3-258",
+            "question": "Tuliskan persamaan {x-y=3}    \u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 {3x-2y=16} dalam bentukan matriks , lalu tentukan nilai 2x+5y",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "x - y = 3<br>3x -2y = 16<br><br>2x - 2y = 6<br><u>3x - 2y = 16</u> _<br><u></u>-x\u00a0 \u00a0 \u00a0 \u00a0 = -10<br><br>10 - y = 3<br>\u00a0\u00a0 \u00a0\u00a0 y = 7<br><br>2x +5y =<br>2*10 + 5*7 = 55<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pekerjaan-pak-suradi-adalah-pembuat-talang-airia-mendapat-pesana-415",
+            "question": "pekerjaan pak suradi adalah pembuat talang air.ia mendapat pesanan membuat talang air dari lembaran seng yang lebarnya 30cm dengan melipat lebarnya atas 3 bagian. bantulah pak suradi menentukan ukuran x agar volume tertampung maksimal ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "mav, soalnya ntu ada gambarnya nggak?<br>cz, x nya itu dmn?<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "limit-dari-2x-2-8xpangkat-2-4-limit-x2-267",
+            "question": "Limit dari 2/x -2 - 8/xpangkat 2 - 4=\r\nlimit x=2",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Lim (x--&gt;2)<br><br>[tex] \\frac{2}{x-2} - \\frac{8}{ x^{2} -4} = \\frac{2(x+2)-8}{ x^{2} -4}=\\frac{2x+4-8}{ x^{2} -4} \\\\  \\\\ =\\frac{2x-4}{ x^{2} -4} = \\frac{2(x-2)}{ (x+2)(x-2)}= \\frac{2}{x+2} [/tex]<br><br>[tex] \\frac{2}{2+2} =  \\frac{1}{2} [/tex]<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "3-bilangan-membentuk-barisan-geometri-jumlah-ke-3-bilangan-terseb-126",
+            "question": "3 bilangan membentuk barisan geometri jumlah ke 3 bilangan tersebut adalah 14, dan hasil kalinya 64. Tentukan ke 3 bilangan tersebut",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Dik : <br>Barisan geometri\u00a0 U\u2081 + U\u2082 + U\u2083 = 14\u00a0 ; U\u2081 x U\u2082 x U\u2083 = 64<br>Dit : <br>U\u2081\u00a0 ;\u00a0  U\u2082\u00a0  dan U\u2083<br>Jawab : <br>U\u2081 x U\u2082 x U\u2083 = 64 ==&gt; a x ar x ar\u00b2 = 64<br>a\u00b3 x r\u00b3 = 64 .... ruas kiri dan kanan diakar pangkat 3<br>ar = 4 ..... pers(1)<br><br>U\u2081 + U\u2082 + U\u2083 = 14 \u00a0 ==&gt;\u00a0 a + ar + ar\u00b2 = 14 \u00a0 ==&gt;\u00a0 a + ar + ar.r = 14 <br>a + 4 + 4r = 14 ==&gt; 4/r + 4 + 4r - 14 = 0\u00a0 \u00a0 ==&gt;\u00a0 4/r + 4r - 10 = 0 <br>4 + 4r\u00b2 - 10r = 0 ==&gt; 4r\u00b2 - 10r + 4 = 0 ==&gt; (4r - 2)(r - 2) = 0 <br>r = 1/2 atau r = 2 <br>untuk r = 1/2 maka a = 4/0,5 = 8 <br>maka bilangan yang dimaksud adalah : 8 , 4 , 2 <br>untuk r = 2, maka a = 4/2 = 2 <br>bilangan yang dimaksud adalah : 2 . 4 , 8 <br><br><br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "U\u2081 x U\u2082 x U\u2083 = 64\u00a0<br><span>sifat barisan geometri : U\u2081 x U\u2083 = U\u2082\u00b2\u00a0</span><br>maka didapat : U\u2082\u00b3 = 64 ----&gt; U\u2082 = 4 dan U\u2081 x U\u2083 = 16 ..... pers (1)<br>U\u2081 + U\u2082 + U\u2083 = 14<br><span>U\u2081 + 4 + U\u2083 = 14 ----&gt; U\u2081 + U\u2083 = 10 ......pers (2)\u00a0</span><br><span>dari pers 1 dan pers 2 didapat bilangan yang hasil kalinya 16 dan hasil jumlahnya 10 adalah 2 dan 8\u00a0</span><br><span>jadi bilangan yang dimaksud adalah 2 , 4 dan 8\u00a0</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "umur-abc-235-jumlah-umur-b-dan-c-adalah-24-tahun-maka-umur-497",
+            "question": "Umur a:b:c = 2:3:5 jumlah umur b dan c adalah 24 tahun maka umur a adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "umur b ditambah c = 24<br>\u00a0pebandingan umur b ditambah c = 8<br><br>2/8 dikali 24 = 6<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Dik: a:b:c = 2:3:5<br>b+c =\u00a024<br>Dit: a?<br>Jawab:<br><br>b:c = 3:5<br>b+c = 24<br>b =\u00a0[tex] \\frac{3}{8} [/tex]\u00d724 = 9 tahun<br>c =\u00a0[tex] \\frac{5}{8} [/tex]\u00d724 = 15 tahun<br><br>a:b:c = 2:3:5 = a:9:15<br>a = 6 tahun<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tinggi-badan-andi-kurang-3cm-dari-tinggi-badan-johan-sedangkan-j-232",
+            "question": "tinggi badan andi kurang 3cm dari tinggi badan johan, sedangkan jumlah tinggi badan kedua orang tersebut 329 cm. bentuklah persamaan dalam x kemudian selesaikan!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "johan \u00a0= x\u00a0<br>andi = x - 3\u00a0<br>x + ( x - 3 ) = 329<br>2x - 3 = 329<br>2x = 332<br>x = 166<br>johan = 166\u00a0<br>andi = x - 3 = 166-3 = 163<br>jika disesuaikan\u00a0<br>andi + johan harus = 329<br>163 + 166 = 329<br>329 = 329",
+                    "attachments": []
+                },
+                {
+                    "answer": "[tex]andi=x, johan=y\\\\\nx=y-3 \\rightarrow y=x+3\\\\\nx+y=329\\\\\nx+x+3=329\\\\\n2x=326\\\\\nx=163\\\\\ny=166[/tex]",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

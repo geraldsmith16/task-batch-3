@@ -1,0 +1,142 @@
+{
+    "question": "2^n+2 - 2^n-2 \u00f7 2^n-1(2^3-2)\r\n ^ = pangkat",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "ni hasilnya <br>= 4(2^n - 4)<br>n = 2<br><br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "jika-f-x-5x8-tentukan-nilai-fapabila-x-4-205",
+            "question": "Jika F (x) =5x+8 tentukan nilai f.apabila x=-4",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "F(x) = 5x + 8<br>jika x = - 4<br><br>maka:<br>F (-4) = 5 (-4) + 8<br>F(-4) = -20 +8<br>F(-4) = -12<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "f ( -4 ) = 5 (-4) + 8<br>f (-4) = -20 + 8<br>f (-4) = -12<br>f\u00a0 \u00a0 \u00a0 \u00a0 = -12/-4<br>f\u00a0 = 3<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "perbaikan-jalan-akan-selesai-dikerjakan-dalam-waktu-3-bulan-1-b-918",
+            "question": "perbaikan jalan akan selesai dikerjakan dalam waktu 3 bulan ( 1 bulan-30 hari) , jika dikerjakan denga 16 orang tenaga . setiapa minggu ( 1 bulan ada 5 hari minggu ) buruh libur berkeja. berapa orang buruh harus ditambah agar jalan selesai pada waktunya?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "3(30)x16 org = 1440<br>libur 5x3=15 hari tidak berkerja<br>90-15=75 hari<br><br>banyak pekerja = 1440/75=19,2 - 16= 3 orang yang harus di tambah<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "3x6-2x8-10-tolon-dong-yang-bisa-756",
+            "question": "3(x+6) = 2(x+8)-10\u00a0\r\ntolon dong\u00a0yang bisa",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "3x+18 = 2x+16-10<br>3x-2x = 16-10-18<br>x = -12<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "3(x+6) = 2(x+8) -10<br>3x + 18 = 2x + 16 -10<br>3x - 2x = 6 - 18<br>x = -12<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "harga-sebuah-topi-lebih-murah-rp5000-dari-sebuah-ikat-pinggang-469",
+            "question": "harga sebuah topi lebih murah rp.5000 dari sebuah ikat pinggang. harga 3 topi &amp; 2 ikat pinggang rp.45000 (misalkan harga sebuah ikat pinggang x rupiah)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1 buah topi= 4000<br>1 buah ikat pinggang= 16500<br>\u00a0<br>3 buah topi= 4000\u00d73= 12000<br>2 buah ikat pinggang= 16500\u00d72=33000<br>33000+12000=45000<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-jajargenjang-pqrs-besar-ltp-2x-10-ltq-80-444",
+            "question": "diketahui jajargenjang PQRS, besar &lt;P = (2x + 10), &lt;Q = 80, dan &lt;R=5y. Tentukan nilai x dan y.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "PQRS itu yang di bawah PQ atau RS?",
+                    "attachments": []
+                },
+                {
+                    "answer": "PQRS berturut\".. Q 80 drj..brrti S juga...trus kalo gitu P=R ...P+R= 360-Q+S<br>P+R=200 ...P=R brrti P=100 R=100..<br>2x+10=100 ...x=45....5y=100...y=20",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-sebuah-segitiga-panjang-sisinya-adalah-8-cm-15-cm-17-661",
+            "question": "Diketahui sebuah segitiga panjang sisinya adalah 8 cm, 15 cm, 17    cm. hitunglah panjang jari-jari lingkaran dari dalam segitiga dan luas \r\n segitiga.\r\n\r\ntolong dijawab. besok mau dikumpul..",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1/2 \u00d7 8 \u00d7 15 \u00f7 1/2 (8+15+17) =  60 \u00f7 20 =3 \n\nMaaf kalau ga jelas",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-jari-jari-lingkaran-tersebut-adalah-7cmhitunglah-akelilin-917",
+            "question": "Jika jari-jari lingkaran tersebut adalah 7cm,hitunglah!    a.keliling lingkaran\r\nb.panjang busur AB\r\nc.panjang busur BC\r\nd.panjang busur AC",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a. 22/7 x 14 = 44 cm",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-persegi-abcd-memiliki-panjang-sisi-a-cm-tentukan-panjang-511",
+            "question": "Sebuah persegi ABCD memiliki panjang sisi a cm. Tentukan panjang diagonal AC dalam a?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "berarti panjang diagonal AC=\u00a0[tex] \\sqrt{a} [/tex]",
+                    "attachments": []
+                },
+                {
+                    "answer": "ac=akar dari pada a.................",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "seorang-ayah-berumur-28-tahunketika-anaknya-lahirberaakah-umur-773",
+            "question": "Seorang ayah berumur 28 tahun,ketika anaknya lahir.Beraakah umur anak itu ketika jumlah umur mereka 48 tahun?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "ketika ayahnya berumur 48 tahun,anaknya berumur 20 tahun<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "x=umur ayah<br>y= umur anak <br>x=48<br>x-y=28<br>(48)-y=28<br>y=48-28=20<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-sekali-dijawab-yaa-pelajaran-kelas-z-matematika-perban-897",
+            "question": "Tolong sekali dijawab yaa.. PELAJARAN KELAS Z MATEMATIKA : PERBANDINGAN DAN SKALA\u00a0    soal: Untuk membangun ruang kelas baru sebanyak 2 kelas akan selesai dalam waktu 50 hari jika dikerjakan oleh 15 tukang.Setelah 20 hari bekerja bahan abis,pekerjaan terhenti 5 hari. berapa orang tukang ditambah agar ruang kelas itu tetap selesai tepat waktu?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "50 hari = 15 tukang<br>50 - 20 - 5 = x tukang<br>[tex] \\frac{50}{25} [/tex] =\u00a0[tex] \\frac{x}{15} [/tex]\u00a0<br>x = 2\u00a0\u00d7 15<br>x = 30<br><br>tambahan pekerja = 30 - 15 = 15",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

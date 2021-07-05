@@ -1,0 +1,144 @@
+{
+    "question": "sisi sisi sebuah segitiga adalah 88 cm, 105 cm, dan 137 cm. hitunglah garis tinggi segitiga yang menghadap sisi 105 cm?",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "<span>garis tinggi segitiga yang menghadap sisi 105 cm adalah 162,828 cm atau 225 cm\u00a0</span>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "rumus-penjumlahan-pecahan-biasa-917",
+            "question": "Rumus penjumlahan pecahan biasa",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Perkalian Silang ato penyebut di samakan dengan, lalu baru bisa di jjumlahkan",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "berapa-hasil-dari-18-618-6-562",
+            "question": "Berapa hasil dari\u00a0 (\u221a18 +\u00a0\u221a6(\u221a18-\u221a6))",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "( \u221a18+\u221a16(\u221a18-\u221a16))<br>=(3\u221a2+4(3\u221a2-4))<br>=18+12\u221a2+12\u221a2-16<br>=18+24\u221a2-16<br>=2+24\u221a2",
+                    "attachments": []
+                },
+                {
+                    "answer": "\u00a0hasil perubahan soal\u00a0 \u00a0\u00a03\u221a2 +\u00a0\u221a6(2\u221a3-\u221a6)<br>hasil\u00a03\u221a2 - 6 + 6\u221a3",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "cara-menggunakan-kpk-1-1416818-2-814-514-3-3035-1214-287",
+            "question": "Cara menggunakan KPK \r\n1. 14/16+8/18=\r\n2. 8/14-5/14=\r\n3 30/35-12/14=\r\n4 8/12-2/10=\r\n.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Jawab:<br>1. 14/18 + 8/18 = 22/18 (KPK penyebut sudah sama jadi bisa langsung dijumlahkan pembilangnya).<br>2. 8/14 - 5/14 = 3/14 (KPK penyebut sudah sama jadi bisa langsung dikurangkan pembilangnya).<br>3. 30/35 - 5/14 = 60/70 - 5/70 = 55/70 : 5/5= 11/70 (bentuk paling sederhana).<br>\u00a0 \u00a0(KPK penyebut belum sama jadi harus disamakan dulu KPK nya:<br>\u00a0 \u00a0 35 = 5 x 7<br>\u00a0 \u00a014 = 2 x 7<br>\u00a0 \u00a0KPK = 2 x 5 x 7 = 70)<br>4. 8/12 - 2/10 = 40/60 - 12/60 = 28/60 : 2/2 = 19/30.<br>\u00a0 \u00a0(KPK penyebut belum sama jadi harus disamakan dulu KPK nya:<br>\u00a0 \u00a0 12 = 2 x 2 x 3 =\u00a0[tex] 2^{2} [/tex] x 3<br>\u00a0 \u00a0 10 = 2 x 5<br>\u00a0 \u00a0 KPK =\u00a0\u00a0[tex] 2^{2} [/tex]\u00a0x 2 x 3 = 60).<br><br><br>semoga bisa membantu ^_^,,,<br>maaf kalau ada kesalahan ^_^,,,<br>jika tidak mengerti, silahkan ditanyakan ^_^,,,",
+                    "attachments": []
+                },
+                {
+                    "answer": "1.\u00a0[tex]\\frac{14}{16}+\\frac{8}{18}[/tex]<br>KPK (16,18)\u00a0= 16x9 = 144<br>[tex]\\frac{14}{16}+\\frac{8}{18}=\\frac{14\\times 9}{144}+\\frac{8\\times 8}{144}=\\frac{126}{144}+\\frac{64}{144}= \\frac{190}{144} [/tex]<br><br>2.<br>[tex] \\frac{8}{14} - \\frac{5}{14}= \\frac{8-5}{14} = \\frac{3}{14}  [/tex]<br><br>3.<br>[tex] \\frac{30}{35}- \\frac{12}{14}= \\frac{6}{7}   - \\frac{6}{7} = 0[/tex]<br><br>4.<br>[tex] \\frac{8}{12}- \\frac{2}{10}= \\frac{2}{3}- \\frac{1}{5}=     \\frac{2\\times 5}{15}- \\frac{1\\times 3}{15} =\\frac{10}{15}- \\frac{ 3}{15}=\\frac{ 7}{15}[/tex]<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bagaimana-mencari-segi-empat-tali-busur-102",
+            "question": "Bagaimana mencari segi empat tali busur?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Mencari Luas Segiempat Talibusur menggunakan Rumus\u00a0Brahmagupta\n\t\n\t\t<span>Sekitar abad ke tujuh Masehi, dalam Geometri Euclidean,\u00a0 Brahmagupta,\n seorang matematikawan asal India menemukan Rumus untuk mencari luas \nsegiempat talibusur yang telah diketahui panjang sisi-sisinya dan \nbeberapa sudutnya.</span>\n\n\nRumus Umum:\n<span>Jika diketahui segiempat talibusur memiliki sisi-sisi , , , dan  serta setengah keliling , maka luas segiempat tali busur  dapat dinyatakan dengan</span>\n\n<span>.</span>\nBukti:\n<span>Salah satu metode sederhana untuk membuktikannya adalah dengan memanfaatkan trigonometri. Misalkan dalam segiempat talibusur  (Lihat ilustrasi berikut)<span>, </span>merupakan titik sudut antara  dan , , merupakan titik sudut antara  dengan , dan  merupakan diagonal yang menghubungkan kedua sudut yang lain.</span>\n\n<span>Karena , diperoleh:</span>\n<span> dan </span>\n<span>Dengan menggunakan Aturan Cosinus,</span>\n\n\u00a0 yang mana dapat diperoleh:\n\nPerhatikan pula bahwa Luas segiempat talibusur:\n<span>,</span>\ndari sini kita juga memperoleh:\n<span>Dengan mengkuadratkan  dan  kemudian dijumlahkan, akan diperoleh</span>\n\nyang dapat disederhanakan menjadi\n<span>Tentunya kita sudah tahu bahwa . dengan mengaplikasikan identitas ini berkali-kali akan diperoleh:</span>\n<span>Dimana </span>\nBagi dengan 16, kemudian ambil akar kuadrat dari masing-masing ruas diperoleh :\n<span>Bentuk spesial rumus ini adalah saat  yang mengakibatkan segiempat talibusur ini merupakan suatu segitiga yang memiliki sisi-sisi , , , dan setengah keliling , dengan luas:</span>\n<span>yang terkenal dengan nama Rumus Heron.</span>\nRumus Brahmagupta sendiri dapat diperluas untuk segiempat yang bukan merupakan segiempat talibusur\n<span>di mana  merupakan jumlah dua buah sudut yang berlawanan. Pada segiempat talibusur, karena jumlah kedua sudut yang berlawanan , maka .</span><br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "gradien-garis-3y-5x120-adalah-161",
+            "question": "Gradien garis 3y-5x+12=0 adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "m=-a/b<br>\u00a0 \u00a0=-(-5)/3<br>\u00a0 \u00a0=5/3",
+                    "attachments": []
+                },
+                {
+                    "answer": "3y - 5x + 12 = 0<br>3y = 5x -12<br>[tex]y =  \\frac{5}{3} x - 4[/tex]<br><br>[tex]m = \\frac{5}{3} [/tex]<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "luas-persegi-adalah-100-cm2-panjang-diagona-persegi-tersebut-a-950",
+            "question": "Luas persegi adalah 100 cm\u00b2 . panjang diagona persegi tersebut adalah\u00a0\r\ndengan cara nya\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "L = sisi x sisi<br>100 = sisi x sisi<br>sisi = 10<br><br>p. diagonal = s akar 2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 10 akar 2 atau\u00a0[tex] \\sqrt{2} [/tex]",
+                    "attachments": []
+                },
+                {
+                    "answer": "luas persegi= sisi x sisi<br>100= S^2<br>S^2= akar 100<br>S= 10<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "53-35-232-7-45-665",
+            "question": "5\u221a3-3\u221a5 =\r\n-2\u221a3+\u221a2 =\r\n\u221a7- 4\u221a5 =",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1. hasilnya 2\u221a5<br>yang no. 2 sudah tdk bisa dikurangi lagi, begitu juga yang no. 3 nya<br><br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-him-penyelesaian-dari-persamaanlinear-berikut-a-4y-10-277",
+            "question": "Tentukan him. penyelesaian dari persamaanlinear berikut?    a. 4y-10=14\r\nb. 7a+3= 0\r\nc. 8-4b= 6\r\nd. 24y-11=33-20y",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a. 4y-10 = 14<br>\u00a0\u00a0 4y = 14+10 <br>\u00a0\u00a0  4y = 24<br>\u00a0\u00a0 y = 24\u00f74<br>\u00a0\u00a0 y = 6<br>d. 24y - 11 = 33 - 20y<br>\u00a0\u00a0  24y + 20y = 33 + 11 <br>\u00a0\u00a0  44y = 44<br>\u00a0\u00a0 y = 44\u00f744<br>\u00a0\u00a0 y = 1 <br><br>yang saya tau hanya a dan d saja..<br>maaf kalau salah, ini jawaban saya :) <br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span>a. 4y-10=14<br>y = 14+10 / 4 = 24 / 4 = 6<br>b. 7a+3= 0<br>a = -3/7 <br>c. 8-4b= 6<br>b = 6-8 / -4 = 1/2<br>d. 24y-11=33-20y</span><br>24y+20y = 33 + 11<br>44y = 44<br>y = 44/44 = 1<br>itu jawaban saya, semoga benar dan bermanfaat<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sudut-pada-jam-0830-mencari-sudut-terkecil-nya-gimana-412",
+            "question": "Sudut pada jam\u00a0 08:30 mencari sudut terkecil nya gimana?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Satu putaran penuh\u00a0pada jam itu sama dengan satu putaran penuh lingkaran yaitu 360 derajat.<br>Pada jam setiap bertambah itu besarnya 30 derajat.<br><br>Jadi, kalau pakai cara kakak untuk mencari besar sudut jam 08.30 kamu gambar dulu jenis sudut apa jam 08.30 itu kemudian kamu ukur pakai busur.<br><br>semoga bisa membantu ^_^,,,<br>maaf jika ada yang salah ^_^,,,",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-yg-tw-gw-kasih-poin-banyak-787",
+            "question": "Tolong yg tw gw kasih poin banyak :)",
+            "attachments": [
+                "question-attachments/tolong-yg-tw-gw-kasih-poin-banyak-787-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "4. jumlah siswa 40<br>30 gemar mat, 26 gemar fisika, 2 org tidak gemar keduanya, yang gemar keduanya dianggap x<br>maka :<br>40 = (30 - x) + x + (26 - x) +2<br>40 = 58 - x<br>x = 18<br><br>5. 23 gemar bakso dan mie, 45 gemar bakso, 34 gemar mie, 6 org tidak kedua nya, jumlah dianggp x maka :<br>x = 23 + (45 - 23) + (34 - 23) + 6<br>x = 62<br><br>1. jumlah smua 60, gemar basket 50, bulu tangkis 40, 35 gemar keduanya<br>maka :<br>60 = (50 - 35) + (40 - 35) + 35 + x<br>60 = 55 + x<br>5 = x<br><br>2. jumlah 38, menjahit 27, lukis 23, kedua nya 15, ketidak 2\" nya dianggap x<br>maka :<br>38 = (27 - 15) + (23 - 15) + 15 + x<br>38 = 35 + x<br>3 = x<br><br>3. jumlah 30, gemar bacca 25, nyanyi 20, 4 tidak keduanya, gemar keduanya dianggap x<br>maka :<br>30 = (25 - x) + (20 - x) + x + 4<br>30 = 49 - x<br>x = 19<br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

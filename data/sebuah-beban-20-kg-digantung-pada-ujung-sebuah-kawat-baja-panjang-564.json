@@ -1,0 +1,130 @@
+{
+    "question": "sebuah beban 20 kg digantung pada ujung sebuah kawat baja panjangnya 150 cm dan diameter 8 mm yang tergantung vertikal. jika percepatan gravitasi 10 ms-2 dan modulus elastisitas baja 2x10 pangkat 11 N/m2. hitunglah besar tegangan dan regangan kawat dan energi potensial elastisitas kawat",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "F=m x g= 20 x 10 = 200 N<br>r = 4mm=0,004<br>L=150cm=1,5 m<br>A=\u00a0\u03c0r.r=5,024 x 10 pangkat -5 m2<br>E=2x10 pangkat 11<br>tegangan =F/A=200/5,024 x 10 pangkat -5 =3980891,72 N/m2<br>regangan(e)=\u00a0\u0394L/Lo<br>E=F.L/A.\u0394L<br>\u0394L=F.L/A.E =200.1,5/5,024 x 10pangkat -5 x 2.10pangkat\u00a011<br>\u00a0\u0394L =2,98 x 10pangkat -5<br>regangan(e)= 2,98 x10pangkat -5/1,5<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0=1,98 x 10pangkat -5<br>F = k.\u0394L<br>k=F/\u0394L = 200/2,98 x 10 pangkat -5=6711409,36 N/m<br>Ep = 0,5 x k x\u00a0\u0394L x\u00a0\u0394L<br>\u00a0 \u00a0 \u00a0=0,5 x 6711409,36 x (2,98 x10pangkat -5)\u00b2<br>\u00a0 \u00a0 \u00a0=2,97 x 10pangkat -3 joule<br>Yang Ep ini agak ragu soalnya pake rumus dari energi potensial pegas",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "2-buah-kawat-panjang-lurus-sejajar-terpisah-pada-jarak-12cm-kawa-818",
+            "question": "2 buah kawat panjang lurus sejajar terpisah pada jarak 12cm. kawat pertama dialiri arus 4A, kawat kedua 6A. tentukan besar induksi magnet pada titik yang berada diantara 2 kawat tersebut dan berjarak 4cm dari kawat pertama?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "besar\u00a0induksi magnet=12",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-roda-pejal-massanya-45-kg-dengan-jari-jari-15-m-berada-p-988",
+            "question": "sebuah roda pejal massanya 4,5 kg dengan jari-jari 1,5 m berada pada lantai kasar melalui sumbunya roda tersebut ditarik dengan gaya 20N, sehingga roda menggelinding pada arah mendatar pada saat 15s tentukan energi kinetik totalnya?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "900 kah jawabnnya ???",
+                    "attachments": []
+                },
+                {
+                    "answer": "energi kinetik total dari sebuah roda pejal yaitu 900",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "kenapa-energi-potensial-pada-listrik-statis-skalar-ttapi-medan-da-869",
+            "question": "Kenapa energi potensial pada listrik statis skalar ttapi medan dan gaya listrik vektor?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "karena energi memiliki nilai saja\u00a0tidak memiliki arah maka merupakan\u00a0vektor<br>medan dan gaya listrik memiliki nilai dan\u00a0arah yaitu muatan + ke - sehinnga merupakan besaran skalar",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-bus-kecepatannya-berubah-dari-ms-menjadi-35-ms-setelah-m-590",
+            "question": "Sebuah bus kecepatannya berubah dari m/s menjadi 35 m/s setelah menempuh jarak 50 m. waktu yang dibutuhkan bus tersebut adalah...s.     a. 3,61\r\nb.3\r\nc.2,82\r\nd.1,82\r\ne.0,83",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "dik :\u00a0<br>v\u2080 = 0<br>v\u2081= 35 m/s<br>s = 50 m<br>t..?<br><br>v = s/t<br>35m/s = 50 m / t<br>t . 35 m/s = 50 m<br>t = 50 m/ 35 m/s<br>t = 10/7/s<br>t=1,428 s<br><br>maaf kalau salah pemahaman :)<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suspensi-truk-sering-memiliki-pegas-pembantuyang-bekerja-ketik-784",
+            "question": "Suspensi truk (sering memiliki \"pegas pembantu\"yang bekerja ketika beban truk sangat besar. pegas ayun\u00a0 dengan pegas pembantu berupa pegaskoil dipasang ditengah-tengahnya. Pegas pembantu akan bekerja ketika pegas ayun tertekan sejauh",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "sejauh pembatas yang ada pada mobil truk dan sesuai dengan kemampuan pegas ayun yang akan menekannya",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apa-gunanya-kaca-spion-cembung-dan-datar-321",
+            "question": "Apa gunanya kaca spion cembung dan datar",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "kalau kaca spion itu pasti cembung. ga ada lah kalu kaca spion datar. tjuan kaca spion dibuat cermin cembung agar pengendara dapat lebih luas melihat kendaraan di belakang nya. sesuai dengan salah satu prinsip sifat kca cembung yaitu <strong>\"bayangan diperkecil\"</strong><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suatu-penghantar-dililitkan-melingkar-3x-dengan-jari-jari-25cm-p-309",
+            "question": "suatu penghantar dililitkan melingkar 3x dengan jari-jari 25cm, pada penghantar dialirkan arus listrik 12A. hitung induksi magnet pada pusat lingkaran!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "5cm x 25cm sama dengan 125 cm pangkat dua<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suatu-vektor-gaya-dengan-persamaan-f-5i3j-n-bekerja-pada-suat-157",
+            "question": "suatu vektor gaya dengan persamaan F=(-5i+3j) N Bekerja pada suatu titik poros yang memiliki vektor posisi r=(4i+3j)m.besar torsi nya adalah?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "\u03c4 = r x F <br><br>\n\u03c4 = {4,3,0} x {-5,3,0} <br><br>\n\u03c4 = {0, 0, 27} <br><br>\nbesar torsi adalah <br><br>\n|\u03c4| = 27 Nm  <br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apakah-yang-dimaksud-dengan-proyektor-494",
+            "question": "Apakah yang dimaksud dengan proyektor",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>Proyektor adalah sebuah alat sebuah alat optik yang digunakan untuk menampilkan gambar di sebuah layar proyeksi atau permukaan serupa</span>",
+                    "attachments": []
+                },
+                {
+                    "answer": "bernama lain infocus. Alat yang digunakan sebagai sarana informasi. Memancarkan cahaya ke suatu bidang lurus, biasanya dinding/papan tulis.\u00a0Biasanya digunakan di kelas atau di gereja, untuk menghemat biaya, daripada membeli TV layar lebar, kita bisa memakai proyektor untuk melihat layar lebar",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "ada-yang-tau-rumus-rumus-gerak-melingkar-beraturan-359",
+            "question": "Ada yang tau rumus rumus GERAK MELINGKAR BERATURAN ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "rumus gerak melingkar beraturan adalah<br>v = 2\u03c0R/T \u00a0\u00a0atau \u00a0v = 2\u03c0Rf\u00a0",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

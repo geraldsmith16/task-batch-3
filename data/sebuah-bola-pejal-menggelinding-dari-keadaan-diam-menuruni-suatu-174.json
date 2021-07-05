@@ -1,0 +1,140 @@
+{
+    "question": "Sebuah bola pejal menggelinding dari keadaan diam menuruni suatu bidang miring yang membentuk sudut 30\"(30derajat) terhadap arah mendatar. kelajuan linear bola ketika telah menempuh lintasan sejauh 3,5 m pada bidang adalah....    tentukan dengan menggunakan persamaan V=((2mgh)/(m+I/R^2))^1/2",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "kalau menurut saya , bikin segitiga dulu , kan sudutnya 30 dan sisi miring nya 3,5 , jadi { sin30 = [tex] \\frac{h}{3,5} [/tex] ==&gt; h = 3.5sin30 = [tex] \\frac{7}{4} [/tex] <br>jadi langsung aja karena bola pejal jadi kecepatan linearnya <u></u>v = [tex] \\sqrt{ \\frac{4}{3} . g . h} [/tex] <br>v = [tex] \\sqrt{ \\frac{4}{3}. 10 .  \\frac{7}{4}  } [/tex] (kalau g nya 9.8 masukan 9.8 ) <br>v = [tex] \\sqrt{ \\frac{70}{3} } m/s[/tex] <br>semoga jawaban saya membantu mas dimas <br>mohon maaf kalau ada salah2 hehe<br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "2-benda-yang-berupa-bola-pejal-dan-bola-berongga-dilepaskan-dari-462",
+            "question": "2 benda yang berupa bola pejal dan bola berongga dilepaskan dari tempat yang sama pada kemiringan tertentu. bola manakah yang lebih dulu sampai ke dasar?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Persamaan gerak sepanjang bidang miring (m.g.sin 0 = 0-f = m.a)<br>jadi tergantung masa dan jarak. dalam kasus ini jarak sama berarti tinggal yang massa bendanya lebih berat jadi bola pejal yang lebih dulu.",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apa-rumus-tekanan-dan-cara-penyelesaian-nya-gmna-350",
+            "question": "Apa rumus tekanan...\r\n dan cara penyelesaian nya gmna..",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "rumus tekanan P = F/A<br>P = tekanan (pa)<br>F = gaya (N)<br>A = luas bidang tekan (m^2)",
+                    "attachments": []
+                },
+                {
+                    "answer": "Tekanan adalah hasil bagi gaya tekan dengan luas bidang tekan. <br>&gt; Luas bidang yg kecil menghasilkan tekanan yg besar dan sebaliknya, dan semakin besar gaya yg bekerja pd benda semakin besar pula tekanannya..<br>rumus nya : P = <u>F</u><br>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0A<br>P = tekanan(N/m\u00b2)<br>F = gaya(N)<br>A = luas bidang tekan(m\u00b2)<br>N : Newton <br>m : meter<br>_langsung aja dikerjakan pake rumusnya..<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "modulus-elastis-kawat-a-dua-kali-kawat-b-panjang-kawat-a-dan-b-m-937",
+            "question": "Modulus elastis kawat A dua kali kawat B. Panjang kawat A dan B masing masing 2 m. Jari-jari kawat A setengah kali kawat B. Hitunglah nilai perbandingan tetapan gaya kawat A dan B!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kalo aku jawabannya 1/2 : 1",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "buatkan-dua-contoh-dari-bilangan-kuantum-orbital-dari-metode-bohr-195",
+            "question": "Buatkan dua contoh dari bilangan kuantum orbital dari metode bohr!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "dalam file word aja ya :) biar lebih mudah kamu mempelajarinnya :)<br>",
+                    "attachments": [
+                        "answer-attachments/buatkan-dua-contoh-dari-bilangan-kuantum-orbital-dari-metode-bohr-195-1.docx"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "jika-pada-magnet-bentuk-keping-lingkaran-bagaimana-letak-kutubnya-570",
+            "question": "Jika pada magnet bentuk keping lingkaran bagaimana letak kutubnya",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Tadi sudah dijawab di pertanyaan satunya, bagian setengah lingkaran atas merupakan kutub utara, dan bagian setengah lingkaran bawah merupakan kutub selatan. Okay ? @Liwed",
+                    "attachments": []
+                },
+                {
+                    "answer": "Di setengah bagian lingkaran atas kutub selatan dan di setengah bagian lingkaran di bawah kutub utara<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dari-puncak-sebuah-menara-setinggi-45-m-dijatuhkan-sebuah-batu-j-959",
+            "question": "dari puncak sebuah menara setinggi 45 m dijatuhkan sebuah batu. jika percepatan gravitasi di tempat tersebut 10 m/s\u00b2, kecepatan batu saat tepat menyentuh tanah sebesar?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Dik = h : 45cm<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0g : 10 m/ [tex] s^{2} [/tex]\u00a0<br>Dit = V =  \\sqrt{2.g.h} ?<br>Penye =\n<br>V =  \\sqrt{2.10.45}<br>\u00a0 \u00a0=   \\sqrt{900}<br>\u00a0 \u00a0= 30[/tex]<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "EP = EK<br>mgh = 1/2 m v^2<br>gh = 1/2 v^2<br>45.10 = 1/2 v^2<br>900 = v^2<br>v = 30m/s<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "seseorang-mengendarai-mobil-dengan-kecepatan-90-kmjam-tiba-tiba-318",
+            "question": "seseorang mengendarai mobil dengan kecepatan 90 km/jam. tiba-tiba mobil tersebut direm dengan perlambatan maksimum. Besarnya jarak yg di butuhkan adalah...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "ya kagak ada jawabannya\u00a0<br>karena rumus GLBB diperlambat itu<br>v = v0 . t - a .t<br>s = v0 . t - 1/2 a . t\u00b2<br>vt\u00b2 = v0\u00a0\u00b2 - 2 a . s",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tuliskan-5-sumber-energi-listrik-921",
+            "question": "Tuliskan 5 sumber energi listrik?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "sumber energi listrik<br>- Batu baterai<br>- Aki (akumulator)<br>- Dinamo<br>- Generator<br>- Nuklir<br>- Minyak<br>- Angin<br>- Gelombang<br>- Batu bara<br>- Panasbumi\u00a0<br>- Panas matahari (sel surya)<br>- Biomasa<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Baterai,  Aki,  Dinamo,  Nuklir dan Sel Surya (panas matahari)",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "gelombang-elektromagnetik-yang-memiliki-energi-foton-paling-besa-917",
+            "question": "Gelombang elektromagnetik\u00a0yang memiliki energi foton paling besar adalah....    A. Sinar - X\r\nB. Cahaya Merah\r\nC. Cahaya Ungu\r\nD. Gelombang Radio\r\nE. Sinar Gamma",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "c sinar ungu<br>karena memiliki f terbesar dan panjang gelombang terpendek",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "berapa-kalor-yg-di-butuhkan-es-bersuhu-2c-dengan-massa-4-kg-ag-479",
+            "question": "Berapa kalor yg di butuhkan es bersuhu -2\u00b0c dengan massa 4 kg agar mencapai suhu 5\u00b0c, jika dik.    L es=336.000 J/kg\r\nc es=500 J/kg\u00b0c\r\nc air=4200 J/kg\u00b0c",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "m= 4 kg<br>delta t = 3<br>c = 4700<br>= 2x4700x3<br>= 28200<br>= 28,2<br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

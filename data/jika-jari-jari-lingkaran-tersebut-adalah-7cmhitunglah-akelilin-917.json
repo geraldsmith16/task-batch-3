@@ -1,0 +1,134 @@
+{
+    "question": "Jika jari-jari lingkaran tersebut adalah 7cm,hitunglah!    a.keliling lingkaran\r\nb.panjang busur AB\r\nc.panjang busur BC\r\nd.panjang busur AC",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "a. 22/7 x 14 = 44 cm",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "sebuah-lintasan-lari-berbentuk-lingkaran-memiliki-diameter-56-met-433",
+            "question": "Sebuah lintasan lari berbentuk lingkaran memiliki diameter 56 meter. Untuk menempuh jarak 902 meter, maka banyak putaran yang dilakukan pelari adalah?    a. 5 3/4 putaran\r\nb. 5 1/2 putaran\r\nc. 5 1/4 putaran\r\nd. 5 1/8 putaran\r\nJelaskan juga caranya :)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "cara mencari diameter dr pertanyaan tsb: 56<u></u><u></u>\u00f72=28<br>jd 22/7 \u00d7 28\u00d728=2464 m lingkaran tsb<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "cara-nyari-rumus-fungsi-dari-grafik-gimana-341",
+            "question": "Cara nyari rumus fungsi dari grafik gimana?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "grafik yang sudah diketahui miniman 2\u00a0titik<br>[tex] \\frac{y-y1}{y2-y1} = \\frac{x-x1}{x2-x1} [/tex]<br><br>kalau grafiknya sudah diketahui gradien dan salah satu titiknya<br>y\u00a0-\u00a0y1 = m(x\u00a0-\u00a0x1)",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-penyelesaian-dari-pertidaksamaan-berikut-a12x-5-509",
+            "question": "tentukan penyelesaian dari pertidaksamaan berikut : a).1/2x + 5 &gt;15 b).2-(4 + x) tidak lebih dari-22 c).2/3p + 4 tidak kurang dari 8 d).2x-4&gt;3x+9 \u00a0 prtidaksamaan dalam variebel",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a)x&gt;20<br><br>c)p tdk kurang dari 2<br><br>d)x&gt;-12<br><br>sorry kalau salah",
+                    "attachments": []
+                },
+                {
+                    "answer": "a)1/2x + 5 - 5 &gt; 15 - 5<br>1/2x &gt; 10<br>x &gt; 20<br>x = {21,22,23,24,.......}<br><br>b)<span>.2-(4 + x) tidak lebih dari-22<br>maksudnya gmn -_- gk tau<br><br>c)</span><span>2/3p + 4 tidak kurang dari 8<br>2/3p + 4 - 4\u00a0&gt; 8 - 4<br>2/3p &gt; 4<br>2/3p x 3 &gt; 4 x 3<br>2p &gt; 12<br>p &gt; 6<br>p = {9,10,11,12,....}<br><br>d) ( gk tau ) -_-</span><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "kalian-bisa-kerja-soal-ini-gak-1-x-83x-6-2-3x-y6-35x1-698",
+            "question": "Kalian bisa kerja soal ini gak? 1)\u00a0 .x-8=3x-6 2)\u00a0 3x-y=6 3)5x+13=48 Persamaan linear 1 variabel",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1) x-8=3x-6<br>x-8<strong>+x</strong> = 3x-6<strong>+x</strong> -&gt; kedua sisi sama\" di tambah \"x\" supaya disatu sisi nilai \"x\" nya habis<br>-8<strong>+6</strong>=4x-6<strong>+6</strong> -&gt; kedua sisi ditambah 6 untuk menghilangkan konstanta 6 di sisi kanan<br>-2=4x<br>x=-1/2<br>2) 3x-y=6<br>3x-y<strong>+y</strong>=6<strong>+y</strong><strong></strong><br>3x=6+y<br>x=2+y/3<br>3) 5x+13=48<br>5x=48-13<br>5x=35<br>x=7<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "1. x - 8 = 3x - 6 <br>\u00a0\u00a0 - 8 + 6 = 3x - x<br>\u00a0 -2 = 2x<br>\u00a0 x = -1<br><br>3. 5x + 13 = 48<br>\u00a0 5x = 48 - 13<br>\u00a0 5x = 35<br>\u00a0 x =\u00a0 35 \u00f7 5<br>\u00a0 x = 7<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "ubahlah-masalah-nyata-berikut-ke-dalam-bentuk-pertidaksamaan-line-833",
+            "question": "Ubahlah masalah nyata berikut ke dalam bentuk pertidaksamaan linear satu variabel    a) sebuah bus dapat mengangkut tidak kurang dari enam puluh orang penumpang\r\nb) jarak rumah beni ke sekolah lebih dari 100 meter\r\nc) penghasilan ibu monika tidak lebih dari 2 juta per bulannya\r\nd) sebuah pesawat berada di ketinggian tidak kurang dari 3 ribu kaki di atas permukaan laut\r\ne) kecepatan udin berkendara tidak lebih dari 50 km/jam",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a) penumpang = x&gt;=60<br>b)x&gt;100<br>c) x&lt;=2<br>d) x&gt;=3<br>e) x&lt;=50",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-bantu-aku-yaa-dibawah-ini-persamaan-yang-tidak-ekuiva-151",
+            "question": "Tolong bantu aku yaa...\u00a0    Dibawah ini persamaan yang tidak ekuivalen dengan 5(x-3) - 2(x+1) = x + 3 adalah...\r\nA. 3x - 17 = x +\u00a03\r\nB. 3x = x +\u00a020\r\nC. 3x = x +16\r\nD. x = 10",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "5(x-3) - 2(x+1) = x+3<br>5x-15-2x-2 <span>=\u00a0</span>x+3<br>5x-2x-x\u00a0<span>=\u00a0</span>3+15+2<br>2x\u00a0<span>=\u00a0</span>20<br>x <span>= </span>20 \u00f7 2<br>x <span>=</span> 10<br><br>a. 3x -17 <span>= </span>x+3<br>\u00a0\u00a0\u00a0 3x-x <span>=</span> 3+17<br>\u00a0\u00a0 \u00a0 2x\u00a0  <span><strong></strong>= <strong></strong>20<br>\u00a0\u00a0 \u00a0  x = 20 \u00f7 2<br><br>\u00a0\u00a0 \u00a0  x <strong>= </strong>10<br>b. 3x = x+20 <br>\u00a0\u00a0  3x - x = 20<br>\u00a0\u00a0  2x = 20<br>\u00a0\u00a0 x = 20\u00f72<br>\u00a0\u00a0 x = 10<br>c. 3x = x+16 <br>\u00a0\u00a0\u00a0 3x - x = 16<br>\u00a0\u00a0 \u00a0 2x = 16<br>\u00a0\u00a0\u00a0\u00a0  x = 16\u00f72<br>\u00a0\u00a0 \u00a0 x = 8<br>d. x = 10<br><br>brarti yg tdak ekuivalen adlah c <br>maaf kalau salah.. ini jawaban saya :) <br></span><span><strong></strong>\n                </span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pembangunan-seb-gedung-dapat-selesai-dalm-wktu-70-hari-oleh-24-ku-167",
+            "question": "pembangunan seb gedung dapat selesai dalm wktu 70 hari oleh 24 kuli.Setelah dikerjakan 20 hari pekerjaan berhenti 10 hari.Agar pembangunan selesai tepat wktu , maka tenaga kerja tambahannya adalah .....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "70 hari = 24 kuli<br><br>setelah 20 hari kerja, sisa<br>50 hari = 24 kuli<br><br>libur 10 hari<br>40 hari = x orang<br><br>maka :<br><br><u>50</u>\u00a0  =\u00a0\u00a0<u> x</u><br>40\u00a0 \u00a0 \u00a0 24<br><br>40x = 50 \u00d7 24<br>x = 30 orang<br><br>pkerja yang harus ditambahkan = 30 - 24 = 6 orang<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-kapal-berlayar-ke-arah-timur-sejauh-150-km-kemufian-ke-ar-240",
+            "question": "sebuah kapal berlayar ke arah timur sejauh 150 km, kemufian ke arah selatan sejauh 200 km. hitung jarak kapal sekarang dari tempat semula",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "150-150+200= 200km kali yah<br>dikarnakan berbalik arah dari timur ke selatan",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-nilai-x-jika-2x-1-2x-2-2x-32x-5-961",
+            "question": "Tentukan nilai x, jika (2x + 1) + (2x + 2) + (2x + 3)+...+(2x + 50) = 4275. Tolong dijawab yaa, pleaseee",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "jawabannya 30<br><br>Sn = n/2 { a +Un } = 4275<br>&gt; 50/2 { (2x+1) + (2x+50) } = 4275<br>&gt; 25 { 4x + 51 } = 4275<br>&gt; 100x + 1275 = 4275<br>&gt;100x = 4275 - 1275<br>&gt;100x = 3000<br>&gt;x = 30<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "2-per-3-2a35-per-6-a-5-506",
+            "question": "2 per 3 (2a+3)=5 per 6 (a-5)=",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "2/6a+9 = 5/6a-30<br>12a-60 = 30a+45<br>-105 = 18a<br>a= -105/18",
+                    "attachments": []
+                },
+                {
+                    "answer": "[tex] \\frac{2}{3} (2a+3)= \\frac{5}{6} (a-5)  [/tex]<br><br>[tex] \\frac{4a+6}{3} =  \\frac{5a-25}{6} [/tex]<br><br>3(5a-25)=6(4a+6)<br><br>[tex]15a-75=24a+36[/tex]<br><br>15a-24a=36+75<br>-9a=111<br>a=111/-9<br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

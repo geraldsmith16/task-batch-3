@@ -1,0 +1,144 @@
+{
+    "question": "Mengurutkan berbagai macam pecahan urutkan dari yang terkecil :    1. 0.6 , 35% , 2/3 =\r\n2. 2/5 , 30% , 0.45 =\r\n3. 7/8 , 0.375 , 15% =\r\n4. 80% , 0.75 , 4/8 =\r\n5. 6/10 , 0.56 , 70% =",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "1. 35% , 0,6 , 2/3<br>2. 30%, 2/5 , 0,4<br>3. 15%, 0,375 , 7/8 , <br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "pecahan-75-bila-dijadikan-persen-menjadi-677",
+            "question": "Pecahan 7/5 bila dijadikan persen menjadi ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "140%<br>penyebut dikalikan dengan 20 agar menjadi 100, sehingga pembilang juga harus dikali dengan 20 ^^",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span>pecahan 7/5 bila dijadikan persen menjadi \u00a0<br>1,40= 1/40 %</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "alas-sebuah-limas-berbentuk-belah-ketupat-dengan-keliling-60-cm-d-163",
+            "question": "alas sebuah limas berbentuk belah ketupat dengan keliling 60 cm dan panjang salah satu diagonalnya adalah 18 cm serta tinggi limas 12 cm .maka volume limas tersebut adalah ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "V limas =\u00a0[tex] \\frac{1}{3} [/tex].Luas Alat.Tinggi<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0[tex] \\frac{1}{3} [/tex].198.12<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0792 cm3<br>L\u00a0alas=\u00a0[tex] \\frac{1}{2}\u00a0[/tex].d1.d2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0[tex] \\frac{1}{2}\u00a0[/tex].18.22<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0198",
+                    "attachments": []
+                },
+                {
+                    "answer": "panjang diagonal 1 = 18<br>panjang diagonal 2 = 24 (triple phytagoras)<br>v = 1/3*luas alas*t<br>\u00a0 = 1/3*(1/2*18*24)*12<br>\u00a0 = 1/3*216*12<br>\u00a0 = 864<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "help-kasih-caranya-juga-ya-thanks-783",
+            "question": "[HELP] kasih caranya juga ya thanks",
+            "attachments": [
+                "question-attachments/help-kasih-caranya-juga-ya-thanks-783-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "[tex]( \\sqrt[4]{2})^{6}  = (2^ \\frac{1}{4})^6 = 2^ \\frac{6}{4} = 2^ \\frac{3}{2} =  \\sqrt 2^{3}  = 2  \\sqrt{2} [/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebidang-tanah-dengan-bntuk-persg-memiliki-ukran-72m-x-72m-tanah-978",
+            "question": "Sebidang tanah dengan bntuk persg memiliki ukran 72m x 72m tanah itu digambar dengan ukuran 12cm x 12cm    a. Besar skalanya\r\n b. Perbandingan luas gmbar dengn luas sebenarnya",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "luas sebenarnya : 72m*72m =5184m =518400 cm<br>luas pada peta : 12cm*12cm = 144 cm<br>a. skala = jp : js = 144 : 518400 = 1 : 3600 cm = 1 : 360.000.000<br>b. perbandingan = 1 : 3600",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "faktor-dari-3x2-12-651",
+            "question": "Faktor dari\u00a0 3x\u00b2 -12 =",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "3x^2 -12<br>= 3 ( x^2 - 4)",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-pekarangan-berukuran-48-m-dan-lebar-24-m-skala-1800-abrp-592",
+            "question": "Sebuah pekarangan berukuran 48 m dan lebar 24 m skala 1:800    a.brp panjang pada peta?\r\nb.brp lebar pada peta? beserta cara\r\n\r\n\r\ntolong ya",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "48 m = 4.800 cm<br>24 m = 2.400 cm<br>maka<br>a. p pd peta = p sebenarnya : skala = 4.800 cm : 800 = 6 cm<br>b. l pd peta = l sebenarnya : skala = 2.400 cm : 800 = 3 cm<br><br>semoga membantu :)<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span>a. 48/ 800 = 0.06<br>b. 24/ 800 = 0.03<br>caranya dikali sama skalanya, skalanya 1 : 800 berarti dikali 1/800</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "kalo-bisa-dengan-caranya-yah-dua-buah-tiang-berdampingan-jarakny-600",
+            "question": "kalo bisa dengan caranya yah. dua buah tiang berdampingan jaraknya 24 m. jika tiang a=22m dan tiang b=12m. hitunglah kawat penghubung kedua tiang tersebut.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "^<br>^ \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0\u00a0 \u00a0 \u00a0 \u00a0 ^<br>^ \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0\u00a0 \u00a0 \u00a0 ^<br>^ \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0^<br>^ \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 ^<br>22 m \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 12 m<br>&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt; \u00a0 24 m<br><br>22 - 12 m = 10 m<br><br>terus di pitagoraskan<br><br>jarak kabel = \u221a10\u00b2+24\u00b2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0=\u00a0\u221a100 + 576<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0=\u00a0\u221a676<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 26 m",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "manakah-pernyataan-yang-benar-1-jika-sudut-a-dan-sudut-b-ada-436",
+            "question": "Manakah pernyataan yang benar? \u00a0 1. Jika sudut A dan Sudut B adalah sudut berpelurus, maka sudut A tidak pernah sama besar dengan sudut B. \u00a0 2. Jika sudut A adalah sudut tumpul maka pelurus sudut A pasti sudut lancip. \u00a0 3. Jika sudut berpenyiku sudut A lebih kecil dari 30 derajat maka pelurus sudut A adalah sudut tumpul",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Pernyataan yang benar adalah nomor 3<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Pernyataan yang benar nomor 2.",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dengan-x-anggota-a-12310-tentukan-himpunan-penyel-988",
+            "question": "Dengan X anggota A = {1,2,3,...,...,10} .Tentukan himpunan penyelesaian dari setiap pertidak samaan berikut:    a.16-X &lt; X-2 =",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "16 - x &lt; x-2<br>-2x &lt; -18<br>2x &gt; 18<br>x &gt; 9<br><br>HP = {10}",
+                    "attachments": []
+                },
+                {
+                    "answer": "16-X&lt;X-2=<br>16-1&lt;-1=salah<br>16-2&lt;0=salah<br>16-3&lt;1=salah<br>16-4&lt;2=salah<br>16-5&lt;3=salah<br>16-6&lt;4=salah<br>16-7&lt;5=salah<br>16-8&lt;6=salah<br>16-9&lt;7=salah<br>16-10&lt;8=BEnar<br><br><br><br><br><br><br><br><br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bantuin-yah-1p-48-2-2x-4-gt3x-9-3-4-sebuah-segitiga-820",
+            "question": "Bantuin yah,    1.p + 48\r\n2. 2x - 4 &gt;3x + 9\r\n3. \r\n4. sebuah segitiga sama kaki memiliki panjang sisi yang sama dengan 5 kali panjang sisi lainnya. Agar keliling segitiga tersebut lebih besar dari 50cm, berapakah masing-masing sisi segitiga tersebut ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]\\frac{2}{3}p+4 \\leq 8\\\\\n\\frac{2}{3}p \\leq 4\\\\\np \\leq 6\\\\\\\\\n2x-4&gt;3x+9\\\\\n-x&gt;5\\\\\nx&lt;-5\\\\\\\\\n\\frac{2y-7}{2} \\leq 3\\\\\n2y-7 \\leq 6\\\\\n2y \\leq 13\\\\\ny \\leq \\frac{13}{2}\\\\\\\\\nmisal\\ panjang\\ sisi\\ terpendek\\ adalah\\ x\\\\\nmaka\\ 2\\ sisi\\ yg\\ sama\\ panjang\\ memiliki\\ panjang\\ 5x\\\\\nagar\\ keliling&gt;50\\ :\\\\\nx+5x+5x&gt;50\\\\\n11x&gt;50\\\\\nx&gt;\\frac{50}{11}[/tex]",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

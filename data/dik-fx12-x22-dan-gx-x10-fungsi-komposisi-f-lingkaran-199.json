@@ -1,0 +1,134 @@
+{
+    "question": "Dik: f(x)=1/2 x2+2 dan g(x) = x+10 fungsi komposisi (f lingkaran g) (x)=..........................",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "[tex]f o g(x) =  \\frac{1}{2} ( x^{2} +20x+100)+2=   \\frac{1}{2}x^{2} +10x+50+2 \\\\  \\\\ \\frac{1}{2}x^{2} +10x+52[/tex]",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "sebuah-fungsi-kuadrat-mempunyai-nilai-maksimum-3-pada-saat-x-2-852",
+            "question": "sebuah fungsi kuadrat mempunyai nilai maksimum -3 pada saat x = 2, sedangkan untuk x = -2 fungsi bernilai -11. Tentukan fungsi kuadrat tersebut.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "f(x) = 2xkuadrat + 2x - 15",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-himpunan-penyelesaian-dari-persamaan-berikut-w-961",
+            "question": "Tentukan himpunan penyelesaian dari persamaan berikut : w",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "himpunan semesta yg mungkin darin ( balok, kubus ) adalah",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span>3^(4x+1) \u2013 8. 3^(x-3) = 0</span>\n<br><span><span>=&gt;\u00a0</span>(3^x)^4.3 \u2013 8. (3^x).3^(-3)\n= 0 <br></span><span><span>=&gt;\u00a0\u00a0</span>3.(3^x)^4 \u2013 8/27 (3^x)\n= 0 , misalkan: y = 3x</span>\n<br><span>=&gt;\u00a03y^4 \u2013 8/27 y = 0 =&gt; y (3y^3\n\u2013 8/27) = 0 =&gt; y=0 (tidak memenuhi) dan<br></span><span>=&gt;\u00a03y^3 \u2013 8/27 =0</span>\n<br><span>=&gt;\u00a03y^3 = (2/3)^3 =&gt; y^3\n= 3^(-1).(2/3)^3</span>\n<br><span>\u00a0=&gt; Y\u00a0= 3^(-1/3).(2/3) =&gt; y = 2. 36(-4/3)<br></span>\n\n<span>Dari pemisalan: y = 3^x</span>\n\n<span>Diperoleh: 2.3^(-4/3) = 3^x =&gt; log 2. 3^(-4/3)\n= log 3^x</span>\n\n<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 log\n2 + log 3^(-4/3) = x log 3 <br>=&gt; log 2 + (-4/3)log 3 = x log 3</span>\n\n<span>jadi\u00a0 x = <u>( log\n2 + (-4/3)log 3)</u> = <strong>log 2/log 3 \u2013 4/3</strong> </span><span>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 log 3<br><br></span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-segitiga-abc-dengan-koordinat-titik-a11-b82-c1-829",
+            "question": "Diketahui segitiga ABC dengan koordinat titik\u00a0 A(1,1) B(8,2) C(11,5), tentukan translasi yang diwakili oleh garis AB",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Secara umum:<br>B(x`,y`) = T(a,b)+ A(x,y)<br>(8,2) = (a,b) + (1,1)<br>(8,2) = (a+1,b+1), sehingga\u00a0 a+1 = 8 , maka a=7 dan b+1=2, maka b=1.<br>jadi translasi T(7 1)<br><br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-f-r-r-dengan-fx-invers-fungsi-fx-adalah-163",
+            "question": "diketahui f : R\u00a0\u21d2 R dengan f(x) =\u00a0 invers fungsi f(x) adalah  =",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]f(x)=\\frac{x+1}{2x-4}\\\\ (2x-4)(f(x))=x+1\\\\ 2xf(x)-4f(x)=x+1\\\\ 2xf(x)-x=4f(x)+1\\\\ x(2f(x)-1)=4f(x)+1\\\\ x=\\frac{4f(x)+1}{2f(x)-1}\\\\ nyatakan\\ sebagai\\ f^{-1}(x)\\\\ f^{-1}(x)=\\frac{4x+1}{2x-1};syarat:x \\neq \\frac{1}{2}[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "selesaikan-dengan-rumus-abc-9x2-12x-2-0-744",
+            "question": "Selesaikan dengan rumus abc\r\n9x\u00b2 - 12x + 2 = 0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "144+akar kuadrat dari 72 per 18 atau<br>144-akar kuadrat dari 72 per 18<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "[tex]9x^2-12x+2=0\\ ; a=9,b=-12,c=2\\\\\nx_{1,2}=\\frac{-b \\underline{+} \\sqrt{b^2-4ac}}{2a}\\\\\nx_{1,2}=\\frac{-(-12) \\underline{+} \\sqrt{(-12)^2-4(9)(2)c}}{2(9)}\\\\\nx_{1,2}=\\frac{12 \\underline{+} \\sqrt{144-72}}{18}\\\\\nx_{1,2}=\\frac{12 \\underline{+} \\sqrt{72}}{18}\\\\\nx_{1,2}=\\frac{12 \\underline{+} 6\\sqrt{2}}{18}\\\\\nx_{1,2}=\\frac{2 \\underline{+} \\sqrt{2}}{3}\\\\[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bentuk-sederhana-dari-4a-2-2a3-tolong-jelaskan-secara-310",
+            "question": "Bentuk Sederhana dari (4a)-\u00b2 \u00d7 (2a)\u00b3 =\r\n\r\n\r\ntolong jelaskan secara detail, lagi pemula ni..?!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "4^-2 . a^-2 .2^3 . a ^3<br>1/4^2 .8 . a^(-2)+3<br>1/16 . 8 . a^1<br>16 sama 8 nya sama2 bisa dibagi 8. jadi coret<br>1/2a atau 2^-1a<br><br>^= dibaca pangkat yaa<br>soalnya darisini gabisa di superscript",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebutkan-contoh-domainkodomaindan-range-519",
+            "question": "Sebutkan contoh domain,kodomain,dan range ;)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Domain adalah Daerah Asal<br>Kodomain adalah Daerah Kawan<br>Range adalah daerah Hasil..<br><br>Misalnya ada sebuah contoh soal Relasi<br>\"1 Kurangnya Dari\", dan Domainnya adalah A={0,1,2,3,4}<br>Kodomainnya adalah B={1,2,3,4,5}<br>Maka Rangenya adalah R={(Domain,Kodomain)}--&gt; R={(0,1)(1,2)(2,3)(3,4)(4,5)}<br>Dibacanya R={(0 satu kurangnya dari 1) (1 satu kurangnya dari 2) dst..}<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "berapa-radian-putaran-sebuah-jarum-panjang-suatu-jam-apabila-berp-617",
+            "question": "Berapa radian putaran sebuah jarum panjang suatu jam apabila berputar selama 54 menit???",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "radian putaran sebuah jarum jam apabila berputar selama 54 menit adalah -22596",
+                    "attachments": []
+                },
+                {
+                    "answer": "radian sama kayak derajat dlm 5 mnt bukan?",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "akar-persamaan-x2a-1x20-adalah-a-dan-v-jika-a2v-d-156",
+            "question": "Akar persamaan\u00a0x\u00b2+(a-1)x+2=0 adalah\u00a0\u03b1 dan\u00a0\u03b2. jika\u00a0\u03b1=2\u03b2 dan a&gt;0 maka nilai a=......",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "x\u00b2+(a-1)x+2=0, <br><span><span>\u03b1=2\u03b2<br><br></span>\u03b1\u00b7\u03b2=c/a<br>2\u03b2 \u00b7 \u03b2=2<br>2\u03b2\u00b2=2<br>\u03b2= +-1<br><br>\u03b1+\u03b2= -b/a<br>2\u03b2+\u03b2= -(a-1)<br>3\u03b2= -a+1<br><br>substitusikan nilai \u03b2=1<br>3= -a+1<br>a= -4 (bukan a yg dimaksud)<br><br>\u03b2= -1<br>-3= -a+1<br>a=4 (memenuhi syarat a&gt;0)<br><br><br></span>\u00a0<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-sebuah-deret-geometri-memenuhi-log-u1-log-u2-log-u3-666",
+            "question": "diketahui sebuah deret geometri memenuhi log U1 + log U2 + log U3 + log U4 + log U5 = 15 log 2. jika r =2, tentukan S9.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Deret geometri dg r = 2<br>log U\u2081 + log U\u2082 + log U\u2083 + log U\u2084 + log U\u2085 = 15 log 2 <br>berdasarkan sifat logaritma, maka didapat : <br>log (U\u2081 . U\u2082 . U\u2083 .U\u2084 . U\u2085) = log 2\u00b9\u2075 <br>U\u2081 x U\u2082 x U\u2083 x U\u2084 x U\u2085 = 2\u00b9\u2075 <br>a x ar x ar\u00b2 x ar\u00b3 x ar\u2074 = 2\u00b9\u2075 <br>a\u2075 x r\u00b9\u2070 = 2\u00b9\u2075\u00a0  <br>a x r \u00b2 = 2\u00b3<br>a x 2\u00b2 = 2\u00b3<br>a = 2<br>S\u2089 = a(r\u2079 - 1) : (r - 1)<br>\u00a0\u00a0 \u00a0 = 2(2\u2079 - 1) : (2 - 1) <br>\u00a0\u00a0 \u00a0  = 2(512 - 1) : 1 <br>\u00a0\u00a0 \u00a0 = 2(511) <br>\u00a0\u00a0 \u00a0  = 1022<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

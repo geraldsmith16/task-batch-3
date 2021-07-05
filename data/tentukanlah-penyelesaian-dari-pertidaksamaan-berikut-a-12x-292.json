@@ -1,0 +1,150 @@
+{
+    "question": "Tentukanlah penyelesaian dari pertidaksamaan berikut :    a.\u00a01/2x + 5\u00a0&gt; 15\r\nb. 2 - (4 + x)\u00a0\u2265 - 22",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "a. 1/2x + 5 &gt; 15<br>x + 10 &gt;30<br>x &gt; 20<br><br>b. 2-(4+x) <span>\u2265 -22<br>2 - 4 - x \u2265 -22<br>-2 - x \u2265 - 22<br>-x \u2265 -22<br>x \u2264 22</span>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "harga-1-kg-alpukat-satu-bulan-yg-lalu-rp-6000-karena-sekaran-911",
+            "question": "Harga 1 kg Alpukat satu bulan yg lalu Rp 6.000,- . Karena sekarang sedang musim Alpukat , harga turun menjadi Rp 2.000/ kg. Coba tentukan harga penurunan alpukat dengan penjumlahan bilangan bulat!    Please bantu jawab, makasih :)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "jadi, harga penurunan alpukat dapat dihitung dengan mengurangkan harga alpukat bulanlalu dengan sekarang yaitu : 6.000 - 2.000 = 4.000",
+                    "attachments": []
+                },
+                {
+                    "answer": "6000-2000= 4000 jadi harga alpukat turun 4000 rupiah",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-nilai-x-jika-2x12x22x32x504275-893",
+            "question": "Tentukan nilai X, jika (2x+1)+(2x+2)+(2x+3)+...+(2x+50)=4275",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]Sn= \\frac{n}{2} (U1+Ut)[/tex]<br>u1 adalah suku pertama =(2x+1)<br>ut adalah suku terakhir=(2x+50)<br>banyak nya n suku tsb adalah 50 atau n = 50<br>[tex]Sn= \\frac{n}{2} (U1+Ut)[/tex]<br>4275=[tex] \\frac{50}{2} ( (2x+1)+(2x+50))[/tex]<br>4275=[tex]25(4x+51)[/tex]<br>[tex] \\frac{4275}{25} =4x+51[/tex]<br>171=4x+51<br>120=4x<br>x=3",
+                    "attachments": []
+                },
+                {
+                    "answer": "Dik : a = 2x+1<br>\u00a0\u00a0 \u00a0 \u00a0  n = 50\u00a0 , b = 1<br>\u00a0\u00a0 \u00a0 \u00a0 S50 = 4275<br>Dit : x , untuk mencari x maka harus tau nilai a<br>Jawab :<br>Sn = 1/2 n (2a + (n-1) b)<br>4275 = 1/2 (50) (2a + (50-1)(1))<br>4275 = 25 (2a + 49)<br>171 = 2a + 49<br>171 - 49 = 2a<br>122 = 2a<br>a = 61<br><br>a = 2x+1<br>61 = 2x + 1<br>61-1 = 2x<br>60 = 2x<br>x = 30<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bilangan-asli-ganjil-kurang-dari-15-307",
+            "question": "\u00a0{ bilangan asli ganjil kurang dari 15 }",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "{1,3,5,7,9,11,13,15}",
+                    "attachments": []
+                },
+                {
+                    "answer": "1, 3, 5, 7, 9, 11, 13<br><br>sekian :D<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-b-xxlt5x-bilasli-tulislah-himpunan-bagian-da-679",
+            "question": "Diketahui B = { x|x&lt;5,x bil.asli }    tulislah himpunan bagian dari B yang mempunyai 2 anggota !",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "B = {1,2}<br><br>Sorry kalau salah, karena saya juga baru belajar :)",
+                    "attachments": []
+                },
+                {
+                    "answer": "[tex]B=\\{x|x&lt;5,x \\in bil.asli\\}\\\\\nB=\\{1,2,3,4\\}\\\\\n\\{1,2\\},\\{1,3\\},\\{1,4\\},\\{2,3\\},\\{2,4\\},\\{3,4\\}[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "keliling-sebuah-belahketupat-120cm-jika-panjang-slah-satu-diag-913",
+            "question": "keliling sebuah belahketupat 120cm.\u00a0 jika panjang slah satu diagonalny 48cm.\u00a0 berapakah luas belahketupat\u00a0 tersebut..",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]\\text{K}=4\\times\\text{s}\\\\\n120=4\\times\\text{s}\\\\\n\\text{s}=120:4\\\\\n\\text{s}=30\\\\\\\\\n\\text{d}_2= \\sqrt{30^2-(48:2)^2} \\\\\n\\text{d}_2= \\sqrt{30^2-24^2}\\\\\n\\text{d}_2= \\sqrt{900-576}\\\\\n\\text{d}_2= \\sqrt{324}\\\\\n\\text{d}_2= 18\\times2=36\\text{ cm}\\\\\\\\\n\\text{L}= \\frac{\\text{d}_1\\times\\text{d}_2}{2} \\\\\n\\text{L}= \\frac{48\\times36}{2}~~(36:2=18)\\\\\n\\text{L}=48\\times18\\\\\n\\boxed{\\boxed{\\text{L}=864\\text{ cm}^2}}}[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "contoh-teks-eksplanasi-tsunami-504",
+            "question": "Contoh teks eksplanasi tsunami",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1.pengertian tsunami<br>2.saat terjadinya tsunami<br>3.akibat dari terjadinya tsunami<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Tsunami adlh serangkaian gelombang yg terbentuk karena gempa/letusang gunung api di bawah laut/daratan pantai.Tsunami tercipta saat permukaan laut bergerak naik turun (pergeseran lempeng di dasar laut) disepanjang patahan selama gempa terjadi.Selain itu,tsunami juga tercipta karena meletusny gunung api yg menyebabkan pergerakan air laut/perairan sekitarny yg tinggi.Gelombang tsunami yg terjadi di laut melaju lebih cepat daripada gelombang normal.Gelombang tsb menyebar ke segala arah dengan ketinggian 30-50 m dan kec 800 km/jam.Ketika gelombang tsunami memasuki air dangkal,kecepatannya akan menurun dan ketinggiannya bertambah.Tsunami selalu menyebabkan kerusakan besar bagi manusia.Kerusakan yg paling besar terjadi ketika gelombang besar tsunami itu mengenai pemukiman manusia sehingga menyeret apa saja yg dilaluiny.",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-harga-3-pensil-dan-6-pulpen-rp1500000-sedangkan-harga-2-pen-449",
+            "question": "1. Harga 3 pensil dan 6 pulpen Rp15.000,00, Sedangkan harga 2 pensil dan 3 pulpen Rp.8.000,00. Harga 4 pulpen dan 2 pensil adalah ....    2. Keliling sebuah belahketupat 120 cm. Jika panjang salah satu diagonalnya\u00a0 48 cm, Luas belahketupat itu adalah ....\r\n\r\n3. Sebuah aula berbentuk balok dengan ukuran panjang 9 meter, lebar 7 meter, dan tinggi 4 meter.Dinding bagian dalamnya dicat dengan biaya Rp50.000,00 per meter persegi. Seluruh biaya pengecata aula adalah ....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kan keliling belah ketupat K= 120cm, trs rumusnya K=4.alas<br>jdi 120 : 4 =&gt; 30 &lt;= Alasnya<br>Nah diagonal 1 nya =&gt; \u00a048<br>trs diagonal 2 nya =&gt;\u00a0[tex] x^{2} = 30^{2} - 28^{2} =&gt;  \\sqrt{324}  =&gt; 18[/tex]<br>18+18=&gt; 36<br>Trs rumus luasnya =&gt; 1/2\u00a0\u00d7 d1\u00a0\u00d7 d2 =&gt; 1/2\u00a0\u00d7 48 \u00d7 36 =&gt; 864<br>Jawabannya nomor 2 = 864 ^^",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "nilai-k-yang-memenuhi-persamaan-1-2kk-3-adalah-855",
+            "question": "Nilai k yang memenuhi persamaan 1-2k=k-3 adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "nilai k yang memenuhi 1-2k = k-3<br>\u00a0=\u00a0 1 + 3 = k + 2k<br>\u00a0= 4 = 3k<br>\u00a0k = 4/3<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0",
+                    "attachments": []
+                },
+                {
+                    "answer": "-2k-k\u00a0=\u00a0-3-1<br>-3k \u00a0= -4<br>k = 4/3<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "untuk-1-hari-1-malam-24-jam-ada-berapa-kali-putaran-jam-menent-746",
+            "question": "Untuk 1 hari 1 malam (24 jam), ada berapa kali putaran jam menentukan ukuran sudut terbesar dari :    a. 90\u00b0\r\nb. 150\u00b0\r\nc. 180\u00b0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a. 48x<br>b. 48x<br>c.24x<br>a dan b : 1 jam 2x putaran<br>c : 1 jam 1x putaran.<br>jadi, a dan b : 2x24 = 48<br>c : 1x24 = 24<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-penyelesaian-2y-7-3-661",
+            "question": "Tentukan penyelesaian\u00a0\u00a02y - 7\u00a0 \u00a0\u2264 3\r\n \u00a0\u00a0\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a02",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<u>2y - 7\u00a0</u><span>\u00a0\u00a0\u2264 3</span><u><br></u><span>\u00a0 \u00a0 2<br></span>2y-7\u22643.2<br>2y-7\u22646<br>2y\u226413<br>y\u22646.5",
+                    "attachments": []
+                },
+                {
+                    "answer": "2y-7\u22646<br>2y\u22646+7<br>2y\u226413<br>\u00a0jadi y\u22646,5",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

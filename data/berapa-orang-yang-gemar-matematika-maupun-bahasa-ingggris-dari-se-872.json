@@ -1,0 +1,150 @@
+{
+    "question": "berapa orang yang gemar matematika maupun bahasa ingggris dari sekelompok siswa yang terdiri dari 35 orang, ternyata 18 orang gemar matematika, 22 orang gemar bahasa inggris, dan 7 orang tidak gemar matematika maupun bahasa inggris ?",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "orang yang gemar keduanya = (yg gemar matematika + yg gemar bahasa inggris + yg tidak gemar keduanya) - jumlah siswa\u00a0 -&gt; ( 18 + 22 + 7 ) - 35 = 47 - 35 = 12<br>jadi yang gemar matematika dan bahasa inggris ada 12 siswa.<br><br>semoga membantu :)<br>",
+            "attachments": []
+        },
+        {
+            "answer": "S(semua)=35 org<br>Matematika=18<br>b.inggris=22<br>tidak keduanya=7<br><br>Rumus<br>Semua+keduanya=Lainnya<br>35+I=(18+22+7)<br>35+I=47<br>I=47-35<br>I=<strong><em>12</em></strong>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "mau-tanya-setelah-9-bulan-tabungan-ali-menjadi-rp3815000ji-605",
+            "question": "Mau tanya,,,    setelah 9 bulan tabungan ali menjadi Rp.3.815.000.jika jasa yg dterima 12%/tahun mk tabungan awal ali adalah...??\r\nmohon jawaaabannyaa,,,,",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex] \\frac{100}{112} [/tex]\u00a0\u00d7 3.815.000 = 3.406.250",
+                    "attachments": []
+                },
+                {
+                    "answer": "Rp.3.500.000\u00a0<br>pokoknya itu hasilnya terlalu panjang \u00a0caranya\u00a0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "rumus-keliling-itu-apa-605",
+            "question": "Rumus keliling itu apa ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "ini rumus kelilingnya apa ?<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "rumus untuk mencari keliling bagi bangun datar atau bangun ruang. rumus keliling itu berbeda - beda angka, tergantung\u00a0 dengan bangun datar atau bangun ruang yang akan di hitung keliling nya. (rumus keliling beda angka dengan rumus luas) <br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pak-sanusi-memiliki-sebuah-toko-bunga-dua-hari-sekali-prety-sela-757",
+            "question": "Pak sanusi memiliki sebuah toko bunga. dua hari sekali prety selalu membersihkan dan merapikan kembali semua bunga - bunga setiap vas supaya pembeli terpesona memandangnya. prety adalah salah seorang karyawan ditoko itu yang bertanggung jawab untu membersihkan dan menata kembali bunga bunga tersebut sekali dalam dua hari. setiap kali\u00a0 membersihkan prety selalu mengamati waktu yang diperlukan untuk membersihkan satu tangkai bunga hampir sama. isi vas nomor 1 adalah 30 tangkai, vas nomor 2 adalah 27 tangkai,vas nomor 3 adalah 33 tangkai dan vas nomor 4 berisi 15 tangkai. untuk membersihkan dan menata vas yang nomor 1 memerlukan waktu selama 5 menit.    a. berapa waktu yang diperlukan untuk membersihkan bunga pada vas nomor 4?\r\nb. bunga pada vas nomor berapa yang terjual, jika waktu yang digunakan untuk membersihkan dan menata tiga vas bunga yang tinggal hanya 13 menit?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "mungkin<br>maaf kalau salh<br>a 30/5 = 6<br>\u00a0\u00a0 \u00a0 \u00a0  \u00a0 =\u00a0 6 x 15 = 80<br>b. <br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suatu-daerah-area-pertanian-berbentuk-persegi-panjang-dengan-panj-449",
+            "question": "suatu daerah area pertanian berbentuk persegi panjang dengan panjang 7 cm dan lebar 4 cm jika skala yang digunakan 1 : 100.000, berapakah luas sebenarnya area pertanian tersebut?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "L=7x4=28<br>28x100.000=2.800.000cm atau 28km<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Luas=7cm\u00d74cm=28cm<br>Skala=28cm\u00d71/100.000<br>\u00a0\u00a0\u00a0 \u00a0 \u00a0 =28cm\u00d7100.000<br>\u00a0\u00a0 \u00a0 \u00a0\u00a0 =2.800.000cm<br>\u00a0\u00a0 \u00a0\u00a0 \u00a0 =28km<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pak-adi-mempunyai-sebidang-tanah-yang-di-tanamai-pohon-manggakar-959",
+            "question": "Pak Adi mempunyai sebidang tanah yang di tanamai pohon mangga,karena bentuk tanahnya miring,maka pada baris pertama di tanami 75 pohon mangga,baris ke dua 70 pohon,baris ketiga 65 pohon ,dan seterusnya berkurang 5 pohon mangga,hitunglah    a.banyaknya baris yang di tanami pohon mangga\r\nb.jumlah pohon mangga yang di tanami seluruhnya",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "A.336 m\nB. 510 POHON",
+                    "attachments": []
+                },
+                {
+                    "answer": "a. 75 : 5 = 15<br>b. jumlah pohon = 15/ 2 (2.5 + (15-1)5)<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 15/ 2 (10 + 14 x 5)<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 15/ 2 .80<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 600<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-penyelesaian-persamaan-15-3x-9-adalah-2-himpunan-penyeles-716",
+            "question": "1. penyelesaian persamaan 15-3x= 9 adalah ..    2. himpunan penyelesaian dari x- 2 = 1, x\u00a0\u2208 bilangan cacah adalah ..\r\n3. himpunan penyelesaian pertidaksamaan x-5&gt; 10, x\u00a0\u2208 blngan asli adalah ..\r\n4. himpunan pnyelesaian pertidaksamaan 2x &lt; 8 , x\u00a0\u2208 blngan asli adalah ..\r\n5.himpunan penyelesaian pertidaksamaan 7x &gt; 28 , x\u00a0\u2208\u00a0A \u00a0adalah ..",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1) 15 - 3x = 9<br>15 - 9 = 3x<br>6 = 3x<br>2 = x<br>2) x - 2 = 1<br>x = 1+2<br>x = 3<br>3) x - 5 &gt; 10<br>x &gt; 10 + 5<br>x &gt; 15<br>4) 2x &lt; 8<br>x &lt; 4<br>5) 7x &gt; 28<br>x &gt; 4<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "1. 15 - 3x= 9<br>3x = 6<br>x = 2<br><br>2. x - 2 = 1<br>x = 3 <br>HP = {x|x = 3}<br><br>3. x - 5 &gt; 10<br>x &gt; 15<br>HP = {x|x &gt; 15}<br><br>4. 2x &lt; 8<br>x &lt; 4<br>HP = {x|x &lt; 4}<br><br>5. 7x &gt; 28<br>x &gt; 4<br>HP = {x|x &gt; 4}<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "ingat-cuma-test-bagaimana-rumus-untuk-mencari-ukuran-seben-929",
+            "question": "Ingat Cuma Test !!!    Bagaimana Rumus untuk mencari :\r\n-Ukuran Sebenarnya\r\n-Ukuran Pada Peta\r\n-Skala",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "klo cari jarak sebenar&#039;a (jarak\u00a0pada peta : sekala)<br>klo cari sekala (jarak pada peta x jarak sebenar&#039;a)<br>klo cari jarak pada peta (jarak sebenar&#039;a : sekala)",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-segitiga-sama-kaki-memiliki-panjang-sisi-yang-sama-dengan-873",
+            "question": "sebuah segitiga sama kaki memiliki panjang sisi yang sama dengan 5 kali panjang sisi lainnya. agar keliling segitiga tersebut lebih besar dari 50m, berapakah masing-masing sisi segitiga tersebut (pakai caranya juga yaa)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "jika sisi a=5 maka sisi b&amp;c 5x5=25. jadi kel= 25+25+5=55m . 55&gt;50 :)<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "nilai-dari-12243-50-jelasin-juga-caranya-yaa-makasih-517",
+            "question": "Nilai dari \u221a12+\u221a243-\u221a50=? jelasin juga caranya yaa makasih:)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>\u221a12+\u221a243-\u221a50= \u221a4.3 +\u221a81.3 - \u221a25.2 = 2\u221a3 + 9\u221a3 - 5\u221a2 = 11\u221a3 -5\u221a2</span>",
+                    "attachments": []
+                },
+                {
+                    "answer": "\u221a12+\u221a243-\u221a50\n\n<br>= \u221a4.3 +\u221a81.3 - \u221a25.2\n<br><span>= 2\u221a3 + 9\u221a3 - 5\u221a2 </span>\n\n<br>= 11\u221a3 -5\u221a2\n\n<br><br>SEMOGA BERMANFAAT<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "kalo-bisa-dengan-caranya-yah-dua-buah-tiang-berdampingan-jarakny-600",
+            "question": "kalo bisa dengan caranya yah. dua buah tiang berdampingan jaraknya 24 m. jika tiang a=22m dan tiang b=12m. hitunglah kawat penghubung kedua tiang tersebut.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "^<br>^ \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0\u00a0 \u00a0 \u00a0 \u00a0 ^<br>^ \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0\u00a0 \u00a0 \u00a0 ^<br>^ \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0^<br>^ \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 ^<br>22 m \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 12 m<br>&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt; \u00a0 24 m<br><br>22 - 12 m = 10 m<br><br>terus di pitagoraskan<br><br>jarak kabel = \u221a10\u00b2+24\u00b2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0=\u00a0\u221a100 + 576<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0=\u00a0\u221a676<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 26 m",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

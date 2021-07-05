@@ -1,0 +1,146 @@
+{
+    "question": "sebuah bola pejal (I=2/5 mR[pngkat 2 ) bertranslasi dan berotasi dengan kecepatan linear dan kecepatan sudut v dan w. tentukan energi kinetik total bola pejal tsb",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "EkRotasi : 1/2 M.V^2 + 1/2 . I . W^2<br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "suatu-penghantar-dililitkan-melingkar-3x-dengan-jari-jari-25cm-p-309",
+            "question": "suatu penghantar dililitkan melingkar 3x dengan jari-jari 25cm, pada penghantar dialirkan arus listrik 12A. hitung induksi magnet pada pusat lingkaran!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "5cm x 25cm sama dengan 125 cm pangkat dua<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suatu-gaya-menyinggungtepi-silinder-pejal-homogen-yang-massanya-932",
+            "question": "Suatu gaya menyinggungtepi silinder pejal homogen, yang massanya 200 gram. jari - jari 50 cm, akibat gaya tersebut silinder memiliki percepatan 4rad/s2, nilai gaya momen silinder sebesar...    A.0,1 b. 0,2 c.0,3 d.0,4 e. 0,5",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Dik : m = 200 g = 0,2 kg <br>\u00a0\u00a0 \u00a0 \u00a0\u00a0 r = 50 cm = 0,5 m <br>\u00a0\u00a0 \u00a0 \u00a0 \u03b1 = 4 rad/s2 <br>Dit : \u03c3 = ...?<br>Jwb : <br>silinder pejal ---&gt; I = 1/2 m r^2 <br>I = 1/2 . 0,2 . 0,5^2 = 0,025 <br>\u03c3 = I . \u03b1<br>\u00a0\u00a0 = 0,025 . 4 = 0,1 <br>(A) <br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Dik m = 200 gr = 0,2 kg<br>\u00a0 \u00a0 \u00a0 r = 50 cm = 0,5 m<br>\u00a0 \u00a0 \u00a0\u00a0\u03b1 = 4 rad/s<br>Dit torsi ?<br>jawab.<br>i =\u00a0[tex] \\frac{1}{2} m r^{2} [/tex]<br>\u00a0 = 1/2 . 0,2 . 0,5^2<br>\u00a0\u00a0= 0,025 kgm^2<br><br>torsi = \u00a0i .\u00a0\u03b1<br>\u00a0 \u00a0 \u00a0 \u00a0= 0,025 . 4<br>\u00a0 \u00a0 \u00a0 \u00a0= 0,1 Nm",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "seutas-kawat-sepanjang-10-m-dengan-luas-penampangnya-01-cm2-dib-512",
+            "question": "seutas kawat sepanjang 10 m dengan luas penampangnya 0,1 cm\u00b2 diberi beban 100 kg sehingga panjangnya bertambah 13mm. modulus elastisitasnya adalah....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "modulus elastis = tegangan : regangan<br>= 100000000 : 0,00013<br>769230770000 n/m^2",
+                    "attachments": []
+                },
+                {
+                    "answer": "Elastisitas dan gerak harmonis<br>Dik l0 = 10 m<br>\u00a0 \u00a0 \u00a0\u00a0A\u00a0= 0,1 cm^2 = 0,0001 m^2<br>\u00a0 \u00a0 \u00a0 m = 100 kg\u00a0<br>\u00a0 \u00a0 \u00a0\u0394l = 13 mm = 0,013 m<br>Dit\u00a0\u2208 ?<br>jawab.<br><br>F = m.g<br>\u00a0 \u00a0= 100 . 10<br>\u00a0 \u00a0= 1000 N<br><br>E = F.l0\u00a0/ A.\u00a0\u0394l<br>\u00a0 \u00a0= 1000. 10 / 0,0001 . 0,013<br>\u00a0 \u00a0= 10.000 / 13x10^-7\u00a0<br>\u00a0 \u00a0= 13x10^11 Pa\u00a0\u00a0<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-modulus-young-timah-16102-nm2-hitunglah-berat-be-745",
+            "question": "diketahui modulus young timah 1,6\u00d710\u00b2 N/m\u00b2. hitunglah berat beban maksimum yang boleh digantungkan pada seutas kawat timah yang berdiameter\u00a0\u00a0mm jika regangan yang terjadi tidak boleh lebih dari 0,0001",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "akan lebih dari kapasitas berarti\u00a0<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebutkan-contoh-penerapan-1-hukum-archimedes-2-hukum-pascal-3-659",
+            "question": "Sebutkan contoh penerapan :    1. Hukum Archimedes\r\n2. Hukum Pascal\r\n3. Hukum Bernuolli\r\ndalam teknologi ?\r\nmohon bantuannya",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1. apabila sebuah benda, sebagian atau seluruhnya terbenam kedalam air makabenda trsbt mendapat gaya tekan ke atas sebesar berat air yg dipindahkan oleh benda tersebut. contoh benda\u00a0yg menggunakan prinsip ini : kapal laut<br>2. tekanan yang diberikan kepada zat cair akan diteruskan ke segala arah dengan sama besar. contoh penggunaan : peralatan hidrolik<br>3. j<span>umlah dari tekanan, energi kinetik persatuan volume, dan energi potensial persatuan volume mempunyai nilai yang sama pada setiap titik sepanjang suatu garis arus. contoh : manometer, tabung venturi</span>",
+                    "attachments": []
+                },
+                {
+                    "answer": "kalau archimedes kapal laut , \u00a0kalau pascal pesawat terbang , kalau bernoulli parfum atau semprotan nyamuk yang pakai tangkai\u00a0<br>mohon maaf kalau ada kesalahan :D",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-roda-pejal-massanya-45-kg-dengan-jari-jari-15-m-berada-p-988",
+            "question": "sebuah roda pejal massanya 4,5 kg dengan jari-jari 1,5 m berada pada lantai kasar melalui sumbunya roda tersebut ditarik dengan gaya 20N, sehingga roda menggelinding pada arah mendatar pada saat 15s tentukan energi kinetik totalnya?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "900 kah jawabnnya ???",
+                    "attachments": []
+                },
+                {
+                    "answer": "energi kinetik total dari sebuah roda pejal yaitu 900",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-benda-bermassa-100-kg-yg-mula-diam-didorong-sedemikian-ru-743",
+            "question": "sebuah benda bermassa 100 kg yg mula\" diam didorong sedemikian rupa sehingga persepatan 0,2 m/s2 (kuadrat).berapa besar gaya yg bekerja pada benda tersebut ?\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "dik = m = 100 kg<br>\u00a0 \u00a0 \u00a0 \u00a0 a = 0,2 m/s^2<br>F..?<br>ingat F = m.a\u00a0<br>sehingga, F = 100 kg . 0,2 m/s^2 = 20 N :)",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span>dik = m = 100 kg<br>\u00a0 \u00a0 \u00a0 \u00a0 a = 0,2 m/s^2<br>F..?<br>ingat F = m.a\u00a0<br>sehingga, F = 100 kg . 0,2 m/s^2 = 20</span><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "modulus-young-aluminium-adalah-710-pangkat-10-pa-jika-seutas-ka-576",
+            "question": "modulus young aluminium adalah 7.10 pangkat 10 Pa. jika seutas kawat aluminium berdiameter 1.5 mm &amp; panjang50 cm direnggangkan 10 m. berapa gaya yang dikerjakan oleh kawat?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "F=7,0 x 10 pangkat 10 x 2,0x 10 pangkat -2 x 1,76 x 10 pangkat -4<br>F-247 N",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-benda-yang-massanya-100-kg-digantung-pada-suatu-kawat-yang-379",
+            "question": "sebuah benda yang massanya 100 kg digantung pada suatu kawat yang dapat memikul beban maksimal sebesar 15000 N. jika g= 9,8 m/s^2 berapa nilai maksimum percepatan ke atas yang dapat diberikan kepada benda itu?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "mungkin 14700000 J..<br>Maaf klo slah..<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "mengapa-besi-lebih-elastis-dibandingkan-aluminium-jelaskan-933",
+            "question": "Mengapa besi lebih elastis dibandingkan aluminium ? jelaskan",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "karena muai besi lebih besar dibandingkan alumunium<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "karena besi mmpunyai sft yg berat dri pda alumunium<br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

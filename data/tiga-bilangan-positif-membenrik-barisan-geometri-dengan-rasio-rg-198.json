@@ -1,0 +1,132 @@
+{
+    "question": "Tiga bilangan positif membenrik barisan geometri dengan rasio r&gt;1.jika suku tengah ditambah 4,maka terbentuk sebuah barisan aritmatika yang jumlahnya 30.tentukan hasil kali dari ketiga bilangan tersebut.    Tolong dongg",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "a,b,c,nanti saat di barisan aritmatika b+4<br>a+b+c = 30<br>b= a.r^n-1,<br>6=a.r^1 = 6/r = a , c = a.r^n-1= 6/r . r^2 = 6.r<br>maka. a + b + c = 30<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a06/r + 6 + 6r = 30<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 6/r + 6r = 24<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 6r+ 6 = 24<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a06r = 18<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 r = 3<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0<br><br>a= 2<br>b = 6<br>c = 18<br>r= 3<br>jika b +4 = 6+ 4 =10,maka a+b+c= 30 :)<br>sehingga 2 x 6 x18 =156 :)",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "akar-persamaan-x2a-1x20-adalah-a-dan-v-jika-a2v-d-156",
+            "question": "Akar persamaan\u00a0x\u00b2+(a-1)x+2=0 adalah\u00a0\u03b1 dan\u00a0\u03b2. jika\u00a0\u03b1=2\u03b2 dan a&gt;0 maka nilai a=......",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "x\u00b2+(a-1)x+2=0, <br><span><span>\u03b1=2\u03b2<br><br></span>\u03b1\u00b7\u03b2=c/a<br>2\u03b2 \u00b7 \u03b2=2<br>2\u03b2\u00b2=2<br>\u03b2= +-1<br><br>\u03b1+\u03b2= -b/a<br>2\u03b2+\u03b2= -(a-1)<br>3\u03b2= -a+1<br><br>substitusikan nilai \u03b2=1<br>3= -a+1<br>a= -4 (bukan a yg dimaksud)<br><br>\u03b2= -1<br>-3= -a+1<br>a=4 (memenuhi syarat a&gt;0)<br><br><br></span>\u00a0<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-jumlah-10-suku-pertama-barisan-aritmatika-adalah-1255-473",
+            "question": "diketahui jumlah 10 suku pertama barisan aritmatika adalah 1255, jika bedanya 6. tentukanlah suku pertama dan rumus suku ke-n?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "U1 + U2 +..... + U10 = 10U1 + (1\u00a0+\u00a02\u00a0+ 3 + 4 + 5 + 6 + 7 + 8 + 9)b =1225<br><br>10U1 + 45.6 = 1255<br>10U1 +\u00a0270 = 1255<br>10U1 = 985<br>U1 = 98,5<br><br>Un = U1 + (n-1)b<br>Un = 98,5 + (n-1)6<br>Un = 98,5 + 6n -\u00a06<br>Un = 6n + 92,5",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-bantuin-buat-2-soal-pertidaksamaan-irasional-sama-jawaban-227",
+            "question": "Tolong bantuin buat 2\u00a0soal pertidaksamaan irasional sama jawabannya plis",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "\u221a4x + 1\u00a0\u2264 3<br>jawab : <br>(\u00a0\u221a4x + 1 )\u00b2\u00a0\u2264 3\u00b2<br>4x + 1\u00a0\u2264 9<br>4x\u00a0\u2264 8<br>x\u00a0\u2264 2<br>syarat :<br>4x + 1\u00a0\u2265 0<br>4x\u00a0\u2265 -1<br>x\u00a0\u2265 -1/4<br><br>\u221ax\u00b2 - 4x + 4 &gt; 2<br>jawab :<br>(\u221ax\u00b2 - 4x +4)\u00a0\u00b2 &gt; 2\u00b2<br>x\u00b2 - 4x + 4 &gt; 4<br>x\u00b2 - 4x &gt; 0<br>x (x - 4) &gt; 0<br>x = 0 \u00a0 \u00a0 \u00a0x= 4<br>syarat :<br>x\u00b2 - 4x + 4\u00a0\u2265 0<br>(x\u00a0-\u00a02) (x - 2)<br>x\u00a0= 2 \u00a0 \u00a0x = 2<br><br><br>nb : untuk garis bilangan dan himpunan penyelesaian belum selesai",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "ditanya-sudut-kol-diketahui-sudut-mon-30-derajat-sudut-kql-60-506",
+            "question": "Ditanya sudut KOL? diketahui sudut MON= 30 derajat, sudut KQL= 60 derajat",
+            "attachments": [
+                "question-attachments/ditanya-sudut-kol-diketahui-sudut-mon-30-derajat-sudut-kql-60-506-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "&lt; KOL = 30 derajat karena bertolak belakang dengan\u00a0 &lt; MON<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "ukuran sudutnya adalah 90 derajat<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "coba-tolong-dilihat-dulu-ada-yang-bisa-bantu-1-2-557",
+            "question": "Coba tolong dilihat dulu, ada yang bisa bantu?    1. \r\n2.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]\\int (4x-3)dx= \\int 4xdx-\\int 3dx\\\\\n\\int (4x-3)dx= 2x^2-3x+C\\\\\\\\\n\\int \\frac{2}{\\sqrt{2}-5}dx=\\frac{2x}{\\sqrt{2}-5}+C[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "3-310-710-34-13-45-34-407",
+            "question": "3 3/10- 7/10=\r\n3/4-1/3=\r\n4/5-3/4=",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "3\u00a0 3/10 - 7/4 = 26/10 = 2\u00a0 6/10 = 2\u00a0 3/5<br>3/4 - 1/3 = 5/12<br>4/5 - 3/4 = 1/20<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-f-r-r-dengan-fx-invers-fungsi-fx-adalah-163",
+            "question": "diketahui f : R\u00a0\u21d2 R dengan f(x) =\u00a0 invers fungsi f(x) adalah  =",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]f(x)=\\frac{x+1}{2x-4}\\\\ (2x-4)(f(x))=x+1\\\\ 2xf(x)-4f(x)=x+1\\\\ 2xf(x)-x=4f(x)+1\\\\ x(2f(x)-1)=4f(x)+1\\\\ x=\\frac{4f(x)+1}{2f(x)-1}\\\\ nyatakan\\ sebagai\\ f^{-1}(x)\\\\ f^{-1}(x)=\\frac{4x+1}{2x-1};syarat:x \\neq \\frac{1}{2}[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "carilah-nilai-abc-dan-d-yang-memenuhi-persamaan-berikut-a-a-316",
+            "question": "Carilah nilai a,b,c, dan d yang memenuhi persamaan berikut.    a. [a\u00a0 b\u00a0 c] + [-5\u00a0 6\u00a0 7] = [3\u00a0\u00a0 2\u00a0 -1]\r\nb. \r\n\r\n+",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a - 5 = 3<br>a = 3 + 5<br>a = 8<br><br>b + 6 = 2<br>b = 2 - 6<br>b = -4<br><br>c + 7 = -1<br>c = -1 -\u00a07<br>c = -8",
+                    "attachments": []
+                },
+                {
+                    "answer": "nilai yang memenuhi pertidak samaan tersebut<br>a - 5 = 3\u00a0  menjadi a = 3 + 5 = 8<br>b + 6 = 2 menjadi b = 2 - 6 = - 4<br>c + 7 = -1 menjadi c = -1 - 7 = -8<br><br>jadi nilai a = 8\u00a0 \u00a0 b = -4\u00a0 c = -8<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-barisan-aritmetika-mempunyai-suku-ke-7-adalah-20-suku-te-161",
+            "question": "sebuah barisan aritmetika mempunyai suku ke 7 adalah 20., suku terakhir 44, dan jumlah 3 suku pertama adalah 12. suku tengah barisan ini adalah...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "u7=20<br>a+6b=20<br><br>u1+u2+u3=12<br>a+a+b+a+2b=12<br>3a+3b=12<br>a+b=4<br><br>eliminasikan persamaan a+6b=20 dan a+b=4<br>didapat b=[tex] \\frac{16}{5} [/tex]dan a=[tex] \\frac{4}{5} [/tex]<br>Un=44<br>a+(n-1)b=44<br>4/5 + (n-1) 16/5 =44<br>4/5 + 16/5 n - 16/5 =44<br>4/5 n= 44+ 12/5<br>4/5 n =[tex] \\frac{220+12}{5} [/tex]<br>n=58<br><br>yg dicari tengah2 n berarti n:2=58:2=29<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "mohon-bantuannya-kak-jika-seutas-tali-dipotong-mnjadi-7-bagian-727",
+            "question": "Mohon bantuannya kak..    jika seutas tali dipotong mnjadi 7 bagian .masing masing bagian membentuk bilangan geometri potongan terpendek adalah 6 cm terpanjang adalah 384 cm maka panjang tali sebelum dipotong adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a=6cm<br>U7=ar^6<br><strong></strong> \u00a0 \u00a0=6r^6=384<br>\u00a0 \u00a0 =r^6=64<br>\u00a0 \u00a0 =r=2<br>S7=a(r^7-1)/r-1 = 6(2^7-1)/2-1= 6(127)/1=762",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,130 @@
+{
+    "question": "Sebuah beban bermassa\u00a0m digantungkan pada ujung bawah pegas dengan tetapan pegas\u00a0k=50 N/m. berapa periode osilasi pegas?",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "periodenya<br>T = 2\u03c0\u221a[tex] \\frac{m}{50} [/tex]",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "dua-pegas-dengan-konstanta-pegas-k1-dan-k2-dihubungkan-seri-hitu-566",
+            "question": "Dua pegas dengan konstanta pegas k1 dan k2 dihubungkan seri. hitung konstanta gabungan kedua pegas.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1/k1 + 1/k2.\u00a0<br>k1+k2/k1k2.<br>totalnya: k1k2/k1+k2.<br>(kayak ngitung arus listrik paralel)",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "ada-yg-tau-ngga-website-buat-download-ppt-fisika-tentang-pemanfaa-839",
+            "question": "ada yg tau ngga website buat download ppt fisika tentang pemanfaatan energi nuklr dan radioisotop? (ini materi kelas xii semester 2) sy sdhputus asa krn sejak 2 hari yg lalu smpe skrg ngga dapat-dapat",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Bisa cari di slideshare.com disitu banyak materi-materi yang dibutuhin",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "untuk-keamanan-dalam-mendakiseorang-pendaki-gunung-menggunakan-s-591",
+            "question": "untuk keamanan dalam mendaki,seorang pendaki gunung menggunakan sebuah tali nilon yang panjangnya 50 m dan garis tengahnya 1,0 cm.ketika menopang pendaki yang bermassa 80 kg, tali bertambah panjang 1,6 m. tentukan modulus elastis nilon ( ambil\u00a0\u03c0 = 3,15 dan\u00a0g = 9,86 m/\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>E = FLo / delta LA\u00a0<br>= mg Lo / delta LA\u00a0<br>= (80 x 9,86 x 0,5) / (1,6 x (1/4) x 3,15 x 0,01^2)\u00a0<br>= 3,13 x 10^6\u00a0<br><br></span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dari-beberapa-drum-yang-berisi-udara-yang-memiliki-massa-keseluru-445",
+            "question": "dari beberapa drum yang berisi udara yang memiliki massa keseluruhan 30 kg dan volum rata-rata 2,5 m\u00b3, digunakan untuk membuat jembatan ponton yang terapung di atas permukaan air. Berapa berat beban maksimum yang dapat ditahan oleh drum tersebut?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "massa\u00a0  di kali volume 30dikali 2,5 m3=75kg<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "hasilnya itu adalah\u00a075 newton",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-modulus-young-timah-16102-nm2-hitunglah-berat-be-745",
+            "question": "diketahui modulus young timah 1,6\u00d710\u00b2 N/m\u00b2. hitunglah berat beban maksimum yang boleh digantungkan pada seutas kawat timah yang berdiameter\u00a0\u00a0mm jika regangan yang terjadi tidak boleh lebih dari 0,0001",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "akan lebih dari kapasitas berarti\u00a0<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "faktor-apa-saja-yang-mempengaruhi-besarnya-konstanta-elastisitas-773",
+            "question": "Faktor apa saja yang mempengaruhi besarnya konstanta elastisitas suatu kawat?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "menurut saya yang mempengaruhi konstanta adalah<br>gaya dan pertambahan panjang :)",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bidang-lingkaran-dan-persegi-terbuat-dari-bahan-yang-sama-dan-lua-356",
+            "question": "bidang lingkaran dan persegi terbuat dari bahan yang sama dan luas lingkaran dua kali luas persegi pada suhu 20 derajat C. berapakah perbandingan pertambahan luas kedua bidang. jika bidang lingkaran dipanasi\u00a0hingga 30 derajat C. sedangkan pesegi dipanaskan hingga 35 derajat C\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "m\u00d7c\u00d7\u0394t<br>massa di umpamakan luasnya<br>1xcx(30-25)=5c<br>2xcx(35-25)=20c<br>5:20=1:4<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "persamaan-gelombang-berjalan-pada-seutas-tali-dinyatakan-oleh-y-556",
+            "question": "Persamaan gelombang berjalan pada seutas tali dinyatakan oleh y = 12 sin 5\u00a0\\pi (4x + 2t) dengan x dan y dalam cm dan t dalam sekon. tentukan :    a. arah rambat gelombang disertai dengan gambarnya\r\nb. amplitudo\r\nc. frequensi\r\nd. bilangan gelombang\r\ne.\u00a0panjang gelombang\r\nf. kecepatan gelombang",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "y =A sin (\u03c9t - kx)<br>y = A ampitudo = 12<br><br>k = 2\u03c0/lamda<br>lamda = 2\u03c0/10/\u03c0 = \u03c0^2/5 m<br><br><br>\u03c9 = 2\u03c0f<br>20/\u03c0 = 2\u03c0f<br>f = 20/ \u03c0 / 2\u03c0 = 40 /\u03c0^2 Hz<br><br>v = t/x = 20/\u03c0/10/\u03c0 = 2 m/s<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apa-itu-elastisitas-dan-apa-hubunganyaa-dengan-hukum-hooke-677",
+            "question": "Apa itu elastisitas? dan apa hubunganyaa dengan hukum hooke",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "elastisitas\u00a0penambahan panjang",
+                    "attachments": []
+                },
+                {
+                    "answer": "elastisitas adalah kemampuan benda untuk kembali ke bentuk semula<br>hubungannya dengan hukum hooke adalah,\u00a0<span>Pada daerah elastisitas benda, gaya yang bekerja pada benda sebanding dengan pertambahan panjang benda</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "seorang-siswa-memiliki-massa-60-kg-jika-percepatan-gravitasi-bum-135",
+            "question": "seorang siswa memiliki massa 60 kg, jika percepatan gravitasi bumi 10 m/s\u00b2, dan percepatan bulan 5,6 m/s\u00b2. htung berat siswa tsb di bumi dan di bulan? jelaskan dengan diket, tanya, dan jawab. trim's",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "diket:<br>m = 60 Kg<br>g bumi = 10 m/s\u00b2<br>g bulan= 5,6 m/s\u00b2<br><br>tanya :<br>W\u00a0bumi ...?<br>W bulan...?<br><br>jawab :<br>\u00a0W\u00a0bumi = m . g bumi<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 60 Kg . 10 m/s\u00b2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 600 kg.m/s\u00b2 atau 600 Newton<br><br>W\u00a0bulan = m. g bulan<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 60 kg. 5,6 m/s\u00b2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 336,0 kg.m/s\u00b2 atau 336 Newton",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

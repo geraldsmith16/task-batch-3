@@ -1,0 +1,132 @@
+{
+    "question": "pak\u00a0daniel seorang karyawan perusahaan. ia membeli sebuah mobil bekas seharga Rp90.000.000,00.\u00a0dan dikenakan pajak\u00a0penjualan\u00a0sebesar 5%.berapa rupiah uang yang harus dibayar pak daniel untuk pembelian mobilnya?",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "Rp4500000, karena 90000000 x 5/100",
+            "attachments": []
+        },
+        {
+            "answer": "90000000x5/100 = 4500000<br>90000000+4500000=94500000<br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "suatu-garis-melalui-titik-a-4-1-dan-b-2-3-gradien-ga-259",
+            "question": "Suatu garis melalui titik A(\u00a0-4, 1\u00a0) dan B( 2, -3 ).    Gradien garis tersebut adalah...\r\n\r\nA.\u00a0\u208b\r\nB.\u00a0\u208b\r\nC.\u00a0\r\nD.\u00a0\r\n\r\nsama cara mengerjakannya ya :)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "titik A (-4,1) maka x1 = -4 dan y1 = 1<br>titik B (2 , -3)\u00a0 maka x2 = 2 dan y2 = -3<br><br>gradien atau m = (y2 - y1) / (x2 - x1) = ( -3 - 1 ) / ( 2 - (-4) ) = -4/6 = -2/3<br><br>semoga membantu :)<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukanlah-suku-banyak-px-yang-memenuhi-persamaan-berikut-x2-151",
+            "question": "Tentukanlah suku banyak p(x) yang memenuhi persamaan berikut (x2 - 2x - 5)-p(x) = (3-2x)(5x-4)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "(x\u00b2 - 2x - 5) - p(x) = (3 - 2x) (5x - 4) <br>x\u00b2 - 2x - 5 - p(x) = 15x - 12 -10x\u00b2 + 8x <br>x\u00b2 - 2x - 5 - (15x - 12 - 10x\u00b2 + 8x) = p(x) <br>11x\u00b2 - 25x + 7 = p(x) <br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "hitung-jumlah-bilangan-yg-habis-dibagi-3-tapi-tidak-habis-dibagi-361",
+            "question": "Hitung jumlah bilangan yg habis dibagi 3 tapi tidak habis dibagi 5. Dari 1-75\r\ntolong bantuuu u.u",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "3,6,9,12,18,21,24,27,33,36,39,42,48,51,54,57,63,66,69,72<br>berarti jumlah ada 20 bilangan yang habis dibagi 3 dan tidak habis dibagi 5",
+                    "attachments": []
+                },
+                {
+                    "answer": "3, 6.9.12,18,21,24,27,33,36,39,42,48,51,54,57,63,66,69,72<br><br>jadi ada 20",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-siswa-direlasikan-dengan-tanggal-kelahirannya-apakah-relas-900",
+            "question": "jika siswa direlasikan dengan tanggal kelahirannya , apakah relasi itu merupakan fungsi ? berikan penjelasannya ??",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "tdak karena tdAK MENutup kemungkinan terdapat kesamaan tanggal lahir",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-nilaim-yang-memenuhi-a-fx-mx2-m1-x-8-b-f-910",
+            "question": "Tentukan nilai\"m\" yang memenuhi :    a. f(x) = mx2 - (m+1) x-8\r\nb. f(x) = mx2 + 12x + 9m\r\njika 1 memotong sumbu x\r\njika 1 menyinggung sumbu x\r\njika 1 tidak memotong/menyinggung sumbu x",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a. <br><span><br>b. </span><br><span><br><br>i&#039;m sorry if the fals answer..<br></span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bagaimana-cara-menampilkan-bilangan-fibonaci-dengan-assembler-193",
+            "question": "Bagaimana cara menampilkan bilangan fibonaci dengan assembler,??",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "barisan bilangan Fibonaccci yang pertama adalah:\n0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, 233, 377, 610, 987, 1597, 2584, 4181, 6765, 10946\u2026\nBarisan bilangan Fibonacci dapat dinyatakan sebagai berikut: Fn = (x1^n \u2013 x2^n)/ sqrt(5) dengan\nFn adalah bilangan Fibonacci ke-nx1 dan x2 adalah penyelesaian persamaan x^2-x-1=0<span>Perbandingan antara Fn+1 dengan Fn hampir selalu sama untuk sebarang \nnilai n dan mulai nilai n tertentu, perbandingan ini nilainya tetap. \nPerbandingan itu disebut Golden Ratio yang nilainya mendekati 1,618.</span><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "akar-akar-persamaan-kuadrat-a-2-x2-4x-a2-0-adalah-p-d-761",
+            "question": "Akar-akar persamaan kuadrat (a-2) x\u00b2 + 4x + (a+2) = 0 adalah P dan Q. Jika PQ (p+q) = -20. Tentukan nilai a!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "nilai a = 2 nilai x = -1",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dengan-mengunakan-tabel-kebenaran-buktikanlah-bahwa-pernyataan-pe-908",
+            "question": "Dengan mengunakan tabel kebenaran buktikanlah bahwa pernyataan pernyataan \u00a0berikut ini mrupakan pernyataan majemuk yang ekuivalen !    a. (p^q) \u00a0= ~ (~pv~q) \u00a0 b. (~p^q) = ~ (pv~q) \u00a0 c. (~p^~q) = ~(pvq) \u00a0 d. (~p^~q) = ~(~pv~q) \u00a0 e. (~p^~q) = pvq",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "silakan dipelajari, sekalian diperiksa apabila terdapat kesalahan",
+                    "attachments": [
+                        "answer-attachments/dengan-mengunakan-tabel-kebenaran-buktikanlah-bahwa-pernyataan-pe-908-1.docx"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-f-r-r-dengan-fx-invers-fungsi-fx-adalah-163",
+            "question": "diketahui f : R\u00a0\u21d2 R dengan f(x) =\u00a0 invers fungsi f(x) adalah  =",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]f(x)=\\frac{x+1}{2x-4}\\\\ (2x-4)(f(x))=x+1\\\\ 2xf(x)-4f(x)=x+1\\\\ 2xf(x)-x=4f(x)+1\\\\ x(2f(x)-1)=4f(x)+1\\\\ x=\\frac{4f(x)+1}{2f(x)-1}\\\\ nyatakan\\ sebagai\\ f^{-1}(x)\\\\ f^{-1}(x)=\\frac{4x+1}{2x-1};syarat:x \\neq \\frac{1}{2}[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dik-3tex-leftbeginarraycccpampq2amp6endarray-186",
+            "question": "Dik 3[tex] \\left[\\begin{array}{ccc}p&amp;q\\\\2&amp;6\\\\\\end{array}\\right]    [/tex] = +  . nilai dari 2q + p adalah,\r\n\r\ntolong bantu, cara + penjelasanya kawan",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]3\\left[\\begin{array}{cc}p&amp;q\\\\2&amp;6\\end{array}\\right]=\\left[\\begin{array}{cc}p&amp;6\\\\-1&amp;5\\end{array}\\right]+\\left[\\begin{array}{cc}4&amp;p+q\\\\7&amp;13\\end{array}\\right]\\\\\n\\left[\\begin{array}{cc}3p&amp;3q\\\\6&amp;18\\end{array}\\right]=\\left[\\begin{array}{cc}p+4&amp;6+(p+q)\\\\-1+7&amp;5+13\\end{array}\\right]\\\\\n\\left[\\begin{array}{cc}3p&amp;3q\\\\6&amp;18\\end{array}\\right]=\\left[\\begin{array}{cc}p+4&amp;p+q+6\\\\6&amp;18\\end{array}\\right]\\\\\n\\\\\n3p=p+4\\\\\np=2\\\\\n\\\\\n3q=p+q+6\\\\\n2q=2+6\\\\\n2q=8\\\\\n\\\\\nmaka\\ 2q+p=8+2=10[/tex]",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

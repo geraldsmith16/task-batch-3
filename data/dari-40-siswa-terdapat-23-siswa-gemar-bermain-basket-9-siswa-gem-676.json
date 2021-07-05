@@ -1,0 +1,150 @@
+{
+    "question": "Dari 40 siswa terdapat 23 siswa gemar bermain basket, 9 siswa gemar bermain basket dan voli, 5 siswa tidak gemar bermain basket mau pun voli.Banyak siswa yang hanya gemar bermain voli adalah..    2.Disebuah lapangan parkir terdapat 105 kendaraan terdiri dari sepeda motor dan mobil.Jika seluruh roda kendaraan tersebut (tanpa ban serep) adalah 290 roda, maka banyak mobil dilapangan parkir tersebut adalah...\r\n\r\n3.Sepotong bambu dipotong menjadi 5 bagian yang panjang nya membentuk barisan geometri.Panjang potongan terpendek 5 cm\u00a0dan potongan terpanjang 80 cm.Panjang bambu semula adalah...\r\n\r\n4.Deni akan membuat topi ulang tahun dari karton berbentuk kerucut dengan diameter alas 20 cm dan tinggi topi 24 cm.Jika ingin membuat sebanyak 50 topi, luas karton minimal yang dibutuhkan adalah...\r\n(r= 3,14)\r\n\r\n5. Diketahui banyak sisi dan rusuk prisma segi-8 masing-masing a buah dan b buah, banyak sisi dan rusuk limas segi-5 masing-masing c buah dan d buah.Hasil dari a+b-c-d adalah...",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "cuma\u00a0tahu nomor 1 jawabannya 3<br>kalau nomor 2 tidak diberi tahu umlah motornya<br>dan kalau nomor 3 saya tidak mengerti\u00a0barisan geometri... (maap yak)",
+            "attachments": []
+        },
+        {
+            "answer": "jawaban no 5<br>sisi prisma = n+2<br>sisi prisma 8 = 8+2 = 10 (a)<br>rusuk prisma = 3n -----&gt; 3\u00d78= 24 (b)<br>sisi limas = n+1------&gt; 5+1= 6 (c)<br>rusuk limas = 2n-----&gt; 2\u00d75=10 (d)<br>a+b-c-d=<br>10+24-6-10= 18<br><br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "sebidang-tanah-dengan-bntuk-persg-memiliki-ukran-72m-x-72m-tanah-978",
+            "question": "Sebidang tanah dengan bntuk persg memiliki ukran 72m x 72m tanah itu digambar dengan ukuran 12cm x 12cm    a. Besar skalanya\r\n b. Perbandingan luas gmbar dengn luas sebenarnya",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "luas sebenarnya : 72m*72m =5184m =518400 cm<br>luas pada peta : 12cm*12cm = 144 cm<br>a. skala = jp : js = 144 : 518400 = 1 : 3600 cm = 1 : 360.000.000<br>b. perbandingan = 1 : 3600",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "azizah-menabung-di-bank-sebesar-rp-80000000-setelah-5-bulan-uan-294",
+            "question": "azizah menabung di bank sebesar rp 800.000.00 setelah 5 bulan uang azizah menjadi rp 825000.00 prosentase bunga per tahun yang di berikan bank adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "5 bulan = 825.000 - 800.000 = 25.000<br>1 bulan = 5.000<br>1 tahun = 12 x 5.000 = 60.000<br><br>persentase/tahun = (60.000/800.000) x 100%<br>% = (3/40)x100% = 7,5 %",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "perbandingan-a-b-berbalik-nilai-dengan-c-d-bila-bd-175-dan-378",
+            "question": "Perbandingan a : b berbalik nilai dengan c : d. Bila bd = 175 dan a = 5 ,maka nilai d =",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a/b = d/c<br>ac=bd<br>5c=175<br>c=175/5<br>c=35<br><br>itu yg d buku ctak matematika soalnya salah yg D hrsnya C krna yg D udah diketahui",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-nilai-x-jika-2x12x22x32x504275-893",
+            "question": "Tentukan nilai X, jika (2x+1)+(2x+2)+(2x+3)+...+(2x+50)=4275",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]Sn= \\frac{n}{2} (U1+Ut)[/tex]<br>u1 adalah suku pertama =(2x+1)<br>ut adalah suku terakhir=(2x+50)<br>banyak nya n suku tsb adalah 50 atau n = 50<br>[tex]Sn= \\frac{n}{2} (U1+Ut)[/tex]<br>4275=[tex] \\frac{50}{2} ( (2x+1)+(2x+50))[/tex]<br>4275=[tex]25(4x+51)[/tex]<br>[tex] \\frac{4275}{25} =4x+51[/tex]<br>171=4x+51<br>120=4x<br>x=3",
+                    "attachments": []
+                },
+                {
+                    "answer": "Dik : a = 2x+1<br>\u00a0\u00a0 \u00a0 \u00a0  n = 50\u00a0 , b = 1<br>\u00a0\u00a0 \u00a0 \u00a0 S50 = 4275<br>Dit : x , untuk mencari x maka harus tau nilai a<br>Jawab :<br>Sn = 1/2 n (2a + (n-1) b)<br>4275 = 1/2 (50) (2a + (50-1)(1))<br>4275 = 25 (2a + 49)<br>171 = 2a + 49<br>171 - 49 = 2a<br>122 = 2a<br>a = 61<br><br>a = 2x+1<br>61 = 2x + 1<br>61-1 = 2x<br>60 = 2x<br>x = 30<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-ya-yang-tau-sifat-sifat-sifat-yang-berlaku-pada-bentuk-aka-332",
+            "question": "tolong ya yang tau sifat sifat sifat yang berlaku pada bentuk akar beserta contohnya.. hehe ini untuk pelajaran matematika loh ya (: yang tau tolong dijawab yaaaa ^^makasih",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "akar<br>a\u221ab + c\u221ab = (a + c)\u221ab\n<span><br>a\u221ab \u2013 c\u221ab = (a \u2013 c)\u221ab</span><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "contoh-teks-eksplanasi-tentang-bencana-alam-selain-banjir-278",
+            "question": "Contoh\u00a0teks eksplanasi tentang bencana alam selain banjir\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "teks eksplanasi terdiri atas :<br>pernyataan umum<br>deretan penjelasan (deskripsi)<br>interpretasi atau tanggapan penulis <br>contoh teks ekplanasi tentang bencana alam tsunami<br>Tsunami adalah serangkaian gelombang yang terbentuk karena<br>gempa atai letusan gunung berapi di bawah laut atau<br>didaratan dekat pantai.<br>Tsunami tercipta saat permukaan dasar laut bergerak<br>naik turun (pergeseran lempeng di dasar laut) di<br>sepanjang patahan selama gempa terjadi<br>Selain itu,<br>tsunami juga tercipta karena meletusnya gunung berapi<br>yang menyebabkan pergerakan air di laut atau perairan<br>sekitarnya sangat tinggi. Gelombang tsunami yang<br>terjadi di laut melaju lebih cepat daripada gelombang<br>normal. Gelombang tersebut menyebar ke segala arah<br>dengan ketinggian 30 sampai dengan 50 meter dan<br>kecepatan sekitar 800 km/jam. Ketika gelombang tsunami<br>memasuki air dangkal, kecepatannya akan menurun dan<br>ketinggiannya akan bertambah.<br>Tsunami<br>selalu menyebabkan kerusakan besar bagi manusia.<br>Kerusakan yang paling besar terjadi ketika gelombang<br>besar tsunami itu mengenai pemukiman manusia<br>sehingga menyeret apa saja yang dilaluinya.<br><br><br><br><br><br><br><br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Tsunami<br>\u00a0\n\n\n\n\n\n<span> Kata \u201ctsunami\u201d berasal dari bahasa\nJepang \u201ctsu\u201d yang berarti \u2018pelabuhan\u2019 dan \u201cnami\u201d yang berarti\n\u2018gelombang\u2019. Namun, para ilmuwan mengartikan tsunami dengan \u2018gelombang pasang\u2019\n(tidal wave) atau dikenal juga dengan sebutan gelombang laut karena\ngempa (seismic sea waves). Tsunami adalah serangkaian gelombang yang\nterbentuk karena gempa atau letusan gunung berapi di bawah laut atau di daratan\ndekat pantai. Gelombangnya yang besar menyebabkan banjir dan kerusakan saat\nmenghantam pantai. </span>\n\nTsunami tercipta saat permukaan dasar\nlaut bergerak naik turun di sepanjang patahan selama gempa terjadi. Patahannya\nmenyebabkan keseimbangan air menjadi terganggu. Makin besar daerah patahan yang\nterjadi, makin besar pula tenaga gelombang yang dihasilkan. <br>\u00a0 Selain itu, tsunami\njuga tercipta karena meletusnya gunung berapi yang menyebabkan pergerakan air\ndi laut atau perairan sekitarnya sangat tinggi. Gelombang yang besar\nmenyebabkan banjir dan kerusakan saat menghantam pantai. \n\nGelombang tsunami yang terjadi di laut\nmelaju lebih cepat daripada gelombang normal. Gelombang tersebut menyebar ke\nsegala arah dengan ketinggian 30 sampai dengan 50 meter dan kecepatan sekitar\n800 km/jam. Ketika gelombang tsunami memasuki air dangkal, kecepatannya akan\nmenurun dan ketinggiannya akan bertambah. <br>\u00a0\u00a0 Ketinggian gelombang itu juga\nbergantung pada bentuk pantai dan kedalamannya. Gempa bumi yang tejadi di dasar\nlaut sangat berpotensi menimbulkan tsunami dan sangat berbahaya bagi manusia. \n\n<span>Kamu tidak perlu khawatir karena tidak\nsemua gempa dan letusan gunung berapi menyebabkan tsunami dan tidak semua\ntsunami menimbulkan gelombang besar. Tsunami selalu menyebabkan kerusakan besar\nbagi manusia. Kerusakan yang paling </span>\n\nbesar\nterjadi ketika gelombang besar tsunami itu mengenai permukiman manusia sehingga\nmenyeret apa saja yang dilaluinya.\n\n<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "cara-menyelesaikan-2x-4-gt-3x-9-461",
+            "question": "Cara menyelesaikan 2x - 4 &gt; 3x + 9 ??",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>2x - 4 &gt; 3x + 9<br>2x - 3x\u00a0&gt; 9 + 4<br>\u00a0 \u00a0-x \u00a0 \u00a0 \u00a0&gt; 13<br>\u00a0 \u00a0-x : -1 &gt; \u00a013 : -1<br>\u00a0 \u00a0 \u00a0 \u00a0 x \u00a0 &gt; \u00a0 \u00a0 -13</span>",
+                    "attachments": []
+                },
+                {
+                    "answer": "2x - 4\u00a0<span>&gt; 3x + 9<br>2x - 3x\u00a0</span><span>&gt; 4 +\u00a09<br>-x\u00a0</span><span>&gt; 13</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "penyerdehanaan-dari-36-12-978",
+            "question": "Penyerdehanaan dari 36 1/2?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "jawabanya adalah\u00a018.........",
+                    "attachments": []
+                },
+                {
+                    "answer": "36 <u>1</u> = 73/2<u><br></u> \u00a0 \u00a02<br><u><br></u>caranya\u00a0<br>\u00a02 dikali 36 dan ditambah 1 dibagi 2...<br><br>contoh soal lain<br>4 <u>1</u> = 25/6<br>\u00a0 \u00a06\u00a0<u><br></u><br> dengan cara yg sama seperti diatas :<br><br>6 dikali 4 ditambah 1 dibagi 6<u><br></u>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "2-buah-lingkaran-masing-masing-memiliki-jari-jari-4-cm-dan-8-cm-430",
+            "question": "2 buah lingkaran masing-masing memiliki jari-jari= 4 cm, dan 8 cm. Perbandingan luas dari kedua lingkaran tersebut...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "L =\u00a0[tex] \\pi [/tex] r1\u00b2 :\u00a0L =\u00a0[tex] \\pi [/tex] r2\u00b2<br>4\u00b2 : 8\u00b2 = 16 : 64 = 1 :\u00a04",
+                    "attachments": []
+                },
+                {
+                    "answer": "LuasO =\u00a0[tex] \\pi  r^{2} [/tex]<br><br>LuasO1 =\u00a0[tex] \\pi  4^{2} [/tex]<br>LuasO2 =\u00a0[tex] \\pi  8^{2} [/tex]<br><br>Perbandingan luas = LuasO1 : LuasO2<br>Perbandingan luas =\u00a0[tex] \\pi [/tex]16 :\u00a0[tex] \\pi [/tex]64<br>Perbandingan luas = 1 : 4<br><br><strong>Note : Phi nya di coret<br></strong><strong><em><br>Semoga membantu :)</em></strong>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "perbandingan-umur-dono-dan-dini-adalah-45-jika-umur-dono-40-tah-437",
+            "question": "Perbandingan umur Dono dan Dini adalah 4:5. Jika Umur Dono 40 tahun. Berapakah umur Dini?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "perbandingan dono=4<br>dini = 5<br>dono = 40 thn<br>dini= 4\u00d740/5<br>dini 32 (perbandingan senilai)",
+                    "attachments": []
+                },
+                {
+                    "answer": "50 tahun<br>Do : Di = 4 : 5<br>4 : 5 = 40 / x<br>4x = 40.5<br>4x = 200<br>x = 200/4<br>x= 50",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

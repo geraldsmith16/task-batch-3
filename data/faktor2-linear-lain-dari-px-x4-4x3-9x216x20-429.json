@@ -1,0 +1,134 @@
+{
+    "question": "Faktor2 linear lain dari p(x) =\u00a0x^{4}-4x^{3}-9x^{2}+16x+20",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "dengan menggunakan cara horner diperoleh :<br>(x+1)(x+2)(x-2)(x-5)",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "tentukan-banyak-bilangan-asli-yang-kurang-dari-999-yang-tidak-hab-872",
+            "question": "Tentukan banyak bilangan asli yang kurang dari 999 yang tidak habis dibagi 3 atau 5.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>3,6,12,15,18,....<br><br>Un=a+(n-1).b<br>996=3+(n-1).3<br>996=3+3n-3<br>996=3n<br>\u00a0\u00a0 n=<u> 996</u> = 332<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 3<br><br>5,10,15,20,...<br><br>Un=a+(n-1).b<br>995=5+(n-1).5<br>995=5+5n-5<br>995=5n<br>\u00a0\u00a0 n= <u>995</u> = 119<br>\u00a0 \u00a0 \u00a0 \u00a0\u00a0 5<u><br><br></u>15,30,45,....990<br><br>Un=a+(n-1).b<br>990=15+(n-1).15<br>990=15+15n-15<br>990=15n<br>\u00a0\u00a0 n=66<br><br>\u00a0 Banyaknya angka yang tidak habis=<br>\u00a0\u00a0 \u00a0 998-(332+199)+66<br>\u00a0\u00a0 \u00a0 998-531+66 = <u><span>533</span></u></span><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-kain-songket-dengan-ukuran-panjang-9-per-4-m-dan-lebar-510",
+            "question": "sebuah kain songket dengan ukuran panjang \u00a09 per 4\u00a0m dan lebar \u00a03 per 4m\u00a0. di bagian tengah terdapat 5 bagian daerah yg seluruhnya \u00a0451 per 400\u00a0m. 1. tentukan ukuran bagian kain songket yg berwarna merah dan daerah berambu benang. 2. bagaimana kamu menentukan luas daerah tersebut? 3. apakah ada keterkaitan konsep dan prinsip persamaan kuadrat untuk menentukan ukuran daerah bagian dalam kain songket?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "mav, soalnya itu ada gb.nya nggak?<br>songket warna merahnya dmn?<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "cara-menjawab-soal-pola-bilangan-yang-tidak-berurutan-seperti-soa-325",
+            "question": "Cara menjawab soal pola bilangan yang tidak berurutan seperti soal psikotest itu gimana sih ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Tergantung dengan pola bilangannya juga sih.Tapi menurut pendapat saya, carilah angka yang paling kecil, lalu bandingkan dengan angka terkecil kedua. Okay ? @Liwed",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jumlah-keliling-dua-buah-lingkaran-12-cm-jumlah-luasnya-20-cm-381",
+            "question": "Jumlah keliling dua buah lingkaran 12 cm,\u00a0 jumlah luasnya 20  cm, berapa jari-jari tiap lingkaran?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "k=2[tex] \\pi [/tex].diameter<br>12\\pi=[tex] \\pi [/tex].diameter<br>diameter= 12\u00a0<br>jari\"=12/2=6",
+                    "attachments": []
+                },
+                {
+                    "answer": "[tex]K_1+K_2=12 \\pi \\\\\n2 \\pi r_1+2 \\pi r_2=12 \\pi \\\\\nr_1+r_2=6\\\\\nr_2=6-r_1\\\\\\\\\nL_1+L_2=20 \\pi \\\\\n \\pi r^2_1+ \\pi r^2_2=20 \\pi \\\\\nr^2_1+r^2_2=20\\\\\nr^2_1+(6-r_1)^2=20\\\\\nr^2_1+36-12r_1+r^2_1=20\\\\\n2r^2_1-12r_1+16=0\\\\\nr^2_1-6r_1+8=0\\\\\n(r_1-2)(r_1-4)=0\\\\\nr_1=2\\ atau\\ r_1=4\\\\\nutk\\ r_1=2 \\rightarrow r_2=6-r_1=6-2=4\\\\\nutk\\ r_1=4 \\rightarrow r_2=6-r_1=6-4=2\\\\[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "x-1-dan-x-2-adalah-akar-akar-persamaan-kuadrat-2x2-768",
+            "question": "\u00a0x_{1}\u00a0dan\u00a0\u00a0x_{2} adalah akar akar persamaan kuadrat 2x^{2} + 3x -6 = 0.Tentukan 2x1x2^{2} + 2 x1^{2}x2",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]2x_1x^2_2+2x^2_1x_2=2x_1x_2(x_1+x_2)\\\\\\\\\n2x_1x^2_2+2x^2_1x_2=2(\\frac{-6}{2})(-\\frac{3}{2})\\\\\\\\\n2x_1x^2_2+2x^2_1x_2=9[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-jumlah-deret-aritmatika-berikut-281412-sampai-286",
+            "question": "Tentukan Jumlah Deret aritmatika berikut!\r\n2+8+14+12+...... sampai dengan 10 suku.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "berarti deretnya\u00a0<br>2+8+14+12+6+12+14+8+2+8 = 86 ???",
+                    "attachments": []
+                },
+                {
+                    "answer": "2,8,12,14<br>Sn = 1/2 . n (U1+Un)<br>\u00a0 \u00a0 \u00a0= 1/2 . 10 (2 + 10)<br>\u00a0 \u00a0 \u00a0= 5 (12)<br>\u00a0 \u00a0 \u00a0= 60",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "luas-sebidang-tanah-yang-berbentuk-persegi-panjang-adalah-96-m2-968",
+            "question": "luas sebidang tanah yang berbentuk persegi panjang adalah 96 m2. panjang tanah adalah 6 kali lebarnya. tentukan panjang dan lebar tanah tersebut",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "panjang = 6a<br>lebar = a<br>96 = 6a X a<br>96 = 6a\u00b2<br>a\u00b2 = 96/6<br>a\u00b2 = 16<br>a = 4<br>panjang = 6a = 6x4 = 24 cm<br>lebar = a = 4",
+                    "attachments": []
+                },
+                {
+                    "answer": "Dik : L = 96 m2<br>\u00a0\u00a0 \u00a0 \u00a0  p = 6 l<br><br>Dit : p , l .. ?<br>Jwb :<br>L = p x l<br>96 = 6l x l<br>96 = 6 l(kuadrat)<br>96/6 = l kuadrat<br>l = <em><u></u></em>[tex] \\sqrt{16} [/tex]<br>l = 4 m<br><br>p = 6 l<br>p = 6 (4)<br>p = 24 m<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "untuk-membangun-2-ruang-kelas-butuh-15-orang-pekerja-dalam-waktu-370",
+            "question": "Untuk membangun 2 ruang kelas\u00a0butuh 15 orang pekerja dalam waktu 50 hari, setelah 20 hari\u00a0berjalan terhenti karena suatu sebab selama 5 hari. berapa tambahan pekerja agar tetap selesai dalam waktu 50 hari ?    hayo siapa yang bisa,\u00a0tolong ya teman-teman saya lupa maaf nih..",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "50 hari = 15 pekerja<br><br>setellah bekerja 20 hari,sisa<br>30 hari = 15 pekerja yang selesaikan<br><br>libur 5 hari<br>25 hari = x orang<br><br>jawab:<br>30 / 25 = x / 15<br>30 \u00d7 15 = 25x<br>450 = 25x<br>18 orang = x<br><br>jumlah yang harus ditambah:<br>18 - 15 = 3 orang<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-nilaim-yang-memenuhi-a-fx-mx2-m1-x-8-b-f-910",
+            "question": "Tentukan nilai\"m\" yang memenuhi :    a. f(x) = mx2 - (m+1) x-8\r\nb. f(x) = mx2 + 12x + 9m\r\njika 1 memotong sumbu x\r\njika 1 menyinggung sumbu x\r\njika 1 tidak memotong/menyinggung sumbu x",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a. <br><span><br>b. </span><br><span><br><br>i&#039;m sorry if the fals answer..<br></span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jumlah-mobil-yang-diproduksi-suatu-pabrik-selama-1-hari-setelah-400",
+            "question": "jumlah mobil yang diproduksi suatu pabrik selama 1 hari setelah\u00a0t jam operasi adalah\u00a0n(t)\u00a0= 200\u00a0t\u00a0- 10t\u00b2, 0\u00a0\u2264\u00a0t\u00a0&lt; 10. jika biaya produksi\u00a0n\u00a0mobil (dalam dolar) adalah\u00a0B\u00a0(n) = 30.000 + 8.000n , tentukan biaya\u00a0B\u00a0sebagai fungsi dari waktu ,\u00a0B (t).\u00a0berapakah biaya memproduksi mobil selama 1 bulan?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "n = 200t-10t^2=0<br>\u00a0 \u00a0= 200 - 20t=0<br>t = 200 / 20 = 10\u00a0<br><br>berarti dalam 1 hari memproduksi 10 mobil dalam 1 bulan = 30 hari<br>B\u00a0= 30.000+8000(10.30)<br>\u00a0 \u00a0= 30 000 + 2.400 000<br>\u00a0 \u00a0= 2 430 000 dolar",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

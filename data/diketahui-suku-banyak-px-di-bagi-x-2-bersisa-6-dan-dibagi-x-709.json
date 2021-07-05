@@ -1,0 +1,136 @@
+{
+    "question": "diketahui suku banyak p(x) di bagi (x-2) bersisa -6 dan dibagi (x+2) bersisa 8. tentukan sisa pembagian suku banyak p(x) oleh (x\u00b2-4)",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "<span>Dibagi (x-2) sisa -6<br>\ndibagi (x+2) sisa 8</span>\n\n<span><br>Dibagi (x2-4) sisa px+q</span>\n\n<span>(x2-4) = (x-2) (x+2)<br>\u00a0</span><span>(x-2) --&gt;\nf(2)= 2p+q<br>\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 -6 = 2p+q</span>\n\n<br><span>(x+2) --&gt; f(-2)= -2p+q<br>\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 8 = -2p+q</span>\n\n<br>disubtitusikan:\n\n<span>2p+q= -6\u00a0 dengan -2p+q=\n8 mendapat hasil p= -7/2 dan q= 1</span>\n\n<br><span>Jadi sisa pembagian suku banyak p(x) oleh (x2-4)\nadalah px+q= -7/2 <span>x\n+ 1</span></span>\n\n<br><br><br><br>",
+            "attachments": []
+        },
+        {
+            "answer": "<span><span>Dibagi (x-2) sisa -6<br>\ndibagi (x+2) sisa 8</span>\n\n<span><br>Dibagi (x2-4) sisa px+q</span>\n\n<span>(x2-4) = (x-2) (x+2)<br>\u00a0</span><span>(x-2) --&gt;\nf(2)= 2p+q<br>\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 -6 = 2p+q</span>\n\n<br><span>(x+2) --&gt; f(-2)= -2p+q<br>\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 8 = -2p+q</span>\n\n<br>disubtitusikan:\n\n2p+q= -6\u00a0 dengan -2p+q=\n8 mendapat hasil p= -7/2 dan q= 1\n\n<br><span>\u00a0sisa pembagian suku banyak p(x) oleh (x2-4)\nadalah px+q= -7/2 x\n+ 1</span>\n\n<br></span><br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "bagaimana-cara-menampilkan-bilangan-fibonaci-dengan-assembler-193",
+            "question": "Bagaimana cara menampilkan bilangan fibonaci dengan assembler,??",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "barisan bilangan Fibonaccci yang pertama adalah:\n0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, 233, 377, 610, 987, 1597, 2584, 4181, 6765, 10946\u2026\nBarisan bilangan Fibonacci dapat dinyatakan sebagai berikut: Fn = (x1^n \u2013 x2^n)/ sqrt(5) dengan\nFn adalah bilangan Fibonacci ke-nx1 dan x2 adalah penyelesaian persamaan x^2-x-1=0<span>Perbandingan antara Fn+1 dengan Fn hampir selalu sama untuk sebarang \nnilai n dan mulai nilai n tertentu, perbandingan ini nilainya tetap. \nPerbandingan itu disebut Golden Ratio yang nilainya mendekati 1,618.</span><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "3-bil-positif-membentuk-barisan-geometri-dgn-rasio-rgt1-jika-s-285",
+            "question": "3 bil positif membentuk barisan geometri dgn rasio r&gt;1, jika suku tengah ditambah 4 maka terbentuk sebuah bil aritmatika yg jumlahnya 30. tentukan hasil kali dari ketiga bil tersebut",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a/r,a,ar \u00a0 \u00a0 \u00a0 \u00a0BG \u00a0 \u00a0 \u00a0 \u00a0 \u00a0suku tengah ditambah 4 jadi BA\u00a0<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 a+4 = (a/r+ar)/2 \u00a0 &lt;=&gt; 2a + 8 = a/r + ar\u00a0<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0dan \u00a0\u00a0a/r + a+4+ar = 30<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0berarti 2a + 8 +a+4 = 30 &lt;=&gt; 3a = 18 maka a = 6 <br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0dan r = 3( (dimasukkan per !)<br>jadi 2+6+18 = 26",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "besar-sudut-p-dari-sebuah-segitiga-pqr-adalah-70-selisih-antara-535",
+            "question": "Besar sudut P dari sebuah segitiga PQR adalah 70, selisih antara besar sudut Q dan R adalah 36\u00b0 tentukan besar sudut Q dan R. Perlu diketahui total sudut sebuah segitiga adalah 180\u00b0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]P=70^o\\\\\nQ-R=36^o \\rightarrow Q=36^o+R\\\\\\\\\nP+Q+R=180^o\\\\\n70^o+36^o+R+R=180^o\\\\\n2R=74^o\\\\\nR=37^o\\\\\\\\\nQ=36^o+R\\\\\nQ=36^o+37^o\\\\\nQ=73^o[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-999-997-995-adalah-barisan-aretmatika-maka-suku-brni-497",
+            "question": "Jika -999,-997,-995,... Adalah barisan aretmatika, maka suku brnilai positif yg muncul prtama kali adalah suku ke .. \u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1 = a + (n-1)b<br>1\u00a0=- 999 + 2n -2<br>3 = -999 + 2n<br>1112 = 2n<br>556 = n :)",
+                    "attachments": []
+                },
+                {
+                    "answer": "a = -999<br>b = -997 - (-999) = 2<br><br>suku positif pertama<br>Un = -999 + 2(n-1)<br><br>yang cocok pada saat n-1 bernilai 500<br>jadi<br>Un = -999 + 2(500) = -999 + 1000 = 1<br><br>jadi<br>n - 1 = 500<br>n = 501<br><br>jadi suku ke 501",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "nilai-x-yang-memenuhi-x-20-lt-0-adalah-pliss-bantu-313",
+            "question": "Nilai x yang memenuhi : \u00a0+ x - 20 &lt; 0 adalah ?\r\npliss bantu......",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "silakan dipelajari dan dipahami",
+                    "attachments": [
+                        "answer-attachments/nilai-x-yang-memenuhi-x-20-lt-0-adalah-pliss-bantu-313-1.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-percobaan-mengundi-uang-logam-rp-10000-sebanyak-2-kali-208",
+            "question": "Tentukan Percobaan mengundi uang logam Rp. 100,00 sebanyak 2 kali",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "ruang sampel = gambar (G) dan angka (A)<br>pengundian uang logam 100 sebanyak dua kali --&gt; masing-masing sisi punya peluang 2/4 atau 1/2 <br>P(A)=2/4<br>P(G)=2/4<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-barisan-aritmetika-mempunyai-suku-ke-7-adalah-20-suku-te-161",
+            "question": "sebuah barisan aritmetika mempunyai suku ke 7 adalah 20., suku terakhir 44, dan jumlah 3 suku pertama adalah 12. suku tengah barisan ini adalah...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "u7=20<br>a+6b=20<br><br>u1+u2+u3=12<br>a+a+b+a+2b=12<br>3a+3b=12<br>a+b=4<br><br>eliminasikan persamaan a+6b=20 dan a+b=4<br>didapat b=[tex] \\frac{16}{5} [/tex]dan a=[tex] \\frac{4}{5} [/tex]<br>Un=44<br>a+(n-1)b=44<br>4/5 + (n-1) 16/5 =44<br>4/5 + 16/5 n - 16/5 =44<br>4/5 n= 44+ 12/5<br>4/5 n =[tex] \\frac{220+12}{5} [/tex]<br>n=58<br><br>yg dicari tengah2 n berarti n:2=58:2=29<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-akar-akar-persamaan-ax2-5x-12-0-adalah-2-dan-b-maka-4-504",
+            "question": "Jika akar akar persamaan ax\u00b2 + 5x -12 = 0 adalah 2 dan b, maka 4a\u00b2 - 4ab + b\u00b2 = .....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "x=2 &lt;=&gt; ax\u00b2+5x-12=0<br>\u00a0 \u00a0 \u00a0 \u00a0&lt;=&gt; 4a+ 10 - 12=0<br>\u00a0 \u00a0 \u00a0 \u00a0&lt;=&gt; 4a = 2<br>\u00a0 \u00a0 \u00a0 &lt;=&gt; a = 1/2<br>jadi persamannya 1/2 x\u00b2+5x - 12 = 0 semua kalikan 2<br>\u00a0 \u00a0 \u00a0&lt;=&gt; x\u00b2+ 10x - 24 = 0<br>\u00a0 \u00a0 \u00a0&lt;=&gt; ( x - 2) (x + 12) = 0<br>\u00a0 \u00a0 \u00a0&lt;=&gt; x = 2 atau x = - 12 = b<br>jadi 4a\u00b2 - 4ab + b\u00b2 = 1 - 4.. 1/2 . (-12) + 12\u00b2\u00a0<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 1 +24+144 = 169",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sisa-pembagian-suku-banyak-x4ax23xb-oleh-x2-2x-3-adal-758",
+            "question": "sisa pembagian suku banyak x^{4}+ax^{2}+3x+b oleh x^{2}-2x-3 adalah 2x-4. tentukan nilai a dan b. \u00a0mohon bantuannya ..",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]x^2-2x-3=(x-3)(x+1)\\\\\nf(x)=x^4+ax^2+3x+b\\\\\nf(3)=3^4+a(3)^2+3(3)+b=2(3)-4\\\\\nf(3)=81+9a+9+b=2\\\\\nf(3)=9a+b=-88\\\\\\\\\nf(-1)=(-1)^4+a(-1)^2+3(-1)+b=2(-1)-4\\\\\nf(-1)=1+a-3+b=-6\\\\\nf(-1)=a+b=-4\\\\\\\\\neliminasi f(3)\\ dan\\ f(-1)\\\\\nf(3)=9a+b=-88\\\\\nf(-1)=a+b=-4\\\\\n8a=-84 \\rightarrow a=-\\frac{21}{2}\\\\\na+b=-4 \\rightarrow -\\frac{21}{2}\\\\+b=-4 \\rightarrow b=\\frac{13}{2}[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pak-daniel-seorang-karyawan-perusahaan-ia-membeli-sebuah-mobil-513",
+            "question": "pak\u00a0daniel seorang karyawan perusahaan. ia membeli sebuah mobil bekas seharga Rp90.000.000,00.\u00a0dan dikenakan pajak\u00a0penjualan\u00a0sebesar 5%.berapa rupiah uang yang harus dibayar pak daniel untuk pembelian mobilnya?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Rp4500000, karena 90000000 x 5/100",
+                    "attachments": []
+                },
+                {
+                    "answer": "90000000x5/100 = 4500000<br>90000000+4500000=94500000<br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,140 @@
+{
+    "question": "Diketahui kubus ABCDEFGH dengan panjang AB = (  ).    hitunglah : \r\na. panjang diagonal sisi\r\nb. luas permukaan \r\nc. panjang diagonal ruang \r\nd. volume",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "a. diagonal sisi = \u221a(3\u221a5)\u00b2+(3\u221a5)\u00b2<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = \u221a45+45<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = \u221a90 = 3\u221a10<br>b.L = 6s\u00b2<br>\u00a0\u00a0 \u00a0\u00a0 = 6*(3\u221a5)\u00b2<br>\u00a0\u00a0 \u00a0\u00a0 = 270<br>c.diagonal sisi = \u221a(3\u221a5)\u00b2+(3\u221a5)\u00b2+(3\u221a5)\u00b2<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = \u221a45+45+45<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = \u221a135<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 3\u221a15<br>d.v = s\u00b3<br>\u00a0\u00a0 \u00a0  = (3\u221a5)\u00b3<br>\u00a0\u00a0 \u00a0  = 135\u221a5",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "matematika-difference-itu-gimana-sih-terus-bedanya-irisan-sa-891",
+            "question": "matematika difference itu gimana sih ? terus, bedanya\u00a0 irisan sama gabungan apa ? minta contohnya yaa^^",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "irisan lambangnya\u00a0 \"n\" dan kalau gabungan lambangnya \"u\"<br>contoh<br>A={123456)<br>B={456789}<br>AUB={123456789)<br>AnB={456}<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-suatu-barisan-geometri-memiliki-suku-pertama-3-dan-rasio-4-a-513",
+            "question": "1. Suatu barisan geometri memiliki suku pertama 3 dan rasio 4.    a. tuliskan barisan geometri tsb.\r\nb. tuliskan deret geometri tsb.\r\n\r\n2. Tentukanlah jumlah setiap deret geometri berikut.\r\na. 2+6+18+54+162+...+U7\r\nb. 3+15+75+...+U6\r\nc. 1+4+16+64+...+U7\r\nd. 5+10+20+40+80+...+U8\r\ne. 1/4+1/2+1+2+...+U10",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1.dik a= 3 r=4 <br>deret geometrinya\u00a0 un=ar^n-1<br>un = 3,12,48,192, . . . <br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-luas-layang2-420-cm-dan-panjang-diagonalnya1-30-cm-t-184",
+            "question": "Diketahui luas layang2 420 cm dan panjang diagonalnya1\u00a030 cm . tentukan panjang diagonal2",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "L =<u> d1 \u00d7 d2</u><br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0  2<br>420 =<u> 30 \u00d7 d2</u><br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0  2<br>420 = 15 \u00d7 d2<br>28 = d2<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-persegi-abcd-memiliki-panjang-sisi-a-cm-tentukan-panjang-511",
+            "question": "Sebuah persegi ABCD memiliki panjang sisi a cm. Tentukan panjang diagonal AC dalam a?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "berarti panjang diagonal AC=\u00a0[tex] \\sqrt{a} [/tex]",
+                    "attachments": []
+                },
+                {
+                    "answer": "ac=akar dari pada a.................",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "manakah-pernyataan-yang-benar-1-jika-sudut-a-dan-sudut-b-ada-436",
+            "question": "Manakah pernyataan yang benar? \u00a0 1. Jika sudut A dan Sudut B adalah sudut berpelurus, maka sudut A tidak pernah sama besar dengan sudut B. \u00a0 2. Jika sudut A adalah sudut tumpul maka pelurus sudut A pasti sudut lancip. \u00a0 3. Jika sudut berpenyiku sudut A lebih kecil dari 30 derajat maka pelurus sudut A adalah sudut tumpul",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Pernyataan yang benar adalah nomor 3<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Pernyataan yang benar nomor 2.",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dalam-sebuah-kelas-terdapat-48-anak-anak-yang-gemar-matematika-3-838",
+            "question": "dalam sebuah kelas terdapat 48 anak ,anak yang gemar matematika 35 anak ,yang gemar fisiika 40 anak dan yang gemar kedua-duanya 30 anak .berapa anak yang tidak gemar matematika fiisika",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "48 - ( 35+40-30) = 48 - 45 = 3<br>Jadi ada 3 orang yang tidak gemar matematika dan fisika.",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "help-kasih-caranya-juga-ya-thanks-783",
+            "question": "[HELP] kasih caranya juga ya thanks",
+            "attachments": [
+                "question-attachments/help-kasih-caranya-juga-ya-thanks-783-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "[tex]( \\sqrt[4]{2})^{6}  = (2^ \\frac{1}{4})^6 = 2^ \\frac{6}{4} = 2^ \\frac{3}{2} =  \\sqrt 2^{3}  = 2  \\sqrt{2} [/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1gaji-ayah-rp2500000jika-tiap-bulan-ayah-harus-membayar-paja-102",
+            "question": "1.gaji ayah rp.2.500.000.jika tiap bulan ayah harus membayar pajak sebesar 2,5% dari gaji nya ,maka tentukanlah gaji bersih yg di terima ayah..??\\    2.hitunglah bunga tunggal\u00a0 pada modal awal Rp.550.000 dengan suku bunga 5% tiap tahun selama satu tahun 5 bulan !\r\n3.harga penjualan sebuah pesawat tv adalah Rp.552.000 jika keuntungan yg diperoleh 15%,maka tentukan harga pembeliannya..??\r\nbeserta caranya yhaa\r\nthank sblm'a",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1\u00a0.2,5/100x 2.500.000 =62.500<br>\u00a02.500.000-62.500=.........<br>3.15/100 x\u00a0552000=82.800<br>harga pembelian 552000-82800=......",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "luass-sebuah-juring-jika-jari-jarinya-10cm-maka-panjang-busur-953",
+            "question": "Luass sebuah juring \u00a0,jika jari-jarinya 10cm maka panjang busur juring adalah :    a.4cm\r\nb.8cm\r\nc.12cm\r\nd.14cm\r\n\u00a0 bantuannya memakai cara y",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Luas juring = <u>a\u00b0</u>\u00a0 \u00d7 \u03c0 \u00d7 r\u00b2<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 360\u00b0<br>40cm\u00b2 =\u00a0<u>a\u00b0</u>\u00a0 \u00d7 3,14 \u00d7 10\u00b2<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0  360\u00b0\u00a0 <br>40 cm\u00b2 \u00d7 360 = 314 a\u00b0<br>45,86\u00b0 = a<br><br>panjang busur = <u>45,86</u> \u00d7 3,14 \u00d7 20<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0  \u00a0 360<br>PB = 8,00002 atau 8 cm<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span>luass sebuah juring \u00a0</span><span>,jika jari-jarinya 10cm maka panjang busur juring adalah :</span><br><span>a.4cm<br>b.8cm<br><strong><em><u>c.12cm aku nggak tau caranya</u></em></strong><br>d.14cm<br>\u00a0 bantuannya memakai cara y<br></span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-u1152-dan-u1363-maka-nilai-ab-462",
+            "question": "Jika U11=52 dan U13=63, maka nilai a+b=",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "u13=u11+2b<br>63=52+2b<br>63-52=2b<br>11=2b<br>b=11/2 atau 5,5<br><br>u11=a+10b<br>52=a+10(5,5)<br>52=a+55<br>52-55=a<br>a=-3<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "rumus:\u00a0Un=a+(n-1)b<br>U11=a+(11-1)b<br>U11=a+10b<br>U13=a+(13-1)b<br>U13=a+12b<br><br>rumus eliminasi<br>a+10b=52<br><u>a+12b=63</u>\u00a0-<br>\u00a0 \u00a0 -2b=-11<br>\u00a0 \u00a0 \u00a0b=5,5<br>a+10b=52<br>a+10.5,5=52<br>a+55=52<br>a=52-55<br>a=-3<br><br>a+b<br>-3+5,5=2,5",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

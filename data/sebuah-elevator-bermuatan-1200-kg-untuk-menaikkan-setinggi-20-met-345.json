@@ -1,0 +1,150 @@
+{
+    "question": "Sebuah elevator bermuatan 1200 kg untuk menaikkan setinggi 20 meter dalam waktu 30 detik diperlukan daya ? Minta sekalian sama rumus nya ya...guru ku gak jelas ngasitaunya",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "Daya = P(Usaha)/ Waktu (t)<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 1200\u00d720/30 = 800 J/s<br>Usahan (W)= F(Gaya) x Perubahan Jarak",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "faktor-apa-saja-yang-mempengaruhi-besarnya-konstanta-elastisitas-773",
+            "question": "Faktor apa saja yang mempengaruhi besarnya konstanta elastisitas suatu kawat?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "menurut saya yang mempengaruhi konstanta adalah<br>gaya dan pertambahan panjang :)",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "hitunglah-momen-inersia-suatu-benda-yang-berotasi-dengan-kecepata-322",
+            "question": "hitunglah momen inersia suatu benda yang berotasi dengan kecepatan sudut 10 rad/sekon dan memiliki energi kinetik 5 joule",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Dik Ek = 5 j<br>\u00a0 \u00a0 \u00a0\u00a0\u03c9 = 10 rad/s<br>Dit i ?<br>jawab.<br>rumus i = mr^2<br><br>Ek = 1/2 m (R.\u03c9)^2<br>5 \u00a0 = 1/2 m (R.10^2)<br>10 \u00a0= mr^2 . m.100\u00a0<br>mr^2 = 10 / 100 m<br>\u00a0 \u00a0 \u00a0 \u00a0 = \u00a00,1 kgm^2 /\u00a0m<br>i = 0,1 kgm<br><br>Klik bintang",
+                    "attachments": []
+                },
+                {
+                    "answer": "Rumus momen inersia (I) adalah\u00a0<br>bila percepatan sudut \u00a010 rad / s =\u00a0\u03b1<br>Energi kinetik = 5 Joule = F<br>[tex]I = mr^2[/tex]\u00a0<br><br>Pertama cari dulu persamaan 1\u00a0<br>[tex]F = m a_{tan} [/tex]<br>\u00a0--&gt;\u00a0Hubungan antara gaya (F), massa (m), dan percepatan tangensial (a tan) partikel\u00a0<br><br>Partikel berotasi sehingga partikel mempunyai percepatan sudut.<br>\u00a0<br>Hubungan antara percepatan tangensial dengan percepatan sudut dinyatakan melalui persamaan :<br>[tex] a_{tan}=r \\alpha  [/tex] Persamaan 2\u00a0<br><br>Subtitusikan atau gantikan percepatan tangensial (a tan) pada persamaan 1\u00a0 dengan percepatan tangensial (a tan) pada persamaan 2.<br><br>[tex]F = \\frac{1}{2}m r \\alpha[/tex]<br>[tex]\\gamma . r = \\frac{1}{2}m r \\alpha[/tex]]<br>[tex]5 = \\frac{1}{2}m . r^2 . 10[/tex]<br>[tex]mr^2 = 1 / 10 = 0.1 [/tex]<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dari-beberapa-drum-yang-berisi-udara-yang-memiliki-massa-keseluru-445",
+            "question": "dari beberapa drum yang berisi udara yang memiliki massa keseluruhan 30 kg dan volum rata-rata 2,5 m\u00b3, digunakan untuk membuat jembatan ponton yang terapung di atas permukaan air. Berapa berat beban maksimum yang dapat ditahan oleh drum tersebut?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "massa\u00a0  di kali volume 30dikali 2,5 m3=75kg<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "hasilnya itu adalah\u00a075 newton",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-saya-membutuhkan-3-soal-yang-berkaitan-dgn-vektor-645",
+            "question": "Tolong saya membutuhkan 3\u00a0soal yang berkaitan dgn Vektor.?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>vektor gaya yang sama, masing\u00b2 besarnya 10newton,<br>tentukan nilai resultan masing\u00b2 vektor.,?<br><br></span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-bantuin-dong-sebuah-beban-20n-digantungkan-pada-kawat-ya-716",
+            "question": "Tolong bantuin dong..    sebuah beban 20N digantungkan pada kawat yang panjangnya 3,0 m dan luas penampangnya 8\u00a0x 10\u207b\u2077 m\u00b2 hingga menghasilkan pertambahan panjang 0,1 mm. hitunglah:\r\na. tegangan\r\nb. regangan\r\nc. modulus elastis kawat",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "tegangan:44<br>regangan:66<br>modulus 99<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<strong>tegangannya\u00a044</strong><br><strong>regangannya\u00a066</strong><br><span><strong>modulusnya\u00a0 99</strong></span><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebutkan-dan-jelaskan-bagian-alat-optik-teropong-bintang-315",
+            "question": "Sebutkan dan jelaskan bagian alat optik teropong bintang!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "tripod = berfungsi untuk menegakan teropong<br>accessory tray = berfungsi untuk\u00a0penompang teropong<br>focusing knop = berfungsi sebagai tompol fokus kepada benda dilihat<br>eyepiece = mata lensa<br>diagonal mirror = kaca pendukung focussing knop<br>spotterscop = pencari gambar<br>tube = tabung<br>lensa shade = warna lensa",
+                    "attachments": []
+                },
+                {
+                    "answer": "1. lensa pembidik : berfungsi untuk membidik bayangan<br>2. lensa okuler : lensa yg di tempatkan dekat dengan mata ketika melihat teropong bintang<br>3. lensa objectif : lensa yg di ttujukan pada benda2 di luar angkasa<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apa-yang-anda-ketahui-tentang-gaya-satu-newton-467",
+            "question": "Apa yang anda ketahui tentang gaya satu newton?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "disebut juga hukum kelembaman. suatu benda akan tetap diam jika tidak ada resultan gaya yang mengenainya",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span>Gaya Satu newton adalah besarnya gaya yang diperlukan untuk membuat benda\nbermassa\nsatu kilogram\nmengalami percepatan\nsebesar satu meter\nper detik</span>\n\n<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-benda-jatuh-dari-ketinggian-100m-kecepatan-benda-pada-ket-606",
+            "question": "1.\u00a0\u00a0 benda jatuh dari ketinggian 100m. kecepatan benda pada ketinggian 95 m adalah. 2.\u00a0 sebuah mobil yang mempunyai daya penggerak 50 kW bergerak dengan kecepatan\u00a0 20m/s. gaya dorong mobil tersebut? \u00a0 pleaseee jwbnya agak cepet ya buat besok soal'a.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1. h =100m , v pd h = 95 m adalah? g = 10 m/s^2<br>v= akar 2.g.h<br>v = akar 2 .10m/s . (100-95) = akar 2 . 50 = akar 100 = 10 m/s<br><br>2. p = w/t<br>\u00a0 \u00a050 kw = w/s<br>\u00a0 \u00a050 n = w (f)<br>w = m.g<br>50 = m . 10<br>5 kg =m<br>f = m.a = 5 .10 = 50 N<br><br>kalau menurut saya gitu mbak &gt;_&lt;",
+                    "attachments": []
+                },
+                {
+                    "answer": "no 2 <br>Dik v = 20 m/s<br>\u00a0\u00a0 \u00a0  P = 50 kw = 50 000 w<br>Dit F ?<br>jawab.<br>F = P/v = 50 000/20 = 2500 N<br><br>mohon maaf bila ada kesalahan<br>\u00a0\u00a0 \u00a0 <br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-silinder-pejal-yang-massanya-40-kg-dan-jari-jari-10-cm-mu-102",
+            "question": "Sebuah silinder pejal yang massanya 40 kg dan jari jari 10 cm, mula    sebuah silinder pejal yang massanya 40 kg dan jari jari 10 cm, mula \r\n\r\n mula diam. setelah di fungsikan selama 5 sekon, silinder berputar dengan\r\n\r\n frekuensi 40\u03c0 Hz. \r\nTentukan percepatan sudutnya?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Dik <br>m =40 kg<br>r =10cm =0,1 m <br>t = 5 s <br>f = 40\u03c0 Hz<br>Dit \u03b1<br>jawab.<br>i = 1/2 mr^2<br>\u00a0= 1/2 40 . 0,1^2<br>\u00a0= 20 . 0,001<br>\u00a0= 0,2 kgm^2<br>\u03c9 = 2\u03c0f<br>\u00a0\u00a0 = 2 \u03c0 40 \u03c0<br>\u00a0\u00a0 = 80 \u03c0^2 <br>\u03b1 = \u0394\u03c9/\u0394t <br>\u00a0\u00a0 = 80\u03c0^2/5 = 16 \u03c0 rad/s<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "saat-beban-digantungkan-pada-pegas-apakah-beban-melakukan-gaya-532",
+            "question": "Saat beban digantungkan pada pegas, apakah beban melakukan gaya?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "tidak,,,,,,,,,,,,,,,",
+                    "attachments": []
+                },
+                {
+                    "answer": "melakukan gaya,apabila sebua pegas yang digantung diberi beban m pada ujungnya kemudian benda tersebut disimpangkan dari titik setimbangnya,maka beban pegas tersebut akan melakukan gerak bolak-balik (gaya) pada titik setimbangnya.<br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

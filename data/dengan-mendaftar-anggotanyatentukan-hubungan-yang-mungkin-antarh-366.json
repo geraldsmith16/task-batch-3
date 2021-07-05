@@ -1,0 +1,134 @@
+{
+    "question": "Dengan mendaftar anggotanya,tentukan hubungan yang mungkin antarhimpunan berikut ini.    A={x|x vokal}\r\nB={x|x konsonan}\r\nC={x|x nama bulan yang berumur 30 hari}\r\nD={x|x 1,2,3}\r\nE={x|x nama bulan dalam setahun yang dimulai dengan huruf J}\r\nF={x|x 2,1,3}\r\nG={x|10 &lt; x &lt;\u00a020, x\u00a0\u2208 bilangan prima}\r\nH={bilangan cacah}\r\nI ={bilangan ganjil}\r\nJ={x|x &lt; 9,x\u00a0\u2208 bilangan ganjil}",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "A= a,i,u,e,o<br>B= huruf selain a, i, u, e, o.<br>C= April, Juni, September, November<br>D= 1,2,3<br>E= Januari, Juni, Juli<br>F= 3,2,1<br>G= x bilangan prima antara 10 dan 20 (11,13,17,19)<br>H= bil cacah ( tau kan)<br>I = bil ganjil (tau kan)<br>J = 1,3,5,7<br>nah coba aja, a sama b hubungannya apa ?<br>nih aku kasih pilihan tuk hubungan A-J = him kosong, semesta, lepas, bagian, kompolex, dan cari dibuku smp kelas 7",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "tiga-tahun-yg-lalu-jumlah-umur-budi-dan-anton-adalah-12-tahun-ji-391",
+            "question": "Tiga tahun yg lalu jumlah umur budi dan anton adalah 12 tahun. jika umur budi sekarang 12 tahun maka berapa umur anton sekarang?    yg tau tlng bantu yah kalau blh dngn caranya!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "12 + n = 18<br>\u00a0 \u00a0 \u00a0 \u00a0n = 18 - 12<br>\u00a0 \u00a0 \u00a0 \u00a0n = 6<br>jadi umur anto sekarang adalah 6 tahun<br>6 diperoleh dari 3 tahun umur anto dan 3 tahun umur budi",
+                    "attachments": []
+                },
+                {
+                    "answer": "(budi - 3)\u00a0 + (Anton - 3) =12<br>(12 - 3) + (Anton - 3) = 12<br>9 + Anton - 3 = 12<br>Anton = 12 - 9 +3<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 6<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-nilai-x-jika-2x-1-2x-2-2x-3-471",
+            "question": "Tentukan nilai x , jika ( 2x + 1 ) + ( 2x +2 ) + ( 2x + 3 ) + ..........+ ( 2x + 50 ) = 4275",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kelas : IX (3 SMP)<br>Materi : Barisan dan Deret<br>Kata Kunci : suku, beda, jumlah suku<br>Pembahasan :<br>Barisan Aritmetika\nadalah suatu barisan dengan beda atau selisih antara dua suku berurutan selalu\ntetap atau konstan.<span><br>\nBentuk umum barisan aritmetika adalah<br>\nU</span>\u2081, U\u2082, U\u2083, ...,\nUn atau a, a + b, a + 2b, ..., a + (n - 1)b<span><br>\nSuku ke-n dari barisan aritmetika, yaitu : Un =\na + (n - 1)b.<br><span>Beda atau selisih antara dua suku berurutan,\nyaitu :\u00a0</span><br>\nb = Un - U(n - 1)<br>\nDeret Aritmetika adalah jumlah suku-suku barisan\naritmetika.<br>\nBentuk umum deret aritmetika adalah<br>\nSn = U</span>\u2081 + U\u2082 + U\u2083 + ...\n+ U(n - 1) + Un<span><br></span>\u21d4 Sn =\na + a + b + a + 2b + ... + a + (n - 1)b<span><br></span>\u21d4 Sn =\nn/2(2a + (n - 1)b)<span><br></span>\u21d4 Sn =\nn/2(a + a + (n - 1)b)<span><br></span>\u21d4 Sn =\nn/2(a + Un)<span><br>\nS(n - 1) = U</span>\u2081 + U\u2082 + U\u2083 + ...\n+ U(n - 1)<span><br>\nSn - S(n - 1) = Un.<br><span>Mari kita lihat soal tersebut.\u00a0<br></span></span>Jika (2x + 1) + (2x + 2) + (2x + 3) + ... + (2x + 50) = 4275, maka<br>a = 2x + 1<br>b = 2x + 2 - (2x + 1)<br>\u21d4 b = 2x - 2x + 2 - 1<br>\u21d4 b = 1<br>Un = 2x + 50<br>\u21d4 Un = a + (n - 1)b<br>\u21d4 2x + 50 = (2x + 1) + (n - 1) . 1<br>\u21d4 2x + 50 = 2x + 1 + n - 1<br>\u21d4 2x - 2x + 50 - 1 + 1 = n<br>\u21d4 n = 50<br>Sn = n/2{a + Un}<br>\u21d4 4275 = 50/2 . {2x + 1 + 2x + 50}<br>\u21d4 4275 = 25 . {4x + 51}<br>\u21d4 4275/25 = 4x + 51<br>\u21d4 171 = 4x + 51<br>\u21d4 171 - 51 = 4x<br>\u21d4 4x = 120<br>\u21d4 x = 120/4<br>\u21d4 x = 30<br><br>Jadi, nilai x adalah 30.<br><br>Semangat!<br>\u00a0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-x-12-2x-36-2x45-3-24y-1133-20y-363",
+            "question": "1. X-12= 2x +36\r\n2+x/4=5\r\n3. 24y-11=33-20y",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]x-12=2x+36\\\\\n-x=48\\\\\nx=-48\\\\\\\\\n\\frac{x}{4}=5\\\\\nx=20\\\\\\\\\n24y-11=33-20y\\\\\n44y=44\\\\\ny=1[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apa-itu-variabel-dan-apa-itu-persamaan-kuadrat-247",
+            "question": "Apa Itu Variabel ? Dan Apa Itu Persamaan Kuadrat ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span><span>Variabel\u00a0: (Lat) 1. berubah-ubah, tidak tetap;<br>\u00a02. deklarasi sesuatu yang memiliki variasi nilai <br>3. berbeda-beda dalam bahasa pemrograman disebut juga simbol yang mewakili nilai tertentu, variabel yang dikenal di sub program disebut variabel lokal. sedang yang di kenal secara umum/utuh dalam satu program disebut variabel global.<br></span><span>Variabel\u00a0: adalah objek penelitian, atau apa yang menjadi fokus di dalam suatu penelitian. Menurut F.N. Kerlinger variabel sebagai sebuah konsep. Variabel merupakan konsep yang mempunyai nilai yang bermacam-macam. Suatu konsep dapat diubah menjadi suatu variabel dengan cara memusatkan pada aspek tertentu dari variabel itu sendiri.<br><br><span>Persamaan kuadrat\u00a0adalah suatu persamaan polinomial berorde dua. Bentuk umum dari persamaan kuadrat adalah</span><br></span></span>",
+                    "attachments": []
+                },
+                {
+                    "answer": "variabel adalah lambang pengganti suatu bilangan\u00a0  yang belum diketahu nilainya dengan\u00a0 jelas. persamaan kuadrat adalah nilai peubah yang memenuhi pers kuadrat ,<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-1-11-true-or-false-656",
+            "question": "1 + 1 = 11 true or false",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "bisa jadi dua duanya karna 1+1=2 tapi kan 1+1=11<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Hahaha.. very interest. That&#039;s false !",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-penyelesaiaan-persamaan-linear-a-x-12-2x-36-b-5x-834",
+            "question": "Tentukan penyelesaiaan persamaan linear\r\na. x-12 = 2x + 36\r\nb. -5x - 4r +10 = 1\r\nc. 2+ x/4 = 5",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a. x - 12 + 12 = 2x + 36+12<br>\u00a0\u00a0 \u00a0X=2x-2x+48<br>\u00a0\u00a0 \u00a0x - 2x = 48<br>\u00a0\u00a0 \u00a0-x = 48<br>\u00a0\u00a0 \u00a0x = -48<br>b. -5x - 4x + 10 - 10 = 1 - 10<br>\u00a0\u00a0 \u00a0-9x : -9 = -9 : -9<br>\u00a0\u00a0 \u00a0 x = 1<br>c. 2 + x/4<br>\u00a0\u00a0 \u00a05 = 2 +3<br>\u00a0\u00a0 \u00a0x = 4 x 3<br>x =\u00a012",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bagaimana-mencari-segi-empat-tali-busur-102",
+            "question": "Bagaimana mencari segi empat tali busur?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Mencari Luas Segiempat Talibusur menggunakan Rumus\u00a0Brahmagupta\n\t\n\t\t<span>Sekitar abad ke tujuh Masehi, dalam Geometri Euclidean,\u00a0 Brahmagupta,\n seorang matematikawan asal India menemukan Rumus untuk mencari luas \nsegiempat talibusur yang telah diketahui panjang sisi-sisinya dan \nbeberapa sudutnya.</span>\n\n\nRumus Umum:\n<span>Jika diketahui segiempat talibusur memiliki sisi-sisi , , , dan  serta setengah keliling , maka luas segiempat tali busur  dapat dinyatakan dengan</span>\n\n<span>.</span>\nBukti:\n<span>Salah satu metode sederhana untuk membuktikannya adalah dengan memanfaatkan trigonometri. Misalkan dalam segiempat talibusur  (Lihat ilustrasi berikut)<span>, </span>merupakan titik sudut antara  dan , , merupakan titik sudut antara  dengan , dan  merupakan diagonal yang menghubungkan kedua sudut yang lain.</span>\n\n<span>Karena , diperoleh:</span>\n<span> dan </span>\n<span>Dengan menggunakan Aturan Cosinus,</span>\n\n\u00a0 yang mana dapat diperoleh:\n\nPerhatikan pula bahwa Luas segiempat talibusur:\n<span>,</span>\ndari sini kita juga memperoleh:\n<span>Dengan mengkuadratkan  dan  kemudian dijumlahkan, akan diperoleh</span>\n\nyang dapat disederhanakan menjadi\n<span>Tentunya kita sudah tahu bahwa . dengan mengaplikasikan identitas ini berkali-kali akan diperoleh:</span>\n<span>Dimana </span>\nBagi dengan 16, kemudian ambil akar kuadrat dari masing-masing ruas diperoleh :\n<span>Bentuk spesial rumus ini adalah saat  yang mengakibatkan segiempat talibusur ini merupakan suatu segitiga yang memiliki sisi-sisi , , , dan setengah keliling , dengan luas:</span>\n<span>yang terkenal dengan nama Rumus Heron.</span>\nRumus Brahmagupta sendiri dapat diperluas untuk segiempat yang bukan merupakan segiempat talibusur\n<span>di mana  merupakan jumlah dua buah sudut yang berlawanan. Pada segiempat talibusur, karena jumlah kedua sudut yang berlawanan , maka .</span><br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "perbandingan-a-b-berbalik-nilai-dengan-c-d-bila-bd-175-dan-918",
+            "question": "Perbandingan a : b berbalik nilai dengan c : d. Bila bd = 175 dan a = 5, maka nilai d =",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "bd : a<br>175 : 5<br>d = 35<br>Smoga ajha:) biar sya coba lagi nanti klu salah :3<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "perbandingan-a-b-berbalik-nilai-dengan-c-d-bila-bd-175-dan-378",
+            "question": "Perbandingan a : b berbalik nilai dengan c : d. Bila bd = 175 dan a = 5 ,maka nilai d =",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a/b = d/c<br>ac=bd<br>5c=175<br>c=175/5<br>c=35<br><br>itu yg d buku ctak matematika soalnya salah yg D hrsnya C krna yg D udah diketahui",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-ya-ni-tugas-numpuk-tolong-a-12x-583",
+            "question": "Tolong ya..... ni tugas numpuk tolong    \u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 a. 1/2x + 5 &gt; 15\r\n\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 b. 2 - (4+x) \u2265 - 22\r\n\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 c. 2/3p + 4 \u2264 8\r\n\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 d. 2x _4 &gt;3X + 9\r\n\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 e. 2y - 7/2\u2264 3\r\nnote. / adalah PER\r\n\u00a0\u00a0 makasih bantu ya...:)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a. <u>1 </u>x\u00a0 +\u00a0 5 &gt; 15<br>\u00a0\u00a0\u00a0 2<br><u>x\u00a0</u> &gt;\u00a0 15 - 5<br>2<br><u>x </u>&gt; 10<br>2<br>x &gt; 20<br><br>b. 2 - ( 4 + x ) \u2265 - 22<br>\u00a0\u00a0 2 - 4 - x \u2265 - 22<br>\u00a0- 2 - x \u2265 - 22<br>\u00a0- x \u2265 - 20<br>\u00a0x \u2264 20<br><br>c.<u> 2\u00a0</u> p\u00a0 + 4 \u2264 8<br>\u00a0\u00a0 3<br>\u00a0<u>2p</u>\u00a0 \u2264 8 - 4<br>\u00a03<br><u>2p</u> \u2264 4<br>3<br>2p \u2264 12<br>p \u2264 6<br><br>d. 2x - 4 &gt; 3x + 9<br>\u00a0 -3x + 2x &gt; 9 + 4<br>\u00a0 -x &gt; 13<br>\u00a0 x &lt; - 13 <br><br>e. 2y - <u>7</u> \u2264 3\u00a0 \u00a0 \u00a0 (kedua ruas dikalikan 2)<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0\u00a0 2<br>\u00a0\u00a0 4y - 7 \u2264 6<br>\u00a0\u00a0 4y \u2264 13<br>\u00a0\u00a0 y\u00a0  \u2264 <u>13</u><br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 4<br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

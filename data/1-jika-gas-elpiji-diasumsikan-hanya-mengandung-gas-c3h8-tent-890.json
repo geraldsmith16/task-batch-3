@@ -1,0 +1,142 @@
+{
+    "question": "1.\u00a0Jika gas elpiji diasumsikan hanya mengandung gas C3H8, \u00a0tentukan volume gas oksigen yang diperlukan untuk membakar 10 liter gas elpiji ( diukur pada suhu dan tekanan sama )",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "1. buat reaksinya<br>C3H8 + 5O2 --&gt; 3CO2 + 4H2O<br>2.gunakan \u00a0\"perbandindingan mol = perbandingan koefisien\"<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0C3H8 + 5O2 --&gt; 3CO2 + 4H2O<br>perband koef \u00a0 \u00a0 \u00a01 \u00a0 \u00a0 \u00a0 \u00a0 \u00a05 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a03 \u00a0 \u00a0 \u00a0 \u00a04<br>perband volume \u00a010 \u00a0 \u00a0 \u00a0 \u00a050 \u00a0 \u00a0 \u00a0 \u00a0 \u00a030 \u00a0 \u00a0 \u00a0 40<br><br>cara :<br>untuk menghitung volume gas Oksigen (bisa juga diterapkan untuk menghiutng CO2 dan H2O)<br><br>V oksigen = koefisien Oksigen/ Koefisien C3H8 \u00a0x \u00a010<br>= 5/1 x 10<br>= 50 L<br><br>semoga membantu :)<br>beri label terbaik yaw :D",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "bagaimana-mencari-pengaruh-konsentrasi-tekanan-dan-suhu-terhadap-902",
+            "question": "Bagaimana mencari pengaruh konsentrasi tekanan dan suhu terhadap\u00a0\r\ntetapan kesetimbangan?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Pergeseran kesetimbangan dapat dipengaruhi oleh berbagai faktor antara \nlain temperatur, konsentrasi, tekanan dan volume, penambahan zat lain<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "menurut-teori-bronsted-lowry-aminiak-bersifat-basa-karena-108",
+            "question": "Menurut teori bronsted lowry aminiak bersifat basa, karena....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "zat penerima proton H+<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "asam atau basa itu adalah konsep senyawa yang terlarut di dalam air. jadi jika terlarut pada selain air, tidak boleh disebut sebagai asam/ basa.<br>amonia bersifat basa harus diletakkan pada kondisi terlarut. jika masih dalam keadaan amonia (NH3), tidak dapat dipakai sebagai basa karena keadaanya masih gas.<br>pada keadaan air, reaksinya :<br>NH3 + H2O --&gt; NH4OH<br>maka ketika pada kondisi terlarut, dia dapat menerima proton dalam bentuk H+ apabila ia bereaksi dengan suatu asam<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebanyak-80ml-asam-sulfat-dapat-di-netralkan-dengan-50ml-larutan-241",
+            "question": "sebanyak 80ml asam sulfat dapat di netralkan dengan 50ml larutan kalium hidroksida 0,2M hitunglah molaritas dari larutan H2SO4",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "ini pakai <br>valensi asam sulfat = 2<br>Valensi KOH = 1<br>M1. V1. Valensi1 = M2 . V2 . Valensi2<br>M1 x 80 x 2 = 0,2 x 50 x 1<br>M1 = 160/10 = 16 M<br><br>tandai yang terbaik ya :)<br>semoga bermanfaat :)<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "massa nya ga diketahui kaka?<br><br>M = mol zat terlarut / volume larutan = m/mr / 80 + 50 = m/98 / 130<br>kaalo diketahui m nya brapa dpt hasilnya itu kaka :)<br><br>ntar kalo ada massanya send message ya ka :) kalo ga ada,maaf ya kalo salah persepsi :)",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "harga-keempat-bilangan-kuantum-untuk-elektron-terakhir-dari-17cl-759",
+            "question": "Harga keempat bilangan kuantum untuk elektron terakhir dari 17Cl adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "n = 3 l = 1 m = -1 ,0 ,+ 1 s = 1/2",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-pada-50-ml-larutan-naoh-01-m-ditambahkan-450-ml-airph-laru-428",
+            "question": "Jika pada 50 ml larutan NaOH 0,1 M ditambahkan 450 ml air,ph larutan berubah dari berapa ke berapa?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "harga pH asam maksimum 7 dan pH basa maksimum 7, Larutan NaOH 0,1 M dengan 50 ml berbanding 450 ml air itu sangat encer dengan perbandingan 1:9, sehingga larutan sama dengan pH air, yaitu 7<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span>pH asam maks 7, pH basa maks 7, Larutan NaOH 0,1 M\n dengan 50 ml berbanding 450 ml air itu sangat encer, <br>sehingga larutan NaOH sama dengan pH air = 7</span><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jenis-elektrolit-berdasarkan-ikatannya-658",
+            "question": "Jenis elektrolit berdasarkan ikatannya",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "elektrolit kuat,elektrolit lemah,non elektrolit , koreksi kalau salah ya",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apa-itu-asam-dan-basa-611",
+            "question": "Apa itu asam dan basa?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "aam adlah zat yang dalam air melepaskan ion H+, sedangkan basa adalah zat yang dalam air melepaskan ion H-<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "&gt; Asam adalah larutan yang berasa masam, bersifat korosif dan dapat memerahkan kertas lakmus<br><br>&gt;Basa adalah larutan yang berasa pahit, bersifat\u00a0licin/alkalis dan membirukankertas lakmus<br><br>Semoga membantu :)",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pada-temperatur-dan-tekanan-yang-sama-50-ml-gas-hidrogen-bereaks-224",
+            "question": "Pada temperatur dan tekanan yang sama, 50 mL gas hidrogen bereaksi dengan 50 mL gas klorin menghasilkan gas hidrogen klorida. Tentukan gas hidrogen klorida yang terbentuk?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "HCI maybe? Setau aku sih begitu :D<br>Kalo salah ya maaf<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "coba-dong-bantuin-cari-contoh-soal-tentang-kation-dan-anion-seb-176",
+            "question": "Coba dong bantuin cari contoh soal tentang kation dan anion?? sebanyak 5 soal #kimiaSAINSclass",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "buat seperti cth gini aja semoga membantu :)<br><br>kation positif :[tex]Mg^{2+},K^{+} <br><br><br><br>\u00a0anion negatif \u00a0 \u00a0 \u00a0 :,H ^{-} ,Br^{-} [/tex],[tex] Ca^{2+} [/tex]<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bagaimana-cara-mendapatkan-oksigen-asli-448",
+            "question": "Bagaimana cara mendapatkan oksigen asli ??",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "menghirupnya. karena hidung kita secara otomatis akan menghirup\u00a0oksigen\u00a0bukan karbon, dll.",
+                    "attachments": []
+                },
+                {
+                    "answer": "dengan cara menanam pohon karena pohon adalah penghasil oksigen untuk seluruh bumi kita .... jika tidak ada pohon kita hanya bisa menghirup udara yg kotor ssaja ... dan oksigen yg bagus berada di pinggir laut dan di kawsan hutan ... mksih ... :-)<br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

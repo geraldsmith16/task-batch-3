@@ -1,0 +1,146 @@
+{
+    "question": "salah satu akar dari x2-9x+(7r-1)=0 adalah tiga kurangnya dari dua kali akar yang lain . tentukan nilai r !\u00a0",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "[tex]x^2-9x+(7r-1)=0;misal\\ akar-akarnya\\ x_1\\ dan\\ x_2\\\\\nx_1=2x_2-3\\\\\nx_1+x_2=\\frac{-(-9)}{1}=9\\\\\n2x_2-3+x_2=9\\\\\n3x_2=12\\\\\nx_2=4\\\\\\\\\nx_1x_2=\\frac{7r-1}{1}\\\\\n(2x_2-3)x_2=7r-1\\\\\n(2(4)-3)(4)=7r-1\\\\\n20=7r-1\\\\\n7r=21\\\\\nr=3[/tex]",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "hitunglahsudut-antara-vektor-a-dan-b-berikut-ini-a-3i-2j-k-104",
+            "question": "Hitunglahsudut antara vektor A dan B berikut ini,\r\n\r\nA = 3i - 2j + k\r\nB = 4i - 3j +2k",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "A = (3,-2,1); B (4, -3, 2)<br>A.B = 12 + 6 + 2 = 20<br>|A| = akar ( 9 + 4 + 1 ) = akar (14)<br>|B| = akar (16 + 9 + 4 ) = akar (29)<br>cos = 20 / ((akar 14)* (akar 29)) = 0,9925<br>sudut =\u00a0 7 <br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-jumlah-dan-hasil-kali-akar-akar-persamaan-berikut-a-x-229",
+            "question": "Tentukan jumlah dan hasil kali akar-akar persamaan berikut !    a. x\u00b2-5x+7=0\r\nb. 2x\u00b2-7=0\r\nc. bx\u00b2+ax+c=0\r\nminta tolong yah di jawabnya skrang soalnya bsok mau di periksa sama guru, minta tlong juga jawabnya pkai cara kerja, biar jelas dan bisa ku mengerti juga..\r\nMakasihh..",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "ingat, <br>[tex]x1.x2= \\frac{c}{a}  \\\\ x1+x2 = \\frac{-b}{a} [/tex]<br>tinggal masukkan aja ke dalam rumus<br><br>a. <br>x1.x2=7/1<br>x1.x2=7<br><br>x1+x2=5/1<br>x1+x2=5<br><br>b.<br>x1.x2=-7/2<br><br>x1+x2=0/2<br>x1+x2=0<br><br>c.<br>x1.x2=c/b<br><br>x1+x2= -a/b<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-suatu-fungsi-kuadrat-yx24-carilah-diskriminannya-643",
+            "question": "Diketahui suatu fungsi kuadrat y=x\u00b2+4 . carilah diskriminannya!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "D = b^2 - 4ac<br>= 0^2 - (4)(1)(4)<br>= 0 - 16<br>= -16<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Diskriminan =<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 =<span>b2 - 4ac<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 0 - (4 x1 x 4)<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 0 - 16<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = -16 + 0<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = -16<br></span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tinggi-badan-andi-kurang-3cm-dari-tinggi-badan-johan-sedangkan-j-232",
+            "question": "tinggi badan andi kurang 3cm dari tinggi badan johan, sedangkan jumlah tinggi badan kedua orang tersebut 329 cm. bentuklah persamaan dalam x kemudian selesaikan!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "johan \u00a0= x\u00a0<br>andi = x - 3\u00a0<br>x + ( x - 3 ) = 329<br>2x - 3 = 329<br>2x = 332<br>x = 166<br>johan = 166\u00a0<br>andi = x - 3 = 166-3 = 163<br>jika disesuaikan\u00a0<br>andi + johan harus = 329<br>163 + 166 = 329<br>329 = 329",
+                    "attachments": []
+                },
+                {
+                    "answer": "[tex]andi=x, johan=y\\\\\nx=y-3 \\rightarrow y=x+3\\\\\nx+y=329\\\\\nx+x+3=329\\\\\n2x=326\\\\\nx=163\\\\\ny=166[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sekeping-uang-logam-dilempar-10-kali-berapa-frekuensi-harapan-mu-577",
+            "question": "Sekeping uang logam dilempar 10 kali. berapa frekuensi harapan munculnya sisi gambar?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "kesempatan msg\" sisi = 1/2<br>1/2 x 10 = 5<br>:D",
+                    "attachments": []
+                },
+                {
+                    "answer": "peluang gambar = 1/2<br><br>frekuansi harapan = peluang x banyak pelemparan = (1/2) x 10<br>frekuensi harapan sisi gambar = 5",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pada-kubus-abcd-diketahui-panjang-sisi-be48cmtentukan-panjan-128",
+            "question": "Pada kubus ABCD diketahui panjang sisi BE=\u221a48cm.tentukan panjang AB",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]perhatikan\\ segitga\\ ABE\\\\\nmisal\\ panjang\\ AB=AE=s\\\\\ngunakan\\ teorema\\ pythagoras\\\\\nAB^2+AE^2=BE^2\\\\\ns^2+s^2=(\\sqrt{48})^2\\\\\n2s^2=48\\\\\ns^2=24\\\\\ns=AB=\\sqrt{24}\\ atau\\ s=-\\sqrt{24}\\ (TM)[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "luas-jajargenjang-pqrs-adalah-72cm-pq12cm-dan-su8cm-tentukan-575",
+            "question": "Luas jajargenjang PQRS adalah 72cm, PQ=12cm, dan SU=8cm. tentukan keliling PQRS!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "12x2= 24<br>8x2=16<br>24+16= 40",
+                    "attachments": []
+                },
+                {
+                    "answer": "12x2= 24<br>8x2=16<br><span>24+16= 40<br>semoga btul</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "deret-4-10-16-k-374-jadi-tentukan-nilai-k-adalah-338",
+            "question": "Deret 4 + 10 +16 +.....+k = 374. Jadi tentukan nilai K adalah...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]a=4,b=4,U_n=k\\\\\nU_n=a+(n-1)b\\\\\nk=4+(n-1)6\\\\\n\\frac{k-4}{6}+1=n\\\\\n\\frac{k-4+6}{6}=n\\\\\n\\frac{k+2}{6}=n\\\\\n\nS_n=\\frac{n}{2}(a+U_n)\\\\\n374=\\frac{\\frac{k+2}{6}}{2}(4+k)\\\\\n374=\\frac{k+2}{12}(4+k)\\\\\n4488=(k+2)(k+4)\\\\\nk^2+6k+8=4488\\\\\nk^2+6k-4480=0\\\\\nk_{1,2}=\\frac{-6 \\underline{+}\\sqrt{6^2-4(1)(-4480)}}{2}\\\\\nk_{1,2}=\\frac{-6 \\underline{+}\\sqrt{17956}}{2}\\\\\nk_{1,2}=\\frac{-6 \\underline{+}134}{2}\\\\\nk_{1,2}=-3 \\underline{+}67\\\\k_1=-3+67=64\\\\k_2=-3-67=-70(tidak memenuhi)[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bagaimana-cara-menjelaskan-bahwa-5-kuadrat-sama-dengan-25-490",
+            "question": "Bagaimana cara menjelaskan bahwa 5 kuadrat sama dengan 25.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "5\u00b2 artinya 5 \u00d7 5 .<br>5\u00d75 =25<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "5x5=25<br>25 : 5 = 5<br>akar kuadrat dari bilangan x sama dengan bilangan r sedemikian sehingga r2 = x, atau, di dalam perkataan lain, bilangan r yang bila di\u00a0  kuadratkan sama dengan x.<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jawablah-pertanyaan-berikut-ini-dengan-benar-5-tentukan-negasi-d-339",
+            "question": "Jawablah Pertanyaan berikut ini dengan benar    5. Tentukan negasi dari disjungsi- disjungsi berikut.\r\na. Susi Wanita yang cantik atau baik hati.\r\nb. 5 bialngan prima atau habis dibagi 2.\r\nc. 2x + 1 = 5 atau 3 bilangan ganjil.\r\nJawabannya:\r\n\r\ntolong Jawablah secepat mungkin karena ini penting",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a. baik hati<br>b. 2<br>c. 2x + 1 = 5<br>\u00a0\u00a0  2x = 5-1<br>\u00a0\u00a0 2x = 4<br>\u00a0\u00a0 x\u00a0\u00a0\u00a0 = 2<br><br>Itu jawabannya. Balas \"terimakasih\" ya ! :)<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "a. susi wanita yang tidak cantik dan tidak baik hati<br>b. 5 bukan bilangan prima dan tidak habis dibagi 2<br>c. 2x + 1 \u2260 5 dan 3 bukan bilangan ganjil<br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

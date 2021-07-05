@@ -1,0 +1,132 @@
+{
+    "question": "1/2x + 5 &gt; 15 = ....",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "1/2x + 5\u00a0&gt; 15<br>semua kalikan 2<br>x + 10 &gt; 30<br>x + 10 - 10 &gt; 30 -10<br>x &gt; 20<br>Jadi penyelesaiannya x &gt; 20",
+            "attachments": []
+        },
+        {
+            "answer": "1/2x +5 &gt; 15<br>1/2x \u00a0 \u00a0 \u00a0&gt; 15-5<br>1/2x \u00a0 \u00a0 \u00a0&gt; 10<br>1/2x :1/2&gt; 10 :1/2<br><u></u><br>\u00a0 \u00a0 \u00a0 \u00a0x \u00a0 \u00a0&lt; 20<u></u>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "bagaimana-cara-mencari-a-panjang-busur-ac-b-luas-juring-aoc-ji-445",
+            "question": "Bagaimana cara mencari:    a. panjang busur AC\r\nb. luas juring AOC\r\njika lingkaran tsb berdiameter 30 cm dan sudut AOC=90 derajat",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a. 90/360 . 3,14 . 30 = 23,55<br>b. 90/360 . 3,14 . 15 .15 = 176,625",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "hitunglah-luas-dan-keliling-lingkaran-yang-berjari-jari-21-cm-809",
+            "question": "Hitunglah:    luas dan keliling lingkaran yang berjari - jari 21 cm. \r\nluas dan keliling lingkaran yang berdiameter 6,28 cm.\r\nluas dan keliling lingkaran yang berjari - jari 4,2 cm",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1) r:21cm --&gt;L:1386cm\u00b2 --&gt; K:132cm<br>2)d: 6,28 --&gt;L:30,959144cm\u00b2 --&gt; K:19,7192cm<br>3)r:4,2 --&gt; L:55,44cm\u00b2 --&gt; K:26,4cm",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-dinyatakan-dalam-bentuk-akar-561",
+            "question": "Jika dinyatakan dalam bentuk akar.........................................    mohon jawabannya yang tepat :)\r\n\r\npertanyaan nya di DOC",
+            "attachments": [
+                "question-attachments/jika-dinyatakan-dalam-bentuk-akar-561-1.docx"
+            ],
+            "answers": [
+                {
+                    "answer": "[tex]64^{\\frac{3}{2}} *  \\frac{1}{147}^{\\frac{1}{2} } = 2^{6*\\frac{3}{2}} *  \\frac{1}{147}^{\\frac{1}{2}} = 2^9 * \\frac{1}{147^\\frac{1}{2}} = 42.2[/tex]<br><br>kalau dalam bentuk akar\u00a0[tex] \\sqrt{{2 ^{18} } * \\frac{1}{147} }[/tex]<br><br>[tex]\\sqrt{{2 ^{18} } * \\frac{1}{7^{3}} } [/tex]<br><br>coba bilang dari tadi ada pilihan gandanya<br><br>[tex]64^{\\frac{3}{2}} * \\frac{1}{7}^{\\frac{3}{2} }\u00a0<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pembangunan-seb-gedung-dapat-selesai-dalm-wktu-70-hari-oleh-24-ku-245",
+            "question": "pembangunan seb gedung dapat selesai dalm wktu 70 hari oleh 24 kuli.Setelah dikerjakan 20 hari pekerjaan berhenti 10 hari.Agar pembangunan selesai tepat wktu , maka tenaga kerja tambahannya adalah .....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<u>50 </u>=\u00a0<u>x<br></u>40 \u00a0 \u00a024 \u00a0 \u00a0(kali silang)<br><u><br></u>40x = 50.24<br>40x = 1200<br>\u00a0x \u00a0 = \u00a0<u>1200<br></u> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a040<br>\u00a0x \u00a0 \u00a0= 30<br><br>jumlah tambahan pekerja = 30 - 24<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 6 orang (kalo gk salah )",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-rumus-un-dan-suku-ke-10-dari-2-8-17-29-949",
+            "question": "Tentukan Rumus Un dan suku ke-10 dari:\r\n- 2, 8, 17, 29,..................Un",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "U10 = 1/2*10*10+17/2*10 +(-11)<br>\u00a0\u00a0 \u00a0\u00a0 = 50+85-11<br>\u00a0\u00a0 \u00a0\u00a0 = 124<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-suatu-barisan-geometri-memiliki-suku-pertama-3-dan-rasio-4-a-209",
+            "question": "1. Suatu barisan geometri memiliki suku pertama 3 dan rasio 4. a. tuliskan barisan geometri tsb. b. tuliskan deret geometri tsb. 2. Tentukanlah jumlah setiap deret geometri berikut. a. 2+6+18+54+162+...+U7 b. 3+15+75+...+U6 c. 1+4+16+64+...+U7 d. 5+10+20+40+80+...+U8 e. 1/4+1/2+1+2+...+U10",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1.a 3, 12, 48,.....<br>\u00a0 \u00a0b. 3 + 15+ 63,......<br>2. a.s7= 1886<br>\u00a0 \u00a0 b. s6=57318<br>\u00a0 \u00a0c. s7=21845<br>\u00a0 d. s8=1275<br>e. s10=255,75",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "4-geq-8-tolong-sekalian-caranya-388",
+            "question": "+ 4\u00a0\\geq 8 \u00a0 (tolong sekalian caranya)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex] \\frac{2}{3}p +4 \\geq 8  \\\\   \\frac{3}{2}px (\\frac{2}{3} +4) \\geq 8x \\frac{3}{2}  \\\\ 6p \\geq  12 \\\\ p \\geq 6[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebidang-tanah-dengan-bntuk-persg-memiliki-ukran-72m-x-72m-tanah-978",
+            "question": "Sebidang tanah dengan bntuk persg memiliki ukran 72m x 72m tanah itu digambar dengan ukuran 12cm x 12cm    a. Besar skalanya\r\n b. Perbandingan luas gmbar dengn luas sebenarnya",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "luas sebenarnya : 72m*72m =5184m =518400 cm<br>luas pada peta : 12cm*12cm = 144 cm<br>a. skala = jp : js = 144 : 518400 = 1 : 3600 cm = 1 : 360.000.000<br>b. perbandingan = 1 : 3600",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "upik-membuka-usaha-keripik-kentang-yang-dipasarkanpada-ibu-ibu-d-830",
+            "question": "Upik membuka usaha keripik kentang ,yang dipasarkanpada ibu-ibu di sekitar komplek upiktinggal. Agar pembeli tidak kecewa upik harusberusaha potongan kripiknya sebagus mungkindan hampir sama panjangnya. Setelah digorengUpik menimbang berat keripik kentang itu,ternyata dari 8 butir kentang diperoleh kripikdengan berat 1,2 ons.    a. Jika tetangga upik memesan 2 kg keripik,Berapa butir kentang yang harus digorengupik\r\n.b. Berapa butir kentang digoreng untuk membuat6 kg keripik\r\n.c. Berapa kg keripik yang dihasilkan dari 60butir kentang\r\n.d. Sajikan data perbandingan pada tabel dangambarkan grafiknya pada koordinat kartesius.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "8 butir\u21d21,2 ons =12 kg<br>80 butir\u21d2 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a01,2 kg<br>800butir\u21d2 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 12 kg<br>a.800butir\u21d212kg<br>\u00a0 \u00a0 \u00a0 ? \u00a0 \u00a0 \u00a0\u21d22kg<br>800/x=12/2(disderhanakan menjadi 6/1)<br>6x=800<br>x=800/6<br>x=133,33 =134 butir<br>b.800/x=12/6(di sederhanakan mnjadi 2/1)<br>2x=800<br>x=800/2<br>x=400 butir<br><br>\u00a0 \u00a0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jari-jari-sebuah-roda-adalah-84-cm-jika-sepeda-tersebut-menempuh-916",
+            "question": "jari jari sebuah roda adalah 84 cm. jika sepeda tersebut menempuh jarak 264 meter, maka roda sepeda harus berputar sebanyak?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "jari jari sebuah roda adalah 84 cm. jika sepeda tersebut menempuh jarak 264 meter, maka roda sepeda harus berputar sebanyak?<br>\u00a0kel = 2 x phi x r<br>\u00a0 \u00a0 \u00a0 = 2 x 22/7 x 84<br>\u00a0 \u00a0 \u00a0 = 2 x 12 x 22<br>\u00a0 \u00a0 \u00a0 = 528<br>banyak putar = 26400/528<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 50",
+                    "attachments": []
+                },
+                {
+                    "answer": "Keliling roda = 2.pi.r<br>= 2. 22/7 . 168<br>= 1056 cm<br>Jarak dalam cm = 264\u00d7100<br>= 26.400<br>Perlu berapa kali roda berputar?<br>26.400 : 1056<br>= 25 kali<br>Semoga betul dan dapat membantu ^^<br><br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

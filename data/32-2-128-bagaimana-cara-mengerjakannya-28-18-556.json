@@ -1,0 +1,140 @@
+{
+    "question": "\u221a32 - \u221a2 +\u221a128 bagaimana cara mengerjakannya\r\n\r\n2\u221a8 + \u221a18 + \u221a32 +\u221a200",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "<span>=\u221a32 - \u221a2 +\u221a128<br>=</span>\u221a16\u221a2 - \u221a2 + \u221a64<span>\u221a2<br>=4</span><span>\u221a2-\u221a2+8\u221a2<br>=</span><span>\u221a2(4-1+8)<br></span>=\u221a2 x 11<br>=11\u221a2<br><br><span>=2\u221a8 + \u221a18 + \u221a32 +\u221a200<br>=2\u221a4\u221a2+\u221a9\u221a2+\u221a16\u221a2+\u221a100\u221a2<br>=4\u221a2+3\u221a2+4\u221a2+10\u221a2<br>=\u221a2(4+3+4+10)<br>=\u221a2 x 21<br>=21\u221a2</span><br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "diketahui-belah-ketupat-pqrs-dengan-besar-tps-30-dan-panjang-297",
+            "question": "Diketahui belah ketupat PQRS dengan besar TPS = 30\u00b0 dan panjang PT = 24cm    hitunglah :\r\na. keliling, dan\r\nb. luas belah ketupat\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "PQ=QR=RS=SP=<em></em>\u221a24\u00b2+24\u00b2 =\u00a0\u221a576+576 = 33,9<br>Keliling = 4\u00a0\u00d7 PQ = 4\u00a0\u00d7 33,9 = 135,6 cm<br>Luas = 1/2 d1\u00a0\u00d7 d2 = 1/2\u00a0\u00d7 48\u00d7 48 = 1152 cm\u00b2<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diket-skala-110000000-jarak-pda-pta-kota-jambi-palembang-2-945",
+            "question": "Diket : skala 1:10.000.000    jarak pda pta kota Jambi - Palembang 2,4 cm\r\nsopir bis mengendarai bis dari jambi-palembag dgn kec 80km/jam\r\nsopir bis istirahat 30 menit\r\ntiba di kota palembang pukul 10.30\r\n\r\na.berapa jam bis itu di perjalanan ?\r\nb.pukul brp sopir bis berangkat dri kota jambi ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a. w = JS =1:10.000.000 x 2.4 =24000.000 cm = 240 km<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 240 / 80 = 3\u00a0 jam ( tidak dgn waktu istirahat )<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 3 jam + 30 menit = 3.30 (dgn waktu istirahat ) \u00a0  <br>\u00a0\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 <br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 <br>b.\u00a0 10.30 - 3.30<br>\u00a0\u00a0 \u00a0 pukul 7<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-nilai-ab-dan-c-jika-a-b24-ab52-dan-c17-ab-781",
+            "question": "Tentukan nilai a,b, dan c jika a-b=24; a:b=5:2; dan c=1/7 (a+b)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]a-b=24 \\\\  \\frac{a}{b}= \\frac{5}{2}   \\\\ 5-2=3 \\\\ a= \\frac{5}{3}.24=40 \\\\ b= \\frac{2}{3}.24=16 \\\\ c= \\frac{1}{7}.(a+b) \\\\ c=   \\frac{1}{7}.(40+16)=8[/tex]",
+                    "attachments": []
+                },
+                {
+                    "answer": "a-b = 24<br>a:b = 5:2<br>maka :<br>5x - 2x = 24<br>3x = 24<br>x = 8<br><br>maka a= 5x=5.8 = 40<br>dan b = 2x=2.8 = 16<br><br>c= 1/7 .(a+b) = 1/7 . (40+16) = 1/7 . 56 = 8 :)<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "panjang-jari-jari-sebuah-lingkaran-8-cm-jika-panjang-jari-jari-l-264",
+            "question": "Panjang jari-jari sebuah lingkaran 8 cm. Jika panjang jari-jari lingkaran kedua 1 1/2 kali jari-jari lingkaran pertama, hitunglah perbedaan luas kedua lingkaran tersebut dengan phi = 3,14",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "luas lingkaran 1 = phi r*2 = 3,14 x 64= 200,96 \u00a0 \u00a0r lingkaran 2 = 3/2 kali 8 = 12<br>luas lingkaran 2 = 3,14\u00a0x 144 = 452,16<br>jadi perbedaannya = L LINGK 1 - L LINGK 2 =\u00a0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "misalnya-sebuah-lingkaran-mimpunyai-sudut-aob-120-derajat-sudut-729",
+            "question": "misalnya sebuah lingkaran mimpunyai sudut AOB 120 derajat, sudut BOC 150 derajat, dan sudut COA 90 derajat.pertanyaannya berapa luas juring BOC?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "ga diketahui jari\"nya gitu gan ? kyny ga bs dijawab deh<br>soalnya perbandingannya sudut / 360\u00b0 = luas juring / luas lingkaran atau<br>sudut x / sudut y = luas juring x / luas juring y",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pliss-bantuin-ini-dong-butuh-banget-pliiiiisss-235",
+            "question": "Pliss bantuin ini dong... butuh banget... pliiiiisss",
+            "attachments": [
+                "question-attachments/pliss-bantuin-ini-dong-butuh-banget-pliiiiisss-235-1.docx"
+            ],
+            "answers": [
+                {
+                    "answer": "5x=180-80 karena segaris lurus maka sudut total = 180<br>5x= 100<br>x=100/5<br>x= 20<br><br>misal di samping sudut 7y kita beri A<br>maka A= 5x. karena segaris<br>5x= 180-7y<br>5.20= 180-7y<br>100=180-7y<br>7y= 180-100<br>7y= 80<br>y= 80/7<br><br>semoga jadi yang terbaik :)",
+                    "attachments": []
+                },
+                {
+                    "answer": "5x + 80\u00b0 = 180 \u00b0 (sudut dalam sepihak)<br>5x = 100\u00b0<br>x = 25\u00b0<br><br>100 + 7y = 180\u00b0<br>7y = 80\u00b0<br>y = 11 <u>3</u> \u00b0<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0\u00a0 7<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "3-tentukanlah-penyelesaian-dari-pertidaksamaan-berikut-a-12x-440",
+            "question": "3. Tentukanlah penyelesaian dari pertidaksamaan berikut:    a) 1/2x + 5 &gt; 15\r\nb) 2 \u2013 (4 + x) \u2265 \u2013 22\r\nc) 2/3p + 4 \u2264 8\r\nd) 2x \u2013 4 &gt; 3x + 9\r\ne) 2y-7/2\u00a0 \u2264 3",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a. 1/2 x &gt; 15- 5<br>1/2 x &gt; 10<br>2 1/2x &gt; 2.10<br>x &gt; 20<br><br>b. 2 - (4+ x) [tex] \\geq [/tex] -22<br>-2 + x [tex] \\geq [/tex] -22<br>x [tex] \\geq [/tex] -22+ 2<br>x[tex] \\geq [/tex] -20<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pada-kegiatan-rally-sebuah-mobil-akan-sampai-di-garis-finis-dala-961",
+            "question": "pada kegiatan rally, sebuah mobil akan sampai di garis finis dalam waktu 4,5 jam dengan kecepatan rata-rata 63 km/jam. setelah 2 jam berjalan, ban mobil biru pecah sehingga terpaksa berhenti mangganti ban selama 15 menit. berapa kecepatan mobil biru dinaikkan agar tetap sampai di finis tepat waktu?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "= 2,5/2,25 = 63/x <br>2,25/2,5 x 63/x<br>= 2,25 x = 157,5<br>x = 157,5/2,25<br>x = 70 km/jam <br>semoga membantu yaa<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "persamaan-garis-melalui-titik-m-1-5-dan-n-42-adalah-709",
+            "question": "Persamaan garis melalui titik M (1.-5) dan N (4,2) adalah?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Diketahui: Persamaan garis melalui titik M (1, -5) dan N (4, 2)<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 x1 = 1, x2 = 4, y1 = -5, y2 = 2<br>Ditanya: Persamaan garisnya = ?<br>Jawab: \u00a0Persamaan garis\u00a0=\u00a0[tex] \\frac{y - y1}{y2-y1} [/tex] =\u00a0[tex] \\frac{x - x1}{x2 - x1} [/tex]<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u21d2\u00a0y - (-5) per 2 - (-5) = x - 1 per 4 - 1<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u21d2 y + 5 per 7 = x - 1 per 3 (dikalikan silang)<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u21d2 3y + 15 = 7x - 7\u00a0<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u21d2 3y = 7x - 7 - 15<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u21d2 3y = 7x - 22<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u21d2 y =\u00a0[tex] \\frac{7x - 22}{3} [/tex]<br>jadi, persamaan garisnya adalah\u00a0y =\u00a0[tex] \\frac{7x - 22}{3} [/tex].<br><br><br>semoga bisa membantu ^_^,,,<br>maaf jika ada yang salah ^_^,,,<br>jika jawaban diatas tidak dimengerti, silahkan ditanyakan ^_^,,,<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0",
+                    "attachments": []
+                },
+                {
+                    "answer": "(1,-5)=(x1,y1)<br>(4,2)=(x2,y2)<br><br><u>y-y1</u> \u00a0 \u00a0= \u00a0<u>x-x1</u><br>y2-y1 \u00a0 \u00a0 \u00a0x2-x1<br><br><u>y-(-5)</u> = \u00a0<u>x-1</u><br>2-(-5) \u00a0 \u00a0\u00a04-1<br><br><u>y+5</u>\u00a0 = \u00a0<u>x-1</u><br>2+5 \u00a0\u00a0 \u00a0 4-1 \u00a0 (kali silang)<br><br>7x-7=3y+15<br>7x=3y+15+7<br>7x=3y+22<br><br>koreksi lg takut salah ngitung",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "cara-menyelesaikan-2x-4-gt-3x-9-461",
+            "question": "Cara menyelesaikan 2x - 4 &gt; 3x + 9 ??",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>2x - 4 &gt; 3x + 9<br>2x - 3x\u00a0&gt; 9 + 4<br>\u00a0 \u00a0-x \u00a0 \u00a0 \u00a0&gt; 13<br>\u00a0 \u00a0-x : -1 &gt; \u00a013 : -1<br>\u00a0 \u00a0 \u00a0 \u00a0 x \u00a0 &gt; \u00a0 \u00a0 -13</span>",
+                    "attachments": []
+                },
+                {
+                    "answer": "2x - 4\u00a0<span>&gt; 3x + 9<br>2x - 3x\u00a0</span><span>&gt; 4 +\u00a09<br>-x\u00a0</span><span>&gt; 13</span>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

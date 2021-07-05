@@ -1,0 +1,138 @@
+{
+    "question": "Rumus reaksi sempurna kimia apa ya?",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "<span>C8H18 (l) +12 \u00bd O2 (g) \u2013&gt; 8 CO2 (g) + 9 H2O (g) \u0394H = -5460 kJ</span>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "besarnya-tegangan-yang-dilakukan-pada-sebuah-batang-adalah-2x106-688",
+            "question": "Besarnya tegangan yang dilakukan pada sebuah batang adalah 2x10^6 N/m^2. jika panjang batang adalah 4 meter dan modulus young elastisitasnya 2,5x10^8 N/m^2, maka pertambahan panjang batang adalah.... A. 0,8 cm B. 1,6 cm C. 3,2 cm D. 5,0 cm E. 6,4 cm \u00a0 dengan pembahasannya \u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "modulus young = stres /strain<br>2,5 . 10 ^8 N/m^2 = 2 . 10^6 N/m^2 . strain<br>2,5 . 10^ 8 N/m^2 / 2. 10^6 N/m^2 = strain<br>1,25 . 10^2 = strain<br><br>strain = pertambhan panjang / panjang awal<br>1,25 . 10^2 = pertambahn panjang / 4<br>1,25 .10^2 / 4 = pertambahn panjang<br>125 /4 = pertambahan panjang<br>31,25 m = pertambahn panjang<br>saya dapatnya gitu &gt;_&lt;",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "coba-jelasin-bagaimana-transformasi-lorentz-itu-soalnya-masih-921",
+            "question": "Coba jelasin bagaimana transformasi lorentz itu? \u00a0soalnya masih kurang ngerti aku. Thx:)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Transformasi Lorenz menyatakan transformasi ruang-waktu yang melandasi \nteori relativitas khusus antara dua pengamat yang bergerak dengan \nkecepatan konstan.<br>Transformasi Lorentz hanya berlaku untuk kerangka acuan yang bergerak \nseragam (tanpa percepatan) terhadap kerangka acuan lain. Pada \nkenyataannya kehadiran percepatan tidak dapat dipungkiri dalam kehidupan\n sehari-hari. Contohnya adalah: jika penumpang keretaapi tadi menarik \nrem darurat tiba-tiba, maka ia akan merasakan percepatan ke arah \nlokomotif, atau keretaapi mengalami perlambatan. Jika hanya bermodalkan \nTRK, maka keraguan terhadap prinsip relativitas akan merasuki kita untuk\n kasus ini. Namun Einstein berusaha mencari pemecahannya dengan motivasi\n bahwa hukum alam tetap sama untuk kerangka acuan jenis apapun.         \n <br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span>\u00a0transformasi Lorentz ditemukan pengabaian fundamental pada arah sebaran cahaya dari objek kepada pengamat yang mengakibatkan tidak terpenuhinya kondisi tertentu dalam konsep koordinat ruang dan waktu.</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apa-yang-dimaksud-benda-tegar-281",
+            "question": "Apa yang dimaksud benda tegar",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "benda yang tidak akan berubah bentuknya setelah diberi suatu gaya pada benda tersebut.",
+                    "attachments": []
+                },
+                {
+                    "answer": "benda tegar adalah istilah dalam fisika terhadap benda yang tidak akan berubah bentuknya setelah diberikan gaya pada benda itu,pada benda tegar titik harus berada pada jarak yang sama,sehinga titik2 lainnya sering sekali berbentuk lingkaran :)",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dari-beberapa-drum-yang-berisi-udara-yang-memiliki-massa-keseluru-445",
+            "question": "dari beberapa drum yang berisi udara yang memiliki massa keseluruhan 30 kg dan volum rata-rata 2,5 m\u00b3, digunakan untuk membuat jembatan ponton yang terapung di atas permukaan air. Berapa berat beban maksimum yang dapat ditahan oleh drum tersebut?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "massa\u00a0  di kali volume 30dikali 2,5 m3=75kg<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "hasilnya itu adalah\u00a075 newton",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-perangkat-hidrolik-memiliki-perbandingan-diameter-kecil-d-361",
+            "question": "sebuah perangkat hidrolik memiliki perbandingan\u00a0diameter kecil dan besar 2:100. tentukanlahgaya yang dihasilkan pada penghisap besar jika beban yang di letakkan pada penghisap kecil 2N?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "F2 =\u00a0[tex] (\\frac{d2}{d1} )^2 . F1[/tex]<br>F2 = 10000/4 . 2<br>\u00a0 \u00a0 \u00a0= 5000 N",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-benda-panjangnya-2-meter-setelah-ditarik-oleh-gaya-30n-pan-113",
+            "question": "sebuah benda panjangnya 2 meter setelah ditarik oleh gaya 30N panjangnya menjadi 2,02 meter. Besar konstanta pegas benda tersebut adalah..",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "dik<br>panjang awal = 2 m<br>panjang akhir = 2,02 m<br>F = 30 N<br>dit :<br>k..?<br>jwb ..<br>x= panjang akhir - panjang awal = 2,02 - 2 m = 0,02 m<br><br>maka k = F/x = 30 N / 0,02 m = 1500 N/m",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-balon-berisi-900-m3-gas-helium-yang-massa-jenisnya-0183-152",
+            "question": "sebuah balon berisi 900 m\u00b3 gas helium yang massa jenisnya 0.183 kg/m\u00b3 . Jika massa jenis udara 1.29 kg/m\u00b3 . berapa beban yang dapay diangkat balon tersebut?? massa balon kosong 25 kg.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "maaf aku kurang mengerti pertanyaanya<br>rho = m.v<br>w = m.g<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-benda-jatuh-dari-ketinggian-100m-kecepatan-benda-pada-ket-606",
+            "question": "1.\u00a0\u00a0 benda jatuh dari ketinggian 100m. kecepatan benda pada ketinggian 95 m adalah. 2.\u00a0 sebuah mobil yang mempunyai daya penggerak 50 kW bergerak dengan kecepatan\u00a0 20m/s. gaya dorong mobil tersebut? \u00a0 pleaseee jwbnya agak cepet ya buat besok soal'a.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1. h =100m , v pd h = 95 m adalah? g = 10 m/s^2<br>v= akar 2.g.h<br>v = akar 2 .10m/s . (100-95) = akar 2 . 50 = akar 100 = 10 m/s<br><br>2. p = w/t<br>\u00a0 \u00a050 kw = w/s<br>\u00a0 \u00a050 n = w (f)<br>w = m.g<br>50 = m . 10<br>5 kg =m<br>f = m.a = 5 .10 = 50 N<br><br>kalau menurut saya gitu mbak &gt;_&lt;",
+                    "attachments": []
+                },
+                {
+                    "answer": "no 2 <br>Dik v = 20 m/s<br>\u00a0\u00a0 \u00a0  P = 50 kw = 50 000 w<br>Dit F ?<br>jawab.<br>F = P/v = 50 000/20 = 2500 N<br><br>mohon maaf bila ada kesalahan<br>\u00a0\u00a0 \u00a0 <br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "modulus-elastis-kawat-a-dua-kali-kawat-b-panjang-kawat-a-dan-b-m-937",
+            "question": "Modulus elastis kawat A dua kali kawat B. Panjang kawat A dan B masing masing 2 m. Jari-jari kawat A setengah kali kawat B. Hitunglah nilai perbandingan tetapan gaya kawat A dan B!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kalo aku jawabannya 1/2 : 1",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sifat-sifat-resonansi-427",
+            "question": "Sifat-sifat resonansi ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Dapat dituliskan dalam beberapa struktur Lewis yang disebut dengan struktur resonan. Tetapi tidak satupun struktur tersebut melambangkan bentuk asli molekul yang bersangkutan.Di antara struktur yang saling beresonansi bukanlah isomer. Perbedaan antar struktur hanyalah pada posisi elektron, bukan posisi inti.Masing-masing struktur Lewis harus mempunyai jumlah elektron valensi dan elektron tak berpasangan. yang sama.Ikatan yang mempunyai orde ikatan yang berbeda pada masing-masing struktur tidak mempunyai panjang ikatan yang khas.Struktur yang sebenarnya mempunyai energi yang lebih rendah dibandingkan energi masing-masing struktur resonan.",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

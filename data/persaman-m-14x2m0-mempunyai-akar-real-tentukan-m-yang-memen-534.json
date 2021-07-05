@@ -1,0 +1,134 @@
+{
+    "question": "Persaman (m-1)+4x+2m=0 mempunyai akar real. Tentukan m yang memenuhi",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "<span>(m-1)+4x+2m=0<br></span><br><span>m-1+4x+2m=0<br>3m</span><span>+4x=1<br>3m=1-4x<br>m=(1-4x)/3<br>m=(1/3)-(4x/3)<br>maybe :D<br></span>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "mohon-bantuannya-kak-jika-seutas-tali-dipotong-mnjadi-7-bagian-727",
+            "question": "Mohon bantuannya kak..    jika seutas tali dipotong mnjadi 7 bagian .masing masing bagian membentuk bilangan geometri potongan terpendek adalah 6 cm terpanjang adalah 384 cm maka panjang tali sebelum dipotong adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a=6cm<br>U7=ar^6<br><strong></strong> \u00a0 \u00a0=6r^6=384<br>\u00a0 \u00a0 =r^6=64<br>\u00a0 \u00a0 =r=2<br>S7=a(r^7-1)/r-1 = 6(2^7-1)/2-1= 6(127)/1=762",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-barisan-aritmatika-dengan-suku-ke-9-51-dan-suku-ke-1-530",
+            "question": "diketahui barisan aritmatika dengan suku ke-9 = 51, dan suku ke 13 = 79. suku ke -6 adalah, tolong beri cara\" nya juga kawan,,, \u00a0 \u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "diket : U9= 51, U13 =79 ,a\u00a0= -5, b = 7,\u00a0\u00a0<br>tanya : U6<br>jawab : u6 = a+ (n-1) b<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = -5 + (6-1)7<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = -5 + 5.7<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = -5 + 35<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 30<br>\u00a0 \u00a0\u00a0",
+                    "attachments": []
+                },
+                {
+                    "answer": "U9 = 51<br>U13 =\u00a079<br><br>U13 - U9 = 4b = 79 - 51<br>4b = 28<br>b = 7<br><br>U6 = U9 - 3b = 51 - 3(7)<br>U6 = 51 - 21<br>U6 = 30",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "nih-ada-pr-mtk-sains-gurunya-blm-nerangin-mohon-di-bantu-yok-c-359",
+            "question": "Nih ada pr mtk sains gurunya blm nerangin :( mohon di bantu yok cekidot nih soalny..    Tentukanlah himpunan penyelesaian dari persamaan trigonometri 2-2sin(2x+15\u00b0)=3 untuk 0\u00b0\u2264x\u2264360\u00b0\r\n\r\n\r\nnah tolong bantuin ngerjain soal di atas oke :) please gan sis",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span> 2-2sin(2x+15\u00b0)=3 <br><br>2sin(2x+15) = -1 <br><br></span><span>sin(2x+15) = -1/2 <br><br></span><span>sin(2x+15) = sin 210 <br><br></span>berarti himpunan penyelesaiannya = { 210 , 330 ) <br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-percobaan-mengundi-uang-logam-rp-10000-sebanyak-2-kali-208",
+            "question": "Tentukan Percobaan mengundi uang logam Rp. 100,00 sebanyak 2 kali",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "ruang sampel = gambar (G) dan angka (A)<br>pengundian uang logam 100 sebanyak dua kali --&gt; masing-masing sisi punya peluang 2/4 atau 1/2 <br>P(A)=2/4<br>P(G)=2/4<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "hasil-dari-7log8-x-2log9-x-3log17-816",
+            "question": "Hasil dari \u2077log8 x\u00a0\u00b2log9 x\u00a0\u00b3log1/7",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "soal itu \u00a0bisa kamu sama dengankan 2.2log3 * -1.3log7 * 3.7log2. sehingga menjadi 2 * -1 * 3 = -6 :)\u00a0<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-taman-berbentuk-lingkaran-dengan-diameter-40-mdisekelilin-489",
+            "question": "sebuah taman berbentuk lingkaran dengan diameter 40 m.disekeliling taman itu akan dibuat jalan dengan lebar 1 m (=22/7).hitunglah luas jalan tsb",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "d awal=40 m<br>R=r+1m<br>R=20+1=21m<br>luas lingkaran besar=22/7x21x21=1386<br>luas lingkaran kecil=22/7x20x20= 1257,14286<br>luas jalan=1386-1257,14286=128,8572m\u00b2",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jelaskanapa-yg-dimaksud-invers-941",
+            "question": "Jelaskanapa yg dimaksud invers ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Invers biasanya merupakan lawan dari sesuatu.<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Invers secara umum artinya lawan dari sesuatu hal.<br><br>dalam matematika, invers itu sering disebut fungsi kebalikan.<br>yang apabila suatu fungsi misalnya f, inversnya ditulis[tex]f^{-1} [/tex]<br><br>sifat khusus dari invers<br>[tex]f. f^{-1} =1[/tex]<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "untuk-membangun-2-ruang-kelas-butuh-15-orang-pekerja-dalam-waktu-370",
+            "question": "Untuk membangun 2 ruang kelas\u00a0butuh 15 orang pekerja dalam waktu 50 hari, setelah 20 hari\u00a0berjalan terhenti karena suatu sebab selama 5 hari. berapa tambahan pekerja agar tetap selesai dalam waktu 50 hari ?    hayo siapa yang bisa,\u00a0tolong ya teman-teman saya lupa maaf nih..",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "50 hari = 15 pekerja<br><br>setellah bekerja 20 hari,sisa<br>30 hari = 15 pekerja yang selesaikan<br><br>libur 5 hari<br>25 hari = x orang<br><br>jawab:<br>30 / 25 = x / 15<br>30 \u00d7 15 = 25x<br>450 = 25x<br>18 orang = x<br><br>jumlah yang harus ditambah:<br>18 - 15 = 3 orang<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-barisan-aritmatika-dengan-suku-ke-9-51-dan-suku-ke-1-466",
+            "question": "Diketahui barisan aritmatika dengan suku ke-9 = 51, dan suku ke-13= 79. suku ke 6 adalah...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "13-9 = 4<br>Jadi jarak antar kedua suku adalah 4<br>79-51= 28<br>Jadi selisih kedua suku adalah 28<br>4 = 28<br>1= 7<br>Jadi, beda antar suku adalah 7<br>Jadi, barisan aritmatikanya adalah<br>-5,2,9,16,23,30,37,44,51<br>Suku ke 6 adalah 30 ^^<br>semoga betul kak :D",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tinggi-badan-andi-kurang-3cm-dari-tinggi-badan-johan-sedangkan-j-232",
+            "question": "tinggi badan andi kurang 3cm dari tinggi badan johan, sedangkan jumlah tinggi badan kedua orang tersebut 329 cm. bentuklah persamaan dalam x kemudian selesaikan!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "johan \u00a0= x\u00a0<br>andi = x - 3\u00a0<br>x + ( x - 3 ) = 329<br>2x - 3 = 329<br>2x = 332<br>x = 166<br>johan = 166\u00a0<br>andi = x - 3 = 166-3 = 163<br>jika disesuaikan\u00a0<br>andi + johan harus = 329<br>163 + 166 = 329<br>329 = 329",
+                    "attachments": []
+                },
+                {
+                    "answer": "[tex]andi=x, johan=y\\\\\nx=y-3 \\rightarrow y=x+3\\\\\nx+y=329\\\\\nx+x+3=329\\\\\n2x=326\\\\\nx=163\\\\\ny=166[/tex]",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

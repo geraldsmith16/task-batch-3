@@ -1,0 +1,142 @@
+{
+    "question": "luas sebidang tanah yang berbentuk persegi panjang adalah 96 m2. panjang tanah adalah 6 kali lebarnya. tentukan panjang dan lebar tanah tersebut",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "panjang = 6a<br>lebar = a<br>96 = 6a X a<br>96 = 6a\u00b2<br>a\u00b2 = 96/6<br>a\u00b2 = 16<br>a = 4<br>panjang = 6a = 6x4 = 24 cm<br>lebar = a = 4",
+            "attachments": []
+        },
+        {
+            "answer": "Dik : L = 96 m2<br>\u00a0\u00a0 \u00a0 \u00a0  p = 6 l<br><br>Dit : p , l .. ?<br>Jwb :<br>L = p x l<br>96 = 6l x l<br>96 = 6 l(kuadrat)<br>96/6 = l kuadrat<br>l = <em><u></u></em>[tex] \\sqrt{16} [/tex]<br>l = 4 m<br><br>p = 6 l<br>p = 6 (4)<br>p = 24 m<br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "diketahui-vektor-p-dan-q-20-dan-1-vektor-p-dan-r-11-dan-2-j-434",
+            "question": "diketahui vektor p dan q 2,0, dan 1. vektor p dan r 1,1, dan 2. jika vektor p dan s 1/2 vektor p dan q maka tentukan vektor r dan s?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "vektor 2,1 jika s 1 per 2 2,0 cx :D<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span>Jika vektor p dan q 2,0, dan 1. vektor p dan r 1,1, dan 2.</span><br>maka Vektor S =\u00a0<span> 1 per 22</span><br><br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apa-rumus-luas-daerah-dibawah-kurva-481",
+            "question": "Apa rumus luas daerah dibawah kurva?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "tergantung sumbu X dan Y yang diketahui\u00a0<br>dan tergantung bentuk kurvanya",
+                    "attachments": []
+                },
+                {
+                    "answer": "tergantung bentuk kurvanya dan juga sumbu X dan \u00a0Y\u00a0nya",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suku-pertama-barisan-geometri-adalah-5-dan-besar-suku-tengahnya-a-805",
+            "question": "suku pertama barisan geometri adalah 5 dan besar suku tengahnya adalah 3.645. banyak sukunya adalah.. \u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex] \\frac{3645}{5} = 729 = 9^{3} = 3^{6}[/tex]<br><br>jadi ada 2 jawaban nih yang mungkin.<br>kalau rasio = 9.<br>maka banyak sukunya = 7<br><br>kalau rasio = 3<br>maka banyak sukunya = 13<br><br>slahkan di cek.",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-13-11-9-un-1800-tentukan-banyak-suku-dere-197",
+            "question": "Jika : 13 + 11 + 9 +...... + Un = -1800\r\ntentukan banyak suku deret tersebut ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "cari dlu rumus suku ke-n atau Un<br>Un = (a +(n-1)b) = 13 +(n-1)-2 = 15 - 2n<br>kemudian masukkan rumus jumlah sukuk ke- n atau Sn<br>Sn= n/2(a + Un)<br>-1800=n/2(13 + 15 - 2n)<br>-1800=(28n - 2n^2)/2<br>-3600 = 28n - 2n^2 \u00a0 \u00a0 \u00a0 (pindahkan semua yang di ruas kanan ke ruas kiri)<br>2n^2 - 28n -3600 = 0 \u00a0 \u00a0 (bagi 2 kedua ruas)<br>n^2 - 14n -1800 = 0 \u00a0 \u00a0 \u00a0 \u00a0 (faktorkan)<br>(n-50)(n+36) = 0<br>n = 50 atau -36<br><br>jawabannya n adalah 50, karena harus bernilai positif, atau syarat di atas adalah n= bil . asli<br>(coba saja bayangkan apakah ada suku ke -36??) yang ada adalah suku ke 50,\u00a0<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bantuin-dong-ixx-fx2x5-dan-gx2x2-6x5-tentukan-a-851",
+            "question": "Bantuin dong..    I(x)=x, f(x)=2x+5, dan g(x)=2x\u00b2-6x+5 tentukan:\r\na. Iof(x)\r\nb. foI(x)\r\nc. Iog(x)\r\nd. goI(x)\r\ntrm ksih bagi yg bs jwb :) dtunggu scpatnya",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "I o f(x)<br>I (2x + 5)<br>2x +5<br><br>f o I(x)<br>f (x)<br>2x + 5<br><br>l o g(x)<br>l (2x\u00b2 - 6x + 5)<br>2x\u00b2 - 6x + 5<br><br>g o l(x)<br>g (x)<br>2x\u00b2 - 6x + 5<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-x1-dan-x2-akar-akar-2x2-5x30-maka-tentukan-nilai-x12x2-938",
+            "question": "Jika x1 dan x2 akar-akar 2x^2-5x+3=0, maka tentukan nilai x1^2+x2^2\r\nPlissss",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "x1^2+x2^2 = (x1+x2)^2 - 2x1*x2<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 = (-(-5/2)^2 - 2*3/2<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 = 25/4 - 3<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 = 3 1/4<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "2x^2 - 5x + 3 = 0<br>faktor<br>(x\u00a0-\u00a01)\u00a0(2x\u00a0-\u00a03)\u00a0=\u00a00<br>x1 = 1 \u00a0<br>x2 = 3/2<br><br>nilai X1^2 + X2^2<br>jadi, 1^2 + 3/2^2<br>\u00a0 \u00a0 \u00a0 \u00a0= 1 + 9/4<br>\u00a0 \u00a0 \u00a0 \u00a0=( 4+9)\u00a0/ 4<br>\u00a0 \u00a0 \u00a0 \u00a0= 13/4<br>\u00a0 \u00a0 \u00a0 \u00a0= 3\u00a0[tex] \\frac{1}{4} [/tex]<br><br>Semoga membantu :) D like klik bintang",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-banyak-bilangan-asli-yang-kurang-dari-999-yang-tidak-hab-872",
+            "question": "Tentukan banyak bilangan asli yang kurang dari 999 yang tidak habis dibagi 3 atau 5.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>3,6,12,15,18,....<br><br>Un=a+(n-1).b<br>996=3+(n-1).3<br>996=3+3n-3<br>996=3n<br>\u00a0\u00a0 n=<u> 996</u> = 332<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 3<br><br>5,10,15,20,...<br><br>Un=a+(n-1).b<br>995=5+(n-1).5<br>995=5+5n-5<br>995=5n<br>\u00a0\u00a0 n= <u>995</u> = 119<br>\u00a0 \u00a0 \u00a0 \u00a0\u00a0 5<u><br><br></u>15,30,45,....990<br><br>Un=a+(n-1).b<br>990=15+(n-1).15<br>990=15+15n-15<br>990=15n<br>\u00a0\u00a0 n=66<br><br>\u00a0 Banyaknya angka yang tidak habis=<br>\u00a0\u00a0 \u00a0 998-(332+199)+66<br>\u00a0\u00a0 \u00a0 998-531+66 = <u><span>533</span></u></span><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-taman-berbentuk-lingkaran-dengan-diameter-40-mdisekelilin-489",
+            "question": "sebuah taman berbentuk lingkaran dengan diameter 40 m.disekeliling taman itu akan dibuat jalan dengan lebar 1 m (=22/7).hitunglah luas jalan tsb",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "d awal=40 m<br>R=r+1m<br>R=20+1=21m<br>luas lingkaran besar=22/7x21x21=1386<br>luas lingkaran kecil=22/7x20x20= 1257,14286<br>luas jalan=1386-1257,14286=128,8572m\u00b2",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apa-konsep-dari-mencari-persamaan-kuadrat-jika-diketahui-akar-aka-731",
+            "question": "Apa konsep dari mencari persamaan kuadrat jika diketahui akar-akarnya ? Dan tolong berikan contohnya    Tolong dibantu\r\n\r\nTerima kasih",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "rumus nya.. x^2 (alfa+beta)x + alfa.beta...<br><br>alfa &amp; beta itu akar\"nya..jd kita hrs cr dlu alfa+beta dan beta +alfa..<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "banyak-anggota-matriks-adalah-170",
+            "question": "Banyak anggota matriks\u00a0 adalah....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "antara 12 dan\u00a0tidak ada........................",
+                    "attachments": []
+                },
+                {
+                    "answer": "jelaskan awal mula berdirinya kerajaan singhasari<br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,134 @@
+{
+    "question": "X\u00b2+2x-15=0\r\ncarlah x\u2081 dan x\u2082\r\ndenan menggunakan rumus abc",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "kalo itu akar\"nya\u00a0<br>(x-3)(x+5)<br>yg rumus abc itu apa pakek yang ini ??<br>x1,2 = -b +-\u00a0\u221ab\u00b2 - 4ac / 2a",
+            "attachments": []
+        },
+        {
+            "answer": "rumus D = b^2 - 4ac<br>(2x)^2-4(1)(-15)=0<br>4x^2-4+60=0<br>4x^2+56=0<br>4x^2 = -56<br>x^2 = \u00a0-14<br>x =\u00a0\u221a14<br>jadi nilai x = positif negarif\u00a0\u221a14",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "pak-daniel-seorang-karyawan-perusahaan-ia-membeli-sebuah-mobil-513",
+            "question": "pak\u00a0daniel seorang karyawan perusahaan. ia membeli sebuah mobil bekas seharga Rp90.000.000,00.\u00a0dan dikenakan pajak\u00a0penjualan\u00a0sebesar 5%.berapa rupiah uang yang harus dibayar pak daniel untuk pembelian mobilnya?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Rp4500000, karena 90000000 x 5/100",
+                    "attachments": []
+                },
+                {
+                    "answer": "90000000x5/100 = 4500000<br>90000000+4500000=94500000<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-b-dan-c-dan-determinan-dari-matriks-bc-adalah-k-885",
+            "question": "diketahui B =\u00a0, dan C = dan determinan dari matriks B.C adalah K. jika garis 2x - y = 5 dan x + y = 1 berpotongan di titik A, maka persamaan garis melalui A dan bergradien K adalah...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "det B = -2<br>det C = -6<br>K = det B . det C = -2 . -6 = 12<br><br>eliminasi y<br><span>2x - y = 5<br>x + y = 1<br></span>3x = 6<br>x = 2<br><br>subs ke x + y = 1<br>2 + y = 1<br>y = -1<br><br>(x, y) = (2, -1)<br>persamaan baru dengan gradien 12<br>y = 12x - 25",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-y-2-cos-x-1-dari-030609012015018021024-743",
+            "question": "Tentukan\u00a0\r\ny = 2 cos x + 1\u00a0\r\ndari : 0,30,60,90,120,150,180,210,240,270,300,330,360 \u00a0(derajat)\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "2 cos x+1=0<br>2cos x=-1<br>cos x = - 1/2<br>cos yang bernilai 1/2 adalah 60 secara umum<br>diketahui dari soal nilainya minus berarti di kuadran 2 dan 3<br><br>yaitu 120 dan 240",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-titik-a-1-2-8-titik-b-3-4-0-jika-vektor-ab-960",
+            "question": "diketahui titik a= 1, -2, -8 titik b= 3, -4, 0. jika vektor AB= -3 vektor PB dan P terletak pada perpanjangan AB, maka tentukan vektor P.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "-8,3,0 klo gk slah sih kaya gitu",
+                    "attachments": []
+                },
+                {
+                    "answer": "Vektor P = -8, 0 , 3<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-jika-x1-dan-x2-akar-akar-2xkuadrat-10x4-0-nilai-dari-x-912",
+            "question": "1. jika\u00a0 x1 dan x2\u00a0 akar akar 2xkuadrat-10x+4 = 0, nilai dari x1kuadrat+x2kuadrat-3x1x2=    \u00a0\u00a0 \u00a0 A. 20\r\n\u00a0\u00a0 \u00a0 B. 15\r\n\u00a0\u00a0 \u00a0 C. 10\r\n\u00a0\u00a0 \u00a0 D.\u00a0 5\r\n\u00a0\u00a0 \u00a0 E.\u00a0 1",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "2x\u00b2-10x+4 = 0<br>x1+x2= 5 dan x1.x2=2<br>x1\u00b2+x2\u00b2-3x1x2=(x1+x2)\u00b2- 2x1x1 - 3x1x2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0=(x1+x2)\u00b2-\u00a05x1x2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 25-10<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 15",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "deskripsi-tentang-konsep-dasar-sudut-347",
+            "question": "Deskripsi tentang konsep dasar sudut?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "sudut adalah titik yang dibentuk oleh 2 garis yang bersinggungan atau berpotongan",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "864",
+            "question": "",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]lim_{x \\rightarrow 0}\\ \\frac{x-3-sin(x-3)}{x-3}\\\\\n= lim_{x \\rightarrow 0}\\ \\frac{x-3}{x-3}- lim_{x \\rightarrow 0}\\ \\frac{sin(x-3)}{x-3}\\\\\n=  lim_{x \\rightarrow 0}\\ 1- lim_{x \\rightarrow 0}\\ 1\\\\\n=1-1\\\\\n=0[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bentuk-sederhana-dari-4a-2-2a3-tolong-jelaskan-secara-310",
+            "question": "Bentuk Sederhana dari (4a)-\u00b2 \u00d7 (2a)\u00b3 =\r\n\r\n\r\ntolong jelaskan secara detail, lagi pemula ni..?!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "4^-2 . a^-2 .2^3 . a ^3<br>1/4^2 .8 . a^(-2)+3<br>1/16 . 8 . a^1<br>16 sama 8 nya sama2 bisa dibagi 8. jadi coret<br>1/2a atau 2^-1a<br><br>^= dibaca pangkat yaa<br>soalnya darisini gabisa di superscript",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-ab-dan-c-adl-sudut2-pda-sebuah-segtiga-dan-nilai-dari-tan-367",
+            "question": "jika A,B, dan C adl sudut2 pda sebuah segtiga dan nilai dari tan A = 4, tan B = 3, maka nilai dari tan C=.......?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]A,\\ B\\ dan\\ C\\ merupakan\\ sudut2\\ dlm\\ segitiga,\\ maka\\\\\nA+B+C=180^{o}\\\\\nA+B=180^{o}-C\\\\\nTan(A+B)=Tan(180^{o}-C)\\\\\n\\frac{Tan A+Tan B}{1-TanATanB}=-TanC\\\\\n\\frac{4+3}{1-4(3)}=-TanC\\\\\n\\frac{7}{-11}=-TanC\\\\\nTanC=\\frac{7}{11}\n[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "hitunglahsudut-antara-vektor-a-dan-b-berikut-ini-a-3i-2j-k-104",
+            "question": "Hitunglahsudut antara vektor A dan B berikut ini,\r\n\r\nA = 3i - 2j + k\r\nB = 4i - 3j +2k",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "A = (3,-2,1); B (4, -3, 2)<br>A.B = 12 + 6 + 2 = 20<br>|A| = akar ( 9 + 4 + 1 ) = akar (14)<br>|B| = akar (16 + 9 + 4 ) = akar (29)<br>cos = 20 / ((akar 14)* (akar 29)) = 0,9925<br>sudut =\u00a0 7 <br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,142 @@
+{
+    "question": "sisa pembagian suku banyak x^{4}+ax^{2}+3x+b oleh x^{2}-2x-3 adalah 2x-4. tentukan nilai a dan b. \u00a0mohon bantuannya ..",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "[tex]x^2-2x-3=(x-3)(x+1)\\\\\nf(x)=x^4+ax^2+3x+b\\\\\nf(3)=3^4+a(3)^2+3(3)+b=2(3)-4\\\\\nf(3)=81+9a+9+b=2\\\\\nf(3)=9a+b=-88\\\\\\\\\nf(-1)=(-1)^4+a(-1)^2+3(-1)+b=2(-1)-4\\\\\nf(-1)=1+a-3+b=-6\\\\\nf(-1)=a+b=-4\\\\\\\\\neliminasi f(3)\\ dan\\ f(-1)\\\\\nf(3)=9a+b=-88\\\\\nf(-1)=a+b=-4\\\\\n8a=-84 \\rightarrow a=-\\frac{21}{2}\\\\\na+b=-4 \\rightarrow -\\frac{21}{2}\\\\+b=-4 \\rightarrow b=\\frac{13}{2}[/tex]",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "persamaan-m-1-x2-4x-2m-0-mempunyai-akar-akar-real-te-829",
+            "question": "Persamaan (m - 1)\u00a0x\u00b2 + 4x + 2m = 0 mempunyai akar-akar real. Tentukan nilai m yg memenuhi!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "JAWAB.<br>akar akarnya<br>x= -2 m= 2<br>x= 0 m=0<br>x=1 m= -1<br>x=4 m=0<br><br>nilai m = 1 dan x = -1/2<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "D&gt;0<br>x\u00b2+4x+2m&gt;0<br>b\u00b2-4ac<br>(4)\u00b2-4.1.2m&gt;0<br>16-8m&gt;0<br>-8&gt;-16<br>m&lt;2<br>jadi m nya : 1<br>mungkin begitu, semoga benar :D",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-b-dan-c-dan-determinan-dari-matriks-bc-adalah-k-885",
+            "question": "diketahui B =\u00a0, dan C = dan determinan dari matriks B.C adalah K. jika garis 2x - y = 5 dan x + y = 1 berpotongan di titik A, maka persamaan garis melalui A dan bergradien K adalah...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "det B = -2<br>det C = -6<br>K = det B . det C = -2 . -6 = 12<br><br>eliminasi y<br><span>2x - y = 5<br>x + y = 1<br></span>3x = 6<br>x = 2<br><br>subs ke x + y = 1<br>2 + y = 1<br>y = -1<br><br>(x, y) = (2, -1)<br>persamaan baru dengan gradien 12<br>y = 12x - 25",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-selidiki-bahwa-detan-det-an-untuk-a-2-1-673",
+            "question": "1. Selidiki bahwa det(A^n) = (det A)^n untuk    A = \u00a0\u00a0 2\u00a0 \u00a0 -1\u00a0 \u00a0 3\r\n\u00a0\u00a0 \u00a0 \u00a0 \u00a0 1\u00a0 \u00a0\u00a0 2\u00a0 \u00a0\u00a0 4\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 dengan n = 3\r\n\r\n\u00a0\u00a0 \u00a0 \u00a0 \u00a0 5\u00a0 \u00a0\u00a0 -3\u00a0 \u00a0 6\u00a0 \u00a0 \u00a0 \r\n2. Tentukanlah z yang memenuhi persamaan berikut !\r\n\u00a0 \u00a0 z \u00a0 \u00a0 \u00a0 5 \u00a0 \u00a0 \u00a0 7\r\n\u00a0 \u00a0 0 \u00a0 \u00a0 z+1 \u00a0 \u00a0 6\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 = 0\r\n\u00a0 \u00a0 0 \u00a0 \u00a0 \u00a0 0 \u00a0 \u00a0 \u00a0 2z-1 \u00a0 \u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "buat nomor 2. <br>pokoknya tambah 2 baris ke kanan, jadinya persamaan<br>z(z+1)(2z-1)+0+0-(0+0)=0<br>z(z+1)(2z-1)=0<br>maka:<br>z1= 0<br>z2=-1<br>z3=1/2<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Jawaban\u00a0dari\u00a0soal\u00a0diatas:<br>1.57<br>2.28",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dketahui-barisan-geometri-u1-u2-45-dan-u3-u4-20-tentukan-119",
+            "question": "Dketahui barisan geometri U1 + U2 = 45 DAN U3 + U4 = 20 tentukan rasiaonya ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "U1 + U2 = a + ab = 45<br>U3 + U4 = abb + abbb = 20<br><br>(a + ab = 45) &lt;&lt; dikali dengan bb<br>(a + ab)bb = 45bb<br>abb + abbb = 45bb<br><br>45bb = 20<br>bb = 20/45 = 4/9<br>b = akar (4/9)<br>b\u00a0= 2/3",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "contoh-soal-persamaan-dan-fungsi-kuadrat-585",
+            "question": "Contoh soal persamaan dan fungsi kuadrat ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]tentukan\\ akar-akar\\ dari\\ persamaan\\ kuadrat:x^2-x+1=0\\\\\\\\\ntentukan\\ titik\\ puncak\\ fungsi\\ f(x)=x^2-x+1\\\\[/tex]",
+                    "attachments": []
+                },
+                {
+                    "answer": "Selisih 2 bilangan bulat adalah 9. Jika hasil kali kedua bilangan tersebut adalah 36. Tentukan nilai dari kedua bilangan tersebut..<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "fx-12-x2-2-gx-x10-f-komposisi-g-x-318",
+            "question": "F(x) = 1/2 x^2 + 2 \r\ng(x) = x+10\r\n(f komposisi g) (x) =...... ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "fog = 1/2(x+10)^2 + 2<br>\u00a0\u00a0 \u00a0  = x^2/2 + 10x + 52<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "voulum-prisma-yang-alasnya-berbentuk-layang-layang-dengan-panjang-999",
+            "question": "voulum prisma yang alasnya berbentuk layang-layang dengan panjang diagonal 15 cm dan 12 cm serta tinggi prisma 9 cm adalah ...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "v = (1/2*15*12)*9<br>\u00a0 = 810<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "V\u00a0=\u00a0La . t<br>V\u00a0= 1/2 . 15 .12 . 9<br>V = 810 cm\u00b3",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dengan-menggunakan-matriks-persegi-tunjukkan-bahwa-b-1-1b-d-284",
+            "question": "Dengan menggunakan matriks persegi, tunjukkan bahwa (B^-1)^-1=B\r\n dan [B^t]^-1=[B^-1]^t",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a)<br>misalkan matik B = (1 \u00a03)<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0(2 \u00a04)<br><br>(B^-1)^-1 = B<br>B^-1 = 1/-2 (4 \u00a0-3)<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0(-2 \u00a01)<br>\u00a0 \u00a0<br>\u00a0 \u00a0 \u00a0 \u00a0 = (-2 \u00a03/2)<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0(1 \u00a0 -1/2)<br><br>(B^-1)^-1 = -2 ( -1/2 \u00a0 \u00a0-3/2)<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0( -1 \u00a0 \u00a0 \u00a0 \u00a0-2)<br>\u00a0 \u00a0\u00a0<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = (1 \u00a0 \u00a0 3)<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0(2 \u00a0 \u00a0 4)<br><br>terbukti bahwa (b^-1)^-1 = B<br><br>b)<br>B^t = (1 \u00a02)<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0(3 \u00a04)<br>(B^t)^-1 = 1/-2 (4 \u00a0-2)<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 (-3 \u00a01)<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= (-2 \u00a0 \u00a0 \u00a0\u00a01)<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 (3/2 \u00a0-1/2)\u00a0<br><br>(B^-1)^t = (-2 \u00a0 \u00a01)<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 (3/2 \u00a0-1/2)<br><br>terbukti bahwa (B^t)^-1 = (B^-1)^t<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "7266605412-tentukan-banyak-suku-ddan-jumlah-deret-aritma-127",
+            "question": "72+66+60+54+....+12\r\nTentukan banyak suku ddan jumlah deret aritmatika?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<em>Diketahui:</em><br>U\u2081 = a = 72<br>Suku terakhir Un = 12<br><br><em>Ditanya:</em><br>(a). Banyak n suku<br>(b). Jumlah n suku (Sn)<br><br><em>Penyelesaian:</em><br><br>(a). Banyak n suku<br>\u21d4 Beda b = U\u2082 - U\u2081<br>\u21d4 b = 66 - 72<br>\u21d4 Diperoleh b = - 6<br>\u21d4 Selanjutnya, Un = a + (n - 1).b<br>\u21d4 12 = 72 + (n - 1).(- 6)<br>\u21d4 - 60 = (n - 1).(- 6)<br>\u21d4 10 = n - 1<br><strong>\u21d4 \u2234 Banyaknya suku adalah\u00a0n = 11</strong><br><br>(b). Gunakan rumus jumlah n suku Sn = n/2.[a + Un]<br>\u21d4 S\u2081\u2081 =\u00a0n/2.[a + U\u2081\u2081]<br>\u21d4 S\u2081\u2081 =\u00a0[11/2] x [72 + 12]\u00a0\u00a0<br>\u21d4 S\u2081\u2081 =\u00a0[11/2] x 84<br>\u21d4 S\u2081\u2081 =\u00a011 x 42<br>\u21d4 S\u2081\u2081 =\u00a0462<br><strong>\u21d4 \u2234 Jumlah 11 suku pertama deret aritmatika tersebut adalah 462</strong><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "a = 72<br>b = U\u2082 - u\u2081<br>\u00a0\u00a0  = 66 -72<br>\u00a0\u00a0 = -6<br>Un = 12<br>gunakan rumus Un untuk mencari nilai n <br>Un = a + (n-1) b<br>12\u00a0 = 72 + ( n-1) -6<br>12\u00a0 = 72 - 6n + 6<br>12\u00a0 = 78-6n<br>12-78 = -6n<br>\u00a0-66 = -6n<br>-66/-6 = n<br>\u00a0\u00a0 11\u00a0 \u00a0  = n <br><br>gunakan rumus Sn untuk mencari jumlah suku<br>Sn = n/2 (2a + (n-1) b)<br>\u00a0 \u00a0 \u00a0 = 11/2 ( 2.72 + ( 11-1) -6)<br>\u00a0 \u00a0 \u00a0 = 11/2 ( 144 + (10)(-6))<br>\u00a0 \u00a0 \u00a0 = 11/2 ( 144 - 60)<br>\u00a0 \u00a0 \u00a0 = 11/2 (84)<br>\u00a0 \u00a0 \u00a0 = 11 (42)<br>\u00a0 \u00a0 \u00a0 = 462<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-jumlah-dan-hasil-kali-akar-akar-persamaan-kuadrat-beriku-220",
+            "question": "Tentukan jumlah dan hasil kali akar-akar persamaan kuadrat berikut    p\u00a0x^{2}\u00a0 - (5p + 1)x + (3p - 8) = 0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]px^2-(5p+1)x+(3p-8)=0\\\\\nx_1+x_2=\\frac{-(-5p-1)}{p}\\\\\nx_1+x_2=\\frac{5p+1)}{p}\\\\\\\\\nx_1x_2=\\frac{3p-8}{p}[/tex]",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

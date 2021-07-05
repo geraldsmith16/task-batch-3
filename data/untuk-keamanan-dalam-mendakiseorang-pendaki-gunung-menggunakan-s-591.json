@@ -1,0 +1,132 @@
+{
+    "question": "untuk keamanan dalam mendaki,seorang pendaki gunung menggunakan sebuah tali nilon yang panjangnya 50 m dan garis tengahnya 1,0 cm.ketika menopang pendaki yang bermassa 80 kg, tali bertambah panjang 1,6 m. tentukan modulus elastis nilon ( ambil\u00a0\u03c0 = 3,15 dan\u00a0g = 9,86 m/\u00a0",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "<span>E = FLo / delta LA\u00a0<br>= mg Lo / delta LA\u00a0<br>= (80 x 9,86 x 0,5) / (1,6 x (1/4) x 3,15 x 0,01^2)\u00a0<br>= 3,13 x 10^6\u00a0<br><br></span>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "1-benda-jatuh-dari-ketinggian-100m-kecepatan-benda-pada-ket-606",
+            "question": "1.\u00a0\u00a0 benda jatuh dari ketinggian 100m. kecepatan benda pada ketinggian 95 m adalah. 2.\u00a0 sebuah mobil yang mempunyai daya penggerak 50 kW bergerak dengan kecepatan\u00a0 20m/s. gaya dorong mobil tersebut? \u00a0 pleaseee jwbnya agak cepet ya buat besok soal'a.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1. h =100m , v pd h = 95 m adalah? g = 10 m/s^2<br>v= akar 2.g.h<br>v = akar 2 .10m/s . (100-95) = akar 2 . 50 = akar 100 = 10 m/s<br><br>2. p = w/t<br>\u00a0 \u00a050 kw = w/s<br>\u00a0 \u00a050 n = w (f)<br>w = m.g<br>50 = m . 10<br>5 kg =m<br>f = m.a = 5 .10 = 50 N<br><br>kalau menurut saya gitu mbak &gt;_&lt;",
+                    "attachments": []
+                },
+                {
+                    "answer": "no 2 <br>Dik v = 20 m/s<br>\u00a0\u00a0 \u00a0  P = 50 kw = 50 000 w<br>Dit F ?<br>jawab.<br>F = P/v = 50 000/20 = 2500 N<br><br>mohon maaf bila ada kesalahan<br>\u00a0\u00a0 \u00a0 <br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-batu-bata-dengan-massa-3-kg-jatuh-dari-ketinggian-20-meter-ma-863",
+            "question": "1. Batu bata dengan massa 3 kg jatuh dari ketinggian 20 meter, maka kecepatan batu bata sesaat sebelum menyentuh tanah ?    2. Pegas panjang 20 cm digantungkan beban 200 gram sehingga panjang pegas menjadi 25 cm. untuk menarik pegas 2 cm dari titik seimbang hingga 8 cm dari titik seimbang diperlukan usaha sebesar ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1. Kecepatan sebuah benda jatuh bebas dapat dicari menggunakan\u00a0\u221a2gh sehingga V=\u00a0\u221a2.10.20=\u221a400\u2261\u00a020 m/s<br>2. Sebelum mencari besar usaha kita harus mencari koefisien elastisitas pegas terlebih\u00a0dahulu dari F = k.\u0394x sehingga k = F/\u0394x = 0,2.10/0,05 = 40 N/m<br>Kemudian Usaha untuk menarik pegas W = 1/2kx\u00b2\u00a0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "seorang-pengendara-memulai-perjalanan-ssejauh-200-km-padatepat-te-643",
+            "question": "seorang pengendara memulai perjalanan ssejauh 200 km padatepat tengah hari, ia berkendara tanpa berhenti dan tiba di tempat tujuannya pada pukul 17.30 hitung kecepatan rata2nya untuk perjalanan ini?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "17.30 - 12.00 = 5.30 = 5,5 \nRumus : km/jam = 200/5,5 = 36,364 km/jam",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-bola-pejal-bermassa-05-kg-dan-jari-jari-20-cm-menggelind-174",
+            "question": "sebuah bola pejal bermassa 0,5 kg. dan jari jari 20 cm menggelinding pada lantai mendatar dengan kecepatan 8 m/s kemudian naik ke bidang miring. Tentukan ketinggian h maksimum yang dapat dicapai hingga bola berhenti sesaat",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>Mapel: Fisika</p><p>Kelas : XI SMA<br></p><p>Kategori \u00a0: dinamika rotasi<br></p><p>Kata Kunci : menggelinding, kecepatan, ketinggian, bidang miring, energi mekanik<br></p><p>Jawaban:<br></p><p>Jika bola menggelinding, berarti benda mengalami gerak translasi sekaligus rotasi. Untuk menyelesaikan soal tersebut, digunakan hukum kekekalan energi mekanik.<br></p><p>Diketahui:<br></p><p>m = 0,5 kg<br></p><p>R = 20 cm<br></p><p>v = 8 m/s<br></p><p>g = 10 m/s2<br></p><p>Ditanya: h saat berhenti sesaat<br></p><p>Jawab:<br></p><p>Mula-mula bola berada di lantai mendatar sehingga tidak memiliki energi potensial. Saat berada pada ketinggian maksimum, bola tidak memiliki energi kinetik. Momen inersia bola pejal besarnya 2/5 mR2 (k = 2/5)<br></p><p>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 EMA = EMB<br></p><p>EPA + EktransA + EkrotA = EPB + EktransB + EkrotB<br></p><p>\u00a0 \u00a0 0 + \u00bd. m. v2 + \u00bd. I. \u03c92 = m.g.h + 0 + 0<br></p><p>\u00a0 \u00a0 \u00a0 \u00bd. m. v2 + \u00bd. k. m. v2 = m.g.h<br></p><p>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00bd. m. v2 ( 1 + k ) = m.g.h<br></p><p>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0h = v2 ( 1 + k )/ 2.g<br></p><p>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0h = 8^2 (1 + 2/5)/ 2.10<br></p><p>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0h = 64. 1,4/20<br></p><p>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0h = 89,2/ 20 = 4,48 meter<br></p><p>Jadi, ketinggian maksimum yang dapat dicapai hingga bola berhenti sesaat adalah 4,48 meter.<br></p><p>Jika mau dihafalkan, rumus cepat untuk mencari ketinggian maksimum benda atau mencari kecepatan mula-mula benda yang menggelinding menaiki bidang miring adalah<br></p><p>h= [tex] \\frac{ v^{2} (1+k)}{2.g} [/tex]<br></p>\n\n<p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "ada-yg-tau-ngga-website-buat-download-ppt-fisika-tentang-pemanfaa-839",
+            "question": "ada yg tau ngga website buat download ppt fisika tentang pemanfaatan energi nuklr dan radioisotop? (ini materi kelas xii semester 2) sy sdhputus asa krn sejak 2 hari yg lalu smpe skrg ngga dapat-dapat",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Bisa cari di slideshare.com disitu banyak materi-materi yang dibutuhin",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "modulus-young-aluminium-adalah-710-pangkat-10-pa-jika-seutas-ka-576",
+            "question": "modulus young aluminium adalah 7.10 pangkat 10 Pa. jika seutas kawat aluminium berdiameter 1.5 mm &amp; panjang50 cm direnggangkan 10 m. berapa gaya yang dikerjakan oleh kawat?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "F=7,0 x 10 pangkat 10 x 2,0x 10 pangkat -2 x 1,76 x 10 pangkat -4<br>F-247 N",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apa-yang-mempengaruhi-elastisitas-sebuah-bahan-526",
+            "question": "Apa yang mempengaruhi elastisitas sebuah bahan ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "faktor yang utama adalah struktur penyusunnya . maaf kalo salah",
+                    "attachments": []
+                },
+                {
+                    "answer": "Bahan tersebut elastisitasnya dipengaruhi oleh gaya potensial yg terkandung pd bahan tsb serta bahan penyusun atau strukturnya .",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-ganya-15-n-di-kerjakan-pada-benda-bermassa-m-benda-berg-736",
+            "question": "sebuah ganya 15 N di kerjakan pada benda bermassa\u00a0m.\u00a0benda bergerak dalam garis lurus, dengan kelajuan yang bertambah 10\u00a0m/s\u00a0setiap 2\u00a0s. hitung massa\u00a0m.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "F = 15 N<br>a = 5m/s^2<br>F =m.a<br>m = F/a = 15/5 = 3 kg :)",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "titik-berat-pelat-yang-bentuknya-seperti-gambar-dibawwah-adalah-632",
+            "question": "Titik berat pelat yang bentuknya seperti gambar dibawwah adalah",
+            "attachments": [
+                "question-attachments/titik-berat-pelat-yang-bentuknya-seperti-gambar-dibawwah-adalah-632-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "mav, hehe, fisika pa mm, saya coba ea, btul pa salah<br>-jk ttik brat thd sumbu x maka:<br>\u00a0\u00a0 -1.12+1.4+1.4 / -12+4+4 = y<br>\u00a0\u00a0 -12+4+4 / 20 = y<br>\u00a0\u00a0 y = -4/20<br>\u00a0\u00a0 y= -1/5<br><br>-jk ttik berat thd sumbu y<br>\u00a0 3.12+1.4+5.4 / 12+4+4 = x<br>\u00a0 36+4+20 / 20 = x<br>\u00a0 x= 60/20<br>\u00a0 x= 3<br><br>hehe, mav kalo GJ, pengawuran mode ON<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-saya-membutuhkan-3-soal-yang-berkaitan-dgn-vektor-645",
+            "question": "Tolong saya membutuhkan 3\u00a0soal yang berkaitan dgn Vektor.?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>vektor gaya yang sama, masing\u00b2 besarnya 10newton,<br>tentukan nilai resultan masing\u00b2 vektor.,?<br><br></span>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

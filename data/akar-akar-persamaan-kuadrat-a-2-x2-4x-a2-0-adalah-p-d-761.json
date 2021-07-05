@@ -1,0 +1,129 @@
+{
+    "question": "Akar-akar persamaan kuadrat (a-2) x\u00b2 + 4x + (a+2) = 0 adalah P dan Q. Jika PQ (p+q) = -20. Tentukan nilai a!",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "nilai a = 2 nilai x = -1",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "tentukan-f-1x-a-fx-12-x-5-831",
+            "question": "Tentukan f-1(x)\r\n\r\n\r\na. f(x) = 1/2 (x + 5 )",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]ini\\ langkahnya\\ dek\\\\\n\\\\\nf(x)=\\frac{x+5}{2}\\\\\\\\\nkalikan\\ dengan\\ 2\\\\\\\\\n2f(x)=x+5\\\\\\\\\nkedua\\ ruas\\ dikurang\\ dengan\\ 5\\\\\\\\\n2f(x)-5=x+5-5\\\\\\\\\n2f(x)-5=x\\\\\\\\\nnyatakan\\ bentuk\\ di atas\\ sebagai\\ f^{-1}(x)\\\\\\\\\nf^{-1}(x)=2f(x)-5[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "gambarlah-grafik-fungsi-kuadrat-1-y-2x2-7x-2-12-2-y-640",
+            "question": "Gambarlah grafik fungsi kuadrat\r\n 1. y = 2x^2 - 7x + 2 1/2\r\n 2. y = -x^2 + 4x - 3",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "nih gambarnya, silakan dipelajari",
+                    "attachments": [
+                        "answer-attachments/gambarlah-grafik-fungsi-kuadrat-1-y-2x2-7x-2-12-2-y-640-1.png",
+                        "answer-attachments/gambarlah-grafik-fungsi-kuadrat-1-y-2x2-7x-2-12-2-y-640-2.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "jumlah-n-suku-pertama-suata-deret-artmetika-adalah-sn12n11-n-918",
+            "question": "Jumlah n suku pertama suata deret artmetika adalah Sn=1/2n(11-n).rumus sukuke-n adalah....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "rumus jumlah suku ke n = n/2(2a+(11-1)b)<br>jadi rumus suku ke n = a+(11-1)b<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "transpos-matriks-m-adalah-tolong-dijelaskan-230",
+            "question": "Transpos matriks M adalah ...\r\ntolong dijelaskan..",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "gol indonesia menang 3gol dari ac milan<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "mohon-bantuannya-kak-jika-seutas-tali-dipotong-mnjadi-7-bagian-727",
+            "question": "Mohon bantuannya kak..    jika seutas tali dipotong mnjadi 7 bagian .masing masing bagian membentuk bilangan geometri potongan terpendek adalah 6 cm terpanjang adalah 384 cm maka panjang tali sebelum dipotong adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a=6cm<br>U7=ar^6<br><strong></strong> \u00a0 \u00a0=6r^6=384<br>\u00a0 \u00a0 =r^6=64<br>\u00a0 \u00a0 =r=2<br>S7=a(r^7-1)/r-1 = 6(2^7-1)/2-1= 6(127)/1=762",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "ingkaran-dari-p-q-adalah-bentuk-ekuivalen-p-gt-q-adalah-533",
+            "question": "Ingkaran dari p ^ q adalah....\r\nbentuk ekuivalen -p -&gt; q adalah...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "ingkaran dari p ^ q adalah p v q<br>soal ke 2 itu bener ya?<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pada-sebuah-segitiga-klm-dengan-siku-siku-di-l-berlaku-sin-m2-781",
+            "question": "pada sebuah segitiga KLM, dengan siku-siku di L, berlaku sin M=2/3 dan panjang sisi KL=\u221a10 cm, tentukanlah panjang sisi segitiga yang lain.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "KL=LM=\u221a10<br>KM=akar dari <span>\u221a10 x </span><span>\u221a10</span>= akar 100=10<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "m/ sin M = l / sin L<br>\u221a10 \u00f7\u00a02/3 = l\u00a0\u00f7 1<br>l = 3/2 (dikali)\u00a0\u221a10 cm\u00a0= panjang KM<br><br>panjang\u00a0LM = k =\u00a0\u221a(3/2\u00d7\u221a10)\u00b2 - (\u221a10)\u00b2 = 90/4 -10 = (90-40)/4 = 50/4 = 12.5 cm<br><br>maaf jika kurang tetpat",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-barisan-aritmetika-dengan-u3-u5-u7-u9-104-nila-151",
+            "question": "Diketahui barisan aritmetika dengan U3 + U5 + U7 + U9 = 104. Nilai U6 adalah..",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>Diketahui barisan aritmetika dengan U\u2083 + U\u2085 + U\u2087 + U\u2089 = 104.</p><p><strong>Barisan Aritmatika</strong> adalah \u00a0suatu barisan dengan selisih antara dua suku yang berurutan selalu tetap.</p><p>Rumus : Un = a + (n - 1)b</p><p><strong>Deret Aritmatika</strong> adalah jumlah suku \u2013 suku barisan aritmatika</p><p>Rumus : Sn = \u00b9/\u2082 n (a + Un)</p><h3>Pembahasan</h3><p><em><strong>Penjelasan dengan langkah-langkah:</strong></em></p><p><strong>Diketahui:</strong></p><p>U\u2083 + U\u2085 + U\u2087 + U\u2089 = 104</p><p><strong>Ditanya:</strong></p><p>Nilai U\u2086 = ... ?</p><p><strong>Jawab:</strong></p><p>Ingat Un = a + (n - 1)b</p><p>U\u2083 = a + (3 - 1)b</p><p> \u00a0 \u00a0 = a + 2b</p><p>U\u2085 = a + (5 - 1)b</p><p> \u00a0 \u00a0 = a + 4b</p><p>U\u2087 = a + (7 - 1)b</p><p> \u00a0 \u00a0 = a + 6b</p><p>U\u2089 = a + (9 - 1)b</p><p> \u00a0 \u00a0 = a + 8b</p><p>U\u2083 + U\u2085 + U\u2087 + U\u2089 = 104</p><p>a + 2b + a + 4b + a + 6b + a + 8b = 104</p><p>4a + 20b = 104</p><p><em><strong>a + 5b = 26</strong></em></p><br><p>Un = a + (n - 1)b</p><p><em><strong>U\u2086 = a + (6 - 1)b</strong></em></p><p><em><strong> \u00a0 \u00a0 = a + 5b</strong></em></p><p><em><strong> \u00a0 \u00a0 = 26</strong></em></p><br><p><u><em><strong>Jadi Nilai U\u2086 adalah 26</strong></em></u></p><br><h3>Pelajari lebih lanjut</h3><p>Bab barisan dan deret aritmatika dapat disimak pula di</p><ul><li>brainly.co.id/tugas/13759951</li><li>brainly.co.id/tugas/4240841</li><li>brainly.co.id/tugas/1509694</li><li>brainly.co.id/tugas/12054249</li></ul><h3>===========================</h3><h3>Detail Jawaban</h3><p><strong>Kelas </strong>: 9</p><p><strong>Mapel </strong>: Matematika</p><p><strong>Kategori </strong>: Barisan dan Deret</p><p><strong>Kode </strong>: 9.2.2</p><br><p><strong>Kata kunci </strong>: barisan aritmatika, deret aritmatika, suku pertama, beda, suku ke-n, jumlah n suku pertama</p><br><br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-tentukan-hasil-kali-akar-akar-persamaan-kuadrat-dari-px-qx-749",
+            "question": "1.\u00a0Tentukan hasil kali akar-akar persamaan kuadrat dari\u00a0px = qx\u00b2    2, jika diketahui persamaan kuadrat 6x\u00b2 - 48x + 90 = 0\r\n\u00a0 tentukan ;\r\n\u00a0 \u00a0a. X1\u00b2 . X2\u00b2 + X2\u00b2 . X1\u00b2\r\n\u00a0 \u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1. px = qx2<br>qx2-px=0<br>x(qx-p)=0<br>x1=0 atau qx-p=0<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 x2 = p/q<br>x1.x2= 0.p/q=0<br><br>2. 6x\u00b2-48x+90=0<br>x\u00b2+8x-15=0<br>(x-3) atau (x-5)<br>x1=3 atau x2=5<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-x1-dan-x2-merupakan-akar-dari-persamaan-kuadrat-2x2-6x-430",
+            "question": "\u00a0    Jika x1 dan x2 merupakan akar dari\r\n persamaan kuadrat 2x2- 6x \u2013 8 = 0, nilai dari (x1 + x2)2\r\n \u2013 2x1. X2 adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]2x^2-6x-8=0\\\\\nx_1+x_2=\\frac{-b}{a}\\\\\nx_1+x_2=\\frac{-(-6)}{2}\\\\\nx_1+x_2=3\\\\\\\\\nx_1.x_2=\\frac{c}{a}\\\\\nx_1.x_2=\\frac{-8}{2}\\\\\nx_1.x_2=-4\\\\\\\\\n(x_1+x_2)^2-2(x_1.x_2)=(3)^2-2(-4)\\\\\n(x_1+x_2)^2-2(x_1.x_2)=17\\\\[/tex]",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,142 @@
+{
+    "question": "Kenapa nilai phi 3,14?",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "karena nilai phi itu diperoleh dari keliling lingkaran dibagi diameter",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "apa-itu-variabel-dan-apa-itu-persamaan-kuadrat-247",
+            "question": "Apa Itu Variabel ? Dan Apa Itu Persamaan Kuadrat ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span><span>Variabel\u00a0: (Lat) 1. berubah-ubah, tidak tetap;<br>\u00a02. deklarasi sesuatu yang memiliki variasi nilai <br>3. berbeda-beda dalam bahasa pemrograman disebut juga simbol yang mewakili nilai tertentu, variabel yang dikenal di sub program disebut variabel lokal. sedang yang di kenal secara umum/utuh dalam satu program disebut variabel global.<br></span><span>Variabel\u00a0: adalah objek penelitian, atau apa yang menjadi fokus di dalam suatu penelitian. Menurut F.N. Kerlinger variabel sebagai sebuah konsep. Variabel merupakan konsep yang mempunyai nilai yang bermacam-macam. Suatu konsep dapat diubah menjadi suatu variabel dengan cara memusatkan pada aspek tertentu dari variabel itu sendiri.<br><br><span>Persamaan kuadrat\u00a0adalah suatu persamaan polinomial berorde dua. Bentuk umum dari persamaan kuadrat adalah</span><br></span></span>",
+                    "attachments": []
+                },
+                {
+                    "answer": "variabel adalah lambang pengganti suatu bilangan\u00a0  yang belum diketahu nilainya dengan\u00a0 jelas. persamaan kuadrat adalah nilai peubah yang memenuhi pers kuadrat ,<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pola-bilangan-ganjil-bentuk-umum-un-an-1b-tentukan-suku-n-862",
+            "question": "Pola bilangan ganjil\u00a0    bentuk umum Un = a+(n-1)b\r\n\r\ntentukan suku n:\r\n1) 1,4,8,13,19,....\r\n\r\n*jwbnnya brsrta rumusnya ya?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "itu pake barisan aritmatika tingkat 2 / ordo 2\u00a0<br>Un = ( x /2 . bil asli . bil cacah ) + C\u00a0<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jari-jari-sebuah-roda-adalah-84-cm-jika-sepeda-tersebut-menempuh-916",
+            "question": "jari jari sebuah roda adalah 84 cm. jika sepeda tersebut menempuh jarak 264 meter, maka roda sepeda harus berputar sebanyak?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "jari jari sebuah roda adalah 84 cm. jika sepeda tersebut menempuh jarak 264 meter, maka roda sepeda harus berputar sebanyak?<br>\u00a0kel = 2 x phi x r<br>\u00a0 \u00a0 \u00a0 = 2 x 22/7 x 84<br>\u00a0 \u00a0 \u00a0 = 2 x 12 x 22<br>\u00a0 \u00a0 \u00a0 = 528<br>banyak putar = 26400/528<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 50",
+                    "attachments": []
+                },
+                {
+                    "answer": "Keliling roda = 2.pi.r<br>= 2. 22/7 . 168<br>= 1056 cm<br>Jarak dalam cm = 264\u00d7100<br>= 26.400<br>Perlu berapa kali roda berputar?<br>26.400 : 1056<br>= 25 kali<br>Semoga betul dan dapat membantu ^^<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bagaimana-mencari-segi-empat-tali-busur-102",
+            "question": "Bagaimana mencari segi empat tali busur?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Mencari Luas Segiempat Talibusur menggunakan Rumus\u00a0Brahmagupta\n\t\n\t\t<span>Sekitar abad ke tujuh Masehi, dalam Geometri Euclidean,\u00a0 Brahmagupta,\n seorang matematikawan asal India menemukan Rumus untuk mencari luas \nsegiempat talibusur yang telah diketahui panjang sisi-sisinya dan \nbeberapa sudutnya.</span>\n\n\nRumus Umum:\n<span>Jika diketahui segiempat talibusur memiliki sisi-sisi , , , dan  serta setengah keliling , maka luas segiempat tali busur  dapat dinyatakan dengan</span>\n\n<span>.</span>\nBukti:\n<span>Salah satu metode sederhana untuk membuktikannya adalah dengan memanfaatkan trigonometri. Misalkan dalam segiempat talibusur  (Lihat ilustrasi berikut)<span>, </span>merupakan titik sudut antara  dan , , merupakan titik sudut antara  dengan , dan  merupakan diagonal yang menghubungkan kedua sudut yang lain.</span>\n\n<span>Karena , diperoleh:</span>\n<span> dan </span>\n<span>Dengan menggunakan Aturan Cosinus,</span>\n\n\u00a0 yang mana dapat diperoleh:\n\nPerhatikan pula bahwa Luas segiempat talibusur:\n<span>,</span>\ndari sini kita juga memperoleh:\n<span>Dengan mengkuadratkan  dan  kemudian dijumlahkan, akan diperoleh</span>\n\nyang dapat disederhanakan menjadi\n<span>Tentunya kita sudah tahu bahwa . dengan mengaplikasikan identitas ini berkali-kali akan diperoleh:</span>\n<span>Dimana </span>\nBagi dengan 16, kemudian ambil akar kuadrat dari masing-masing ruas diperoleh :\n<span>Bentuk spesial rumus ini adalah saat  yang mengakibatkan segiempat talibusur ini merupakan suatu segitiga yang memiliki sisi-sisi , , , dan setengah keliling , dengan luas:</span>\n<span>yang terkenal dengan nama Rumus Heron.</span>\nRumus Brahmagupta sendiri dapat diperluas untuk segiempat yang bukan merupakan segiempat talibusur\n<span>di mana  merupakan jumlah dua buah sudut yang berlawanan. Pada segiempat talibusur, karena jumlah kedua sudut yang berlawanan , maka .</span><br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1ubahlah-bentuk-akar-berikut-menjadi-bilangan-pangkat-pecahan-226",
+            "question": "1.ubahlah bentuk akar berikut menjadi bilangan pangkat pecahan !    a.\r\nb.\r\nc.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a. [tex] 15^{ \\frac{1}{3} } [/tex]<br><br>b. [tex] \\sqrt[5]{ 2^{5 x 2} } [/tex] = [tex] \\sqrt[5]{ 2^{10} } [/tex]<br>\u00a0\u00a0  = [tex] 2^{ \\frac{10}{5}} [/tex]<br>\u00a0 = 2\u00b2 = 4<br><br>c. [tex] 17^{ \\frac{5}{3} } [/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-sekali-dijawab-yaa-pelajaran-kelas-z-matematika-perban-897",
+            "question": "Tolong sekali dijawab yaa.. PELAJARAN KELAS Z MATEMATIKA : PERBANDINGAN DAN SKALA\u00a0    soal: Untuk membangun ruang kelas baru sebanyak 2 kelas akan selesai dalam waktu 50 hari jika dikerjakan oleh 15 tukang.Setelah 20 hari bekerja bahan abis,pekerjaan terhenti 5 hari. berapa orang tukang ditambah agar ruang kelas itu tetap selesai tepat waktu?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "50 hari = 15 tukang<br>50 - 20 - 5 = x tukang<br>[tex] \\frac{50}{25} [/tex] =\u00a0[tex] \\frac{x}{15} [/tex]\u00a0<br>x = 2\u00a0\u00d7 15<br>x = 30<br><br>tambahan pekerja = 30 - 15 = 15",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dalil-pythagoras-dalam-bentuk-rumus-pada-segitiga-siku-siku-apa-325",
+            "question": "Dalil pythagoras dalam bentuk rumus pada segitiga siku siku apa\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "semoga membantu dan bermanfaat :)",
+                    "attachments": [
+                        "answer-attachments/dalil-pythagoras-dalam-bentuk-rumus-pada-segitiga-siku-siku-apa-325-1.jpg"
+                    ]
+                },
+                {
+                    "answer": "\u221aA = \u221aB +\u221aC untuk sisi miring<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "help-plus-caranya-juga-ya-thanks-158",
+            "question": "[HELP] plus caranya juga ya, thanks",
+            "attachments": [
+                "question-attachments/help-plus-caranya-juga-ya-thanks-158-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "8x^-4/2x^-6<br>= 2x^6/8x^4<br>= 2x^6/2x^3(4)<br>= 2x^6/2x^12<br>= 4x^3/4x^6<br>= 4x^3",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apabila-5y-2-dijumlahkan-dengan-7y1-hasilnya-adalah-217",
+            "question": "Apabila -5(y-2) dijumlahkan dengan 7(y+1) hasilnya adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "-5(y-2)+7(y+1)<br>= -5y+10+7y+1<br>=2y+11",
+                    "attachments": []
+                },
+                {
+                    "answer": "-5 (y -2) + 7(y +1)<br>-5y +10 +7y +7<br>-5y +7y +10 +7<br>2y +17<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pada-hari-raya-supermarket-menjual-pakaian-dengan-diskon-besar-b-191",
+            "question": "pada hari raya, supermarket menjual pakaian dengan diskon besar-besaran. ibu membeli kemeja adik dengan harga Rp 150.000setelah di diskon sebesar 30% (+15%), artinya akan terjadi diskon harga lagi sebesar 15% dari total harga setelah di diskon 30%. berapakan harga kemeja tsb. jika tidak ada diskon?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "150.000 x 15/100 =Rp 22.500\u00a0<br>= 150.000 + 22.500<br>= Rp\u00a0172.500<br><br>Jika tidak ada diskon = 172.000 : 45%<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 172.000 x 100/45<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= Rp 382.222\u00a0<br><br>Maaf jika salah :)",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

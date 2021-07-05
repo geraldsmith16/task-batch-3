@@ -1,0 +1,148 @@
+{
+    "question": "pak Dani akan mengecat bangunan yang seperti gambar.. Biaya setiap m2 adalah 20.000,00 . berapa biaya seluruh nya ?",
+    "attachments": [
+        "question-attachments/pak-dani-akan-mengecat-bangunan-yang-seperti-gambar-biaya-setia-818-1.png"
+    ],
+    "answers": [
+        {
+            "answer": "jumlah biaya seluruhnya\u00a01560000",
+            "attachments": []
+        },
+        {
+            "answer": "13 m2 + 5 m2 + 4 m2 = 19 m2<br>19 \u00d7 20.000 = Rp 380.000<br><br>Jadi,biaya yang di butuhkan membiayai orang tersebut adalah Rp 380.000<br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "dua-bilangan-berselisih-25-jika-2-kali-bilangan-yang-besar-dikur-975",
+            "question": "Dua bilangan berselisih 25. Jika 2 kali bilangan yang besar dikurangi bilangan yang kecil adalah 175, tentukanlah bilangan itu.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a-b = 25<br>2a-b = 175<br>lakukan eliminasi<br>a= 150<br>150 -b = 25<br>-b = -125<br>b = 125<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Dua bilangan berselisih 25. Jika 2\u00a0kali<span>\u00a0bilangan yang besar dikurangi bilangan yang kecil adalah 175, tentukanlah bilangan itu.<br><br>jawab :<br>\u00a0x-y=25<br>2x-y=175<br><br>persamaan &gt;&gt; x=150<br><br>jadi x-y=25<br>\u00a0 \u00a0 \u00a0 \u00a0 y=150-25<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 125</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukanlah-keliling-lingkaran-yang-berjari-jari-7-cm-panja-689",
+            "question": "Tentukanlah:     keliling lingkaran\u00a0 yang berjari - jari 7 cm.\r\npanjang jari - jari lingkaran jika keliling lingkarannya 314 cm dan \u03c0 = 3,14\r\npanjang diameter sebuah lingkaran yang kelilingnya 110 cm dengan \u03c0 = 22/7\r\nbesar sudut bdc, jika besar sudut aoc = 82 derajat",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]r=7cm\\\\\nkell=2 \\pi r=2(\\frac{22}{7})(7)\\\\\nkell=44cm\\\\\\\\\nkell=314\\\\\n2 \\pi r=314\\\\\n2(3,14)r=314\\\\\nr=50cm\\\\\\\\\nkell=110\\\\\n\\pi d=110\\\\\n(\\frac{22}{7})d=110\\\\\nd=35cm[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-nilai-x-jika-2x-1-2x-2-2x-32x-5-961",
+            "question": "Tentukan nilai x, jika (2x + 1) + (2x + 2) + (2x + 3)+...+(2x + 50) = 4275. Tolong dijawab yaa, pleaseee",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "jawabannya 30<br><br>Sn = n/2 { a +Un } = 4275<br>&gt; 50/2 { (2x+1) + (2x+50) } = 4275<br>&gt; 25 { 4x + 51 } = 4275<br>&gt; 100x + 1275 = 4275<br>&gt;100x = 4275 - 1275<br>&gt;100x = 3000<br>&gt;x = 30<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "mencari-luas-pizza-segi-12-beraturan-jika-potongan-kecilnya-juga-640",
+            "question": "mencari luas pizza segi 12 beraturan, jika potongan kecilnya juga berbentuk segi tiga diketahui sisi luar 5 cm berapa luas seluruhnya pizza tersebut ?\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Itu jadi 12x luas segitiga sama kaki dengan sudut atasnya 30\u00b0  <br>\n(didapatkan dari 360\u00b0/12 = 30\u00b0) <br><br>\nBuat nyari luas segitiganya, pake rumus : <br><br>\nL\u0394 = 1/2 r\u00b2 sin 30 <br><br>\nL\u0394 = 1/2 * 5 * 5 * sin 30 <br><br>\nL\u0394 = 10 cm\u00b2 <br><br>\nLuas 12x segitiga : <br><br>\u00a0\n10x 12 = 120 cm\u00b2 <br><br>\nJadi, luas segi-12 beraturan dgn lingkaran luar 5 cm adalah 120 cm\u00b2 <br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "harga-1-kg-alpukat-satu-bulan-yg-lalu-rp-6000-karena-sekaran-911",
+            "question": "Harga 1 kg Alpukat satu bulan yg lalu Rp 6.000,- . Karena sekarang sedang musim Alpukat , harga turun menjadi Rp 2.000/ kg. Coba tentukan harga penurunan alpukat dengan penjumlahan bilangan bulat!    Please bantu jawab, makasih :)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "jadi, harga penurunan alpukat dapat dihitung dengan mengurangkan harga alpukat bulanlalu dengan sekarang yaitu : 6.000 - 2.000 = 4.000",
+                    "attachments": []
+                },
+                {
+                    "answer": "6000-2000= 4000 jadi harga alpukat turun 4000 rupiah",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-jari-jari-yang-mempunyai-luas-a-11304cm-b385-cm-se-331",
+            "question": "Tentukan jari-jari yang mempunyai luas\u00a0\r\na. 113,04cm\r\nb.38,5 cm\r\n\r\nsecepatnya tri makasih :)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]luas= \\pi r^2\\\\\\\\\nr= \\sqrt{ \\frac{luas}{ \\pi } } \\\\\\\\\\\\\na.\\\\r= \\sqrt{ \\frac{113,04}{ 3,14 } }\\\\\nr= \\sqrt{36}\\\\\nr=6\\\\\\\\\\\\\nb.\\\\\nr= \\sqrt{ \\frac{38,5}{ \\frac{22}{7} } } \\\\\nr= \\sqrt{12,25}\\\\\nr=3,5 [/tex]",
+                    "attachments": []
+                },
+                {
+                    "answer": "rumus luas lingkaran\u00a0[tex] \\pi [/tex] x r x r\u00a0<br>Pi: 22/7 / 3,14<br><br>a.\u00a0113,04:3,14=36 akar pangkat 36= 6cm\u00a0<br>b. 38,5x7= 269.5 : 22= 12.25 akar pangkat 12.25=3.5cm\u00a0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-him-penyelesaian-dari-persamaanlinear-berikut-a-4y-10-277",
+            "question": "Tentukan him. penyelesaian dari persamaanlinear berikut?    a. 4y-10=14\r\nb. 7a+3= 0\r\nc. 8-4b= 6\r\nd. 24y-11=33-20y",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a. 4y-10 = 14<br>\u00a0\u00a0 4y = 14+10 <br>\u00a0\u00a0  4y = 24<br>\u00a0\u00a0 y = 24\u00f74<br>\u00a0\u00a0 y = 6<br>d. 24y - 11 = 33 - 20y<br>\u00a0\u00a0  24y + 20y = 33 + 11 <br>\u00a0\u00a0  44y = 44<br>\u00a0\u00a0 y = 44\u00f744<br>\u00a0\u00a0 y = 1 <br><br>yang saya tau hanya a dan d saja..<br>maaf kalau salah, ini jawaban saya :) <br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span>a. 4y-10=14<br>y = 14+10 / 4 = 24 / 4 = 6<br>b. 7a+3= 0<br>a = -3/7 <br>c. 8-4b= 6<br>b = 6-8 / -4 = 1/2<br>d. 24y-11=33-20y</span><br>24y+20y = 33 + 11<br>44y = 44<br>y = 44/44 = 1<br>itu jawaban saya, semoga benar dan bermanfaat<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pada-kegiatan-rally-sebuah-mobil-akan-sampai-di-garis-finis-dala-872",
+            "question": "Pada kegiatan    Rally, sebuah\r\nmobil akan sampai\r\ndi garis finis dalam\r\nwaktu 4,5 jam\r\ndengan kecepatan rata-rata 63 km/jam. Setelah\r\n2 jam berjalan, ban mobil Biru pecah sehingga\r\nterpaksa berhenti mengganti ban selama\r\n15 menit. Berapa kecepatan mobil biru dinaikkan\r\nagar tetap sampai di finis tepat waktu?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "4,5 jam = 63 km/jam<br>setelah berjalan 2 jam, berarti<br>3,5 jam = 63 km/jam<br>ban\u00a0 bocor 15 mnit = 0,25 jam<br>jadi: 3,25 jam = x<br><br>maka:<br>3,5/3,25 = x/63<br>x = 67,85<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-7n343maka5n-itu-7-pangkat-n-itu-5-pangkat-n-500",
+            "question": "Jika 7n=343,maka5n=\r\nitu 7 pangkat n\u00a0\r\nitu 5 pangkat n\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "7 pangkat n = 343<br>7 pangkat n = 7 pangkat 3<br>n = 3<br>jadi, 5 pangkat n = 5 pangkat 3 = 125<br>Semoga membantu :)<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "7^n=343<br>n=3 5^3 = 125<br>:D",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-titik-o-merupakan-pusat-lingkaran-luas-juring-aob-314-cm-522",
+            "question": "jika titik O merupakan pusat lingkaran, luas juring AOB =3,14 cm persegi dan besar sudut AOB = 100 derajat, diameter lingkaran adalah = .... cm",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "L juring=(sudut/360) . L lingkaran<br>3,14=(100/360) . (1/4) . [tex] \\pi d ^{2} [/tex]<br>3,14=10/36 .1/4 . 3,14 . [tex] d^{2} [/tex]<br>[tex] \\frac{36 . 4}{10 . 1} [/tex]=[tex] d^{2} [/tex]<br>d=[tex] \\sqrt{14,4} [/tex]<br>d=3,79<br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

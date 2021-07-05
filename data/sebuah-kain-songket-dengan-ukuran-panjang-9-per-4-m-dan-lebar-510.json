@@ -1,0 +1,128 @@
+{
+    "question": "sebuah kain songket dengan ukuran panjang \u00a09 per 4\u00a0m dan lebar \u00a03 per 4m\u00a0. di bagian tengah terdapat 5 bagian daerah yg seluruhnya \u00a0451 per 400\u00a0m. 1. tentukan ukuran bagian kain songket yg berwarna merah dan daerah berambu benang. 2. bagaimana kamu menentukan luas daerah tersebut? 3. apakah ada keterkaitan konsep dan prinsip persamaan kuadrat untuk menentukan ukuran daerah bagian dalam kain songket?",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "mav, soalnya itu ada gb.nya nggak?<br>songket warna merahnya dmn?<br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "bagaimana-cara-mencari-hasil-sisa-pembagian-suku-banyak-yg-pembag-975",
+            "question": "Bagaimana cara mencari hasil sisa pembagian suku banyak\r\nyg pembaginya berjumlah 3",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "dikali dengan 3<br>maaf hanya ini yang dapat saya jawab",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-salah-satu-akar-dari-2x2-ax-3-0-adalah-3-maka-nil-475",
+            "question": "Jika salah satu akar dari 2x^2 \u2013 ax + 3 = 0 ,\r\n adalah 3 maka nilai a dan akar yang lain adalah?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "2x^2-ax+3=0<br>x=3,x?<br>x^2-(x1+x2)x+x1x2=0<br>x^2-(3+x)/2x+3/2=0<br>jdi x1.x2=3/2<br>3.x=3/2<br>x=1/2<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "perbandingan-berbalik-nilaiharga-2-sabun-mandi-seharga-rp3500-172",
+            "question": "perbandingan berbalik nilai:Harga 2 sabun mandi seharga Rp.3.500,00.Berapakah harga 3,5 lusin sabun mandi?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "42buah:2=21<br>21x3500=73500",
+                    "attachments": []
+                },
+                {
+                    "answer": "3,5 lusin = 42 buah<br>42 / 2 = 21\u00a0<br>harga = 21\u00a0\u00d7 3.500 = 73.500",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "nilai-x-yang-memenuhi-x-20-lt-0-adalah-pliss-bantu-313",
+            "question": "Nilai x yang memenuhi : \u00a0+ x - 20 &lt; 0 adalah ?\r\npliss bantu......",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "silakan dipelajari dan dipahami",
+                    "attachments": [
+                        "answer-attachments/nilai-x-yang-memenuhi-x-20-lt-0-adalah-pliss-bantu-313-1.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "akar-persamaan-x2a-1x20-adalah-a-dan-v-jika-a2v-d-156",
+            "question": "Akar persamaan\u00a0x\u00b2+(a-1)x+2=0 adalah\u00a0\u03b1 dan\u00a0\u03b2. jika\u00a0\u03b1=2\u03b2 dan a&gt;0 maka nilai a=......",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "x\u00b2+(a-1)x+2=0, <br><span><span>\u03b1=2\u03b2<br><br></span>\u03b1\u00b7\u03b2=c/a<br>2\u03b2 \u00b7 \u03b2=2<br>2\u03b2\u00b2=2<br>\u03b2= +-1<br><br>\u03b1+\u03b2= -b/a<br>2\u03b2+\u03b2= -(a-1)<br>3\u03b2= -a+1<br><br>substitusikan nilai \u03b2=1<br>3= -a+1<br>a= -4 (bukan a yg dimaksud)<br><br>\u03b2= -1<br>-3= -a+1<br>a=4 (memenuhi syarat a&gt;0)<br><br><br></span>\u00a0<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "3-310-710-34-13-45-34-407",
+            "question": "3 3/10- 7/10=\r\n3/4-1/3=\r\n4/5-3/4=",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "3\u00a0 3/10 - 7/4 = 26/10 = 2\u00a0 6/10 = 2\u00a0 3/5<br>3/4 - 1/3 = 5/12<br>4/5 - 3/4 = 1/20<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "cari-fogx-amp-gofx-jika-1-fxx2-dan-gx-3x1-2-380",
+            "question": "Cari (fog)(x) &amp; (gof)(x)    jika : \r\n 1. f(x)=x+2 dan g(x) = 3x+1 \r\n 2. f(x)=4/x dan g(x) = 1-3x",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1. f(x) = x + 2 dan g(x) = 3x + 1 <br>\u00a0\u00a0  (f\u2080g)(x) = 3x + 1 + 2 = 3x + 3 <br>\u00a0\u00a0 (g\u2080f)(x) = 3(x + 2) + 1 <br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 = 3x + 6 + 1 <br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 = 3x + 7 <br><br>2. f(x) = 4/x dan g(x) = 1 - 3x <br>(f\u2080g)(x) = 4/(1 - 3x) <br>(g\u2080f)(x) = 1 - 3(4/x) <br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 1 - 12/x <br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0  = (x - 12)/x <br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "deret-geometri-dengan-u5-dan-u8-masing-masing-48-dan-384-tentuka-109",
+            "question": "Deret geometri dengan U5 dan U8 masing masing 48 dan 384.    Tentukan jumlah 9 suku pertama serta langkah2 nya.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]U_5=ar^4=48\\\\\nU_8=ar^7=384\\\\\\\\\nar^7=384\\\\\nar^4.r^3=384\\\\\n48r^3=384\\\\\nr^3=8\\\\\nr=2\\\\\nar^4=48\\\\\na(2^4)=48\\\\\n16a=48\\\\\na=3\\\\\\\\\nS_n=\\frac{a(r^n-1)}{r-1}\\\\\nS_9=\\frac{3(2^9-1)}{2-1}\\\\\nS_9=3(512-1)\\\\\nS_9=1533[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "besar-sudut-p-dari-sebuah-segitiga-pqr-adalah-70-selisih-antara-535",
+            "question": "Besar sudut P dari sebuah segitiga PQR adalah 70, selisih antara besar sudut Q dan R adalah 36\u00b0 tentukan besar sudut Q dan R. Perlu diketahui total sudut sebuah segitiga adalah 180\u00b0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]P=70^o\\\\\nQ-R=36^o \\rightarrow Q=36^o+R\\\\\\\\\nP+Q+R=180^o\\\\\n70^o+36^o+R+R=180^o\\\\\n2R=74^o\\\\\nR=37^o\\\\\\\\\nQ=36^o+R\\\\\nQ=36^o+37^o\\\\\nQ=73^o[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-ya-disamping-adalah-denah-pekarangan-dengan-skala-1600-892",
+            "question": "Tolong ya...    disamping adalah denah pekarangan dengan skala 1:600\r\np:7cm L:3cm\r\n\r\na. brp panjang sebenarnya\r\nb.berapa lebar sebenarnya\r\nc.luas\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a.\u00a0600 x 7 = 4200 cm (0,042 km)<br>b. 600 x 2 = 1800 cm (0,018 km)<br>c. 7 x 3 = 21",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

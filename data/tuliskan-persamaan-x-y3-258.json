@@ -1,0 +1,142 @@
+{
+    "question": "Tuliskan persamaan {x-y=3}    \u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 {3x-2y=16} dalam bentukan matriks , lalu tentukan nilai 2x+5y",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "x - y = 3<br>3x -2y = 16<br><br>2x - 2y = 6<br><u>3x - 2y = 16</u> _<br><u></u>-x\u00a0 \u00a0 \u00a0 \u00a0 = -10<br><br>10 - y = 3<br>\u00a0\u00a0 \u00a0\u00a0 y = 7<br><br>2x +5y =<br>2*10 + 5*7 = 55<br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "jika-barisan-5-8-11125-punya-suku-tengah-ut-maka-t-ut-310",
+            "question": "Jika barisan 5, 8, 11........125 punya suku tengah Ut maka t + Ut adalah    mnta tolong yha kl ada yg bsa bntuin\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a= 1, Un=131<br>\u00a0Ut= 1/2(a+ Un)<br>\u00a0\u00a0\u00a0 =1/2(5+131)<br>\u00a0\u00a0\u00a0 =1/2(136)<br>\u00a0\u00a0\u00a0 = 68<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "garis-x-y30-dirotasi-60-berlawanan-dengan-arah-perputaran-jar-398",
+            "question": "Garis x-y+3=0 dirotasi 60\u00b0 berlawanan dengan arah perputaran jarum jam dengan pusat putar O(0,0). Tentukan bayangannya!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "pakai rumus<br>(x) \u00a0 = \u00a0 \u00a0 \u00a0 \u00a0 \u00a0cos a (-sin\u00a0a) \u00a0diinferskan lalu dikali (x&#039;)<br>(y) \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 sin a \u00a0 cos a\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0(y&#039;)<br>setelah hasilnya ketemu nanti dmasukkan ke persamaan yang menjadi soalnya<br><br>maaf tidak bisa membantu banyak, karna keterbatasan penulisan disini jadi saya tdk bisa menjawab hingga tuntas..",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-himpunan-penyelesaian-dari-persamaan-berikut-w-961",
+            "question": "Tentukan himpunan penyelesaian dari persamaan berikut : w",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "himpunan semesta yg mungkin darin ( balok, kubus ) adalah",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span>3^(4x+1) \u2013 8. 3^(x-3) = 0</span>\n<br><span><span>=&gt;\u00a0</span>(3^x)^4.3 \u2013 8. (3^x).3^(-3)\n= 0 <br></span><span><span>=&gt;\u00a0\u00a0</span>3.(3^x)^4 \u2013 8/27 (3^x)\n= 0 , misalkan: y = 3x</span>\n<br><span>=&gt;\u00a03y^4 \u2013 8/27 y = 0 =&gt; y (3y^3\n\u2013 8/27) = 0 =&gt; y=0 (tidak memenuhi) dan<br></span><span>=&gt;\u00a03y^3 \u2013 8/27 =0</span>\n<br><span>=&gt;\u00a03y^3 = (2/3)^3 =&gt; y^3\n= 3^(-1).(2/3)^3</span>\n<br><span>\u00a0=&gt; Y\u00a0= 3^(-1/3).(2/3) =&gt; y = 2. 36(-4/3)<br></span>\n\n<span>Dari pemisalan: y = 3^x</span>\n\n<span>Diperoleh: 2.3^(-4/3) = 3^x =&gt; log 2. 3^(-4/3)\n= log 3^x</span>\n\n<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 log\n2 + log 3^(-4/3) = x log 3 <br>=&gt; log 2 + (-4/3)log 3 = x log 3</span>\n\n<span>jadi\u00a0 x = <u>( log\n2 + (-4/3)log 3)</u> = <strong>log 2/log 3 \u2013 4/3</strong> </span><span>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 log 3<br><br></span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "barisan-geometri-u3-12-dan-u696-s4-350",
+            "question": "Barisan Geometri. U3= 12, dan U6=96. S4. . . ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "u6 = 96 = rumus\u00a0 ar^n-1<br>u3 = 12 <br>s4 ?<br><br>u6 = ar^5\u00a0 u3 = ar^2<br>96 = ar^5\u00a0 12 = ar^2<br><br>r = 6-3\u221a96/12 = \u221b8 = 2<br>S4 = u3 x r<br>\u00a0\u00a0 \u00a0 = 12 x 2 = 24<br>S4 = 3 + 6 + 12 + 24 = 45<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "U3 = 12<br>U6 = 96<br>dit : S4<br><br>U6 = U3 . rrr<br>96 = 12 . rrr<br>rrr = 8<br>r = 2<br><br>S4 = 3 + 6 + 12 + 24 = 45",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-hp-dari-pertidaksamaan-di-bawa-ini-x-r-1-3x-41-776",
+            "question": "Tentukan HP dari pertidaksamaan di bawa ini (x \u2208 R)\r\n1. 3X-4\u226516+8X",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "3x-4\u00a0<span>\u2265 16+8x<br>3x-8x\u00a0</span><span>\u226516+4<br></span>-5x\u00a0<span>\u2265 20<br></span><span>5x\u00a0<u>&lt;</u> -20<br>x\u00a0<u>&lt;</u>-4<br><br>{x| x<u>&lt;</u>-4, x: R}<br><br></span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "hitunglahsudut-antara-vektor-a-dan-b-berikut-ini-a-3i-2j-k-399",
+            "question": "Hitunglahsudut antara vektor A dan B berikut ini,\r\n\r\nA = 3i - 2j + k\r\nB = 4i - 3j +2k",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "cos a= a.b/panjanga xpanjangb<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0=(12+6+2)/\u221a14\u221a29",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "menentukan-nilai-fungsi-fx2x-3x-1-tentukan-f-2-326",
+            "question": "Menentukan nilai fungsi f(x):2x - 3x +1 tentukan (f-2)???",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>f(x)=2x - 3x +1<br>f(2)= 2(2) - 3(2) +\u00a01<br>\u00a0 \u00a0 \u00a0= 4 - 6 + 1<br>\u00a0 \u00a0 \u00a0= -1<br>jawabanya -1</span>",
+                    "attachments": []
+                },
+                {
+                    "answer": "f(-2) = 2(-2) - 3(-2) + 1 = -4 + 6 + 1 = 3<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apa-pengertian-algoritma-557",
+            "question": "Apa pengertian algoritma",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "algoritma (matematika)\u00a0adalah prosedur atau cara kerja atau proses yang dilakukan untuk menyelesaikan suatu permasalahan\u00a0(dalam\u00a0matematika)",
+                    "attachments": []
+                },
+                {
+                    "answer": "operasi matematika yang merupakan kebalikan dari eksponen \u00a0atau pemangkatan",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "berapa-hasil-dari-557",
+            "question": "Berapa hasil dari\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]2^{2014}.2^{15}=2^{2014+15}=2^{2029}[/tex]",
+                    "attachments": []
+                },
+                {
+                    "answer": "[tex] 2^{2014+15} =  2^{2029} [/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-nilai-x-yang-memenuhi-pertidaksamaan-irasional-berikut-384",
+            "question": "Tentukan nilai x yang memenuhi pertidaksamaan irasional berikut\r\n\u221ax\u00b2-x+2 per \u221ax+5 \u2265 1",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex] \\frac{ \\sqrt{ x^{2} -x+2} }{ \\sqrt{x+5} }  \\geq 1[/tex]<br><br>kalikan penyebut ke 1<br><br>[tex] \\sqrt{ x^{2}-x+2}  \\geq  \\sqrt{x+5} [/tex]<br><br>kuadratkan kedua ruas<br><br>[tex] x^{2} -x+2-(x+5)  \\geq 0[/tex]<br><br>[tex] x^{2} -2x+3 \\geq 0[/tex]<br><br>(x+1)(x-3)\u00a0[tex] \\geq 0[/tex]..........(1)<br><br>buat grafik koordinat garis x pada -1 dan 3 sehingga didapat nilai di antara -1 dan 3 misal 2 dimasukkan ke pers 1 dapet minus, padahal nilai yg diharapkan\u00a0[tex] \\geq 0[/tex] maka kedua nilai disebelah kanan dan kiri merupakan plus dg melakukan pembuktian yang sama, dapet x[tex] \\leq -1[/tex] atau x[tex] \\geq 3[/tex]",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,156 @@
+{
+    "question": "Jelaskan fungsi dari summery, everage, min,max?",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "average = untuk menghitung nilai rata-rata<br>min = untuk menghitung nilai minimum <br>max = untuk menghitung nilai maximum<br>summery = untuk menjumlahkan nilai<br>",
+            "attachments": []
+        },
+        {
+            "answer": "sum = jumlah nilai<br>average untuk cri nilai rata rata<br>max= nilai tertinggi<br>min=nilai terendah<br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "bagaimana-cara-membuat-tulisan-arab-pada-microsoft-office-word-781",
+            "question": "Bagaimana cara membuat tulisan arab\u00a0\u00a0pada microsoft office word 2007??",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "kalau bisa ketik dari translate,baru hasil translate itu kita pindahkan keMS.Word",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span>1. Klik\u00a0Start\nProgram, lalu klik\u00a0Control Panel.</span>\n\n\u00a0\n\n\u00a0\n<br>\n\u00a0\n\n<span>2. Klik\u00a0Clock,\nLanguage, and Region.</span>\n\n\u00a0\n\n\u00a0\n\n\u00a0\n<br><span>3. Klik\u00a0Change\nkeyboards or other input methods.</span>\n\n\u00a0\n\n\u00a0\n\n\u00a0\n<br><span>4. Kemudian pada Tab\u00a0<u>Keyboards</u><span>\u00a0and Languages klik\u00a0Change\nKeyboards\u2026</span></span>\n\n\u00a0\n\n\u00a0\n\n\u00a0\n<br><span>5. Pada Tab General klik\ntombol\u00a0Add\u2026</span>\n\n\u00a0\n\n\u00a0\n\n\u00a0\n<br><span>6. Setelah itu pilih\u00a0Arabic\n(Saudi Arabia),\u00a0klik pada tanda\u00a0+\u00a0disamping\nkirinya. Pada kotak pilihan keyboard centang\u00a0Arabic (101).\nLalu OK.</span>\n\n\u00a0\n\n\u00a0\n\n\u00a0<br><span>7. Pada\u00a0<u>taskbar</u><span>\u00a0bawah layar\ndekstop akan keluar language bar dengan tanda\u00a0AR\u00a0dan\u00a0EN,\nAR artinya Aarabic dan EN artinya English.</span></span>\n\n\u00a0<br><span>8. Buka Ms.Word 2007,\npada\u00a0<u>language</u><span>\u00a0bar tadi pilih\u00a0AR\nArabic<strong></strong></span></span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bagaimana-cara-menggabungkan-microsoft-excel-dengan-microsoft-wor-238",
+            "question": "bagaimana cara menggabungkan microsoft excel dengan microsoft word (2007) di\u00a0microsoft word? Lengkap yaa..",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Tergantung kamu mau fungsiin untuk bikin grafik atau tabel..<br>Kalo grafik bisa klik di option \"insert\" terus klik chart lalu tinggal kamu otak-atik aja sesuai yang kamu inginkan.<br>Kalo tabel kamu klik di option \"insert\" terus klik table terus pilih excle spreadsheet.<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Begitukah maksudnya?<br>1. Klik Insert<br>2. Klik object<br>3. Pilih microsoft office\u00a0excel worksheet<br>4.klik ok<br><br>semoga membantu :)",
+                    "attachments": [
+                        "answer-attachments/bagaimana-cara-menggabungkan-microsoft-excel-dengan-microsoft-wor-238-1.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "contoh-teknologi-komunikasi-itu-apa-saja-selain-hp-dan-surat-342",
+            "question": "Contoh teknologi komunikasi itu apa saja selain hp dan surat?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Fax<br>Email<br>Social Media<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Internet, faksimile contoh lainnya<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebutkan-beberapa-manfaat-internet-942",
+            "question": "Sebutkan beberapa manfaat Internet?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "manfaatnya bisa dapet banyak temen dari socmed<br>bidang pendidikan buat nyari nyari sumber\u00a0<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "1.untuk memudahkan mencari informasi<br>2.untuk tempat bersosialisasi antara satu sama lain<br>3. untuk memudahkan mencari sumber sumber tertentu<br>4. dll<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "ada-yang-tau-gimana-cranya-membuat-bingkai-html-2-kolom-kolom-pe-470",
+            "question": "ada yang tau gimana cranya membuat bingkai HTML 2 kolom, kolom pertama 2 baris, kolom kedua 3 baris? + rumus nya ya.\u00a0thankyou:)\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>&lt;table border=1 align=&#039;center&#039;&gt;<br></span><span>&lt;tr&gt;</span><span>\u00a0\u00a0\u00a0\u00a0<br>\u00a0 \u00a0\u00a0&lt;th&gt;Nama&lt;/th&gt;</span><span>\u00a0\u00a0\u00a0\u00a0<br>\u00a0 \u00a0\u00a0&lt;th&gt;Alamat&lt;/th&gt;</span><span>\u00a0\u00a0\u00a0\u00a0<br>\u00a0 \u00a0\u00a0&lt;th&gt;No hp&lt;/th&gt;</span><span>\u00a0\u00a0\u00a0\u00a0<br>\u00a0 \u00a0\u00a0&lt;th&gt;Email&lt;/th&gt;</span><span><br>&lt;/tr&gt;<br></span><span>&lt;tr&gt;</span><span>\u00a0\u00a0\u00a0\u00a0<br>\u00a0 \u00a0\u00a0&lt;td&gt;Nama&lt;/td&gt;</span><span>\u00a0\u00a0\u00a0\u00a0<br>\u00a0 \u00a0\u00a0&lt;td&gt;Alamat&lt;/td&gt;</span><span>\u00a0\u00a0\u00a0<br>\u00a0 \u00a0\u00a0&lt;td&gt;No Hp&lt;/td&gt;</span><span>\u00a0\u00a0\u00a0\u00a0<br>\u00a0 \u00a0\u00a0&lt;td&gt;Email&lt;/td&gt;<br></span><span>&lt;/tr&gt;<br></span><span>&lt;tr&gt;</span><span>\u00a0\u00a0\u00a0\u00a0<br>\u00a0 \u00a0 \u00a0&lt;td&gt;contoh a&lt;/td&gt;</span><span>\u00a0\u00a0\u00a0\u00a0<br>\u00a0 \u00a0 \u00a0&lt;td&gt;contoh b&lt;/td&gt;</span><span>\u00a0\u00a0\u00a0\u00a0<br>\u00a0 \u00a0 \u00a0&lt;td&gt;contoh c&lt;/td&gt;</span><span>\u00a0\u00a0\u00a0\u00a0<br>\u00a0 \u00a0 \u00a0&lt;td&gt;contoh d&lt;/td&gt;\u00a0<br></span><span>&lt;/tr&gt;<br></span><span>&lt;/table<span>&gt;<br>itu di coba2,buka pake web terus juga itu atas di tambah &lt;html&gt;&lt;head&gt;&lt;body&gt; bawahnya juga tapi di tambah garis miring di depan,terus tinggal di ganti/hapus sesuai kebutuhan,semoga membantu :)</span></span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apa-fungsi-windows-yang-terdapat-di-computer-660",
+            "question": "Apa fungsi windows yang terdapat di computer?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "windows merupakan salah satu sistem operasi",
+                    "attachments": []
+                },
+                {
+                    "answer": "windows itu adalah seperti program untuk menjalankan komputer . biasa disebut &#039;&#039;OS &lt;OPERATION SYSTEM &gt; \" jika tidak ada windows . maka kita tidak bisa memainkan komputer seperti sekarang ini .",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "kenapa-kalau-buka-link-selalu-di-new-tabpadahal-settingnya-sudah-403",
+            "question": "Kenapa kalau buka link selalu di new tab,padahal settingnya sudah benar??",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Mungkin itu blognya memang otomatis pindah di new tab<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Itu karena internet sudah dirancang seperti itu. Karena jika tidak muncul di new tab, tab yang kita buka akan hilang. Kan kalau udah hilang jadi repot, ya walaupun masih bisa dicari di History.<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bagaimana-cara-menanam-tomat-dengan-mudah-509",
+            "question": "Bagaimana cara menanam tomat dengan mudah?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>Tanaman tomat dapat tumbuh, baik di dataran rendah maupun dataran\u00a0tinggi. Jenis tomat apel lebih baik ditanam di dataran tinggi, sedangkan jenis tomat sayur lebih baik ditanam di dataran rendah. Jadi, sebelum kamu bertanam tomat, lebih baik tentukan dahulu lahan yang akan ditanami, apakah berupa dataran rendah atau dataran tinggi.</span><span><br>Ketika kamu akan menanam tomat, carilah tanah yang subur dan sedikit mengandung pasir. Hal ini karena tomat menyukai tanah seperti ini. Namun, tanah liat yang mengandung sedikit pasir sangat tidak disukai tanaman ini. Selain itu, tanaman tomat ternyata tidak tahan terhadap hujan. Jadi, kamu lebih baik tidak menanam tomat pada saat musim hujan.</span><span><br>Tomat dikembangbiakkan dengan bijinya. Sebelum kamu menanam tomat disemaikan terlebih dahulu. Tanah yang akan dijadikan persemaian dicangkul dan diberi pupuk kandang. Biji tomat ditaburkan berbaris dengan jarak antar baris 5 cm. Ketika kamu menaburkan biji tomat ini, lakukanlah dengan hati-hati dan tipis-tipis di atas tanah persemaian. Setelah 5-7 hari disemaikan, biji tomat akan tumbuh. Setelah berumur 2 minggu, bibit dari persemaian dipindahkan ke dalam kantong\u00a0plastik.</span><span><br>Lahan yang akan digunakan untuk bertanam tomat dicangkul. Kemudian, buatlah beberapa lubang. Setiap lubang diberi pupuk kandang. Setelah satu bulan, pindahkanlah tanaman tomat yang ada di kantong plastic. Setelah itu, kamu dapat menutupi tanaman tomatmu dengan dedaunan atau pelapah pisang. Hal ini\u00a0 dilakukan agar dapat mencegah panas matahari atau air hujan. Baru setelah 3-4, hari kamu dapat membuka tutupnya. Setelah itu, jangan lupa diberi pupuk.</span><span><br>Seperti halnya manusia, tanaman juga suka sakit. Penyebabnya adalah serangan hama dan penyakit. Hama yang sering menyerang tomat, di antaranya ulat dan cacing. Adapun cendawan, bakteri, dan virus merupakan penyebab penyakiut pada tanaman tomat. Penyakit pada tanaman tomat cepat menyebar. Jadi, kamu harus berhati-hati. Perhatikan selalu tanaman tomatmu agar terhindar dari penyakit dan menghasilkan buah yang baik.</span><span><br>Pencegahan terhadap penyakit agar tidak menyebar adalah dengan cara mencabut dan membakar tanaman yang sakit. Dengan demikian, penyebab penyakitnya akan mati dan tidak akan mengganggu\u00a0 tanamanmu lagi.<br><br>maaf klo salah....<br>semoga membantu...</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apa-itu-work-book-dan-work-sheet-691",
+            "question": "Apa itu work book dan work sheet ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "work book adalah kumpulan dari work sheet<br>work sheet adalah kumpulan dari lembar kerja",
+                    "attachments": []
+                },
+                {
+                    "answer": "work book = buku kerja berarti dia terdiri dr bbrp work sheet<br>work sheet = lembar kerja..",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tuliskan-hal-hal-apa-saja-yang-dapat-digunakanuntuk-siskom-794",
+            "question": "Tuliskan hal-hal apa saja yang dapat digunakanuntuk siskom!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "os, aplikasi, driver, hardware<br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,134 @@
+{
+    "question": "Tentukan rumus untuk F-1(x), \u00a0jika diketahui F(x) =(X-1)\u00b3-6",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "<span>F(x) =(X-1)\u00b3<span>-6<br>y=</span></span><span>(X-1)\u00b3-6</span><br>y+6=<span>(X-1)\u00b3<br>[tex] \\sqrt[8]{y+6} [/tex]=x-1<br>1+ </span>[tex] \\sqrt[8]{y+6} [/tex]=x<br><br>F invers(x)= 1+ <span>[tex] \\sqrt[8]{x+6} [/tex]</span><br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "logika-matematika-1-manakah-yang-merupakan-pernyataan-kalimat-t-813",
+            "question": "Logika matematika    1. Manakah yang merupakan pernyataan, kalimat terbuka atau bukan pernyataan dari kalimat kalimat berikut ini.\r\na. Gunung Kerinci terletak di Bali\r\nb. Oslo ibukota Norwegia.\r\nc. Pergilah engkau sekarang!\r\nd. x adalah bilangan prima kurang dari 30.\r\ne. 9 adalah faktor dari 63\r\njawabannya\r\n\u00a0\u00a0 \u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kalimat terbuka : D<br>pernyataan : a,b,e<br>bukan pernyataan : c",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jumlah-bilangan-asli-antara-1-dan-200-yg-hbis-diagi-4-adalah-310",
+            "question": "jumlah bilangan asli antara 1 dan 200 yg hbis diagi 4 adalah...?? jumlah n suku pertama suatu deret aritmetika dinyatakan dengan SN=n^2+3N..suku ke 20 deret tersebut adalah.....mohon bntuanyaaaa",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "kalo aritmatika jawabannya 80<br>4,8,12.....200<br>U-20= a+(n-1)b<br>4+(19)4<br>=80<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suku-suku-barisan-geometri-tak-hingga-adalah-positif-jumlah-u1-550",
+            "question": "Suku suku barisan geometri tak hingga adalah positif ,jumlah u1 + u2 =60,dan u3 + u4 =15,tentukan jumlah suku barisan itu , plissss",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "U1+U2=60\u21d2a+ar=60<br>U3+U4=15\u21d2ar\u00b2+ar\u00b3=15<br><u>a+ar=60</u><br>ar\u00b2+ar\u00b3=15<br><u>a+ar\u00a0\u00a0 =60</u> (di coret a+ar)<br>r\u00b2(a+ar)=15<br>1/r\u00b2=4<br>r=1/2<br>nilai a:<br>a+ar=60\u21d4a+1/a=60<br>\u21d43/2 a=60<br>\u21d4a=40<br>untuk deret tak hingga -1&lt;r&lt;1 maka <br>Sn=a/1-r=40/1-0,5=80<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "selidiki-persamaan-kuadrat-berikut-a-x2-2x10-b2x2-2x0-c3-574",
+            "question": "Selidiki persamaan kuadrat berikut:    a) x\u00b2-2x+1=0\r\nb)2x\u00b2-2x=0\r\nc)3x\u00b2-2x+10=0\r\nd)x\u00b2-10=0\r\nberikan jawabannya dengan cara jalannya\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1). (x-1).(x-1)<br>2). (2x-2).(x-0)<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "x4-3x3-5x2x-6-x25x-2-917",
+            "question": "(x4-3x3- 5x2+x-6)\r\n : ( x2+5x-2)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "hasil pembagiannya x= -16648 dan x=42112<br>x4-3x3-5x+x-6 ;x2+5x-2<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "selesaikan-dengan-rumus-abc-9x2-12x-2-0-744",
+            "question": "Selesaikan dengan rumus abc\r\n9x\u00b2 - 12x + 2 = 0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "144+akar kuadrat dari 72 per 18 atau<br>144-akar kuadrat dari 72 per 18<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "[tex]9x^2-12x+2=0\\ ; a=9,b=-12,c=2\\\\\nx_{1,2}=\\frac{-b \\underline{+} \\sqrt{b^2-4ac}}{2a}\\\\\nx_{1,2}=\\frac{-(-12) \\underline{+} \\sqrt{(-12)^2-4(9)(2)c}}{2(9)}\\\\\nx_{1,2}=\\frac{12 \\underline{+} \\sqrt{144-72}}{18}\\\\\nx_{1,2}=\\frac{12 \\underline{+} \\sqrt{72}}{18}\\\\\nx_{1,2}=\\frac{12 \\underline{+} 6\\sqrt{2}}{18}\\\\\nx_{1,2}=\\frac{2 \\underline{+} \\sqrt{2}}{3}\\\\[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "rata-rata-berat-badan-apri-danbambang-49-kg-rata-rata-apri-dan-489",
+            "question": "Rata-rata berat badan Apri danBambang 49 kg . Rata-rata apri dan cici 47 kg sedangkan rata-rata b ambang dan Cici 48 kg . Berapakah rata-rata berat bambang apri ,bambang dan cici .??\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "apri = x<br>bambang = y<br>cici = z<br><br>x+y = 98<br>x+z = 94<br>y+z= 96<br><br>x+y= 98<br><u>x+z = 94</u> -<br>y-z= 4<br><br>y+z= 96<br><u>y-z= 4</u> -<br>2z = 92<br>z= 46<br><br>y+z = 96<br>y+46=96<br>y= 40<br><br>x+y= 98<br>x+40=98<br>x= 48<br><br>(46+48+40) : 3 =45 kg<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "x22x-150-carlah-x1-dan-x2-denan-menggunakan-rumus-abc-505",
+            "question": "X\u00b2+2x-15=0\r\ncarlah x\u2081 dan x\u2082\r\ndenan menggunakan rumus abc",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "kalo itu akar\"nya\u00a0<br>(x-3)(x+5)<br>yg rumus abc itu apa pakek yang ini ??<br>x1,2 = -b +-\u00a0\u221ab\u00b2 - 4ac / 2a",
+                    "attachments": []
+                },
+                {
+                    "answer": "rumus D = b^2 - 4ac<br>(2x)^2-4(1)(-15)=0<br>4x^2-4+60=0<br>4x^2+56=0<br>4x^2 = -56<br>x^2 = \u00a0-14<br>x =\u00a0\u221a14<br>jadi nilai x = positif negarif\u00a0\u221a14",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "panjang-busur-lingkaran-dengan-sudut-pusat-120-dan-panjang-diam-570",
+            "question": "Panjang busur lingkaran dengan sudut pusat 120\u00b0 dan panjang diameter 21 cm adalah..",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "21.98 jadi 22<br>cari keliling dulu, trs 120/360.kliling lingkaran",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jumlah-n-bilangan-asli-ganjil-pertama-dirumuskan-dengan-265",
+            "question": "Jumlah n bilangan asli ganjil pertama dirumuskan dengan ...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "bilangan ganjil: Un = 2n -1<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Bilangan ganjil un : 2n-1",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

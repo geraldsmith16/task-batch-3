@@ -1,0 +1,154 @@
+{
+    "question": "Rumus diagram lingkaran",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "persentase dikalikan jumlah data",
+            "attachments": []
+        },
+        {
+            "answer": "misalnya:<br>Roni=7, memei=11, nay=9, Andre= 13<br>Jumlah seluruh suara: 7 + 11 + 13 + 9 = 40 suara. Sehingga, persentase \nsuara Roni: 7/40 \u00d7 100% = 17,5%. Persentase suara Memei: 11/40 \u00d7 100% = \n27,5%. Persentase suara Andre: 13/40 \u00d7 100% = 32,5%. Sedangkan \npersentase suara Naysilla: 9/40 \u00d7 100% = 22,5%. Selanjutya kita cek \njumlah persentasenya: 17,5% + 27,5% + 32,5% + 22,5% = 100%. Karena \njumlah persentasenya 100%, maka perhitungannya benar<br><br><br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "bulan-januari-di-tahun-x-memiliki-5-buah-hari-senin-3-diantara-ny-730",
+            "question": "bulan januari di tahun x memiliki 5 buah hari senin 3 diantara nya adalah tanggal genap. maka hari ke-10 bulan januari tersebut jatuh pada hari ? \u00a0 \u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Selasa.<br>Pada bulan Januari tanggal 1 berada pada hari minggu",
+                    "attachments": []
+                },
+                {
+                    "answer": "Jatuh pada hari Jum&#039;at.",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apa-jawaban-23-25-pake-cara-172",
+            "question": "Apa jawaban 2/3 - 2/5 pake cara???",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "2/3\u00a0-\u00a02/5\u00a0=\u00a010/15\u00a0-\u00a06/15\u00a0=\u00a03/15",
+                    "attachments": []
+                },
+                {
+                    "answer": "2/3-2/5= 10-6/15=4/15<br><br>jawabanya 4/15",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "mencari-diagram-lingkaran-624",
+            "question": "Mencari diagram lingkaran",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "diagram lingkaran : 2xr",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "harga-celana-panjang-yg-tertera-pada-label-40000-riko-membeli-ce-452",
+            "question": "harga celana panjang yg tertera pada label 40.000 riko membeli celana panjang tersebut dan mendapat potongan harga 12.000 berapakah presentase potongan harga tersebut???",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "12.000/40.000 x 100%<br>= 12.000/400<br>= 120/4<br>= 30%<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "persen discountnya 30% bukan yaa?",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "munkinkah-bilangan-1473-dihasilkan-dari-penjumlahan-bilangan-bil-859",
+            "question": "munkinkah bilangan 14.73 dihasilkan dari penjumlahan bilangan-bilangan desimal dengan satu angka di belakang koma saja?mengapa!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Tidak mungkin. Sebenarnya, kalau dua angka dibelakang koma, masih mungkin. Yakni penjumlahan antara 7,3 + 7,43 .. Tapi, kan dibilang satu angka dibelakang koma, jadi tak mungkin pernah terjadi.",
+                    "attachments": []
+                },
+                {
+                    "answer": "tidak mungkin kaka,sama sperti yg sudah saya jelaskan di soal kamu yang sebelumnya<br>penjumlahan bilang desimal 1 angka di belakang koma,hanya menambahkan nilai pada angka di depan koma dan 1 angka di belakang koma :)<br>cth =1,2 + 1,2 = 1,4 :)",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "hasil-perkalian-pasangan-bilangan-dua-angka-dengan-satu-angka-dar-199",
+            "question": "hasil perkalian pasangan bilangan dua angka dengan satu angka dari angka 5 : 7 dan 8 yang terbesar adalah?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>75 x 8 = 600<br><br>caranya cari angka paling besar. jadikan sebagai pengali.<br>lalu\n terbsar kedua sebagai yg dikali. sisanya tambahkan dibelakan yg dikali.\n usahakan didepan lbh besar dri yg blakang. (75) bukan (57)</span><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "yg terbesar 5:7 <br>karena 5 X 7 = 35<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "mungkinkah-bilangan-1473-dihasilkan-dari-penjumlahan-bilangan-649",
+            "question": "Mungkinkah \u00a0bilangan 14,73 dihasilkan dari penjumlahan bilangan -\u00a0bilangan desimal dengan satu angka di belakang koma saja\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "sepertinya sih tidak bisa<br>namun jika \u00a07,7+7,03 =14,73<br>itu baru bisa",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "cara-menghitung-akar-pangkat-bagaimana-sih-347",
+            "question": "Cara menghitung akar pangkat bagaimana sih???",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "dgn cara angka tersebut di kalikan 2 kali",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "5-76-289",
+            "question": "5-(-7)+6=",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "5+7+6=18<br>kalau gak salah berarti itu tandanya benar<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "5-(-7)+6 = 5 + 7 + 6 =\u00a018",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-sesorang-mebeli-baju-dengan-harga-175000-dan-mendapat-disk-633",
+            "question": "jika sesorang mebeli baju dengan harga 175.000, dan mendapat diskon sebesar 10%, berapakah seseorang harus membayar?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "175.000 x <u>10</u>\u00a0 = 17.500<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 100<br>175.000 - 17.500 =\u00a0 157 500<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "175.000 x\u00a0<u>10</u>\u00a0 = 17.500<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 100<br><span>175.000 - 17.500 =\u00a0 157 500<br><br>Jadi yang harus dibayar\u00a0</span>\u00a0157 500",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

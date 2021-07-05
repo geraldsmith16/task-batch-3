@@ -1,0 +1,140 @@
+{
+    "question": "Diketahui barisan aritmetika dengan U3 + U5 + U7 + U9 = 104. Nilai U6 adalah..",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "<p>Diketahui barisan aritmetika dengan U\u2083 + U\u2085 + U\u2087 + U\u2089 = 104.</p><p><strong>Barisan Aritmatika</strong> adalah \u00a0suatu barisan dengan selisih antara dua suku yang berurutan selalu tetap.</p><p>Rumus : Un = a + (n - 1)b</p><p><strong>Deret Aritmatika</strong> adalah jumlah suku \u2013 suku barisan aritmatika</p><p>Rumus : Sn = \u00b9/\u2082 n (a + Un)</p><h3>Pembahasan</h3><p><em><strong>Penjelasan dengan langkah-langkah:</strong></em></p><p><strong>Diketahui:</strong></p><p>U\u2083 + U\u2085 + U\u2087 + U\u2089 = 104</p><p><strong>Ditanya:</strong></p><p>Nilai U\u2086 = ... ?</p><p><strong>Jawab:</strong></p><p>Ingat Un = a + (n - 1)b</p><p>U\u2083 = a + (3 - 1)b</p><p> \u00a0 \u00a0 = a + 2b</p><p>U\u2085 = a + (5 - 1)b</p><p> \u00a0 \u00a0 = a + 4b</p><p>U\u2087 = a + (7 - 1)b</p><p> \u00a0 \u00a0 = a + 6b</p><p>U\u2089 = a + (9 - 1)b</p><p> \u00a0 \u00a0 = a + 8b</p><p>U\u2083 + U\u2085 + U\u2087 + U\u2089 = 104</p><p>a + 2b + a + 4b + a + 6b + a + 8b = 104</p><p>4a + 20b = 104</p><p><em><strong>a + 5b = 26</strong></em></p><br><p>Un = a + (n - 1)b</p><p><em><strong>U\u2086 = a + (6 - 1)b</strong></em></p><p><em><strong> \u00a0 \u00a0 = a + 5b</strong></em></p><p><em><strong> \u00a0 \u00a0 = 26</strong></em></p><br><p><u><em><strong>Jadi Nilai U\u2086 adalah 26</strong></em></u></p><br><h3>Pelajari lebih lanjut</h3><p>Bab barisan dan deret aritmatika dapat disimak pula di</p><ul><li>brainly.co.id/tugas/13759951</li><li>brainly.co.id/tugas/4240841</li><li>brainly.co.id/tugas/1509694</li><li>brainly.co.id/tugas/12054249</li></ul><h3>===========================</h3><h3>Detail Jawaban</h3><p><strong>Kelas </strong>: 9</p><p><strong>Mapel </strong>: Matematika</p><p><strong>Kategori </strong>: Barisan dan Deret</p><p><strong>Kode </strong>: 9.2.2</p><br><p><strong>Kata kunci </strong>: barisan aritmatika, deret aritmatika, suku pertama, beda, suku ke-n, jumlah n suku pertama</p><br><br><br><br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "mohon-penjelasan-cara-mengerjakan-nya-terimakasih-482",
+            "question": "Mohon penjelasan cara mengerjakan nya, terimakasih",
+            "attachments": [
+                "question-attachments/mohon-penjelasan-cara-mengerjakan-nya-terimakasih-482-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "insyaallah<br>tapi man soalnya?",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-kasih-tau-jawaban-dan-penyelesaiannya-juga-dong-banyak-369",
+            "question": "Tolong kasih tau jawaban dan penyelesaiannya juga dong :)    Banyak bilangan antara 2000 dan 6000 yang dapat disusun dari angka 0,1,2,3,4,5,6,7 dan tidak ada angka yang sama adalah...\r\nTerimah kasih sebelumnya yaa :)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "buat 4 kotak\u00a0 |ribuan|ratusan|puluhan|satuan|<br>|5|7|6|5| = 5 x 7 x 6 x 5 = 1050.<br><br>nb:<br>kotak pertama = dari 0 - 7 yang memenuhi tempat ribuan ada 5 (2, 3, 4, 5, 6)<br>kotak kedua\u00a0 \u00a0  = dari 0 - 7 yang memenuhi tempat ratusan ada 7<br>(jika syaratnya tidak ada angka yang sama, peluang setiap kotaknya di kurang 1, kemudian setiap angka dikalikan, dan itulah hasilnya)<br>dst..<br>:D<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "garis-x-y30-dirotasi-60-berlawanan-dengan-arah-perputaran-jar-398",
+            "question": "Garis x-y+3=0 dirotasi 60\u00b0 berlawanan dengan arah perputaran jarum jam dengan pusat putar O(0,0). Tentukan bayangannya!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "pakai rumus<br>(x) \u00a0 = \u00a0 \u00a0 \u00a0 \u00a0 \u00a0cos a (-sin\u00a0a) \u00a0diinferskan lalu dikali (x&#039;)<br>(y) \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 sin a \u00a0 cos a\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0(y&#039;)<br>setelah hasilnya ketemu nanti dmasukkan ke persamaan yang menjadi soalnya<br><br>maaf tidak bisa membantu banyak, karna keterbatasan penulisan disini jadi saya tdk bisa menjawab hingga tuntas..",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jawablah-pertanyaan-berikut-ini-dengan-benar-5-tentukan-negasi-d-339",
+            "question": "Jawablah Pertanyaan berikut ini dengan benar    5. Tentukan negasi dari disjungsi- disjungsi berikut.\r\na. Susi Wanita yang cantik atau baik hati.\r\nb. 5 bialngan prima atau habis dibagi 2.\r\nc. 2x + 1 = 5 atau 3 bilangan ganjil.\r\nJawabannya:\r\n\r\ntolong Jawablah secepat mungkin karena ini penting",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a. baik hati<br>b. 2<br>c. 2x + 1 = 5<br>\u00a0\u00a0  2x = 5-1<br>\u00a0\u00a0 2x = 4<br>\u00a0\u00a0 x\u00a0\u00a0\u00a0 = 2<br><br>Itu jawabannya. Balas \"terimakasih\" ya ! :)<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "a. susi wanita yang tidak cantik dan tidak baik hati<br>b. 5 bukan bilangan prima dan tidak habis dibagi 2<br>c. 2x + 1 \u2260 5 dan 3 bukan bilangan ganjil<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-vektor-p-dan-q-20-dan-1-vektor-p-dan-r-11-dan-2-j-434",
+            "question": "diketahui vektor p dan q 2,0, dan 1. vektor p dan r 1,1, dan 2. jika vektor p dan s 1/2 vektor p dan q maka tentukan vektor r dan s?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "vektor 2,1 jika s 1 per 2 2,0 cx :D<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span>Jika vektor p dan q 2,0, dan 1. vektor p dan r 1,1, dan 2.</span><br>maka Vektor S =\u00a0<span> 1 per 22</span><br><br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "persamaan-m-1-x2-4x-2m-0-mempunyai-akar-akar-real-te-829",
+            "question": "Persamaan (m - 1)\u00a0x\u00b2 + 4x + 2m = 0 mempunyai akar-akar real. Tentukan nilai m yg memenuhi!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "JAWAB.<br>akar akarnya<br>x= -2 m= 2<br>x= 0 m=0<br>x=1 m= -1<br>x=4 m=0<br><br>nilai m = 1 dan x = -1/2<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "D&gt;0<br>x\u00b2+4x+2m&gt;0<br>b\u00b2-4ac<br>(4)\u00b2-4.1.2m&gt;0<br>16-8m&gt;0<br>-8&gt;-16<br>m&lt;2<br>jadi m nya : 1<br>mungkin begitu, semoga benar :D",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "akar-persamaan-x2a-1x20-adalah-a-dan-v-jika-a2v-d-156",
+            "question": "Akar persamaan\u00a0x\u00b2+(a-1)x+2=0 adalah\u00a0\u03b1 dan\u00a0\u03b2. jika\u00a0\u03b1=2\u03b2 dan a&gt;0 maka nilai a=......",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "x\u00b2+(a-1)x+2=0, <br><span><span>\u03b1=2\u03b2<br><br></span>\u03b1\u00b7\u03b2=c/a<br>2\u03b2 \u00b7 \u03b2=2<br>2\u03b2\u00b2=2<br>\u03b2= +-1<br><br>\u03b1+\u03b2= -b/a<br>2\u03b2+\u03b2= -(a-1)<br>3\u03b2= -a+1<br><br>substitusikan nilai \u03b2=1<br>3= -a+1<br>a= -4 (bukan a yg dimaksud)<br><br>\u03b2= -1<br>-3= -a+1<br>a=4 (memenuhi syarat a&gt;0)<br><br><br></span>\u00a0<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "persamaan-m-1x2-4x-2m-0-mempunyai-akar-akar-real-tent-796",
+            "question": "Persamaan (m - 1)x\u00b2 + 4x + 2m = 0 mempunyai akar-akar real. Tentukan nilai m yang memenuhi!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "(m - 1)x\u00b2 + 4x + 2 = 0 memunyai akar-akar real <br>syarat : b\u00b2 - 4ac \u2265 0<br>16 - 4.2(m - 1) \u2265 0<br>16 - 8m + 8 \u2265 0 <br>24 - 8m \u2265 0 <br>-8m \u2265 -24 ruas kiri n kanan dikali -1 (jangan lupa tanda \"\u2265\" dibali jadi \"\u2264\")<br>m \u2264 -24/-8<br>m \u2264 3<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "faktor-dari-418",
+            "question": "Faktor dari",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex] x^{2} -9x = x(x-9)[/tex]<br><br>x = 0<br>x = 9",
+                    "attachments": []
+                },
+                {
+                    "answer": "[tex](x - 3x) (x + 3x)[/tex]<br><br>.<br>. [tex]ax^2 - bx = c[/tex]<br>.<br>Semoga membantu ^_^<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apakah-persamaan-yang-diberikan-merupakan-persamaan-kuadrat-beri-821",
+            "question": "Apakah persamaan yang diberikan    merupakan persamaan kuadrat?\r\nBerikan alasanmu!\r\na. x2y = 0, y \u2208 R, y \u2260 0.\r\nb. x + 1x= 0, x \u2260 0.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "keduanya bukan karena rumus umum dari persamaan kuadrat adalah ax\u00b2+bx+c dan a\u22600",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

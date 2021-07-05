@@ -1,0 +1,136 @@
+{
+    "question": "Suku suku barisan geometri tak hingga adalah positif ,jumlah u1 + u2 =60,dan u3 + u4 =15,tentukan jumlah suku barisan itu , plissss",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "U1+U2=60\u21d2a+ar=60<br>U3+U4=15\u21d2ar\u00b2+ar\u00b3=15<br><u>a+ar=60</u><br>ar\u00b2+ar\u00b3=15<br><u>a+ar\u00a0\u00a0 =60</u> (di coret a+ar)<br>r\u00b2(a+ar)=15<br>1/r\u00b2=4<br>r=1/2<br>nilai a:<br>a+ar=60\u21d4a+1/a=60<br>\u21d43/2 a=60<br>\u21d4a=40<br>untuk deret tak hingga -1&lt;r&lt;1 maka <br>Sn=a/1-r=40/1-0,5=80<br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "apabila-p42-dan-a-sudut-yang-dibentuk-oleh-sisi-op-dengan-su-434",
+            "question": "apabila P(4,2) dan\u00a0\u03b1 sudut yang dibentuk oleh sisi OP dengan sumbu Y, tentukan nilai dari sin\u03b1, cos\u03b1, tan\u03b1, sec\u03b1,cosec\u03b1 !",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "harap dikoreksi apabila terdapat kesalahan<br>silakan dipelajari",
+                    "attachments": [
+                        "answer-attachments/apabila-p42-dan-a-sudut-yang-dibentuk-oleh-sisi-op-dengan-su-434-1.png"
+                    ]
+                },
+                {
+                    "answer": "diket = OP (4,2) dengan a=4 dan b = 2. cari c/sisi miringnya = \u221a16 + \u221a4 = \u221a20 = 2\u221a5.<br>sin \u03b1 = b/c = 2/2\u221a5 = 4\u221a5/20= 1/5 \u221a5<br>cos \u03b1 =\u00a0 a/c = 4/2\u221a5= 8\u221a5/20=2\u221a5/5<br>tan= b/ a = 2/4 = 1/2<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebutkan-contoh-domainkodomaindan-range-519",
+            "question": "Sebutkan contoh domain,kodomain,dan range ;)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Domain adalah Daerah Asal<br>Kodomain adalah Daerah Kawan<br>Range adalah daerah Hasil..<br><br>Misalnya ada sebuah contoh soal Relasi<br>\"1 Kurangnya Dari\", dan Domainnya adalah A={0,1,2,3,4}<br>Kodomainnya adalah B={1,2,3,4,5}<br>Maka Rangenya adalah R={(Domain,Kodomain)}--&gt; R={(0,1)(1,2)(2,3)(3,4)(4,5)}<br>Dibacanya R={(0 satu kurangnya dari 1) (1 satu kurangnya dari 2) dst..}<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "daerah-asal-dari-fungsi-yfxx-1x-adalah-751",
+            "question": "Daerah asal dari fungsi \r\ny=f(x)=(x-1)/x adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]y=\\frac{x-1}{x}\\\\\ndaerah\\ asal\\ fungsi\\ tsb\\ (domain)\\ adalah\\ \\{x \\neq 0, x \\in Real\\} [/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dengan-berjalan-kaki-askar-memerlukan-waktu-6-menit-untuk-sampai-292",
+            "question": "dengan berjalan kaki, askar memerlukan waktu 6 menit untuk sampai ke kampusnya. jarak antara rumah dan kampus 5/8 km. berapa kecepatan rata-rata askar berjalan?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "v = s :\u00a0 t<br>v= 5/8 : 360<br>v = 1,73 m/s",
+                    "attachments": []
+                },
+                {
+                    "answer": "kecepatan = m/s<br>5/8 km=625m<br>6 menit= 360 s<br>kecepatan= 625/360=1,736<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-layang-layang-abcd-seperti-pada-gambar-berikut-ac12-c-290",
+            "question": "diketahui layang layang ABCD seperti pada gambar berikut .AC=12 cm,BD=3cm,BF=4cm.luas layang layang ABCD adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "rumus= 1/2 x D1 x D2<br>\u00a0 \u00a0ket: D= diagonal",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-matriks-a-x1-2-b-x-3-dan-526",
+            "question": "Diketahui matriks A = ( x+1 \u00a02), B = ( \u00a0\u00a0x \u00a0 \u00a0\u00a0 3 \u00a0 ), dan C (\u00a03 \u00a05). Jika A\u00a0+ B\u00a0= C\u00a0    \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 3 \u00a0 \u00a05 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a02 \u00a0 \u00a0y+\u00a02 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 5 \u00a04\u00a0\r\n\r\nMaka nilai x + y adalah....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]  \\left[\\begin{array}{cc}{x+1}&amp;2\\\\3&amp;5\\\\\\end{array}\\right] + \\left[\\begin{array}{cc}x&amp;3\\\\2&amp;{y+2}\\\\\\end{array}\\right] = \\left[\\begin{array}{cc}3&amp;5\\\\5&amp;4\\\\\\end{array}\\right] \\\\\\\\\n\\left[\\begin{array}{cc}{(x+1)+x}&amp;2+3\\\\3+2&amp;5+(y+2)\\\\\\end{array}\\right] = \\left[\\begin{array}{cc}3&amp;5\\\\5&amp;4\\\\\\end{array}\\right] \\\\\\\\\n\\left[\\begin{array}{cc}{2x+1}&amp;5\\\\5&amp;{y+6}\\\\\\end{array}\\right] = \\left[\\begin{array}{cc}3&amp;5\\\\5&amp;4\\\\\\end{array}\\right] \\\\\\\\\nmaka\\\\\n2x+1=3 \\rightarrow x=1\\\\\ny+6=4 \\rightarrow y=-2\\\\\nsehingga\\ x+y=1+(-2)=-1[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-barisan-bilangan-dituliskan-sebagai-berikut-123456789101-164",
+            "question": "Sebuah barisan bilangan dituliskan sebagai berikut : 123456789101112131415161718192021222324252627..............dst. Sehingga suku ke-10 = 1, suku ke-11 = 0, suku ke-12 = 1, dan\u00a0seterusnya. Dapatkah Anda temukan bilangan yang menempati suku ke-10.000?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>Un\u00a0\n= a + ( n \u2013 1 )b</span><br>U11 = a + 10b= 0<br>U10 = a + 9b = 1<br><br>\u00a0\u00a0  <br>\u00a0\u00a0 \u00a0 \u00a0  1b = 1 b= 1<br>a + 1b = 0 \u2192 a + 10.1 =0 \u2192 a + 10 = 0\u2192 a\u00a0 =10<br><br>U10.000 = a (n-1) b<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0  = 10 (10.000-1) 1<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0  = 10 . 99000 .1<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0  = 990000<br>\u00a0<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "rasionalkan-penyebut-pecahan-berikut-22-66-beri-penjela-135",
+            "question": "Rasionalkan penyebut pecahan berikut. \u00a0    2\u221a2 \r\n6\u221a6\r\n\r\nBeri penjelasannya yang LENGKAP ya :)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "2\u221a2\u00a0\u00f7\u00a06\u221a6 = 2\u221a2\u00a0\u00f7 6\u221a6\u00a0\u00d7 6\u221a6\u00f76\u221a6 = 12\u221a12\u00a0\u00f7 216 = 24\u221a3\u00a0\u00f7 216 = 1/9\u00a0\u221a3",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "temukan-fungsi-fx-pada-r-a-f2-3x-3x-4-b-fx-2-x-663",
+            "question": "Temukan fungsi f(x) pada R : \r\na.\u00a0f(2-3x) = 3x + 4\r\nb. f(x + 2) = x2 + 4x",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "2-3x = 3x+4<br>-6x = 2<br>x \u00a0 = -2/6<br>x \u00a0= -1/3<br><br>x+2= x2 +4x<br>-x2 - 3x + 2 = 0 dikali -1 agar -x2 menjadi positif<br>x2 + 3x - 2 = 0<br>\u00a0tidak ketemu jawabannya<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "f(2-3x) = 3x + 4<br>f(2-3x) = -(-3x+2)+6<br>f(2-3x) = -(2-3x)+6<br>f(x) = -x+6<br><br>f(x+2) = x^2 + 4x<br>f(x+2) = x^2 + 4x + 4 - 4<br>f(x+2) = (x+2)^2 -4<br><span>f(x) \u00a0 \u00a0 = x^2 -4<br></span><br>dari kak reanind nih",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "salah-satu-akar-dari-x2-9x7r-10-adalah-tiga-kurangnya-dari-du-173",
+            "question": "salah satu akar dari x2-9x+(7r-1)=0 adalah tiga kurangnya dari dua kali akar yang lain . tentukan nilai r !\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]x^2-9x+(7r-1)=0;misal\\ akar-akarnya\\ x_1\\ dan\\ x_2\\\\\nx_1=2x_2-3\\\\\nx_1+x_2=\\frac{-(-9)}{1}=9\\\\\n2x_2-3+x_2=9\\\\\n3x_2=12\\\\\nx_2=4\\\\\\\\\nx_1x_2=\\frac{7r-1}{1}\\\\\n(2x_2-3)x_2=7r-1\\\\\n(2(4)-3)(4)=7r-1\\\\\n20=7r-1\\\\\n7r=21\\\\\nr=3[/tex]",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

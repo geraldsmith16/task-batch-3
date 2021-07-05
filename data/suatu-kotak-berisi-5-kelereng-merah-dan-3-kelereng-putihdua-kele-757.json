@@ -1,0 +1,136 @@
+{
+    "question": "suatu kotak berisi 5 kelereng merah dan 3 kelereng putih.dua kelereng di ambil satu persatu tanpa pengembalian kelereng pertama kedalam kotak.peluang terambilnya kelereng pertama\u00a0dan kedua berwarna merah adalah?",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "klu ndasalh 1/4<br><br>maaf klau slahhhh<br>",
+            "attachments": []
+        },
+        {
+            "answer": "5\u00d73= 15<br>15:5 = 3<br>5= ADALAH kelereng pertama berwarna merah<br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "diketahui-persamaan-kuadrat-x2-2kx-3k-2-0-a-tentukan-dis-604",
+            "question": "Diketahui persamaan kuadrat x\u00b2 - 2kx + 3k -2 = 0    a. Tentukan diskriminannya\r\nb. Tentukan nilai k agar persamaan kuadrat tersebut memiliki\r\n\u00a0 1) dua akar real berbeda\r\n\u00a0 2) dua akar real sama\r\n\u00a0 3) dua akar tidak real",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]x^2-2kx+3k-2=0\\\\ D=b^2-4ac=(-2k)^2-4(1)(3k-2)\\\\ D=4k^2-12k+8\\\\ D=4(k^2-3+2)\\\\ D=4(k-1)(k-2)\\\\\\\\ 1)\\ 2\\ akar\\ real\\ berbeda\\ (D&gt;0)\\\\ 4(k-1)(k-2)&gt;0\\\\ (k-1)(k-2)&gt;0\\\\ k&lt;1\\ atau\\ k&gt;2\\\\\\\\ 2)\\ 2\\ akar\\ real\\ kembar\\ (D=0)\\\\ 4(k-1)(k-2)=0\\\\ (k-1)(k-2)=0\\\\ k=1\\ atau\\ k=2\\\\\\\\ 3)\\ 2\\ akar\\ imajiner\\ D(&lt;0)\\\\ 4(k-1)(k-2)&lt;0\\\\ (k-1)(k-2)&lt;0\\\\ 1&lt;k&lt;2 [/tex]",
+                    "attachments": []
+                },
+                {
+                    "answer": "b^2-4.a.c=0<br>(-2k)^2-4.1.(3k-2)=0<br>4k^2-12k+8=0<br>maka, difaktorkan menjadi<br>(k-1)(4k-8)<br>maka bil. diskriminannya adalah...<br>1 atau 2<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "deskripsi-tentang-konsep-dasar-sudut-347",
+            "question": "Deskripsi tentang konsep dasar sudut?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "sudut adalah titik yang dibentuk oleh 2 garis yang bersinggungan atau berpotongan",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "seorang-pengusaha-kaya-memiliki-500-botol-jus-tapi-diketahui-ter-402",
+            "question": "Seorang pengusaha kaya memiliki 500 botol jus. Tapi diketahui terdapat 1 botol jus yang beracun di antara 500 botol jus tersebut. Jika terminum bisa menyebabkan kematian dalam waktu kurang lebih 24 jam.    Seorang cendekiawan bernama joko diperintah untuk menemukan 1 botol jus beracun tersebut. joko membuat strategi. Dia akan mengambil sampel jus-jus tersebut dan mencobanya kepada beberapa ekor tikus. Setelah itu tikus-tikus itu dibiarkan dalam 24 jam dalam kurungan untuk melihat reaksinya.\u00a0\r\n\r\nBerapakah tikus minimal yang dibutuhkan joko? Dan bagaimana strateginya?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "sekitar 300 - 500 ekor tikus",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebanyak-18-gram-glukosa-dibakar-dengan-oksigen-menghasilkan-264-772",
+            "question": "Sebanyak 18 gram glukosa dibakar dengan oksigen menghasilkan 26,4 gram gas karbondioksida dan 10,8 gram uap air. Hitunglah berapa gram oksigen yang diperlukan pada pembakaran tersebut?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "(buat dulu reaksinya)<br>jumlah reaksi = jumlah produk<br>18 gr + O2 = 26,4 + 10,8<br>18 gr + O2 = 37,2<br>O2 = 19,2 gr<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bagaimana-cara-mencari-invers-dan-determinan-dari-matrik-berordo-222",
+            "question": "Bagaimana cara mencari invers dan determinan dari matrik berordo 3x3",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "semuanga di kali antara kolom dan baris,,, kalo kolom pertama ya di kali baris pertama,,,dan seterusyaa<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "misal matriks A<br>cara nyari inversnya yaa pertama cari kofaktor A terus cari kominor A lalu cari Adj A nya,. Cara nyari Adj nyaa itu bentuk transpose dari kominor A .<br>ketemuu deeh A invers = ( 1 / det A ) x Adj A<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-hp-dari-pertidaksamaan-di-bawa-ini-x-r-1-3x-41-776",
+            "question": "Tentukan HP dari pertidaksamaan di bawa ini (x \u2208 R)\r\n1. 3X-4\u226516+8X",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "3x-4\u00a0<span>\u2265 16+8x<br>3x-8x\u00a0</span><span>\u226516+4<br></span>-5x\u00a0<span>\u2265 20<br></span><span>5x\u00a0<u>&lt;</u> -20<br>x\u00a0<u>&lt;</u>-4<br><br>{x| x<u>&lt;</u>-4, x: R}<br><br></span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suku-suku-barisan-geometri-tak-hingga-adalah-positif-jumlah-u1-550",
+            "question": "Suku suku barisan geometri tak hingga adalah positif ,jumlah u1 + u2 =60,dan u3 + u4 =15,tentukan jumlah suku barisan itu , plissss",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "U1+U2=60\u21d2a+ar=60<br>U3+U4=15\u21d2ar\u00b2+ar\u00b3=15<br><u>a+ar=60</u><br>ar\u00b2+ar\u00b3=15<br><u>a+ar\u00a0\u00a0 =60</u> (di coret a+ar)<br>r\u00b2(a+ar)=15<br>1/r\u00b2=4<br>r=1/2<br>nilai a:<br>a+ar=60\u21d4a+1/a=60<br>\u21d43/2 a=60<br>\u21d4a=40<br>untuk deret tak hingga -1&lt;r&lt;1 maka <br>Sn=a/1-r=40/1-0,5=80<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "x4-3x3-5x2x-6-x25x-2-917",
+            "question": "(x4-3x3- 5x2+x-6)\r\n : ( x2+5x-2)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "hasil pembagiannya x= -16648 dan x=42112<br>x4-3x3-5x+x-6 ;x2+5x-2<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "inilah-triple-phytagoras-tadi-ada-yg-request-271",
+            "question": "Inilah \"TRIPLE PHYTAGORAS\"..\r\n#tadi ada yg request",
+            "attachments": [
+                "question-attachments/inilah-triple-phytagoras-tadi-ada-yg-request-271-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "tq bro...........................<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "x-pangkat-2-4-jika-dan-hanya-jika-x2-atau-x-2-x-1-2-jika-dan-817",
+            "question": "x pangkat 2 =4 jika dan hanya jika x=2 atau x=-2? x-1 =2 jika dan hanya jika 2x+1=5? x pangkat 2 &lt; 4 jika dan hanya jika x&lt;2? -2&lt;x&lt;2 jika dan hanya jika x pangkat 2 =4???",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]x^2=4 \\longleftrightarrow x=2\\ atau\\ x=-2\\ (benar)\\\\ x-1=2 \\longleftrightarrow 2x+1=5\\ (salah)\\\\ x^2&lt;4 \\longleftrightarrow x&lt;2\\ (benar)\\\\ -2&lt;x&lt;2 \\longleftrightarrow x^2=4\\ (salah)[/tex]",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

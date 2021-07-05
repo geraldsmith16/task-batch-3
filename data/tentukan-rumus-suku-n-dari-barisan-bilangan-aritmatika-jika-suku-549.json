@@ -1,0 +1,142 @@
+{
+    "question": "tentukan rumus suku n dari barisan bilangan aritmatika jika suku ke delapan sama dengan 18 dan suku ke lima belas sama dengan 46",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "U8 = 18<br>U15 = 46<br>Un?<br>Un = a+(n-1)b<br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "1-2-3-222",
+            "question": "1.     2. \r\n3.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "x+3 nya di misalkan u=x+3 du=1dx; dx=du<br>u^3du=u^4/4+c <br>(x+3)^4/4+c<br>yg lainnya juga sama<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "[tex]\\int (x+3)^4dx=\\int (x+3)^4\\frac{d(x+3)}{1)\\\\\n=\\int (x+3)^4d(x+3)\\\\\n=\\frac{1}{4+1}(x+3)^{4+1}+C\\\\\n=\\frac{1}{5}(x+3)^{5}+C\\\\\\\\\n\\int (2x+5)^3dx=\\int (2x+5)^3\\frac{d(2x+5)}{2}\\\\\n=\\frac{1}{2}\\int (2x+5)^3d(2x+5)\\\\\n=\\frac{\\frac{1}{2}}{3+1}(2x+5)^{3+1}\\\\\n\\int (2x+5)^3dx=\\frac{1}{8}(2x+5)^4\\\\\\\\\n=\\int (1-2x)^5\\frac{d(1-2x)}{-2}\\\\\n=\\frac{1}{-2}\\int (1-2x)^5d(1-2x)\\\\\n=-\\frac{1}{12}\\int (1-2x)^6[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-dibantu-jika-fx-3x-4-dan-fb-26-maka-nilai-134",
+            "question": "Tolong dibantu :) \u00a0 jika f(x) = 3x - 4 dan f(b) = 26, maka nilai b + 2 adalah.... please bantu,..\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "f (x) = 3x-4<br>f (b) = 26<br><br>f(b) = 3.(b)-4= 26<br>\u00a0 \u00a0 \u00a0= 3b = 30<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0b = 10<br><br><br><br>b=2 = 10 =2 =12",
+                    "attachments": []
+                },
+                {
+                    "answer": "f(x) = 3x - 4<br><span>f(b) = 26<br><br>f(b) =&gt; 3x - 4 = 26<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 3x\u00a0 \u00a0\u00a0 = 26 + 4<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 3x\u00a0\u00a0 = 30<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 x\u00a0 \u00a0 = 30/3 <br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 x = 10<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0  b\u00a0 \u00a0  = 10<br><br></span><br><span><span>b + 2 = </span>10 + 2 = 12<br></span><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-f-r-r-dengan-fx-invers-fungsi-fx-adalah-163",
+            "question": "diketahui f : R\u00a0\u21d2 R dengan f(x) =\u00a0 invers fungsi f(x) adalah  =",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]f(x)=\\frac{x+1}{2x-4}\\\\ (2x-4)(f(x))=x+1\\\\ 2xf(x)-4f(x)=x+1\\\\ 2xf(x)-x=4f(x)+1\\\\ x(2f(x)-1)=4f(x)+1\\\\ x=\\frac{4f(x)+1}{2f(x)-1}\\\\ nyatakan\\ sebagai\\ f^{-1}(x)\\\\ f^{-1}(x)=\\frac{4x+1}{2x-1};syarat:x \\neq \\frac{1}{2}[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "penyelesaian-34x-5lt11-444",
+            "question": "Penyelesaian 3\u2264(4x-5)&lt;11",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>3\u2264(4x-5)&lt;11=<br></span>2 \u2264x&lt;4 sorry, if the fals answer<br><br><br><br><br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "[tex]3  \\leq  4x-5&lt;11\\\\\n 3+5 \\leq 4x-5+5&lt;11+5\\\\\n8 \\leq 4x&lt;16\\\\\n\\frac{8}{4} \\leq \\frac{4x}{4}&lt;\\frac{16}{4}\\\\\n2 \\leq x&lt;4[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "5-sin-a-cos-a-4-sin-a-3-cos-a-tentukan-nilai-a-dengan-kis-323",
+            "question": "5 (sin A - cos A) = 4 sin A - 3 cos A\r\n\r\nTentukan nilai A dengan kisaran 0-360 derajat",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "5(sin A - cos A) = 4 sin A -3 cos A<br>5 sin A - 5 cos A = 4 sin A - 3 cos A<br>2 cos A = sin A<br>A = 2 (\u03c0n + tan^-1(1/2(-1-\u221a5)))<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dik-fx12-x22-dan-gx-x10-fungsi-komposisi-f-lingkaran-199",
+            "question": "Dik: f(x)=1/2 x2+2 dan g(x) = x+10 fungsi komposisi (f lingkaran g) (x)=..........................",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]f o g(x) =  \\frac{1}{2} ( x^{2} +20x+100)+2=   \\frac{1}{2}x^{2} +10x+50+2 \\\\  \\\\ \\frac{1}{2}x^{2} +10x+52[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "rasionalkan-bentuk-pecahan-a-25-3-431",
+            "question": "Rasionalkan bentuk pecahan\u00a0    a.\u00a0 \u00a0 2\u221a5 \u00a0 \u00a0\r\n \u00a0 \u00a0\u221a3 +\u00a0\u221a5\r\n\r\nBeri penjelasannya yaa. Dan LENGKAP Juga :)\r\nyang Lengkap\u00a0bintang 5.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "ini namnya persekutuan sekawanan.Jadi kalo ypenyebut minus,ntar dikalikan dengan yang plus.Dan sebaliknya<br><br>2\u221a5 per(/) \u221a3+\u221a5 dikali(*)\u221a3-\u221a5 per(/) \u221a3-\u221a5 = 2\u221a15-2\u221a25 per(/) 3-5=2\u221a15-2\u221a25 per(/) -2<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "\\frac{2V5}{V3+V5} = \\frac{2V5}{V3+V5} \\frac{V3-V5}{V3-V5 }=\n \\frac{2V5(V3-V5)}{3-5}  =\u00a0V5(V3-V5)",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentang-konjungsi-dik-pxx3-x0-qx-8-9lt0-dit-tentu-592",
+            "question": "Tentang konjungsi    dik : p(x)=x\u00b3-x=0 ; q(x)= 8-9&lt;0\r\ndit : tentukan nilai x agar p\u2227q bernilai benar dan bernilai salah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "di cari dulu persamaannnya mbak \"D<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-suku-pertama-beda-dan-u20-jika-u810-dan-u1226-395",
+            "question": "Tentukan suku pertama, beda, dan U20. jika U8=10 dan U12=26",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "beda = 26 - 10 per 12 - 8 = 16 per 4 = 4.<br>suku pertama = 10-4-4-4-4-4-4-4 = -18<br>semoga membantu :))<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "buatlah-sketsa-grafik-fungsi-kuadrat-y-x2-4x-12-langkah2-699",
+            "question": "Buatlah sketsa grafik fungsi kuadrat\u00a0    y= -x\u00b2 - 4x + 12\r\nlangkah2 langkah mencari titik potong dan titik puncak\u00a0saja..nanti saya yang mengambar..minta tolong plissss^^",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1. nyari titik puncak, <br><span>y= -x\u00b2 - 4x + 12<br>untuk mencari titik puncak maka, y&#039;=0<br>y&#039;=</span><span> -2x - 4<br>-2x - 4=0<br>x= -2<br>(-2,16) titik puncak<br><br>2. mencari titik potong</span><br><span>y= -x\u00b2 - 4x + 12</span><br>(x + 6)(-x + 2)<br>x=-6 V x=-2<br><br>3. membuat tabel titik perpotongan<br>x -6 -5\u00a0 -4\u00a0\u00a0 -3\u00a0\u00a0\u00a0 -2\u00a0\u00a0 -1\u00a0\u00a0\u00a0 0\u00a0\u00a0 1\u00a0 2<br>y\u00a0 0\u00a0 7\u00a0 12\u00a0 15\u00a0\u00a0 16\u00a0 -15\u00a0 12\u00a0 7\u00a0 0<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "kalo titik puncak bukannya tinggal ( Xp , Yp ) = ( -b / 2a , D / -4a ) ?<br>dengan D = b kuadrat - 4ac = (-4)^2 - 4 (-1) 12 = 16+48 = 64<br>jadi puncak ( -2, 16 )<br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

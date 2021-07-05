@@ -1,0 +1,142 @@
+{
+    "question": "Panjang jari-jari sebuah lingkaran 8 cm. Jika panjang jari-jari lingkaran kedua 1 1/2 kali jari-jari lingkaran pertama, hitunglah perbedaan luas kedua lingkaran tersebut dengan phi = 3,14",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "luas lingkaran 1 = phi r*2 = 3,14 x 64= 200,96 \u00a0 \u00a0r lingkaran 2 = 3/2 kali 8 = 12<br>luas lingkaran 2 = 3,14\u00a0x 144 = 452,16<br>jadi perbedaannya = L LINGK 1 - L LINGK 2 =\u00a0",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "4b-94b-9-termasuk-kalimat-tertutupterbuka-tolong-dijawab-ya-435",
+            "question": "4b-9=4b-9 termasuk kalimat tertutup/terbuka?\r\nTolong dijawab ya :)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "kalau perintahnya untuk membuktikan pernyataan sih udh cukup sampai segitu aja",
+                    "attachments": []
+                },
+                {
+                    "answer": "Kalimat terbuka..\nSoalnya belum diketahui nilai kebenarannya..",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "seorang-ayah-berumur-28-tahunketika-anaknya-lahirberaakah-umur-773",
+            "question": "Seorang ayah berumur 28 tahun,ketika anaknya lahir.Beraakah umur anak itu ketika jumlah umur mereka 48 tahun?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "ketika ayahnya berumur 48 tahun,anaknya berumur 20 tahun<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "x=umur ayah<br>y= umur anak <br>x=48<br>x-y=28<br>(48)-y=28<br>y=48-28=20<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pada-peta-yang-berskala-1-1500000-terdapat-gambar-hutan-yang-212",
+            "question": "pada peta yang berskala 1 : 1.500.000 terdapat gambar hutan yang berbentuk persegi panjang 12 cm dan lebar 8 cm . luas hutan sebenarnya",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1440 KM<br>Sorry kalo salah ya",
+                    "attachments": []
+                },
+                {
+                    "answer": "1.500.000:96=15625 cm<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0=0,15625",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jumlah-umur-fani-dan-rian-adalah-36-tahunsedangkan-perbandingan-697",
+            "question": "jumlah umur fani dan rian adalah 36 tahun,sedangkan perbandingan umur fani terhadap umur rian adalah 4:5 umur rian adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "perbandingan = 4:5<br>4+5= 9 = 36<br>1= 36 : 9 = 4<br>perbandingan umur rian = 5<br>maka umur rian adalah 4.5 = 20",
+                    "attachments": []
+                },
+                {
+                    "answer": "misal fani = x, dan rian = y.<br><br>fani + rian = 36 menjadi x + y = 36<br>fani/rian = 4/5 menjadi x/y = 4/5 maka, x = 4/5 y ( masukan ke persamaan x + y = 36)<br><br>menjadi : 4/5 y + y = 36<br>9/5 y = 36<br>y = 36*5 / 9<br>y= 20<br><br>jadi umur rian adalah 20<br>semoga membantu :)<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pola-bilangan-ganjil-bentuk-umum-un-an-1b-tentukan-suku-n-862",
+            "question": "Pola bilangan ganjil\u00a0    bentuk umum Un = a+(n-1)b\r\n\r\ntentukan suku n:\r\n1) 1,4,8,13,19,....\r\n\r\n*jwbnnya brsrta rumusnya ya?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "itu pake barisan aritmatika tingkat 2 / ordo 2\u00a0<br>Un = ( x /2 . bil asli . bil cacah ) + C\u00a0<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-sebuah-himpunan-semesta-untuk-himpunan-berikut-ini-1-ab-679",
+            "question": "Tentukan sebuah himpunan semesta untuk himpunan berikut ini 1 a,b,c,d,e \u00a02 ( 3,5,7,11 ) 3 ( 2,4,6,8,10 )",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<strong><em>1.S={Himpunan huruf abjad}</em></strong><br><strong><em>2.S={Himpunan Bilangan prima}</em></strong><br><strong><em>3.S={Himpunan Bilangan genap}</em></strong>",
+                    "attachments": []
+                },
+                {
+                    "answer": "S = {a,b,c,d,e,2,3,4,5,6,7,8,10,11}",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-keliling-persegi-panjang-205-cm-dan-panjangnya-5cm-lebihnya-d-155",
+            "question": "1. keliling persegi panjang= 205 cm dan panjangnya 5cm lebihnya dari lebarnya. \u00a0 \u00a0a) jika lebarnya = x \u00a0 \u00a0 \u00a0 \u00a0 buatlah kalimat terbuka dalam persamaan \u00a0 \u00a0b)tentukan panjang, lebar, dan luas persegi panjang tersebut \u00a0 2. Dua buah bilangan berselisih 35, jika 2 kali bilangan yang besar dikurangi bilangan yang kecil adalah 185, tentukan kedua bilangan tersebut.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "A=bilangan yang lebih besar, B=bilangan yang lebih kecil<br>2A-B=185<br>A-B=35<br>Dieleminasi<br>maka A=150 dan B=115<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "luas-lingkaran-pertama-80-cm2-hitunglah-a-luas-lingkaran-k-196",
+            "question": "Luas lingkaran pertama = 80 cm^2. Hitunglah : A) luas lingkaran kedua yang panjang jari-jarinya 3 kali panjang jari-jari lingkaran pertama. B) luas lingkaran ketiga yang panjang jari-jarinya 1/4 kali jari-jari lingkaran pertama.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "80=3,14.r^2<br>r^2=80/3,14 =25,47<br>r= akar 25,47 ..krn ga ada klakulator.. anggap aja 25..r=5\u00a0<br>luas 3x jari\" mula.. 3 x 5 =15..\u00a0<br>L= 3,14.15.15 =706,5<br><br>1/4 x 5 = 1.25\u00a0<br>L= 3,14 . 1,25 . 1,25 =4.9",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "harga-sebuah-topi-lebih-murah-rp5000-dari-sebuah-ikat-pinggang-469",
+            "question": "harga sebuah topi lebih murah rp.5000 dari sebuah ikat pinggang. harga 3 topi &amp; 2 ikat pinggang rp.45000 (misalkan harga sebuah ikat pinggang x rupiah)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1 buah topi= 4000<br>1 buah ikat pinggang= 16500<br>\u00a0<br>3 buah topi= 4000\u00d73= 12000<br>2 buah ikat pinggang= 16500\u00d72=33000<br>33000+12000=45000<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "siapa-penemu-lingkaran-317",
+            "question": "Siapa penemu lingkaran ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span><span>\u00a0</span><span>Zu Chongzhi<br><br>maaf kalau salah :)</span></span>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

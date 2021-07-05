@@ -1,0 +1,130 @@
+{
+    "question": "dalam sebuah kelas terdapat 48 anak ,anak yang gemar matematika 35 anak ,yang gemar fisiika 40 anak dan yang gemar kedua-duanya 30 anak .berapa anak yang tidak gemar matematika fiisika",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "48 - ( 35+40-30) = 48 - 45 = 3<br>Jadi ada 3 orang yang tidak gemar matematika dan fisika.",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "dengan-x-anggota-a-12310-tentukan-himpunan-penyel-988",
+            "question": "Dengan X anggota A = {1,2,3,...,...,10} .Tentukan himpunan penyelesaian dari setiap pertidak samaan berikut:    a.16-X &lt; X-2 =",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "16 - x &lt; x-2<br>-2x &lt; -18<br>2x &gt; 18<br>x &gt; 9<br><br>HP = {10}",
+                    "attachments": []
+                },
+                {
+                    "answer": "16-X&lt;X-2=<br>16-1&lt;-1=salah<br>16-2&lt;0=salah<br>16-3&lt;1=salah<br>16-4&lt;2=salah<br>16-5&lt;3=salah<br>16-6&lt;4=salah<br>16-7&lt;5=salah<br>16-8&lt;6=salah<br>16-9&lt;7=salah<br>16-10&lt;8=BEnar<br><br><br><br><br><br><br><br><br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "himpunan-penyelesaian-dari-8-10-p-708",
+            "question": "Himpunan penyelesaian dari 8\u00a0=10\u00a0-\u00a0p",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "kalau yg ditanyakan P<br>p =10-8<br>\u00a0\u00a0 =2<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "8 =10 - p<br>8--10=-p<br>\u00a0-2 \u00a0 = -p<br>-2/-1=p<br>\u00a0 2 \u00a0=p",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-mobil-memerlukan-bahan-bakar-12-liter-untuk-menempuh-jarak-451",
+            "question": "sebuah mobil memerlukan bahan bakar 12 liter untuk menempuh jarak 120 km dengan kondisi mendatar 84 km dan sisanya menanjak. pada saat menanjak bahan bakar yang diperlukan 2 kali lipat\u00a0daripada jalan mendatar. jika suatu ketika mobil tersebut menempuh jarak 312 km dengan kondisi jalan mendatar saja,maka\u00a0banyak bahan bakar yang diperlukan?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "menanjak = 120 - 84 = 36 km<br><br>jika liter\u00a0menanjak = 2\u00a0x liter untuk\u00a0mendatar<br>maka<br>84 + 36(2) = 12 liter<br>84 + 72 = 12 liter<br>12 liter = 156 km (mendatar)<br><br>jika sekarang jaraknya menjadi 312\u00a0km mendatar saja, maka<br>12 x 2 = 24 liter",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bentuk-sederhana-dari-397-adalah-tolong-bantu-ya-pake-cara-m-542",
+            "question": "Bentuk sederhana dari 3/9\u221a7 adalah? tolong bantu ya pake cara mksh",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<u>\u00a0 3\u00a0 </u>\u00a0 \u00d7\u00a0 \u221a7<u></u><br>9<u></u>\u221a7\u00a0\u00a0 \u00d7\u00a0 \u221a7<br><br><u>3\u221a7\u00a0 </u><br>9 \u00d77<br><br><u>\u221a7</u>\u00a0  =\u00a0<u>  1\u00a0 </u>\u221a7\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 <br>21\u00a0 \u00a0 \u00a0  21<br><br><br>maksud soal berikut nya tu ?<br><u>6\u221a7<br></u>\ufeff\u00a0 3<u><br></u>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "perbandingan-umur-anisanidan-endang-adalah-235jika-seluruh-u-111",
+            "question": "perbandingan umur ani,sani,dan endang adalah 2:3:5,jika seluruh umur sani dan ani adalah 6 tahun,maka umur endang adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "ani = 2<br>sani = 3<br>endang = 5<br><br>2 + 3 + 5 = 10<br>[tex] \\frac{5}{10} [/tex] x 6 = 3<br><br>jadi, jawabannya adalah 3 tahun",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dik-rita-mempunya-pita-sepanjang-325-cm-diberikan-kep-926",
+            "question": "Dik: rita mempunya pita sepanjang 325 cm    \u00a0\u00a0 \u00a0 \u00a0 diberikan kepada dina 9 dm dan ima 570 mm\r\ndit; berapa cm sisa pita rini?\r\n\r\npakek penyelesaian yaaa",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "9dm = 90cm. 570mm = 57cm. 325 - 90 - 57 = 178",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-ubahlah-masalah-nyata-berikut-ke-dalam-bentuk-pertidaksaman-li-426",
+            "question": "1. Ubahlah masalah nyata berikut ke dalam bentuk pertidaksaman linear satu variabel.    a) Sebuah bus dapat mengangkut tidak kurang dari enampuluh orang penumpang.\r\nb) Jarak rumah Beni ke sekolah lebih dari seratus meter.\r\nc) Penghasilan ibu Monika tidak lebih dari dua juta rupiah setiap bulannya.\r\nd) Sebuah pesawat berada diketinggian tidak kurang dari tiga ribu kaki di atas permukaan laut.\r\ne) Kecepatan Udin berkendara tidak lebih dari 50 km/jam.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "coba membantu tapi maaf kalo salah ya.. :)<br>a)\u00a0x&gt;60<br>b) x&gt;100<br>c) x&lt;2.000.000<br>d) x&lt;50",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "ke-dalam-sebuah-kaleng-akan-dimasukkan-5o-keping-uang-logam-yang-759",
+            "question": "ke dalam sebuah kaleng akan dimasukkan 5o keping uang logam yang terdiri atas uang\u00a0Rp200,00-an\u00a0dan\u00a0Rp500,00-an. Agar nilai uang dalam kaleng paling sedikit Rp16.000,00, banyak uang\u00a0Rp200,00-an adalah...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Rp.500 koin = 20 koin<br>Rp.200 koin = 30 koin<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "ada-dua-buah-kubus-vol-kubus1-8-x-dari-vol-kubus-2-jika-panja-645",
+            "question": "Ada dua buah kubus. Vol kubus1 = 8 x dari Vol kubus 2. Jika panjang sisi kubus 1 = y x p kubus 2, maka berapa y ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Dik :<br>V1 = 8 V2<br>p1 = y p2<br><br>Dit : y = ?<br>Jawab :<br>V1 = 8 x V2<br>(p1)pangkat 3 = 8 x (p2)pangkat 3<br>(y x p2)pangkat 3 = 8 x (p2)pangkat 3<br>y pangkat 3 x p2 pangkatt 3 = 8 x p2 pangkat 3<br>y pangkat 3 = 8<br>y = akar pangkat 3 dari 8<br>y = 2<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "34a-4-11ini-ngerjainnya-caranya-gimana-750",
+            "question": "3/4a - 4 = 11,ini ngerjainnya caranya gimana??",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "3/2\u00a0a\u00a0-\u00a04 =11<br>3/2 a =15<br>a=15per 3/2<br>a=15\u00d72per3<br>a=10",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

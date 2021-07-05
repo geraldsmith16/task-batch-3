@@ -1,0 +1,138 @@
+{
+    "question": "Tolong lengkapilah tabel berikut    p , ~p, q , ~q, p&lt;=&gt;q, ~(p&lt;=&gt;q), p^~q, ~p^q, (p^~q) v (~p^q)\r\nB \u00a0 \u00a0S \u00a0B \u00a0 S \u00a0 \u00a0 \u00a0B \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 S \u00a0 \u00a0 S\r\nB \u00a0 \u00a0S \u00a0S \u00a0 B \u00a0 \u00a0 \u00a0S \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 B \u00a0 \u00a0 S\r\nS \u00a0 \u00a0B \u00a0B \u00a0 S \u00a0 \u00a0\u00a0 S \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 S \u00a0 \u00a0 B\r\nS \u00a0 \u00a0B \u00a0S \u00a0 B \u00a0 \u00a0 \u00a0B \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 S \u00a0 \u00a0 S\r\n\r\ntolong lengkapi yang kosong itu ya, saya mohon karena ini penting",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "<span>p , ~p, q , ~q, p&lt;=&gt;q, ~(p&lt;=&gt;q), p^~q, ~p^q, (p^~q) v (~p^q)<br>B \u00a0 \u00a0S \u00a0B \u00a0 S \u00a0 \u00a0 \u00a0B \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0S \u00a0 \u00a0 \u00a0 \u00a0 S \u00a0 \u00a0 S \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 S<br>B \u00a0 \u00a0S \u00a0S \u00a0 B \u00a0 \u00a0 \u00a0S \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0B \u00a0 \u00a0 \u00a0 \u00a0B \u00a0 \u00a0 S \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0B<br>S \u00a0 \u00a0B \u00a0B \u00a0 S \u00a0 \u00a0\u00a0 S \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 B \u00a0 \u00a0 \u00a0 \u00a0 \u00a0S \u00a0 \u00a0 B \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 B<br>S \u00a0 \u00a0B \u00a0S \u00a0 B \u00a0 \u00a0 \u00a0B \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 S \u00a0 \u00a0 \u00a0 \u00a0 \u00a0S \u00a0 \u00a0 S \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 S</span>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "tolong-bantu-saya-ya-suku-suku-barisan-geometri-tak-hingga-ada-754",
+            "question": "Tolong bantu saya ya :)    suku-suku barisan geometri tak hingga adalah positif, jumlah u1+u2=60, dan u3+u4=15,\r\ntentukan jumlah suku barisan itu!\r\nterimakasih (pakai cara ya sobat)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]a+ar=60 \\rightarrow a(1+r)=60\\\\\nar^2+ar^3=15 \\rightarrow ar^2(1+r)=15\\\\\nr^2(a(1+r))=15\\\\\nr^2(60)=15\\\\\nr^2=\\frac{15}{60}\\\\\nr^2=\\frac{1}{4}\\\\\nr=\\frac{1}{2}\\ atau\\ r=-\\frac{1}{2}(TM,\\ karena\\ suku-sukunya\\ positif)\\\\\na(1+r)=60\\\\\na(1+\\frac{1}{2})=60\\\\\na=\\frac{60}{\\frac{3}{2}}\\\\\na=40\\\\\nS_{\\infty}=\\frac{a}{1-r}\\\\\nS_{\\infty}=\\frac{40}{1-\\frac{1}{4}}\\\\\nS_{\\infty}=\\frac{160}{3}[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-3log-2-x-dan-2log-5y-nilai-5log-15-beserta-car-876",
+            "question": "Diketahui\u00a03log 2 = x dan\u00a0\r\n 2log 5=y. Nilai 5log 15 =\r\n\r\n\r\nBeserta caranya ya",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "3log2= x , diubah jadi 2log3=1/x<br>2log5=y<br><br>5log15 = 2log15 / 2log5<br>= 2log 3 x 2log5 / 2log5<br>= 1/x + y / y<br>= ( y + xy /xy) / y<br>= y + xy / y(xy)<br>= y + xy / xy^2<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "persamaan-m-1x2-4x-2m-0-mempunyai-akar-akar-real-tent-796",
+            "question": "Persamaan (m - 1)x\u00b2 + 4x + 2m = 0 mempunyai akar-akar real. Tentukan nilai m yang memenuhi!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "(m - 1)x\u00b2 + 4x + 2 = 0 memunyai akar-akar real <br>syarat : b\u00b2 - 4ac \u2265 0<br>16 - 4.2(m - 1) \u2265 0<br>16 - 8m + 8 \u2265 0 <br>24 - 8m \u2265 0 <br>-8m \u2265 -24 ruas kiri n kanan dikali -1 (jangan lupa tanda \"\u2265\" dibali jadi \"\u2264\")<br>m \u2264 -24/-8<br>m \u2264 3<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "berapa-radian-putaran-sebuah-jarum-panjang-suatu-jam-apabila-berp-617",
+            "question": "Berapa radian putaran sebuah jarum panjang suatu jam apabila berputar selama 54 menit???",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "radian putaran sebuah jarum jam apabila berputar selama 54 menit adalah -22596",
+                    "attachments": []
+                },
+                {
+                    "answer": "radian sama kayak derajat dlm 5 mnt bukan?",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "hasil-penjumlahan-suku-ke-4-dan-suku-ke-8-sebuah-barisan-aritmeti-975",
+            "question": "Hasil penjumlahan suku ke 4 dan suku ke 8 sebuah barisan aritmetika adalah -46. Suku terakhir barisan tersebut adalah 47. Tentukan : A.suku ke 6...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Un = a + (n-1)b<br><br>U\u2084 + U\u2088 = -46<br>(a + 3b) + (a + 7b) = -46<br><strong>2a + 10b = -46 \u00a0</strong>dibagi 2 \u00a0=\u00a0<strong>a + 5b = -23<br><br><br>a+ 5b =\u00a0U</strong>\u2086 = -23<strong><br><br></strong>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suatu-kotak-berisi-5-kelereng-merah-dan-3-kelereng-putihdua-kele-757",
+            "question": "suatu kotak berisi 5 kelereng merah dan 3 kelereng putih.dua kelereng di ambil satu persatu tanpa pengembalian kelereng pertama kedalam kotak.peluang terambilnya kelereng pertama\u00a0dan kedua berwarna merah adalah?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "klu ndasalh 1/4<br><br>maaf klau slahhhh<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "5\u00d73= 15<br>15:5 = 3<br>5= ADALAH kelereng pertama berwarna merah<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dari-5-ahli-bahasa-dan-6-ahli-matematika-dipilih-7-orang-sebagai-713",
+            "question": "dari 5 ahli bahasa dan 6 ahli matematika, dipilih 7 orang sebagai anggota tim ahli dengan tiga diantaranya ahli matematika. banyak cara yang digunakan dalam pemilihan itu ada berapa?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>dari 5 ahli bahasa <br>dan 6 ahli matematika, <br>dipilih 7 orang sebagai anggota tim ahli, dengan 3 diantaranya ahli matematika. banyak cara yang digunakan dalam pemilihan itu ada berapa?<br>-----------------&gt; ans = 4</span>",
+                    "attachments": []
+                },
+                {
+                    "answer": "3|6|5|4 = 360 cara<br>maaf klo ada salah dalam penghitungan dan analisis nya",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "transpos-matriks-m-adalah-tolong-dijelaskan-230",
+            "question": "Transpos matriks M adalah ...\r\ntolong dijelaskan..",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "gol indonesia menang 3gol dari ac milan<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-jumlah-10-suku-pertama-barisan-aritmatika-adalah-1255-473",
+            "question": "diketahui jumlah 10 suku pertama barisan aritmatika adalah 1255, jika bedanya 6. tentukanlah suku pertama dan rumus suku ke-n?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "U1 + U2 +..... + U10 = 10U1 + (1\u00a0+\u00a02\u00a0+ 3 + 4 + 5 + 6 + 7 + 8 + 9)b =1225<br><br>10U1 + 45.6 = 1255<br>10U1 +\u00a0270 = 1255<br>10U1 = 985<br>U1 = 98,5<br><br>Un = U1 + (n-1)b<br>Un = 98,5 + (n-1)6<br>Un = 98,5 + 6n -\u00a06<br>Un = 6n + 92,5",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-suatu-segitiga-siku-siku-dengan-nilai-sinus-salah-satu-124",
+            "question": "diketahui suatu segitiga siku-siku dengan nilai sinus salah satu sudut lancipnya adalah\u221a3/2. tentukanlah nilai cosinus, tangen sudut tersebut.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "cos nya 1/2 <br>tangen nya \u221a3",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span>cos nya 1/2 <br>tangen nya \u221a3</span><br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

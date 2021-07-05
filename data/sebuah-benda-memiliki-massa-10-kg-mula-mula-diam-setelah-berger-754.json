@@ -1,0 +1,134 @@
+{
+    "question": "sebuah benda memiliki massa 10 kg mula-mula diam . setelah bergerak selama 5 s , kecepatannya menjadi 12 m/s. jika benda bergerak lurus berubah beraturan, hitung gaya yang bekerja pada benda itu?",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "F = m* a\u00a0<br><br>a = (v2-v1) / ( t2-t1)<br><br>F = 10 * 12 / 5\u00a0<br>\u00a0 \u00a0= 24 Newton",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "tolong-bantu-aku-jawab-nya-donk-plisss-nihh-soalnya-torsi-yan-978",
+            "question": "Tolong bantu aku jawab nya donk.. plisss    nihh soalnya::\r\nTorsi yang bekerja pada silinder pejal yang massanya 0,5 kg dengan jari-jari 12 cm adalah 3,6 x 10-2. Tentukan percepatan sudut yang dialami silinder tersebut!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "diket : Torsi : 3,6 x 10-2 Nm , M : 0,5 Kg , r : 12cm = 0,12 m<br>jawab : I : 1/2 M.R2<br>I : 1/2 . 0,5 . 0,12^2<br>\u00a0\u00a0 : 3,6 x 10^-3 <br>T = I. percepatan sudut<br>3,6 x 10^-2 = 3,6 x 10^-3 x percepatan sudut<br>percepatan sudut = 3,6 x 10^-2 : 3,6 x 10^-3 =\u00a0 10 rad/s^2 <br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-mengapa-kolam-renang-berwarna-biru-2-mengapa-bulan-ke-541",
+            "question": "1. mengapa kolam renang berwarna\u00a0biru???????    2. mengapa bulan ketika kita berjalan ikut berjalan dan kita berhenti ikut berhenti?????",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1. karena adannya peristiwa pemantulan cahaya di dalam air sehingga warna kolam terlihat biru berbeda halnya saat kita melihat kolam renang pada saat malam hari tanpa cahaya maka kolam tidak akan nampak berwarna biru<br>2. karena adanya relativitas Albert Einsten\u00a0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-cincin-emas-di-masukann-ke-dalam-wadah-nyg-berisi-aircinc-980",
+            "question": "sebuah cincin emas di masukann ke dalam wadah nyg berisi air.cincin emas tersebut mendapat gaya angkat dari air sebesar 0,00196 N.Apabila massa jenis emas 19.300 kg/m\u00b3.massa jenis emas tersebut sebesar...gram",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "dik :<br>F = 0,00196 N<br>p= 19.300 kg/m^3<br>massa emas ..?<br><br>ingat p = m/v ,dimana massa/ volume ,satuan massa adalah kg,sedangkan untuk volume m^3<br><br>maka dapat di simpulkan<br>p = 19300 kg / 1m^3<br>maka massa = 19.300 kg :)\u00a0<br>\u00a0 \u00a0 \u00a0 \u00a0maaf kalau salah pemahaman<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "carilah-literatur-sebanyak-banyaknya-mengenai-cara-untuk-menghema-386",
+            "question": "Carilah literatur sebanyak-banyaknya mengenai cara untuk menghemat energi\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "menggunakan seperlunya saja<br>mematikan lampu/tv jika sudah tdk di gunakan<br>tdk mncuci motor setiap hari<br>mencabut charger jika sudah tdk d gunakan<br>menggunakan energi alternatif sebagai pengganti bahan bakar fosil",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jelaskan-mengapa-suatu-campuran-tidak-murni-dapat-di-pisahkan-den-908",
+            "question": "jelaskan mengapa suatu campuran tidak murni dapat di pisahkan dengan cara fisika, tetapi tidak dapat dipisahkan dengan cara kimia!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "karena perubahan fisikan tidak terbentuk nya zat baru, sedangkan perubahan kiama terbentuk zat baru<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Karena campuran murni tidak tercampur oleh apapun, pemisahan kimia dapat memisahkannya (dari guru kimia)<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-arah-gaya-lorentz-please-nanti-sya-kasih-poin-semoga-959",
+            "question": "Tentukan arah gaya lorentz! please, nanti sya kasih poin^^ semoga kalian dpt tiket surga yahh",
+            "attachments": [
+                "question-attachments/tentukan-arah-gaya-lorentz-please-nanti-sya-kasih-poin-semoga-959-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "F=B.l.V<br><br>F=lorentz\u00a0<br>B=kuat mdn magnet\u00a0<br>l=panjang ....<br>V=tegangan",
+                    "attachments": []
+                },
+                {
+                    "answer": "arahnya gunakan kaidah tangan kanan atau untuk I nya yang jempol untuk arah lilitannya yang 4 jari lain",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "benda-pertama-memiliki-massa-m-dan-kecepatan-v-benda-kedua-m-909",
+            "question": "Benda pertama memiliki massa (m) dan kecepatan (v), benda kedua memiliki massa tiga kali benda pertama dan kecepatan dua kali benda pertama. Tentukanlah perbandingan energi kinetik yang dimiliki benda pertama dan kedua.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "ini jawaban rincinya, masih butuh bantuan?<br>",
+                    "attachments": [
+                        "answer-attachments/benda-pertama-memiliki-massa-m-dan-kecepatan-v-benda-kedua-m-909-1.docx"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-mobil-bermassa-15-ton-melesat-di-jalan-raya-dgn-energi-ki-871",
+            "question": "Sebuah mobil bermassa 1,5 ton melesat di jalan raya dgn energi kinetik 468,75 kilo/joule. Hitunglah kecepatannya ! (km/jam)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "ek=1/2.massa.v\u00b2<br>468,75joule=1/2.1500.v\u00b2<br>\u21d4v\u00b2=468,75\u00f7750<br>\u21d2v\u00b2=0.625<br>\u21d4v=\u221a0.625<br>\u21d4v=0.25<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "rudi-menekan-meja-dengan-gaya-sebesar-05-newton-nilai-05-n-set-490",
+            "question": "Rudi menekan meja dengan gaya sebesar 0,5 newton. Nilai 0,5 n setara dengan ...... dyne.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]1newton=10000 dyne \\\\ 0.5n=0,5.10000 \\\\ =5000 dyne[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "carilah-literatur-sebanyak-banyak-mengenai-cara-untuk-menghemat-e-442",
+            "question": "Carilah literatur sebanyak banyak mengenai cara untuk menghemat energi!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1. menggunakan lampu hemat energi<br>2. membiasakan diri untuk menggunakan listrik seperlunya<br>3. mengefisiensikan pemakaian energi di tempat umum<br>4. mendesain rumah atau bangunan yang hemat energi<br>5. Pemerintah meyediakan fasilitas kendaraan umum massal secara efektif dan efisien.<br>6. mensosialisasikan segala kegiatan yang berhubungan dengan penghematan energi<br>7. melakukan dan mengembangkan penelitian denagn tujuan dapat menemukan sumber energi alternatif<br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

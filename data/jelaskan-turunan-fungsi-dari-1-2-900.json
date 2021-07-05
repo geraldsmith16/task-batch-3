@@ -1,0 +1,138 @@
+{
+    "question": "Jelaskan turunan fungsi dari :\r\n1.\u00a0\r\n2.\u00a0",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "[tex]y=cosec(x)=\\frac{1}{sin(x)}\\\\\ny=(sin(x))^{-1}\\\\\ny&#039;=(-1)(sin(x))^{-1-1}.cos(x).(1)\\\\\ny&#039;=-(sin(x))^{-2}.cos(x)\\\\\ny&#039;=-\\frac{cos(x)}{(sin(x))^2)}\\\\\ny&#039;=-\\frac{cos(x)}{sin(x)}.\\frac{1}{sin(x)}\\\\\ny&#039;=-cot(x).cosec(x)\\\\\\\\\ny=x.sin(3x)\\\\\ny&#039;=(1)sin(3x)+x.cos(3x).(3)\\\\\ny&#039;=sin(3x)+3x.cos(3x)[/tex]",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "sebuah-barisan-aritmetika-mempunyai-suku-ke-7-adalah-20-suku-te-161",
+            "question": "sebuah barisan aritmetika mempunyai suku ke 7 adalah 20., suku terakhir 44, dan jumlah 3 suku pertama adalah 12. suku tengah barisan ini adalah...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "u7=20<br>a+6b=20<br><br>u1+u2+u3=12<br>a+a+b+a+2b=12<br>3a+3b=12<br>a+b=4<br><br>eliminasikan persamaan a+6b=20 dan a+b=4<br>didapat b=[tex] \\frac{16}{5} [/tex]dan a=[tex] \\frac{4}{5} [/tex]<br>Un=44<br>a+(n-1)b=44<br>4/5 + (n-1) 16/5 =44<br>4/5 + 16/5 n - 16/5 =44<br>4/5 n= 44+ 12/5<br>4/5 n =[tex] \\frac{220+12}{5} [/tex]<br>n=58<br><br>yg dicari tengah2 n berarti n:2=58:2=29<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-vektor-p-dan-q-20-dan-1-vektor-p-dan-r-11-dan-2-j-434",
+            "question": "diketahui vektor p dan q 2,0, dan 1. vektor p dan r 1,1, dan 2. jika vektor p dan s 1/2 vektor p dan q maka tentukan vektor r dan s?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "vektor 2,1 jika s 1 per 2 2,0 cx :D<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span>Jika vektor p dan q 2,0, dan 1. vektor p dan r 1,1, dan 2.</span><br>maka Vektor S =\u00a0<span> 1 per 22</span><br><br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "garis-ymxn-melalui-titik-16-dan-3-2-maka-nilai-m-dan-n-569",
+            "question": "Garis y=mx+n melalui titik (1,6) dan (-3,-2), maka nilai m dan n berturut-turut adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "m=[tex] \\frac{Y2-Y1}{X2-X1} [/tex]<br>m = [tex] \\frac{-2-6}{-3-1} = \\frac{-8}{-4}=2 [/tex]<br>Y - Y1 = m(X-X1) <br>y - 6 = 2 (x-1)<br>y = 2x - 2 + 6<br>y = 2x + 4 <br><br>mudah mudahan membantu ya! dan jangan lupa istirahat he he <br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "&gt;&gt;\u00a0m=\u00a0<br>&gt;&gt;\u00a0<span>m =\u00a0</span><br><span>&gt;&gt; y\u00a0- y1 = m(x-x1)\u00a0 <br>&gt;&gt;\u00a0</span>y - 6 = 2 (x-1)<br>&gt;&gt;\u00a0y = 2x - 2 + 6<br><span>&gt;&gt;\u00a0y = 2x + 4\u00a0<br>maaf kalo ngelantur habis ngantuk sih</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "3-310-710-34-13-45-34-407",
+            "question": "3 3/10- 7/10=\r\n3/4-1/3=\r\n4/5-3/4=",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "3\u00a0 3/10 - 7/4 = 26/10 = 2\u00a0 6/10 = 2\u00a0 3/5<br>3/4 - 1/3 = 5/12<br>4/5 - 3/4 = 1/20<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suku-ke-5-amp-10-dari-aritmatika-adalah-21-amp-41-tentukan-ju-875",
+            "question": "Suku ke 5 &amp; 10 dari aritmatika adalah 21 &amp; 41 tentukan jumlah 20 suku pertama",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "dik :<br>u5 = 21<br>u10 = 41<br>s20 ?<br><br>u10-u5=41-21=20<br>a+9b-a+4b=20<br>5b=20<br>b= 4<br><br>masukkan ke persamaan :<br>u10 = 41<br>a+9b=41<br>a+9.4=41<br>a+36=41<br>a=41-36<br>a=5<br><br>maka ...<br>s20 = 1/2 n . (2a+(n-1)b)<br>\u00a0 \u00a0 \u00a0 =1/2.20 . (2.5 + (20-1)4)<br>\u00a0 \u00a0 \u00a0 =10 .(10 + (19)4)<br>\u00a0 \u00a0 \u00a0 = 10. ( 10 + 76)<br>\u00a0 \u00a0 \u00a0 =10 . 86 = 860 :)",
+                    "attachments": []
+                },
+                {
+                    "answer": "U5 = 21<br>21=a+ (5-1)b =&gt; 21=a+4b /9 \u00a0=&gt; \u00a0 189=9a+36b<br>U10= 41<br>41=a+ (10-1)b=&gt;41=a+9b/4 \u00a0 =&gt; \u00a0 164=4a+36b<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 --------------------- \u00a0---<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a025=5a<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a05 \u00a0 =a \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a021=5+4b<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a04=b<br>U1 = a+(1-1)b<br>\u00a0 \u00a0 \u00a0 \u00a05+ 0.4 = 5<br>U2 = 5+ (2-1)b<br>\u00a0 \u00a0 \u00a0 \u00a05 + 4 \u00a0 = 9<br>u3 = 5+ (3-1)b<br>\u00a0 \u00a0 \u00a0 \u00a05+8 \u00a0 \u00a0= 13<br>jumlah 20 suku pertama : sn = n/2 (2a+(n-1)b)<br><br>a = 5<br>b = u2-u1 = 9-5 = 4<br><br>s20 = 20/2 (10+76)<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a010(86)<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 860<br>semoga benar ya",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-peta-berskala-110000000-jarak-kota-jambi-dan-palembang-p-299",
+            "question": "sebuah peta berskala 1:10000000. jarak kota jambi dan palembang pada peta jaraknya 2,4 cm. seorang supir bus berangkat dari kota jambi menuju kota palembang dengan kecepatan rata rata 80 km per jam. selama perjalanannya, ia berhenti istirahat sebanyak 1 kali selama 30 menit. ia tiba di kota palembang pukul 10.30 wib . \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 pertanyaannya: berapa jam bis tu di perjalanan? \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 jawabannya di berikan cara penyelesaiannya",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Jarak = skala \u00d7 jarak pd peta<br>Jarak = 100 \u00d7 2,4<br>Jarak = 240 km<br><br>Waktu = Jarak \u00f7 Kecepatan<br>Waktu = 240 \u00f7 80<br>Waktu = 3 jam<br><br>waktu perjalanan = 3 jam - 30 menit = 2 jam 30 menit<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pada-kubus-abcd-diketahui-panjang-sisi-be48cmtentukan-panjan-128",
+            "question": "Pada kubus ABCD diketahui panjang sisi BE=\u221a48cm.tentukan panjang AB",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]perhatikan\\ segitga\\ ABE\\\\\nmisal\\ panjang\\ AB=AE=s\\\\\ngunakan\\ teorema\\ pythagoras\\\\\nAB^2+AE^2=BE^2\\\\\ns^2+s^2=(\\sqrt{48})^2\\\\\n2s^2=48\\\\\ns^2=24\\\\\ns=AB=\\sqrt{24}\\ atau\\ s=-\\sqrt{24}\\ (TM)[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-lengkapilah-tabel-berikut-p-p-q-q-pltgtq-p-415",
+            "question": "Tolong lengkapilah tabel berikut    p , ~p, q , ~q, p&lt;=&gt;q, ~(p&lt;=&gt;q), p^~q, ~p^q, (p^~q) v (~p^q)\r\nB \u00a0 \u00a0S \u00a0B \u00a0 S \u00a0 \u00a0 \u00a0B \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 S \u00a0 \u00a0 S\r\nB \u00a0 \u00a0S \u00a0S \u00a0 B \u00a0 \u00a0 \u00a0S \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 B \u00a0 \u00a0 S\r\nS \u00a0 \u00a0B \u00a0B \u00a0 S \u00a0 \u00a0\u00a0 S \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 S \u00a0 \u00a0 B\r\nS \u00a0 \u00a0B \u00a0S \u00a0 B \u00a0 \u00a0 \u00a0B \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 S \u00a0 \u00a0 S\r\n\r\ntolong lengkapi yang kosong itu ya, saya mohon karena ini penting",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>p , ~p, q , ~q, p&lt;=&gt;q, ~(p&lt;=&gt;q), p^~q, ~p^q, (p^~q) v (~p^q)<br>B \u00a0 \u00a0S \u00a0B \u00a0 S \u00a0 \u00a0 \u00a0B \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0S \u00a0 \u00a0 \u00a0 \u00a0 S \u00a0 \u00a0 S \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 S<br>B \u00a0 \u00a0S \u00a0S \u00a0 B \u00a0 \u00a0 \u00a0S \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0B \u00a0 \u00a0 \u00a0 \u00a0B \u00a0 \u00a0 S \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0B<br>S \u00a0 \u00a0B \u00a0B \u00a0 S \u00a0 \u00a0\u00a0 S \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 B \u00a0 \u00a0 \u00a0 \u00a0 \u00a0S \u00a0 \u00a0 B \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 B<br>S \u00a0 \u00a0B \u00a0S \u00a0 B \u00a0 \u00a0 \u00a0B \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 S \u00a0 \u00a0 \u00a0 \u00a0 \u00a0S \u00a0 \u00a0 S \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 S</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "x2-54-maka-4x-420",
+            "question": "X/2 = 5/4, maka 4x =",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Resolution:<br>[tex] \\frac{x}{2}=  \\frac{5}{4}  \\\\ 4x=10[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-penyelesaian-dan-himpunan-penyelesaian-dari-x-8-6-153",
+            "question": "Tentukan penyelesaian dan himpunan penyelesaian dari x + 8 = 6",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "x + 8= 6<br>x= 6-8<br>x=-2<br>maaf hanya ini jawaban a ga tw bener ap ga, semoga aj bener ea<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "x+8= 6<br>x= 6-8<br>\u00a0 = -2<br>Kalau persamaan itu hanya ada satu penyelesaian. Jadi, jawabannya -2.<br><br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

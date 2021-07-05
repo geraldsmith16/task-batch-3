@@ -1,0 +1,138 @@
+{
+    "question": "Mohon bantuannya kak..    jika seutas tali dipotong mnjadi 7 bagian .masing masing bagian membentuk bilangan geometri potongan terpendek adalah 6 cm terpanjang adalah 384 cm maka panjang tali sebelum dipotong adalah",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "a=6cm<br>U7=ar^6<br><strong></strong> \u00a0 \u00a0=6r^6=384<br>\u00a0 \u00a0 =r^6=64<br>\u00a0 \u00a0 =r=2<br>S7=a(r^7-1)/r-1 = 6(2^7-1)/2-1= 6(127)/1=762",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "apa-rumus-luas-daerah-dibawah-kurva-481",
+            "question": "Apa rumus luas daerah dibawah kurva?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "tergantung sumbu X dan Y yang diketahui\u00a0<br>dan tergantung bentuk kurvanya",
+                    "attachments": []
+                },
+                {
+                    "answer": "tergantung bentuk kurvanya dan juga sumbu X dan \u00a0Y\u00a0nya",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-peta-berskala-110000000-jarak-kota-jambi-dan-palembang-p-299",
+            "question": "sebuah peta berskala 1:10000000. jarak kota jambi dan palembang pada peta jaraknya 2,4 cm. seorang supir bus berangkat dari kota jambi menuju kota palembang dengan kecepatan rata rata 80 km per jam. selama perjalanannya, ia berhenti istirahat sebanyak 1 kali selama 30 menit. ia tiba di kota palembang pukul 10.30 wib . \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 pertanyaannya: berapa jam bis tu di perjalanan? \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 jawabannya di berikan cara penyelesaiannya",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Jarak = skala \u00d7 jarak pd peta<br>Jarak = 100 \u00d7 2,4<br>Jarak = 240 km<br><br>Waktu = Jarak \u00f7 Kecepatan<br>Waktu = 240 \u00f7 80<br>Waktu = 3 jam<br><br>waktu perjalanan = 3 jam - 30 menit = 2 jam 30 menit<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "berapa-luas-daerah-yang-diarsir-168",
+            "question": "Berapa luas daerah yang diarsir..?",
+            "attachments": [
+                "question-attachments/berapa-luas-daerah-yang-diarsir-168-1.docx"
+            ],
+            "answers": [
+                {
+                    "answer": "setengah lingkaran besar<br>\u21d2 1/2 x \u03c0 x r\u00b2<br>\u00a0 = 1/2 x 22/7 x 7/2 x 7/2<br>\u00a0 = 77/4 = 19,25<br>lingkaran kecil<br>\u21d2 \u03c0 x r\u00b2<br>\u00a0 = 22/7 x 1,4 x 1,4<br>\u00a0 = 6,16<br>luas yang diarsir = 19,25 - 6,16 = 13.09<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "mohon-penjelasan-cara-mengerjakan-nya-terimakasih-482",
+            "question": "Mohon penjelasan cara mengerjakan nya, terimakasih",
+            "attachments": [
+                "question-attachments/mohon-penjelasan-cara-mengerjakan-nya-terimakasih-482-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "insyaallah<br>tapi man soalnya?",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-suatu-segitiga-siku-siku-dengan-nilai-sinus-salah-satu-124",
+            "question": "diketahui suatu segitiga siku-siku dengan nilai sinus salah satu sudut lancipnya adalah\u221a3/2. tentukanlah nilai cosinus, tangen sudut tersebut.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "cos nya 1/2 <br>tangen nya \u221a3",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span>cos nya 1/2 <br>tangen nya \u221a3</span><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dengan-cara-melengkapkan-kuadrat-sempurna-tentukan-akar-akar-pers-430",
+            "question": "Dengan cara melengkapkan kuadrat sempurna tentukan akar-akar persamaan kuadrat berikut : 3xkuadrat-2x-3=0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "\u00a0\u00a01. Pindahkan konstanta ke ruas kanan \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 2. Bagilah kedua ruas dengan\u00a0 dengan a. \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a03. Jika koefisien x yang baru kita sebut b, maka tambah kedua ruas dengan \u00bdb2. \u00a0 \u00a0 \u00a0 \u00a0 <span>4. Ubah bentuk yang ada di ruas kiri menjadi kuadrat sempurna. \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a05. Hilangkan tanda kuadrat di sebelah kiri, sementara ruas kanan menyesuaikan dengan memberikan akar dan tanda \u00b1 di depannya \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a06. Pindahkan konstanta di ruas kiri ke ruas kanan \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 7. dengan memisahkan tanda plus dan minus maka kita peroleh dua nilai x, sehingga penyelesaian persamaan kuadarat sudah kita dapat.\u00a0</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dari-sebuah-kotak-yang-berisi-8-buah-bola-berwarna-merahdan-6-b-423",
+            "question": "Dari sebuah kotak\u00a0 yang berisi 8 buah bola berwarna merahdan 6 buah bola berwarna biru,diambil 3 buah bola berwarna sekaligus secara acak .Peluang terambil 2 buah bola berwarna merah dan 1 buah bola berwarna biru",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "biru,karena 2 bola yang sudah di ambil adalah bewarna merah",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "faktor-dari-688",
+            "question": "Faktor dari\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex] x^{2} +2x-48\n[/tex]<br>(x+8)(x-6)<br>x=-8 x=6<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "(X+8)(X-6)+0..<br>tu dia ....<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-suatu-barisan-aritmetika-136-131-75-127-5-jik-991",
+            "question": "Diketahui suatu barisan aritmetika : 136; 131, 75; 127, 5;... Jika suku ke-n barisan tersebut bernilai nol, n = ...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a= 136<br>b= 131-136= -5<br>Un = a+(n-1)b<br>\u00a00\u00a0 = 136+(n-1)-5<br>\u00a00\u00a0 = 136-5n+5<br>\u00a00\u00a0 =\u00a0 141-5n<br>\u00a05n = 141-0<br>\u00a0 n = 141\u00f75 = 28<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "hasil-dari-7log8-x-2log9-x-3log17-816",
+            "question": "Hasil dari \u2077log8 x\u00a0\u00b2log9 x\u00a0\u00b3log1/7",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "soal itu \u00a0bisa kamu sama dengankan 2.2log3 * -1.3log7 * 3.7log2. sehingga menjadi 2 * -1 * 3 = -6 :)\u00a0<br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

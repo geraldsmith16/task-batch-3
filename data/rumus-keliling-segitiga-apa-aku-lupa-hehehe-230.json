@@ -1,0 +1,148 @@
+{
+    "question": "Rumus keliling segitiga apa ? aku lupa hehehe",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "sisi 1 + sisi 2 + sisi 3\u00a0<br>jadi hanya tinggal menjumlahkan ketiga sisinya saja :)",
+            "attachments": []
+        },
+        {
+            "answer": "keliling =\u00a0sisi + sisi + sisi",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "diketahui-suku-banyak-px-di-bagi-x-2-bersisa-6-dan-dibagi-x-709",
+            "question": "diketahui suku banyak p(x) di bagi (x-2) bersisa -6 dan dibagi (x+2) bersisa 8. tentukan sisa pembagian suku banyak p(x) oleh (x\u00b2-4)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>Dibagi (x-2) sisa -6<br>\ndibagi (x+2) sisa 8</span>\n\n<span><br>Dibagi (x2-4) sisa px+q</span>\n\n<span>(x2-4) = (x-2) (x+2)<br>\u00a0</span><span>(x-2) --&gt;\nf(2)= 2p+q<br>\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 -6 = 2p+q</span>\n\n<br><span>(x+2) --&gt; f(-2)= -2p+q<br>\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 8 = -2p+q</span>\n\n<br>disubtitusikan:\n\n<span>2p+q= -6\u00a0 dengan -2p+q=\n8 mendapat hasil p= -7/2 dan q= 1</span>\n\n<br><span>Jadi sisa pembagian suku banyak p(x) oleh (x2-4)\nadalah px+q= -7/2 <span>x\n+ 1</span></span>\n\n<br><br><br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span><span>Dibagi (x-2) sisa -6<br>\ndibagi (x+2) sisa 8</span>\n\n<span><br>Dibagi (x2-4) sisa px+q</span>\n\n<span>(x2-4) = (x-2) (x+2)<br>\u00a0</span><span>(x-2) --&gt;\nf(2)= 2p+q<br>\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 -6 = 2p+q</span>\n\n<br><span>(x+2) --&gt; f(-2)= -2p+q<br>\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 8 = -2p+q</span>\n\n<br>disubtitusikan:\n\n2p+q= -6\u00a0 dengan -2p+q=\n8 mendapat hasil p= -7/2 dan q= 1\n\n<br><span>\u00a0sisa pembagian suku banyak p(x) oleh (x2-4)\nadalah px+q= -7/2 x\n+ 1</span>\n\n<br></span><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-f-1x-a-fx-12-x-5-831",
+            "question": "Tentukan f-1(x)\r\n\r\n\r\na. f(x) = 1/2 (x + 5 )",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]ini\\ langkahnya\\ dek\\\\\n\\\\\nf(x)=\\frac{x+5}{2}\\\\\\\\\nkalikan\\ dengan\\ 2\\\\\\\\\n2f(x)=x+5\\\\\\\\\nkedua\\ ruas\\ dikurang\\ dengan\\ 5\\\\\\\\\n2f(x)-5=x+5-5\\\\\\\\\n2f(x)-5=x\\\\\\\\\nnyatakan\\ bentuk\\ di atas\\ sebagai\\ f^{-1}(x)\\\\\\\\\nf^{-1}(x)=2f(x)-5[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jelaskan-turunan-fungsi-dari-1-y-sinx-2-y-x2-si-932",
+            "question": "Jelaskan turunan fungsi dari :\r\n1.\u00a0y=\u00a0\u221asinx\r\n2. y=\u00a0x\u00b2\u00a0\u00d7\u00a0sinx",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]y=\\sqrt{sin(x)}\\\\\ny=(sin(x))^{\\frac{1}{2}}\\\\\ny&#039;=\\frac{1}{2}(sin(x))^{\\frac{1}{2}-1}.cos(x).(1)\\\\\ny&#039;=\\frac{1}{2}(sin(x))^{-\\frac{1}{2}}.cos(x)\\\\\ny&#039;=\\frac{cos(x)}{2\\sqrt{sin(x)}}\\\\\\\\\ny=x^2sin(x)\\\\\ny&#039;=2x^{2-1}sin(x)+2x^2.cos(x).(1)\\\\\ny&#039;=2x.sin(x)+x^2.cos(x)\\\\[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apa-rumus-luas-daerah-dibawah-kurva-481",
+            "question": "Apa rumus luas daerah dibawah kurva?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "tergantung sumbu X dan Y yang diketahui\u00a0<br>dan tergantung bentuk kurvanya",
+                    "attachments": []
+                },
+                {
+                    "answer": "tergantung bentuk kurvanya dan juga sumbu X dan \u00a0Y\u00a0nya",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "ditanya-sudut-kol-diketahui-sudut-mon-30-derajat-sudut-kql-60-506",
+            "question": "Ditanya sudut KOL? diketahui sudut MON= 30 derajat, sudut KQL= 60 derajat",
+            "attachments": [
+                "question-attachments/ditanya-sudut-kol-diketahui-sudut-mon-30-derajat-sudut-kql-60-506-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "&lt; KOL = 30 derajat karena bertolak belakang dengan\u00a0 &lt; MON<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "ukuran sudutnya adalah 90 derajat<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "luas-sebidang-tanah-yang-berbentuk-persegi-panjang-adalah-96-m2-968",
+            "question": "luas sebidang tanah yang berbentuk persegi panjang adalah 96 m2. panjang tanah adalah 6 kali lebarnya. tentukan panjang dan lebar tanah tersebut",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "panjang = 6a<br>lebar = a<br>96 = 6a X a<br>96 = 6a\u00b2<br>a\u00b2 = 96/6<br>a\u00b2 = 16<br>a = 4<br>panjang = 6a = 6x4 = 24 cm<br>lebar = a = 4",
+                    "attachments": []
+                },
+                {
+                    "answer": "Dik : L = 96 m2<br>\u00a0\u00a0 \u00a0 \u00a0  p = 6 l<br><br>Dit : p , l .. ?<br>Jwb :<br>L = p x l<br>96 = 6l x l<br>96 = 6 l(kuadrat)<br>96/6 = l kuadrat<br>l = <em><u></u></em>[tex] \\sqrt{16} [/tex]<br>l = 4 m<br><br>p = 6 l<br>p = 6 (4)<br>p = 24 m<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-barisan-aritmetika-dengan-u3-u5-u7-u9-104-nila-151",
+            "question": "Diketahui barisan aritmetika dengan U3 + U5 + U7 + U9 = 104. Nilai U6 adalah..",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>Diketahui barisan aritmetika dengan U\u2083 + U\u2085 + U\u2087 + U\u2089 = 104.</p><p><strong>Barisan Aritmatika</strong> adalah \u00a0suatu barisan dengan selisih antara dua suku yang berurutan selalu tetap.</p><p>Rumus : Un = a + (n - 1)b</p><p><strong>Deret Aritmatika</strong> adalah jumlah suku \u2013 suku barisan aritmatika</p><p>Rumus : Sn = \u00b9/\u2082 n (a + Un)</p><h3>Pembahasan</h3><p><em><strong>Penjelasan dengan langkah-langkah:</strong></em></p><p><strong>Diketahui:</strong></p><p>U\u2083 + U\u2085 + U\u2087 + U\u2089 = 104</p><p><strong>Ditanya:</strong></p><p>Nilai U\u2086 = ... ?</p><p><strong>Jawab:</strong></p><p>Ingat Un = a + (n - 1)b</p><p>U\u2083 = a + (3 - 1)b</p><p> \u00a0 \u00a0 = a + 2b</p><p>U\u2085 = a + (5 - 1)b</p><p> \u00a0 \u00a0 = a + 4b</p><p>U\u2087 = a + (7 - 1)b</p><p> \u00a0 \u00a0 = a + 6b</p><p>U\u2089 = a + (9 - 1)b</p><p> \u00a0 \u00a0 = a + 8b</p><p>U\u2083 + U\u2085 + U\u2087 + U\u2089 = 104</p><p>a + 2b + a + 4b + a + 6b + a + 8b = 104</p><p>4a + 20b = 104</p><p><em><strong>a + 5b = 26</strong></em></p><br><p>Un = a + (n - 1)b</p><p><em><strong>U\u2086 = a + (6 - 1)b</strong></em></p><p><em><strong> \u00a0 \u00a0 = a + 5b</strong></em></p><p><em><strong> \u00a0 \u00a0 = 26</strong></em></p><br><p><u><em><strong>Jadi Nilai U\u2086 adalah 26</strong></em></u></p><br><h3>Pelajari lebih lanjut</h3><p>Bab barisan dan deret aritmatika dapat disimak pula di</p><ul><li>brainly.co.id/tugas/13759951</li><li>brainly.co.id/tugas/4240841</li><li>brainly.co.id/tugas/1509694</li><li>brainly.co.id/tugas/12054249</li></ul><h3>===========================</h3><h3>Detail Jawaban</h3><p><strong>Kelas </strong>: 9</p><p><strong>Mapel </strong>: Matematika</p><p><strong>Kategori </strong>: Barisan dan Deret</p><p><strong>Kode </strong>: 9.2.2</p><br><p><strong>Kata kunci </strong>: barisan aritmatika, deret aritmatika, suku pertama, beda, suku ke-n, jumlah n suku pertama</p><br><br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "maaf-sebelumnya-kali-ini-aku-lagi-ada-masalah-besok-bakal-ada-r-646",
+            "question": "Maaf sebelumnya. kali ini aku lagi ada masalah. besok bakal ada razia jilbab,    jlbab aku masih di loundry dan bukanya siang aku lupa ngambil. gimana caranya biar besok aku bisa sakit (pura-pura sakit) dan ngga ketauan\r\n\r\n\"sekolahku bording school :(",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Pake jilbab orangtua aja , ato minjem temen<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "pukul kepela ke tembok aja kak-_-\" ato pagi2 basahin air ke jidat biar kelihatan berkeringat disangka sakit deh..<br><br>kalau ga pake jilbab gmn emg? jilbab temen yg lain?",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-barisan-aritmetika-jumlah-suku-kedua-dan-keempat-adalah-880",
+            "question": "diketahui barisan aritmetika jumlah suku kedua dan keempat adalah 24 dan jumlah suku ketiga dan kelima adalah 32 suku ke 9 barisan tersebut adalah??",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a=4<br>b=4<br><br>u9=a+8b<br>\u00a0\u00a0  =4+32<br>\u00a0\u00a0 =36<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suatu-suku-banyak-fx-jika-dibagi-x4x-5-mempunyai-sisa-8x-11-d-349",
+            "question": "suatu suku banyak f(x) jika dibagi x^+4x-5 mempunyai sisa 8x-11 dan jika dibagi x^-x-6 mempunyai sisa 5x+6. Hitunglah sisanya jika dibagi x^+2x-15!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]x^2+4x-5=(x+5)(x-1)\\\\\nf(-5)=8(-5)-11=-51\\\\\\\\\nx^2-x-6=(x-3)(x+2)\\\\\nf(3)=5(3)+6=21\\\\\\\\\nx^2+2x-15=(x+5)(x-3)\\\\\nS(x)=mx+n\\\\\nS(-5)=-5m+n=-51\\\\\nS(3)=3m+n=21\\\\\neliminasi\\ kedua\\ pers\\ tsb\\\\\n-8m=-72 \\rightarrow m=9\n3m+n=21 \\rightarrow 3(9)+n=21 \\rightarrow n=-6\\\\\njadi, S(x)=9x-6[/tex]",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

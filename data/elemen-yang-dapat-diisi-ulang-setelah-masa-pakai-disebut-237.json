@@ -1,0 +1,150 @@
+{
+    "question": "Elemen yang dapat diisi ulang setelah masa pakai disebut?",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "elemen basah (akumulator)",
+            "attachments": []
+        },
+        {
+            "answer": "elemen yang dapat diisi ulang adalah akumulator (aki)<br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "sebuah-pengukuran-berat-dipermukaan-bumi-menunjukkan-98-n-jika-pe-826",
+            "question": "Sebuah pengukuran berat dipermukaan Bumi menunjukkan 98 N jika percepatan gravitasinya 9,8 N/Kg. Berapakah pemunjukan neraca pegas jika benda tersebut diukur di permukaan Bulan yang percepatan gravitasinya 1,6 N/Kg?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<u><em><strong>Mapel : IPA Fisika</strong></em></u><br><u><em><strong>Kelas : 8 SMP/VIII SMP</strong></em></u><br><u><em><strong>Bab : Percepatan dan Kecepatan\u00a0</strong></em></u><br><br><u><em><strong>Pembahasan Soal :</strong></em></u><br><span>Sebuah pengukuran berat dipermukaan Bumi menunjukkan 98 N jika percepatan gravitasinya 9,8 N/Kg. Berapakah pemunjukan neraca pegas jika benda tersebut diukur di permukaan Bulan yang percepatan gravitasinya 1,6 N/Kg....<br><br><u><em><strong>Pembahasan Jawaban :</strong></em></u><br></span><u><em><strong>DiKetahui : </strong></em></u><br>w bumi = 9,8 Newton<br>g bumi = 9,8 N/kg<br>g bulan = 1,6 N/Kg<br><br><u><em><strong>DiTanya : </strong></em></u><br>w bulan =...?<br><br><u><em><strong>DiJawab :</strong></em></u><br>Sebelum mencari w bulan. Kita harus mencari m\u00a0<br><u><em><strong>Rumus mencari m\u00a0</strong></em></u><br>Yaitu :<br>m = w bumi : g bumi<br>m = 98 N :\u00a09,8<br>m = 10 kg<br><br><u><em><strong>Rumus mencari w di bulan</strong></em></u><br>Yaitu :<br>w bulan\u00a0= m\u00a0\u00d7 g bulan<br>w bulan = 10 \u00d71,6<br>w bulan = 16 Newton<strong><br></strong><u><em><strong>Jadi, berat benda tersebut ketika di bulan adalah 16 Newton.</strong></em></u><br><br>Semoga Membantu",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "p-6-cm-l-4-cm-t-12-cm-m-240-g-g-10-ms-maka-tekanan-yan-817",
+            "question": "P : 6 cm    l : 4 cm\r\nt : 12 cm\r\nm : 240 g\r\ng : 10 m/s\r\nmaka tekanan yang di alami balok tersebut sebesar. . .",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Rumus ; P= F/ A<br>Dik:<br>m= 240 g\u00a0<br>g = 10 m/s<br>untuk mencari F= m.g<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 =240 x 10= 2400 g m/s<br>A (Luas permukaan dasar balok) berbentuk PESEGI PANJANG\u00a0<br>maka A= pxl<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 6x4<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 24 cm\u00b2=\u00a0<br>maka P (tekanan)= F/A<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 2400/ 24= 100 Pa",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "cara-merubah-celcius-ke-kelvin-yg-lengkap-ya-d-272",
+            "question": "Cara merubah Celcius ke Kelvin ? yg lengkap ya :D",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "5/5 x (suhu) = ....- 273<br>kalau gak salah :)\u00a0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jarak-antar-kota-a-dan-b-adalah-90-km-berapa-waktu-yang-diperluk-790",
+            "question": "jarak antar kota A dan B adalah 90 km. berapa waktu yang diperlukan sebuah truk untuk bergerak dari kota A ke kota B dengan kecepatan 16,67 m/s,pliss dijawab",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "v=s/t\u00a0<br>t= s/v\u00a0<br>16,67m/s = 16,67/1000/1/3600 =60.012 km/jam<br>t=90/60.012 = 1,4997 jam = 1,5jam atau 1 setengah jam",
+                    "attachments": []
+                },
+                {
+                    "answer": "s = 90 km = 90000 m = 9.10^4 m<br>v= 16,67 m/s = 1667.10^-2 m/s<br><br>v = s:t<br>t= s:v =\u00a09.10^4 m :\u00a01667.10^-2 m/s = 5,39 . 10^3 s<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jelaskan-prinsip-kerja-bimetal-sebagai-sensor-suhu-pada-setrika-l-767",
+            "question": "Jelaskan prinsip kerja bimetal sebagai sensor suhu pada setrika listrik!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Bimetal terdiri dari dua lapisan logam (metal) yang memiliki koefisien  \npengembangan sangat berbeda. Pada suhu kamar (normal) keduanya memiliki \npanjang sama. Jika bimetal suhunya naik akan membengkok kearah lapisan  \ndengan koefisien pengembangan lebih kecil dan jika didinginkan akan \nmembengkok kearah yang koefisien pengembangannya lebih besar,<br>\nPada salah satu ujungnya (A) bimetal di keling (direvet) pada bagian \nlogam yang terimbas panas dari heater atau tahanan yang merubah energi \nlistrik menjadi energi panas (pada seterika listrik  atau pemanas \ndispenser. Jika suhu naik ujung yang lain dari bimetal (B) akan \nmembengkok kearah lapisan logam dengan koefisein muai (pengembangan) \nlebih kesil.<br>\nPada ujung B terdapat titik pengumpil yang berguna untuk mengangkat \nterminal  bebas  (C) dari sekaklar listrik yang pada suhu normal \nterhubung dengan terminal (D) sekaklar yang dapat mengatur \n\"kelekatannya\" terhadap terminal C (Biasanya dengan sebuah baut pengatur\n yang dihubungkan dengan knop/piringan yang diberi skala pengatur).<br>\nPada suhu tertentu ujung B akan mengangkat terminal D sehingga skaklar \nterbuka dan menyebabkan  aliran listrik pada pemanas terputus.<br>\nUntuk menghindari timbulnya bunga api dan agar terminal skaklar tak \nmudah hangus/terbakar, terminal skaklar harus dibuat dari logam yang tak\n mudah teroksidasi dan tahan panas (sejenis platina) dan ada mekanik \nyang mengatur agar skalkar terbuka secara mendadak/kejut  (tak \nberangsur).<br>\nTermostat pada kulkas dad AC banyak  yang menggunakan tabung udara dan \nlempeng logam anti karat yang lebih peka terhadap perubahan suhu, bahkan\n kini  banyak yang menggunakan dioda serta perangkat skaklar elektronik.\n Dioda yang sangat kecil ini ditempelkan pada bagian pendinginan, atau \nbagian expanser.<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span>\n<span>\nBimetal\nadalah alat yang terdiri dari dua logam yang berbeda nilai koefisien muai\npanjangnya atau yang berbeda kecepatan pemuaiannya, direkatkan menjadi satu.\nMisalnya bimetal terbuat dari besi dan tembaga sebelum dipanaskan bimetal itu\ndalam keadaan lurus kemudian setelah dipanaskan, bimetal akan melengkung ke\narah logam (besi) yang nilai koefisien muai panjangnya kecil atau lambat\nmemuai. Selanjutnya, apabila bimetal didinginkan akan melengkung ke arah logam\n(tembaga) yang nilai koefisien muai panjangnya besar atau cepat memuai.</span>\n</span>\n\n\n<span>Alat-alat\nteknologi yang menggunakan prinsip bimetal, antara lain termostat, sakelar\notomatis pada setrika, alat pemberitahu kebakaran, dan termometer.</span><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apa-hubungan-global-warming-dengan-penggunaan-energi-278",
+            "question": "Apa hubungan global warming dengan penggunaan energi?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "hubungan nya\u00a0karna penggunaan energi berlebihan akan menyebabkan pemanasan global (global warming)<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "karna kalau kita menggunakan\u00a0energi secara terus menerus akan mengakibatkan pemanasan global {global warming}",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebutir-peluru-bermassa-10-gram-ditembakkan-darisenapan-angin-pe-218",
+            "question": "sebutir peluru bermassa 10 gram ditembakkan darisenapan angin. peluru keluar dari senapan dengan kecepatan 50 m/s\u00b2. tentukan energi kinetik peluru saat keluar dari senapan?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "koreksi sebentar :) supaya ke depannya ga salah lagi,kalau kecepatan satuannya m/s aja ya ka,kalo m/s^2 itu udah percepatan :)<br>oke<br><br>dik :\u00a0<br>m= 10 g diubah ke kg = 10/1000 = 0,01 kg<br>v= 50 m/s\u00a0<br>ek..?<br><br>jwb :<br>ek = 1/2 m.v^2<br>\u00a0 \u00a0 =1/2 . 0,01 kg . (50 m/s)^2= 0,005 . 2500 = 12,5 joule :)",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebutkan-hal-negatif-yang-dapat-timbul-jika-mengonsumsi-lemak-ka-305",
+            "question": "Sebutkan hal negatif yang dapat timbul jika mengonsumsi lemak, karbohidrat,dan protein berlebihan!2. Mengapa makanan menjadi salah satu sumber energi? Jelaskan!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "\u00a0\n\n\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 Lemak merupakan senyawa kimia yang mengandung unsur C,\nH, dan O. Peran lemak adalah menyediakan energi sebesar 9 kalori/gram, melarutkan\nvitamin A, D, E, K, dan menyediakan asam lemak esensial bagi tubuh manusia.\nLemak mulai dianggap berbahaya bagi kesehatan\n\n<span>setelah adanya suatu\npenelitian yang menunjukkan hubungan antara kematian akibat penyakit jantung koroner\ndengan banyaknya konsumsi lemak dan kadar lemak di dalam darah. Penyakit\njantung koroner terjadi bila pembuluh darah tersebut tersumbat. atau menyempit karena endapan lemak yang secara\nbertahap menumpuk di dinding arteri.<br></span>\u00a0<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Fungsi lemak, antara lain:</span>\n<br><span><span>1.\u00a0\u00a0\u00a0\u00a0 </span>Sumber energi ( 1 gram lemak sama dengan 9 kilo\nkalori)</span>\n\n<span><span><br>2.\u00a0\u00a0\u00a0\u00a0 </span>Pelarut vitamin A, D, E dan K</span>\n\n<span><span><br>3.\u00a0\u00a0\u00a0\u00a0 </span>Pelindung organ-organ tubuh yang penting sebagai bantalan-bantalan\nlemak</span>\n<br><span><span>4.\u00a0\u00a0\u00a0\u00a0 </span>Pelindung tubuh dari suhu yang rendah.</span>\n\n<br><br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "gendut<br>protein ga tau<br>gak tau<br>karena makan dan minum sangat penting bagi kehidupan, untuk memperoleh energi!<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-memasak-air-di-daerah-pegunungan-maka-air-akan-mendidih-di-b-787",
+            "question": "Jika memasak air di daerah pegunungan maka air akan mendidih di bawah 100 derajat celcius, jelaskan",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Hal ini dipengaruhi oleh tekanan udara disekitarnya\u00a0<br>t<strong><em>ekanan udara di pegunungan lebih rendah,</em></strong>Tekanan udara dipengaruhi oleh kerapatan udara. Jika\u00a0tekanan udara besar\u00a0maka kerapatan udara menjadi besar pula.Jadi\u00a0<strong><em>air akan cepat mendidih di daerah pegunungan dikarenakan titik didih di pegunungan &lt; 100 derajat Celcius.</em></strong>",
+                    "attachments": []
+                },
+                {
+                    "answer": "karena tekanan di pegunungan lebih rendah dari pada tekanan udara\u00a0 di daerah daratan <br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-trafo-memiliki-efisiensi-75-tegangan-inputnya-220-v-dan-737",
+            "question": "sebuah trafo memiliki efisiensi 75%. tegangan inputnya 220 V dan tegangan outputnya 110 V . jika kekuatan arus primer yang mengalir 2A berapakah kekuatan arus sekundernya? \u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "220/2=Is/110<br>2Is=24200<br>Is=14100<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "rumusnya Vp / Vs= Is / Ip<br>\u00a0220 / 110 = Is / 2<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 2 = Is / 2<br>Jadi, Is ( Kuat arus sekunder) = 2 x 2 = 4 Ampere<br>\u00a0\u00a0\u00a0 \u00a0 <br><br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

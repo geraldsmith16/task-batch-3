@@ -1,0 +1,138 @@
+{
+    "question": "Sebuah setigita sama kaki memiliki panjang sisi yang sama dengan 5 kali panjang sisi lainnya. Agar\u00a0keliling segitiga tersebut lebih besar dari 50 m, berapakah panjang masing-masing sisi segitiga\u00a0tersebut?",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "ini yang untuk kakinya lebih panjang dari alasnya<br><br>keliling= ab + c.................... (a = b = kakiny)<br>50=2a+c<br>50=2(5c)+c.................... (a=b=5c)<br>50=10c+c<br>50=11c<br>c=4,545454...... bulatkan saja jadi 5<br><br>berarti, agar keliling tersebut lebih besar dari 50m, panjang masing2 sisi yaitu<br>a,b,c <br>= 5c, 5c,c<br>= 25, 25, 5<br><br>itu minimal, utk yg lain tinggal dikalikan saja<br>25, 25, 5<br>50, 50, 10<br>dll<br><br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "rumus-suke-ke-n-dari-1-31248192768-2-4211214-678",
+            "question": "Rumus suke ke-n dari : \u00a0 1) 3,12,48,192,768 \u00a0 2) 4,2,1,1/2,1/4. \u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1. rumus Un = 3x[tex]4^{n-1} [/tex]<br>2. rumus Un =\u00a0[tex] 2^{3-n} [/tex]",
+                    "attachments": []
+                },
+                {
+                    "answer": "Untuk mencari n\u00a0<br>1) a atau U1 = 3\u00a0<br>\u00a0 \u00a0r = U3 / U2<br>\u00a0 \u00a0r = 48 / 12<br>\u00a0 \u00a0r = 4\u00a0<br>\u00a0 \u00a0Un = <u></u>[tex]a r ^{n-1} [/tex]\u00a0<u></u><br>\u00a0 \u00a0768 =\u00a0[tex]3 x 4  ^{n-1} [/tex]<br>\u00a0 \u00a0[tex]3 x 4 ^{4} [/tex]\u00a0=\u00a0[tex]3 x 4 ^{n-1} [/tex]<br>\u00a0 \u00a04 = n-1\u00a0<br>\u00a0 \u00a05 = n\u00a0<br><br>2) U1 = 4\u00a0<br>\u00a0 \u00a0r = U3 / U2\u00a0<br>\u00a0 \u00a0r = 2 / 4\u00a0<br>\u00a0 \u00a0r = 1/2\u00a0<br>\u00a0 \u00a0Un =\u00a0[tex]a r ^{n-1} [/tex]<br>\u00a0 \u00a0[tex] \\frac{1}{4} [/tex] =\u00a0[tex]4x \\frac{1}{2}  ^{n-1} [/tex]<br>\u00a0 \u00a0[tex]4x2 ^{-4} [/tex] =\u00a0[tex]4x2 ^{n-1} [/tex]<br>\u00a0 \u00a04 \u00a0 = \u00a0n-1\u00a0<br>\u00a0 \u00a05 = n",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dua-bilangan-berselisih-25-jika-2-kali-bilangan-yang-besar-dikur-975",
+            "question": "Dua bilangan berselisih 25. Jika 2 kali bilangan yang besar dikurangi bilangan yang kecil adalah 175, tentukanlah bilangan itu.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a-b = 25<br>2a-b = 175<br>lakukan eliminasi<br>a= 150<br>150 -b = 25<br>-b = -125<br>b = 125<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Dua bilangan berselisih 25. Jika 2\u00a0kali<span>\u00a0bilangan yang besar dikurangi bilangan yang kecil adalah 175, tentukanlah bilangan itu.<br><br>jawab :<br>\u00a0x-y=25<br>2x-y=175<br><br>persamaan &gt;&gt; x=150<br><br>jadi x-y=25<br>\u00a0 \u00a0 \u00a0 \u00a0 y=150-25<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 125</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-himpunan-penyelesaian-dari-pertidaksamaan-berikutjika-x-972",
+            "question": "tentukan himpunan penyelesaian dari pertidaksamaan berikut,jika x variabelnya pada himpunan bilangan bulat. \u00a0 a. 1/2 (x+5) - 1/4 (x + 1) &gt; 3 b. 1/3 (5x-1) &lt; 1/2 (2x +1)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a. 1/2\u00a0(x+5) - 1/4 (x+1) &gt;3<br>\u21d46\u00a0(x+5) - 3(x+1) &gt; 39<br>\u21d46x + 30 - 3x + 3 &gt; 39<br>\u21d46x - 3x &gt; 39 - 30 - 3<br>\u21d4 3x &gt; 6<br>\u21d4 x &gt; 6/3 = 2<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apa-itu-variabel-dan-apa-itu-persamaan-kuadrat-247",
+            "question": "Apa Itu Variabel ? Dan Apa Itu Persamaan Kuadrat ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span><span>Variabel\u00a0: (Lat) 1. berubah-ubah, tidak tetap;<br>\u00a02. deklarasi sesuatu yang memiliki variasi nilai <br>3. berbeda-beda dalam bahasa pemrograman disebut juga simbol yang mewakili nilai tertentu, variabel yang dikenal di sub program disebut variabel lokal. sedang yang di kenal secara umum/utuh dalam satu program disebut variabel global.<br></span><span>Variabel\u00a0: adalah objek penelitian, atau apa yang menjadi fokus di dalam suatu penelitian. Menurut F.N. Kerlinger variabel sebagai sebuah konsep. Variabel merupakan konsep yang mempunyai nilai yang bermacam-macam. Suatu konsep dapat diubah menjadi suatu variabel dengan cara memusatkan pada aspek tertentu dari variabel itu sendiri.<br><br><span>Persamaan kuadrat\u00a0adalah suatu persamaan polinomial berorde dua. Bentuk umum dari persamaan kuadrat adalah</span><br></span></span>",
+                    "attachments": []
+                },
+                {
+                    "answer": "variabel adalah lambang pengganti suatu bilangan\u00a0  yang belum diketahu nilainya dengan\u00a0 jelas. persamaan kuadrat adalah nilai peubah yang memenuhi pers kuadrat ,<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "keliling-belah-ketupat-68cm-dan-panjang-salah-satu-diagonal-nya-3-903",
+            "question": "Keliling belah ketupat 68cm dan panjang salah satu diagonal nya 30 cm .luas belah ketupat adalah    plise bantu ya..\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "mungkin 17 x 30 : 2 =255<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dik-rita-mempunya-pita-sepanjang-325-cm-diberikan-kep-926",
+            "question": "Dik: rita mempunya pita sepanjang 325 cm    \u00a0\u00a0 \u00a0 \u00a0 diberikan kepada dina 9 dm dan ima 570 mm\r\ndit; berapa cm sisa pita rini?\r\n\r\npakek penyelesaian yaaa",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "9dm = 90cm. 570mm = 57cm. 325 - 90 - 57 = 178",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "panjang-busur-ad-32-cm-panjang-busur-bc-adalah-berapa-jika-di-k-401",
+            "question": "Panjang busur AD = 32 cm panjang busur BC adalah berapa jika di ketahui BC 45 derajat",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "soalnya mungkin ada kurang\u00a0<br>Rumusnya gini pj busur AD = 32 =pj busur BC<br>BC= 45 derajat<br><br>&lt;p/pp=pj busur/ko<br>45/360=pj busur/2 pi r",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "cara-cepat-megerti-rumus-lingkaran-305",
+            "question": "Cara cepat megerti rumus lingkaran",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "jika km mau gampang mengerti rumus lingkaran ... jgn diingat rumusny tpi dimengerti pun kamu bsa ... dan sering latihan soal stiap harinya dan kamu gampang membuat soal yang mudah sampai yang tersulit pun km bsa .... kunciny adalah latihan, latihan, dan latihan\u00a0<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "di pahami dlu rumusnya jgn di hafalin<br>klo udh bnr2 paham, bnyk2lah latihan soal, dn mnta dikoreksi sma guru atau org yg lbh pntar dri kita, klo msh ada sdikit yg msh bingung mnta di jelaskan lg<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "amir-berlatih-naik-mobil-dengan-mengelilingi-lintasan-berbentuk-l-863",
+            "question": "Amir berlatih naik mobil dengan mengelilingi lintasan berbentuk lingkaran berjari jari 15 m. Tentukanlah jarak yang ditempuh amir untuk:    a. 1 kali putaran\r\n b.1,5 putaran \r\n c. 2 putaran\r\n d. 2 3/4 putaran",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Lintasan=keliling<br>2r=d=15<br>A)Kell.=\u03c0\u00b7d<br>\u00a0\u00a0  =3,14\u00b730.1<br>\u00a0\u00a0 =<strong>94,2<br></strong>B)Kell.=\u03c0\u00b7d<br>\u00a0\u00a0 =3,14\u00b730\u00b71,5<br>\u00a0\u00a0 =<strong>141,3</strong><br>C)kell.=\u03c0\u00b7d<br>\u00a0\u00a0 =3,14\u00b730\u00b72<br>\u00a0\u00a0 =<strong>188,4</strong><br>D)kell.=\u03c0\u00b7d<br>\u00a0\u00a0 =3,14\u00b730\u00b72 3/4<br>\u00a0\u00a0 =<strong>141,3</strong><br><br><strong></strong>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "upik-membuka-usaha-keripik-kentang-yang-dipasarkan-pada-ibu-ibu-d-631",
+            "question": "Upik membuka usaha keripik kentang yang dipasarkan pada ibu ibu disekitar komplek upik tinggal.Agar pembeli tidak kecewa upik harus kerusaha potongan kripiknya sebagus mungkin dan hampir sama panjangnya.Setelah digoreng upik menimbang berat keripik kentang itu,ternyata dari 8 butir kentang diperoleh kripik dengan 1,2 ons    a.jika tetangga upik memesan 2 kg keripik,berapa butir kentang yang harus digoreng upik?\r\n\r\nb.berapa butir kentang digoreng untuk membuat 6 kg keripik?\r\n\r\nc.berapa kg keripik yang dihasilkan dari 60 butir kentang?\r\n\r\nd.sajikan data perbandingan pada tabel dan gambarkan grafiknya pada kordinat kartesius?\r\n\r\ntolong di bantu yaa\r\nsama caranya",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "pertama cari dulu 1,2 ons = 0,12 kg , 0,12 kg = 2/3 butir <br>a. 2 di bagi 0,1 = 20 , 20 di kali 2/3 = 13,3333<br>b.6 di bagi 0,1 = 60 , 60 di kali 2/3 = 40 butir<br>c. 60 di bagi 2 = 30 lalu di kali 0,3 ( karena di dalam 0,3kg ada 2 butir )\u00a0 hasilnya = 9<br>d. - ( susah di gamabarkan )<br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

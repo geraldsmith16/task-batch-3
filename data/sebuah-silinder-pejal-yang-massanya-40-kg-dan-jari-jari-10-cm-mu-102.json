@@ -1,0 +1,126 @@
+{
+    "question": "Sebuah silinder pejal yang massanya 40 kg dan jari jari 10 cm, mula    sebuah silinder pejal yang massanya 40 kg dan jari jari 10 cm, mula \r\n\r\n mula diam. setelah di fungsikan selama 5 sekon, silinder berputar dengan\r\n\r\n frekuensi 40\u03c0 Hz. \r\nTentukan percepatan sudutnya?",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "Dik <br>m =40 kg<br>r =10cm =0,1 m <br>t = 5 s <br>f = 40\u03c0 Hz<br>Dit \u03b1<br>jawab.<br>i = 1/2 mr^2<br>\u00a0= 1/2 40 . 0,1^2<br>\u00a0= 20 . 0,001<br>\u00a0= 0,2 kgm^2<br>\u03c9 = 2\u03c0f<br>\u00a0\u00a0 = 2 \u03c0 40 \u03c0<br>\u00a0\u00a0 = 80 \u03c0^2 <br>\u03b1 = \u0394\u03c9/\u0394t <br>\u00a0\u00a0 = 80\u03c0^2/5 = 16 \u03c0 rad/s<br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "bagaimanakah-momentum-benda-sebelum-dan-sesudah-tumbukan-218",
+            "question": "Bagaimanakah momentum benda sebelum dan sesudah tumbukan ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Berdasarkan hukum kekekalan momentum,\"jika tidak ada gaya luar yang bekerja pada benda,maka jumlah momentum sebelum tumbukan = jumlah momentum setelah tumbukan\"",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-ganya-15-n-di-kerjakan-pada-benda-bermassa-m-benda-berg-736",
+            "question": "sebuah ganya 15 N di kerjakan pada benda bermassa\u00a0m.\u00a0benda bergerak dalam garis lurus, dengan kelajuan yang bertambah 10\u00a0m/s\u00a0setiap 2\u00a0s. hitung massa\u00a0m.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "F = 15 N<br>a = 5m/s^2<br>F =m.a<br>m = F/a = 15/5 = 3 kg :)",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "modulus-young-aluminium-adalah-710-pangkat-10-pa-jika-seutas-ka-576",
+            "question": "modulus young aluminium adalah 7.10 pangkat 10 Pa. jika seutas kawat aluminium berdiameter 1.5 mm &amp; panjang50 cm direnggangkan 10 m. berapa gaya yang dikerjakan oleh kawat?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "F=7,0 x 10 pangkat 10 x 2,0x 10 pangkat -2 x 1,76 x 10 pangkat -4<br>F-247 N",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apakah-kekekalan-momentum-linear-konsisten-dengan-hukum-kedua-dan-871",
+            "question": "Apakah kekekalan momentum linear konsisten dengan hukum kedua\r\n dan ketiga Newton?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Hukum Kedua: sebuah benda dengan massa M mengalami gaya resultan sebesar\n F akan mengalami percepatan a yang arahnya sama dengan arah gaya, dan \nbesarnya berbanding lurus terhadap F dan berbanding terbalik terhadap M.\n atau F=Ma. Bisa juga diartikan resultan gaya yang bekerja pada suatu \nbenda sama dengan turunan dari momentum linear benda tersebut terhadap \nwaktu.<br>\u00a0 <br>Hukum Ketiga: gaya aksi dan reaksi dari dua benda memiliki besar yang sama, dengan arah terbalik, dan segaris.<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "kenapa-energi-potensial-pada-listrik-statis-skalar-ttapi-medan-da-869",
+            "question": "Kenapa energi potensial pada listrik statis skalar ttapi medan dan gaya listrik vektor?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "karena energi memiliki nilai saja\u00a0tidak memiliki arah maka merupakan\u00a0vektor<br>medan dan gaya listrik memiliki nilai dan\u00a0arah yaitu muatan + ke - sehinnga merupakan besaran skalar",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "coba-jelasin-bagaimana-transformasi-lorentz-itu-soalnya-masih-921",
+            "question": "Coba jelasin bagaimana transformasi lorentz itu? \u00a0soalnya masih kurang ngerti aku. Thx:)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Transformasi Lorenz menyatakan transformasi ruang-waktu yang melandasi \nteori relativitas khusus antara dua pengamat yang bergerak dengan \nkecepatan konstan.<br>Transformasi Lorentz hanya berlaku untuk kerangka acuan yang bergerak \nseragam (tanpa percepatan) terhadap kerangka acuan lain. Pada \nkenyataannya kehadiran percepatan tidak dapat dipungkiri dalam kehidupan\n sehari-hari. Contohnya adalah: jika penumpang keretaapi tadi menarik \nrem darurat tiba-tiba, maka ia akan merasakan percepatan ke arah \nlokomotif, atau keretaapi mengalami perlambatan. Jika hanya bermodalkan \nTRK, maka keraguan terhadap prinsip relativitas akan merasuki kita untuk\n kasus ini. Namun Einstein berusaha mencari pemecahannya dengan motivasi\n bahwa hukum alam tetap sama untuk kerangka acuan jenis apapun.         \n <br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span>\u00a0transformasi Lorentz ditemukan pengabaian fundamental pada arah sebaran cahaya dari objek kepada pengamat yang mengakibatkan tidak terpenuhinya kondisi tertentu dalam konsep koordinat ruang dan waktu.</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "berapa-kalor-yg-di-butuhkan-es-bersuhu-2c-dengan-massa-4-kg-ag-479",
+            "question": "Berapa kalor yg di butuhkan es bersuhu -2\u00b0c dengan massa 4 kg agar mencapai suhu 5\u00b0c, jika dik.    L es=336.000 J/kg\r\nc es=500 J/kg\u00b0c\r\nc air=4200 J/kg\u00b0c",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "m= 4 kg<br>delta t = 3<br>c = 4700<br>= 2x4700x3<br>= 28200<br>= 28,2<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "rangkaian-rl-seri-dihubungkan-dengan-sumber-tegangan-arus-bolak-b-388",
+            "question": "Rangkaian RL seri dihubungkan dengan sumber tegangan arus bolak balik dengan Vm=100v, hambatan R=80 ohm. Arus maksimum pada rangkaian sebesar 1 A .    tentukan :\r\na. impedansi rangkaian\u00a0\r\nb. reaktansi induktif\r\nc. teganagan antara ujung2 induktor\r\n\r\nmohon bantuannya?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "wow jawabannya kalo panjang gapapa tha kak<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-komedi-putar-berdiameter-3-m-dengan-momen-inersia-100-kgm2-480",
+            "question": "sebuah komedi putar berdiameter 3 m dengan momen inersia 100 kgm2 berotasi dengan kelajuan 1 rps. empat orang anak masing-masing bermassa 30 kg tiba-tiba melompat dan duduk 1 m dari pusat komedi putar. tentukan kecepatan sudut komedi putar sekarang!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<u><em></em></u>[tex] \\left \\{ {{y=2} \\atop {x=2}} \\right. [/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-benda-yang-massanya-100-kg-digantung-pada-suatu-kawat-yang-112",
+            "question": "Sebuah benda yang massanya 100 kg digantung pada suatu kawat    yang dapat memikul beban maksimal sebesar 15000 N. jika g= 9,8 m/s^2 \r\n berapa nilai maksimum percepatan ke atas yang dapat diberikan kepada \r\n benda itu?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "sebuah benda yang massanya 100 kg digantung pada suatu kawat<br><span>yang dapat memikul beban maksimal sebesar 15000 N. jika g= 9,8 m/s^2\u00a0</span><br><span>berapa nilai maksimum percepatan ke atas yang dapat diberikan kepada\u00a0</span><br><span>benda itu?<br><br>W = m x a<br>\u00a0a = W/m<br>\u00a0 \u00a0= 15000/100<br>\u00a0 \u00a0= 150\u00a0</span>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

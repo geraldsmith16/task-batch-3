@@ -1,0 +1,134 @@
+{
+    "question": "Reaksi kesetimbangan A + B \u21d4 C. Bila PA = 0,1, PB = 0,2 dan PC = 0,3 tentukan kp ?",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "PC/PA x PB = 0,3/0,1 x 0,2 = 0,3/0,02 = 1,5 x 10= 15<br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "mohon-bantuannya-1untuk-menaikkan-titik-didih-250-ml-air-menjad-929",
+            "question": "Mohon bantuannya.    1.untuk menaikkan titik didih 250 ml air menjadi 100,1'C pd \r\n tekanan 1 atm (Kb=0,50), maka jumlah gula (Mr=342) yg hrs dilarutkan?\r\n2. Besarnya pH dlm larutan Ba(OH)\u2082 dgn kosentrasi 0.005 M adalah?\r\n3. pH larutan CH3COONa 0.1 M jika Ka CH3COOH=10\u207b\u2075 adalah?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "2. 1 x 0,005m = 0,005.<br>pH= -log [OH-]<br>= - log 5.10^-3<br>= 3 log 5<br><br>3. kax m = akar 10^-5 x 1.10^-1<br>=akar 1.10^-6<br>=1.10^-3<br>pH= - log [H+]<br>= - log 1.10^-3<br>= 3 log 1<br>=3<br><br>semoga benar..<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bagaimana-cara-membuktikan-berlakunya-kaidah-duplet-pada-molekul-129",
+            "question": "Bagaimana cara membuktikan berlakunya kaidah duplet pada molekul H2, kaidah oktet pada molekul CCl4 dan CO2, serta keduanya pada molekul CH4?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "yang perlu di ingat kaidah duplet memiliki 8 elaktron terluar sedangkan kaidah oktet memiliki 2 elekton pada kulit terluar.<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bagaimana-cara-uji-saponin-pada-tanaman-lidah-mertua-973",
+            "question": "Bagaimana cara uji saponin pada tanaman lidah mertua?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>Lidah mertua (Sansevieria trifasciata Prain) merupakan tanaman obat yang banyak dimanfaatkan\n oleh masyarakat untuk pengobatan influenza, borok, bisul, radang saluran pernafasan, batuk dan\n gigitan ular berbisa, karena mengandung saponin. Penelitian ini bertujuan untuk mengetahui\n variasi metode ekstraksi yang efektif dalam menghasilkan aktivitas antibakteri optimum terhadap\n Staphylococcus aureus IFO 13276 dan Pseudomonas aeruginosa IFO 12689, serta mengetahui\n sifat antibakteri ekstrak etanol daun lidah mertua. Pada penelitian ini variasi metode ekstraksi\n yang diamati adalah lama waktu maserasi dan jumlah daur sokletasi. Lama waktu maserasi\n adalah 4, 6 dan 8 hari, sedangkan jumlah daur sokletasi adalah 1, 2 dan 3 kali penyarian. Pelarut\n yang digunakan etanol absolut. Sebagai kontrol negatif digunakan pelarut etanol tanpa ekstrak,\n sedangkan sebagai kontrol positif digunakan ampisilin dan streptomisin. Parameter yang diukur\n adalah luas zona penghambatan dan uji sifat antibakteri. Uji aktivitas antibakteri ekstrak etanol\n daun lidah mertua dengan metode difusi agar. Berdasarkan hasil penelitian, diketahui maserasi 4\n hari dan sokletasi 2 kali penyarian menghasilkan ekstrak etanol daun lidah mertua dengan\n aktivitas antibakteri optimum terhadap Staphylococcus aureus IFO 13276 dan Pseudomonas\n aeruginosa IFO 12689, ekstrak etanol daun lidah mertua hasil sokletasi dan maserasi optimum\n memiliki aktivitas antibakteri yang lebih rendah daripada ampisilin dan streptomisin dalam\n menghambat Staphylococcus aureus IFO 13276, tetapi lebih tinggi dari ampisilin dalam\n menghambat Pseudomonas aeruginosa IFO 12689 dan Sifat antibakteri ekstrak etanol daun lidah\n mertua terhadap Staphylococcus aureus IFO 13276 adalah bakteriosidal, sedangkan sifat\n antibakteri ekstrak etanol daun lidah mertua terhadap Pseudomonas aeruginosa IFO 12689\n adalah bakteriostatik.</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "hitunglah-bilangan-oksidasi-dari-capo42-164",
+            "question": "Hitunglah bilangan oksidasi dari Ca(PO4)2",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Ca=+2<br>PO4=-3<br>..................................",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "50-ml-larutan-koh-00025-ditambahkan-air-hingga-voulme-larutan-20-821",
+            "question": "50 ml larutan KOH 0,0025 ditambahkan air hingga voulme larutan 200 mL tentukan pH setelah diencerkan",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "identifikasikan zatnya asam atau basa ,kuat atau lemah?<br>disini KOH termasuk basa kuat dengan valensi basa (Vb) = 1<br>50 ml adalah V1 jika ditambah 200 ml air maka V2 = 250 mL<br><br>nah gunakan <br>M1 V1 = M2 V2<br>0,025 x 50 = M2 x 250<br>M2 = 5 x 10^-3\u00a0 ....................... ^ dibaca pangkat ya :)<br><br>setelah ketemu M2 kita cari OH- nya<br>[OH-] = Mb x Vb = 5 x 10^-3 x 1 = 5 x 10^-3<br><br>pOH = - log 5 x 10^-3 = 3 - log5<br>pH = 14 - (3-log5) = 11 + log 5<br><br>tandai sebagai jawab terbaik jika iya :)<br>semoga bermanfaat :)<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "50 ml . 0,0025 = 200 ml . M2<br>M2 = 200. 0,0025 / 50 = 5/50 = 0,1<br><br>maka ph nya\u00a0<br>[OH-] = M.n = 0,1 .1 = 0,1<br>p[OH-] = - log 1. 10 ^-1 = 1<br>ph = 14 -1 = 13 :)",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-ph-campuran-100-ml-larutan-hcl-01-m-100-ml-larutan-na-149",
+            "question": "Tentukan ph campuran 100 ml larutan HCl 0,1 M + 100 ml larutan NaOH 0,1 M",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "liat itu reaksi antara asam kuat sama basa kuat<br>liat juga itu dia mol mula mula nya sama<br>coba lo bikin reaksinya dulu<br><br>\u00a0 \u00a0 \u00a0 \u00a0\u00a0HCl \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 + \u00a0\u00a0NaOH-&gt; \u00a0 \u00a0\u00a0NaCl \u00a0 \u00a0 \u00a0+ \u00a0\u00a0H\u2082O<br>m \u00a0 \u00a0\u00a010mmol \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a010mmol \u00a0 \u00a0 \u00a0 - \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0-<br>t \u00a0 \u00a0 \u00a0\u00a010mmol \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a010mmol \u00a0 \u00a0 10mmol \u00a0 \u00a0 \u00a0 \u00a010mmol<br>s \u00a0 \u00a0 \u00a0\u00a00 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a00 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a010mmol \u00a0 \u00a0 \u00a0 \u00a010mmol<br><br>m=mula mula<br>t=terurai<br>s=sisa<br><br>intinya dari reaksi tsb hcl sama naoh abis bereaksi<br>hcl itu asamkuat ,naoh basa kuat\u00a0<br>jika asam kuat dicampur basa kuat dan pada keadaan akhir habis bereaksi maka\u00a0<br>pH campuran menjadi netral alias\u00a0=7",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "menurut-teori-bronsted-lowry-aminiak-bersifat-basa-karena-108",
+            "question": "Menurut teori bronsted lowry aminiak bersifat basa, karena....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "zat penerima proton H+<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "asam atau basa itu adalah konsep senyawa yang terlarut di dalam air. jadi jika terlarut pada selain air, tidak boleh disebut sebagai asam/ basa.<br>amonia bersifat basa harus diletakkan pada kondisi terlarut. jika masih dalam keadaan amonia (NH3), tidak dapat dipakai sebagai basa karena keadaanya masih gas.<br>pada keadaan air, reaksinya :<br>NH3 + H2O --&gt; NH4OH<br>maka ketika pada kondisi terlarut, dia dapat menerima proton dalam bentuk H+ apabila ia bereaksi dengan suatu asam<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "hitunglah-berapa-mol-zat-berikut-a-54-g-aluminium-b-22-g-gas-k-427",
+            "question": "Hitunglah berapa mol zat berikut:     a. 54 g aluminium\r\nb. 22 g gas karbon dioksida\r\nc. 54 g air\r\nd. 30 g etanol (CH\u2083COOH)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a. mol = gram/Mr = 54/27 = 2 mol<br>b. 22/268 = 0,08 mol<br>c. 54/257 = 0,2 mol<br>d. 30/60 = 0,5 mol",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pengertian-stoikiomerti-senyawa-dan-stoikiometri-reaksi-itu-apa-914",
+            "question": "Pengertian Stoikiomerti Senyawa dan\u00a0Stoikiometri Reaksi itu apa ya? Tolong dijawab",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "stoikiometri berasal dari bhsa yunani, yaitu dari kata stoicheion yang berarti unsur dan metron yang berarti mengukur<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "kenapa-digunakan-garam-asli-pada-luar-wadah-es-putar-694",
+            "question": "Kenapa digunakan garam asli pada luar wadah es putar ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Biar esnya tidak mudah mencair (Y) ^^",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span>adonan jadi mengental dan menjadi semacam es krim buatan pabrik</span>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,134 @@
+{
+    "question": "Seorang pengusaha kaya memiliki 500 botol jus. Tapi diketahui terdapat 1 botol jus yang beracun di antara 500 botol jus tersebut. Jika terminum bisa menyebabkan kematian dalam waktu kurang lebih 24 jam.    Seorang cendekiawan bernama joko diperintah untuk menemukan 1 botol jus beracun tersebut. joko membuat strategi. Dia akan mengambil sampel jus-jus tersebut dan mencobanya kepada beberapa ekor tikus. Setelah itu tikus-tikus itu dibiarkan dalam 24 jam dalam kurungan untuk melihat reaksinya.\u00a0\r\n\r\nBerapakah tikus minimal yang dibutuhkan joko? Dan bagaimana strateginya?",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "sekitar 300 - 500 ekor tikus",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "persamaan-m-1x2-4x-2m-0-mempunyai-akar-akar-real-tent-796",
+            "question": "Persamaan (m - 1)x\u00b2 + 4x + 2m = 0 mempunyai akar-akar real. Tentukan nilai m yang memenuhi!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "(m - 1)x\u00b2 + 4x + 2 = 0 memunyai akar-akar real <br>syarat : b\u00b2 - 4ac \u2265 0<br>16 - 4.2(m - 1) \u2265 0<br>16 - 8m + 8 \u2265 0 <br>24 - 8m \u2265 0 <br>-8m \u2265 -24 ruas kiri n kanan dikali -1 (jangan lupa tanda \"\u2265\" dibali jadi \"\u2264\")<br>m \u2264 -24/-8<br>m \u2264 3<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dari-5-ahli-bahasa-dan-6-ahli-matematika-dipilih-7-orang-sebagai-713",
+            "question": "dari 5 ahli bahasa dan 6 ahli matematika, dipilih 7 orang sebagai anggota tim ahli dengan tiga diantaranya ahli matematika. banyak cara yang digunakan dalam pemilihan itu ada berapa?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>dari 5 ahli bahasa <br>dan 6 ahli matematika, <br>dipilih 7 orang sebagai anggota tim ahli, dengan 3 diantaranya ahli matematika. banyak cara yang digunakan dalam pemilihan itu ada berapa?<br>-----------------&gt; ans = 4</span>",
+                    "attachments": []
+                },
+                {
+                    "answer": "3|6|5|4 = 360 cara<br>maaf klo ada salah dalam penghitungan dan analisis nya",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "mohon-bantuan-nya-dong-kakak-jika-u243-u636-maka-jumlah-4-suku-622",
+            "question": "Mohon bantuan nya dong kakak\r\njika U2=4/3 U6=36 maka jumlah 4 suku bernomor ganjil pertama adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "u2 = 4/3 maka ar = 4/3 \u00a0 \u00a0 \u00a0pers 1<br>u6 =36 maka ar^5 = 36 \u00a0 \u00a0 \u00a0pers 2<br>pers 1 dan 2 didapat \u00a0rpangat 4 = 27 berarti rpangkat 2 =\u00a0\u221a27<br>r =akar pangkat 4 dari 27<br>a =4/3 \u00a0dibagi r = 4/9 akar pangkat 4 dari 3<br>jadi a + arkuadrat + arpangkat 4 + ar pangkat 6<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-himp-selesaian-dari-2x25xlt3-xr-285",
+            "question": "Tentukan himp. selesaian dari 2x\u00b2+5x&lt;3, x\u2208R",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span> 2x\u00b2+5x&lt;3, x\u2208R<br></span><br><span>2x\u00b2 + 5x - 3 &lt; 0<br>(2x -1) (x+3) &lt; 0<br>2x = 1\u00a0 \u00a0 atau x = -3<br>x = 1/2<br>hp = {x|-3&lt;x&lt;1/2, </span><span><span>x\u2208R</span>}<br></span><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "carilah-persamaan-lingkaran-yang-melengkapi-segitiga-siku-siku-ya-417",
+            "question": "carilah persamaan lingkaran yang melengkapi segitiga siku-siku yang titik-titik sudutnya adalah(0,0)(8,0)(0,6) ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "8x+6y klo gak salah\u00a0<br>harap dimaklumi\u00a0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diket-x1-dan-x2-akar-akar-persamaan-kuadrat-2-x-4-0-susun-552",
+            "question": "diket x1 dan x2 akar akar persamaan kuadrat 2\u00a0- x + 4 = 0. susunlah persamaan kuadrat baru yg akar akarnya x1 . x2 dan x1 + x2",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "jika pers x\u00b2-x+4=0 maka x1 + x2 = 1 dan x1x2= 4<br>mis\u00a0\u03b1 dan\u03b2 akar2 pk baru maka<br>\u03b1+\u03b2=x1x2 +(x1+x2) = 5 dan\u00a0\u03b1\u03b2= x1x2.(x1+x2)=4<br>jadi pk baru x\u00b2-( jumlah akar)x + hasil kali akar = 0<br>\u00a0 \u00a0x\u00b2- 5)x + 4r = 0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "gradien-garis-dri-persamaan-3x-6y-5-yaitu-133",
+            "question": "Gradien garis dri persamaan 3x-6y=-5 yaitu ....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kelas : 8<br>Mapel : Matematika<br>Kategori :\u00a0Bab 3 - Persamaan Garis<br>Kata Kunci : persamaan garis, gradien<br>Kode : 8.2.3 [Kelas 8 Matematika Bab 3 - Persamaan Garis]<br><br>Pembahasan :<br><p>Persamaan garis lurus adalah persamaan berbentuk\u00a0<br>ax + by = c<br>dengan a, b, dan c merupakan bilangan-bilangan real, a\u00a0\u2260 0 atau b\u00a0\u2260 0.</p><br>Gradien adalah nilai yang menyatakan kecondongan suatu garis yang dinotasikan dengan m.<br><br>Garis dengan persamaan ax + by = c memiliki gradien\u00a0<br>m =\u00a0[tex]- \\frac{a}{b} [/tex]<br><br>Garis yang melalui titik P(x\u2081, y\u2081) dan Q(x\u2082, y\u2082) memiliki gradien\u00a0<br>m =\u00a0[tex] \\frac{y_2-y_1}{x_2-x_1} [/tex]<br><br>Mari kita lihat soal tersebut.<br>Tentukan gradien garis dengan persamaan 3x - 6y = -5!<br><br>Jawab :<br>Diketahui persamaan<br>3x - 6y = -5<br>\u21d4 -6y = -5 - 3x<br>\u21d4 y =\u00a0[tex] \\frac{5}{-6} [/tex] -\u00a0[tex] \\frac{3}{-6} [/tex]x<br>\u21d4 y = -[tex] \\frac{5}{6} [/tex] + [tex] \\frac{3}{6} [/tex]x<br>\u21d4 y = -[tex] \\frac{5}{6} [/tex] + [tex] \\frac{1}{2} [/tex]x<br>\u21d4 m = [tex] \\frac{1}{2} [/tex]<br><br>Jadi, persamaan 3x - 6y = -5 memiliki gradien [tex] \\frac{1}{2} [/tex].<br><br>Soal lain untuk belajar :\u00a0<br>1.\u00a0https://brainly.co.id/tugas/12602883<br>2.\u00a0https://brainly.co.id/tugas/1686609<br>3.\u00a0https://brainly.co.id/tugas/130401<br>4.\u00a0https://brainly.co.id/tugas/1398763<br>5.\u00a0https://brainly.co.id/tugas/3136258<br>6.\u00a0https://brainly.co.id/tugas/12689804<br><br>Semangat!<br><br>Stop Copy Paste!",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-xy-23-adalah-penyelesaian-dari-sistempersamaan-ax-b-844",
+            "question": "Jika (x,y) =(2,3) adalah penyelesaian dari sistempersamaan\r\nax + by=1\r\nay - bx=8",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "substitusikan nilai (x,y) dalam pers.<br><br>a(2) + b(3) = 1<br>a(3) - b(2) = 8<br><br>2a + 3b = 1 .... x3<br>3a - 2b = 8 .... x2<br><br>6a + 9b = 3<br>6a - 4b = 16<br>(dikurang), maka<br>13b = -13<br><strong>b = -1</strong><br><br>subs b ke pers 1.<br><br>2a + 3(-1) = 1<br>2a -3 = 1<br>2a = 4<br><strong>a = 2</strong><br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "persamaan-m-1-x2-4x-2m-0-mempunyai-akar-akar-real-te-829",
+            "question": "Persamaan (m - 1)\u00a0x\u00b2 + 4x + 2m = 0 mempunyai akar-akar real. Tentukan nilai m yg memenuhi!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "JAWAB.<br>akar akarnya<br>x= -2 m= 2<br>x= 0 m=0<br>x=1 m= -1<br>x=4 m=0<br><br>nilai m = 1 dan x = -1/2<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "D&gt;0<br>x\u00b2+4x+2m&gt;0<br>b\u00b2-4ac<br>(4)\u00b2-4.1.2m&gt;0<br>16-8m&gt;0<br>-8&gt;-16<br>m&lt;2<br>jadi m nya : 1<br>mungkin begitu, semoga benar :D",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suatu-kotak-berisi-5-kelereng-merah-dan-3-kelereng-putihdua-kele-757",
+            "question": "suatu kotak berisi 5 kelereng merah dan 3 kelereng putih.dua kelereng di ambil satu persatu tanpa pengembalian kelereng pertama kedalam kotak.peluang terambilnya kelereng pertama\u00a0dan kedua berwarna merah adalah?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "klu ndasalh 1/4<br><br>maaf klau slahhhh<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "5\u00d73= 15<br>15:5 = 3<br>5= ADALAH kelereng pertama berwarna merah<br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

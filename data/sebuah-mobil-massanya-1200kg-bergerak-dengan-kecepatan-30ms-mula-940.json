@@ -1,0 +1,142 @@
+{
+    "question": "Sebuah mobil massanya 1200kg bergerak dengan kecepatan 30m/s mulai dipercepat beraturan dgn percepatan 3m/s\u00b2 selama 5 sekon.berapakah perubahan energi kinetik mobil tersebut ?    HELP ME",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "Diketahui m = 1200 kg<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 v0 =\u00a030 m/s<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 a =\u00a03 m/s^2 \u00a0<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 t = 5 s<br>Ditanya\u00a0\u0394Ek ?<br><br>perccepatan<br>a = v / t<br><br>V 2 = a.t<br>\u00a0 \u00a0 \u00a0 = 3 . 5<br>\u00a0 \u00a0 \u00a0 = 15 m/s<br><br>perubahan energi kinetik<br>\u0394Ek = 1/2 m (v2-v1)^2<br>\u00a0 \u00a0 \u00a0 \u00a0= 1/2 .\u00a01200 (30 - 15)^2<br>\u00a0 \u00a0 \u00a0 \u00a0= 600 (225)<br>\u00a0 \u00a0 \u00a0 \u00a0= 135,000 J",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "sebuah-mesin-melakukan-usaha-sebesar-500-joule-selama-50-s-bila-250",
+            "question": "Sebuah mesin melakukan usaha sebesar 500 joule selama 50 s. Bila kecepatan mesin 72km/jam, berapa gaya yang dibutuhkan oleh mesin?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Hukum termodinamika<br>Dik W = 500 j<br>\u00a0 \u00a0 \u00a0 \u00a0t = 5 s<br>\u00a0 \u00a0 \u00a0 v = 72 km/jam = \u00a020 m/s<br>Dit F ?<br>jawab.<br><br>v =\u00a0\u0394s/t<br>\u0394s = v\u00a0.\u00a0t\u00a0<br>\u00a0 \u00a0 \u00a0= 20 . 5<br>\u00a0 \u00a0 \u00a0= 100 m<br><br>W = F.\u0394s<br>F = W/\u0394s<br>\u00a0 \u00a0= 500 / 100\u00a0<br>\u00a0 \u00a0= 5 N<br>\u00a0 \u00a0\u00a0<br>jadi gaya yang di butuhkan oleh mesin sebesar 5 N",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jelaskan-besar-gaya-magnet-yang-timbul-dari-sebuah-motor-listrik-480",
+            "question": "jelaskan besar gaya magnet yang timbul dari sebuah motor listrik jika dialiri arus listrik yang lebih besar",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "sepertinya gaya tarikan magnet tersebut akan semakin besar",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apakah-gerhana-bulan-itu-428",
+            "question": "Apakah gerhana bulan itu?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Gerhana bulan terjadi saat sebagian atau keseluruhan penampang bulan tertutup oleh bayangan bumi. Itu terjadi bila bumi berada di antara matahari dan bulan pada satu garis lurus yang sama, sehingga sinar Matahari tidak dapat mencapai bulan karena terhalangi oleh bumi.<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "gerhana bulan adalah fenomena alam yg umum terjadi. Gerhana bulan terjadi karena sebagian atau keseluruhan penampang bulan tertutup oleh bayangan bumi. itu terjadi bila bumi berada diantara matahari dan bulan pada satu garis yg sama, sehingga sinar matahari tdak dapat mencapai bulan karena terhalang oleh bumi<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "siapa-yang-menemukan-gaya-gravitasi-114",
+            "question": "Siapa yang menemukan gaya gravitasi",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Issac Newton tahunnya ga tau<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Isaac Newton.............<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-termometer-x-titik-tetap-bawahnya-0x-dan-titik-tetap-ata-354",
+            "question": "sebuah termometer X titik tetap bawahnya 0\u00b0X dan titik tetap atasnya 60\u00b0X. Jika sebuah benda bersuhu 25\u00b0C,berapakah suhu benda itu jika diukur dengan termometer X ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Titik bawah 0*X<br>Titik atas 60*X<br>25*X<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "mengapa-kita-sulit-mendapatkan-gerak-benda-disekitar-kita-berdasa-262",
+            "question": "Mengapa kita sulit mendapatkan gerak benda disekitar kita berdasar hukum 1 newton?\r\n \u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "pada hukum newton satu dikatakan tiap benda akan memiliki kecepatan konstan atau percepatan konstan ,jika tidak ada gaya yang nilainya tidak 0 yg\u00a0bekerja pada benda itu,<br>sehingga benda di sekitar kita tidak aka dpt bergerak sendiri dong :)<br>harus ada gaya yang menggerak kannya :)<br>dimana pergerakan benda juga dipengaruhi oleh massa benda dan gaya yang diberikan :)",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pada-sebuah-rangkaian-listrik-hambatan-yang-terpasang-adalah-300-178",
+            "question": "Pada sebuah rangkaian listrik hambatan yang terpasang adalah 300\u00a0\u03a9 dan kuat arus yang mengalir 0,05 A beda potensial yang ada adalah\u00a0    a. 300,5 volt\r\nb. 299,5 volt\r\nc. 60 volt\r\nd. 15 v\r\n\r\nBeri penjelasannya juga yaa",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span><strong><em>\u00a0R=300\u00a0\u03a9 </em></strong><br><strong><em>I=0,05 A\u00a0</em></strong></span><br><br>[tex]V=I.R \\\\=300.0,05 \\\\15 V[/tex]",
+                    "attachments": []
+                },
+                {
+                    "answer": "v=i\u00d7R<br>v=0.05\u00d7300<br>v=15volt<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apa-persamaan-mencari-panjang-periode-dan-amplitudo-gelombang-626",
+            "question": "Apa persamaan mencari panjang, periode, dan amplitudo\u00a0gelombang transversal?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "rumus <br><br>Y = A sin (wt-kx)<br>Y = A sin (2\u03c0/T - 2\u03c0/lamda)<br><br>wt= 2\u03c0/T \u00a0 \u00a0dan kx= 2\u03c0\u00a0/\u00a0lamda (panjang gelombang)<br><br>Semoga membantu :) D like",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span>y = A sin (wt-kx)<br>y = A sin (2\u03c0/T - 2\u03c0/lamda)<br>wt= 2\u03c0/T \u00a0 \u00a0dan kx= 2\u03c0\u00a0/lamda</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-benda-yang-massanya-3kg-dijatuhkan-dari-ketinggian-10m-jika-g-712",
+            "question": "1. Benda yang massanya 3kg dijatuhkan dari ketinggian 10m. jika g=10m/s\u00b2 hitunglah    a. Energi potensia gravitasi maximal\r\nb.Energi potensial gravitasi pada ketinggian 3m dari tanah\r\nc. Energi kinetik pada ketinggian 3m dari tanah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Ep=m.g.h<br>\u00a0 \u00a0 \u00a0 3.10.10<br>\u00a0 \u00a0 \u00a0 300<br>Ep=m.g.h<br>\u00a0 \u00a0 \u00a0 3.3.10<br>\u00a0 \u00a0 \u00a0 90",
+                    "attachments": []
+                },
+                {
+                    "answer": "a. m.g.h = 3kg . 10m. 10m/s2 = 300 joule<br>b. m.g.h = 3kg . 3m . 10 m/s2 = 90 joule<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-jenis-kalori-jenis-es-2100jkg-c-kalor-jenis-air-4200jkg-410",
+            "question": "jika jenis kalori jenis es = 2100j/kg C, kalor jenis air 4200j/kg C , dan kalor lebur es = 340000j/kg, maka pada saat perubahan suhu pda grafik m-n diperlukan kalor sebanyak... a. 102,0 kilo joule b. 25,2 kilojoule c.12,6 kilo joule d. 6,3 kilojoule \u00a0tolong jelaskannnnnnnn...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "grafiknya bentuknya mcm mana?<br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

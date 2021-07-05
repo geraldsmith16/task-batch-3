@@ -1,0 +1,126 @@
+{
+    "question": "sebuah bola pejal bermassa 0,5 kg. dan jari jari 20 cm menggelinding pada lantai mendatar dengan kecepatan 8 m/s kemudian naik ke bidang miring. Tentukan ketinggian h maksimum yang dapat dicapai hingga bola berhenti sesaat",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "<p>Mapel: Fisika</p><p>Kelas : XI SMA<br></p><p>Kategori \u00a0: dinamika rotasi<br></p><p>Kata Kunci : menggelinding, kecepatan, ketinggian, bidang miring, energi mekanik<br></p><p>Jawaban:<br></p><p>Jika bola menggelinding, berarti benda mengalami gerak translasi sekaligus rotasi. Untuk menyelesaikan soal tersebut, digunakan hukum kekekalan energi mekanik.<br></p><p>Diketahui:<br></p><p>m = 0,5 kg<br></p><p>R = 20 cm<br></p><p>v = 8 m/s<br></p><p>g = 10 m/s2<br></p><p>Ditanya: h saat berhenti sesaat<br></p><p>Jawab:<br></p><p>Mula-mula bola berada di lantai mendatar sehingga tidak memiliki energi potensial. Saat berada pada ketinggian maksimum, bola tidak memiliki energi kinetik. Momen inersia bola pejal besarnya 2/5 mR2 (k = 2/5)<br></p><p>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 EMA = EMB<br></p><p>EPA + EktransA + EkrotA = EPB + EktransB + EkrotB<br></p><p>\u00a0 \u00a0 0 + \u00bd. m. v2 + \u00bd. I. \u03c92 = m.g.h + 0 + 0<br></p><p>\u00a0 \u00a0 \u00a0 \u00bd. m. v2 + \u00bd. k. m. v2 = m.g.h<br></p><p>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00bd. m. v2 ( 1 + k ) = m.g.h<br></p><p>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0h = v2 ( 1 + k )/ 2.g<br></p><p>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0h = 8^2 (1 + 2/5)/ 2.10<br></p><p>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0h = 64. 1,4/20<br></p><p>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0h = 89,2/ 20 = 4,48 meter<br></p><p>Jadi, ketinggian maksimum yang dapat dicapai hingga bola berhenti sesaat adalah 4,48 meter.<br></p><p>Jika mau dihafalkan, rumus cepat untuk mencari ketinggian maksimum benda atau mencari kecepatan mula-mula benda yang menggelinding menaiki bidang miring adalah<br></p><p>h= [tex] \\frac{ v^{2} (1+k)}{2.g} [/tex]<br></p>\n\n<p></p>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "sebuah-gaya-yang-bergantung-pada-waktu-498",
+            "question": "Sebuah gaya yang bergantung pada waktu",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "gaya potensial, gaya kinetik, gaya apung, setau saya itu",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "ada-yang-tau-rumus-rumus-gerak-melingkar-beraturan-359",
+            "question": "Ada yang tau rumus rumus GERAK MELINGKAR BERATURAN ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "rumus gerak melingkar beraturan adalah<br>v = 2\u03c0R/T \u00a0\u00a0atau \u00a0v = 2\u03c0Rf\u00a0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-modulus-young-timah-16102-nm2-hitunglah-berat-be-745",
+            "question": "diketahui modulus young timah 1,6\u00d710\u00b2 N/m\u00b2. hitunglah berat beban maksimum yang boleh digantungkan pada seutas kawat timah yang berdiameter\u00a0\u00a0mm jika regangan yang terjadi tidak boleh lebih dari 0,0001",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "akan lebih dari kapasitas berarti\u00a0<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "rumus-reaksi-sempurna-kimia-apa-ya-374",
+            "question": "Rumus reaksi sempurna kimia apa ya?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>C8H18 (l) +12 \u00bd O2 (g) \u2013&gt; 8 CO2 (g) + 9 H2O (g) \u0394H = -5460 kJ</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "kenapa-energi-potensial-pada-listrik-statis-skalar-ttapi-medan-da-869",
+            "question": "Kenapa energi potensial pada listrik statis skalar ttapi medan dan gaya listrik vektor?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "karena energi memiliki nilai saja\u00a0tidak memiliki arah maka merupakan\u00a0vektor<br>medan dan gaya listrik memiliki nilai dan\u00a0arah yaitu muatan + ke - sehinnga merupakan besaran skalar",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "contoh-soal-gerak-vertikal-ke-atas-853",
+            "question": "Contoh soal gerak vertikal ke atas",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "sebuah bola bermassa 3 kg,di lemparkan ke atas,dalam jarak 3 meter setelah di lempar,berapa kecepatan yang dimiliki oleh bola dengan gravitasi 10 m/s^2 :)<br>soalnya aja ? :)",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-silender-pejal-diletakan-di-atas-puncak-bidang-miring-kasa-728",
+            "question": "sebuah silender pejal diletakan di atas puncak bidang miring kasar dengan ketinggian h.kecepatan silinder di kaki bidang miring adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "karena ga dikasih tau angkanya, saya kasih tau caranya<br>hitung I silinder pejal = 1/2 mr\u00b2<br>hitung torsi = I x\u00a0\u03b1<br>I = mr\u00b2<br>ingat, torsi adalah F.r<br>\u03a3F = m . a<br>F-fg (permukaan kasar, ada gaya gesek) = m .a<br>\u03b1 = a/r<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bola-bowling-memiliki-berat-70-n-bola-itu-diam-pada-dinding-yang-914",
+            "question": "bola bowling memiliki berat 70 N, bola itu diam pada dinding yang licin jika bola dianggap homogen tentukan gaya normal di titik a dan b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Maaf sebelumnya,apakah mizzpurple66 salah menulis soal.karna saat bola berada di dinding otomatis bola akn bergerak ke bawah.saya misalkan dinding itu menjadi lantai dan mengapa tidak ada gambar?titik a dan b apakah seperti ini ?a\u00a0\u208b\u208b\u208b\u208b\u208b\u208b\u208b\u208b\u208b\u208b\u208b\u208b\u208bb<br>\u00a0jadi:<br>W=N<br>70=N<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "mengapa-cahaya-tampak-tidak-mengakibatkan-kulit-menjadi-hitam-te-684",
+            "question": "Mengapa cahaya tampak tidak mengakibatkan kulit menjadi hitam, tetapi cahaya ultraviolet mampu menghanguskan kulit? Jelaskan!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "karena ultraviolet itu di hasilkan oleh pemakaian patfum , kendaraan ,dll sebagainnya yg mengandung apa gituh dan jika terkena kulit bisa jga kena kangker...<br>#maafudhgkLHlglupa -_-",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "contoh-rangkaian-campuran-732",
+            "question": "Contoh rangkaian campuran",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "kendaraan bermotor yang sebagian besar komponennya terdapat beban listrik yang lebih banyak dari rangkaian seri<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "rangkaian antara rangkaian pararel dan rangkaian seri. contohnya rangkaian dalam kendaraan bermotor",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

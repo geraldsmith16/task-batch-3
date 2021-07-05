@@ -1,0 +1,154 @@
+{
+    "question": "100 drajat Fahrenheit = .................. drajat Kelfin???kira-kira caranya gimana\r\n;)",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "rumus = \u00a0(\u00a0f\u00a0-\u00a032\u00a0) : 9 x 5<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0(100-32) : 9 x 5<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0(68) : 9 x 5\u00a0<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a037.7 derajat celcius<br><br>",
+            "attachments": []
+        },
+        {
+            "answer": "<span> </span>Fahrenheit ke Kelvin= (suhu fahrenheit - 32) : 9 x 5 + 273,15<br>= ( 100 - 32) : 9 x 5 + 273,15<br>= 68 : 9 x 5 + 273,15<br>= 7,5 x 5 + 273,15<br>= 37,7 + 273,15<br>= 310,927<br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "sebuah-sumber-getar-membentuk-50-gelombang-dalam-5-detik-periode-378",
+            "question": "Sebuah sumber getar membentuk 50 gelombang dalam 5 detik. periodenya adalah???",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "pertama cari frekuensinya dulu, n/t.n = jumblah getaran. t = waktunya. terus masukin kerumus frekuensi. sedangkan rumus frekuensinya 1/f. hasilnya\u00a01/10<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "jawaban 10 rumusnya\u00a0 T (perode) = t(waktu) / n (banyak gelombang) = ?<br>\u00a0\u00a0  T = 5/50 =1/10<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "udin-terjun-ke-kolam-renang-dengan-vo-3-ms-dari-ketinggian-08m-574",
+            "question": "Udin terjun ke kolam renang dengan Vo 3 m/s dari ketinggian 0,8m dari permukaan air. Berapa laju udin saat hampir menyentuh permukaan air? (g=10m/s\u00b2)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Vt\u00b2 = Vo\u00b2 + 2 \u00d7 g \u00d7 h<br>Vt\u00b2 = 3\u00b2 + 2 \u00d7 10 \u00d7 0,8<br>Vt\u00b2 = 9 + 16<br>Vt\u00b2 = 25<br>Vt = 5 m/s<br><br><br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-diketahui-frekuensi-suatu-getaran-450-hz-dan-panjang-gelomba-186",
+            "question": "Jika diketahui frekuensi suatu getaran 450 Hz dan panjang gelombang 50 cm, maka tentukan kecepatan gelombang tersebut!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "v = \u00a0450 Hz . 0.5 m<br>v = 225 m/s",
+                    "attachments": []
+                },
+                {
+                    "answer": "f = 450 Hz<br>lamda / panjang gelombang = 50 cm,ubah ke meter dulu = 0,5 m<br>v..?<br>ingat rumus v = lamda . f = 0,5 m . 450 Hz = 225 m/s :)<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "rumus-mencari-gaya-yg-diperlukan-pada-bidang-miring-yang-sudah-d-982",
+            "question": "Rumus mencari gaya yg diperlukan\u00a0pada bidang miring yang sudah diketahui massa benda, jarak, tinggi, gravitasi nya? (pel. ipa kls VIII smp)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "percepatan mungkin............................",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span>Rumus mencari gaya yg diperlukan\u00a0pada bidang miring yang sudah diketahui massa benda, jarak, tinggi, gravitasi nya?\u00a0</span>n = m.g.h, v = s/t",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "untuk-menempuh-jarak-60-km-seekor-harimau-memerlukan-waktu-45-men-876",
+            "question": "untuk menempuh jarak 60 km seekor harimau memerlukan waktu 45 menit. maka kelajuan harimau tersebut adalah, tolong di jawab",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "v=s/t<br>s=60.000 m<br>t=45*60=270 sekon<br>v=60000/270<br>v=222,2 dibulatkan menjadi 222 m/s.<br>Mga membantu dek!!",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-pesawat-bergerak-dengan-kecepatan-100msjika-gaya-dorong-620",
+            "question": "Sebuah pesawat bergerak dengan kecepatan 100m/s.Jika gaya dorong mesin pesawat adalah 20.000N.Daya mesin pesawat tersebut adalah?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "p = v. f<br>p= 100 x 20.000<br>p= 2.000.000<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "100m/s dibagi 20.000 newton <br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-penyelesaian-dari-pertidaksamaan-berikut-2x-gt-590",
+            "question": "\u00a0 \u00a0tentukan penyelesaian dari pertidaksamaan berikut\u00a02x \u00a0&gt; 12",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>\u00a0\u00a0 </span>2x \u00a0&gt; 12<br>2x : 2\u00a0&gt;12 :\u00a02<br><span>\u00a0 \u00a0 \u00a0 \u00a0x &gt; 6</span><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "2x &gt; 12<br>x &gt; 6................. masing2 dibagi 2 kiri dan kanan<br>hp {7,8....}<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bila-kecepatan-benda-selalu-tetap-berarti-percepatannya-a-662",
+            "question": "\u00a0bila kecepatan benda selalu tetap, berarti \u00a0percepatannya..    a.positif\r\nb.negatif\r\nc.berubah-ubah\r\nd.nol",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Nol,sesuai dengan hukum newton yang kedua berbunyi percepatan suatu benda dipengaruhi oleh kecepatannya",
+                    "attachments": []
+                },
+                {
+                    "answer": "percepatannya 0 karena tetap\u00a0<br>seperti hukum newton yang pertama ef=0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebutkan-43-deret-tribolistik-202",
+            "question": "Sebutkan 43 deret tribolistik",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1. Bulu kelinci, 2. Gelas, 3. Mika, 4. Wol, 5. Bulu kucing, 6. Sutra, 7.\n Kapas, 8. Kayu, 9. Batu Ambar, 10. Damar, 11. Logam(Cu,Ni,Ag), 12. \nBelerang, 13. Logam(Pt,Au), 14. Seluloid\u00a0 hanya itu<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "upaya-upaya-apa-yang-dapat-dilakukan-agar-masyarakat-indonesia-me-939",
+            "question": "upaya upaya apa yang dapat dilakukan agar masyarakat indonesia mengurangi kebergantungan pada beras sebagai sumber bahan makanan pokoknya?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "menanam jagung atau gandum sebagai pengganti beras .. <br>menernakkan sapi untuk diambil susunya ..<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Melakukan sosialisasi dan penyuluhan tentang alternatif\u00a0bahan makanan pokok pengganti beras seperti jagung, ketela pohon, pisang , roti\u00a0",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,138 @@
+{
+    "question": "sebuah benda berotasi dengan momen inersia 2,5\u00a0\u00d7\u00a0\u00a0m\u00b2 dan kecepatan sudut awal 5 rad/s , agar benda itu berhenti dalam waktu 2,5 sekon maka besar momen gaya yang harus dikerjakan adalah...",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "<p>torsi= I.\u03b1---&gt; \u03c9t=\u03c9o + \u03b1. t</p><p>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a00 = 5 + \u03b1.2,5</p><p>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0-5\u00a0= \u03b1.2,5</p><p>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 \u03b1=-0,5</p><p>torsi= I . \u03b1= 2,5 x\u00a0-0,5=-1,25</p>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "sebuah-balon-berisi-900-m3-gas-helium-yang-massa-jenisnya-0183-152",
+            "question": "sebuah balon berisi 900 m\u00b3 gas helium yang massa jenisnya 0.183 kg/m\u00b3 . Jika massa jenis udara 1.29 kg/m\u00b3 . berapa beban yang dapay diangkat balon tersebut?? massa balon kosong 25 kg.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "maaf aku kurang mengerti pertanyaanya<br>rho = m.v<br>w = m.g<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-benda-jatuh-dari-ketinggian-100m-kecepatan-benda-pada-ket-606",
+            "question": "1.\u00a0\u00a0 benda jatuh dari ketinggian 100m. kecepatan benda pada ketinggian 95 m adalah. 2.\u00a0 sebuah mobil yang mempunyai daya penggerak 50 kW bergerak dengan kecepatan\u00a0 20m/s. gaya dorong mobil tersebut? \u00a0 pleaseee jwbnya agak cepet ya buat besok soal'a.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1. h =100m , v pd h = 95 m adalah? g = 10 m/s^2<br>v= akar 2.g.h<br>v = akar 2 .10m/s . (100-95) = akar 2 . 50 = akar 100 = 10 m/s<br><br>2. p = w/t<br>\u00a0 \u00a050 kw = w/s<br>\u00a0 \u00a050 n = w (f)<br>w = m.g<br>50 = m . 10<br>5 kg =m<br>f = m.a = 5 .10 = 50 N<br><br>kalau menurut saya gitu mbak &gt;_&lt;",
+                    "attachments": []
+                },
+                {
+                    "answer": "no 2 <br>Dik v = 20 m/s<br>\u00a0\u00a0 \u00a0  P = 50 kw = 50 000 w<br>Dit F ?<br>jawab.<br>F = P/v = 50 000/20 = 2500 N<br><br>mohon maaf bila ada kesalahan<br>\u00a0\u00a0 \u00a0 <br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pengertian-rotasi-gerak-dan-macam-macam-keseimbangan-statis-tolo-273",
+            "question": "Pengertian rotasi Gerak dan macam-macam keseimbangan statis?\r\nTolong dijawab bagi yang tau..",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "klo gx salah\u00a0si<br>gerak\u00a0Rotasi<span>\u00a0adalah perputaran benda pada suatu\u00a0</span>sumbu<span>\u00a0yang tetap, misalnya perputaran\u00a0</span>gasing<span>\u00a0dan perputaran\u00a0</span>bumi<span>pada poros/sumbunya.<br>klu keseimbangan statis aku gx tay</span>",
+                    "attachments": []
+                },
+                {
+                    "answer": "rotasi gerak : perputaran benda pada suatu sumbu yg tetap misalnya perputaran gangsing dan perputaran bumi pada poros dan sumbunya\u00a0<br>mungkin klo keseimbangan statis : kesadaran akan posisi kepala terhadap gaya gravitasi jika tubuh tdk brgrak\u00a0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dua-pegas-identik-memiliki-kostanta-gaya-400nm-apabila-kedua-peg-630",
+            "question": "dua pegas identik memiliki kostanta gaya 400N/m apabila kedua pegas tersebut disusun secara paralel,maka besarnya gaya yang dubutuhkan untuk menarik pegas sehingga bertambah panjang sebesar 5cm adalah...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "5 cm = 0,05 m<br>k = F/delta l<br>400 = F/0,05<br>400 X 0,05 =F<br>20 N = F<br><br>Jadi, gaya yang diperlukan adalah 20 N<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "seutas-kawat-sepanjang-10-m-dengan-luas-penampangnya-01-cm2-dib-512",
+            "question": "seutas kawat sepanjang 10 m dengan luas penampangnya 0,1 cm\u00b2 diberi beban 100 kg sehingga panjangnya bertambah 13mm. modulus elastisitasnya adalah....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "modulus elastis = tegangan : regangan<br>= 100000000 : 0,00013<br>769230770000 n/m^2",
+                    "attachments": []
+                },
+                {
+                    "answer": "Elastisitas dan gerak harmonis<br>Dik l0 = 10 m<br>\u00a0 \u00a0 \u00a0\u00a0A\u00a0= 0,1 cm^2 = 0,0001 m^2<br>\u00a0 \u00a0 \u00a0 m = 100 kg\u00a0<br>\u00a0 \u00a0 \u00a0\u0394l = 13 mm = 0,013 m<br>Dit\u00a0\u2208 ?<br>jawab.<br><br>F = m.g<br>\u00a0 \u00a0= 100 . 10<br>\u00a0 \u00a0= 1000 N<br><br>E = F.l0\u00a0/ A.\u00a0\u0394l<br>\u00a0 \u00a0= 1000. 10 / 0,0001 . 0,013<br>\u00a0 \u00a0= 10.000 / 13x10^-7\u00a0<br>\u00a0 \u00a0= 13x10^11 Pa\u00a0\u00a0<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "termometer-celcius-dan-fahrenheit-menunjukkan-angka-yang-sama-pad-530",
+            "question": "Termometer celcius dan fahrenheit menunjukkan angka yang sama pada suhu",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "y\u00b0 R = y\u00b0 C<br><br>y = 4/5 y<br><br>5/5 y - 4/5 y = 0<br><br>1/5 y = 0<br><br>1 x y = 5 x 0<br><br>y = 0<br><br><br><span>Jadi suhu 0\u00b0 R sama dengan suhu 0\u00b0 C</span>",
+                    "attachments": []
+                },
+                {
+                    "answer": "323 kalo gak salah, kalo salah tolong betulin yaa<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "ada-yg-tau-ngga-website-buat-download-ppt-fisika-tentang-pemanfaa-839",
+            "question": "ada yg tau ngga website buat download ppt fisika tentang pemanfaatan energi nuklr dan radioisotop? (ini materi kelas xii semester 2) sy sdhputus asa krn sejak 2 hari yg lalu smpe skrg ngga dapat-dapat",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Bisa cari di slideshare.com disitu banyak materi-materi yang dibutuhin",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-benda-panjangnya-2-meter-setelah-ditarik-oleh-gaya-30n-pan-113",
+            "question": "sebuah benda panjangnya 2 meter setelah ditarik oleh gaya 30N panjangnya menjadi 2,02 meter. Besar konstanta pegas benda tersebut adalah..",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "dik<br>panjang awal = 2 m<br>panjang akhir = 2,02 m<br>F = 30 N<br>dit :<br>k..?<br>jwb ..<br>x= panjang akhir - panjang awal = 2,02 - 2 m = 0,02 m<br><br>maka k = F/x = 30 N / 0,02 m = 1500 N/m",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "gelombang-elektromagnetik-yang-memiliki-energi-foton-paling-besa-917",
+            "question": "Gelombang elektromagnetik\u00a0yang memiliki energi foton paling besar adalah....    A. Sinar - X\r\nB. Cahaya Merah\r\nC. Cahaya Ungu\r\nD. Gelombang Radio\r\nE. Sinar Gamma",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "c sinar ungu<br>karena memiliki f terbesar dan panjang gelombang terpendek",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebutkan-macam-macam-benda-plastis-beserta-manfaat-minimal-5-778",
+            "question": "Sebutkan macam -macam benda plastis beserta manfaat minimal 5.. \u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "benda plastis : kayu, kaca ,plastic ,plastisin ,kertas.<br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

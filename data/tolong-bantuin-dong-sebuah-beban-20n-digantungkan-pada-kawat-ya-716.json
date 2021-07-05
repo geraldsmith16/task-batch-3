@@ -1,0 +1,134 @@
+{
+    "question": "Tolong bantuin dong..    sebuah beban 20N digantungkan pada kawat yang panjangnya 3,0 m dan luas penampangnya 8\u00a0x 10\u207b\u2077 m\u00b2 hingga menghasilkan pertambahan panjang 0,1 mm. hitunglah:\r\na. tegangan\r\nb. regangan\r\nc. modulus elastis kawat",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "tegangan:44<br>regangan:66<br>modulus 99<br><br>",
+            "attachments": []
+        },
+        {
+            "answer": "<strong>tegangannya\u00a044</strong><br><strong>regangannya\u00a066</strong><br><span><strong>modulusnya\u00a0 99</strong></span><br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "sebuah-bola-pejal-bermassa-0036-kg-dan-jari-jari-12-cm-menggeli-832",
+            "question": "sebuah bola pejal bermassa 0,036 kg dan jari-jari 1,2 cm menggelinding menuruni suatu bidang miring. Bola pejal itu mula-mula bergerak dengan kecepatan 0,5 m/s. Berapakah kecepatan bola itu ketika ketinggiannya berkurang 14 cm? g=10 m/s \u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1. hukum kekekalan massa<br>1/2 m v\u00b2+m g h+ 1/2 I \u03c9\u00b2-1/2 m v\u00b2- I \u03a9\u00b2=0<br>1/2 m v\u00b2+m g h+1/2 I (v/r)\u00b2-1/2 m v\u00b2- 1/2 I (v/r)\u00b2=0<br>1/2 m v\u00b2+m g h+1/2 (2/5) (mr\u00b2) (v/r)\u00b2- 1/2 m v\u00b2- 1/2 ((2/5)(mr\u00b2))(v/r)\u00b2=0<br>sederhanakan<br>gh+7v\u00b2/10-7v\u00b2/10=0<br>(9.8)(0.14)+7(0.5)\u00b2/10-7v\u00b2/10=0<br>v=1.48661 m/s<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "modulus-elastisitas-alumunium-7x10-pangkat-10-nm2-jika-kawat-a-176",
+            "question": "modulus elastisitas alumunium 7x10 pangkat 10 n/m\u00b2. jika kawat alumunium berdiameter 1,5 mm dan panjang 50 cm direnggangkan 10 mm. hitunglah gaya yg di kerjakan pd kawat tsb",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "E = F kali\u00a0panjang mula-mula dibagi A (luas penampang) kali delta l (pertambahan panjang)<br>tuh<br>rumusnya, cari ayo :D",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sumber-bunyi-a-menghasilkan-taraf-intensitas-10-db-ketika-dibunyi-675",
+            "question": "Sumber bunyi A menghasilkan taraf intensitas 10 dB ketika dibunyikan terpisah, sedangkan sumber bunyi B menghasilkan traf intensitas 20 dB ketika dibunyikan terpisah. Jika dua sumber bunyi tersebut dibunyikan bersama maka intensitas bunyi gabungan dinyatakan dengan intensitas ambang pendengar Io adalah ......",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "jawab.<br>Tl = 10 log l/lo<br>10 db = 10^1<br>20 db = 10^2<br><br>(10+20) db = 10 l/10^-12<br>30 db = 10 log l/10^-12<br>l = 10^3 x 10^-12/10 log<br>\u00a0= 10^-9 W/m^2<br>\u00a0<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-katrol-dengan-memiliki-massa-beban-2kg-massa-ktrol-2-kg-537",
+            "question": "Sebuah katrol dengan memiliki massa beban = 2kg massa ktrol =2 kg jari jari = 0.4 m    hitunglah\u00a0\r\n\r\na. momen inersia katrol\r\nb. momen gaya yang bekerja pada katrol\r\nc. percepatan sudut katrol\u00a0\r\n\r\nmohon segera dijawab karena pagi ini saya ngumpulkan tugas",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1---------------------------------------------<br>I=(1/2)MR\u00b2<br>l=(1/2) x 2 x (0,4)\u00b2<br>l=0,4 x 0,4<br>l=0,16 kgm\u00b2<br><br>2-----------------------------------------------<br>momen gaya = Fd<br><br>ingat.... F = w = m g\u00a0 dan d = r\u00a0 \u00a0  G= 9,8 atau dibulatkan mnjdi 10m/s\u00b2<br><br>momen gaya = (mg)r<br>momen gaya = (2 x 10) 0,4<br>momen gaya = 20 x 0,4<br>momen gaya = 20 x 0,4r<br>momen gaya = 8\u00a0 Nm<br><br>3------------------------------------------------<br>\u03b1=momen gaya : momen inersia<br>\u03b1= 8/0,16<br>\u03b1= 50 rad/s\u00b2<br><br>jadikan jwbn terbaik :D<br><br><br><br><br><br><br><br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "rumus-rumus-menurut-teori-atom-planck-yang-benar-adalah-825",
+            "question": "Rumus-rumus menurut teori atom planck yang benar adalah?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "E= h.\u00b7v<br>E= ENEGI<br>H= KONSTANTA<br>V= FREKUENSI RADIASI<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "seseorang-mengendarai-mobil-dengan-kecepatan-90-kmjam-tiba-tiba-318",
+            "question": "seseorang mengendarai mobil dengan kecepatan 90 km/jam. tiba-tiba mobil tersebut direm dengan perlambatan maksimum. Besarnya jarak yg di butuhkan adalah...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "ya kagak ada jawabannya\u00a0<br>karena rumus GLBB diperlambat itu<br>v = v0 . t - a .t<br>s = v0 . t - 1/2 a . t\u00b2<br>vt\u00b2 = v0\u00a0\u00b2 - 2 a . s",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "berapa-kalor-yg-di-butuhkan-es-bersuhu-2c-dengan-massa-4-kg-ag-909",
+            "question": "Berapa kalor yg di butuhkan es bersuhu -2\u00b0c dengan massa 4 kg agar mencapai suhu 5\u00b0c, jika dik.    L es=336.000 J/kg\r\nc es=500 J/kg\u00b0c\r\nc air=4200 J/kg\u00b0c",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "m.c.\u0394t=4\u00d72\u00d7500= 4000j<br>m.L=4\u00d7336000=1344000j<br>m.c.\u0394t=4\u00d75\u00d74200=84000j<br><br>kalor yg dibutuhkan=1432000j=1432kj",
+                    "attachments": []
+                },
+                {
+                    "answer": "Q es 1 = m.Ces.\u0394t<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 4 . 500 .(0- -2)<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0= 400 j<br>Q lebur 2\u00a0= m.L<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 4 . 336.000<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = \u00a01.344.000 j<br>Q cair 3\u00a0= m.Cair.\u0394t<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = \u00a04 . 4200 . (5-0)<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 84.000 j<br>kalor total Q = Q1+Q2+Q3<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 400 + 1.344.000 + 84.000<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 1.428.400 J<br>tolong klik bintang",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "kak-tolong-jelasin-tentang-rumus-hukum-newton-2-698",
+            "question": "Kak tolong jelasin tentang Rumus hukum newton 2",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "percepatan yg dihasilkan oleh resultan gaya bekerja pada suatu benda berbanding lurus dgn resultan gaya dan searah dengan resultan gaya dan berbanding terbalik dgnn massa",
+                    "attachments": []
+                },
+                {
+                    "answer": "\"Percepatan sebuah benda berbanding lurus dengan resultan gaya dan berbalik terbalik dengan massa benda.\"<br>a= F/m<br><u></u><strong>S\u00a0F= m a</strong><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-batu-gerinda-memiliki-massa-4-kg-dan-jari-jari-8-cm-ketik-802",
+            "question": "Sebuah batu gerinda memiliki massa 4 kg dan jari-jari 8 cm. ketika sebuah momen gaya tetap dikerjakan, roda mencapai kecepatan sudut 1200 rpm dalam 15 sekon. anggap roda mulai dari keadaan diam dan batu gerinda berbentuk silinder pejal. tentukan:    a. percepatan sudut\r\nb. resultan momen gaya\r\nc. sudut putaran yang ditempuh dalam 15 sekon",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "(a.)<br>\u00a0\u03c9=at<br>\u00a0(1200/60) (2\u03c0)=\u03b1(15)<br>\u03b1=8\u03c0/3rad/s\u00b2<br>\u00a0(b.) momen inersianya adlh<br>I=1/2 m r\u00b2 <br>momen gaya <br>T=I \u03b1<br>\u00a0=1/2 m r\u00b2 \u03b1<br>\u00a0=1/2 (4) (0.08)\u00b2(8\u03c0/3)<br>\u00a0=0.107233 N.m<br>(c.)<br>\u03b8=1/2 \u03b1 t\u00b2<br>\u03b8=1/2 (8\u03c0/3) (15)\u00b2<br>\u03b8=300\u03c0 rad<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "2-buah-kawat-panjang-lurus-sejajar-terpisah-pada-jarak-12cm-kawa-818",
+            "question": "2 buah kawat panjang lurus sejajar terpisah pada jarak 12cm. kawat pertama dialiri arus 4A, kawat kedua 6A. tentukan besar induksi magnet pada titik yang berada diantara 2 kawat tersebut dan berjarak 4cm dari kawat pertama?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "besar\u00a0induksi magnet=12",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,132 @@
+{
+    "question": "Untuk membangun 2 ruang kelas\u00a0butuh 15 orang pekerja dalam waktu 50 hari, setelah 20 hari\u00a0berjalan terhenti karena suatu sebab selama 5 hari. berapa tambahan pekerja agar tetap selesai dalam waktu 50 hari ?    hayo siapa yang bisa,\u00a0tolong ya teman-teman saya lupa maaf nih..",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "50 hari = 15 pekerja<br><br>setellah bekerja 20 hari,sisa<br>30 hari = 15 pekerja yang selesaikan<br><br>libur 5 hari<br>25 hari = x orang<br><br>jawab:<br>30 / 25 = x / 15<br>30 \u00d7 15 = 25x<br>450 = 25x<br>18 orang = x<br><br>jumlah yang harus ditambah:<br>18 - 15 = 3 orang<br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "persamaan-m-1x2-4x-2m-0-mempunyai-akar-akar-real-tent-796",
+            "question": "Persamaan (m - 1)x\u00b2 + 4x + 2m = 0 mempunyai akar-akar real. Tentukan nilai m yang memenuhi!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "(m - 1)x\u00b2 + 4x + 2 = 0 memunyai akar-akar real <br>syarat : b\u00b2 - 4ac \u2265 0<br>16 - 4.2(m - 1) \u2265 0<br>16 - 8m + 8 \u2265 0 <br>24 - 8m \u2265 0 <br>-8m \u2265 -24 ruas kiri n kanan dikali -1 (jangan lupa tanda \"\u2265\" dibali jadi \"\u2264\")<br>m \u2264 -24/-8<br>m \u2264 3<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suatu-suku-banyak-fx-jika-dibagi-x3-bersisa-11-dan-jika-diba-249",
+            "question": "Suatu suku banyak f(x) jika dibagi (x+3) bersisa 11 dan jika dibagi (x-1) bersisa -5 .    tentukan sisanya jika f(x) dibagi oleh X\u00b2 + 2x - 3 !",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "x + 3 = 0 ; x = - 3 =&gt; f (-3) = 11<br>x - 1 = 0 ; x = 1 =&gt; f (1) = - 5<br>menentukan sisa f(x)-nya :<br>s (x) = f (a) - f(b) (x) / a-b + a. f (b) - b.f (a) / a - b<br>\u00a0\u00a0 \u00a0 \u00a0\u00a0 = 11 - (-5) (x) / -3 -1 + -3.-5 - 1. 11 / -3-1<br>\u00a0 \u00a0 \u00a0 \u00a0 = 16x /- 4 + 4 /- 4<br>\u00a0 \u00a0 \u00a0 \u00a0 = - 4x -1\u00a0 \u00a0\u00a0 <br><br><br><br><br><br><br><br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "f(-3)=11 dan f(1)= -5<br>f(x) = (x+3)(x-1) H(x) + px + q<br>f(-3) = 11\u21d4 -3p+q = 11<br>f(1) = 5\u21d4 \u00a0 \u00a0<u> \u00a0 p+q = -5 \u00a0</u> \u00a0-\u00a0<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0-4p = 16\u00a0\u21d4 p = -4 dan q = \u00a0-1<br>jadi sisanya -4x -1",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1perhatikan-2-kertas-hvs-yang-berukuran-a5-dan-f4-tanpa-menguku-375",
+            "question": "1.Perhatikan 2 kertas HVS yang berukuran A5 dan F4. Tanpa mengukurnya terlebih dahulu, ketas HVS manakah yang lebih luas permukaannya?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "lebih luas F4 karena\u00a0<br>A, semakin besar semakin kecil luasnya",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "deret-aritmetika-dengan-jumlah-n-suku-pertama-snn2-3ntentuka-475",
+            "question": "Deret aritmetika dengan jumlah n suku pertama Sn=n\u00b2 + 3n.tentukan suku ke-5!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]S _{1} = U _{1}= 4 \\\\ S_{2} = U_{1} + U_{2} = 10 \\\\ U_{2}= 6 \\\\ b = U_{2}-U_{1} = 2 \\\\ U_{n} = a + (n-1)b = 4 + (n-1)2 = 2n + 2 \\\\ U_{5} = 12[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tinggi-badan-andi-kurang-3cm-dari-tinggi-badan-johan-sedangkan-j-856",
+            "question": "tinggi badan andi kurang 3cm dari tinggi badan johan, sedangkan jumlah tinggi badan kedua orang tersebut 329 cm. berapakah tinggi badan masing - masing anak itu",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "misal tinggi badan andi = x - 3<br>johan = x\u00a0<br>x + ( x - 3 ) = 329<br>2x - 3 = 329<br>2x = 332<br>x = 166<br>johan = 166 cm\u00a0<br><br>andi = 166 - 3 = 163 cm\u00a0",
+                    "attachments": []
+                },
+                {
+                    "answer": "andi : 163cm johan :166cm",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "nilai-x-yang-memenuhi-x-20-lt-0-adalah-pliss-bantu-313",
+            "question": "Nilai x yang memenuhi : \u00a0+ x - 20 &lt; 0 adalah ?\r\npliss bantu......",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "silakan dipelajari dan dipahami",
+                    "attachments": [
+                        "answer-attachments/nilai-x-yang-memenuhi-x-20-lt-0-adalah-pliss-bantu-313-1.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "jika-xy-p3-adalah-penyelesaiaan-dari-sistem-persamaan-3x-620",
+            "question": "Jika (x,y) = (p,3) adalah penyelesaiaan dari sistem persamaan\r\n3x + 2y = 6\r\nx - qy = 2",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "x = p<br>y = 3<br><br>3(p) + 2(3) = 6<br>3p + 6 = 6<br>3p = 0<br>p = 0<br><br>x\u00a0- qy = 2<br>p - q(3) = 2<br>0 - 3q = 2<br>3q = -2<br>q = -(2/3)",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-akar-akar-persamaan-kuadrat-jika-23y252y1-yang-bisa-758",
+            "question": "Tentukan akar akar persamaan kuadrat jika 2/3y2+5/2y=1 ,yang bisa jawab jawab ya",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]\\frac{2}{3}y^2+\\frac{5}{2}y=1\\ kalikan\\ kedua\\ ruas\\ dengan\\ 6\\\\\n4y^2+15y-6=0\\\\\ny_{1,2}=\\frac{-b \\underline{+} \\sqrt{b^2-4ac}}{2a}\\\\\ny_{1,2}=\\frac{-15 \\underline{+} \\sqrt{15^2-4(4)(-6)}}{2(4)}\\\\\ny_{1,2}=\\frac{-15 \\underline{+} \\sqrt{225+96}}{8}\\\\\ny_{1,2}=\\frac{-15 \\underline{+} \\sqrt{321}}{8}\\\\[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "nilai-dari-log-16-log-4-log-2-390",
+            "question": "Nilai dari log 16 - log 4 /log 2",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex] \\frac{log16-log 4}{log 2} \\\\   \\frac{log (16/4)}{log2} \\\\   \\frac{log4}{log2}  \\\\   2log2  ^{2}   \\\\ 2[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebanyak-18-gram-glukosa-dibakar-dengan-oksigen-menghasilkan-264-772",
+            "question": "Sebanyak 18 gram glukosa dibakar dengan oksigen menghasilkan 26,4 gram gas karbondioksida dan 10,8 gram uap air. Hitunglah berapa gram oksigen yang diperlukan pada pembakaran tersebut?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "(buat dulu reaksinya)<br>jumlah reaksi = jumlah produk<br>18 gr + O2 = 26,4 + 10,8<br>18 gr + O2 = 37,2<br>O2 = 19,2 gr<br><br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

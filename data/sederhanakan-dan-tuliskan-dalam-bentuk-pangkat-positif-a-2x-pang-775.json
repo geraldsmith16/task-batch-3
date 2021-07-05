@@ -1,0 +1,130 @@
+{
+    "question": "Sederhanakan dan tuliskan dalam bentuk pangkat positif    a. 2x pangkat -1 + y pangkat -2\r\n b. a1/5b1/6 per 2ab pangkat 2",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "<span>2x^-1 + y^-2<br>=<br>1/</span><span>(2x^1) + 1/(y^2)</span><br>=<br>y\u00b2/2xy\u00b2 + 2x/2xy\u00b2........................... samakan penyebutnya<br>=<br>(y\u00b2+2x)/2xy\u00b2<br><br><br>soalny yang b gak jelas<br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "sebuah-setigita-sama-kaki-memiliki-panjang-sisi-yang-sama-dengan-332",
+            "question": "Sebuah setigita sama kaki memiliki panjang sisi yang sama dengan 5 kali panjang sisi lainnya. Agarkeliling segitiga tersebut lebih besar dari 50 m, berapakah panjang masing-masing sisi segitigatersebut?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "5x+5x+x &gt; 50<br>11x &gt; 50<br>x &gt; 50/11<br>x &gt; 4,5<br>jadi x = 5<br>panjang masing masing sisi segitiga (5x,5x,5) = (5*5,5*5,5) = (25,25,5)<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 <br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "mungkinkah-sebuah-persegi-memiliki-keliling-yang-sama-dengan-sebu-368",
+            "question": "mungkinkah sebuah persegi memiliki keliling yang sama dengan sebuah persegipanjang?jika mungkin,tentukan ukuran persegi dan persegipanjang tersebut..! \u00a0 \u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "persegi 4x4<br>persegi panjang 2x6",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "berapa-hasil-dari-18-618-6-562",
+            "question": "Berapa hasil dari\u00a0 (\u221a18 +\u00a0\u221a6(\u221a18-\u221a6))",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "( \u221a18+\u221a16(\u221a18-\u221a16))<br>=(3\u221a2+4(3\u221a2-4))<br>=18+12\u221a2+12\u221a2-16<br>=18+24\u221a2-16<br>=2+24\u221a2",
+                    "attachments": []
+                },
+                {
+                    "answer": "\u00a0hasil perubahan soal\u00a0 \u00a0\u00a03\u221a2 +\u00a0\u221a6(2\u221a3-\u221a6)<br>hasil\u00a03\u221a2 - 6 + 6\u221a3",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-k-x-3-lt-x-lt3-x-bilangan-bulat-l-296",
+            "question": "Diketahui:    K = {x |\u00a0\u207b3 &lt; x &lt;3, x\u00a0\u2208 bilangan bulat }\r\nL = {lima bilangan cacah pertama}\r\nM = {x | x&lt;5, x\u2208 bilangan asli}\r\n\r\ntentukan:\r\na.K U L\r\nb.K U M\r\nc.L U M\r\nd.K U L U M\r\ne.K\u00a0\u03a0 M\r\nf.K\u00a0\u03a0 L\r\ng.K\u00a0\u03a0 L M",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "K = {-2,-1,0,1,2}<br>L\u00a0= {0,1,2,3,4}<br>M = {1,2,3,4}<br><br>jawaban\u00a0<br>A. A={-2,-1,0,1,2,3,4}<br>B. B={-2,-1,0,1,2,3,4}<br>C. C={0,1,2,3,4}<br>D. D={-2,-1,0,1,2,3,4}<br>E. E={1,2}<br>F. F={0,1,2}<br>G. yang ini soalnya gak jelas",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "habcdef-tulislah-semua-himpunan-bagian-dari-h-yg-mempunya-939",
+            "question": "H=(a,b,c,d,e,f)\r\ntulislah semua himpunan bagian dari H yg mempunyai 5anggota!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<strong>5 anggota</strong> = 6 <br>{a, b, c, d, e}; {a, b, c, d, f}; {a, b, c, e, f}; {a, b, d, e, f}; {b, c, d, e, f}; {a, c, d, e, f}<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-lingkaran-memiliki-jari-jari-8m-berapakah-panjang-lintasan-108",
+            "question": "Jika lingkaran memiliki jari jari 8m, berapakah panjang lintasan yang ditempuh?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "k O = 2\u03c0r<br>\u00a0\u00a0 \u00a0 =\u00a0 2 x 3,14 x 8<br>\u00a0\u00a0 \u00a0 =\u00a0 50,24<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Lintasan=Keliling<br>2r=d=16<br>Kell.=\u03c0\u00b7d<br>=3,14\u00b716<br>=<strong>50,24</strong><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-setigita-sama-kaki-memiliki-panjang-sisi-yang-sama-dengan-686",
+            "question": "Sebuah setigita sama kaki memiliki panjang sisi yang sama dengan 5 kali panjang sisi lainnya. Agar\u00a0keliling segitiga tersebut lebih besar dari 50 m, berapakah panjang masing-masing sisi segitiga\u00a0tersebut?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "ini yang untuk kakinya lebih panjang dari alasnya<br><br>keliling= ab + c.................... (a = b = kakiny)<br>50=2a+c<br>50=2(5c)+c.................... (a=b=5c)<br>50=10c+c<br>50=11c<br>c=4,545454...... bulatkan saja jadi 5<br><br>berarti, agar keliling tersebut lebih besar dari 50m, panjang masing2 sisi yaitu<br>a,b,c <br>= 5c, 5c,c<br>= 25, 25, 5<br><br>itu minimal, utk yg lain tinggal dikalikan saja<br>25, 25, 5<br>50, 50, 10<br>dll<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diket-skala-110000000-jarak-pda-pta-kota-jambi-palembang-2-945",
+            "question": "Diket : skala 1:10.000.000    jarak pda pta kota Jambi - Palembang 2,4 cm\r\nsopir bis mengendarai bis dari jambi-palembag dgn kec 80km/jam\r\nsopir bis istirahat 30 menit\r\ntiba di kota palembang pukul 10.30\r\n\r\na.berapa jam bis itu di perjalanan ?\r\nb.pukul brp sopir bis berangkat dri kota jambi ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a. w = JS =1:10.000.000 x 2.4 =24000.000 cm = 240 km<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 240 / 80 = 3\u00a0 jam ( tidak dgn waktu istirahat )<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 3 jam + 30 menit = 3.30 (dgn waktu istirahat ) \u00a0  <br>\u00a0\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 <br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 <br>b.\u00a0 10.30 - 3.30<br>\u00a0\u00a0 \u00a0 pukul 7<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-ya-ni-tugas-numpuk-tolong-a-12x-583",
+            "question": "Tolong ya..... ni tugas numpuk tolong    \u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 a. 1/2x + 5 &gt; 15\r\n\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 b. 2 - (4+x) \u2265 - 22\r\n\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 c. 2/3p + 4 \u2264 8\r\n\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 d. 2x _4 &gt;3X + 9\r\n\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 e. 2y - 7/2\u2264 3\r\nnote. / adalah PER\r\n\u00a0\u00a0 makasih bantu ya...:)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a. <u>1 </u>x\u00a0 +\u00a0 5 &gt; 15<br>\u00a0\u00a0\u00a0 2<br><u>x\u00a0</u> &gt;\u00a0 15 - 5<br>2<br><u>x </u>&gt; 10<br>2<br>x &gt; 20<br><br>b. 2 - ( 4 + x ) \u2265 - 22<br>\u00a0\u00a0 2 - 4 - x \u2265 - 22<br>\u00a0- 2 - x \u2265 - 22<br>\u00a0- x \u2265 - 20<br>\u00a0x \u2264 20<br><br>c.<u> 2\u00a0</u> p\u00a0 + 4 \u2264 8<br>\u00a0\u00a0 3<br>\u00a0<u>2p</u>\u00a0 \u2264 8 - 4<br>\u00a03<br><u>2p</u> \u2264 4<br>3<br>2p \u2264 12<br>p \u2264 6<br><br>d. 2x - 4 &gt; 3x + 9<br>\u00a0 -3x + 2x &gt; 9 + 4<br>\u00a0 -x &gt; 13<br>\u00a0 x &lt; - 13 <br><br>e. 2y - <u>7</u> \u2264 3\u00a0 \u00a0 \u00a0 (kedua ruas dikalikan 2)<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0\u00a0 2<br>\u00a0\u00a0 4y - 7 \u2264 6<br>\u00a0\u00a0 4y \u2264 13<br>\u00a0\u00a0 y\u00a0  \u2264 <u>13</u><br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 4<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-2y2-723-2-7gt3x-3-2x-4gt3x9-630",
+            "question": "1. 2y/2-7/2\u22643=\r\n2. 7&gt;3x =\r\n3. 2x-4&gt;3x+9=",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]\\frac{2y}{2}-\\frac{7}{2} \\leq 3\\\\\n\\frac{2y-7}{2} \\leq 3\\\\\n2y-7 \\leq 6\\\\\n2y \\leq 13\\\\\ny \\leq \\frac{13}{2}\\\\\\\\\n7&gt;3x\\\\\n\\frac{7}{3}&gt;x\\\\\nx&lt;\\frac{7}{3}\\\\\\\\\n2x-4&gt;3x+9\\\\\n-x&gt;13\\\\\nx&lt;-13[/tex]",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

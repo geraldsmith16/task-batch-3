@@ -1,0 +1,154 @@
+{
+    "question": "Apa yang anda ketahui tentang gaya satu newton?",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "disebut juga hukum kelembaman. suatu benda akan tetap diam jika tidak ada resultan gaya yang mengenainya",
+            "attachments": []
+        },
+        {
+            "answer": "<span>Gaya Satu newton adalah besarnya gaya yang diperlukan untuk membuat benda\nbermassa\nsatu kilogram\nmengalami percepatan\nsebesar satu meter\nper detik</span>\n\n<br><br><br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "sebuah-batu-gerinda-memiliki-massa-4-kg-dan-jari-jari-8-cm-ketik-802",
+            "question": "Sebuah batu gerinda memiliki massa 4 kg dan jari-jari 8 cm. ketika sebuah momen gaya tetap dikerjakan, roda mencapai kecepatan sudut 1200 rpm dalam 15 sekon. anggap roda mulai dari keadaan diam dan batu gerinda berbentuk silinder pejal. tentukan:    a. percepatan sudut\r\nb. resultan momen gaya\r\nc. sudut putaran yang ditempuh dalam 15 sekon",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "(a.)<br>\u00a0\u03c9=at<br>\u00a0(1200/60) (2\u03c0)=\u03b1(15)<br>\u03b1=8\u03c0/3rad/s\u00b2<br>\u00a0(b.) momen inersianya adlh<br>I=1/2 m r\u00b2 <br>momen gaya <br>T=I \u03b1<br>\u00a0=1/2 m r\u00b2 \u03b1<br>\u00a0=1/2 (4) (0.08)\u00b2(8\u03c0/3)<br>\u00a0=0.107233 N.m<br>(c.)<br>\u03b8=1/2 \u03b1 t\u00b2<br>\u03b8=1/2 (8\u03c0/3) (15)\u00b2<br>\u03b8=300\u03c0 rad<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "penjelasan-tentang-momen-inersia-berbagai-benda-tegar-homogen-706",
+            "question": "Penjelasan tentang momen inersia berbagai benda tegar homogen",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Benda tegar tersusun dari banyak partikel yang tersebar di seluruh \nbagian benda. Momen inersia suatu benda tegar merupakan jumlah semua \nmomen inersia masing-masing partikel penyusun benda tegar.<br><br><br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span>Benda tegar tersusun dari banyak partikel yang tersebar di seluruh \nbagian benda. Momen inersia suatu benda tegar merupakan jumlah semua \nmomen inersia masing-masing partikel penyusun benda tegar.<br></span><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-pada-magnet-bentuk-keping-lingkaran-bagaimana-letak-kutubnya-570",
+            "question": "Jika pada magnet bentuk keping lingkaran bagaimana letak kutubnya",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Tadi sudah dijawab di pertanyaan satunya, bagian setengah lingkaran atas merupakan kutub utara, dan bagian setengah lingkaran bawah merupakan kutub selatan. Okay ? @Liwed",
+                    "attachments": []
+                },
+                {
+                    "answer": "Di setengah bagian lingkaran atas kutub selatan dan di setengah bagian lingkaran di bawah kutub utara<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-bola-pejal-yang-berjari-jari-r20-cm-bermassa-m2-kg-dilep-457",
+            "question": "sebuah bola pejal yang berjari-jari R=20 cm bermassa m=2 kg dilepas di titik A pada bidang miring kasar tanpa kecepatan awal,berapa energi kinetik rotasi bola ketika mencapai titik B(di ujung)?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "I=2/5mR\u00b2<br><br>EK=Ek rotasi<br>EK=\u00bd I \u03c9\u00b2<br>EK=\u00bd (\u2156 mr\u00b2) (v/r)\u00b2<br>EK=\u2155 m v\u00b2<br>EK=1/5 . 2 . v\u00b2<br>EK=2/5 v\u00b2<br><br>saya dak tau cara nyari V nya berapa. hanya ini yg bisa saya bantu<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span>I=2/5mR\u00b2<br><br>EK=Ek rotasi<br>EK=\u00bd I \u03c9\u00b2<br>EK=\u00bd (\u2156 mr\u00b2) (v/r)\u00b2<br>EK=\u2155 m v\u00b2<br>EK=1/5 . 2 . v\u00b2<br>EK=2/5 v\u00b2<br><br></span><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dari-puncak-sebuah-menara-setinggi-45-m-dijatuhkan-sebuah-batu-j-959",
+            "question": "dari puncak sebuah menara setinggi 45 m dijatuhkan sebuah batu. jika percepatan gravitasi di tempat tersebut 10 m/s\u00b2, kecepatan batu saat tepat menyentuh tanah sebesar?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Dik = h : 45cm<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0g : 10 m/ [tex] s^{2} [/tex]\u00a0<br>Dit = V =  \\sqrt{2.g.h} ?<br>Penye =\n<br>V =  \\sqrt{2.10.45}<br>\u00a0 \u00a0=   \\sqrt{900}<br>\u00a0 \u00a0= 30[/tex]<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "EP = EK<br>mgh = 1/2 m v^2<br>gh = 1/2 v^2<br>45.10 = 1/2 v^2<br>900 = v^2<br>v = 30m/s<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dari-beberapa-drum-yang-berisi-udara-yang-memiliki-massa-keseluru-445",
+            "question": "dari beberapa drum yang berisi udara yang memiliki massa keseluruhan 30 kg dan volum rata-rata 2,5 m\u00b3, digunakan untuk membuat jembatan ponton yang terapung di atas permukaan air. Berapa berat beban maksimum yang dapat ditahan oleh drum tersebut?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "massa\u00a0  di kali volume 30dikali 2,5 m3=75kg<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "hasilnya itu adalah\u00a075 newton",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-katrol-bermassa-4kg-dan-jari-jari-10cm-jika-m11kgm23kg-dan-366",
+            "question": "1. katrol bermassa 4kg dan jari-jari 10cm. jika m1=1kg,m2=3kg dan percepatan gravitasi bumi 10m/s. tentukan percepatan sudut balok.    2. sebuah sistem katrol dengan jari-jari 20cm dan 10cm mempunyai momen inersia 4kgm. sistem katrol ditarik oleh dua gaya f1 dan f2, maka ktrol akan mengalami percepatan sudut sebesar",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "dik : mk : 4 kg<br>r : 10<br>m1; 1 = w.g = 1x10 =10<br>m2; 3=w.g = 3x10=30<br>penyelesaian ;\u00a0\u03b1= a[tex]  \\frac{a}{r} [/tex]= 5/0.1 = 50 n<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-bola-pejal-dengan-massa-6-kg-dan-berjari-jari-20-cm-berger-996",
+            "question": "sebuah bola pejal dengan massa 6 kg dan berjari-jari 20 cm bergerak pada kelajuan 30 m/s sambil berputar. total energi kinetiknya adalah....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "ek=1/2\u00d7m\u00d7v\u00b2<br>ek=1/2.6.30\u00b2<br>ek=2700<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Ek= 1/2 . m. v \u00b2 + 1/2.I.\u03c9\u00b2<br>\u00a0\u00a0 \u00a0= 1/2. 6. 900 + 1/2. (1/2.6.0,04). (900/0,04)<br>\u00a0\u00a0 \u00a0 = 2700 + 1350<br>\u00a0\u00a0 \u00a0 = 4050 m/s\u00b2",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "rumus-berat-dalam-fisika-386",
+            "question": "Rumus berat dalam fisika?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "W = m . g<br><br>m = massa \u00a0(kg)<br>g \u00a0= gravitasi \u00a0(m/s\u00b2 )<br>W = berat (N)",
+                    "attachments": []
+                },
+                {
+                    "answer": "yang dimaksud berat kan? w = m x g, massa x gravitasi",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebatang-silinder-timah-hitam-sepanjang-1-m-e-16-x-1010-m3-624",
+            "question": "Sebatang silinder timah hitam sepanjang 1 m (E = 1,6 x 10^10 m^3) memiliki luas penampang 1,25 x 10^-3 m^2 ditarik oleh gaya 2500 N. Besar regangan silinder tersebut adalah?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "3194\u00a0=besar regangan silinder",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

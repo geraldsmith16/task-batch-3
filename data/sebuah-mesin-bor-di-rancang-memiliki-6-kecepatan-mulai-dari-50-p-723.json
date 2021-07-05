@@ -1,0 +1,134 @@
+{
+    "question": "sebuah mesin bor di rancang memiliki 6 kecepatan. mulai dari 50 putaran/menit hingga 750 putaran / menit. jika kecepatan ini membentuk geometri, tentukan lah nilai nilai, masing masing benar hingga bilangan bulat terdekat",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "tolong ditulis caranya ya",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "suatu-kotak-berisi-5-kelereng-merah-dan-3-kelereng-putihdua-kele-757",
+            "question": "suatu kotak berisi 5 kelereng merah dan 3 kelereng putih.dua kelereng di ambil satu persatu tanpa pengembalian kelereng pertama kedalam kotak.peluang terambilnya kelereng pertama\u00a0dan kedua berwarna merah adalah?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "klu ndasalh 1/4<br><br>maaf klau slahhhh<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "5\u00d73= 15<br>15:5 = 3<br>5= ADALAH kelereng pertama berwarna merah<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "besar-sudut-p-dari-sebuah-segitiga-pqr-adalah-70-selisih-antara-535",
+            "question": "Besar sudut P dari sebuah segitiga PQR adalah 70, selisih antara besar sudut Q dan R adalah 36\u00b0 tentukan besar sudut Q dan R. Perlu diketahui total sudut sebuah segitiga adalah 180\u00b0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]P=70^o\\\\\nQ-R=36^o \\rightarrow Q=36^o+R\\\\\\\\\nP+Q+R=180^o\\\\\n70^o+36^o+R+R=180^o\\\\\n2R=74^o\\\\\nR=37^o\\\\\\\\\nQ=36^o+R\\\\\nQ=36^o+37^o\\\\\nQ=73^o[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "banyak-bilangan-asli-yang-kurang-dari-999-yang-tidak-habis-dibagi-265",
+            "question": "Banyak bilangan asli yang kurang dari 999 yang tidak habis dibagi 3 atau 5?    tolong menggunakan cara barisan aritmatika...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Un= a+(n-1)b<br>u/ b=3<br>Un=3+3n-3<br>999=3n<br>n=333<br>u/ b=5<br>Un=5+5n-5<br>995=5n<br>n=199<br>\u2261 n = 999-333-199<br>\u00a0\u00a0 \u00a0 \u00a0  = 467<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "hitunglahsudut-antara-vektor-a-dan-b-berikut-ini-a-3i-2j-k-399",
+            "question": "Hitunglahsudut antara vektor A dan B berikut ini,\r\n\r\nA = 3i - 2j + k\r\nB = 4i - 3j +2k",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "cos a= a.b/panjanga xpanjangb<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0=(12+6+2)/\u221a14\u221a29",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "mohon-penjelasan-cara-mengerjakan-nya-terimakasih-482",
+            "question": "Mohon penjelasan cara mengerjakan nya, terimakasih",
+            "attachments": [
+                "question-attachments/mohon-penjelasan-cara-mengerjakan-nya-terimakasih-482-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "insyaallah<br>tapi man soalnya?",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "ditanya-sudut-kol-diketahui-sudut-mon-30-derajat-sudut-kql-60-506",
+            "question": "Ditanya sudut KOL? diketahui sudut MON= 30 derajat, sudut KQL= 60 derajat",
+            "attachments": [
+                "question-attachments/ditanya-sudut-kol-diketahui-sudut-mon-30-derajat-sudut-kql-60-506-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "&lt; KOL = 30 derajat karena bertolak belakang dengan\u00a0 &lt; MON<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "ukuran sudutnya adalah 90 derajat<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "x-a-nilai-dari-x2-455",
+            "question": "\u00a0 \u00a0 \u00a0 \u00a0x \u00a0 \u00a0\u00a0 \u00a0\u00a0 = a, nilai dari \u00a0\u00a0 \u00a0\u00a0 \u00a0 \u00a0 x\u00b2 \u00a0 \u00a0\u00a0 \u00a0\u00a0\u00a0 \u00a0= ...    \u00a0\u00a0x\u00b2+3x+1 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0x\u00b2\u00b7\u00b2+3x\u00b2+1",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "coba substitusikan x dengan ax\u00b2+3ax+a<br><br>semoga ketemu<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "x2-54-maka-4x-420",
+            "question": "X/2 = 5/4, maka 4x =",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Resolution:<br>[tex] \\frac{x}{2}=  \\frac{5}{4}  \\\\ 4x=10[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "864",
+            "question": "",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]lim_{x \\rightarrow 0}\\ \\frac{x-3-sin(x-3)}{x-3}\\\\\n= lim_{x \\rightarrow 0}\\ \\frac{x-3}{x-3}- lim_{x \\rightarrow 0}\\ \\frac{sin(x-3)}{x-3}\\\\\n=  lim_{x \\rightarrow 0}\\ 1- lim_{x \\rightarrow 0}\\ 1\\\\\n=1-1\\\\\n=0[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "penerapan-sudut-pada-bidang-fisika-apa-ya-721",
+            "question": "Penerapan sudut pada bidang fisika apa ya",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "penerapan sudut dalam bidang fisika yaitu dalam mencari percepatan sudut, momen gaya, momen sudut,\u00a0vektor posisi benda\u00a0pada katrol dan lain lain",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

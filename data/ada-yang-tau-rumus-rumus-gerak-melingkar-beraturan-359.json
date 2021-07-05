@@ -1,0 +1,146 @@
+{
+    "question": "Ada yang tau rumus rumus GERAK MELINGKAR BERATURAN ?",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "rumus gerak melingkar beraturan adalah<br>v = 2\u03c0R/T \u00a0\u00a0atau \u00a0v = 2\u03c0Rf\u00a0",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "besarnya-tegangan-yang-dilakukan-pada-sebuah-batang-adalah-2x106-688",
+            "question": "Besarnya tegangan yang dilakukan pada sebuah batang adalah 2x10^6 N/m^2. jika panjang batang adalah 4 meter dan modulus young elastisitasnya 2,5x10^8 N/m^2, maka pertambahan panjang batang adalah.... A. 0,8 cm B. 1,6 cm C. 3,2 cm D. 5,0 cm E. 6,4 cm \u00a0 dengan pembahasannya \u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "modulus young = stres /strain<br>2,5 . 10 ^8 N/m^2 = 2 . 10^6 N/m^2 . strain<br>2,5 . 10^ 8 N/m^2 / 2. 10^6 N/m^2 = strain<br>1,25 . 10^2 = strain<br><br>strain = pertambhan panjang / panjang awal<br>1,25 . 10^2 = pertambahn panjang / 4<br>1,25 .10^2 / 4 = pertambahn panjang<br>125 /4 = pertambahan panjang<br>31,25 m = pertambahn panjang<br>saya dapatnya gitu &gt;_&lt;",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bagaimana-bentuk-permukaan-zat-cairsudut-kontak-untuk-air-alko-174",
+            "question": "bagaimana bentuk permukaan zat cair(sudut kontak) untuk air, alkohol dan raksa di dalam pipa kapiler ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "sudut kontak air dengan pipa kapiler adalah 0 derajat &lt; 0 &lt; 90 derajat<br>sudut kontak air raksa dengan pipa kapiler adalah 90 derajat &lt; 0 &lt; 180 derajat",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-sebuah-gaya-tunggal-dengan-besar-10-n-bekerja-pada-benda-ber-728",
+            "question": "1. sebuah gaya tunggal dengan besar 10 N bekerja pada\u00a0benda\u00a0bermassa m. benda bergerak dari keadaan diam waktu 6 sekon. massa benda tersebut adalah...\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "10 N/6 sekon = 1,67\u00a0<br>maaf yah klo kurang benar....<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "diket : gaya ( N) :10 N<br>\u00a0 \u00a0 \u00a0 \u00a0 : perpindahan jarak ( S ) : 6<br>ditanya : massa benda ( M):....?\u00a0<br>dijawab:<br>W = m\u00a0X g\u00a0<br>\u00a0 \u00a0 = 10N\u00a0X\u00a06 sekon\u00a0<br>\u00a0 \u00a0\u00a0= \u00a060\u00a0<br><br>maaf banget klo jwbnya slh ya ,aq ja ngrjainnya lupa rmsnnya klo ndak slh\u00a0<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "hitunglah-momen-inersia-suatu-benda-yang-berotasi-dengan-kecepata-322",
+            "question": "hitunglah momen inersia suatu benda yang berotasi dengan kecepatan sudut 10 rad/sekon dan memiliki energi kinetik 5 joule",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Dik Ek = 5 j<br>\u00a0 \u00a0 \u00a0\u00a0\u03c9 = 10 rad/s<br>Dit i ?<br>jawab.<br>rumus i = mr^2<br><br>Ek = 1/2 m (R.\u03c9)^2<br>5 \u00a0 = 1/2 m (R.10^2)<br>10 \u00a0= mr^2 . m.100\u00a0<br>mr^2 = 10 / 100 m<br>\u00a0 \u00a0 \u00a0 \u00a0 = \u00a00,1 kgm^2 /\u00a0m<br>i = 0,1 kgm<br><br>Klik bintang",
+                    "attachments": []
+                },
+                {
+                    "answer": "Rumus momen inersia (I) adalah\u00a0<br>bila percepatan sudut \u00a010 rad / s =\u00a0\u03b1<br>Energi kinetik = 5 Joule = F<br>[tex]I = mr^2[/tex]\u00a0<br><br>Pertama cari dulu persamaan 1\u00a0<br>[tex]F = m a_{tan} [/tex]<br>\u00a0--&gt;\u00a0Hubungan antara gaya (F), massa (m), dan percepatan tangensial (a tan) partikel\u00a0<br><br>Partikel berotasi sehingga partikel mempunyai percepatan sudut.<br>\u00a0<br>Hubungan antara percepatan tangensial dengan percepatan sudut dinyatakan melalui persamaan :<br>[tex] a_{tan}=r \\alpha  [/tex] Persamaan 2\u00a0<br><br>Subtitusikan atau gantikan percepatan tangensial (a tan) pada persamaan 1\u00a0 dengan percepatan tangensial (a tan) pada persamaan 2.<br><br>[tex]F = \\frac{1}{2}m r \\alpha[/tex]<br>[tex]\\gamma . r = \\frac{1}{2}m r \\alpha[/tex]]<br>[tex]5 = \\frac{1}{2}m . r^2 . 10[/tex]<br>[tex]mr^2 = 1 / 10 = 0.1 [/tex]<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-pegas-meregang-10-mm-ketika-di-tarik-oleh-gaya-2-n-berapa-985",
+            "question": "sebuah pegas meregang 10 mm ketika di tarik oleh gaya 2 N. berapa pertambahan panjang ketika ditarik gaya 5 N",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "m1/m2 = F2/F1<br>10/m2 = akar5/2<br>10/m2 = akar2,5<br>10/m2 = 1,58<br>m2 = 10/1,58<br>m2 = 6,3 mm",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "berapa-kalor-yg-di-butuhkan-es-bersuhu-2c-dengan-massa-4-kg-ag-909",
+            "question": "Berapa kalor yg di butuhkan es bersuhu -2\u00b0c dengan massa 4 kg agar mencapai suhu 5\u00b0c, jika dik.    L es=336.000 J/kg\r\nc es=500 J/kg\u00b0c\r\nc air=4200 J/kg\u00b0c",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "m.c.\u0394t=4\u00d72\u00d7500= 4000j<br>m.L=4\u00d7336000=1344000j<br>m.c.\u0394t=4\u00d75\u00d74200=84000j<br><br>kalor yg dibutuhkan=1432000j=1432kj",
+                    "attachments": []
+                },
+                {
+                    "answer": "Q es 1 = m.Ces.\u0394t<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 4 . 500 .(0- -2)<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0= 400 j<br>Q lebur 2\u00a0= m.L<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 4 . 336.000<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = \u00a01.344.000 j<br>Q cair 3\u00a0= m.Cair.\u0394t<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = \u00a04 . 4200 . (5-0)<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 84.000 j<br>kalor total Q = Q1+Q2+Q3<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 400 + 1.344.000 + 84.000<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 1.428.400 J<br>tolong klik bintang",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pa-saya-mau-nanya-ada-sebuah-mobil-mainan-dgn-masa-2kg-melaju-dgn-651",
+            "question": "pa saya mau nanya ada sebuah mobil mainan dgn masa 2kg melaju dgn kecepatan 6m2/s berapakah energi mobil kinetik itu???",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1/2 kali 2 kali 12 = 12 joule<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "klo gx salah sih<br>kan rumus nya<br>1/2.m.v= 1/2. 2kg. 6km/s<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a01/2. 2kg. 6km/s<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 =1/2. 12 {12tu dibagi 2 dan dapat 12 dari 6km/s dikali 2kg<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0=6j<br>jadi energi kinetik nya yaitu 6j<br>maaf klu salh",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "termometer-celcius-dan-fahrenheit-menunjukkan-angka-yang-sama-pad-530",
+            "question": "Termometer celcius dan fahrenheit menunjukkan angka yang sama pada suhu",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "y\u00b0 R = y\u00b0 C<br><br>y = 4/5 y<br><br>5/5 y - 4/5 y = 0<br><br>1/5 y = 0<br><br>1 x y = 5 x 0<br><br>y = 0<br><br><br><span>Jadi suhu 0\u00b0 R sama dengan suhu 0\u00b0 C</span>",
+                    "attachments": []
+                },
+                {
+                    "answer": "323 kalo gak salah, kalo salah tolong betulin yaa<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "berikan-5-soal-dan-pembahasannya-tentang-optik-259",
+            "question": "Berikan 5 soal dan pembahasannya tentang optik",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1. dimanakan letak mata akan berakomodasi maksimum pada lensa cembung<br>2. berapakah perbesaran dari lensa cembung jika diketahui r = 20\u00a0cm dan jarak benda ke cermin adalah 15 cm<br>3. dimanakah letak mata akan tidak berakomodasi ?<br>4. pada cermin cekung,\u00a0diketahui si adalah 30 cm dengan so adalah 15 cm, jika benda digeser 3 cm lebih jauh\u00a0dari semula, berapakah jarak bayangan sekarang ?<br>5. \u00a0titik jauh seorang penderita miopi adalah 25 cm. agar dapat melihat dengan normal dibutuhkan kacamata berlensa .... dengan .... dioptri<br><br>jawab<br>1. di antara f dengan lensa<br>2. 2 kali<br>3. tepat di f<br>4. 60 cm<br>5. cekung, -4 dioptri",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "seorang-penderita-rabun-dekat-dengan-titik-dekat-05-m-ingin-memb-869",
+            "question": "seorang penderita rabun dekat dengan titik dekat 0,5 m ingin membaca pada jarak baca normal. jenis lensa kacamata yang harus digunakan dan jarak fokusnya adalah ..",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "ditolong dengan lensa cembung. fokusnya +2 .\nmaaf klo salah",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span>\u00a0lensa cembung. fokusnya +2 .</span><br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

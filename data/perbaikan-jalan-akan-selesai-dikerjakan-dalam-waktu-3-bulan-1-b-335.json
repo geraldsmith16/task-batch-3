@@ -1,0 +1,140 @@
+{
+    "question": "Perbaikan jalan akan selesai dikerjakan dalam waktu 3 bulan ( 1 bulan=30 hari),jika dikerjakan oleh 16 orang tenaga.setiap hari minggu (1 bulan ada 5 hari minggu) buruh libur bekerja.Berapa orang buruh pekerja yang harus ditambah agar jalan tersebut tetap selesai tepat waktu ?    make caranya ya,nanti aku jadikan solusi terbaik :)",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "waktu (hari)\u00a0 \u00a0 \u00a0 \u00a0  pekerja<br>90\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 16<br>75\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 16 + x<br><u><br></u>90/75\u00a0 =16+x/16<br>(75 x 16) + 75x = 90 x 16<br>1200 + 75x = 1440<br>75x =240<br>x = 3.2 orang (3 orang)<br><br>menurut saya sih kayak gini ya. maaf kalo salah.<br><u></u>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "sebuah-lingkaran-dengan-juring-opq-mempunyai-sudut-135-derajat-159",
+            "question": "Sebuah lingkaran dengan juring\u00a0OPQ mempunyai\u00a0sudut 135 derajat di titik O (titik pusat). Diketahui panjang OP = 10 cm. Maka luas juring OPQ ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "135/360\u00a0\u00d7 3,14\u00a0\u00d7 10\u00a0\u00d7 10 = 117,75",
+                    "attachments": []
+                },
+                {
+                    "answer": "Luas Juring = sudut OPQ/360 x\u00a0\u03c0 x r\u00b2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 =135/360 x 3,14 x 10\u00b2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 =117,75 cm\u00b2",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-d-abc-siku-siku-di-a-ab-3-cm-dan-ac-3-cm-hitung-586",
+            "question": "Diketahui \u0394 ABC siku-siku di A , AB = 3 cm dan AC = 3 cm.    Hitunglah luas dan keliling segitiga tersebut?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "dik : t = 3\u00a0\u221a2 cm dan alas 3\u221a5 cm<br>maka<br>L = a.t = 3\u221a5 cm . 3\u221a2 cm = 9\u221a10 cm\u00b2\u00a0<br>untuk K nya,pertama cari sisi miringnya pake phitagoras<br>S =\u00a0\u221aa\u00b2+t\u00b2 =\u221a9.2 + 9.5 =\u221a18 +45 =\u221a63 =\u00a0\u221a9 .\u221a7 = 3\u221a7 cm<br><br>sehingga K = a+t+s = 3\u221a5 + 3\u221a2 + 3\u221a7 cm =karna angka dalam akarnya berbeda beda maka tak dapat di jumlah kan dengan total :)",
+                    "attachments": []
+                },
+                {
+                    "answer": "cb=\u221a(3\u221a2)\u00b2+(3\u221a5)\u00b2<br>\u00a0\u00a0 = \u221a63<br>L = 1/2at<br>\u00a0\u00a0 = 1/2*3\u221a5*3\u221a2<br>\u00a0\u00a0 =1/2*9\u221a10<br>k=3\u221a5+3\u221a2+\u221a63",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-himpunan-penyelesaian-dari-persamaan-berikut-a-6x-10-297",
+            "question": "Tentukan HIMPUNAN PENYELESAIAN dari persamaan berikut!    a. 6x - 10 = 2x + 2\r\nb. 5x - 4 = 3x - 8\r\nc. -7 - 2a = 4a - 19\r\nd. Jika diketahui 15x - 7 = 8 - 10x , maka tentukan nilai 2x + 1",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]a.6x-2x=2+10 \\\\ 4x=12 \\\\ x=3 \\\\  \\\\ b.5x-3x=-8+4 \\\\ 2x=-4 \\\\ x=-2 \\\\  \\\\c.-2a-4a=-19+7 \\\\ -6a=-12 \\\\ a=2 \\\\  \\\\ d.15x+10x=8+7 \\\\25x=15 \\\\ x=15/25  \\\\ x=3/5 \\\\  \\\\ 2x+1=2(3/5)+1 \\\\ 6/5+1=2,2[/tex]",
+                    "attachments": []
+                },
+                {
+                    "answer": "6x - 10 =2x +2<br>6x - 2x = 2 + 10<br>4x = 12<br>x = 3<br><br>5x - 4 =3x - 8<br>5x - 3x = -8+4<br>2x = -4<br>x = -2<br><br>-7 - 2a = 4a - 19<br>-2a - 4a = -19 + 7<br>-6a = -12<br>a = 2<br><br>15x - 7 =8 - 10 x<br>15x + 10x = 8 +7<br>25x = 15<br>x = 3/5<br>Nilai<br>2x + 1<br>2 x 3/5 + 1<br>6/5 + 1<br>6/5 + 5/5<br>11/5 = 2 1/5<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-penyelesaian-dari-pertidaksamaan-berikut-pakai-cara-1-849",
+            "question": "Tentukan penyelesaian dari pertidaksamaan berikut (pakai cara)    1.2x - 4\u00a0&gt; 3x + 9\r\n2.\u00a02/3p + 4\u00a0\u2264 8\r\n3. 2y - 7 \u00a0 \u00a0 \u00a0 \u00a0\r\n--------------- \u00a0\u2264\u00a03\r\n\u00a0\u00a0 \u00a0 \u00a02",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1.2x-4&gt;3x+9<br>=2x-3x&gt;4+9<br>=-x&gt;13<br>=x&lt;-13<br>ni jawaban no 1<br><span>2/3p + 4\u00a0\u2264 8<br>=2/3p&lt;8-4<br>=p&lt;2/3:4<br>=p&lt;3/2.4<br>=p&lt;6 <br>ni jawban no 2<br></span><br><span> 2y - 7\u00a0 /2\u00a0 \u2264\u00a03<br>=y-7/2&lt;3<br>=y&lt;3+7/2<br>=y&lt;6 1/3<br></span>jadi nya 6 satu per dua dek <br>ni jawb nya<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "34-y-38-y-pake-cara-522",
+            "question": "- 3/4 y = -3/8\r\ny=\r\n\u00a0pake cara",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]- \\frac{3y}{4}=  -\\frac{3}{8}  \\\\  \\\\  \\frac{3y}{4}=  \\frac{3}{8}  \\\\  \\\\ 3y.8 = 4.3 \\\\  \\\\ 24y = 12 \\\\  \\\\ y= \\frac{12}{24}  \\\\  \\\\ y= \\frac{1}{2} [/tex]",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span>- 3/4 y = -3/8<br>y = -3/8 : -3/4\u00a0<br>\u00a0 \u00a0= -3/8 x -4/3<br>\u00a0 \u00a0= 12/24<br>\u00a0 \u00a0= 1/2 = 0,5</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "misalkan-suatu-persegi-diletakkan-berimpitan-di-kanan-persegi-lai-846",
+            "question": "misalkan suatu persegi diletakkan berimpitan di kanan persegi lainnya. tentukan keliling persegi yang terdiri dari : \u00a0 a. 1 persegi b.gabungan 2 persegi c.gabungan 3 persegi d.gabungan n persegi e. berikan alasan yang digunakan untuk menggeneralisasi soal butir d !",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "coba dilihat dan\u00a0dipelajari",
+                    "attachments": [
+                        "answer-attachments/misalkan-suatu-persegi-diletakkan-berimpitan-di-kanan-persegi-lai-846-1.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "persamaan-garis-melalui-a2-1-dan-sejajar-garis-3x-2y50-adala-981",
+            "question": "Persamaan garis melalui A(2,-1) dan sejajar garis 3x-2y+5=0 adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "y = -1 x= 2<br><br>3x - 2y + 5 = 0<br>3x - 2y = -5<br>3.2 - 2.-1 = -5<br>6 - (-2) = -5<br>8 + 5 = 13<br><br><br>Jadi, 3x - 2y = 13<br>Atau 3x - 2y -13 = 0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-jika-diameter-27-berapakah-kelilingnya-2-jika-diameter-23-476",
+            "question": "1 . Jika Diameter 27 Berapakah Kelilingnya ?    2. Jika Diameter 23 Berapakah Kelilingnya ?\r\n\r\n\r\nPOIN MAKSUDNYA APA ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1.\u00a0 k =\u00a0[tex] \\pi [/tex]\u00a0\u00d7 diameter<br>\u00a0 \u00a0 \u00a0 \u00a0= \u00a0[tex] \\frac{22}{7} [/tex] x 27<br>\u00a0 \u00a0 \u00a0 \u00a0= \u00a085<br>2. \u00a0k =\u00a0[tex] \\pi [/tex]\u00a0\u00d7 diameter<br>\u00a0 \u00a0 \u00a0 \u00a0= \u00a0[tex] \\frac{22}{7} [/tex] x 23<br>\u00a0 \u00a0 \u00a0 \u00a0= 72<br><br>itu hasil pembulatan :)",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "panjang-hipotenusa-suatu-segitiga-siku-siku-sama-kaki-adalah-8-cm-129",
+            "question": "Panjang hipotenusa suatu segitiga siku siku sama kaki adalah 8 cm. Jika panjang kaki kaki nya sama dengan x\u00a0cm, berapakah nilai\u00a0x ?     Mohon jawaban yang panjang dan\u00a0jelas",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "u2+u4=24<br>u3+u5=32<br><br>a+b+a+3b=24<br>a+2b+a+4b=32<br><br>2a+4b=24<br>2a+6b=32<br><br>a=4<br>b=4<br><br>u9=a+8b<br>\u00a0\u00a0 =4+8.4<br>\u00a0\u00a0  =36<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-d-bntu-y-1-3x-3lt6-2-2x-gt-8-x-3-x3lt2x5-4-297",
+            "question": "Tolong d bntu y    1. 3x-3&lt;6\r\n2. 2+x\u00a0&gt;\u00a0 8-x\r\n3.\u00a0x+3&lt;2x+5\r\n4. 2x-2 &gt;4x+4\r\n\r\nbeserta caranya, tp jgn ngasal yyy",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1.3x-3&lt;6<br>3x&lt;+3+6<br>3x&lt;9<br>x&lt;3<br><br>2.2+x<span><u>&gt;</u> 8-x</span><br>x+x<u>&gt;</u>-2+8<br>2x<u>&gt;</u>6<br>x<u>&gt; </u>3<br><br>3.x+3&lt;2x+5<br>x-2x&lt;-3+5<br>-x&lt;2<br>x&gt;-2<br><br>4.<span>2x-2 &gt;4x+4<br>2x-4x&gt;2+4<br>-2x&gt;6<br>x&lt;-3<br></span><br><br><br><br><br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

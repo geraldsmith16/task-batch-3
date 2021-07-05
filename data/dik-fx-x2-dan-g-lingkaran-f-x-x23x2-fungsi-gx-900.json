@@ -1,0 +1,134 @@
+{
+    "question": "Dik: f(x) =x+2 dan (g lingkaran f ) (x)= x2+3x+2, fungsi g(x).................",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "[tex]gof(x)=x^2+3x+2\\\\\ng(f(x))=x^2+3x+2\\\\\ng(x+2)=x^2+3x+2\\\\\ng(x+2)=x^2+4x+4-x-2\\\\\ng(x+2)=(x+2)^2-(x+2)\\\\\ng(x)=x^2-x[/tex]",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "diketahui-segitiga-abc-dengan-koordinat-titik-a11-b82-c1-829",
+            "question": "Diketahui segitiga ABC dengan koordinat titik\u00a0 A(1,1) B(8,2) C(11,5), tentukan translasi yang diwakili oleh garis AB",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Secara umum:<br>B(x`,y`) = T(a,b)+ A(x,y)<br>(8,2) = (a,b) + (1,1)<br>(8,2) = (a+1,b+1), sehingga\u00a0 a+1 = 8 , maka a=7 dan b+1=2, maka b=1.<br>jadi translasi T(7 1)<br><br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "xy2-x2y225-penyelesaiannya-270",
+            "question": "X+y=2\r\nx^2+y^2=25. Penyelesaiannya?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Perintahnya apa? Tentang bab apa?",
+                    "attachments": []
+                },
+                {
+                    "answer": "soal x+y=2<br>jawab y= 2 - x<br><br>soal x^2+y^2=25<br>jawab x+y=5<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0  y = 5 - x<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "nilaixyyang-memenuhi-sistem-persamaan-2x-y5-x-2y7-687",
+            "question": "Nilai(x,y)yang memenuhi sistem persamaan\r\n2x + y=5\r\nx + 2y=7",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>2x + y=5<br>y= 5-2x.................(1)<br><br>x + 2y=7<br>x+ 2(5-2x)=7<br>x+10-4x=7<br>-3x=-3<br>x=1......................(2)<br><br><br>2x+y=5<br>2(1)+y=5<br>2+y=5<br>y=3.........................(3)<br><br><br></span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suku-suku-barisan-geometri-tak-hingga-adalah-positif-jumlah-u1-550",
+            "question": "Suku suku barisan geometri tak hingga adalah positif ,jumlah u1 + u2 =60,dan u3 + u4 =15,tentukan jumlah suku barisan itu , plissss",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "U1+U2=60\u21d2a+ar=60<br>U3+U4=15\u21d2ar\u00b2+ar\u00b3=15<br><u>a+ar=60</u><br>ar\u00b2+ar\u00b3=15<br><u>a+ar\u00a0\u00a0 =60</u> (di coret a+ar)<br>r\u00b2(a+ar)=15<br>1/r\u00b2=4<br>r=1/2<br>nilai a:<br>a+ar=60\u21d4a+1/a=60<br>\u21d43/2 a=60<br>\u21d4a=40<br>untuk deret tak hingga -1&lt;r&lt;1 maka <br>Sn=a/1-r=40/1-0,5=80<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "besar-sudut-p-dari-sebuah-segitiga-pqr-adalah-70-selisih-antara-535",
+            "question": "Besar sudut P dari sebuah segitiga PQR adalah 70, selisih antara besar sudut Q dan R adalah 36\u00b0 tentukan besar sudut Q dan R. Perlu diketahui total sudut sebuah segitiga adalah 180\u00b0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]P=70^o\\\\\nQ-R=36^o \\rightarrow Q=36^o+R\\\\\\\\\nP+Q+R=180^o\\\\\n70^o+36^o+R+R=180^o\\\\\n2R=74^o\\\\\nR=37^o\\\\\\\\\nQ=36^o+R\\\\\nQ=36^o+37^o\\\\\nQ=73^o[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-kita-perhatikan-jam-berapa-kali-kah-dalam-1-hari-terbentuk-119",
+            "question": "Jika kita perhatikan jam, berapa kali kah dalam 1 hari terbentuk sudut 90 derajat?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "jawabannya 17 kali<br><br>semoga membantu, tolong jadikan jawaban terbaik",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suku-ke-4dan-suku-ke-7-suatu-barisan-geometri-berturut-trut-adlh-742",
+            "question": "Suku ke 4dan suku ke 7 suatu barisan geometri berturut trut adlh 128 dan 8.192    brapakh suku ke 6................",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "n=2<br>suku<br>1=2<br>2=4<br>3=32<br>4=128<br>5=512<br>6=2048<br>7=8192<br>tinggal dipilih deh jawaban yg dicari :)<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "u4 : a+3b = 128<br>u7 : <u>a+6b = 8192</u><br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 -2b = -8064<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 b = <u>-8064</u><br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 -2<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 b = 4032<br>a+6b = 8192<br>a+6(4032) = 8192<br>a+24192 = 8192<br>a = 8192 - 24192<br>a = -16000<br><br>maka, <br>u6 = a+5b<br>= -16000+5(4032)<br>=\u00a0 -16000+20160<br>= 4160<br>\u00a0kalo nggak salah<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-kasih-tau-jawaban-dan-penyelesaiannya-juga-dong-banyak-369",
+            "question": "Tolong kasih tau jawaban dan penyelesaiannya juga dong :)    Banyak bilangan antara 2000 dan 6000 yang dapat disusun dari angka 0,1,2,3,4,5,6,7 dan tidak ada angka yang sama adalah...\r\nTerimah kasih sebelumnya yaa :)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "buat 4 kotak\u00a0 |ribuan|ratusan|puluhan|satuan|<br>|5|7|6|5| = 5 x 7 x 6 x 5 = 1050.<br><br>nb:<br>kotak pertama = dari 0 - 7 yang memenuhi tempat ribuan ada 5 (2, 3, 4, 5, 6)<br>kotak kedua\u00a0 \u00a0  = dari 0 - 7 yang memenuhi tempat ratusan ada 7<br>(jika syaratnya tidak ada angka yang sama, peluang setiap kotaknya di kurang 1, kemudian setiap angka dikalikan, dan itulah hasilnya)<br>dst..<br>:D<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dalam-suku-deret-aritmatika-diketahui-suku-ke3-9-dan-suku-ke7-878",
+            "question": "Dalam suku deret aritmatika diketahui, suku ke3 = 9 dan suku ke7 = 37. suku ke 30 adalah...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "U3=9 -&gt; a+2b=9\nU7=37-&gt; a+6b = 37\n               ---------- -\n-4b = -28\n   b = 7 -&gt; a +2.7 = 9\n                 a= -5\nNanti tinggal disubsitusi ke\nUn = a+ (n- 1 ) b",
+                    "attachments": []
+                },
+                {
+                    "answer": "U3=9\u00a0<br>U7=37<br>-4b=-28<br>b=-28/-4<br>b=7<br><br>a+2b=9 \u00a0 \u00a0\u00a0a+2.7=9<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 a+14=9<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 a=-5<br><br>U30= a+(n-1)\u00a0b<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0-5+29.7<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0-5+203<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0198",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-xy-p3-adalah-penyelesaiaan-dari-sistem-persamaan-3x-620",
+            "question": "Jika (x,y) = (p,3) adalah penyelesaiaan dari sistem persamaan\r\n3x + 2y = 6\r\nx - qy = 2",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "x = p<br>y = 3<br><br>3(p) + 2(3) = 6<br>3p + 6 = 6<br>3p = 0<br>p = 0<br><br>x\u00a0- qy = 2<br>p - q(3) = 2<br>0 - 3q = 2<br>3q = -2<br>q = -(2/3)",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,134 @@
+{
+    "question": "diketahui barisan aritmatika dengan suku ke-9 = 51, dan suku ke 13 = 79. suku ke -6 adalah, tolong beri cara\" nya juga kawan,,, \u00a0 \u00a0",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "diket : U9= 51, U13 =79 ,a\u00a0= -5, b = 7,\u00a0\u00a0<br>tanya : U6<br>jawab : u6 = a+ (n-1) b<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = -5 + (6-1)7<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = -5 + 5.7<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = -5 + 35<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 30<br>\u00a0 \u00a0\u00a0",
+            "attachments": []
+        },
+        {
+            "answer": "U9 = 51<br>U13 =\u00a079<br><br>U13 - U9 = 4b = 79 - 51<br>4b = 28<br>b = 7<br><br>U6 = U9 - 3b = 51 - 3(7)<br>U6 = 51 - 21<br>U6 = 30",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "luas-jajargenjang-pqrs-adalah-72cm-pq12cm-dan-su8cm-tentukan-575",
+            "question": "Luas jajargenjang PQRS adalah 72cm, PQ=12cm, dan SU=8cm. tentukan keliling PQRS!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "12x2= 24<br>8x2=16<br>24+16= 40",
+                    "attachments": []
+                },
+                {
+                    "answer": "12x2= 24<br>8x2=16<br><span>24+16= 40<br>semoga btul</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "fx-12-x2-2-gx-x10-f-komposisi-g-x-318",
+            "question": "F(x) = 1/2 x^2 + 2 \r\ng(x) = x+10\r\n(f komposisi g) (x) =...... ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "fog = 1/2(x+10)^2 + 2<br>\u00a0\u00a0 \u00a0  = x^2/2 + 10x + 52<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-jumlah-dan-hasil-kali-akar-akar-persamaan-berikut-a-x-229",
+            "question": "Tentukan jumlah dan hasil kali akar-akar persamaan berikut !    a. x\u00b2-5x+7=0\r\nb. 2x\u00b2-7=0\r\nc. bx\u00b2+ax+c=0\r\nminta tolong yah di jawabnya skrang soalnya bsok mau di periksa sama guru, minta tlong juga jawabnya pkai cara kerja, biar jelas dan bisa ku mengerti juga..\r\nMakasihh..",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "ingat, <br>[tex]x1.x2= \\frac{c}{a}  \\\\ x1+x2 = \\frac{-b}{a} [/tex]<br>tinggal masukkan aja ke dalam rumus<br><br>a. <br>x1.x2=7/1<br>x1.x2=7<br><br>x1+x2=5/1<br>x1+x2=5<br><br>b.<br>x1.x2=-7/2<br><br>x1+x2=0/2<br>x1+x2=0<br><br>c.<br>x1.x2=c/b<br><br>x1+x2= -a/b<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "contoh-soal-pernyataan-majemuk-dan-pernyataan-berkuantor-logika-m-485",
+            "question": "Contoh soal pernyataan majemuk dan pernyataan berkuantor logika matematika",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "soal ini masih misteri... :D<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1suku-ke-2-dan-suku-ke-5-dari-barisan-geometri-adalah-12dan-49-617",
+            "question": "1.suku ke-2 dan suku ke-5 dari barisan geometri adalah 12dan 4/9 tentukan rumus suku ke -n besarnya suku ke-4     2.tiga bilangan membentuk barisan geometri jumlah ketiga bilangan tersebut adalah 14 dan hasil kalinya 64 tentukan ketiga bilangan",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "U2=12 &lt;=&gt; ar = 12 \u00a0 \u00a0 ....1<br>U5 = 4/9&lt;=&gt; ar^4= 4/9....2<br>1 dan 2 didapat r\u00b3 = 4/(12x 9 \u00a0= 1/27 jadi r = 1/3 dan a = 36<br>Un = ar^(n-1) = \u00a036 (1/3)^(n-1)",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-2x-5-adalah-faktor-dari-2x3-13x2px-5-tentukan-nilai-p-d-441",
+            "question": "Jika (2x-5) adalah faktor dari 2x\u00b3-13x\u00b2+px-5 tentukan nilai p dan kemudian faktorkan",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "2x-5 = 0<br>x = 5/2<br><br>masukkan nilai X ke dalam persamaan.\u00a0 <br><br><span> 2x\u00b3-13x\u00b2+px-5<br>2(5/2)\u00b3 - 13(5/2) + p(5/2)-5 = 0<br>2 (125/8) - 65/2 + 5p/2 - 5 = 0<br>62,5 - 32,5 + 2,5P - 5 = 0<br>25 + 2,5P = 0<br>2,5P = -25<br>P = -25/2,5<br>P = -10<br><br><br>Semoga membantu.<br></span><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "[tex]f(x)=2x^3-13x^2+px-5\\\\\nkarena\\ (2x-5)\\ merupakan\\ faktor\\ dari\\ f(x), maka\\\\\nf(\\frac{5}{2})=0\\\\\n2(\\frac{5}{2})^3-13(\\frac{5}{2})^2+p(\\frac{5}{2})-5=0\\\\\n\\frac{125}{4}-\\frac{325}{4}+\\frac{5p}{2}-5=0\\\\\n\\frac{125-325+10p-20}{4}=0\\\\\n-220+10p=0\\\\\np=22\\\\\\\\\nf(x)=2x^3-13x^2+22x-5\\\\\n2x^3-13x^2+22x-5=(2x-5)(2x^2-8x+2)[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "x-1-dan-x-2-adalah-akar-akar-persamaan-kuadrat-2x2-768",
+            "question": "\u00a0x_{1}\u00a0dan\u00a0\u00a0x_{2} adalah akar akar persamaan kuadrat 2x^{2} + 3x -6 = 0.Tentukan 2x1x2^{2} + 2 x1^{2}x2",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]2x_1x^2_2+2x^2_1x_2=2x_1x_2(x_1+x_2)\\\\\\\\\n2x_1x^2_2+2x^2_1x_2=2(\\frac{-6}{2})(-\\frac{3}{2})\\\\\\\\\n2x_1x^2_2+2x^2_1x_2=9[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-layang-layang-abcd-seperti-pada-gambar-berikut-ac12-c-290",
+            "question": "diketahui layang layang ABCD seperti pada gambar berikut .AC=12 cm,BD=3cm,BF=4cm.luas layang layang ABCD adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "rumus= 1/2 x D1 x D2<br>\u00a0 \u00a0ket: D= diagonal",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-jelaskan-pembuktian-dari-1-p-q-p-q-963",
+            "question": "Tolong jelaskan pembuktian dari 1.\u00a0~(p\u00a0\u2227 q)\u00a0\u2261 ~p\u00a0\u2228 ~q. 2. ~(p\u00a0\u2228 q)\u00a0\u2261 ~p\u00a0\u2227 ~q",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "pembuktiannya dengan tabel nilai kebenaran ( B &amp; S)<br><br><span>(p\u00a0\u2227 q) nilainya nanti BSSS<br></span><span>~p\u00a0\u2228 ~q nilainya nanti SBBB<br></span>makanya terbukti bahwa\u00a0ingkaran dari\u00a0(p\u00a0\u2227 q) adalah\u00a0\u00a0~p\u00a0\u2228 ~q<br><br>samahalnya dengan yang kedua",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-bak-air-besar-berbentuk-tabung-yang-panjang-jari-jarinya-7-580",
+            "question": "sebuah bak air besar berbentuk tabung yang panjang jari-jarinya 70 cm dan tinggi 1,8 m, terisi penuh. setelah air dalam bak terpakai sebanyak 770 liter, berapakah tinggi sisa air dalam bak tersebut?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "v tabung = 22/7 x\u00a070 x 70 x 180 = 2.772.000 cm3 : 2.772 l<br>sisa air = 2.772 - 770 = 2.002 l",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

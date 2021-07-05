@@ -1,0 +1,138 @@
+{
+    "question": "Pola bilangan ganjil\u00a0    bentuk umum Un = a+(n-1)b\r\n\r\ntentukan suku n:\r\n1) 1,4,8,13,19,....\r\n\r\n*jwbnnya brsrta rumusnya ya?",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "itu pake barisan aritmatika tingkat 2 / ordo 2\u00a0<br>Un = ( x /2 . bil asli . bil cacah ) + C\u00a0<br><br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "persamaan-kuadrat-yang-akar-karnya-12dan-34-adalah-477",
+            "question": "Persamaan kuadrat yang akar-karnya-1/2dan 3/4 adalah...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex](2x+1)(4x-3) =  8x^{2} -6x+4x-3 \\\\ 8x^{2} -2x-3[/tex]",
+                    "attachments": []
+                },
+                {
+                    "answer": "akar-akarnya<br>x = - 1/2 dan x = 3/4<br>maka, x = - 1/ 2 menjadi 2x + 1 = 0<br>dan x = 3 / 4 menjadi 4x - 3 = 0<br><br>masukan ke persamaan pemfaktoran ( dikalikan ):<br>\u00a0(4x - 3) (2x + 1) = 0<br>8[tex] x^{2} [/tex] - 2x - 3 = 0<br><br>semoga membantu :)<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "kenapa-nilai-phi-314-817",
+            "question": "Kenapa nilai phi 3,14?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "karena nilai phi itu diperoleh dari keliling lingkaran dibagi diameter",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-nilai-x-jika-2x-1-2x-2-2x-3-2x-5-999",
+            "question": "Tentukan nilai x jika (2x + 1) + (2x + 2) + (2x +3)+ ... + (2x+ 50) = 4275",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "U1=2x+1, U50=2x+50<br>S50=4275<br>S50=[tex] \\frac{1}{2} [/tex]. 50 (U1+U50)<br>4275=[tex] \\frac{1}{2} [/tex]. 50 (2x+1+2x+50)<br>4275=25(4x+51)<br>171=4x+51<br>171-51=4x<br>120=4x<br>x=30<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-2y2-723-2-7gt3x-3-2x-4gt3x9-630",
+            "question": "1. 2y/2-7/2\u22643=\r\n2. 7&gt;3x =\r\n3. 2x-4&gt;3x+9=",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]\\frac{2y}{2}-\\frac{7}{2} \\leq 3\\\\\n\\frac{2y-7}{2} \\leq 3\\\\\n2y-7 \\leq 6\\\\\n2y \\leq 13\\\\\ny \\leq \\frac{13}{2}\\\\\\\\\n7&gt;3x\\\\\n\\frac{7}{3}&gt;x\\\\\nx&lt;\\frac{7}{3}\\\\\\\\\n2x-4&gt;3x+9\\\\\n-x&gt;13\\\\\nx&lt;-13[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-taman-berbentuk-persegi-panjang-luasnya-600-m2-jika-tama-950",
+            "question": "sebuah taman berbentuk persegi panjang luasnya 600 m\u00b2. jika taman tersebut di gambar dengan skala 1 : 200 maka luas pada gambar adalah ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "kalo gak salah sih 12",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-proyek-di-rencanakan-selesai-di-kerjakan-oleh-8-orang-dala-413",
+            "question": "sebuah proyek di rencanakan selesai di kerjakan oleh 8 orang dalam waktu 15 hari. jika jumlah pekerja hanya ada 6 orang, waktu yang di perlukan untuk menyelesaikan proyek tersebut adalah....???",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Pakai fungsi perbandingan berbalik, cepet nih :D<br><br>[tex] \\frac{8}{6} . 15 =  \\frac{120}{6} = 20 hari[/tex]",
+                    "attachments": []
+                },
+                {
+                    "answer": "<u>\u00a08\u00a0</u> \u00a0 x 15 hari = 20 hari<u><br></u>\u00a06 \u00a0<br><br>maaf klo salah",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "caranya-segitiga-pascal-483",
+            "question": "Caranya segitiga pascal?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kelas : VII (1 SMP)<br>Materi : Operasi dan Faktorisasi Bentuk Aljabar<br>Kata Kunci : aljabar, segitiga, pascal<br><br>Pembahasan :<br>Menggunakan pola bilangan segitiga Pascal untuk menjabarkan bentuk aljabar (a + b)\u207f.<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 1 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u2192 (a + b)\u2070<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a01 \u00a0 \u00a0 \u00a0 \u00a0 1 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u2192 (a + b)\u00b9<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 1 \u00a0 \u00a0 \u00a0 \u00a0 2 \u00a0 \u00a0 \u00a0 \u00a0 \u00a01 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u2192 (a + b)\u00b2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 1 \u00a0 \u00a0 \u00a0 \u00a0 \u00a03 \u00a0 \u00a0 \u00a0 \u00a0 3 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 1 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u2192 (a + b)\u00b3<br>\u00a0 \u00a0 \u00a01 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 4 \u00a0 \u00a0 \u00a0 \u00a0 6 \u00a0 \u00a0 \u00a0 \u00a0 \u00a04 \u00a0 \u00a0 \u00a0 \u00a0 \u00a01 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u2192 (a + b)\u2074<br>1 \u00a0 \u00a0 \u00a0 \u00a0 \u00a05 \u00a0 \u00a0 \u00a0 \u00a0 10 \u00a0 \u00a0 \u00a0 \u00a0 10 \u00a0 \u00a0 \u00a0 \u00a0 5 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a01 \u00a0 \u00a0 \u00a0 \u2192 (a + b)\u2075<br>\u2191 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u2191<br>Koefisien suku ke-1 \u00a0 \u00a0 \u00a0... \u00a0 Koefisien suku ke-6<br><br>Contoh :<br>(x + 3y)\u00b3 = x\u00b3 + 3.x\u00b2.3y + 3.x.(3y)\u00b2 + (3y)\u00b3 = x\u00b3 + 9x\u00b2y + 27xy\u00b2 + 27y\u00b3.<br><br>(a - 2b)\u2074 = a\u2074 + 4.a\u00b3.(-2b) + 6.a\u00b2.(-2b)\u00b2 + 4.a.(-2b)\u00b3 + (-2b)\u2074 = a\u2074 - 8a\u00b3b + 24a\u00b2b\u00b2 - 32ab\u00b3.<br><br>(-2x + 5y)\u2075 = (-2x)\u2075 + 5.(-2x)\u2074.(5y) + 10.(-2x)\u00b3.(5y)\u00b2 + 10.(-2x)\u00b2.(5y)\u00b3 + 5.(-2x).(5y)\u2074 + (5y)\u2075 = -32x\u2075 + 400x\u2074y - 2.000x\u00b3y\u00b2 + 5.000x\u00b2y\u00b3 - 6.250xy\u2074 + 3125y\u2075.<br><br>Semangat!",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-harga-sepasang-sepatu-dua-kali-harga-sandal-seorang-pe-782",
+            "question": "diketahui harga sepasang sepatu dua kali harga sandal. seorang pedagang membeli 4 pasang sepatu dan 3 pasang sandal.pedagang tersebut harus membayar Rp.275.000,00. A.buat model matematika? B.tentukan harga 3 pasang sepatu dan 5 pasang sandal! tolong di bantu....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "A. Harga sepatu = x<br>\u00a0\u00a0 \u00a0  harga sandal = y<br>x=2y<br>4x+3y=275000<br>B. 3x+5y= 3.2y+5y<br>\u00a0\u00a0 \u00a0 \u00a0 =11y<br>=11.53000=\u00a0 hitung sendiri<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "untuk-merayakan-malam-tahun-baru-bersama-teman-temannya-di-danau-658",
+            "question": "Untuk merayakan malam tahun baru bersama teman-temannya di Danau Singkarak , mulai sekarang Cony membeli celengan dan akan diisinya dengan berapa koin RP.1000-, tiap hari. Jika setiap hari Cony memasukan koin sebanyak 5 keping , maka dalam waktu 4 bulan 91 bulan = 30 hari) celengannya sudah penuh dan cukup untuk biayanya selama di Danau Singkarak tersebut.    a. berapa keping koin yang harus diisi cony setiap hari agar celengannya penuh dalam waktu 10 bulan?\r\nb.tentukanlah banyak koin untuk mengisi celengan sampai penuh!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "A. 5/x = 10/4<br>x = 5.4/10 (dibagi 10)<br>x = 2<br><br>B. 2.10.30 = 600",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span>A. 5/x = 10/4<br>x = 5.4/10 (dibagi 10)<br>x = 2<br><br>B. 2.10.30 = 600</span><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "persamaan-garis-melalui-titik-m-1-5-dan-n-42-adalah-709",
+            "question": "Persamaan garis melalui titik M (1.-5) dan N (4,2) adalah?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Diketahui: Persamaan garis melalui titik M (1, -5) dan N (4, 2)<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 x1 = 1, x2 = 4, y1 = -5, y2 = 2<br>Ditanya: Persamaan garisnya = ?<br>Jawab: \u00a0Persamaan garis\u00a0=\u00a0[tex] \\frac{y - y1}{y2-y1} [/tex] =\u00a0[tex] \\frac{x - x1}{x2 - x1} [/tex]<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u21d2\u00a0y - (-5) per 2 - (-5) = x - 1 per 4 - 1<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u21d2 y + 5 per 7 = x - 1 per 3 (dikalikan silang)<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u21d2 3y + 15 = 7x - 7\u00a0<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u21d2 3y = 7x - 7 - 15<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u21d2 3y = 7x - 22<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u21d2 y =\u00a0[tex] \\frac{7x - 22}{3} [/tex]<br>jadi, persamaan garisnya adalah\u00a0y =\u00a0[tex] \\frac{7x - 22}{3} [/tex].<br><br><br>semoga bisa membantu ^_^,,,<br>maaf jika ada yang salah ^_^,,,<br>jika jawaban diatas tidak dimengerti, silahkan ditanyakan ^_^,,,<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0",
+                    "attachments": []
+                },
+                {
+                    "answer": "(1,-5)=(x1,y1)<br>(4,2)=(x2,y2)<br><br><u>y-y1</u> \u00a0 \u00a0= \u00a0<u>x-x1</u><br>y2-y1 \u00a0 \u00a0 \u00a0x2-x1<br><br><u>y-(-5)</u> = \u00a0<u>x-1</u><br>2-(-5) \u00a0 \u00a0\u00a04-1<br><br><u>y+5</u>\u00a0 = \u00a0<u>x-1</u><br>2+5 \u00a0\u00a0 \u00a0 4-1 \u00a0 (kali silang)<br><br>7x-7=3y+15<br>7x=3y+15+7<br>7x=3y+22<br><br>koreksi lg takut salah ngitung",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

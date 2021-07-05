@@ -1,0 +1,142 @@
+{
+    "question": "Dua pegas dengan konstanta pegas k1 dan k2 dihubungkan seri. hitung konstanta gabungan kedua pegas.",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "1/k1 + 1/k2.\u00a0<br>k1+k2/k1k2.<br>totalnya: k1k2/k1+k2.<br>(kayak ngitung arus listrik paralel)",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "sebuah-gaya-yang-bergantung-pada-waktu-498",
+            "question": "Sebuah gaya yang bergantung pada waktu",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "gaya potensial, gaya kinetik, gaya apung, setau saya itu",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "2-benda-yang-berupa-bola-pejal-dan-bola-berongga-dilepaskan-dari-462",
+            "question": "2 benda yang berupa bola pejal dan bola berongga dilepaskan dari tempat yang sama pada kemiringan tertentu. bola manakah yang lebih dulu sampai ke dasar?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Persamaan gerak sepanjang bidang miring (m.g.sin 0 = 0-f = m.a)<br>jadi tergantung masa dan jarak. dalam kasus ini jarak sama berarti tinggal yang massa bendanya lebih berat jadi bola pejal yang lebih dulu.",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "berapa-kalor-yg-di-butuhkan-es-bersuhu-2c-dengan-massa-4-kg-ag-479",
+            "question": "Berapa kalor yg di butuhkan es bersuhu -2\u00b0c dengan massa 4 kg agar mencapai suhu 5\u00b0c, jika dik.    L es=336.000 J/kg\r\nc es=500 J/kg\u00b0c\r\nc air=4200 J/kg\u00b0c",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "m= 4 kg<br>delta t = 3<br>c = 4700<br>= 2x4700x3<br>= 28200<br>= 28,2<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "hitunglah-momen-inersia-suatu-benda-yang-berotasi-dengan-kecepata-322",
+            "question": "hitunglah momen inersia suatu benda yang berotasi dengan kecepatan sudut 10 rad/sekon dan memiliki energi kinetik 5 joule",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Dik Ek = 5 j<br>\u00a0 \u00a0 \u00a0\u00a0\u03c9 = 10 rad/s<br>Dit i ?<br>jawab.<br>rumus i = mr^2<br><br>Ek = 1/2 m (R.\u03c9)^2<br>5 \u00a0 = 1/2 m (R.10^2)<br>10 \u00a0= mr^2 . m.100\u00a0<br>mr^2 = 10 / 100 m<br>\u00a0 \u00a0 \u00a0 \u00a0 = \u00a00,1 kgm^2 /\u00a0m<br>i = 0,1 kgm<br><br>Klik bintang",
+                    "attachments": []
+                },
+                {
+                    "answer": "Rumus momen inersia (I) adalah\u00a0<br>bila percepatan sudut \u00a010 rad / s =\u00a0\u03b1<br>Energi kinetik = 5 Joule = F<br>[tex]I = mr^2[/tex]\u00a0<br><br>Pertama cari dulu persamaan 1\u00a0<br>[tex]F = m a_{tan} [/tex]<br>\u00a0--&gt;\u00a0Hubungan antara gaya (F), massa (m), dan percepatan tangensial (a tan) partikel\u00a0<br><br>Partikel berotasi sehingga partikel mempunyai percepatan sudut.<br>\u00a0<br>Hubungan antara percepatan tangensial dengan percepatan sudut dinyatakan melalui persamaan :<br>[tex] a_{tan}=r \\alpha  [/tex] Persamaan 2\u00a0<br><br>Subtitusikan atau gantikan percepatan tangensial (a tan) pada persamaan 1\u00a0 dengan percepatan tangensial (a tan) pada persamaan 2.<br><br>[tex]F = \\frac{1}{2}m r \\alpha[/tex]<br>[tex]\\gamma . r = \\frac{1}{2}m r \\alpha[/tex]]<br>[tex]5 = \\frac{1}{2}m . r^2 . 10[/tex]<br>[tex]mr^2 = 1 / 10 = 0.1 [/tex]<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-batu-gerinda-memiliki-massa-4-kg-dan-jari-jari-8-cm-ketik-802",
+            "question": "Sebuah batu gerinda memiliki massa 4 kg dan jari-jari 8 cm. ketika sebuah momen gaya tetap dikerjakan, roda mencapai kecepatan sudut 1200 rpm dalam 15 sekon. anggap roda mulai dari keadaan diam dan batu gerinda berbentuk silinder pejal. tentukan:    a. percepatan sudut\r\nb. resultan momen gaya\r\nc. sudut putaran yang ditempuh dalam 15 sekon",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "(a.)<br>\u00a0\u03c9=at<br>\u00a0(1200/60) (2\u03c0)=\u03b1(15)<br>\u03b1=8\u03c0/3rad/s\u00b2<br>\u00a0(b.) momen inersianya adlh<br>I=1/2 m r\u00b2 <br>momen gaya <br>T=I \u03b1<br>\u00a0=1/2 m r\u00b2 \u03b1<br>\u00a0=1/2 (4) (0.08)\u00b2(8\u03c0/3)<br>\u00a0=0.107233 N.m<br>(c.)<br>\u03b8=1/2 \u03b1 t\u00b2<br>\u03b8=1/2 (8\u03c0/3) (15)\u00b2<br>\u03b8=300\u03c0 rad<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apakah-semua-jenis-gaya-menyebabkan-pertambahan-panjang-pegas-177",
+            "question": "Apakah semua jenis gaya menyebabkan pertambahan panjang pegas ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "belum tentu, liat massa jga kk...<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "semua gaya mempengaruhi pegas<br>tetapi gaya tarik menyebabkan pertambahan panjang,sedangkan gaya dorong atau tekan menyebabkan pemendekann pada pegas :)",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "silinder-tipis-berongga-silinder-pejal-bola-tipis-berongga-dan-889",
+            "question": "silinder tipis berongga, silinder pejal, bola tipis berongga, dan bola pejal diletakkan diam dipuncak suatu bidang miring. semua benda tersebut memiliki masa dan jari jari sama. benda benda itu kemudian di bebaskan pada saat yang bersamaan. bagaimanakah urutan benda benda itu ketika mencapai dasar bidang?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "BOLA PEJAL, SILINDER TIPIS BERONGGA, BOLA TIPIS BERONNGA LALU SILINDER PEJAL",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "penjelasan-tentang-momen-inersia-berbagai-benda-tegar-homogen-706",
+            "question": "Penjelasan tentang momen inersia berbagai benda tegar homogen",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Benda tegar tersusun dari banyak partikel yang tersebar di seluruh \nbagian benda. Momen inersia suatu benda tegar merupakan jumlah semua \nmomen inersia masing-masing partikel penyusun benda tegar.<br><br><br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span>Benda tegar tersusun dari banyak partikel yang tersebar di seluruh \nbagian benda. Momen inersia suatu benda tegar merupakan jumlah semua \nmomen inersia masing-masing partikel penyusun benda tegar.<br></span><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apa-itu-elastisitas-dan-apa-hubunganyaa-dengan-hukum-hooke-677",
+            "question": "Apa itu elastisitas? dan apa hubunganyaa dengan hukum hooke",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "elastisitas\u00a0penambahan panjang",
+                    "attachments": []
+                },
+                {
+                    "answer": "elastisitas adalah kemampuan benda untuk kembali ke bentuk semula<br>hubungannya dengan hukum hooke adalah,\u00a0<span>Pada daerah elastisitas benda, gaya yang bekerja pada benda sebanding dengan pertambahan panjang benda</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "termometer-celcius-dan-fahrenheit-menunjukkan-angka-yang-sama-pad-530",
+            "question": "Termometer celcius dan fahrenheit menunjukkan angka yang sama pada suhu",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "y\u00b0 R = y\u00b0 C<br><br>y = 4/5 y<br><br>5/5 y - 4/5 y = 0<br><br>1/5 y = 0<br><br>1 x y = 5 x 0<br><br>y = 0<br><br><br><span>Jadi suhu 0\u00b0 R sama dengan suhu 0\u00b0 C</span>",
+                    "attachments": []
+                },
+                {
+                    "answer": "323 kalo gak salah, kalo salah tolong betulin yaa<br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

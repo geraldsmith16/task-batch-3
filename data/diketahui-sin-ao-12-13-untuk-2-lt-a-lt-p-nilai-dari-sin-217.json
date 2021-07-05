@@ -1,0 +1,134 @@
+{
+    "question": "Diketahui sin Ao = 12 13 untuk 2 &lt; A &lt; \u03c0 . Nilai dari Sin ( \u03c0 - A)o adalah",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "sepertinya soal yang anda masukan ada kesalahan<br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "jelaskanapa-yg-dimaksud-invers-941",
+            "question": "Jelaskanapa yg dimaksud invers ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Invers biasanya merupakan lawan dari sesuatu.<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Invers secara umum artinya lawan dari sesuatu hal.<br><br>dalam matematika, invers itu sering disebut fungsi kebalikan.<br>yang apabila suatu fungsi misalnya f, inversnya ditulis[tex]f^{-1} [/tex]<br><br>sifat khusus dari invers<br>[tex]f. f^{-1} =1[/tex]<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-jumlah-10-suku-pertama-barisan-aritmatika-adalah-1255-473",
+            "question": "diketahui jumlah 10 suku pertama barisan aritmatika adalah 1255, jika bedanya 6. tentukanlah suku pertama dan rumus suku ke-n?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "U1 + U2 +..... + U10 = 10U1 + (1\u00a0+\u00a02\u00a0+ 3 + 4 + 5 + 6 + 7 + 8 + 9)b =1225<br><br>10U1 + 45.6 = 1255<br>10U1 +\u00a0270 = 1255<br>10U1 = 985<br>U1 = 98,5<br><br>Un = U1 + (n-1)b<br>Un = 98,5 + (n-1)6<br>Un = 98,5 + 6n -\u00a06<br>Un = 6n + 92,5",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "gradien-garis-dri-persamaan-3x-6y-5-yaitu-133",
+            "question": "Gradien garis dri persamaan 3x-6y=-5 yaitu ....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kelas : 8<br>Mapel : Matematika<br>Kategori :\u00a0Bab 3 - Persamaan Garis<br>Kata Kunci : persamaan garis, gradien<br>Kode : 8.2.3 [Kelas 8 Matematika Bab 3 - Persamaan Garis]<br><br>Pembahasan :<br><p>Persamaan garis lurus adalah persamaan berbentuk\u00a0<br>ax + by = c<br>dengan a, b, dan c merupakan bilangan-bilangan real, a\u00a0\u2260 0 atau b\u00a0\u2260 0.</p><br>Gradien adalah nilai yang menyatakan kecondongan suatu garis yang dinotasikan dengan m.<br><br>Garis dengan persamaan ax + by = c memiliki gradien\u00a0<br>m =\u00a0[tex]- \\frac{a}{b} [/tex]<br><br>Garis yang melalui titik P(x\u2081, y\u2081) dan Q(x\u2082, y\u2082) memiliki gradien\u00a0<br>m =\u00a0[tex] \\frac{y_2-y_1}{x_2-x_1} [/tex]<br><br>Mari kita lihat soal tersebut.<br>Tentukan gradien garis dengan persamaan 3x - 6y = -5!<br><br>Jawab :<br>Diketahui persamaan<br>3x - 6y = -5<br>\u21d4 -6y = -5 - 3x<br>\u21d4 y =\u00a0[tex] \\frac{5}{-6} [/tex] -\u00a0[tex] \\frac{3}{-6} [/tex]x<br>\u21d4 y = -[tex] \\frac{5}{6} [/tex] + [tex] \\frac{3}{6} [/tex]x<br>\u21d4 y = -[tex] \\frac{5}{6} [/tex] + [tex] \\frac{1}{2} [/tex]x<br>\u21d4 m = [tex] \\frac{1}{2} [/tex]<br><br>Jadi, persamaan 3x - 6y = -5 memiliki gradien [tex] \\frac{1}{2} [/tex].<br><br>Soal lain untuk belajar :\u00a0<br>1.\u00a0https://brainly.co.id/tugas/12602883<br>2.\u00a0https://brainly.co.id/tugas/1686609<br>3.\u00a0https://brainly.co.id/tugas/130401<br>4.\u00a0https://brainly.co.id/tugas/1398763<br>5.\u00a0https://brainly.co.id/tugas/3136258<br>6.\u00a0https://brainly.co.id/tugas/12689804<br><br>Semangat!<br><br>Stop Copy Paste!",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "hasil-penjumlahan-suku-ke-4-dan-suku-ke-8-sebuah-barisan-aritmeti-975",
+            "question": "Hasil penjumlahan suku ke 4 dan suku ke 8 sebuah barisan aritmetika adalah -46. Suku terakhir barisan tersebut adalah 47. Tentukan : A.suku ke 6...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Un = a + (n-1)b<br><br>U\u2084 + U\u2088 = -46<br>(a + 3b) + (a + 7b) = -46<br><strong>2a + 10b = -46 \u00a0</strong>dibagi 2 \u00a0=\u00a0<strong>a + 5b = -23<br><br><br>a+ 5b =\u00a0U</strong>\u2086 = -23<strong><br><br></strong>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pekerjaan-pak-suradi-adalah-pembuat-talang-airia-mendapat-pesana-415",
+            "question": "pekerjaan pak suradi adalah pembuat talang air.ia mendapat pesanan membuat talang air dari lembaran seng yang lebarnya 30cm dengan melipat lebarnya atas 3 bagian. bantulah pak suradi menentukan ukuran x agar volume tertampung maksimal ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "mav, soalnya ntu ada gambarnya nggak?<br>cz, x nya itu dmn?<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "akar-akar-persamaan-kuadrat-a-2-x2-4x-a2-0-adalah-p-d-761",
+            "question": "Akar-akar persamaan kuadrat (a-2) x\u00b2 + 4x + (a+2) = 0 adalah P dan Q. Jika PQ (p+q) = -20. Tentukan nilai a!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "nilai a = 2 nilai x = -1",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suku-ke-5-amp-10-dari-aritmatika-adalah-21-amp-41-tentukan-ju-875",
+            "question": "Suku ke 5 &amp; 10 dari aritmatika adalah 21 &amp; 41 tentukan jumlah 20 suku pertama",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "dik :<br>u5 = 21<br>u10 = 41<br>s20 ?<br><br>u10-u5=41-21=20<br>a+9b-a+4b=20<br>5b=20<br>b= 4<br><br>masukkan ke persamaan :<br>u10 = 41<br>a+9b=41<br>a+9.4=41<br>a+36=41<br>a=41-36<br>a=5<br><br>maka ...<br>s20 = 1/2 n . (2a+(n-1)b)<br>\u00a0 \u00a0 \u00a0 =1/2.20 . (2.5 + (20-1)4)<br>\u00a0 \u00a0 \u00a0 =10 .(10 + (19)4)<br>\u00a0 \u00a0 \u00a0 = 10. ( 10 + 76)<br>\u00a0 \u00a0 \u00a0 =10 . 86 = 860 :)",
+                    "attachments": []
+                },
+                {
+                    "answer": "U5 = 21<br>21=a+ (5-1)b =&gt; 21=a+4b /9 \u00a0=&gt; \u00a0 189=9a+36b<br>U10= 41<br>41=a+ (10-1)b=&gt;41=a+9b/4 \u00a0 =&gt; \u00a0 164=4a+36b<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 --------------------- \u00a0---<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a025=5a<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a05 \u00a0 =a \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a021=5+4b<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a04=b<br>U1 = a+(1-1)b<br>\u00a0 \u00a0 \u00a0 \u00a05+ 0.4 = 5<br>U2 = 5+ (2-1)b<br>\u00a0 \u00a0 \u00a0 \u00a05 + 4 \u00a0 = 9<br>u3 = 5+ (3-1)b<br>\u00a0 \u00a0 \u00a0 \u00a05+8 \u00a0 \u00a0= 13<br>jumlah 20 suku pertama : sn = n/2 (2a+(n-1)b)<br><br>a = 5<br>b = u2-u1 = 9-5 = 4<br><br>s20 = 20/2 (10+76)<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a010(86)<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 860<br>semoga benar ya",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jumlah-n-suku-pertama-suata-deret-artmetika-adalah-sn12n11-n-918",
+            "question": "Jumlah n suku pertama suata deret artmetika adalah Sn=1/2n(11-n).rumus sukuke-n adalah....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "rumus jumlah suku ke n = n/2(2a+(11-1)b)<br>jadi rumus suku ke n = a+(11-1)b<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-jumlah-deret-aritmatika-berikut-281412-sampai-286",
+            "question": "Tentukan Jumlah Deret aritmatika berikut!\r\n2+8+14+12+...... sampai dengan 10 suku.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "berarti deretnya\u00a0<br>2+8+14+12+6+12+14+8+2+8 = 86 ???",
+                    "attachments": []
+                },
+                {
+                    "answer": "2,8,12,14<br>Sn = 1/2 . n (U1+Un)<br>\u00a0 \u00a0 \u00a0= 1/2 . 10 (2 + 10)<br>\u00a0 \u00a0 \u00a0= 5 (12)<br>\u00a0 \u00a0 \u00a0= 60",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-x1-dan-x2-merupakan-akar-dari-persamaan-kuadrat-2x2-6x-430",
+            "question": "\u00a0    Jika x1 dan x2 merupakan akar dari\r\n persamaan kuadrat 2x2- 6x \u2013 8 = 0, nilai dari (x1 + x2)2\r\n \u2013 2x1. X2 adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]2x^2-6x-8=0\\\\\nx_1+x_2=\\frac{-b}{a}\\\\\nx_1+x_2=\\frac{-(-6)}{2}\\\\\nx_1+x_2=3\\\\\\\\\nx_1.x_2=\\frac{c}{a}\\\\\nx_1.x_2=\\frac{-8}{2}\\\\\nx_1.x_2=-4\\\\\\\\\n(x_1+x_2)^2-2(x_1.x_2)=(3)^2-2(-4)\\\\\n(x_1+x_2)^2-2(x_1.x_2)=17\\\\[/tex]",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

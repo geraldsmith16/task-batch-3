@@ -1,0 +1,142 @@
+{
+    "question": "Mengapa besi lebih elastis dibandingkan aluminium ? jelaskan",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "karena muai besi lebih besar dibandingkan alumunium<br><br>",
+            "attachments": []
+        },
+        {
+            "answer": "karena besi mmpunyai sft yg berat dri pda alumunium<br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "diketahui-tiga-buah-pegas-dua-disusun-paralel-dengan-konstanta-1-771",
+            "question": "Diketahui tiga buah pegas. Dua disusun paralel dengan konstanta 100 n/m. Dan satu disuaun dengan seri dengan konstanta 200n/m. Susunan pegas dipengaruhi oleh beban, sehingga mengalami pertambahan 5cm. Jika pertambahan panjang pegas 1 dan 2 sama, maka berapakah: a) konstanta gaya total penyusunnya. b) massa beban jika g= 10 m/s",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a) rangkaian paralel ==&gt; kp = 100 + 100 = 200 N/m<br>\u00a0\u00a0 kp diseri dengan k3 = 200 ===&gt; 1/ks = 1/200 + 1/200 <br>\u00a0\u00a0 1/ks = 2/200 ===&gt; 1/ks = 1/100 ==&gt; ks = 100 N/m<br>\u00a0\u00a0 Jadi knstanta gaya total = 100 N/m<br>b) dik : \u0394x = 5 cm = 0,05 m\u00a0 \u00a0 ; k total = 100 N/m <br>F = k \u0394x <br>m . g = k . \u0394x ---&gt; m . 10 = 100 . 0,05 ----&gt; m = 0,5 kg <br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span>a) rangkaian paralel ==&gt; kp = 100 + 100 = 200 N/m<br>\u00a0\u00a0 kp diseri dengan k3 = 200 ===&gt; 1/ks = 1/200 + 1/200 <br>\u00a0\u00a0 1/ks = 2/200 ===&gt; 1/ks = 1/100 ==&gt; ks = 100 N/m<br>\u00a0\u00a0 Jadi knstanta gaya total = 100 N/m<br>b) dik : \u0394x = 5 cm = 0,05 m\u00a0 \u00a0 ; k total = 100 N/m <br>F = k \u0394x <br>m . g = k . \u0394x ---&gt; m . 10 = 100 . 0,05 ----&gt; m = 0,5 kg </span><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-bantuin-dong-sebuah-beban-20n-digantungkan-pada-kawat-ya-716",
+            "question": "Tolong bantuin dong..    sebuah beban 20N digantungkan pada kawat yang panjangnya 3,0 m dan luas penampangnya 8\u00a0x 10\u207b\u2077 m\u00b2 hingga menghasilkan pertambahan panjang 0,1 mm. hitunglah:\r\na. tegangan\r\nb. regangan\r\nc. modulus elastis kawat",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "tegangan:44<br>regangan:66<br>modulus 99<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<strong>tegangannya\u00a044</strong><br><strong>regangannya\u00a066</strong><br><span><strong>modulusnya\u00a0 99</strong></span><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "coba-jelasin-bagaimana-transformasi-lorentz-itu-soalnya-masih-921",
+            "question": "Coba jelasin bagaimana transformasi lorentz itu? \u00a0soalnya masih kurang ngerti aku. Thx:)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Transformasi Lorenz menyatakan transformasi ruang-waktu yang melandasi \nteori relativitas khusus antara dua pengamat yang bergerak dengan \nkecepatan konstan.<br>Transformasi Lorentz hanya berlaku untuk kerangka acuan yang bergerak \nseragam (tanpa percepatan) terhadap kerangka acuan lain. Pada \nkenyataannya kehadiran percepatan tidak dapat dipungkiri dalam kehidupan\n sehari-hari. Contohnya adalah: jika penumpang keretaapi tadi menarik \nrem darurat tiba-tiba, maka ia akan merasakan percepatan ke arah \nlokomotif, atau keretaapi mengalami perlambatan. Jika hanya bermodalkan \nTRK, maka keraguan terhadap prinsip relativitas akan merasuki kita untuk\n kasus ini. Namun Einstein berusaha mencari pemecahannya dengan motivasi\n bahwa hukum alam tetap sama untuk kerangka acuan jenis apapun.         \n <br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span>\u00a0transformasi Lorentz ditemukan pengabaian fundamental pada arah sebaran cahaya dari objek kepada pengamat yang mengakibatkan tidak terpenuhinya kondisi tertentu dalam konsep koordinat ruang dan waktu.</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dua-pegas-yang-sama-jenis-dan-ukurannya-mula-mula-disusun-secara-648",
+            "question": "Dua pegas yang sama jenis dan ukurannya mula-mula disusun secara paralel dan diberi beban bermassa mp hingga mengalami pertambahan panjang sebesar x. selanjutnya kedua pegas disusun secara seri dan diberi beban bermassa ms. agar pertambahan panjang pegas pada susunan seri ini sama dengan x juga, maka nilai mp : ms adalah..    fisika 1A bagus raharja",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "k paralel = 2k <br>k seri = k/2 = 0,5 k<br>F = k .x <br>karena x nya sama maka diperoleh <br>F1/k1 = F1/k2<br>mp . g / 2k = ms . g / 0,5 k\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 g dan k nya bisa dicoret shg didapat <br>mp/2 = ms/0,5 <br>mp : ms = 2 : 0,5 <br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 = 4 : 1\u00a0 <br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "gelombang-elektromagnetik-yang-memiliki-energi-foton-paling-besa-917",
+            "question": "Gelombang elektromagnetik\u00a0yang memiliki energi foton paling besar adalah....    A. Sinar - X\r\nB. Cahaya Merah\r\nC. Cahaya Ungu\r\nD. Gelombang Radio\r\nE. Sinar Gamma",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "c sinar ungu<br>karena memiliki f terbesar dan panjang gelombang terpendek",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tekanan-gas-yang-berada-dalam-suatu-ruangan-dikurangi-sehingga-me-983",
+            "question": "tekanan gas yang berada dalam suatu ruangan dikurangi sehingga menjadi 1/2 nya hal ini menyebabkan suhu gas tersebut turun menjadi 3/4 nya ,tentukan perbandingan volume gas akhir dan awal",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex] \\frac{1}{2} [/tex] :\u00a0[tex] \\frac{3}{4} [/tex] =\u00a0[tex] \\frac{6}{4} [/tex] = 3 : 2<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "[tex] \\frac{P1 x V1}{T1} =  \\frac{P2 x V2}{T2} [/tex]\u00a0 ( di soal kamu P1=1/2 P2 dan T1=3/4 T2 ) paham kak? <br>lalu masukan ke persamaan <br>[tex] \\frac{P1 x V1}{T1} =  \\frac{1/2 P1 x V2}{3/4 T1} [/tex]<br>( coret T1 dan P1 )\u00a0 <br>V1=[tex] \\frac{1}{2}: \\frac{3}{4} [/tex] V2 <br>V1/V2 = 2/3 <br><br><br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "seorang-pengendara-memulai-perjalanan-ssejauh-200-km-padatepat-te-643",
+            "question": "seorang pengendara memulai perjalanan ssejauh 200 km padatepat tengah hari, ia berkendara tanpa berhenti dan tiba di tempat tujuannya pada pukul 17.30 hitung kecepatan rata2nya untuk perjalanan ini?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "17.30 - 12.00 = 5.30 = 5,5 \nRumus : km/jam = 200/5,5 = 36,364 km/jam",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apa-betul-jawaban-saya-tlng-di-cmnt-seorang-pelari-menempuh-2-412",
+            "question": "APA\u00a0BETUL JAWABAN SAYA? TLNG DI CMNT !    seorang\r\n pelari menempuh 2 km dalam 5 menit dan kemudian membutuhkan 10 menit untuk\r\n berjalan kembali ketitik awal. a) berapakah kecepatan rata-rata untuk 5 menit\r\n pertama? (b) berapakah kecepatan rata-rata selama waktu yang dipakai berjalan?\r\n (c) berapakah kecepatan rata-rata untuk total perjalanan? (d) berapakah\r\n kelajuan rata-rata untuk total perjalanan?\r\n\r\n JAWABAN\r\n\r\n\r\na)\u00a0dikt :s\r\n = 2 km ~\u00a02000 m,\u00a0t = 5 menit ~\u00a0300 second\r\n\r\n v = s/t = 2000/300 = 6,66 m/s\r\nb)\u00a0dikt :s\r\n = 2 km ~\u00a02000 m,\u00a0t = 10 menit ~ 600 second\r\n\r\n v = s/t = 2000/600 = 3,33 m/s\r\n\u00a0 \u00a0 P1 + P2 =\u00a06,66 + 3,33 = 9,99 m/s\r\n\r\n\r\nc)\r\nd)\u00a0dikt :s\r\n = 2 km ~ 2000 x 2 = 4000 m,\u00a0t = 5 + 10 = 15 menit ~\u00a0900 second\r\n\r\n\r\n\u00a0 \u00a0 v = s/t = 4000/900 = 4,44",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "semuanya betul semua<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "2-buah-kawat-panjang-lurus-sejajar-terpisah-pada-jarak-12cm-kawa-818",
+            "question": "2 buah kawat panjang lurus sejajar terpisah pada jarak 12cm. kawat pertama dialiri arus 4A, kawat kedua 6A. tentukan besar induksi magnet pada titik yang berada diantara 2 kawat tersebut dan berjarak 4cm dari kawat pertama?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "besar\u00a0induksi magnet=12",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-benda-yang-massanya-100-kg-digantung-pada-suatu-kawat-yang-379",
+            "question": "sebuah benda yang massanya 100 kg digantung pada suatu kawat yang dapat memikul beban maksimal sebesar 15000 N. jika g= 9,8 m/s^2 berapa nilai maksimum percepatan ke atas yang dapat diberikan kepada benda itu?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "mungkin 14700000 J..<br>Maaf klo slah..<br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

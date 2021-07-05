@@ -1,0 +1,126 @@
+{
+    "question": "Bagaimana cara menentukan akar-akar persamaan kuadrat baru yang akar-akarnya berlawanan dan berkebalikan ?",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "persamaan kuadrat baru yang akar-akarnya berkebalikan<br>1.menghitung variabel baru berdasarkan rumus x1+x2=-b/a dan x1.x2=c/a<br>2.masukkan kerumus ax^2-bx+c<br>persamaan kuadrat baru yang akar-akarnya\u00a0 berlawanan<br>ubah tanda koefisien b<br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "diketahui-barisan-aritmetika-dengan-u3-u5-u7-u9-104-nila-151",
+            "question": "Diketahui barisan aritmetika dengan U3 + U5 + U7 + U9 = 104. Nilai U6 adalah..",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>Diketahui barisan aritmetika dengan U\u2083 + U\u2085 + U\u2087 + U\u2089 = 104.</p><p><strong>Barisan Aritmatika</strong> adalah \u00a0suatu barisan dengan selisih antara dua suku yang berurutan selalu tetap.</p><p>Rumus : Un = a + (n - 1)b</p><p><strong>Deret Aritmatika</strong> adalah jumlah suku \u2013 suku barisan aritmatika</p><p>Rumus : Sn = \u00b9/\u2082 n (a + Un)</p><h3>Pembahasan</h3><p><em><strong>Penjelasan dengan langkah-langkah:</strong></em></p><p><strong>Diketahui:</strong></p><p>U\u2083 + U\u2085 + U\u2087 + U\u2089 = 104</p><p><strong>Ditanya:</strong></p><p>Nilai U\u2086 = ... ?</p><p><strong>Jawab:</strong></p><p>Ingat Un = a + (n - 1)b</p><p>U\u2083 = a + (3 - 1)b</p><p> \u00a0 \u00a0 = a + 2b</p><p>U\u2085 = a + (5 - 1)b</p><p> \u00a0 \u00a0 = a + 4b</p><p>U\u2087 = a + (7 - 1)b</p><p> \u00a0 \u00a0 = a + 6b</p><p>U\u2089 = a + (9 - 1)b</p><p> \u00a0 \u00a0 = a + 8b</p><p>U\u2083 + U\u2085 + U\u2087 + U\u2089 = 104</p><p>a + 2b + a + 4b + a + 6b + a + 8b = 104</p><p>4a + 20b = 104</p><p><em><strong>a + 5b = 26</strong></em></p><br><p>Un = a + (n - 1)b</p><p><em><strong>U\u2086 = a + (6 - 1)b</strong></em></p><p><em><strong> \u00a0 \u00a0 = a + 5b</strong></em></p><p><em><strong> \u00a0 \u00a0 = 26</strong></em></p><br><p><u><em><strong>Jadi Nilai U\u2086 adalah 26</strong></em></u></p><br><h3>Pelajari lebih lanjut</h3><p>Bab barisan dan deret aritmatika dapat disimak pula di</p><ul><li>brainly.co.id/tugas/13759951</li><li>brainly.co.id/tugas/4240841</li><li>brainly.co.id/tugas/1509694</li><li>brainly.co.id/tugas/12054249</li></ul><h3>===========================</h3><h3>Detail Jawaban</h3><p><strong>Kelas </strong>: 9</p><p><strong>Mapel </strong>: Matematika</p><p><strong>Kategori </strong>: Barisan dan Deret</p><p><strong>Kode </strong>: 9.2.2</p><br><p><strong>Kata kunci </strong>: barisan aritmatika, deret aritmatika, suku pertama, beda, suku ke-n, jumlah n suku pertama</p><br><br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-salah-satu-akar-dari-2x2-ax-3-0-adalah-3-maka-ni-188",
+            "question": "Jika salah satu akar dari 2x^2 \u2013 ax + 3 = 0 ,\u00a0adalah 3 maka nilai a dan akar yang lain adalah?    a. a=7 akar lain -1/2\r\nb. a =7 akar lain 1/2\r\nc. a= -7 akar lain -1/2\r\nd. a = -7/2 akar lain 1/2\r\ne, a = -7/2 akar lain - 1/2",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]bentuk\\ umum\\ persamaan\\ kuadrat : px^2+qx+c=0 ; p \\neq 0\\\\\nuntuk\\ PK : 2x^2-ax+3=0,\\ p=2,\\ q=-a\\ dan\\ r=3\\\\\nkarena\\ 3\\ merupakan\\ salah\\ satu\\ akar\\ PK\\ tersebut,\\ maka\\\\\n2(3^2)-a(3)+3=0\\\\\n3a=21\\\\\na=7\\\\\n\nsehingga\\ PK\\ tersebut\\ menjadi\\ 2x^2-7x+3=0\\\\\nhasil\\ jumlah\\ akar-akarnya\\ (x_1+x_2)=-\\frac{q}{p}\\\\\nkarena\\ salah\\ satu\\ akarnya\\ adalah\\ 3, maka\\\\\n3+x_2=-\\frac{-7}{2}\\\\\nx_2=\\frac{7}{2}-3\\\\\nx_2=\\frac{1}{2}[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jelaskan-turunan-fungsi-dari-1-2-900",
+            "question": "Jelaskan turunan fungsi dari :\r\n1.\u00a0\r\n2.\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]y=cosec(x)=\\frac{1}{sin(x)}\\\\\ny=(sin(x))^{-1}\\\\\ny&#039;=(-1)(sin(x))^{-1-1}.cos(x).(1)\\\\\ny&#039;=-(sin(x))^{-2}.cos(x)\\\\\ny&#039;=-\\frac{cos(x)}{(sin(x))^2)}\\\\\ny&#039;=-\\frac{cos(x)}{sin(x)}.\\frac{1}{sin(x)}\\\\\ny&#039;=-cot(x).cosec(x)\\\\\\\\\ny=x.sin(3x)\\\\\ny&#039;=(1)sin(3x)+x.cos(3x).(3)\\\\\ny&#039;=sin(3x)+3x.cos(3x)[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "864",
+            "question": "",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]lim_{x \\rightarrow 0}\\ \\frac{x-3-sin(x-3)}{x-3}\\\\\n= lim_{x \\rightarrow 0}\\ \\frac{x-3}{x-3}- lim_{x \\rightarrow 0}\\ \\frac{sin(x-3)}{x-3}\\\\\n=  lim_{x \\rightarrow 0}\\ 1- lim_{x \\rightarrow 0}\\ 1\\\\\n=1-1\\\\\n=0[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "deskripsi-tentang-konsep-dasar-sudut-347",
+            "question": "Deskripsi tentang konsep dasar sudut?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "sudut adalah titik yang dibentuk oleh 2 garis yang bersinggungan atau berpotongan",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-rumus-invers-dr-fungsi-brikut-a-fxx-3-b-fx2x5-436",
+            "question": "Tentukan rumus invers dr fungsi\" brikut:    a. f(x)=x-3\r\nb. f(x)=2x+5\r\nc. f(x)=2-seperdua x\r\nd. f(x)=x3\r\ne. f(x)= 6per x, tidak sama dengan 0\r\nf). f(x)= 2 per x-1, x tidak sama dengan 1\r\ng). f(x)=2x-3 per 4x-1, xtidak sama dengan seperempat\r\nh). f(x)= 3x+5 per x-5, x-5 tidak sama dengan 0.\r\nthanks bg yang bs jwb.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "perhatikan caranya : f(x) = x+ 3<br>&lt;=&gt; y = x + 3<br>&lt;=&gt; x = y - 3<br>&lt;=&gt; finvers(y) = y - 3\u00a0<br>jadi finvers (x) = x - 3 \u00a0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-barisan-aritmetika-mempunyai-suku-ke-7-adalah-20-suku-te-161",
+            "question": "sebuah barisan aritmetika mempunyai suku ke 7 adalah 20., suku terakhir 44, dan jumlah 3 suku pertama adalah 12. suku tengah barisan ini adalah...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "u7=20<br>a+6b=20<br><br>u1+u2+u3=12<br>a+a+b+a+2b=12<br>3a+3b=12<br>a+b=4<br><br>eliminasikan persamaan a+6b=20 dan a+b=4<br>didapat b=[tex] \\frac{16}{5} [/tex]dan a=[tex] \\frac{4}{5} [/tex]<br>Un=44<br>a+(n-1)b=44<br>4/5 + (n-1) 16/5 =44<br>4/5 + 16/5 n - 16/5 =44<br>4/5 n= 44+ 12/5<br>4/5 n =[tex] \\frac{220+12}{5} [/tex]<br>n=58<br><br>yg dicari tengah2 n berarti n:2=58:2=29<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dari-sebuah-kotak-yang-berisi-8-buah-bola-berwarna-merahdan-6-b-423",
+            "question": "Dari sebuah kotak\u00a0 yang berisi 8 buah bola berwarna merahdan 6 buah bola berwarna biru,diambil 3 buah bola berwarna sekaligus secara acak .Peluang terambil 2 buah bola berwarna merah dan 1 buah bola berwarna biru",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "biru,karena 2 bola yang sudah di ambil adalah bewarna merah",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-bola-dilempar-vertikal-ke-atas-dgn-kecepatan-awal-vo-39-939",
+            "question": "Sebuah bola dilempar vertikal ke atas dgn kecepatan awal Vo = 39, 2m/s\u00b2 dan tanah dgn g=9,8 m/s\u00b2. Nyatakan dahulu posisi bola, y (dalam meter) setelah t sekon. Kapankah ketinggian y lebih dari 34,3 m?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "kalau saya cari hasil nya 1 sekon lebih agar ketinggian lebih dari 34,3<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "faktor-dari-688",
+            "question": "Faktor dari\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex] x^{2} +2x-48\n[/tex]<br>(x+8)(x-6)<br>x=-8 x=6<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "(X+8)(X-6)+0..<br>tu dia ....<br><br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

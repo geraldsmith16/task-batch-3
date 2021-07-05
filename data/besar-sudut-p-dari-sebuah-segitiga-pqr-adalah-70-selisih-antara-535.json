@@ -1,0 +1,126 @@
+{
+    "question": "Besar sudut P dari sebuah segitiga PQR adalah 70, selisih antara besar sudut Q dan R adalah 36\u00b0 tentukan besar sudut Q dan R. Perlu diketahui total sudut sebuah segitiga adalah 180\u00b0",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "[tex]P=70^o\\\\\nQ-R=36^o \\rightarrow Q=36^o+R\\\\\\\\\nP+Q+R=180^o\\\\\n70^o+36^o+R+R=180^o\\\\\n2R=74^o\\\\\nR=37^o\\\\\\\\\nQ=36^o+R\\\\\nQ=36^o+37^o\\\\\nQ=73^o[/tex]",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "1-jika-x1-dan-x2-akar-akar-2xkuadrat-10x4-0-nilai-dari-x-912",
+            "question": "1. jika\u00a0 x1 dan x2\u00a0 akar akar 2xkuadrat-10x+4 = 0, nilai dari x1kuadrat+x2kuadrat-3x1x2=    \u00a0\u00a0 \u00a0 A. 20\r\n\u00a0\u00a0 \u00a0 B. 15\r\n\u00a0\u00a0 \u00a0 C. 10\r\n\u00a0\u00a0 \u00a0 D.\u00a0 5\r\n\u00a0\u00a0 \u00a0 E.\u00a0 1",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "2x\u00b2-10x+4 = 0<br>x1+x2= 5 dan x1.x2=2<br>x1\u00b2+x2\u00b2-3x1x2=(x1+x2)\u00b2- 2x1x1 - 3x1x2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0=(x1+x2)\u00b2-\u00a05x1x2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 25-10<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 15",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sederhanakan-bentuk-logaritma-berikut-a-2log242log-852",
+            "question": "Sederhanakan bentuk logaritma berikut.\r\n\r\na.\u00a0\u00b2log24+\u00b2log",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]^2log24+\\ ^2log\\frac{1}{3}=\\ ^2log(24(\\frac{1}{3}))\\\\\n^2log24+\\ ^2log\\frac{1}{3}=\\ ^2log8\\\\\n^2log24+\\ ^2log\\frac{1}{3}=\\ ^2log2^3\\\\\n^2log24+\\ ^2log\\frac{1}{3}=\\ 3[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-y-2-cos-x-1-dari-030609012015018021024-743",
+            "question": "Tentukan\u00a0\r\ny = 2 cos x + 1\u00a0\r\ndari : 0,30,60,90,120,150,180,210,240,270,300,330,360 \u00a0(derajat)\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "2 cos x+1=0<br>2cos x=-1<br>cos x = - 1/2<br>cos yang bernilai 1/2 adalah 60 secara umum<br>diketahui dari soal nilainya minus berarti di kuadran 2 dan 3<br><br>yaitu 120 dan 240",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-suku-banyak-px-di-bagi-x-2-bersisa-6-dan-dibagi-x-709",
+            "question": "diketahui suku banyak p(x) di bagi (x-2) bersisa -6 dan dibagi (x+2) bersisa 8. tentukan sisa pembagian suku banyak p(x) oleh (x\u00b2-4)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>Dibagi (x-2) sisa -6<br>\ndibagi (x+2) sisa 8</span>\n\n<span><br>Dibagi (x2-4) sisa px+q</span>\n\n<span>(x2-4) = (x-2) (x+2)<br>\u00a0</span><span>(x-2) --&gt;\nf(2)= 2p+q<br>\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 -6 = 2p+q</span>\n\n<br><span>(x+2) --&gt; f(-2)= -2p+q<br>\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 8 = -2p+q</span>\n\n<br>disubtitusikan:\n\n<span>2p+q= -6\u00a0 dengan -2p+q=\n8 mendapat hasil p= -7/2 dan q= 1</span>\n\n<br><span>Jadi sisa pembagian suku banyak p(x) oleh (x2-4)\nadalah px+q= -7/2 <span>x\n+ 1</span></span>\n\n<br><br><br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span><span>Dibagi (x-2) sisa -6<br>\ndibagi (x+2) sisa 8</span>\n\n<span><br>Dibagi (x2-4) sisa px+q</span>\n\n<span>(x2-4) = (x-2) (x+2)<br>\u00a0</span><span>(x-2) --&gt;\nf(2)= 2p+q<br>\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 -6 = 2p+q</span>\n\n<br><span>(x+2) --&gt; f(-2)= -2p+q<br>\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 8 = -2p+q</span>\n\n<br>disubtitusikan:\n\n2p+q= -6\u00a0 dengan -2p+q=\n8 mendapat hasil p= -7/2 dan q= 1\n\n<br><span>\u00a0sisa pembagian suku banyak p(x) oleh (x2-4)\nadalah px+q= -7/2 x\n+ 1</span>\n\n<br></span><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-jumlah-n-suku-pertama-suatu-deret-aritmatika-dirumuskan-492",
+            "question": "Diketahui jumlah n suku pertama suatu deret aritmatika dirumuskan Sn=4n\u00b2-3n. Tentukan suku ke-2n deret aritmatika tersebut!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>Dik : Sn=4n\u00b2-3n<br>Dit : U2 =.. ?<br>Jawab :</span><br><span><span>a = U1 = S1 = 4(1)\u00b2-3(1)</span> = 4 - 3 = 1</span><br><span>S2 = 4(2)\u00b2-3(2) = 16 - 6 = 10<br><br>S2 = U1 + U2<br>10 = 1 + U2<br>U2 = 10 - 1<br>U2 = 9<br></span><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "untuk-membangun-2-ruang-kelas-butuh-15-orang-pekerja-dalam-waktu-370",
+            "question": "Untuk membangun 2 ruang kelas\u00a0butuh 15 orang pekerja dalam waktu 50 hari, setelah 20 hari\u00a0berjalan terhenti karena suatu sebab selama 5 hari. berapa tambahan pekerja agar tetap selesai dalam waktu 50 hari ?    hayo siapa yang bisa,\u00a0tolong ya teman-teman saya lupa maaf nih..",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "50 hari = 15 pekerja<br><br>setellah bekerja 20 hari,sisa<br>30 hari = 15 pekerja yang selesaikan<br><br>libur 5 hari<br>25 hari = x orang<br><br>jawab:<br>30 / 25 = x / 15<br>30 \u00d7 15 = 25x<br>450 = 25x<br>18 orang = x<br><br>jumlah yang harus ditambah:<br>18 - 15 = 3 orang<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "buktikan-identitas-berikut-1-sin-atan-a-cosa-1cosa-480",
+            "question": "Buktikan identitas berikut!\r\n\r\n1. sin \u03b1tan \u03b1 + cos\u03b1 = 1/cos\u03b1",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "sin\u03b1 tan\u03b1 + cos\u03b1 = 1/cos\u03b1<br>ruas kiri kita rubah menjadi :<br>sin\u03b1.sin\u03b1/cos\u03b1 + cos\u03b1 <br>&lt;=&gt; sin\u00b2\u03b1 /cos\u03b1 + cos\u00b2\u03b1 / cos\u03b1 karena sin\u00b2\u03b1 + cos\u00b2\u03b1 = 1<br>&lt;=&gt; 1/cos\u03b1<br>terbuktikan?<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-persamaan-lingkaran-yang-melalui-titik-20-11-3-3-897",
+            "question": "Tentukan persamaan lingkaran yang melalui titik (2,0) (1,1) (3,-3). tolong bantu yaaaa:)))",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "masukan titik\u00a0(2,0) (1,1) (3,-3) ke dalam rumus\u00a0Persamaan lingkaran \u00a0x2 + y2 + ax + by + c = 0, satu persatu dgn menganti nilai x dan y dgn titik tersebut kemudian cari nilai a,b, dan c dgn subtitusi<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-barisan-bilangan-dituliskan-sebagai-berikut-123456789101-164",
+            "question": "Sebuah barisan bilangan dituliskan sebagai berikut : 123456789101112131415161718192021222324252627..............dst. Sehingga suku ke-10 = 1, suku ke-11 = 0, suku ke-12 = 1, dan\u00a0seterusnya. Dapatkah Anda temukan bilangan yang menempati suku ke-10.000?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>Un\u00a0\n= a + ( n \u2013 1 )b</span><br>U11 = a + 10b= 0<br>U10 = a + 9b = 1<br><br>\u00a0\u00a0  <br>\u00a0\u00a0 \u00a0 \u00a0  1b = 1 b= 1<br>a + 1b = 0 \u2192 a + 10.1 =0 \u2192 a + 10 = 0\u2192 a\u00a0 =10<br><br>U10.000 = a (n-1) b<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0  = 10 (10.000-1) 1<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0  = 10 . 99000 .1<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0  = 990000<br>\u00a0<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "persegi-abcd-dengan-panjang-sisinya-a-cm-pada-sisi-ab-diberi-tit-273",
+            "question": "Persegi ABCD dengan panjang sisinya a cm. pada sisi AB diberi titik E dengan panjang AE adalah x cm. Diantara sisi BC diberi titik F dengan panjang BF\u00a0= AE. Panjang EB = FC. Tentukan luas minimum DEF !",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "sama halnya dengan rumus persegi biasa yaitu sisi x sisi = a kuadrat<br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

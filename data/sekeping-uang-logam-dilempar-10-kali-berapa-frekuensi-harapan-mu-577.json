@@ -1,0 +1,132 @@
+{
+    "question": "Sekeping uang logam dilempar 10 kali. berapa frekuensi harapan munculnya sisi gambar?",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "kesempatan msg\" sisi = 1/2<br>1/2 x 10 = 5<br>:D",
+            "attachments": []
+        },
+        {
+            "answer": "peluang gambar = 1/2<br><br>frekuansi harapan = peluang x banyak pelemparan = (1/2) x 10<br>frekuensi harapan sisi gambar = 5",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "1aisyah-memiliki-sebuah-kain-yang-berbentuk-persegipanjang-ia-b-910",
+            "question": "1.Aisyah memiliki sebuah kain yang berbentuk persegipanjang. Ia berencana menghias sekeliling kain tersebut dengan renda. Jika ternyata renda yang diperlukan Aisyah paling sedikit 450 cm, perkirakan ukuran kain yang dimiliki Aisyah!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "sisi 2. panjang\u00a0 + 2. lebar .. menurut ku sisi yang panjang = 150.2= 300 dan lebarnya 75.2=150 sehingga kelilingnya = 300+150=450<br><br>lalu luasnya adalah panjang.lebar = 150.75=11.250<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "hasil-penjumlahan-suku-ke-4-dan-suku-ke-8-sebuah-barisan-aritmeti-975",
+            "question": "Hasil penjumlahan suku ke 4 dan suku ke 8 sebuah barisan aritmetika adalah -46. Suku terakhir barisan tersebut adalah 47. Tentukan : A.suku ke 6...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Un = a + (n-1)b<br><br>U\u2084 + U\u2088 = -46<br>(a + 3b) + (a + 7b) = -46<br><strong>2a + 10b = -46 \u00a0</strong>dibagi 2 \u00a0=\u00a0<strong>a + 5b = -23<br><br><br>a+ 5b =\u00a0U</strong>\u2086 = -23<strong><br><br></strong>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dengan-mengunakan-tabel-kebenaran-buktikanlah-bahwa-pernyataan-pe-908",
+            "question": "Dengan mengunakan tabel kebenaran buktikanlah bahwa pernyataan pernyataan \u00a0berikut ini mrupakan pernyataan majemuk yang ekuivalen !    a. (p^q) \u00a0= ~ (~pv~q) \u00a0 b. (~p^q) = ~ (pv~q) \u00a0 c. (~p^~q) = ~(pvq) \u00a0 d. (~p^~q) = ~(~pv~q) \u00a0 e. (~p^~q) = pvq",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "silakan dipelajari, sekalian diperiksa apabila terdapat kesalahan",
+                    "attachments": [
+                        "answer-attachments/dengan-mengunakan-tabel-kebenaran-buktikanlah-bahwa-pernyataan-pe-908-1.docx"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "selisih-dua-buah-bilangan-sama-dengan-hasil-kalinya-dan-jumlah-ke-135",
+            "question": "Selisih dua buah bilangan sama dengan hasil kalinya dan jumlah kebalikannya adalah 5. Tentukan bilangan-bilangan itu.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1/a + 1/b=5<br>1/a=5 - 1/b..................................(i)<br><br>1/a + 1/b=5<br>(5 - 1/b) + 1/b = 5<br>5 - 1/b + 1/b = 5<br>5b/b-1/b+1/b = 5<br>(5-1+1)/b = 5<br>5/b=5<br>5=5b<br>b=1.................. (ii)<br><br>1/a + 1/b=5<br>1/a + 1/1=5<br>1/a+1=5<br>1/a=4<br>1=4a<br>a=1/4.....................(iii)<br><br><br>jadi a = 1/4 b= 1<br><br>jadikan jawaban terbaik kak :D<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-maka-nilai-yang-mungkin-untuk-adalah-612",
+            "question": "Jika \u00a0maka nilai yang mungkin untuk \u00a0adalah ...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "soal olimpiade kah ini mas?<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "harga-tiket-masuk-ke-ruangan-pameran-untuk-balita-rp200000-dan-415",
+            "question": "harga tiket masuk ke ruangan pameran untuk balita Rp.2000,00 dan untuk dewasa Rp.3000,00.Pada hari minggu terjual 540 tiket adengan hasil penjualan Rp1.260.000,00.banyak masing-masing tiket masuk balita dan dewasa terjual berturut turut adalah...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "balita = 360 tiket = 720.000<br>dewasa = 180 riket = 540.000<br>total = 1.260.000",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "contoh-soal-persamaan-dan-fungsi-kuadrat-585",
+            "question": "Contoh soal persamaan dan fungsi kuadrat ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]tentukan\\ akar-akar\\ dari\\ persamaan\\ kuadrat:x^2-x+1=0\\\\\\\\\ntentukan\\ titik\\ puncak\\ fungsi\\ f(x)=x^2-x+1\\\\[/tex]",
+                    "attachments": []
+                },
+                {
+                    "answer": "Selisih 2 bilangan bulat adalah 9. Jika hasil kali kedua bilangan tersebut adalah 36. Tentukan nilai dari kedua bilangan tersebut..<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diket-x1-dan-x2-akar-akar-persamaan-kuadrat-2-x-4-0-susun-552",
+            "question": "diket x1 dan x2 akar akar persamaan kuadrat 2\u00a0- x + 4 = 0. susunlah persamaan kuadrat baru yg akar akarnya x1 . x2 dan x1 + x2",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "jika pers x\u00b2-x+4=0 maka x1 + x2 = 1 dan x1x2= 4<br>mis\u00a0\u03b1 dan\u03b2 akar2 pk baru maka<br>\u03b1+\u03b2=x1x2 +(x1+x2) = 5 dan\u00a0\u03b1\u03b2= x1x2.(x1+x2)=4<br>jadi pk baru x\u00b2-( jumlah akar)x + hasil kali akar = 0<br>\u00a0 \u00a0x\u00b2- 5)x + 4r = 0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "limit-dari-2x-2-8xpangkat-2-4-limit-x2-267",
+            "question": "Limit dari 2/x -2 - 8/xpangkat 2 - 4=\r\nlimit x=2",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Lim (x--&gt;2)<br><br>[tex] \\frac{2}{x-2} - \\frac{8}{ x^{2} -4} = \\frac{2(x+2)-8}{ x^{2} -4}=\\frac{2x+4-8}{ x^{2} -4} \\\\  \\\\ =\\frac{2x-4}{ x^{2} -4} = \\frac{2(x-2)}{ (x+2)(x-2)}= \\frac{2}{x+2} [/tex]<br><br>[tex] \\frac{2}{2+2} =  \\frac{1}{2} [/tex]<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "aku-punya-pr-tapi-aku-atak-tahu-bagaimana-cara-untuk-menemukan-ja-208",
+            "question": "Aku punya PR tapi aku atak tahu bagaimana cara untuk menemukan jalan solusinya,    pertanyaannya begini:\r\n\r\nTemukan grafik fungsi kuadrat f(X) = 4x\u00b2 - 8x +\u00a03, dari grafik fungsi kuadrat g(x) = 4x\u00b2 !\r\n\r\nMohon penjelasannya!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]f(x)=4x^2-8x+3\\\\\ncari\\ titik\\ potong\\ thdp\\ sb\\ x\\ (y=0)\\\\\n0=4x^2-8x+3\\\\\n(2x-3)(2x-1)=0\\\\\nx=\\frac{3}{2}\\ atau\\ x=\\frac{1}{2}\\\\\ndiperoleh\\ (\\frac{3}{2},0)\\ dan\\ (\\frac{1}{2},0)\\\\\\\\\ncari\\ tipot\\ thdp\\ sb\\ y\\ (x=0)\\\\\nf(x)=y=4x^2-8x+3\\\\\ny=4(0)^2-8(0)+3\\\\\ny=3\\\\\ndiperoleh\\ (0,3)\\\\\\\\\ncari\\ titik\\ puncak\\ P(\\frac{-b}{2a},\\frac{-(b^2-4ac)}{4a})\\\\\nP(\\frac{-(-8)}{2(4)},\\frac{-((-8)^2-4(4)(3))}{4(4)})\\\\\nP(1,-1)\\\\\nletakkan\\ semua\\ titik\\ pada\\ koordinat\\ kartesius\\\\\nlalu\\ gambar\\ grafiknya[/tex]",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

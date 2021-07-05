@@ -1,0 +1,134 @@
+{
+    "question": "Apa itu sebenarnya momentum?",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "momentum adalah saat yang menentukan<br>",
+            "attachments": []
+        },
+        {
+            "answer": "Dalam\u00a0fisika<span>,\u00a0</span>momentum<span>\u00a0atau\u00a0</span>pusa<span>\u00a0adalah besaran yang berhubungan dengan\u00a0</span>kecepatan<span>\u00a0dan\u00a0</span>massa<span>\u00a0suatu benda.</span>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "1-seorang-kakek-dapat-membaca-buku-denan-baik-jika-tulisan-yang-895",
+            "question": "1. seorang kakek dapat membaca buku denan baik jika tulisan yang dibaca terletak pada jarak 40 cm . setelah memakai kacamata, ia dapat membaca dengan baik pada jarak 25 cm. jarak fokus lensa kacamata yang dipakai adalah ... cm    options :\r\n40/3\u00a0 \u00a0 \u00a0 3/25\u00a0 \u00a0 \u00a0 25/40\u00a0 \u00a0 \u00a0 \u00a0 200/3\u00a0 \u00a0 \u00a0 100/3\r\n2. sebuah teropong pantul memiliki jari-jari keelengkungan cermin objektif sebesar 6 m . jika jarak fokus lensa okuler 3 cm, perbesaran angulernya ... kali\r\noptions :\r\n100\u00a0 \u00a0 200\u00a0 \u00a0 50\u00a0 \u00a0 40\u00a0 \u00a0 \u00a0 20\r\n3. sebuah lup mempunyai jarak fokus 5 cm, digunakan seseorang bermata normal untuk melihat sebuah benda kecil yang berjarak 5 cm dari lup jika mata pengguna tidak berakomodasi , perbesarannnya ... kali\r\noptions :\r\n2\u00a0 \u00a0 4\u00a0 \u00a0 4,5\u00a0 \u00a0 5\u00a0 \u00a0 6,25",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "dik : f= 5 cm<br>\u00a0 \u00a0 \u00a0 \u00a0s = 5 cm<br>dit :M<br>\u00a0 \u00a0Jawab :\u00a0<br>karena titik dekat mata normal itu 25cm maka Sn = 25 cm<br>M = 25/5 = 5 kali<br><strong></strong> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-bola-pejal-dengan-massa-6-kg-dan-berjari-jari-20-cm-berger-996",
+            "question": "sebuah bola pejal dengan massa 6 kg dan berjari-jari 20 cm bergerak pada kelajuan 30 m/s sambil berputar. total energi kinetiknya adalah....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "ek=1/2\u00d7m\u00d7v\u00b2<br>ek=1/2.6.30\u00b2<br>ek=2700<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Ek= 1/2 . m. v \u00b2 + 1/2.I.\u03c9\u00b2<br>\u00a0\u00a0 \u00a0= 1/2. 6. 900 + 1/2. (1/2.6.0,04). (900/0,04)<br>\u00a0\u00a0 \u00a0 = 2700 + 1350<br>\u00a0\u00a0 \u00a0 = 4050 m/s\u00b2",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pemanas-air-dengan-spesifikasi-200-watt-digunakan-untuk-memanaska-817",
+            "question": "Pemanas air dengan spesifikasi 200 watt digunakan untuk memanaskan air bersuhu 30 C sebanyak 0,5 kg. kalor jenis air 4200 J//kg C. Berapa lama waktu yang diperlukan hingga air mencapai suhu 10 C?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Q= M.C.\u0394t<br>m.c<u></u>/ Q=\u00a0\u0394t<br>0.5x4200/20 =105 menit",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "persamaan-gelombang-berjalan-pada-seutas-tali-dinyatakan-oleh-y-556",
+            "question": "Persamaan gelombang berjalan pada seutas tali dinyatakan oleh y = 12 sin 5\u00a0\\pi (4x + 2t) dengan x dan y dalam cm dan t dalam sekon. tentukan :    a. arah rambat gelombang disertai dengan gambarnya\r\nb. amplitudo\r\nc. frequensi\r\nd. bilangan gelombang\r\ne.\u00a0panjang gelombang\r\nf. kecepatan gelombang",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "y =A sin (\u03c9t - kx)<br>y = A ampitudo = 12<br><br>k = 2\u03c0/lamda<br>lamda = 2\u03c0/10/\u03c0 = \u03c0^2/5 m<br><br><br>\u03c9 = 2\u03c0f<br>20/\u03c0 = 2\u03c0f<br>f = 20/ \u03c0 / 2\u03c0 = 40 /\u03c0^2 Hz<br><br>v = t/x = 20/\u03c0/10/\u03c0 = 2 m/s<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "2-benda-yang-berupa-bola-pejal-dan-bola-berongga-dilepaskan-dari-462",
+            "question": "2 benda yang berupa bola pejal dan bola berongga dilepaskan dari tempat yang sama pada kemiringan tertentu. bola manakah yang lebih dulu sampai ke dasar?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Persamaan gerak sepanjang bidang miring (m.g.sin 0 = 0-f = m.a)<br>jadi tergantung masa dan jarak. dalam kasus ini jarak sama berarti tinggal yang massa bendanya lebih berat jadi bola pejal yang lebih dulu.",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pengertian-rotasi-gerak-dan-macam-macam-keseimbangan-statis-tolo-273",
+            "question": "Pengertian rotasi Gerak dan macam-macam keseimbangan statis?\r\nTolong dijawab bagi yang tau..",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "klo gx salah\u00a0si<br>gerak\u00a0Rotasi<span>\u00a0adalah perputaran benda pada suatu\u00a0</span>sumbu<span>\u00a0yang tetap, misalnya perputaran\u00a0</span>gasing<span>\u00a0dan perputaran\u00a0</span>bumi<span>pada poros/sumbunya.<br>klu keseimbangan statis aku gx tay</span>",
+                    "attachments": []
+                },
+                {
+                    "answer": "rotasi gerak : perputaran benda pada suatu sumbu yg tetap misalnya perputaran gangsing dan perputaran bumi pada poros dan sumbunya\u00a0<br>mungkin klo keseimbangan statis : kesadaran akan posisi kepala terhadap gaya gravitasi jika tubuh tdk brgrak\u00a0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "benda-bermassa-10-kg-di-atas-bidang-datar-licin-dipengaruhi-gaya-694",
+            "question": "Benda bermassa 10 kg di atas bidang datar licin dipengaruhi gaya 40 N membentuk sudut 60 derajat terhadap horizontal,jika g= 10 m/s^2.tentukan perpindahan benda setelah gaya bekerja 60 \u00a0sekon",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "karena permukaannya licin, maka fg (gaya gesek) = 0<br>cari\u00a0\u03a3 F = m.a<br>\u00a0 \u00a0 \u00a0F + w cos 30 = m .a \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0w = m .g<br>\u00a0 \u00a0 \u00a040 + (10.10.1/2\u221a3) = 10.a<br>\u00a0 \u00a0 \u00a0 40 + 50\u221a3 = 10.a<br>\u00a0\u221a3 = 1,73<br>40 + 50 (1,73) = 10a<br>40 + 86,5 = 10a<br>126,5 = 10 a<br>a = 126,5 /10<br>\u00a0 \u00a0= 12,65 m/s\u00b2<br>mudah2an benar -_-",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-lensa-cembung-mempunyai-fokus-sebesar-15-cm-jika-sebuah-b-783",
+            "question": "Sebuah lensa cembung mempunyai fokus sebesar 15 cm. Jika sebuah benda diletakkan 20 cm dari lensa. Tentukan :    a. Jarak bayangan;\r\nb. Perbesaran bayangan; dan\r\nc. Sifat bayangan",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Diketahui :<br>f = 15<br>s = 20<br><br>a. [tex] \\frac{1}{f} =  \\frac{1}{s} + \\frac{1}{s\u2081} [/tex]<br>[tex] \\frac{1}{15} = \\frac{1}{20} + \\frac{1}{s\u2081} \n \\frac{1}{s\u2081} =\u00a0 \\frac{1}{15} - \\frac{1}{20} \n \\frac{1}{s\u2081} = \\frac{4-3}{60} [/tex]<br>s\u2081 = 60<br><br>b. |M| = [tex] \\frac{\\frac{60}{20} [/tex]<br>|M| = 3<br><br>c. Sifat Bayangan:<br>maya, tegak, diperbesar<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apa-pengertian-dari-anergi-mekanis-dan-sebutkan-contohnya-379",
+            "question": "Apa pengertian dari anergi mekanis dan sebutkan contohnya?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "energi mekanis adalah energi yang dimiliki suatu benda karena sifat geraknya.\u00a0<br>contoh: kelapa yang jatuh ke tanah",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "rangkaian-kereta-api-yang-panjangnya-80-m-melaju-dengan-kelajuan-160",
+            "question": "rangkaian kereta api yang panjangnya 80 m melaju dengan kelajuan 72km/jam \u00a0.kereta terlihat melintasi jembatan selama 6 s. hutung panjang jembatan ..!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "s=v.t<br>v nya ubah ke m/s jadi 72000/3600=20 m/s<br>jadi<br>s=20.6=120 meter<br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

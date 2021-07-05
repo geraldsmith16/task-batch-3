@@ -1,0 +1,140 @@
+{
+    "question": "1. Ubahlah masalah nyata berikut ke dalam bentuk pertidaksaman linear satu variabel.    a) Sebuah bus dapat mengangkut tidak kurang dari enampuluh orang penumpang.\r\nb) Jarak rumah Beni ke sekolah lebih dari seratus meter.\r\nc) Penghasilan ibu Monika tidak lebih dari dua juta rupiah setiap bulannya.\r\nd) Sebuah pesawat berada diketinggian tidak kurang dari tiga ribu kaki di atas permukaan laut.\r\ne) Kecepatan Udin berkendara tidak lebih dari 50 km/jam.",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "coba membantu tapi maaf kalo salah ya.. :)<br>a)\u00a0x&gt;60<br>b) x&gt;100<br>c) x&lt;2.000.000<br>d) x&lt;50",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "tuliskan-rumus-umum-yang-menunjukkan-hubungan-antara-sudut-pusat-773",
+            "question": "Tuliskan Rumus umum yang menunjukkan hubungan antara sudut pusat dan sudut keliling",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "rumus sudut pusat bila menghadap <strong>busur yang sama</strong><br>sudut pusat = 2x sudut keliling<br>sudut keliling = 1/2 sudut [usat<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-u1152-dan-u1363-maka-nilai-ab-462",
+            "question": "Jika U11=52 dan U13=63, maka nilai a+b=",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "u13=u11+2b<br>63=52+2b<br>63-52=2b<br>11=2b<br>b=11/2 atau 5,5<br><br>u11=a+10b<br>52=a+10(5,5)<br>52=a+55<br>52-55=a<br>a=-3<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "rumus:\u00a0Un=a+(n-1)b<br>U11=a+(11-1)b<br>U11=a+10b<br>U13=a+(13-1)b<br>U13=a+12b<br><br>rumus eliminasi<br>a+10b=52<br><u>a+12b=63</u>\u00a0-<br>\u00a0 \u00a0 -2b=-11<br>\u00a0 \u00a0 \u00a0b=5,5<br>a+10b=52<br>a+10.5,5=52<br>a+55=52<br>a=52-55<br>a=-3<br><br>a+b<br>-3+5,5=2,5",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1ubahlah-bentuk-akar-berikut-menjadi-bilangan-pangkat-pecahan-226",
+            "question": "1.ubahlah bentuk akar berikut menjadi bilangan pangkat pecahan !    a.\r\nb.\r\nc.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a. [tex] 15^{ \\frac{1}{3} } [/tex]<br><br>b. [tex] \\sqrt[5]{ 2^{5 x 2} } [/tex] = [tex] \\sqrt[5]{ 2^{10} } [/tex]<br>\u00a0\u00a0  = [tex] 2^{ \\frac{10}{5}} [/tex]<br>\u00a0 = 2\u00b2 = 4<br><br>c. [tex] 17^{ \\frac{5}{3} } [/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-jari-jari-lingkaran-tersebut-adalah-7cmhitunglah-akelilin-917",
+            "question": "Jika jari-jari lingkaran tersebut adalah 7cm,hitunglah!    a.keliling lingkaran\r\nb.panjang busur AB\r\nc.panjang busur BC\r\nd.panjang busur AC",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a. 22/7 x 14 = 44 cm",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-jari-jari-lingkaran-yg-kelilingnya-1884-dan-220-cmmoho-882",
+            "question": "Tentukan jari jari lingkaran yg kelilingnya 188,4 dan 220 cm.mohon penjelasanya :)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1. K = 188,4 cm<br>\u00a0maka ,masukkan rumus , K =\u00a0\u03c0 . 2. r = 188,4 cm/2 =\u00a0\u03c0r<br>94,2 cm = 22/7 .r<br>94,2 .7 cm /22 = r<br>29,97 cm =r<br><br>2.K = 220 cm<br>kembali masukkan rumus ,<br>K =\u03c0.2.r<br>220 cm = 2,14 . 2. r<br>220 cm = 4,28 .r<br>220 cm / 4,28 = r<br>51,4 cm = r<br><br>ingat\u00a0\u03c0 = 22/7 atau 3,14",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "luas-lingkaran-dengan-diameter-175-adalah-493",
+            "question": "Luas lingkaran dengan diameter 17,5 adalah....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "L = (22/7 atau 3,14) . Jari2<br>\u00a0\u00a0 = 22/7.17.5.17,5<br>\u00a0\u00a0  = 22.0,4.17,5<br>\u00a0\u00a0 = 8,8.17,5<br>\u00a0\u00a0 = 154 cm2<br><br>L = 3,14.17,5.17,5<br>\u00a0\u00a0 = 54,95.17,5<br>\u00a0\u00a0 = 961,625<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "rumus : 1/4 x phi x d pangkat dua<br>1/4 x 3,14x17,5x17,5 = 240,406<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-penyelesaian-setiap-pertidaksamaan-berikut-ini-23-x-739",
+            "question": "Tentukan penyelesaian setiap pertidaksamaan berikut ini :\r\n2/3 x - 1/6 &gt; 3/4 x",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "2/3x-1/6&gt;3/4x<br>2/3x-3/4x&gt;1/6<br>8x-9x&gt;2<br>-x&gt;2<br>x&lt;-2",
+                    "attachments": []
+                },
+                {
+                    "answer": "2/3 x - 1/6 &gt; 2/4 x<br>= 4x-1/6 ? 3x/4<br>= 4 (4x-1) &gt; 6 (3x)<br>= 16x - 4 &gt; 18x<br>= 16x - 18x &gt; 4<br>= -2x &gt; 4<br>= 2x &lt; -4<br>= x &lt; -2",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "help-plus-caranya-juga-ya-thanks-158",
+            "question": "[HELP] plus caranya juga ya, thanks",
+            "attachments": [
+                "question-attachments/help-plus-caranya-juga-ya-thanks-158-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "8x^-4/2x^-6<br>= 2x^6/8x^4<br>= 2x^6/2x^3(4)<br>= 2x^6/2x^12<br>= 4x^3/4x^6<br>= 4x^3",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pada-kegiatan-rallysebuah-mobil-akan-sampai-di-garis-finis-dalam-340",
+            "question": "Pada kegiatan Rally,sebuah mobil akan sampai di garis finis dalam waktu 4,5 jam dengan kecepatan rata-rata 63 km/jam. Setelah 2 jam berjalan, ban mobil biru pecah sehingga terpaksa berhenti mengganti ban selama 15 menit. Berapa kecepatan mobil biru dinaikkan agar tetap sampai di finis tepat waktu?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "ditambah kecepatanya 7 km/jam\njadi 70 km/ jam",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-nilai-x-jika-2x12x22x32x504275-893",
+            "question": "Tentukan nilai X, jika (2x+1)+(2x+2)+(2x+3)+...+(2x+50)=4275",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]Sn= \\frac{n}{2} (U1+Ut)[/tex]<br>u1 adalah suku pertama =(2x+1)<br>ut adalah suku terakhir=(2x+50)<br>banyak nya n suku tsb adalah 50 atau n = 50<br>[tex]Sn= \\frac{n}{2} (U1+Ut)[/tex]<br>4275=[tex] \\frac{50}{2} ( (2x+1)+(2x+50))[/tex]<br>4275=[tex]25(4x+51)[/tex]<br>[tex] \\frac{4275}{25} =4x+51[/tex]<br>171=4x+51<br>120=4x<br>x=3",
+                    "attachments": []
+                },
+                {
+                    "answer": "Dik : a = 2x+1<br>\u00a0\u00a0 \u00a0 \u00a0  n = 50\u00a0 , b = 1<br>\u00a0\u00a0 \u00a0 \u00a0 S50 = 4275<br>Dit : x , untuk mencari x maka harus tau nilai a<br>Jawab :<br>Sn = 1/2 n (2a + (n-1) b)<br>4275 = 1/2 (50) (2a + (50-1)(1))<br>4275 = 25 (2a + 49)<br>171 = 2a + 49<br>171 - 49 = 2a<br>122 = 2a<br>a = 61<br><br>a = 2x+1<br>61 = 2x + 1<br>61-1 = 2x<br>60 = 2x<br>x = 30<br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

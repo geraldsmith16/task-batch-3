@@ -1,0 +1,134 @@
+{
+    "question": "sebuah bola pejal dengan massa 6 kg dan berjari-jari 20 cm bergerak pada kelajuan 30 m/s sambil berputar. total energi kinetiknya adalah....",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "ek=1/2\u00d7m\u00d7v\u00b2<br>ek=1/2.6.30\u00b2<br>ek=2700<br>",
+            "attachments": []
+        },
+        {
+            "answer": "Ek= 1/2 . m. v \u00b2 + 1/2.I.\u03c9\u00b2<br>\u00a0\u00a0 \u00a0= 1/2. 6. 900 + 1/2. (1/2.6.0,04). (900/0,04)<br>\u00a0\u00a0 \u00a0 = 2700 + 1350<br>\u00a0\u00a0 \u00a0 = 4050 m/s\u00b2",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "2-benda-yang-berupa-bola-pejal-dan-bola-berongga-dilepaskan-dari-462",
+            "question": "2 benda yang berupa bola pejal dan bola berongga dilepaskan dari tempat yang sama pada kemiringan tertentu. bola manakah yang lebih dulu sampai ke dasar?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Persamaan gerak sepanjang bidang miring (m.g.sin 0 = 0-f = m.a)<br>jadi tergantung masa dan jarak. dalam kasus ini jarak sama berarti tinggal yang massa bendanya lebih berat jadi bola pejal yang lebih dulu.",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-balok-bermassa-m-berada-di-atas-lantai-mendatar-licin-di-d-923",
+            "question": "sebuah balok bermassa m berada di atas lantai mendatar licin di dorong dengan gaya mendatar 21,5 N sehingga mengalami percepatan 2m/s\u00b2.berapakah gaya yang harus diberikan agar percepatan menjadi 4m/s\u00b2??",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "F=m.a<br>21,5=m.2<br>m=10,75 kg<br><br>F=m.a<br>F=10,75.4<br>F=43N<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "kita buat perbandingan aja,karna massanya sama kan :)<br>maka\u00a0<br>F1= 21,5 N<br>a1= 2 m/s^2<br>F2 = ..?<br>a2= 4 m/s^2<br><br>maka ..<br>F1/F2 = a1/a2<br>21,5 N/F2 = 2/4<br>21,5 N/F2 = 1/2<br>21,5 N . 2 = F2<br>43 N = F2 :)",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dari-beberapa-drum-yang-berisi-udara-yang-memiliki-massa-keseluru-729",
+            "question": "dari beberapa drum yang berisi udara yang memiliki massa keseluruhan 30 kg dan volum rata-rata 2,5 m\u00b3, digunakan untuk membuat jembatan ponton yang terapung di atas permukaan air. Berapa berat beban maksimum yang dapat ditahan oleh drum tersebut?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "kalau berat maksimum berarti w=F(archimedes) <br>w=Fa\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 w= \u03c1(rho air) . V(benda dalam fluida) . g <br>w=1000 . 2.5 .10 = 25000N <br>semoga membantu , kalau ada yg tidak paham tanya aja<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "kenapa-energi-potensial-pada-listrik-statis-skalar-ttapi-medan-da-869",
+            "question": "Kenapa energi potensial pada listrik statis skalar ttapi medan dan gaya listrik vektor?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "karena energi memiliki nilai saja\u00a0tidak memiliki arah maka merupakan\u00a0vektor<br>medan dan gaya listrik memiliki nilai dan\u00a0arah yaitu muatan + ke - sehinnga merupakan besaran skalar",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bagaimana-bentuk-permukaan-zat-cairsudut-kontak-untuk-air-alko-174",
+            "question": "bagaimana bentuk permukaan zat cair(sudut kontak) untuk air, alkohol dan raksa di dalam pipa kapiler ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "sudut kontak air dengan pipa kapiler adalah 0 derajat &lt; 0 &lt; 90 derajat<br>sudut kontak air raksa dengan pipa kapiler adalah 90 derajat &lt; 0 &lt; 180 derajat",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-benda-panjangnya-2-meter-setelah-ditarik-oleh-gaya-30n-pan-113",
+            "question": "sebuah benda panjangnya 2 meter setelah ditarik oleh gaya 30N panjangnya menjadi 2,02 meter. Besar konstanta pegas benda tersebut adalah..",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "dik<br>panjang awal = 2 m<br>panjang akhir = 2,02 m<br>F = 30 N<br>dit :<br>k..?<br>jwb ..<br>x= panjang akhir - panjang awal = 2,02 - 2 m = 0,02 m<br><br>maka k = F/x = 30 N / 0,02 m = 1500 N/m",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apakah-yang-dimaksud-dengan-proyektor-219",
+            "question": "Apakah yang dimaksud dengan proyektor",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>Proyektor LCD adalah suatu jenis proyektor video untuk menampilkan video, gambar atau data komputer di layar atau permukaan datar lainnya. Ini adalah analog modern dari proyektor slide atau proyektor overhead. Untuk menampilkan gambar, LCD (liquid crystal display) Proyektor biasanya mengirim cahaya dari lampu halida logam melalui prisma yang memisahkan cahaya untuk tiga panel silikon poli - masing-masing untuk komponen merah, hijau, dan biru dari sinyal video. Sebagai cahaya terpolarisasi melewati panel (kombinasi polarizer, panel LCD dan analyzer), piksel individu dapat dibuka untuk memungkinkan cahaya untuk lulus atau tertutup untuk memblokir cahaya. Kombinasi piksel terbuka dan tertutup dapat menghasilkan berbagai macam warna dan nuansa pada gambar yang diproyeksikan.</span>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Menurut Saya, : Proyektor merupakan alat optik yg digunakan untuk menampilkan media dalam sebuah layar permukaan yg serupa<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "rumus-reaksi-sempurna-kimia-apa-ya-374",
+            "question": "Rumus reaksi sempurna kimia apa ya?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>C8H18 (l) +12 \u00bd O2 (g) \u2013&gt; 8 CO2 (g) + 9 H2O (g) \u0394H = -5460 kJ</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "arus-pusar-terjadi-akibat-dari-apa-apakah-generator-itu-bag-588",
+            "question": "* arus pusar terjadi akibat dari apa?    * apakah generator itu? bagaimana dasar kerjanya?\r\n* sebutkan fungsi generator dalam kehidupan sehari - hari!\r\n* apakah yang terjadi jika kumparan generator diputar lebih cepat?\r\n\u00a0ini pelaaran prakarya kelas 1 SMA, tolong bantu ye=)) makasih",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "fungsi dari generator adalah = *untuk mengubah energi mekanik menjadi energi listrik sehingga dapat digunakan sebagai pembangkit tenaga listrik dan menggerakan mesin mesin industri\u00a0\u00a0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-bola-pejal-menggelinding-dari-keadaan-diam-menuruni-suatu-174",
+            "question": "Sebuah bola pejal menggelinding dari keadaan diam menuruni suatu bidang miring yang membentuk sudut 30\"(30derajat) terhadap arah mendatar. kelajuan linear bola ketika telah menempuh lintasan sejauh 3,5 m pada bidang adalah....    tentukan dengan menggunakan persamaan V=((2mgh)/(m+I/R^2))^1/2",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "kalau menurut saya , bikin segitiga dulu , kan sudutnya 30 dan sisi miring nya 3,5 , jadi { sin30 = [tex] \\frac{h}{3,5} [/tex] ==&gt; h = 3.5sin30 = [tex] \\frac{7}{4} [/tex] <br>jadi langsung aja karena bola pejal jadi kecepatan linearnya <u></u>v = [tex] \\sqrt{ \\frac{4}{3} . g . h} [/tex] <br>v = [tex] \\sqrt{ \\frac{4}{3}. 10 .  \\frac{7}{4}  } [/tex] (kalau g nya 9.8 masukan 9.8 ) <br>v = [tex] \\sqrt{ \\frac{70}{3} } m/s[/tex] <br>semoga jawaban saya membantu mas dimas <br>mohon maaf kalau ada salah2 hehe<br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

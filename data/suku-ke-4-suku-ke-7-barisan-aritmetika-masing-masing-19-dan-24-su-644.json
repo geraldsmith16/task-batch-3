@@ -1,0 +1,138 @@
+{
+    "question": "Suku ke-4 suku ke-7 barisan aritmetika masing-masing 19 dan 24 suku pertama adalah...",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "u4 = 19<br>u4= a+(4-1)b =&gt; 19 = a+3b / x2 \u00a0=&gt; 38=2a+6b<br>u7 = 24<br>u7=a+(7-1)b =&gt; 24=a+6b \u00a0/x1 \u00a0 \u00a0=&gt; \u00a024=a+6b<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 ---------------- ----<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 14= a \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 19=14+3b<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a05=3b<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a05/3=b<br>u1 = a+b<br>\u00a0 \u00a0 \u00a0 14+5/3<br>\u00a0 \u00a0 \u00a0 42/3+5/3 \u00a0= 47/3 = 15 2/3",
+            "attachments": []
+        },
+        {
+            "answer": "u4 = 19\n<br>u7 = 24\n<br><br>a+6b = 24 | X1 | a+6b = 24\n<br>a+3b = 19 | X2 | 2a+6b = 38\u00a0\n                       <br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 ------------------  ---\n                        <br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 -a       = -14\n                         <br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 a       = 14",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "diketahui-p12345-dan-q34678-tentukan-p-q-dan-q-p-401",
+            "question": "Diketahui P={1,2,3,4,5} dan Q={3,4,6,7,8}\r\ntentukan P-Q dan Q-P",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Q-P= 6,7,8<br>P-Q= 1,2,5<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "p-q = 1,2,5<br>q-p = 6,7,8",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "cara-merasionalkan-bentuk-akar-5311-136",
+            "question": "Cara merasionalkan bentuk akar 5\u00f73\u221a11",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "5/3\u221a11x \u221a11/\u221a11 = 5<span>\u221a11/11<br><br></span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "3-tentukanlah-penyelesaian-dari-pertidaksamaan-berikut-a-12x-440",
+            "question": "3. Tentukanlah penyelesaian dari pertidaksamaan berikut:    a) 1/2x + 5 &gt; 15\r\nb) 2 \u2013 (4 + x) \u2265 \u2013 22\r\nc) 2/3p + 4 \u2264 8\r\nd) 2x \u2013 4 &gt; 3x + 9\r\ne) 2y-7/2\u00a0 \u2264 3",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a. 1/2 x &gt; 15- 5<br>1/2 x &gt; 10<br>2 1/2x &gt; 2.10<br>x &gt; 20<br><br>b. 2 - (4+ x) [tex] \\geq [/tex] -22<br>-2 + x [tex] \\geq [/tex] -22<br>x [tex] \\geq [/tex] -22+ 2<br>x[tex] \\geq [/tex] -20<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dalam-waktu-10-hari20-orang-dapat-menyelesaikan-5-gedungbutuh-b-454",
+            "question": "dalam waktu 10 hari,20 orang dapat menyelesaikan 5 gedung.Butuh berapa orang untuk menyelesaikan 6 gedung?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "20/10 x 5 = 40 orang.. kayanya seperti itu.. :)<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "40 mungkin yaa, gatau lagi :/<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "semua-himpunan-dari-10ltxlt10-xbilangan-bulat-yang-habis-278",
+            "question": "Semua himpunan dari -10&lt;x&lt;10    x\u2208bilangan bulat yang habis dibagi 3\r\nyang mempunyai 3 anggota",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "{-9,-8,-7,-6,-5,-4,-3,-2,-1,0,1,2,3,4,5,6,7,8,9}",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bagaimana-cara-menghitung-perbedaan-dan-persamaan-dan-perbedaan-l-876",
+            "question": "Bagaimana cara menghitung perbedaan dan persamaan dan perbedaan linear satu variabel ? Tolong jelaskan dengan jelas !",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "kalau pakai pendapat saya, persamaan linear satu variabel itu hanya mengunakan 1 variabel untuk penyelesaiaanya misalnya: x, y, dsb. sedangkan perbedaan linear satu variabel itu dalam penyelesainnya terdapat kata\u00a0<u></u><strong>tidak\u00a0</strong>atau\u00a0<strong>bukan</strong> misalnya: \u00a0dalam persamaan ini:<br>3x + 12 = 24, {x| x &lt; 5, x E\u00a0bilangan prima}<br>3x = 24 - 12<br>3x = 12<br>x = 4<br>jadi, x = 4\u00a0<strong>bukan\u00a0</strong>penyelesaian dari persamaan 3x + 12 = 24, {x|\u00a0x &lt; 5, x E bilangan prima}<br><br><br>semoga bisa membantu ^_^,,,<br>maaf kalau ada yang salah ^_^,,,<br>silahkan ditanyakan kalau tidak mengerti dengan jawaban saya tadi ^_^,,,",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-7n343maka5n-itu-7-pangkat-n-itu-5-pangkat-n-500",
+            "question": "Jika 7n=343,maka5n=\r\nitu 7 pangkat n\u00a0\r\nitu 5 pangkat n\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "7 pangkat n = 343<br>7 pangkat n = 7 pangkat 3<br>n = 3<br>jadi, 5 pangkat n = 5 pangkat 3 = 125<br>Semoga membantu :)<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "7^n=343<br>n=3 5^3 = 125<br>:D",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-segitiga-sama-kaki-memiliki-panjang-sisi-yang-sama-dengan-835",
+            "question": "Sebuah segitiga sama kaki memiliki panjang sisi yang sama dengan 5 kali panjang sisi lainnya. Agar keliling segitiga tersebut lebih besar dari 50 m, berapakah panjang masing-masing sisi segitiga tersebut?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "5x+x+x&gt;50<br>7x&gt;50<br>x&gt;50/7 sisi(1) dan (2)<br>x&gt;250/7 sisi alas (3)<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "persamaan-garis-yang-melali-titik-33-sejajar-dengan-garis-y2x-688",
+            "question": "Persamaan garis yang melali titik (3,3) sejajar dengan garis y=2x-4",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "sejajar berarti gradien sama<br>maka gradien garis tersebut adalah 2<br>(3,3) adalah titik (x1,y1)<br><br>y - y1 = m ( x - x1)<br>y - 3 = 2 ( x - 3)<br>y - 3 = 2x - 6<br>y = 2x - 6 + 3<br><strong>y = 2x - 3</strong><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-titik-o-merupakan-pusat-lingkaran-luas-juring-aob-314-cm-522",
+            "question": "jika titik O merupakan pusat lingkaran, luas juring AOB =3,14 cm persegi dan besar sudut AOB = 100 derajat, diameter lingkaran adalah = .... cm",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "L juring=(sudut/360) . L lingkaran<br>3,14=(100/360) . (1/4) . [tex] \\pi d ^{2} [/tex]<br>3,14=10/36 .1/4 . 3,14 . [tex] d^{2} [/tex]<br>[tex] \\frac{36 . 4}{10 . 1} [/tex]=[tex] d^{2} [/tex]<br>d=[tex] \\sqrt{14,4} [/tex]<br>d=3,79<br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

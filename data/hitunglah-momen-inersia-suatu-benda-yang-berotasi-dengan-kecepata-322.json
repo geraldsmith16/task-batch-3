@@ -1,0 +1,136 @@
+{
+    "question": "hitunglah momen inersia suatu benda yang berotasi dengan kecepatan sudut 10 rad/sekon dan memiliki energi kinetik 5 joule",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "Dik Ek = 5 j<br>\u00a0 \u00a0 \u00a0\u00a0\u03c9 = 10 rad/s<br>Dit i ?<br>jawab.<br>rumus i = mr^2<br><br>Ek = 1/2 m (R.\u03c9)^2<br>5 \u00a0 = 1/2 m (R.10^2)<br>10 \u00a0= mr^2 . m.100\u00a0<br>mr^2 = 10 / 100 m<br>\u00a0 \u00a0 \u00a0 \u00a0 = \u00a00,1 kgm^2 /\u00a0m<br>i = 0,1 kgm<br><br>Klik bintang",
+            "attachments": []
+        },
+        {
+            "answer": "Rumus momen inersia (I) adalah\u00a0<br>bila percepatan sudut \u00a010 rad / s =\u00a0\u03b1<br>Energi kinetik = 5 Joule = F<br>[tex]I = mr^2[/tex]\u00a0<br><br>Pertama cari dulu persamaan 1\u00a0<br>[tex]F = m a_{tan} [/tex]<br>\u00a0--&gt;\u00a0Hubungan antara gaya (F), massa (m), dan percepatan tangensial (a tan) partikel\u00a0<br><br>Partikel berotasi sehingga partikel mempunyai percepatan sudut.<br>\u00a0<br>Hubungan antara percepatan tangensial dengan percepatan sudut dinyatakan melalui persamaan :<br>[tex] a_{tan}=r \\alpha  [/tex] Persamaan 2\u00a0<br><br>Subtitusikan atau gantikan percepatan tangensial (a tan) pada persamaan 1\u00a0 dengan percepatan tangensial (a tan) pada persamaan 2.<br><br>[tex]F = \\frac{1}{2}m r \\alpha[/tex]<br>[tex]\\gamma . r = \\frac{1}{2}m r \\alpha[/tex]]<br>[tex]5 = \\frac{1}{2}m . r^2 . 10[/tex]<br>[tex]mr^2 = 1 / 10 = 0.1 [/tex]<br><br><br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "seorang-penari-balet-dengan-tangan-terentang-berputar-pada-kecepa-806",
+            "question": "seorang penari balet dengan tangan terentang berputar pada kecepatan sudut diatas lantai mendatar yang licin. jika penari tersebut melipat tangannya, momen inersiannya akan berkurang sebesar 20% dari semula. perbandingan energi kinetik rotasi saat tangan dilipat dengan saat tangan terentang adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kategori: Fisika Bab Energi <br>Kelas: XI SMA IPA <br><br><br><br><br>Perhitungan dapat dilihat pada lampiran",
+                    "attachments": [
+                        "answer-attachments/seorang-penari-balet-dengan-tangan-terentang-berputar-pada-kecepa-806-1.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-benda-berotasi-dengan-momen-inersia-25-m2-dan-kec-625",
+            "question": "sebuah benda berotasi dengan momen inersia 2,5\u00a0\u00d7\u00a0\u00a0m\u00b2 dan kecepatan sudut awal 5 rad/s , agar benda itu berhenti dalam waktu 2,5 sekon maka besar momen gaya yang harus dikerjakan adalah...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>torsi= I.\u03b1---&gt; \u03c9t=\u03c9o + \u03b1. t</p><p>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a00 = 5 + \u03b1.2,5</p><p>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0-5\u00a0= \u03b1.2,5</p><p>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 \u03b1=-0,5</p><p>torsi= I . \u03b1= 2,5 x\u00a0-0,5=-1,25</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "seorang-siswa-menyelidiki-tinggi-sebuah-gedung-dengan-menjatuhkan-601",
+            "question": "seorang siswa menyelidiki tinggi sebuah gedung dengan menjatuhkan benda dari lantai teratas. teman lain mengukur ternyata benda tersebut sampi di tanah dalam waktu 3 sekon. (percepatan gravitasi=10 ms) dapat disimpulkan bahwa tinggi gedung adalah?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "h= 1/2 gt ^2=\u00a045 m<br>\u00a0tinggal di subt saja<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "dik : \u00a0h= benda<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0t\u00a0= 3 s<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0g=10 m/s<br>dit = tinggi gedung....?<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "faktor-yang-mempengaruhi-elastisitas-sebuah-benda-479",
+            "question": "Faktor yang mempengaruhi elastisitas sebuah benda",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "sifat fisik yang utama adalah karena dipengaruhi oleh struktur penyusunnya<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bola-bowling-memiliki-berat-70-n-bola-itu-diam-pada-dinding-yang-914",
+            "question": "bola bowling memiliki berat 70 N, bola itu diam pada dinding yang licin jika bola dianggap homogen tentukan gaya normal di titik a dan b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Maaf sebelumnya,apakah mizzpurple66 salah menulis soal.karna saat bola berada di dinding otomatis bola akn bergerak ke bawah.saya misalkan dinding itu menjadi lantai dan mengapa tidak ada gambar?titik a dan b apakah seperti ini ?a\u00a0\u208b\u208b\u208b\u208b\u208b\u208b\u208b\u208b\u208b\u208b\u208b\u208b\u208bb<br>\u00a0jadi:<br>W=N<br>70=N<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "seorang-pengendara-memulai-perjalanan-ssejauh-200-km-padatepat-te-643",
+            "question": "seorang pengendara memulai perjalanan ssejauh 200 km padatepat tengah hari, ia berkendara tanpa berhenti dan tiba di tempat tujuannya pada pukul 17.30 hitung kecepatan rata2nya untuk perjalanan ini?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "17.30 - 12.00 = 5.30 = 5,5 \nRumus : km/jam = 200/5,5 = 36,364 km/jam",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-mesin-dibuat-sedemikian-rupa-sehingga-mampu-menghasilkan-g-420",
+            "question": "sebuah mesin dibuat sedemikian rupa sehingga mampu menghasilkan gaya 15000\u00a0N mesin ini di gunakan pada sebuah mobil balap tersebut agar didapatkan akselerasi yg di harapkan bagaimana dengan massa penummpang?perlukah untuk di perhitungkan?jelaskan !",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "menurut saya perlu<br>ingat F = m.a<br>yang mempengaruhi gaya adalah massa dan percepatan(akselerasi)<br>tatkala hasil yg di inginkan adalah akselerasi<br>maka a= F/m<br>tentu saja massa tetap mempengaruhi akselerasi yang tejadi :)",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "persamaan-gelombang-berjalan-pada-seutas-tali-dinyatakan-oleh-y-556",
+            "question": "Persamaan gelombang berjalan pada seutas tali dinyatakan oleh y = 12 sin 5\u00a0\\pi (4x + 2t) dengan x dan y dalam cm dan t dalam sekon. tentukan :    a. arah rambat gelombang disertai dengan gambarnya\r\nb. amplitudo\r\nc. frequensi\r\nd. bilangan gelombang\r\ne.\u00a0panjang gelombang\r\nf. kecepatan gelombang",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "y =A sin (\u03c9t - kx)<br>y = A ampitudo = 12<br><br>k = 2\u03c0/lamda<br>lamda = 2\u03c0/10/\u03c0 = \u03c0^2/5 m<br><br><br>\u03c9 = 2\u03c0f<br>20/\u03c0 = 2\u03c0f<br>f = 20/ \u03c0 / 2\u03c0 = 40 /\u03c0^2 Hz<br><br>v = t/x = 20/\u03c0/10/\u03c0 = 2 m/s<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suatu-lensa-bikonveks-jari-jari-kelengkungannya-masing-masing-10-648",
+            "question": "Suatu lensa bikonveks ,jari-jari kelengkungannya masing-masing 10 cm dan 40 cm, indeks bias kacanya nk =1,5 . Kemudian, lensa dimasukkan ke dalam minyak yang indeks biasnya n =1,2. Maka kekuatan lensanya dalam minyak ialah.... dioptri.    a. 3,125 \r\nb. 3,250\r\nc. 4,125\r\nd. 4,250\r\ne. 5,250\r\n\r\njawabnya ,tolong pakek cara,ya!!! Biar ngerti cara ngerjain soalnya juga :D",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "tiga dua lima puluh bukan<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tinggi-nada-senar-gitar-tergantung-1-4-558",
+            "question": "Tinggi nada senar gitar tergantung ?\u00a0\r\n( 1-4)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "frekuensi gelombang longitudinal nya<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "frekuensi dari gelombang longitudinal\u00a0gitar itu sendiri",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

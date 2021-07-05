@@ -1,0 +1,146 @@
+{
+    "question": "Tentukanlah suku banyak p(x) yang memenuhi persamaan berikut (x2 - 2x - 5)-p(x) = (3-2x)(5x-4)",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "(x\u00b2 - 2x - 5) - p(x) = (3 - 2x) (5x - 4) <br>x\u00b2 - 2x - 5 - p(x) = 15x - 12 -10x\u00b2 + 8x <br>x\u00b2 - 2x - 5 - (15x - 12 - 10x\u00b2 + 8x) = p(x) <br>11x\u00b2 - 25x + 7 = p(x) <br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "cara-menjawab-soal-pola-bilangan-yang-tidak-berurutan-seperti-soa-325",
+            "question": "Cara menjawab soal pola bilangan yang tidak berurutan seperti soal psikotest itu gimana sih ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Tergantung dengan pola bilangannya juga sih.Tapi menurut pendapat saya, carilah angka yang paling kecil, lalu bandingkan dengan angka terkecil kedua. Okay ? @Liwed",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-keuntungan-produksi-radio-x-unit-x2140-x100-dan-ha-437",
+            "question": "Jika keuntungan produksi radio x unit\u00a0=\u00a0\u00a0x^2+140 x+100. dan harga jual satu radio\u00a0= 200 \u2013 2 x, maka jika jual x unit =\u00a0x(2oo \u2013    2 x). rumus keuntungan = harga jual - biaya produksi. jadi\u00a0=\r\n (200 x \u2013 2x^2)\u2013(x^2+ 140 x +\r\n 100). sdh ditemukan jika ingin mencapai keuntungan max maka perlu mejual 30 unit radio. tapi jika di subtitusi ke rumus keuntungan kenapa jadi rugi?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Xnya kalo gak salah adalah 10<br>jika disubtitusikan (200x-2[tex]10^{2} [/tex])-([tex]10^{2} [/tex]+140x+100<br>=(2000-200)-(100+1400+100)<br>=1800-1400<br>=400<br><br>keuntungannya 400 \u00a0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "3-bil-positif-membentuk-barisan-geometri-dgn-rasio-rgt1-jika-s-285",
+            "question": "3 bil positif membentuk barisan geometri dgn rasio r&gt;1, jika suku tengah ditambah 4 maka terbentuk sebuah bil aritmatika yg jumlahnya 30. tentukan hasil kali dari ketiga bil tersebut",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a/r,a,ar \u00a0 \u00a0 \u00a0 \u00a0BG \u00a0 \u00a0 \u00a0 \u00a0 \u00a0suku tengah ditambah 4 jadi BA\u00a0<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 a+4 = (a/r+ar)/2 \u00a0 &lt;=&gt; 2a + 8 = a/r + ar\u00a0<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0dan \u00a0\u00a0a/r + a+4+ar = 30<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0berarti 2a + 8 +a+4 = 30 &lt;=&gt; 3a = 18 maka a = 6 <br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0dan r = 3( (dimasukkan per !)<br>jadi 2+6+18 = 26",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jawablah-pertanyaan-berikut-ini-dengan-benar-5-tentukan-negasi-d-339",
+            "question": "Jawablah Pertanyaan berikut ini dengan benar    5. Tentukan negasi dari disjungsi- disjungsi berikut.\r\na. Susi Wanita yang cantik atau baik hati.\r\nb. 5 bialngan prima atau habis dibagi 2.\r\nc. 2x + 1 = 5 atau 3 bilangan ganjil.\r\nJawabannya:\r\n\r\ntolong Jawablah secepat mungkin karena ini penting",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a. baik hati<br>b. 2<br>c. 2x + 1 = 5<br>\u00a0\u00a0  2x = 5-1<br>\u00a0\u00a0 2x = 4<br>\u00a0\u00a0 x\u00a0\u00a0\u00a0 = 2<br><br>Itu jawabannya. Balas \"terimakasih\" ya ! :)<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "a. susi wanita yang tidak cantik dan tidak baik hati<br>b. 5 bukan bilangan prima dan tidak habis dibagi 2<br>c. 2x + 1 \u2260 5 dan 3 bukan bilangan ganjil<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-bantu-saya-kerjakan-dik-f2x-34x-7maka-nilai-dari-852",
+            "question": "Tolong Bantu saya kerjakan\u00a0 \r\nDIK=\u00a0 f(2x-3)=4x-7,maka nilai dari F(17)-F(7) adalah...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "f(17) = 117\u00a0<br>f(7) = 37\u00a0<br>jadi hasilnya 80. kalo enggak salah yaaa",
+                    "attachments": []
+                },
+                {
+                    "answer": "f = 4(2x-3) - 7<br>\u00a0= 8x - 12 - 7<br>\u00a0= 8x - 19<br>f 17 = 8(17) - 19 = 117<br>f 7 = 8 (7) - 19 = 37<br><br>nilai f17-f7 = 117 - 37 = 80<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-pers-kuadrat-x2-m-3x-3m-1-0-mempunyai-satu-akar-r-799",
+            "question": "Jika pers kuadrat x\u00b2-(m+ 3)x+ (3m + 1) = 0\r\nmempunyai satu akar riil mka nilai m yg memenuhi ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "satu akar, jadi D=0<br>[tex]D=0\\\\\nb^2-4ac=0\\\\\n(m+3)^2-4(1)(3m+1)=0\\\\\nm^2+6m+9-12m-4=0\\\\\nm^2-6m+5=0\\\\\n(m-1)(m-5)=0\\\\\nm_1=1 \\ atau \\ m_2=5[/tex]<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Bentuk Umum Persamaan Kuadrat seperti ini<span>,\u00a0\u00a0dan a, b, c,</span>Dimana :x\u00a0adalah variabel persamaan kuadrata\u00a0adalah koefisien x kuadratb\u00a0adalah koefisien xc\u00a0adalah konstantaCara Menyelesaikan Persamaan Kuadrat<span>1) Mencari faktor<br><br>diuraikan menjadi\u00a0<br>cara pemfaktoran akan lebih mudah bila a = 1<br>maka kita bisa menebak x1 dan x2 dengan cara<br>a = 1<br>b = x1+x2<br>c = x1.x2</span><span>2) Memakai Rumus Kuadrat atau Rumus abc<br></span><span>3) Melengkapkan Kuadrat Sempurna<br>Bentuk umum persamaan kuadrat bebentuk kuadrat sempurna adalah :<br>\u00a0dengan q &gt; 0</span>Menentukan Jenis Akar-Akar Persamaan Kuadrat Jenis akar-akar persamaan kuadrat ditentukan oleh nilai deskriminan :<span><br>a. D &gt; 0 Kedua akar nyata dan berlainan,\u00a0</span><span>b. D = 0<br>Kedua akar nyata dan sama,\u00a0</span><span>c. D &lt;&gt; Kedua akar tidak nyata (imaginer)<br>d.\u00a0\u00a0dengan\u00a0<br>bilangan kuadrat sempurna, kedua akar rasional.</span><span>Untuk menghitung<span>\u00a0jumlah dan hasil kali akar-akar persamaan kuadrat</span>\u00a0, dapat dicari tanpa terlebih dahulu mencari akar-akarnya.</span><span>Dari rumus\u00a0\u00a0dan\u00a0</span><span>Dapat ditunjukkan bahwa:\u00a0</span><span>Rumus-rumus\u00a0Akar Persamaan Kuadrat hasil pengembangan, sering sekali muncul di soal UAN SNMPTN atau SPMB</span><span>Sifat-sifat Akar\u00a0Persamaan Kuadrat Jika\u00a0\u00a0dan\u00a0\u00a0adalah akar-akar persamaan kuadrat\u00a0\u00a0dengan\u00a0<br>maka berlaku sifat-sifat berikut ini :</span><span>a. Syarat mempunyai Dua Akar Positif<br></span><span>b. Syarat mempunyai Dua Akar Negatif<br><br>c. Syarat mempunyai Dua Akar Berlainan Tanda<br><br>d. Syarat mempunyai Dua Akar Berlawanan<br><br>e. Syarat mempunyai kedua akar berkebalikan<br></span><span>Cara menyusun Persamaan kuadratdari akar-akar x1 dan x2 yang diketahui</span><span>Persamaan kuadrat yang akar-akarnya\u00a0dan\u00a0\u00a0adalah :\u00a0</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "perbandingan-berbalik-nilaiharga-2-sabun-mandi-seharga-rp3500-172",
+            "question": "perbandingan berbalik nilai:Harga 2 sabun mandi seharga Rp.3.500,00.Berapakah harga 3,5 lusin sabun mandi?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "42buah:2=21<br>21x3500=73500",
+                    "attachments": []
+                },
+                {
+                    "answer": "3,5 lusin = 42 buah<br>42 / 2 = 21\u00a0<br>harga = 21\u00a0\u00d7 3.500 = 73.500",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "persamaan-m-1-x2-4x-2m-0-mempunyai-akar-akar-real-te-829",
+            "question": "Persamaan (m - 1)\u00a0x\u00b2 + 4x + 2m = 0 mempunyai akar-akar real. Tentukan nilai m yg memenuhi!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "JAWAB.<br>akar akarnya<br>x= -2 m= 2<br>x= 0 m=0<br>x=1 m= -1<br>x=4 m=0<br><br>nilai m = 1 dan x = -1/2<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "D&gt;0<br>x\u00b2+4x+2m&gt;0<br>b\u00b2-4ac<br>(4)\u00b2-4.1.2m&gt;0<br>16-8m&gt;0<br>-8&gt;-16<br>m&lt;2<br>jadi m nya : 1<br>mungkin begitu, semoga benar :D",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "penerapan-sudut-pada-bidang-fisika-dan-masalah-nyata-212",
+            "question": "Penerapan sudut pada bidang fisika dan masalah nyata",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>kecepatan rata rata\u00a0<br>kecepatan sesaat. . . . \u00a0. <br></span><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "kecepatan rata-rata, <br>kecepatan sesaat",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-ab-dan-c-adl-sudut2-pda-sebuah-segtiga-dan-nilai-dari-tan-367",
+            "question": "jika A,B, dan C adl sudut2 pda sebuah segtiga dan nilai dari tan A = 4, tan B = 3, maka nilai dari tan C=.......?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]A,\\ B\\ dan\\ C\\ merupakan\\ sudut2\\ dlm\\ segitiga,\\ maka\\\\\nA+B+C=180^{o}\\\\\nA+B=180^{o}-C\\\\\nTan(A+B)=Tan(180^{o}-C)\\\\\n\\frac{Tan A+Tan B}{1-TanATanB}=-TanC\\\\\n\\frac{4+3}{1-4(3)}=-TanC\\\\\n\\frac{7}{-11}=-TanC\\\\\nTanC=\\frac{7}{11}\n[/tex]",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

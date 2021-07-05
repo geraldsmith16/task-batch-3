@@ -1,0 +1,134 @@
+{
+    "question": "Contoh soal gerak vertikal ke atas",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "sebuah bola bermassa 3 kg,di lemparkan ke atas,dalam jarak 3 meter setelah di lempar,berapa kecepatan yang dimiliki oleh bola dengan gravitasi 10 m/s^2 :)<br>soalnya aja ? :)",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "apa-yang-dimaksud-efek-compton-831",
+            "question": "Apa yang dimaksud efek compton",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>suatu efek yang merupakan bagian interaksi sebuah penyinaran terhadap suatu materi.</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "saat-beban-digantungkan-pada-pegas-apakah-beban-melakukan-gaya-532",
+            "question": "Saat beban digantungkan pada pegas, apakah beban melakukan gaya?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "tidak,,,,,,,,,,,,,,,",
+                    "attachments": []
+                },
+                {
+                    "answer": "melakukan gaya,apabila sebua pegas yang digantung diberi beban m pada ujungnya kemudian benda tersebut disimpangkan dari titik setimbangnya,maka beban pegas tersebut akan melakukan gerak bolak-balik (gaya) pada titik setimbangnya.<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-bola-pejal-bermassa-05-kg-dan-jari-jari-20-cm-menggelind-174",
+            "question": "sebuah bola pejal bermassa 0,5 kg. dan jari jari 20 cm menggelinding pada lantai mendatar dengan kecepatan 8 m/s kemudian naik ke bidang miring. Tentukan ketinggian h maksimum yang dapat dicapai hingga bola berhenti sesaat",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>Mapel: Fisika</p><p>Kelas : XI SMA<br></p><p>Kategori \u00a0: dinamika rotasi<br></p><p>Kata Kunci : menggelinding, kecepatan, ketinggian, bidang miring, energi mekanik<br></p><p>Jawaban:<br></p><p>Jika bola menggelinding, berarti benda mengalami gerak translasi sekaligus rotasi. Untuk menyelesaikan soal tersebut, digunakan hukum kekekalan energi mekanik.<br></p><p>Diketahui:<br></p><p>m = 0,5 kg<br></p><p>R = 20 cm<br></p><p>v = 8 m/s<br></p><p>g = 10 m/s2<br></p><p>Ditanya: h saat berhenti sesaat<br></p><p>Jawab:<br></p><p>Mula-mula bola berada di lantai mendatar sehingga tidak memiliki energi potensial. Saat berada pada ketinggian maksimum, bola tidak memiliki energi kinetik. Momen inersia bola pejal besarnya 2/5 mR2 (k = 2/5)<br></p><p>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 EMA = EMB<br></p><p>EPA + EktransA + EkrotA = EPB + EktransB + EkrotB<br></p><p>\u00a0 \u00a0 0 + \u00bd. m. v2 + \u00bd. I. \u03c92 = m.g.h + 0 + 0<br></p><p>\u00a0 \u00a0 \u00a0 \u00bd. m. v2 + \u00bd. k. m. v2 = m.g.h<br></p><p>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00bd. m. v2 ( 1 + k ) = m.g.h<br></p><p>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0h = v2 ( 1 + k )/ 2.g<br></p><p>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0h = 8^2 (1 + 2/5)/ 2.10<br></p><p>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0h = 64. 1,4/20<br></p><p>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0h = 89,2/ 20 = 4,48 meter<br></p><p>Jadi, ketinggian maksimum yang dapat dicapai hingga bola berhenti sesaat adalah 4,48 meter.<br></p><p>Jika mau dihafalkan, rumus cepat untuk mencari ketinggian maksimum benda atau mencari kecepatan mula-mula benda yang menggelinding menaiki bidang miring adalah<br></p><p>h= [tex] \\frac{ v^{2} (1+k)}{2.g} [/tex]<br></p>\n\n<p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "contih-soal-hukum-hooke-570",
+            "question": "Contih soal hukum hooke?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Ketika seseorang yang bermasaa 60kg bergelantungan pada ujung sebuah pegas, pegas bertambah panjang 15 cm. tentukan terapan gaya pegas.",
+                    "attachments": []
+                },
+                {
+                    "answer": "sebuah pegas digantung pd statif, panjang mula mula adlh 40 cm, kemudian pd ujungnya digantungi beban seberat 1 kg ternyata panjang pegas menjadi 45 cm. tentukan besar konstanta pegas tersebut jika \u00a0g = 10 m/s\u00b2",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bagaimanakah-momentum-benda-sebelum-dan-sesudah-tumbukan-218",
+            "question": "Bagaimanakah momentum benda sebelum dan sesudah tumbukan ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Berdasarkan hukum kekekalan momentum,\"jika tidak ada gaya luar yang bekerja pada benda,maka jumlah momentum sebelum tumbukan = jumlah momentum setelah tumbukan\"",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-pegas-yang-digantung-vertikal-kebawah-dengan-panjang-mula2-917",
+            "question": "Sebuah pegas yang digantung vertikal kebawah dengan panjang mula2 12cm , setelah ujung bawah dibebani massa 150 gram , makapanjang pegas menjadi 15cm, kostanta elastisitas pegas tsb adalah... N/m (g 10m/s) \u00a0 beserta caranya",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "diket : lo= 12 cm = 12 x 10\u00a0^ -2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 m = 150 g = 0,15 kg\u00a0<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 Lt= 15 cm = 15 x 10^ -2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 x = 3 cm = 3 x 10 ^ -2<br>tanya : K<br>jawab : k= m.g / x<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 k= 15 x 10^-2 : 3 x 10^-2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 k= 5<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suatu-penghantar-dililitkan-melingkar-3x-dengan-jari-jari-25cm-p-309",
+            "question": "suatu penghantar dililitkan melingkar 3x dengan jari-jari 25cm, pada penghantar dialirkan arus listrik 12A. hitung induksi magnet pada pusat lingkaran!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "5cm x 25cm sama dengan 125 cm pangkat dua<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apakah-semua-jenis-gaya-menyebabkan-pertambahan-panjang-pegas-177",
+            "question": "Apakah semua jenis gaya menyebabkan pertambahan panjang pegas ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "belum tentu, liat massa jga kk...<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "semua gaya mempengaruhi pegas<br>tetapi gaya tarik menyebabkan pertambahan panjang,sedangkan gaya dorong atau tekan menyebabkan pemendekann pada pegas :)",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apakah-semua-jenis-gaya-menyebabkan-pertambahan-panjang-pegas-269",
+            "question": "Apakah semua jenis gaya menyebabkan pertambahan panjang pegas ?\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "semua jenis gaya mungkin bisa <br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "ada-yang-tau-rumus-rumus-gerak-melingkar-beraturan-232",
+            "question": "Ada yang tau rumus rumus GERAK MELINGKAR BERATURAN ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>v = 2\u03c0R/T \u00a0\u00a0atau \u00a0v = 2\u03c0Rf</span>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

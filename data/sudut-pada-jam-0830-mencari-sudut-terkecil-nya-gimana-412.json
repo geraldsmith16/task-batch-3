@@ -1,0 +1,134 @@
+{
+    "question": "Sudut pada jam\u00a0 08:30 mencari sudut terkecil nya gimana?",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "Satu putaran penuh\u00a0pada jam itu sama dengan satu putaran penuh lingkaran yaitu 360 derajat.<br>Pada jam setiap bertambah itu besarnya 30 derajat.<br><br>Jadi, kalau pakai cara kakak untuk mencari besar sudut jam 08.30 kamu gambar dulu jenis sudut apa jam 08.30 itu kemudian kamu ukur pakai busur.<br><br>semoga bisa membantu ^_^,,,<br>maaf jika ada yang salah ^_^,,,",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "bilangan-asli-ganjil-kurang-dari-15-307",
+            "question": "\u00a0{ bilangan asli ganjil kurang dari 15 }",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "{1,3,5,7,9,11,13,15}",
+                    "attachments": []
+                },
+                {
+                    "answer": "1, 3, 5, 7, 9, 11, 13<br><br>sekian :D<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-himpunanpenyelesaian-dri-persamaan-linear-a-24m-12-b-813",
+            "question": "Tentukan himpunanpenyelesaian dri persamaan linear    a. 24m = 12\r\nb. -4 x-15 = 1- 8r\r\nplis d jawab",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]24m=12 \\rightarrow m=\\frac{12}{24}=\\frac{1}{2}\\\\\nHp=\\{\\frac{1}{2}\\}\\\\\\\\\n(-4)(-15)=1-8r\\\\\n60-1=-8r\\\\\n59=-8r\\\\\nr=-\\frac{59}{8}\\\\\nHp=\\{-\\frac{59}{8}\\}[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "ubahlah-masalah-nyata-berikut-ke-dalam-bentuk-pertidaksamaan-line-833",
+            "question": "Ubahlah masalah nyata berikut ke dalam bentuk pertidaksamaan linear satu variabel    a) sebuah bus dapat mengangkut tidak kurang dari enam puluh orang penumpang\r\nb) jarak rumah beni ke sekolah lebih dari 100 meter\r\nc) penghasilan ibu monika tidak lebih dari 2 juta per bulannya\r\nd) sebuah pesawat berada di ketinggian tidak kurang dari 3 ribu kaki di atas permukaan laut\r\ne) kecepatan udin berkendara tidak lebih dari 50 km/jam",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a) penumpang = x&gt;=60<br>b)x&gt;100<br>c) x&lt;=2<br>d) x&gt;=3<br>e) x&lt;=50",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "berat-badan-arif-2-kg-lebih-dari-53-kali-berat-badan-dimas-jika-111",
+            "question": "berat badan arif 2 kg lebih dari 5/3 kali berat badan dimas. jika jumlah berat badan mereka 122 kg, maka selisih berat badan mereka adalah?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Arif 5:3 Dimas<br>Arif +2 Dimas\u00a0<br>5+3=8\u00a0<br>122-2=120\u00a0<br>5x120:8= 75 (Arif)<br>3x120:8= 45 (Dimas)\u00a0<br>75+45=120\u00a0<br>75-45=30 kg",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "persamaan-kuadrat-yang-akar-karnya-12dan-34-adalah-477",
+            "question": "Persamaan kuadrat yang akar-karnya-1/2dan 3/4 adalah...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex](2x+1)(4x-3) =  8x^{2} -6x+4x-3 \\\\ 8x^{2} -2x-3[/tex]",
+                    "attachments": []
+                },
+                {
+                    "answer": "akar-akarnya<br>x = - 1/2 dan x = 3/4<br>maka, x = - 1/ 2 menjadi 2x + 1 = 0<br>dan x = 3 / 4 menjadi 4x - 3 = 0<br><br>masukan ke persamaan pemfaktoran ( dikalikan ):<br>\u00a0(4x - 3) (2x + 1) = 0<br>8[tex] x^{2} [/tex] - 2x - 3 = 0<br><br>semoga membantu :)<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sederhanakanlah-5-akar-3-43-6-akar-2-3-akar-2-552",
+            "question": "Sederhanakanlah 5 akar 3 + 43 + 6 akar 2 - 3 akar 2",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "43 + 3 akar2 + 5 akar3<br>itu adalah jawaban yang paling sederhana",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "nyatakan-himp-berikut-dgn-kata-kata-dan-notasi-pembentuk-himpunan-538",
+            "question": "Nyatakan himp berikut dgn kata kata dan notasi pembentuk himpunan A= {1,3,5,7} B= {0,3,6,9,12,15}",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "A : {x|1\u2264x\u22647, x\u00a0\u2208 P}<br>b : {x|0\u2264x\u226415, x\u00a0\u2208 bilangan bulat\u00a0kelipatan 3}<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "A = {\u00a0<em>x | x</em>, <em>x</em> adalah bilangan ganjil \u00a0yang kurang dari 9\u00a0}<br>B = {\u00a0<em>x | x</em>,\u00a0<em>x</em> adalah bilangan bilangan cacah\u00a0kelipatan 3 yang kurang dari 18 }<br><br>Insya Allah jawaban ini benar. Amin",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-nilai-x-jika-2x-1-2x-2-2x-32x-5-961",
+            "question": "Tentukan nilai x, jika (2x + 1) + (2x + 2) + (2x + 3)+...+(2x + 50) = 4275. Tolong dijawab yaa, pleaseee",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "jawabannya 30<br><br>Sn = n/2 { a +Un } = 4275<br>&gt; 50/2 { (2x+1) + (2x+50) } = 4275<br>&gt; 25 { 4x + 51 } = 4275<br>&gt; 100x + 1275 = 4275<br>&gt;100x = 4275 - 1275<br>&gt;100x = 3000<br>&gt;x = 30<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jumlah-kelereng-robincecepdan-budi-248-butir-banyak-kelereng-r-346",
+            "question": "Jumlah kelereng Robin,Cecep,dan Budi 248 butir. Banyak kelereng Robin 4/5 kali banyaknya kelereng Cecep. Tetapi banyak kelereng Budi sama banyak dengan kelereng Cecep. Berapa banyak kelereng mereka masing-masing?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "robin+cecep+budi=248<br>robin=4/5cecep<br>cecep=budi<br>maka-----&gt; robin+cecep+budi<br>----&gt; 4/5cecep+cecep+cecep/budi=248<br>4/5c + 2c=248<br>14/5c=248<br>c=248 : 14/5<br>=88,57 (cecep &amp; budi)<br>robin=\u00a0 4/5 x 88,57<br>=70,85<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pada-suatu-petajarak-20-km-ditunjukkan-dengan-jarak-4-cmberapa-441",
+            "question": "Pada suatu peta,jarak 20 km ditunjukkan dengan jarak 4 cm.Berapa kilometer jarak yang ditunjukkan dengan panjang 16 cm?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Rumus mencari jarak: 20/4.16 = 80 km<br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

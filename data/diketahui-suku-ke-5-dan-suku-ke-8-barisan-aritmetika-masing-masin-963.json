@@ -1,0 +1,142 @@
+{
+    "question": "diketahui suku ke-5 dan suku ke-8 barisan aritmetika masing masing 16 dan 25 . jumlah 22 suku pertama ?",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "[tex]U_{8} - U_{5} = a + 7b - (a + 4b) = 9 \\\\ 3b = 9 \\\\ b = 3, a = 4 \\\\ S_{22} =  \\frac{22}{2}(8+63) = 11.71 = 781 [/tex]",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "manakah-dibawah-ini-yang-merupakan-persamaan-linear-satu-variabel-444",
+            "question": "manakah dibawah ini yang merupakan persamaan linear satu variabel ? a. 2x - 4 = 8 b. -4 + 3s = 24 c. -8 - d2 = 32 d. 5(u - 2) = u-2",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "menurut saya semuanya satu variabel. Karena\u00a0yang a) variabelnya x \u00a0b) s \u00a0c) d\u00b2 \u00a0d) u<br>semoga membantu :)",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "3z11-28-itu-gimana-caranya-yah-506",
+            "question": "3z+11=-28 itu gimana caranya yah?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "3z+11=-28<br>3z=-28-11<br>3z=-39<br>z=-12",
+                    "attachments": []
+                },
+                {
+                    "answer": "3z +11 = -28<br>3z = -28 - 11<br>3z = -33<br>z = -11",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "12x-5-gt-15-816",
+            "question": "1/2x + 5 &gt; 15 = ....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1/2x + 5\u00a0&gt; 15<br>semua kalikan 2<br>x + 10 &gt; 30<br>x + 10 - 10 &gt; 30 -10<br>x &gt; 20<br>Jadi penyelesaiannya x &gt; 20",
+                    "attachments": []
+                },
+                {
+                    "answer": "1/2x +5 &gt; 15<br>1/2x \u00a0 \u00a0 \u00a0&gt; 15-5<br>1/2x \u00a0 \u00a0 \u00a0&gt; 10<br>1/2x :1/2&gt; 10 :1/2<br><u></u><br>\u00a0 \u00a0 \u00a0 \u00a0x \u00a0 \u00a0&lt; 20<u></u>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "seorang-ayah-berumur-28-tahun-ketika-anaknya-lahir-berapakah-umu-540",
+            "question": "seorang ayah berumur 28 tahun ketika anaknya lahir. berapakah umur anak itu ketika jumlah umur mereka 40 tahun",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "kalau menurut logika begini... maaf ya...<br>28 = 0<br>29 = 1<br>30 = 2<br>31 = 3<br>32 = 4<br>33 = 5<br>36 = 6<br>38 = 7<br>39 = 8<br>40 =\u00a09<br>jadi umur anak tersebut 9 tahun",
+                    "attachments": []
+                },
+                {
+                    "answer": "Mis : x = umur ayah<br>y = umur anak<br><br>x = y + 28<br><br>x + y = 40<br>y + 28 + y = 40<br>2y + 28 = 40<br>2y = 12<br>y = 6 tahun<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "perbandingan-a-b-berbalik-nilai-dengan-c-d-bila-bd-175-dan-918",
+            "question": "Perbandingan a : b berbalik nilai dengan c : d. Bila bd = 175 dan a = 5, maka nilai d =",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "bd : a<br>175 : 5<br>d = 35<br>Smoga ajha:) biar sya coba lagi nanti klu salah :3<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-titik-o-merupakan-pusat-lingkaran-luas-juring-aob-314-cm-522",
+            "question": "jika titik O merupakan pusat lingkaran, luas juring AOB =3,14 cm persegi dan besar sudut AOB = 100 derajat, diameter lingkaran adalah = .... cm",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "L juring=(sudut/360) . L lingkaran<br>3,14=(100/360) . (1/4) . [tex] \\pi d ^{2} [/tex]<br>3,14=10/36 .1/4 . 3,14 . [tex] d^{2} [/tex]<br>[tex] \\frac{36 . 4}{10 . 1} [/tex]=[tex] d^{2} [/tex]<br>d=[tex] \\sqrt{14,4} [/tex]<br>d=3,79<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-penyelesaian-dari-35a2-33a-73a-1-453",
+            "question": "Tentukan penyelesaian dari 3(5a+2)-3(3a-7)=3(a-1)!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "3(5a+2)-3(3a-7)=3(a-1)<br>15a+6-9a+21 = 3a-3<br>6a+27 = 3a-3<br>6a-3a = -3-27<br>3a = -30<br>a = -10",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-motor-menempuh-90-km-dalam-waktu-30-menit-berapa-jam-wakt-821",
+            "question": "sebuah motor menempuh 90 km dalam waktu 30 menit .berapa jam waktu yang diperlukan motor untuk menempuh jarak 210 km?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "90 km -&gt; 30 menit<br>90 : 30=\u00a0 3<br>setiap 1 km= 3 mnt<br>210: 3 = 70<br>waktu yg diperlukan menempuh jarak 210 km= 1 jam 10 menit<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "90 km = 30 menit<br>30 km = 10 menit &lt;&lt;\u00a0dibagi 3<br>ya kan?<br><br>nah berarti<br>210 km = 30 km x 7<br>jadi waktunya juga = 10 menit x 7 = 70 menit<br>atau 1 jam 10 menit",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-segitiga-siku-siku-memiliki-panjang-sisi-siku-siku-20-cm-d-552",
+            "question": "sebuah segitiga siku siku memiliki panjang sisi siku-siku 20 cm dan 24 cm,sedangkan panjang sisi miringnya\u00a0\u00a0,kelilingnya ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Sm^2 = 24^2 + 20^2 \n           = 576 + 400\n            = 976\n Sm     = \u221a976\n            = ? \nItu entar kamu cari aja akar dari 976 :) semoga membantu.",
+                    "attachments": []
+                },
+                {
+                    "answer": "<u></u>[tex] \\sqrt{20^{2} + 24^{2}  [/tex]<br>[tex] \\sqrt{400+576} [/tex]<br>[tex] \\sqrt{976} [/tex]<br>= 31,24099870362662<br><br>semoga jawanan ini bermanfaat",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "harga-sebuah-buku-sama-dengan-harga-8-buah-pensil-harga-3-buku-d-989",
+            "question": "Harga sebuah buku sama dengan harga 8 buah pensil. harga 3 buku dan 5 pensil adalah Rp 77.000. jika harga 1 pensil adalah x rupiah, maka    a. susunlah persamaan dalam x, kemudian selesaikanlah\r\nb. tentukan harga 6 buku dan 10 pensil.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "soalnya bener gk tuh? coba chek lg",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

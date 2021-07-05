@@ -1,0 +1,144 @@
+{
+    "question": "Persamaan 4x\u00b2-px+25=0 ,akar-akarnya sama.    Nilai p adalah\r\na. -20 atau 20\r\nb.-10 atau 10\r\nc. -5 atau 5\r\nd. -2 atau 2\r\ne. -1 atau 1\r\n\r\nMohon dibantu dan jangan lupa memberikan pembahasannya\r\n\r\nTerima kasih.",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "akar - akar sama -&gt; D = 0<br>[tex] b^{2} [/tex] - 4ac = 0<br>[tex] p^{2} [/tex] - 4 x 4 x 25 = 0<br>[tex] p^{2} [/tex] = 400<br>p = 20 atau -20",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "nilaixyyang-memenuhi-sistem-persamaan-2x-y5-x-2y7-687",
+            "question": "Nilai(x,y)yang memenuhi sistem persamaan\r\n2x + y=5\r\nx + 2y=7",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>2x + y=5<br>y= 5-2x.................(1)<br><br>x + 2y=7<br>x+ 2(5-2x)=7<br>x+10-4x=7<br>-3x=-3<br>x=1......................(2)<br><br><br>2x+y=5<br>2(1)+y=5<br>2+y=5<br>y=3.........................(3)<br><br><br></span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "garis-ymxn-melalui-titik-16-dan-3-2-maka-nilai-m-dan-n-569",
+            "question": "Garis y=mx+n melalui titik (1,6) dan (-3,-2), maka nilai m dan n berturut-turut adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "m=[tex] \\frac{Y2-Y1}{X2-X1} [/tex]<br>m = [tex] \\frac{-2-6}{-3-1} = \\frac{-8}{-4}=2 [/tex]<br>Y - Y1 = m(X-X1) <br>y - 6 = 2 (x-1)<br>y = 2x - 2 + 6<br>y = 2x + 4 <br><br>mudah mudahan membantu ya! dan jangan lupa istirahat he he <br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "&gt;&gt;\u00a0m=\u00a0<br>&gt;&gt;\u00a0<span>m =\u00a0</span><br><span>&gt;&gt; y\u00a0- y1 = m(x-x1)\u00a0 <br>&gt;&gt;\u00a0</span>y - 6 = 2 (x-1)<br>&gt;&gt;\u00a0y = 2x - 2 + 6<br><span>&gt;&gt;\u00a0y = 2x + 4\u00a0<br>maaf kalo ngelantur habis ngantuk sih</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tiga-bilangan-positif-membenrik-barisan-geometri-dengan-rasio-rg-198",
+            "question": "Tiga bilangan positif membenrik barisan geometri dengan rasio r&gt;1.jika suku tengah ditambah 4,maka terbentuk sebuah barisan aritmatika yang jumlahnya 30.tentukan hasil kali dari ketiga bilangan tersebut.    Tolong dongg",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a,b,c,nanti saat di barisan aritmatika b+4<br>a+b+c = 30<br>b= a.r^n-1,<br>6=a.r^1 = 6/r = a , c = a.r^n-1= 6/r . r^2 = 6.r<br>maka. a + b + c = 30<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a06/r + 6 + 6r = 30<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 6/r + 6r = 24<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 6r+ 6 = 24<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a06r = 18<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 r = 3<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0<br><br>a= 2<br>b = 6<br>c = 18<br>r= 3<br>jika b +4 = 6+ 4 =10,maka a+b+c= 30 :)<br>sehingga 2 x 6 x18 =156 :)",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-dua-barisan-aritmetika-pada-barisan-pertama-berlaku-u2-357",
+            "question": "diketahui dua barisan aritmetika. pada barisan pertama berlaku U2+U4+U6+U8=32 dengan beda barisan 5. pada barisan kedua berlaku V2+V4+V6+V8=52 dengan beda barisan 4 nilai dari(U1+U3+U5)-(V1+V3+V5)=.....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "U2 + U4 + U6 + U8\u00a0 = 32 (beda = 5)<br>V2 + V4 + V6 + V8 = 52 (beda = 4)<br><br>(a + 5) + (a + 15) + (a + 25) + (a + 35) = 32<br>4a + 80 = 32<br>4a = -48<br>a = -12<br><br>(a + 4) + (a + 12) + (a + 20) + (a + 28) = 52<br>4a + 64 = 52<br>4a = 12<br>a = 3<br><br><span>(U1+U3+U5)-(V1+V3+V5) = (-12 + (-2) + 8) - (3 + 11 + 19) = -39 </span><br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "U1 + U3 + U5 = U2 + U4 + U6 + U8 - 4b -\u00a0<br><br>U2 + U4 + U6 + U8 = 4U1 + (1+3+5+7)b = 32<br>4U1 + 16.5 = 32<br>4U1 = 32-80<br>U1 = -48/4<br>U1 = -12<br><br><span>V2\u00a0+\u00a0V4\u00a0+\u00a0V6\u00a0+\u00a0V8\u00a0=\u00a052<br></span>4V1 + 16.b = 52<br>4V1 + 16.4 = 52<br>4V1 = 52-64<br>V1 = -12/4<br>V1 = -3<br><br>jadi jawabannya<br>(-12 -\u00a07 - 2) - (-3 + 1 + 5) = -21 - 3 = <strong>-18</strong>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "x-a-nilai-dari-x2-455",
+            "question": "\u00a0 \u00a0 \u00a0 \u00a0x \u00a0 \u00a0\u00a0 \u00a0\u00a0 = a, nilai dari \u00a0\u00a0 \u00a0\u00a0 \u00a0 \u00a0 x\u00b2 \u00a0 \u00a0\u00a0 \u00a0\u00a0\u00a0 \u00a0= ...    \u00a0\u00a0x\u00b2+3x+1 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0x\u00b2\u00b7\u00b2+3x\u00b2+1",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "coba substitusikan x dengan ax\u00b2+3ax+a<br><br>semoga ketemu<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dari-5-ahli-bahasa-dan-6-ahli-matematika-dipilih-7-orang-sebagai-713",
+            "question": "dari 5 ahli bahasa dan 6 ahli matematika, dipilih 7 orang sebagai anggota tim ahli dengan tiga diantaranya ahli matematika. banyak cara yang digunakan dalam pemilihan itu ada berapa?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>dari 5 ahli bahasa <br>dan 6 ahli matematika, <br>dipilih 7 orang sebagai anggota tim ahli, dengan 3 diantaranya ahli matematika. banyak cara yang digunakan dalam pemilihan itu ada berapa?<br>-----------------&gt; ans = 4</span>",
+                    "attachments": []
+                },
+                {
+                    "answer": "3|6|5|4 = 360 cara<br>maaf klo ada salah dalam penghitungan dan analisis nya",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "3-bilangan-membentuk-barisan-geometri-jumlah-ke-3-bilangan-tsb-ad-686",
+            "question": "3 bilangan membentuk barisan geometri jumlah ke-3 bilangan tsb adalah 14, dan hasil kalinya adalah 64.tentukan 3 bilangan tsb?    dengan cara barisan geometri!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "U\u2081 x U\u2082 x U\u2083 = 64 <br>sifat barisan geometri : U\u2081 x U\u2083 = U\u2082\u00b2 <br>maka didapat : U\u2082\u00b3 = 64 ----&gt; U\u2082 = 4 dan U\u2081 x U\u2083 = 16 ..... pers (1)<br>U\u2081 + U\u2082 + U\u2083 = 14<br>U\u2081 + 4 + U\u2083 = 14 ----&gt; U\u2081 + U\u2083 = 10 ......pers (2) <br>dari pers 1 dan pers 2 didapat bilangan yang hasil kalinya 16 dan hasil jumlahnya 10 adalah 2 dan 8 <br>jadi bilangan yang dimaksud adalah 2 , 4 dan 8 <br><br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "ketiga bilangan tersebut adalah 2,4,8<br>\u00a0dengan rasio = 2",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "inilah-triple-phytagoras-tadi-ada-yg-request-271",
+            "question": "Inilah \"TRIPLE PHYTAGORAS\"..\r\n#tadi ada yg request",
+            "attachments": [
+                "question-attachments/inilah-triple-phytagoras-tadi-ada-yg-request-271-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "tq bro...........................<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-maka-nilai-yang-mungkin-untuk-adalah-612",
+            "question": "Jika \u00a0maka nilai yang mungkin untuk \u00a0adalah ...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "soal olimpiade kah ini mas?<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-999-997-995-adalah-barisan-aretmatika-maka-suku-brni-497",
+            "question": "Jika -999,-997,-995,... Adalah barisan aretmatika, maka suku brnilai positif yg muncul prtama kali adalah suku ke .. \u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1 = a + (n-1)b<br>1\u00a0=- 999 + 2n -2<br>3 = -999 + 2n<br>1112 = 2n<br>556 = n :)",
+                    "attachments": []
+                },
+                {
+                    "answer": "a = -999<br>b = -997 - (-999) = 2<br><br>suku positif pertama<br>Un = -999 + 2(n-1)<br><br>yang cocok pada saat n-1 bernilai 500<br>jadi<br>Un = -999 + 2(500) = -999 + 1000 = 1<br><br>jadi<br>n - 1 = 500<br>n = 501<br><br>jadi suku ke 501",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

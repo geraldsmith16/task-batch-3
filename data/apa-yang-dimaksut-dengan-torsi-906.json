@@ -1,0 +1,150 @@
+{
+    "question": "Apa yang dimaksut dengan torsi ?",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "<span>Torsi adalah<em> kemampuan suatu gaya menghasilkan perputaran (rotasi) benda terhadap suatu poros atau pada sumbu putarnya.</em></span><br>",
+            "attachments": []
+        },
+        {
+            "answer": "sebuah besaran yang menyatakan besarnya gaya yang bekerja pada sebuah benda sehingga mengakibatkan benda tersebut berotasi\u00a0",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "tolong-bantuin-dong-sebuah-beban-20n-digantungkan-pada-kawat-ya-716",
+            "question": "Tolong bantuin dong..    sebuah beban 20N digantungkan pada kawat yang panjangnya 3,0 m dan luas penampangnya 8\u00a0x 10\u207b\u2077 m\u00b2 hingga menghasilkan pertambahan panjang 0,1 mm. hitunglah:\r\na. tegangan\r\nb. regangan\r\nc. modulus elastis kawat",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "tegangan:44<br>regangan:66<br>modulus 99<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<strong>tegangannya\u00a044</strong><br><strong>regangannya\u00a066</strong><br><span><strong>modulusnya\u00a0 99</strong></span><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dua-mobil-a-dan-b-mula-mula-diam-massa-mobil-a-dua-kali-mobil-b-777",
+            "question": "Dua mobil A dan B mula mula diam, Massa Mobil A dua kali mobil B agar dalam waktu yang sama kecepatan mobil B dua kali mobil A. Perbandingan usaha yang dilakukan mobil A dan Mobil B yang tepat adalah ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1:2<br>dapat diperoleh dari teori usaha = perubahan energi kinetik dengan rumus 1/2mv\u00b2<br>Untuk memastikan dapat dicoba.",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-benda-bermassa-100-kg-yg-mula-diam-didorong-sedemikian-ru-743",
+            "question": "sebuah benda bermassa 100 kg yg mula\" diam didorong sedemikian rupa sehingga persepatan 0,2 m/s2 (kuadrat).berapa besar gaya yg bekerja pada benda tersebut ?\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "dik = m = 100 kg<br>\u00a0 \u00a0 \u00a0 \u00a0 a = 0,2 m/s^2<br>F..?<br>ingat F = m.a\u00a0<br>sehingga, F = 100 kg . 0,2 m/s^2 = 20 N :)",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span>dik = m = 100 kg<br>\u00a0 \u00a0 \u00a0 \u00a0 a = 0,2 m/s^2<br>F..?<br>ingat F = m.a\u00a0<br>sehingga, F = 100 kg . 0,2 m/s^2 = 20</span><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "ketika-seorang-penjinak-singa-melecutkan-cambuknya-cambuk-itu-men-367",
+            "question": "Ketika seorang penjinak singa melecutkan cambuknya cambuk itu mengeluarkan \"ledakan\" sangat keras.akan tetapi ia tidak memukul sang singa,dan ujungnya pun tidak menyentuh tanah. apa yaang membuat cambuk itu berbunyi ??    Jelaskan..",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "gesekan antara tali cambuk yang kuat dan lentur dengan angin yang didorong oleh gaya yang juga besar, sehingga gerakan menjadi cepat dan suara cambuk pun terdengar.",
+                    "attachments": []
+                },
+                {
+                    "answer": "gesekan antara cambuk dengan angin<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dua-pegas-dengan-konstanta-pegas-k1-dan-k2-dihubungkan-seri-hitu-566",
+            "question": "Dua pegas dengan konstanta pegas k1 dan k2 dihubungkan seri. hitung konstanta gabungan kedua pegas.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1/k1 + 1/k2.\u00a0<br>k1+k2/k1k2.<br>totalnya: k1k2/k1+k2.<br>(kayak ngitung arus listrik paralel)",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-benda-bergerak-dari-keadaan-diam-dan-setelah-10-detik-kece-952",
+            "question": "sebuah benda bergerak dari keadaan diam dan setelah 10 detik kecepatannya 40m/s.jarak yang telah ditempuh adalah?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "s = v/t<br>s = 40/10 = 4\u00a0",
+                    "attachments": []
+                },
+                {
+                    "answer": "s=v.t = 40 m/s . 10 s<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 400 meter\u00a0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-benda-panjangnya-2-meter-setelah-ditarik-oleh-gaya-30n-pan-113",
+            "question": "sebuah benda panjangnya 2 meter setelah ditarik oleh gaya 30N panjangnya menjadi 2,02 meter. Besar konstanta pegas benda tersebut adalah..",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "dik<br>panjang awal = 2 m<br>panjang akhir = 2,02 m<br>F = 30 N<br>dit :<br>k..?<br>jwb ..<br>x= panjang akhir - panjang awal = 2,02 - 2 m = 0,02 m<br><br>maka k = F/x = 30 N / 0,02 m = 1500 N/m",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apa-rumus-tekanan-dan-cara-penyelesaian-nya-gmna-350",
+            "question": "Apa rumus tekanan...\r\n dan cara penyelesaian nya gmna..",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "rumus tekanan P = F/A<br>P = tekanan (pa)<br>F = gaya (N)<br>A = luas bidang tekan (m^2)",
+                    "attachments": []
+                },
+                {
+                    "answer": "Tekanan adalah hasil bagi gaya tekan dengan luas bidang tekan. <br>&gt; Luas bidang yg kecil menghasilkan tekanan yg besar dan sebaliknya, dan semakin besar gaya yg bekerja pd benda semakin besar pula tekanannya..<br>rumus nya : P = <u>F</u><br>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0A<br>P = tekanan(N/m\u00b2)<br>F = gaya(N)<br>A = luas bidang tekan(m\u00b2)<br>N : Newton <br>m : meter<br>_langsung aja dikerjakan pake rumusnya..<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-roda-pejal-massanya-45-kg-dengan-jari-jari-15-m-berada-p-988",
+            "question": "sebuah roda pejal massanya 4,5 kg dengan jari-jari 1,5 m berada pada lantai kasar melalui sumbunya roda tersebut ditarik dengan gaya 20N, sehingga roda menggelinding pada arah mendatar pada saat 15s tentukan energi kinetik totalnya?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "900 kah jawabnnya ???",
+                    "attachments": []
+                },
+                {
+                    "answer": "energi kinetik total dari sebuah roda pejal yaitu 900",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jarak-yang-di-tempuh-sebuah-mobil-adalah-sebagai-berikut-5-meni-424",
+            "question": "Jarak yang di tempuh sebuah mobil adalah sebagai berikut :    5 menit pertama menempuh jarak 3,0 km \r\n10 menit kedua menempuh jarak 8,0 km \r\n15 menit ketiga menempuh jarak 20 km \r\nkelajuan rata-rata mobil tersebut adalah ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "waktunya 30 mnt<br>jaraknya 31 km<br>kecepatan rata ratanya 62 km/jam",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,138 @@
+{
+    "question": "sekeping uang logam di lempar 30 kali. frekuensi muncul gambar 9 kali. frekuensi relatif muncul gambar.........",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "P (mcl gambar) = 9/30 = 0,3",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "daerah-asal-dari-fungsi-yfxx-1x-adalah-751",
+            "question": "Daerah asal dari fungsi \r\ny=f(x)=(x-1)/x adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]y=\\frac{x-1}{x}\\\\\ndaerah\\ asal\\ fungsi\\ tsb\\ (domain)\\ adalah\\ \\{x \\neq 0, x \\in Real\\} [/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diana-mempunyai-sejumlah-uang-sebanyak-bagian-uang-tersebut-di-983",
+            "question": "Diana mempunyai sejumlah uang. sebanyak\u00a0 bagian uang tersebut digunakan untuk membeli sepatu. jika setelah membeli sepatu sisa uang Diana kurang dari Rp50.000,00 . uang Diana mula-mula ...    A. Kurang dari Rp150.000,00\r\nB. Kurang dari Rp100.000,00\r\nC. lebih dari Rp100.000,00\r\nD. Lebih dari Rp150.000,00\r\n\r\nSuatu fungsi f:R\u00a0\u21d2 R dinyatakan dengan rumus f(x) = 5x + b. Jika f(3) = 12 , rumus fungsi f(x) adalah...\r\n\r\nA. \u00a0f(x) = 5x - 7\r\nB.\u00a0 f(x) = 5x - 3\r\nC. \u00a0f(x) = 5x + 3\r\nD. \u00a0f(x) = 5x + 7",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]misal\\ jumlah\\ uang\\ awal = x\\\\dibelanjakan\\ sebanyak\\ \\frac{2}{3}x,\\ sisa\\ \\frac{1}{3}x\\\\sisa\\ uang\\ &lt;Rp50.000,00\\\\\\frac{1}{3}x&lt;Rp50.000,00\\\\x&lt;Rp150.000,00\\\\\\\\f(3)=5(3)+b=12\\\\15+b=12\\\\b=-3\\\\<span>f(x)=5x-3[/tex]</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "seorang-pengusaha-kaya-memiliki-500-botol-jus-tapi-diketahui-ter-402",
+            "question": "Seorang pengusaha kaya memiliki 500 botol jus. Tapi diketahui terdapat 1 botol jus yang beracun di antara 500 botol jus tersebut. Jika terminum bisa menyebabkan kematian dalam waktu kurang lebih 24 jam.    Seorang cendekiawan bernama joko diperintah untuk menemukan 1 botol jus beracun tersebut. joko membuat strategi. Dia akan mengambil sampel jus-jus tersebut dan mencobanya kepada beberapa ekor tikus. Setelah itu tikus-tikus itu dibiarkan dalam 24 jam dalam kurungan untuk melihat reaksinya.\u00a0\r\n\r\nBerapakah tikus minimal yang dibutuhkan joko? Dan bagaimana strateginya?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "sekitar 300 - 500 ekor tikus",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-jumlah-deret-aritmatika-berikut-281412-sampai-286",
+            "question": "Tentukan Jumlah Deret aritmatika berikut!\r\n2+8+14+12+...... sampai dengan 10 suku.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "berarti deretnya\u00a0<br>2+8+14+12+6+12+14+8+2+8 = 86 ???",
+                    "attachments": []
+                },
+                {
+                    "answer": "2,8,12,14<br>Sn = 1/2 . n (U1+Un)<br>\u00a0 \u00a0 \u00a0= 1/2 . 10 (2 + 10)<br>\u00a0 \u00a0 \u00a0= 5 (12)<br>\u00a0 \u00a0 \u00a0= 60",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "selisih-dua-buah-bilangan-sama-dengan-hasil-kalinya-dan-jumlah-ke-135",
+            "question": "Selisih dua buah bilangan sama dengan hasil kalinya dan jumlah kebalikannya adalah 5. Tentukan bilangan-bilangan itu.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1/a + 1/b=5<br>1/a=5 - 1/b..................................(i)<br><br>1/a + 1/b=5<br>(5 - 1/b) + 1/b = 5<br>5 - 1/b + 1/b = 5<br>5b/b-1/b+1/b = 5<br>(5-1+1)/b = 5<br>5/b=5<br>5=5b<br>b=1.................. (ii)<br><br>1/a + 1/b=5<br>1/a + 1/1=5<br>1/a+1=5<br>1/a=4<br>1=4a<br>a=1/4.....................(iii)<br><br><br>jadi a = 1/4 b= 1<br><br>jadikan jawaban terbaik kak :D<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "b-x-x-lt-10-x-eur-bilangan-prima-837",
+            "question": "B = { x | x &lt; 10 ; x \u20ac bilangan prima }",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "2,3,5,7<br>itu adalah angka prima yang kurang dari 10",
+                    "attachments": []
+                },
+                {
+                    "answer": "B = {x l x &lt; 10 , x elemen bilangan prima}<br>Jawab :<br>B = { 2,3,5,7}<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-barisan-bilangan-dituliskan-sebagai-berikut-123456789101-164",
+            "question": "Sebuah barisan bilangan dituliskan sebagai berikut : 123456789101112131415161718192021222324252627..............dst. Sehingga suku ke-10 = 1, suku ke-11 = 0, suku ke-12 = 1, dan\u00a0seterusnya. Dapatkah Anda temukan bilangan yang menempati suku ke-10.000?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>Un\u00a0\n= a + ( n \u2013 1 )b</span><br>U11 = a + 10b= 0<br>U10 = a + 9b = 1<br><br>\u00a0\u00a0  <br>\u00a0\u00a0 \u00a0 \u00a0  1b = 1 b= 1<br>a + 1b = 0 \u2192 a + 10.1 =0 \u2192 a + 10 = 0\u2192 a\u00a0 =10<br><br>U10.000 = a (n-1) b<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0  = 10 (10.000-1) 1<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0  = 10 . 99000 .1<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0  = 990000<br>\u00a0<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-jumlah-n-suku-pertama-suatu-deret-aritmatika-dirumuskan-492",
+            "question": "Diketahui jumlah n suku pertama suatu deret aritmatika dirumuskan Sn=4n\u00b2-3n. Tentukan suku ke-2n deret aritmatika tersebut!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>Dik : Sn=4n\u00b2-3n<br>Dit : U2 =.. ?<br>Jawab :</span><br><span><span>a = U1 = S1 = 4(1)\u00b2-3(1)</span> = 4 - 3 = 1</span><br><span>S2 = 4(2)\u00b2-3(2) = 16 - 6 = 10<br><br>S2 = U1 + U2<br>10 = 1 + U2<br>U2 = 10 - 1<br>U2 = 9<br></span><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "penyelesaian-34x-5lt11-444",
+            "question": "Penyelesaian 3\u2264(4x-5)&lt;11",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>3\u2264(4x-5)&lt;11=<br></span>2 \u2264x&lt;4 sorry, if the fals answer<br><br><br><br><br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "[tex]3  \\leq  4x-5&lt;11\\\\\n 3+5 \\leq 4x-5+5&lt;11+5\\\\\n8 \\leq 4x&lt;16\\\\\n\\frac{8}{4} \\leq \\frac{4x}{4}&lt;\\frac{16}{4}\\\\\n2 \\leq x&lt;4[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-vektor-p-dan-q-20-dan-1-vektor-p-dan-r-11-dan-2-j-434",
+            "question": "diketahui vektor p dan q 2,0, dan 1. vektor p dan r 1,1, dan 2. jika vektor p dan s 1/2 vektor p dan q maka tentukan vektor r dan s?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "vektor 2,1 jika s 1 per 2 2,0 cx :D<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span>Jika vektor p dan q 2,0, dan 1. vektor p dan r 1,1, dan 2.</span><br>maka Vektor S =\u00a0<span> 1 per 22</span><br><br><br><br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

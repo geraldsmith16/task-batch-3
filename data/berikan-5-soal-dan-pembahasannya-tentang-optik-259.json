@@ -1,0 +1,142 @@
+{
+    "question": "Berikan 5 soal dan pembahasannya tentang optik",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "1. dimanakan letak mata akan berakomodasi maksimum pada lensa cembung<br>2. berapakah perbesaran dari lensa cembung jika diketahui r = 20\u00a0cm dan jarak benda ke cermin adalah 15 cm<br>3. dimanakah letak mata akan tidak berakomodasi ?<br>4. pada cermin cekung,\u00a0diketahui si adalah 30 cm dengan so adalah 15 cm, jika benda digeser 3 cm lebih jauh\u00a0dari semula, berapakah jarak bayangan sekarang ?<br>5. \u00a0titik jauh seorang penderita miopi adalah 25 cm. agar dapat melihat dengan normal dibutuhkan kacamata berlensa .... dengan .... dioptri<br><br>jawab<br>1. di antara f dengan lensa<br>2. 2 kali<br>3. tepat di f<br>4. 60 cm<br>5. cekung, -4 dioptri",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "apakah-pengertian-gaya-berat-dan-contoh-gaya-berat-588",
+            "question": "Apakah pengertian gaya berat dan contoh gaya berat?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "gaya berat adalah resultan gaya tarik bumi dan gaya sentrifugal yang bekerja pada suatu benda",
+                    "attachments": []
+                },
+                {
+                    "answer": "kemampuan untuk melakukan usaha",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebutkan-contoh-penerapan-1-hukum-archimedes-2-hukum-pascal-3-659",
+            "question": "Sebutkan contoh penerapan :    1. Hukum Archimedes\r\n2. Hukum Pascal\r\n3. Hukum Bernuolli\r\ndalam teknologi ?\r\nmohon bantuannya",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1. apabila sebuah benda, sebagian atau seluruhnya terbenam kedalam air makabenda trsbt mendapat gaya tekan ke atas sebesar berat air yg dipindahkan oleh benda tersebut. contoh benda\u00a0yg menggunakan prinsip ini : kapal laut<br>2. tekanan yang diberikan kepada zat cair akan diteruskan ke segala arah dengan sama besar. contoh penggunaan : peralatan hidrolik<br>3. j<span>umlah dari tekanan, energi kinetik persatuan volume, dan energi potensial persatuan volume mempunyai nilai yang sama pada setiap titik sepanjang suatu garis arus. contoh : manometer, tabung venturi</span>",
+                    "attachments": []
+                },
+                {
+                    "answer": "kalau archimedes kapal laut , \u00a0kalau pascal pesawat terbang , kalau bernoulli parfum atau semprotan nyamuk yang pakai tangkai\u00a0<br>mohon maaf kalau ada kesalahan :D",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "cara-mencari-dimensi-modulitas-young-258",
+            "question": "Cara mencari dimensi modulitas young?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "tegangan dibagi regangan",
+                    "attachments": []
+                },
+                {
+                    "answer": "E = tegangan / regangan =\u00a0[tex] \\frac{F . l}{A . delta l} [/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dua-pegas-yang-sama-jenis-dan-ukurannya-mula-mula-disusun-secara-648",
+            "question": "Dua pegas yang sama jenis dan ukurannya mula-mula disusun secara paralel dan diberi beban bermassa mp hingga mengalami pertambahan panjang sebesar x. selanjutnya kedua pegas disusun secara seri dan diberi beban bermassa ms. agar pertambahan panjang pegas pada susunan seri ini sama dengan x juga, maka nilai mp : ms adalah..    fisika 1A bagus raharja",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "k paralel = 2k <br>k seri = k/2 = 0,5 k<br>F = k .x <br>karena x nya sama maka diperoleh <br>F1/k1 = F1/k2<br>mp . g / 2k = ms . g / 0,5 k\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 g dan k nya bisa dicoret shg didapat <br>mp/2 = ms/0,5 <br>mp : ms = 2 : 0,5 <br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 = 4 : 1\u00a0 <br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-tiga-buah-pegas-dua-disusun-paralel-dengan-konstanta-1-771",
+            "question": "Diketahui tiga buah pegas. Dua disusun paralel dengan konstanta 100 n/m. Dan satu disuaun dengan seri dengan konstanta 200n/m. Susunan pegas dipengaruhi oleh beban, sehingga mengalami pertambahan 5cm. Jika pertambahan panjang pegas 1 dan 2 sama, maka berapakah: a) konstanta gaya total penyusunnya. b) massa beban jika g= 10 m/s",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a) rangkaian paralel ==&gt; kp = 100 + 100 = 200 N/m<br>\u00a0\u00a0 kp diseri dengan k3 = 200 ===&gt; 1/ks = 1/200 + 1/200 <br>\u00a0\u00a0 1/ks = 2/200 ===&gt; 1/ks = 1/100 ==&gt; ks = 100 N/m<br>\u00a0\u00a0 Jadi knstanta gaya total = 100 N/m<br>b) dik : \u0394x = 5 cm = 0,05 m\u00a0 \u00a0 ; k total = 100 N/m <br>F = k \u0394x <br>m . g = k . \u0394x ---&gt; m . 10 = 100 . 0,05 ----&gt; m = 0,5 kg <br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span>a) rangkaian paralel ==&gt; kp = 100 + 100 = 200 N/m<br>\u00a0\u00a0 kp diseri dengan k3 = 200 ===&gt; 1/ks = 1/200 + 1/200 <br>\u00a0\u00a0 1/ks = 2/200 ===&gt; 1/ks = 1/100 ==&gt; ks = 100 N/m<br>\u00a0\u00a0 Jadi knstanta gaya total = 100 N/m<br>b) dik : \u0394x = 5 cm = 0,05 m\u00a0 \u00a0 ; k total = 100 N/m <br>F = k \u0394x <br>m . g = k . \u0394x ---&gt; m . 10 = 100 . 0,05 ----&gt; m = 0,5 kg </span><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-batu-gerinda-memiliki-massa-4-kg-dan-jari-jari-8-cm-ketik-802",
+            "question": "Sebuah batu gerinda memiliki massa 4 kg dan jari-jari 8 cm. ketika sebuah momen gaya tetap dikerjakan, roda mencapai kecepatan sudut 1200 rpm dalam 15 sekon. anggap roda mulai dari keadaan diam dan batu gerinda berbentuk silinder pejal. tentukan:    a. percepatan sudut\r\nb. resultan momen gaya\r\nc. sudut putaran yang ditempuh dalam 15 sekon",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "(a.)<br>\u00a0\u03c9=at<br>\u00a0(1200/60) (2\u03c0)=\u03b1(15)<br>\u03b1=8\u03c0/3rad/s\u00b2<br>\u00a0(b.) momen inersianya adlh<br>I=1/2 m r\u00b2 <br>momen gaya <br>T=I \u03b1<br>\u00a0=1/2 m r\u00b2 \u03b1<br>\u00a0=1/2 (4) (0.08)\u00b2(8\u03c0/3)<br>\u00a0=0.107233 N.m<br>(c.)<br>\u03b8=1/2 \u03b1 t\u00b2<br>\u03b8=1/2 (8\u03c0/3) (15)\u00b2<br>\u03b8=300\u03c0 rad<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "termometer-celcius-dan-fahrenheit-menunjukkan-angka-yang-sama-pad-530",
+            "question": "Termometer celcius dan fahrenheit menunjukkan angka yang sama pada suhu",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "y\u00b0 R = y\u00b0 C<br><br>y = 4/5 y<br><br>5/5 y - 4/5 y = 0<br><br>1/5 y = 0<br><br>1 x y = 5 x 0<br><br>y = 0<br><br><br><span>Jadi suhu 0\u00b0 R sama dengan suhu 0\u00b0 C</span>",
+                    "attachments": []
+                },
+                {
+                    "answer": "323 kalo gak salah, kalo salah tolong betulin yaa<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-saya-membutuhkan-3-soal-yang-berkaitan-dgn-vektor-645",
+            "question": "Tolong saya membutuhkan 3\u00a0soal yang berkaitan dgn Vektor.?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>vektor gaya yang sama, masing\u00b2 besarnya 10newton,<br>tentukan nilai resultan masing\u00b2 vektor.,?<br><br></span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "ada-yang-tau-rumus-rumus-gerak-melingkar-beraturan-232",
+            "question": "Ada yang tau rumus rumus GERAK MELINGKAR BERATURAN ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>v = 2\u03c0R/T \u00a0\u00a0atau \u00a0v = 2\u03c0Rf</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "rumus-reaksi-sempurna-kimia-apa-ya-374",
+            "question": "Rumus reaksi sempurna kimia apa ya?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>C8H18 (l) +12 \u00bd O2 (g) \u2013&gt; 8 CO2 (g) + 9 H2O (g) \u0394H = -5460 kJ</span>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

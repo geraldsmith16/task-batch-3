@@ -1,0 +1,146 @@
+{
+    "question": "20+(57-87)-83 =\r\n\r\nuntuk test",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "20 + (57-87) - 83 =<br>Dahulukan yang di dalam kurung<br>57 - 87 = -30<br>20 + -30 - 83 = -93<br>Jadi jawabannya -93",
+            "attachments": []
+        },
+        {
+            "answer": "20+(-30)-83 = 20-30-83 = -93 <br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "berapa-nilai-x-dari-persamaan-3-per-5-x-2-per-6-x-2-312",
+            "question": "Berapa nilai x dari persamaan\u00a03 per 5\u00a0X\u00a0- 2 per 6 X = 2",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex] \\frac{3x}{5}  -  \\frac{2x}{6} = 2 \\\\ \\\\   \\frac{18x}{30} -  \\frac{10x}{30} = 2 \\\\  \\\\  \\frac{8x}{30} = 2 \\\\  \\\\ 8x = 60 \\\\  \\\\  \\frac{15}{4} = x[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sederhanakan-dan-tuliskan-dalam-bentuk-pangkat-positif-a-2x-pang-775",
+            "question": "Sederhanakan dan tuliskan dalam bentuk pangkat positif    a. 2x pangkat -1 + y pangkat -2\r\n b. a1/5b1/6 per 2ab pangkat 2",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>2x^-1 + y^-2<br>=<br>1/</span><span>(2x^1) + 1/(y^2)</span><br>=<br>y\u00b2/2xy\u00b2 + 2x/2xy\u00b2........................... samakan penyebutnya<br>=<br>(y\u00b2+2x)/2xy\u00b2<br><br><br>soalny yang b gak jelas<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bantuin-yah-1p-48-2-2x-4-gt3x-9-3-4-sebuah-segitiga-820",
+            "question": "Bantuin yah,    1.p + 48\r\n2. 2x - 4 &gt;3x + 9\r\n3. \r\n4. sebuah segitiga sama kaki memiliki panjang sisi yang sama dengan 5 kali panjang sisi lainnya. Agar keliling segitiga tersebut lebih besar dari 50cm, berapakah masing-masing sisi segitiga tersebut ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]\\frac{2}{3}p+4 \\leq 8\\\\\n\\frac{2}{3}p \\leq 4\\\\\np \\leq 6\\\\\\\\\n2x-4&gt;3x+9\\\\\n-x&gt;5\\\\\nx&lt;-5\\\\\\\\\n\\frac{2y-7}{2} \\leq 3\\\\\n2y-7 \\leq 6\\\\\n2y \\leq 13\\\\\ny \\leq \\frac{13}{2}\\\\\\\\\nmisal\\ panjang\\ sisi\\ terpendek\\ adalah\\ x\\\\\nmaka\\ 2\\ sisi\\ yg\\ sama\\ panjang\\ memiliki\\ panjang\\ 5x\\\\\nagar\\ keliling&gt;50\\ :\\\\\nx+5x+5x&gt;50\\\\\n11x&gt;50\\\\\nx&gt;\\frac{50}{11}[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apa-saja-sifat-sifat-bangun-datar-trapesium-siku-siku-396",
+            "question": "Apa saja sifat-sifat bangun datar trapesium siku-siku..?? \u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Semua sifat pada trapseium berlaku pada trapesium siku-siku, tambahannya adalah<br>1. Salah satu sudut trapesium siku-siku besarnya 90 derajat, yang mengakibatkan trapesium siku-siku memiliki dua buah sudut siku-siku<br>2. Salah satu sisi trapesium siku-siku merupakan tinggi trapesium<br><br>#semogamembantuya",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-penyelesaian-persamaan-15-3x-9-adalah-2-himpunan-penyeles-716",
+            "question": "1. penyelesaian persamaan 15-3x= 9 adalah ..    2. himpunan penyelesaian dari x- 2 = 1, x\u00a0\u2208 bilangan cacah adalah ..\r\n3. himpunan penyelesaian pertidaksamaan x-5&gt; 10, x\u00a0\u2208 blngan asli adalah ..\r\n4. himpunan pnyelesaian pertidaksamaan 2x &lt; 8 , x\u00a0\u2208 blngan asli adalah ..\r\n5.himpunan penyelesaian pertidaksamaan 7x &gt; 28 , x\u00a0\u2208\u00a0A \u00a0adalah ..",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1) 15 - 3x = 9<br>15 - 9 = 3x<br>6 = 3x<br>2 = x<br>2) x - 2 = 1<br>x = 1+2<br>x = 3<br>3) x - 5 &gt; 10<br>x &gt; 10 + 5<br>x &gt; 15<br>4) 2x &lt; 8<br>x &lt; 4<br>5) 7x &gt; 28<br>x &gt; 4<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "1. 15 - 3x= 9<br>3x = 6<br>x = 2<br><br>2. x - 2 = 1<br>x = 3 <br>HP = {x|x = 3}<br><br>3. x - 5 &gt; 10<br>x &gt; 15<br>HP = {x|x &gt; 15}<br><br>4. 2x &lt; 8<br>x &lt; 4<br>HP = {x|x &lt; 4}<br><br>5. 7x &gt; 28<br>x &gt; 4<br>HP = {x|x &gt; 4}<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "luas-persegi-adalah-100-cm2-panjang-diagona-persegi-tersebut-a-950",
+            "question": "Luas persegi adalah 100 cm\u00b2 . panjang diagona persegi tersebut adalah\u00a0\r\ndengan cara nya\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "L = sisi x sisi<br>100 = sisi x sisi<br>sisi = 10<br><br>p. diagonal = s akar 2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 10 akar 2 atau\u00a0[tex] \\sqrt{2} [/tex]",
+                    "attachments": []
+                },
+                {
+                    "answer": "luas persegi= sisi x sisi<br>100= S^2<br>S^2= akar 100<br>S= 10<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pada-balok-klmnpqrs-berikut-ini-panjang-kl20cm-lm16cm-dan-lq1-681",
+            "question": "Pada balok KLMN.PQRS berikut ini panjang KL=20cm LM=16cm dan LQ=12 cm     hitunglah panjang LR dan Luas KLRS",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "LR^2=16^2\u00a0. 16^2<br>LR^2=256+256<br>LR^2=16/2 \u00a0 ket: / akar<br>luas KLRS = 20 . 16/2 = 320/2",
+                    "attachments": []
+                },
+                {
+                    "answer": "LR =\u00a0[tex] \\sqrt{LM + RM } [/tex]<br>=[tex] \\sqrt{16 ^{2} + 12 ^{2} } [/tex]<br>=[tex] \\sqrt{256 + 144} [/tex]<br>=\u00a0[tex] \\sqrt{400} [/tex]<br>= 20 CM\u00a0<br>L.KLRS = p x LR<br>=20 X 20<br>=400 cm^{2} [/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jarak-kota-a-dan-b-pada-peta-5-cm-peta-itu-berskala-1-120000-788",
+            "question": "Jarak kota A dan B pada peta 5 cm. Peta itu berskala 1 : 1.200.000. Amir dengan mengendarai sepeda motor berangkat dari kota A pukul 06.45 dengan kecepatan 45 km perjam.    Di tengah jalan berhenti selama 1/4 jam. Pukul berapa amir tiba di kota B ??\r\n\r\nTolong d jawab y,,??",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "JS = 5 / 1 :1.200.000 =5 x 1.200.000 =6.000.000 cm = 60 km<br>W = JS / K <br>\u00a0\u00a0\u00a0 = 60 / 45 = 1,3 = 1.20<br>06.45 + 1.15 = 8.00 + 1.20<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 8.20<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sederhanakanlah-bentuk-akar-tersebut-4268-323",
+            "question": "Sederhanakanlah bentuk akar tersebut! 4\u221a2+6\u221a8=",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]4\\sqrt{2}+12\\sqrt{2}=16\\sqrt{2}[/tex]",
+                    "attachments": []
+                },
+                {
+                    "answer": "4\u221a2 + 6 \u00d7 2\u221a2\u00a0 (\u221a8 = \u221a4\u00d72)<br>4\u221a2 + 12\u221a2<br>16 \u221a2",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "roda-sepeda-motor-dengan-jari-jari-20-cm-jika-roda-itu-berputar-745",
+            "question": "roda sepeda motor dengan jari -jari 20 cm, jika roda itu berputar sebanyak 1.500 putaran,berapa panjang lintasan yang dilalui sepeda motor itu adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "k=2x3,14xr<br>k=2x3,14x20=125,6<br>125,6x1500=188400<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Keliling = 2[tex] \\pi [/tex]r\u00a0<br>K = 2 x 3,14 x 20<br>K = 125,6 cm<br><br>Panjang lintasan = K x Putaran<br>Pl = 125,6 x 1500<br>Pl = 188.400 cm<br>Pl = 1.884 m<br><br>Maaf jika ada kesalahan :)<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

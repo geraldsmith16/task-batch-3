@@ -1,0 +1,142 @@
+{
+    "question": "Apa pengertian dari anergi mekanis dan sebutkan contohnya?",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "energi mekanis adalah energi yang dimiliki suatu benda karena sifat geraknya.\u00a0<br>contoh: kelapa yang jatuh ke tanah",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "rumus-alfa-jika-hanya-diketahui-womega-massa-jari-jari-waktu-343",
+            "question": "Rumus alfa jika hanya diketahui W(OMEGA), massa, jari jari, waktu(s), frekuensi",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "\u03b1 = \u0394\u03c9/\u0394t<br>\u03b1 = torsi/inersia<br>\u03b1 = \u03c9t-\u03c9o/t-to",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-pada-magnet-bentuk-keping-lingkaran-bagaimana-letak-kutubnya-570",
+            "question": "Jika pada magnet bentuk keping lingkaran bagaimana letak kutubnya",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Tadi sudah dijawab di pertanyaan satunya, bagian setengah lingkaran atas merupakan kutub utara, dan bagian setengah lingkaran bawah merupakan kutub selatan. Okay ? @Liwed",
+                    "attachments": []
+                },
+                {
+                    "answer": "Di setengah bagian lingkaran atas kutub selatan dan di setengah bagian lingkaran di bawah kutub utara<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "seorang-penderita-rabun-dekat-dengan-titik-dekat-05-m-ingin-memb-869",
+            "question": "seorang penderita rabun dekat dengan titik dekat 0,5 m ingin membaca pada jarak baca normal. jenis lensa kacamata yang harus digunakan dan jarak fokusnya adalah ..",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "ditolong dengan lensa cembung. fokusnya +2 .\nmaaf klo salah",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span>\u00a0lensa cembung. fokusnya +2 .</span><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-kotak-yg-massanya-10-kg-mula-mula-diam-kemudian-bergerak-550",
+            "question": "Sebuah kotak yg massanya 10 kg mula-mula diam, kemudian bergerak turun pada bidang miring yg membuat sudut 30 derajat terhadap arah horizontal tanpa gesekan dan menempuh jarak 10 m sebelum sampai ke bidang mendatar. kecepatan kotak pada akhir bidang miring jika percepatan gravitasi bumi g=9,8 m/s kuadrat adalah...    tolong dibantu ya?? :) makasi..",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex] \\frac{h}{s} [/tex] = sin 30<br>[tex] \\frac{h}{s} [/tex] = <u></u>[tex] \\frac{1}{2} [/tex]<br>h = [tex] \\frac{s}{2} [/tex]<br>h = [tex] \\frac{10}{2} [/tex]<br>h = 5 <br><br>v = [tex] \\sqrt{2gh} [/tex]<br>v = [tex] \\sqrt{2.9,8.5} [/tex]<br>v = [tex] \\sqrt{98} [/tex]<br>v = [tex] \\sqrt{49.2} [/tex]<br>v = [tex] 7\\sqrt{2} [/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-benda-berotasi-dengan-momen-inersia-25-m2-dan-kec-625",
+            "question": "sebuah benda berotasi dengan momen inersia 2,5\u00a0\u00d7\u00a0\u00a0m\u00b2 dan kecepatan sudut awal 5 rad/s , agar benda itu berhenti dalam waktu 2,5 sekon maka besar momen gaya yang harus dikerjakan adalah...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>torsi= I.\u03b1---&gt; \u03c9t=\u03c9o + \u03b1. t</p><p>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a00 = 5 + \u03b1.2,5</p><p>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0-5\u00a0= \u03b1.2,5</p><p>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 \u03b1=-0,5</p><p>torsi= I . \u03b1= 2,5 x\u00a0-0,5=-1,25</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-roda-pejal-massanya-45-kg-dengan-jari-jari-15-m-berada-p-988",
+            "question": "sebuah roda pejal massanya 4,5 kg dengan jari-jari 1,5 m berada pada lantai kasar melalui sumbunya roda tersebut ditarik dengan gaya 20N, sehingga roda menggelinding pada arah mendatar pada saat 15s tentukan energi kinetik totalnya?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "900 kah jawabnnya ???",
+                    "attachments": []
+                },
+                {
+                    "answer": "energi kinetik total dari sebuah roda pejal yaitu 900",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "hitunglah-momen-inersia-suatu-benda-yang-berotasi-dengan-kecepata-322",
+            "question": "hitunglah momen inersia suatu benda yang berotasi dengan kecepatan sudut 10 rad/sekon dan memiliki energi kinetik 5 joule",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Dik Ek = 5 j<br>\u00a0 \u00a0 \u00a0\u00a0\u03c9 = 10 rad/s<br>Dit i ?<br>jawab.<br>rumus i = mr^2<br><br>Ek = 1/2 m (R.\u03c9)^2<br>5 \u00a0 = 1/2 m (R.10^2)<br>10 \u00a0= mr^2 . m.100\u00a0<br>mr^2 = 10 / 100 m<br>\u00a0 \u00a0 \u00a0 \u00a0 = \u00a00,1 kgm^2 /\u00a0m<br>i = 0,1 kgm<br><br>Klik bintang",
+                    "attachments": []
+                },
+                {
+                    "answer": "Rumus momen inersia (I) adalah\u00a0<br>bila percepatan sudut \u00a010 rad / s =\u00a0\u03b1<br>Energi kinetik = 5 Joule = F<br>[tex]I = mr^2[/tex]\u00a0<br><br>Pertama cari dulu persamaan 1\u00a0<br>[tex]F = m a_{tan} [/tex]<br>\u00a0--&gt;\u00a0Hubungan antara gaya (F), massa (m), dan percepatan tangensial (a tan) partikel\u00a0<br><br>Partikel berotasi sehingga partikel mempunyai percepatan sudut.<br>\u00a0<br>Hubungan antara percepatan tangensial dengan percepatan sudut dinyatakan melalui persamaan :<br>[tex] a_{tan}=r \\alpha  [/tex] Persamaan 2\u00a0<br><br>Subtitusikan atau gantikan percepatan tangensial (a tan) pada persamaan 1\u00a0 dengan percepatan tangensial (a tan) pada persamaan 2.<br><br>[tex]F = \\frac{1}{2}m r \\alpha[/tex]<br>[tex]\\gamma . r = \\frac{1}{2}m r \\alpha[/tex]]<br>[tex]5 = \\frac{1}{2}m . r^2 . 10[/tex]<br>[tex]mr^2 = 1 / 10 = 0.1 [/tex]<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-bola-pejal-bermassa-0036-kg-dan-jari-jari-12-cm-menggeli-832",
+            "question": "sebuah bola pejal bermassa 0,036 kg dan jari-jari 1,2 cm menggelinding menuruni suatu bidang miring. Bola pejal itu mula-mula bergerak dengan kecepatan 0,5 m/s. Berapakah kecepatan bola itu ketika ketinggiannya berkurang 14 cm? g=10 m/s \u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1. hukum kekekalan massa<br>1/2 m v\u00b2+m g h+ 1/2 I \u03c9\u00b2-1/2 m v\u00b2- I \u03a9\u00b2=0<br>1/2 m v\u00b2+m g h+1/2 I (v/r)\u00b2-1/2 m v\u00b2- 1/2 I (v/r)\u00b2=0<br>1/2 m v\u00b2+m g h+1/2 (2/5) (mr\u00b2) (v/r)\u00b2- 1/2 m v\u00b2- 1/2 ((2/5)(mr\u00b2))(v/r)\u00b2=0<br>sederhanakan<br>gh+7v\u00b2/10-7v\u00b2/10=0<br>(9.8)(0.14)+7(0.5)\u00b2/10-7v\u00b2/10=0<br>v=1.48661 m/s<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "seutas-kawat-spiral-lampu-pijar-memiliki-luas-permukaan-kira-50m-678",
+            "question": "Seutas kawat spiral lampu pijar memiliki luas permukaan kira\" 50mm\u00b2 &amp; suhunya 1127\u00b0c.    jika kawat pijar dianggap hitam sempurna, berapa kalor yg dihasilkan kawat tsb.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "W=A.T\u00b2.\u0424(tho)<br>\u00a0 \u00a0=50x10 pangkat 3 minus 2 . 1127 derajat +273 derajat .\u00a05,67x10 pangkat 8<br>\u00a0 \u00a0=50x10 pangkat minus 6\u00a0.\u00a01400 pangkat 4\u00a0.\u00a05,67x10 pangkat 8<br>\u00a0 \u00a0=50x10 pangkat minus 6 . 14 pangkat 10 . 10 pangkat 8 . 5,67 pangkat 8<br>\u00a0 \u00a0=10890936x10 pangkat 10",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "seorang-anak-melemparkan-sebuah-buku-fisika-kepada-temannya-yang-255",
+            "question": "seorang anak melemparkan sebuah buku fisika kepada temannya yang berada di lantai 2 setinggi 4 m dari tanah . buku tersebut ditangkap oleh temannya setelah 1,5 s. berapakah kecepatan awal buku tersebu?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "kecepatan awal =\u00a02,666666667 m/s",
+                    "attachments": []
+                },
+                {
+                    "answer": "h=vot-1/2gt^2<br>4=vo.1,5-1/2.10.1,5^2<br>4=1,5vo-11,25<br>15,25=1,5vo<br>vo=10,1 m/s<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

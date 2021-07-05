@@ -1,0 +1,150 @@
+{
+    "question": "Rasionalkan bentuk pecahan ini    2\u221a5 + 2\u221a3\r\n2\u221a5 - 2\u221a3\r\n\r\nBeri penjelasannya yang lengkap ya :)",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "[tex] \\frac{2 \\sqrt{5} +2 \\sqrt{3} }{2 \\sqrt{5}-2 \\sqrt{3}} =  \\frac{2 \\sqrt{5} +2 \\sqrt{3} }{2 \\sqrt{5}-2 \\sqrt{3}} . \\frac{\\sqrt{5}+\\sqrt{3}}{\\sqrt{5}+\\sqrt{3}} \\\\  \\\\ = \\frac{10+4 \\sqrt{15}+6}{10-6} =\\frac{16+4 \\sqrt{15}}{4} = 4 +  \\sqrt{15} [/tex]<br><br>atau cara lebih kerennya<br>[tex]\\frac{2 \\sqrt{5} +2 \\sqrt{3} }{2 \\sqrt{5}-2 \\sqrt{3}} = \\frac{ 2(\\sqrt{5} + \\sqrt{3}) }{2(\\sqrt{5}-\\sqrt{3})}[/tex]<br><br>[tex]\\frac{ \\sqrt{5} + \\sqrt{3} }{\\sqrt{5}-\\sqrt{3}} = \\frac{ \\sqrt{5} + \\sqrt{3} }{\\sqrt{5}-\\sqrt{3}}.\\frac{ \\sqrt{5} + \\sqrt{3} }{\\sqrt{5}+\\sqrt{3}} = \\frac{ 8 +  2\\sqrt{15}  }{2}=4 +  \\sqrt{15} [/tex]<br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "pilihan-ganda-ya-pasangan-bilangan-di-bawah-ini-yang-bukan-tripel-840",
+            "question": "Pilihan ganda ya    pasangan bilangan di bawah ini yang bukan tripel pytboras adalah \r\na. 20,16,12\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 C,5,4,3\r\nb. 10,24,26\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 D. 4,3,2",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "yang D<br>4,3,2<br>........................................",
+                    "attachments": []
+                },
+                {
+                    "answer": "d. 4, 3, 2\u00a0 <br>karena tdk memenuhi syarat [tex]a= \\sqrt{ b^{2}+ c^{2}  } [/tex]\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "6-24-a-itu-gimana-yah-caranya-aku-bingung-416",
+            "question": "6\r\n -+2=4\r\n A\r\n Itu gimana yah caranya aku bingung?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "A = 6 - (+2) = 4<br>A = 6 - 2\u00a0<br>A = 4",
+                    "attachments": []
+                },
+                {
+                    "answer": "6-2=4a<br>4 = 4a<br>a = 1<br>mungkin seperti itu<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "soal-matematika-kelas-7-smp-kurikulum-2013-halaman-367-nomor-4-se-551",
+            "question": "Soal Matematika Kelas 7 SMP Kurikulum 2013 Halaman 367 Nomor 4    Seorang Pedagang Perabot Rumah Tangga Menjual Sepasang Sofa dengan harga Rp 12.000.000,00. Dari penjualan tersebut, dia mendapatkan untung 20% dari modalnya. Dia berencana akan menggantikan sofa yang telah laku tersebut untuk dijual kembali, tetapi ternyata harga sofa tersebut sudah naik 10% dari modal sebelumnya. Berapakah sofa itu dijual agar keuntungannya sama dengan penjualan sofa yang pertama?\r\n\r\nMohon dijawab dengan caranya",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Modal awal = m <br><br>Harga jual sofa I = Untung + modal<br>12.000.000 = 20/100 m + m<br>12.000.000 = 20/100 m + 100/100 m<br>12.000.000 = 120/100 m<br>m = 12.000.000 \u00d7 100/120<br>m = 10.000.000<br><br>harga jual sofa II = (10 + 100)/100 \u00d7 10.000.000<br>= 110/100 \u00d7 10.000.000<br>= 11.000.000<br><br>Untung sofa I = 12.000.000 - 10.000.000<br>= 2.000.000<br><br>harga jual sofa II = 11.000.000 + 2.000.000<br>= 13.000.000",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apa-itu-variabel-dan-apa-itu-persamaan-kuadrat-247",
+            "question": "Apa Itu Variabel ? Dan Apa Itu Persamaan Kuadrat ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span><span>Variabel\u00a0: (Lat) 1. berubah-ubah, tidak tetap;<br>\u00a02. deklarasi sesuatu yang memiliki variasi nilai <br>3. berbeda-beda dalam bahasa pemrograman disebut juga simbol yang mewakili nilai tertentu, variabel yang dikenal di sub program disebut variabel lokal. sedang yang di kenal secara umum/utuh dalam satu program disebut variabel global.<br></span><span>Variabel\u00a0: adalah objek penelitian, atau apa yang menjadi fokus di dalam suatu penelitian. Menurut F.N. Kerlinger variabel sebagai sebuah konsep. Variabel merupakan konsep yang mempunyai nilai yang bermacam-macam. Suatu konsep dapat diubah menjadi suatu variabel dengan cara memusatkan pada aspek tertentu dari variabel itu sendiri.<br><br><span>Persamaan kuadrat\u00a0adalah suatu persamaan polinomial berorde dua. Bentuk umum dari persamaan kuadrat adalah</span><br></span></span>",
+                    "attachments": []
+                },
+                {
+                    "answer": "variabel adalah lambang pengganti suatu bilangan\u00a0  yang belum diketahu nilainya dengan\u00a0 jelas. persamaan kuadrat adalah nilai peubah yang memenuhi pers kuadrat ,<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "kalo-bisa-dengan-caranya-yah-dua-buah-tiang-berdampingan-jarakny-600",
+            "question": "kalo bisa dengan caranya yah. dua buah tiang berdampingan jaraknya 24 m. jika tiang a=22m dan tiang b=12m. hitunglah kawat penghubung kedua tiang tersebut.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "^<br>^ \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0\u00a0 \u00a0 \u00a0 \u00a0 ^<br>^ \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0\u00a0 \u00a0 \u00a0 ^<br>^ \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0^<br>^ \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 ^<br>22 m \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 12 m<br>&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt; \u00a0 24 m<br><br>22 - 12 m = 10 m<br><br>terus di pitagoraskan<br><br>jarak kabel = \u221a10\u00b2+24\u00b2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0=\u00a0\u221a100 + 576<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0=\u00a0\u221a676<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 26 m",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pembangunan-seb-gedung-dapat-selesai-dalm-wktu-70-hari-oleh-24-ku-167",
+            "question": "pembangunan seb gedung dapat selesai dalm wktu 70 hari oleh 24 kuli.Setelah dikerjakan 20 hari pekerjaan berhenti 10 hari.Agar pembangunan selesai tepat wktu , maka tenaga kerja tambahannya adalah .....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "70 hari = 24 kuli<br><br>setelah 20 hari kerja, sisa<br>50 hari = 24 kuli<br><br>libur 10 hari<br>40 hari = x orang<br><br>maka :<br><br><u>50</u>\u00a0  =\u00a0\u00a0<u> x</u><br>40\u00a0 \u00a0 \u00a0 24<br><br>40x = 50 \u00d7 24<br>x = 30 orang<br><br>pkerja yang harus ditambahkan = 30 - 24 = 6 orang<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-penyelesaian-setiap-pertidaksamaan-berikut-ini-23-x-739",
+            "question": "Tentukan penyelesaian setiap pertidaksamaan berikut ini :\r\n2/3 x - 1/6 &gt; 3/4 x",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "2/3x-1/6&gt;3/4x<br>2/3x-3/4x&gt;1/6<br>8x-9x&gt;2<br>-x&gt;2<br>x&lt;-2",
+                    "attachments": []
+                },
+                {
+                    "answer": "2/3 x - 1/6 &gt; 2/4 x<br>= 4x-1/6 ? 3x/4<br>= 4 (4x-1) &gt; 6 (3x)<br>= 16x - 4 &gt; 18x<br>= 16x - 18x &gt; 4<br>= -2x &gt; 4<br>= 2x &lt; -4<br>= x &lt; -2",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "2-per-3-2a35-per-6-a-5-506",
+            "question": "2 per 3 (2a+3)=5 per 6 (a-5)=",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "2/6a+9 = 5/6a-30<br>12a-60 = 30a+45<br>-105 = 18a<br>a= -105/18",
+                    "attachments": []
+                },
+                {
+                    "answer": "[tex] \\frac{2}{3} (2a+3)= \\frac{5}{6} (a-5)  [/tex]<br><br>[tex] \\frac{4a+6}{3} =  \\frac{5a-25}{6} [/tex]<br><br>3(5a-25)=6(4a+6)<br><br>[tex]15a-75=24a+36[/tex]<br><br>15a-24a=36+75<br>-9a=111<br>a=111/-9<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1sebuah-kapal-belayar-kearah-timur-sejauh-150-kmkemudian-kearah-764",
+            "question": "1.Sebuah kapal belayar kearah timur sejauh 150 km,kemudian kearah selatan sejauh 200 km. hitung jarak kapal sekarang dari tempat semula.    2. Sebuah tangga yang panjangx 12 m bersandar pada tembok yg tingginya 8m. jika kaki tangga terletak 6m dari tembok maka hitunglah panjang bagian tangga yang tersisa diatas tembok\r\n\r\nMohon Bantunnya yh :)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1. 150+200=350<br>2. 12m-6m=12m",
+                    "attachments": []
+                },
+                {
+                    "answer": "1. 50\u221a34 Km <br>2. 2m<br><br>dengan rumus abc<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jarak-kota-a-ke-kota-b-adalah-350-kmjarak-kota-b-ke-kota-c-adala-685",
+            "question": "jarak kota A ke kota B adalah 350 km.jarak kota B ke kota C adalah 250 km.Berapakah perbandingan jarak kota A ke kota B dengan jarak kota A ke kota C ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "jarak kota A ke C = 350 + 250 = 600<br><br>perbandingan jarak kota a ke b dengan a ke c<br>350 : 600<br>7 : 12\u00a0 (sama\" dibagi 50)<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "jarak kota A ke kota C =350+250= 600<br>AB : AC = 350 : 600 = 7 : 12<br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

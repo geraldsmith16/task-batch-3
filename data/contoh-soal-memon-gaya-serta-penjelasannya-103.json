@@ -1,0 +1,142 @@
+{
+    "question": "Contoh soal memon gaya serta penjelasannya",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "<span>1. Sebuah batang memiliki panjang 8 meter. Pada batang bekerja tiga gaya, seperti pada gambar di bawah. Besar momen gaya yang menyebabkan batang berotasi pada pusatnya adalah\u2026<br>A. 10 N m<br>B. 20 N m<br>C. 30 N m<br>D. 40 N m<br>E. 50 N m</span><span>Pembahasan :<br>Pusat batang terletak di tengah-tengah. Panjang batang 8 meter, karenanya pusat batang berjarak 4 meter dari ujung batang.<br>Momen Gaya\u00a01 = F1\u00a0l1\u00a0= (10 N)(4 m) = 40 N m<br>Momen Gaya 1 bernilai positif karena Momen Gaya 1 menyebabkan batang berotasi berlawanan rotasi jarum jam.<br>Momen Gaya 2 = F2\u00a0l2\u00a0= (10 N)(2 m) = \u2013 20 N m<br>Momen Gaya 2 bernilai negatif karena Momen Gaya 2 menyebabkan batang berotasi searah rotasi jarum jam.<br>Momen Gaya 3 = F3\u00a0l3\u00a0= (15 N)(2 m) = \u2013 30 N m<br>Momen Gaya 3 bernilai negatif karena Momen Gaya 3 menyebabkan batang berotasi searah rotasi jarum jam.</span>Resultan Momen Gaya = 40 N m \u2013 20 N m \u2013 30 N m = \u2013 10 N m<span>Resultan Momen Gaya atau\u00a0Resultan Torsi\u00a0bernilai negatif, hal ini menunjukkan bahwa arah rotasi batang searah rotasi jarum jam.</span><span>Jawaban yang benar adalah A</span><br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "sebuah-balok-yang-massanya-4-kg-dipercepat-oleh-sebuah-gaya-20n-397",
+            "question": "Sebuah balok yang massanya 4 kg dipercepat oleh sebuah gaya 20N. jika pada balok\u00a0 tersebut gaya gerak sebesar 8N, maka percepatan balok sebesar...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "m=4kg<br>F= 20-8 =12<br>a=F/m<br>a=12/4 =3 m/s^2<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-cincin-emas-di-masukann-ke-dalam-wadah-nyg-berisi-aircinc-980",
+            "question": "sebuah cincin emas di masukann ke dalam wadah nyg berisi air.cincin emas tersebut mendapat gaya angkat dari air sebesar 0,00196 N.Apabila massa jenis emas 19.300 kg/m\u00b3.massa jenis emas tersebut sebesar...gram",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "dik :<br>F = 0,00196 N<br>p= 19.300 kg/m^3<br>massa emas ..?<br><br>ingat p = m/v ,dimana massa/ volume ,satuan massa adalah kg,sedangkan untuk volume m^3<br><br>maka dapat di simpulkan<br>p = 19300 kg / 1m^3<br>maka massa = 19.300 kg :)\u00a0<br>\u00a0 \u00a0 \u00a0 \u00a0maaf kalau salah pemahaman<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dik-f110n-kekiri-f220n-kekiri-f415n-kekana-985",
+            "question": "Dik: F1:10N KEKIRI    \u00a0\u00a0 \u00a0 F2:20N KEKIRI\r\n\u00a0\u00a0 \u00a0 \u00a0 F4:15N KEKANAN\r\n\u00a0\u00a0 \u00a0 \u00a0 \u00a0 F5:40N KEKANAN\r\n\u00a0\u00a0 \r\napabila resultan dari perpaduan gaya\" pada gambar diatas adalah0, besar F3?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "10+20+F3 = 30 + ... = 55<br>f3= 55-30= 15N<br><br>15+40 = 55<br><br>karena 55N -55N = 0",
+                    "attachments": []
+                },
+                {
+                    "answer": "jawab.<br>perumpamaan\u00a0<br>ke\u00a0kiri =\u00a0 -<br>ke kanan = \u00a0+<br>F = F1 + F2 + F3 + F4 + F5 = 0<br>\u00a0 \u00a0= -10 - 20 + f3 + 15 + 40 = 0<br>\u00a0 \u00a0= - 30 + F3 + 55 = 0<br>F3 = - 55 + 30<br>\u00a0 \u00a0 \u00a0= l-25l<br>\u00a0 \u00a0 \u00a0= 25<br>berarti arah ke kiri\u00a0<br><br>Semoga membantu :) D like",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "satu-gelombang-frekuensinya-50hz-dan-panjang-gelombang-5-meter-c-988",
+            "question": "satu gelombang frekuensinya 50hz dan panjang gelombang 5 meter .cepat rambatan gelombang tersebut adalah ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Cepat rambat gelombang<br>v = <u><em></em></u>panjang gelombang x frekuensi<br>\u00a0 = 5 m x 50 Hz<br>\u00a0 = 250 m/s<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "50x5=250<br>caranya tggl d. kaliin aja",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "ada-yang-tau-cara-akar-berkoma-sebagai-contoh-akar-dari-62-426",
+            "question": "Ada yang tau cara akar berkoma..?\r\n\r\nsebagai contoh :\r\n\r\nakar dari 6^2 - 1^2",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "6^2-1^2 = 36-1 = \u221a35 tapi koma dak tau :D<br><br>kalo pake prediksi bisa<br><br>misal tadi\u221a35 mendekati \u221a36=6<br><br>jadi nilainya beda tipis dengan 6. yaitu kurang dari 6 (5,9) maybe :D<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "menapa-kawat-lurus-yang-dialiri-arus-listrik-tidak-dapat-menjadi-707",
+            "question": "menapa kawat lurus yang dialiri arus listrik tidak dapat menjadi magnet? sedanglan jika kawat tersebut digulung menjadi kumparan dan dialiri arus listrik akan menjadi magnet?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "di karenakan jika menggulung derah yg menyebar rata dan dapat berkonduksi dengan magnet tersebut yang dialiri listrik tersebut :)",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "siapa-yang-menemukan-gaya-gravitasi-114",
+            "question": "Siapa yang menemukan gaya gravitasi",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Issac Newton tahunnya ga tau<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Isaac Newton.............<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebutkan-hal-negatif-yang-dapat-timbul-jika-mengonsumsi-lemak-ka-913",
+            "question": "Sebutkan hal negatif yang dapat timbul jika mengonsumsi lemak, karbohidrat, dan protein berlebihan",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "tambah gendut, kelebihan gula darah<br>mngkin sperti itu",
+                    "attachments": []
+                },
+                {
+                    "answer": "Lemak : obesitas, hipertensi<br>karbo : obesitas, kadar gula tinggi (karena karbo mengandung glukosa jg)<br>protein :obesitas , gangguan pencernaan<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "carilah-literatur-sebanyak-banyaknya-mengenai-cara-untuk-menghema-665",
+            "question": "Carilah literatur sebanyak-banyaknya mengenai cara untuk menghemat energi!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1. Menggunakan lampu hemat energi misalnya lampu neon yang glebih \nbersifat hemat energi daripada lampu bohlem. Disiang hari dapat \nmenggunakan penerang alami secara optima.2.Membentuk perilaku dan kebiasaan diri untuk menggunakan listrik saat diperlukan, secara bergantian, dan tidak berlebihan.3.Mematikan televisi, keran air, komputer atau lampu jika sudah tidak digunakan.4.Jika memungkinkan untuk mengeringkan pakaian secara alami di bawah sinar matahari.5.Menggunakan alat rumah tangga atau kantor yang bersifat hemat energi\n dan ramah lingkungan, seperti pendingin ruangan dan kulkas dengan freon\n ayng ramah lingkungan<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pada-sebuah-rangkaian-listrik-hambatan-yang-terpasang-adalah-300-178",
+            "question": "Pada sebuah rangkaian listrik hambatan yang terpasang adalah 300\u00a0\u03a9 dan kuat arus yang mengalir 0,05 A beda potensial yang ada adalah\u00a0    a. 300,5 volt\r\nb. 299,5 volt\r\nc. 60 volt\r\nd. 15 v\r\n\r\nBeri penjelasannya juga yaa",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span><strong><em>\u00a0R=300\u00a0\u03a9 </em></strong><br><strong><em>I=0,05 A\u00a0</em></strong></span><br><br>[tex]V=I.R \\\\=300.0,05 \\\\15 V[/tex]",
+                    "attachments": []
+                },
+                {
+                    "answer": "v=i\u00d7R<br>v=0.05\u00d7300<br>v=15volt<br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,142 @@
+{
+    "question": "Kenapa energi potensial pada listrik statis skalar ttapi medan dan gaya listrik vektor?",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "karena energi memiliki nilai saja\u00a0tidak memiliki arah maka merupakan\u00a0vektor<br>medan dan gaya listrik memiliki nilai dan\u00a0arah yaitu muatan + ke - sehinnga merupakan besaran skalar",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "contih-soal-hukum-hooke-570",
+            "question": "Contih soal hukum hooke?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Ketika seseorang yang bermasaa 60kg bergelantungan pada ujung sebuah pegas, pegas bertambah panjang 15 cm. tentukan terapan gaya pegas.",
+                    "attachments": []
+                },
+                {
+                    "answer": "sebuah pegas digantung pd statif, panjang mula mula adlh 40 cm, kemudian pd ujungnya digantungi beban seberat 1 kg ternyata panjang pegas menjadi 45 cm. tentukan besar konstanta pegas tersebut jika \u00a0g = 10 m/s\u00b2",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-balok-terapung-diatas-permukaan-air-volume-balok-yg-muncu-254",
+            "question": "sebuah balok terapung diatas permukaan air. volume balok yg muncul diatas permukaan air 100 cm\u00b3 dan massa jenis balok 0,75g/cm\u00b3 jika p air 1 g/cm\u00b3 hitunglah massa balok seluruhnya...???",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Dik vb=vc\u00a0 = 100 cm^3<br>\u00a0 \u00a0 \u00a0 Rho balok = 0,75 g/cm^3<br>\u00a0 \u00a0 \u00a0 rho cair = 1 g/cm^3<br>dit m balok seluruhnya ?<br>jawab.<br><br>Fa = rho cair.volume cair . g<br>\u00a0 \u00a0 \u00a0= 1 . 100. 10<br>\u00a0 \u00a0 \u00a0= 1000 N<br><br>Fa = wb = mb . g \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 mb2 = rho benda . v<br>\u00a01000 \u00a0= mb . 10 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 0,75 . 100<br>mb1 = 1000 / 10 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 75 gr<br>\u00a0 \u00a0 \u00a0= 100 gr<br>\u00a0<br>m total = 100 + 75 = 175 gr",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-uji-dilakukan-terhadap-seutas-kawat-tembaga-dengan-jari-ja-661",
+            "question": "Sebuah uji dilakukan terhadap seutas kawat tembaga dengan jari-jari 1,00 mm untuk menentukan bagaimana kawat tembaga akan menahan tumpukan es ketika kawat digunakan sebagai jaringan listrik. Diperoleh hasil bahwa suatu gaya 300 N akan menyebabkan kawat tertarik dari panjang 100,00 m menjadi 100,11 m, dan ketika tumpukan es dibersihkan (dihilangkan), kawat kembali kepada panjang asalnya. Tegangan, regangan, dan modulus elastis kawat tembaga dalam satuan SI berturut-turut adalah ....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Dik F = 300 N<br>\u00a0\u00a0 \u00a0  lo = 100,00 m<br>\u00a0\u00a0 \u00a0 l = 100,11 m<br>Dit\u00a0 tegangan , regangan , modulus yong<br>jawab.<br><br>\u2208 regangan = \u0394l / lo<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 100,11-100,00 / 100,00<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 0,11 / 100,00<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0  = 0,0011 tanpasatuan<br><br>E elastisitas tembaga = 11.10^10 pa satuan dan tetapan elastisitas young untuk tembaga Sl<br><br>Tegangn = E young . \u2208regangan<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 11x10^10 .0,0011<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 121x10^6 N/m^2<br><br>like<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "benda-bermassa-10-kg-di-atas-bidang-datar-licin-dipengaruhi-gaya-694",
+            "question": "Benda bermassa 10 kg di atas bidang datar licin dipengaruhi gaya 40 N membentuk sudut 60 derajat terhadap horizontal,jika g= 10 m/s^2.tentukan perpindahan benda setelah gaya bekerja 60 \u00a0sekon",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "karena permukaannya licin, maka fg (gaya gesek) = 0<br>cari\u00a0\u03a3 F = m.a<br>\u00a0 \u00a0 \u00a0F + w cos 30 = m .a \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0w = m .g<br>\u00a0 \u00a0 \u00a040 + (10.10.1/2\u221a3) = 10.a<br>\u00a0 \u00a0 \u00a0 40 + 50\u221a3 = 10.a<br>\u00a0\u221a3 = 1,73<br>40 + 50 (1,73) = 10a<br>40 + 86,5 = 10a<br>126,5 = 10 a<br>a = 126,5 /10<br>\u00a0 \u00a0= 12,65 m/s\u00b2<br>mudah2an benar -_-",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dimanakah-sebuah-benda-harus-diletakkan-dideoan-cermin-cekung-yan-127",
+            "question": "dimanakah sebuah benda harus diletakkan dideoan cermin cekung yang R=30cm yang diperbesar 3kali dan nyata ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>1. Klik\u00a0Start\nProgram, la<span></span><span>akan keluar\u00a0 bar dengan tanda\u00a0 dan ,\u00a0 artinya\u00a0 dan\u00a0 artinya</span><br><span>8. Buka\u00a0 2007,\npada\u00a0<span> bar tadi pilih </span></span></span><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "berapa-kalor-yg-di-butuhkan-es-bersuhu-2c-dengan-massa-4-kg-ag-909",
+            "question": "Berapa kalor yg di butuhkan es bersuhu -2\u00b0c dengan massa 4 kg agar mencapai suhu 5\u00b0c, jika dik.    L es=336.000 J/kg\r\nc es=500 J/kg\u00b0c\r\nc air=4200 J/kg\u00b0c",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "m.c.\u0394t=4\u00d72\u00d7500= 4000j<br>m.L=4\u00d7336000=1344000j<br>m.c.\u0394t=4\u00d75\u00d74200=84000j<br><br>kalor yg dibutuhkan=1432000j=1432kj",
+                    "attachments": []
+                },
+                {
+                    "answer": "Q es 1 = m.Ces.\u0394t<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 4 . 500 .(0- -2)<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0= 400 j<br>Q lebur 2\u00a0= m.L<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 4 . 336.000<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = \u00a01.344.000 j<br>Q cair 3\u00a0= m.Cair.\u0394t<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = \u00a04 . 4200 . (5-0)<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 84.000 j<br>kalor total Q = Q1+Q2+Q3<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 400 + 1.344.000 + 84.000<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 1.428.400 J<br>tolong klik bintang",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "kak-tolong-jelasin-tentang-rumus-hukum-newton-2-698",
+            "question": "Kak tolong jelasin tentang Rumus hukum newton 2",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "percepatan yg dihasilkan oleh resultan gaya bekerja pada suatu benda berbanding lurus dgn resultan gaya dan searah dengan resultan gaya dan berbanding terbalik dgnn massa",
+                    "attachments": []
+                },
+                {
+                    "answer": "\"Percepatan sebuah benda berbanding lurus dengan resultan gaya dan berbalik terbalik dengan massa benda.\"<br>a= F/m<br><u></u><strong>S\u00a0F= m a</strong><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "seorang-anak-melemparkan-sebuah-buku-fisika-kepada-temannya-yang-255",
+            "question": "seorang anak melemparkan sebuah buku fisika kepada temannya yang berada di lantai 2 setinggi 4 m dari tanah . buku tersebut ditangkap oleh temannya setelah 1,5 s. berapakah kecepatan awal buku tersebu?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "kecepatan awal =\u00a02,666666667 m/s",
+                    "attachments": []
+                },
+                {
+                    "answer": "h=vot-1/2gt^2<br>4=vo.1,5-1/2.10.1,5^2<br>4=1,5vo-11,25<br>15,25=1,5vo<br>vo=10,1 m/s<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pada-rangkaian-seri-pegas-k130nm-dan-k220nm-massanya-3kg-b-674",
+            "question": "Pada rangkaian seri pegas, k1=30N/m dan k2=20N/m, massanya 3kg. Berapa ktotal?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1/Ks=1/K1+1/K2<br>\u00a0\u00a0 \u00a0 \u00a0 =1/30 + 1/20<br>\u00a01/Ks=10/120<br>\u00a0\u00a0 \u00a0 Ks=120/10=12<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apa-yang-mempengaruhi-gaya-archimedes-yang-bekerja-pada-sebuah-be-775",
+            "question": "Apa yang mempengaruhi gaya archimedes yang bekerja pada sebuah benda ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>Di dalam\nilmu fisika, gaya adalah pengaruh apapun yang\ndapat menyebabkan sebuah benda bermassa mengalami perubahan, baik\ndalam bentuk gerakan, arah, maupun konstruksi geometris.[1]. Dengan kata lain, sebuah gaya\ndapatmenyebabkan sebuah objek dengan massa\ntertentu untuk mengubah kecepatannya (termasuk\nuntuk bergerak dari keadaan diam),\natau berakselerasi, atau untuk terdeformasi.\nGaya memiliki besar\ndan arah, sehingga merupakan besaran vektor. Satuan SI yang digunakan untuk mengukur gaya\nadalah Newton\n(dilambangkan dengan N). Gaya sendiri dilambangkan dengan simbol F.</span>\n\n<span>Hukum kedua Newton\nmenyatakan bahwa gaya bersih yang bekerja pada suatu benda sama dengan kecepatan\npada saat momentumnya berubah terhadap waktu. Jika massa\nobjek konstan, maka hukum ini menyatakan bahwa percepatan objek berbanding lurus dengan gaya\nyang bekerja pada objek dan arahnya juga searah dengan gaya tersebut,\ndinyatakan dengan</span>\n\n<span>Konsep yang\nberhubungan dengan gaya antara lain: gaya hambat, yang mengurangi kecepatan benda, torsi\nyang menyebabkan perubahan\nkecepatan rotasi benda. Pada objek yang diperpanjang, setiap bagian\nbenda menerima gaya, distribusi gaya ke setiap bagian ini disebut regangan.\nTekanan merupakan regangan sederhana. Regangan\nbiasanya menyebabkan deformasi\npada benda padat, atau aliran pada benda cair.</span>\n\n<br><br><br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "gaya archimedes adalah gaya angkat suatu benda dalam zat cair dan mempengaruhi keadaan benda tersebut apakah melayang / tenggelam / terapung\u00a0<br>tergantung dari massa jenis zat cair , volume benda , dan percepatan gravitasi\u00a0",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

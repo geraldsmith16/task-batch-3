@@ -1,0 +1,130 @@
+{
+    "question": "Diketahui suatu barisan aritmetika : 136; 131, 75; 127, 5;... Jika suku ke-n barisan tersebut bernilai nol, n = ...",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "a= 136<br>b= 131-136= -5<br>Un = a+(n-1)b<br>\u00a00\u00a0 = 136+(n-1)-5<br>\u00a00\u00a0 = 136-5n+5<br>\u00a00\u00a0 =\u00a0 141-5n<br>\u00a05n = 141-0<br>\u00a0 n = 141\u00f75 = 28<br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "jelaskan-turunan-fungsi-dari-1-2-900",
+            "question": "Jelaskan turunan fungsi dari :\r\n1.\u00a0\r\n2.\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]y=cosec(x)=\\frac{1}{sin(x)}\\\\\ny=(sin(x))^{-1}\\\\\ny&#039;=(-1)(sin(x))^{-1-1}.cos(x).(1)\\\\\ny&#039;=-(sin(x))^{-2}.cos(x)\\\\\ny&#039;=-\\frac{cos(x)}{(sin(x))^2)}\\\\\ny&#039;=-\\frac{cos(x)}{sin(x)}.\\frac{1}{sin(x)}\\\\\ny&#039;=-cot(x).cosec(x)\\\\\\\\\ny=x.sin(3x)\\\\\ny&#039;=(1)sin(3x)+x.cos(3x).(3)\\\\\ny&#039;=sin(3x)+3x.cos(3x)[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jumlah-mobil-yang-diproduksi-suatu-pabrik-selama-1-hari-setelah-400",
+            "question": "jumlah mobil yang diproduksi suatu pabrik selama 1 hari setelah\u00a0t jam operasi adalah\u00a0n(t)\u00a0= 200\u00a0t\u00a0- 10t\u00b2, 0\u00a0\u2264\u00a0t\u00a0&lt; 10. jika biaya produksi\u00a0n\u00a0mobil (dalam dolar) adalah\u00a0B\u00a0(n) = 30.000 + 8.000n , tentukan biaya\u00a0B\u00a0sebagai fungsi dari waktu ,\u00a0B (t).\u00a0berapakah biaya memproduksi mobil selama 1 bulan?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "n = 200t-10t^2=0<br>\u00a0 \u00a0= 200 - 20t=0<br>t = 200 / 20 = 10\u00a0<br><br>berarti dalam 1 hari memproduksi 10 mobil dalam 1 bulan = 30 hari<br>B\u00a0= 30.000+8000(10.30)<br>\u00a0 \u00a0= 30 000 + 2.400 000<br>\u00a0 \u00a0= 2 430 000 dolar",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-jika-x1-dan-x2-akar-akar-2xkuadrat-10x4-0-nilai-dari-x-912",
+            "question": "1. jika\u00a0 x1 dan x2\u00a0 akar akar 2xkuadrat-10x+4 = 0, nilai dari x1kuadrat+x2kuadrat-3x1x2=    \u00a0\u00a0 \u00a0 A. 20\r\n\u00a0\u00a0 \u00a0 B. 15\r\n\u00a0\u00a0 \u00a0 C. 10\r\n\u00a0\u00a0 \u00a0 D.\u00a0 5\r\n\u00a0\u00a0 \u00a0 E.\u00a0 1",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "2x\u00b2-10x+4 = 0<br>x1+x2= 5 dan x1.x2=2<br>x1\u00b2+x2\u00b2-3x1x2=(x1+x2)\u00b2- 2x1x1 - 3x1x2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0=(x1+x2)\u00b2-\u00a05x1x2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 25-10<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 15",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "nilai-dari-log-16-log-4-log-2-390",
+            "question": "Nilai dari log 16 - log 4 /log 2",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex] \\frac{log16-log 4}{log 2} \\\\   \\frac{log (16/4)}{log2} \\\\   \\frac{log4}{log2}  \\\\   2log2  ^{2}   \\\\ 2[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-dibantu-jika-fx-3x-4-dan-fb-26-maka-nilai-134",
+            "question": "Tolong dibantu :) \u00a0 jika f(x) = 3x - 4 dan f(b) = 26, maka nilai b + 2 adalah.... please bantu,..\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "f (x) = 3x-4<br>f (b) = 26<br><br>f(b) = 3.(b)-4= 26<br>\u00a0 \u00a0 \u00a0= 3b = 30<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0b = 10<br><br><br><br>b=2 = 10 =2 =12",
+                    "attachments": []
+                },
+                {
+                    "answer": "f(x) = 3x - 4<br><span>f(b) = 26<br><br>f(b) =&gt; 3x - 4 = 26<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 3x\u00a0 \u00a0\u00a0 = 26 + 4<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 3x\u00a0\u00a0 = 30<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 x\u00a0 \u00a0 = 30/3 <br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 x = 10<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0  b\u00a0 \u00a0  = 10<br><br></span><br><span><span>b + 2 = </span>10 + 2 = 12<br></span><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "ingkaran-dari-p-q-adalah-bentuk-ekuivalen-p-gt-q-adalah-533",
+            "question": "Ingkaran dari p ^ q adalah....\r\nbentuk ekuivalen -p -&gt; q adalah...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "ingkaran dari p ^ q adalah p v q<br>soal ke 2 itu bener ya?<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-himpunan-penyelesaian-dari-persamaan-berikut-w-961",
+            "question": "Tentukan himpunan penyelesaian dari persamaan berikut : w",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "himpunan semesta yg mungkin darin ( balok, kubus ) adalah",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span>3^(4x+1) \u2013 8. 3^(x-3) = 0</span>\n<br><span><span>=&gt;\u00a0</span>(3^x)^4.3 \u2013 8. (3^x).3^(-3)\n= 0 <br></span><span><span>=&gt;\u00a0\u00a0</span>3.(3^x)^4 \u2013 8/27 (3^x)\n= 0 , misalkan: y = 3x</span>\n<br><span>=&gt;\u00a03y^4 \u2013 8/27 y = 0 =&gt; y (3y^3\n\u2013 8/27) = 0 =&gt; y=0 (tidak memenuhi) dan<br></span><span>=&gt;\u00a03y^3 \u2013 8/27 =0</span>\n<br><span>=&gt;\u00a03y^3 = (2/3)^3 =&gt; y^3\n= 3^(-1).(2/3)^3</span>\n<br><span>\u00a0=&gt; Y\u00a0= 3^(-1/3).(2/3) =&gt; y = 2. 36(-4/3)<br></span>\n\n<span>Dari pemisalan: y = 3^x</span>\n\n<span>Diperoleh: 2.3^(-4/3) = 3^x =&gt; log 2. 3^(-4/3)\n= log 3^x</span>\n\n<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 log\n2 + log 3^(-4/3) = x log 3 <br>=&gt; log 2 + (-4/3)log 3 = x log 3</span>\n\n<span>jadi\u00a0 x = <u>( log\n2 + (-4/3)log 3)</u> = <strong>log 2/log 3 \u2013 4/3</strong> </span><span>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 log 3<br><br></span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "mohon-bantuannya-kak-jika-seutas-tali-dipotong-mnjadi-7-bagian-727",
+            "question": "Mohon bantuannya kak..    jika seutas tali dipotong mnjadi 7 bagian .masing masing bagian membentuk bilangan geometri potongan terpendek adalah 6 cm terpanjang adalah 384 cm maka panjang tali sebelum dipotong adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a=6cm<br>U7=ar^6<br><strong></strong> \u00a0 \u00a0=6r^6=384<br>\u00a0 \u00a0 =r^6=64<br>\u00a0 \u00a0 =r=2<br>S7=a(r^7-1)/r-1 = 6(2^7-1)/2-1= 6(127)/1=762",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-nilai-x-yang-memenuhi-bentuk-bentuk-logaritma-berikut-a-895",
+            "question": "Tentukan nilai x yang memenuhi bentuk bentuk logaritma berikut\r\na. 3log 27 = x\r\nb. 5 log 625 =x",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "x = 3 log 27 <br>\u00a0\u00a0 = 3 log 3\u00b3<br>\u00a0\u00a0 = 3<br><br>x = 5 log 625 <br>\u00a0\u00a0 = 5 log 5\u2074<br>\u00a0\u00a0 = 4<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "carilah-persamaan-lingkaran-yang-melengkapi-segitiga-siku-siku-ya-417",
+            "question": "carilah persamaan lingkaran yang melengkapi segitiga siku-siku yang titik-titik sudutnya adalah(0,0)(8,0)(0,6) ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "8x+6y klo gak salah\u00a0<br>harap dimaklumi\u00a0",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

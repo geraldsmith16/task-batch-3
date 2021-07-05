@@ -1,0 +1,136 @@
+{
+    "question": "jika titik A (-2,-1) di dalam lingkaran (x+4) pangkat 2 + (y-p) pangkat 2 = 13. maka nilai p adalah.......?",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "jawabannya adalah 4,25",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "jumlah-suku-4-dan-suku-ke-7-barisan-aritmatika-sama-dengan-67-sed-879",
+            "question": "Jumlah suku 4 dan suku ke 7 barisan aritmatika sama dengan 67 sedangkan suku ke 10 adalah 65 tentukan a.suku ke n    \u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 b.suku ke 20",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "U\u2084 + U\u2087 = 67 ---&gt; a + 3b + a + 6b = 67 ---&gt; 2a + 9b = 67 ......pers(1) <br>U\u2081\u2080 = 65 ----&gt; a + 9b = 65 ---&gt; 2a + 18b = 130 ........ pers (2) <br>(1) dan (2) ieliminasi <br>2a + 18b = 130<br>2a +\u00a0 9b = 67 <br>--------------------------- -<br>\u00a0 \u00a0 \u00a0 \u00a0 9b = 63 --------&gt; b = 7 , a = 2 <br>a. Un = a + (n - 1)b<br>\u00a0\u00a0  \u00a0 \u00a0\u00a0  = 2 + (n - 1)7<br>\u00a0\u00a0 \u00a0\u00a0 \u00a0 = 2 + 7n - 7 <br>\u00a0\u00a0 \u00a0\u00a0  \u00a0 = 7n - 5 <br>b. U\u2082\u2080 = 7(20) - 5 <br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 140 - 5 = 135 <br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-bola-jatuh-dari-ketinggian-8m-dan-memantul-kembali-dengan-827",
+            "question": "sebuah bola jatuh dari ketinggian 8m dan memantul kembali dengan ketinggian 3/5 kali tinggi sebelumnya. Pemantulan ini berlangsung terus menerus hingga bola berhenti. Berapakah jarak lintasan seluruhnya?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "stidak terhingga=8 per 1-3/5<br>=8 per 2/5<br>=20m<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "n(5+3)/(5-3) = 8(8)/2 = 64/2 = 32m<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dengan-mengunakan-tabel-kebenaran-buktikanlah-bahwa-pernyataan-pe-908",
+            "question": "Dengan mengunakan tabel kebenaran buktikanlah bahwa pernyataan pernyataan \u00a0berikut ini mrupakan pernyataan majemuk yang ekuivalen !    a. (p^q) \u00a0= ~ (~pv~q) \u00a0 b. (~p^q) = ~ (pv~q) \u00a0 c. (~p^~q) = ~(pvq) \u00a0 d. (~p^~q) = ~(~pv~q) \u00a0 e. (~p^~q) = pvq",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "silakan dipelajari, sekalian diperiksa apabila terdapat kesalahan",
+                    "attachments": [
+                        "answer-attachments/dengan-mengunakan-tabel-kebenaran-buktikanlah-bahwa-pernyataan-pe-908-1.docx"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "rasionalkan-bentuk-pecahan-a-25-3-431",
+            "question": "Rasionalkan bentuk pecahan\u00a0    a.\u00a0 \u00a0 2\u221a5 \u00a0 \u00a0\r\n \u00a0 \u00a0\u221a3 +\u00a0\u221a5\r\n\r\nBeri penjelasannya yaa. Dan LENGKAP Juga :)\r\nyang Lengkap\u00a0bintang 5.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "ini namnya persekutuan sekawanan.Jadi kalo ypenyebut minus,ntar dikalikan dengan yang plus.Dan sebaliknya<br><br>2\u221a5 per(/) \u221a3+\u221a5 dikali(*)\u221a3-\u221a5 per(/) \u221a3-\u221a5 = 2\u221a15-2\u221a25 per(/) 3-5=2\u221a15-2\u221a25 per(/) -2<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "\\frac{2V5}{V3+V5} = \\frac{2V5}{V3+V5} \\frac{V3-V5}{V3-V5 }=\n \\frac{2V5(V3-V5)}{3-5}  =\u00a0V5(V3-V5)",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-himp-selesaian-dari-2x25xlt3-xr-285",
+            "question": "Tentukan himp. selesaian dari 2x\u00b2+5x&lt;3, x\u2208R",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span> 2x\u00b2+5x&lt;3, x\u2208R<br></span><br><span>2x\u00b2 + 5x - 3 &lt; 0<br>(2x -1) (x+3) &lt; 0<br>2x = 1\u00a0 \u00a0 atau x = -3<br>x = 1/2<br>hp = {x|-3&lt;x&lt;1/2, </span><span><span>x\u2208R</span>}<br></span><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suku-ke-4dan-suku-ke-7-suatu-barisan-geometri-berturut-trut-adlh-742",
+            "question": "Suku ke 4dan suku ke 7 suatu barisan geometri berturut trut adlh 128 dan 8.192    brapakh suku ke 6................",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "n=2<br>suku<br>1=2<br>2=4<br>3=32<br>4=128<br>5=512<br>6=2048<br>7=8192<br>tinggal dipilih deh jawaban yg dicari :)<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "u4 : a+3b = 128<br>u7 : <u>a+6b = 8192</u><br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 -2b = -8064<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 b = <u>-8064</u><br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 -2<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 b = 4032<br>a+6b = 8192<br>a+6(4032) = 8192<br>a+24192 = 8192<br>a = 8192 - 24192<br>a = -16000<br><br>maka, <br>u6 = a+5b<br>= -16000+5(4032)<br>=\u00a0 -16000+20160<br>= 4160<br>\u00a0kalo nggak salah<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "daerah-asal-dari-fungsi-yfxx-1x-adalah-751",
+            "question": "Daerah asal dari fungsi \r\ny=f(x)=(x-1)/x adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]y=\\frac{x-1}{x}\\\\\ndaerah\\ asal\\ fungsi\\ tsb\\ (domain)\\ adalah\\ \\{x \\neq 0, x \\in Real\\} [/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dketahui-barisan-geometri-u1-u2-45-dan-u3-u4-20-tentukan-119",
+            "question": "Dketahui barisan geometri U1 + U2 = 45 DAN U3 + U4 = 20 tentukan rasiaonya ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "U1 + U2 = a + ab = 45<br>U3 + U4 = abb + abbb = 20<br><br>(a + ab = 45) &lt;&lt; dikali dengan bb<br>(a + ab)bb = 45bb<br>abb + abbb = 45bb<br><br>45bb = 20<br>bb = 20/45 = 4/9<br>b = akar (4/9)<br>b\u00a0= 2/3",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukanlah-suku-banyak-px-yang-memenuhi-persamaan-berikut-x2-151",
+            "question": "Tentukanlah suku banyak p(x) yang memenuhi persamaan berikut (x2 - 2x - 5)-p(x) = (3-2x)(5x-4)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "(x\u00b2 - 2x - 5) - p(x) = (3 - 2x) (5x - 4) <br>x\u00b2 - 2x - 5 - p(x) = 15x - 12 -10x\u00b2 + 8x <br>x\u00b2 - 2x - 5 - (15x - 12 - 10x\u00b2 + 8x) = p(x) <br>11x\u00b2 - 25x + 7 = p(x) <br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-jelaskan-pembuktian-dari-1-p-q-p-q-963",
+            "question": "Tolong jelaskan pembuktian dari 1.\u00a0~(p\u00a0\u2227 q)\u00a0\u2261 ~p\u00a0\u2228 ~q. 2. ~(p\u00a0\u2228 q)\u00a0\u2261 ~p\u00a0\u2227 ~q",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "pembuktiannya dengan tabel nilai kebenaran ( B &amp; S)<br><br><span>(p\u00a0\u2227 q) nilainya nanti BSSS<br></span><span>~p\u00a0\u2228 ~q nilainya nanti SBBB<br></span>makanya terbukti bahwa\u00a0ingkaran dari\u00a0(p\u00a0\u2227 q) adalah\u00a0\u00a0~p\u00a0\u2228 ~q<br><br>samahalnya dengan yang kedua",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

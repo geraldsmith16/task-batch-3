@@ -1,0 +1,122 @@
+{
+    "question": "di antara bilangan bilangan 4 dan 28 disisipkan lima bilangan sehingga bilangan bilangan semula dengan bilangan-bilangan yang disisipkan membentuk barisan aritmatika. beda barisan tersebut adalah?",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "4,10,16,22,28<br>artinya beda barisan tersebut adalah 6<br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "selisih-umur-ayah-dan-kakek-adalah-32-tahun-jika-umur-ayah-diband-941",
+            "question": "selisih umur ayah dan kakek adalah 32 tahun jika umur ayah dibanding umur kakek sma dengan 5:9 maka umur ayah 4 tahun yg lalu adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "32 \u00f7 4 = 8 ( asal dari 4 adalah 9-5)<br>8\u00d75 = 40 \u00b7 4 = 36 <br>jadi umur ayah 4 tahun lalu adalah 36 tahun<br><br>itu menurutq<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-fungsi-kuadrat-mempunyai-nilai-maksimum-3-pada-saat-x-2-852",
+            "question": "sebuah fungsi kuadrat mempunyai nilai maksimum -3 pada saat x = 2, sedangkan untuk x = -2 fungsi bernilai -11. Tentukan fungsi kuadrat tersebut.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "f(x) = 2xkuadrat + 2x - 15",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bagaimana-cara-mencari-hasil-sisa-pembagian-suku-banyak-yg-pembag-975",
+            "question": "Bagaimana cara mencari hasil sisa pembagian suku banyak\r\nyg pembaginya berjumlah 3",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "dikali dengan 3<br>maaf hanya ini yang dapat saya jawab",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "persamaan-lingkaran-xi-sma-tentukan-persamaan-lingkaran-yang-me-878",
+            "question": "PERSAMAAN LINGKARAN - xi sma tentukan persamaan lingkaran yang melalui (0,0) dengan jari2 akar 5 dan titik pusatnya terletak pada garis y= x-1 \u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]misal\\ titik\\ pusatnya\\ (a,b)\\\\\n(x-a)^2+(y-b)^2=r^2\\ melalui\\ titik\\ (0,0)\\\\\n(0-a)^2+(0-b)^2=(\\sqrt{5})^2\\\\\na^2+b^2=5\\\\\nkarena\\ (a,b)\\ berada\\ pada\\ garis\\ y=x-1,\\ maka\\\\\nb=a-1\\\\\na^2+b^2=5\\\\\na^2+(a-1)^2=5\\\\\n2a^2-2a-4=0\\\\\n(2a+2)(a-2)=0\\\\\na=-1\\ atau\\ a=2\\\\\nutk\\ a=-1,b=-2 \\rightarrow (x+1)^2+(y+2)^2=5\\\\\nutk\\ a=2,b=1 \\rightarrow (x-2)^2+(y-1)^2=5[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "log-x2-4x-4-leq-log-5x-10-685",
+            "question": "Log (X^{2} + 4X + 4 ) \\leq log ( 5X + 10 )",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]log(x^2+4x+4) \\leq log(5x+10)\\\\ x^2+4x+4 \\leq 5x+10\\\\ x^2-x-6 \\leq 0\\\\ (x-3)(x+2) \\leq 0\\\\ -2 \\leq x \\leq 3\\\\ syarat:\\\\ 1)\\ x^2+4x+4&gt;0\\\\ (x+2)^2&gt;0\\\\ x+2&gt;0\\\\ x&gt;-2\\\\ 2)\\ 5x+10&gt;0\\\\ 5x&gt;-10\\\\ x&gt;-2\\\\ maka\\ -2\\ tidak\\ memenuhi,\\ sehingga\\ Hp=\\{-2&lt;x\\leq3\\}[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-nilaim-yang-memenuhi-a-fx-mx2-m1-x-8-b-f-910",
+            "question": "Tentukan nilai\"m\" yang memenuhi :    a. f(x) = mx2 - (m+1) x-8\r\nb. f(x) = mx2 + 12x + 9m\r\njika 1 memotong sumbu x\r\njika 1 menyinggung sumbu x\r\njika 1 tidak memotong/menyinggung sumbu x",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a. <br><span><br>b. </span><br><span><br><br>i&#039;m sorry if the fals answer..<br></span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "aku-punya-pr-tapi-aku-atak-tahu-bagaimana-cara-untuk-menemukan-ja-208",
+            "question": "Aku punya PR tapi aku atak tahu bagaimana cara untuk menemukan jalan solusinya,    pertanyaannya begini:\r\n\r\nTemukan grafik fungsi kuadrat f(X) = 4x\u00b2 - 8x +\u00a03, dari grafik fungsi kuadrat g(x) = 4x\u00b2 !\r\n\r\nMohon penjelasannya!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]f(x)=4x^2-8x+3\\\\\ncari\\ titik\\ potong\\ thdp\\ sb\\ x\\ (y=0)\\\\\n0=4x^2-8x+3\\\\\n(2x-3)(2x-1)=0\\\\\nx=\\frac{3}{2}\\ atau\\ x=\\frac{1}{2}\\\\\ndiperoleh\\ (\\frac{3}{2},0)\\ dan\\ (\\frac{1}{2},0)\\\\\\\\\ncari\\ tipot\\ thdp\\ sb\\ y\\ (x=0)\\\\\nf(x)=y=4x^2-8x+3\\\\\ny=4(0)^2-8(0)+3\\\\\ny=3\\\\\ndiperoleh\\ (0,3)\\\\\\\\\ncari\\ titik\\ puncak\\ P(\\frac{-b}{2a},\\frac{-(b^2-4ac)}{4a})\\\\\nP(\\frac{-(-8)}{2(4)},\\frac{-((-8)^2-4(4)(3))}{4(4)})\\\\\nP(1,-1)\\\\\nletakkan\\ semua\\ titik\\ pada\\ koordinat\\ kartesius\\\\\nlalu\\ gambar\\ grafiknya[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suatu-persegi-panjang-dengan-panjang-2x4cm-dan-lebar-4-xcm-778",
+            "question": "suatu persegi panjang dengan panjang (2x+4)cm dan lebar (4-x)cm, agar luas persegi panjang maksimum, ukuran panjang adalah...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Luas persegi=p*l<br>(2x+4)*(4-x)=8x-2x^2+16-4x<br>=4x-2x^2+16=2x-x^2+8=x^2-2x+8<br>Luas maksimum= -b^2-4ac : 4a<br>=4-4(1)(8) : 4*1<br>=4-32 : 4=-28 : 4<br>-(-28:4)=28:4=7<br>Soal panjangnya saya kurang ngerti,soriii",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-ab-dan-c-adl-sudut2-pda-sebuah-segtiga-dan-nilai-dari-tan-367",
+            "question": "jika A,B, dan C adl sudut2 pda sebuah segtiga dan nilai dari tan A = 4, tan B = 3, maka nilai dari tan C=.......?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]A,\\ B\\ dan\\ C\\ merupakan\\ sudut2\\ dlm\\ segitiga,\\ maka\\\\\nA+B+C=180^{o}\\\\\nA+B=180^{o}-C\\\\\nTan(A+B)=Tan(180^{o}-C)\\\\\n\\frac{Tan A+Tan B}{1-TanATanB}=-TanC\\\\\n\\frac{4+3}{1-4(3)}=-TanC\\\\\n\\frac{7}{-11}=-TanC\\\\\nTanC=\\frac{7}{11}\n[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suku-pertama-barisan-geometri-adalah-5-dan-besar-suku-tengahnya-a-805",
+            "question": "suku pertama barisan geometri adalah 5 dan besar suku tengahnya adalah 3.645. banyak sukunya adalah.. \u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex] \\frac{3645}{5} = 729 = 9^{3} = 3^{6}[/tex]<br><br>jadi ada 2 jawaban nih yang mungkin.<br>kalau rasio = 9.<br>maka banyak sukunya = 7<br><br>kalau rasio = 3<br>maka banyak sukunya = 13<br><br>slahkan di cek.",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

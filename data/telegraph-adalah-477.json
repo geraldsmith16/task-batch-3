@@ -1,0 +1,152 @@
+{
+    "question": "Telegraph adalah....",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "Telegraph\n\n<span>\n\n</span>\n\nTelegraph adalah suatu sistem komunikasi yang berkaitan dengan proses \npengiriman dan reproduksi dari suatu dokumen dalam bentuk tulisan dan \ngambar antar tempat yang berjauhan.<br>",
+            "attachments": []
+        },
+        {
+            "answer": "Telegraf adalah mesin yang digunakan untuk mentransmisikan pesan \ndalam bentuk impuls listrik yang kemudian dikonversi menjadi data.\n<span>Sebuah pesan yang dikirim melalui telegraf disebut telegram atau \nkabelgram, sementara orang yang mengoperasikan mesin telegraf dalam \nbahasa Inggris dikenal sebagai telegrapher.<br>maaf ya kalo salah -_-<br></span>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "apa-script-yang-digunakan-dalam-php-apabila-dalam-1-form-terdapa-849",
+            "question": "Apa\u00a0script yang digunakan dalam php apabila dalam 1 form terdapat\u00a03 proses logika...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "bisa menggunakan if,,,bisa menggunakan case<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "kenapa-sih-windows-7-tidak-bisa-update-otomatis-lagi-ketika-diu-579",
+            "question": "Kenapa sih Windows 7 tidak bisa update otomatis lagi ?    Ketika diupdate, malah gagal.\r\n\r\nSolusi mengatasinya gimana ya ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "ori gk? sejak kapan?",
+                    "attachments": []
+                },
+                {
+                    "answer": "virusnya udah numpuk X , hixhixhix ,\u00a0mungkin bisa juga kendala dari jaringan ketika nge update...!",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bagaimanakah-cara-membuat-blog-pribadi-475",
+            "question": "Bagaimanakah cara membuat Blog Pribadi?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "buat email, kunjungiHttp://www.Blogger.com dan ikuti langkah selanjutnya di bloger<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "daftarkan diri anda ke blogger/gmail lalu buatlah dngan mengikuti petunjuk tersebut<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "ada-yang-tahu-aplikasi-yang-bagus-dan-simple-untuk-membuat-presen-820",
+            "question": "Ada yang tahu aplikasi yang bagus dan simple untuk membuat presentasi lebih menarik ??",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "aplikasi yang bagus + keren :\u00a0keynote, prezi, atau google presentations",
+                    "attachments": []
+                },
+                {
+                    "answer": "menambahkan gambar gif, buat animasi 3d",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bagaimana-cara-mengimplementasikan-php-dengan-css-untuk-menampilk-651",
+            "question": "Bagaimana cara mengimplementasikan PHP dengan CSS untuk menampilkan data dari database ?",
+            "attachments": [
+                "question-attachments/bagaimana-cara-mengimplementasikan-php-dengan-css-untuk-menampilk-651-1.docx"
+            ],
+            "answers": [
+                {
+                    "answer": "Pertama ada perbedaan antara PHP dengan CSS, PHP adalah bahasa pemrograman sedangkan CSS adalah pelengkap dalam pemrograman web, yang pada artinya CSS bukan lah bahasa pemrograman itu sendiri.<br><br>PHP degan CSS, artinya PHP di gunakan dalam CSS. yang seharusnya CSS dengan PHP, yang dengan nalar bahasa indonesia yag baik dan benar dapat di artikan bahwa CSS di gunakan untuk PHP.<br><br>penggunaan pengaksesan database menggunakan credential HANYA pada PHP, dengan pengelogikaan sesuai logika masing-masing.<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentang-form-pada-javascript-990",
+            "question": "Tentang form pada javascript ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>pembuatan form pada HTML dengan menggunakan Java Script<span><br>&lt;html&gt;<span>\u00a0\u00a0&lt;head&gt;&lt;title&gt;JavaScript-Mid&lt;/title&gt;&lt;/head&gt;</span><span>\u00a0\u00a0&lt;body&gt;</span><span>\u00a0\u00a0\u00a0\u00a0&lt;script languange =\"JavaScript\"&gt;</span><span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0function Proses()</span><span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0{</span><span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0var npm = (document.formnilai.inpm.value);</span><span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0var nama = (document.formnilai.inama.value);</span><span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0var nt = (document.formnilai.int.value);</span><span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0var nk = (document.formnilai.ink.value);</span><span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0var nm = (document.formnilai.inm.value);</span><span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0var ns = (document.formnilai.ins.value);\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0na = 0.2*nt+0.1*nk+0.3*nm+0.4*ns;</span><span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0if (na&gt;=85)</span><span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0nh=&#039;A&#039;;</span><span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0else if (na&gt;=70)</span><span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0nh=&#039;B&#039;;</span><span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0else if (na&gt;=55)</span><span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0nh=&#039;C&#039;;</span><span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0else if (na&gt;=40)</span><span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0nh=&#039;D&#039;;</span><span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0else</span><span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0nh=&#039;E&#039;;</span><span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0if (nh==&#039;A&#039; || nh==&#039;B&#039; || nh==&#039;C&#039;)</span><span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0ket = \"Lulus\";</span><span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0else</span><span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0ket = \"Gagal\";</span><span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0document.formnilai.onpm.value = npm;\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0document.formnilai.onama.value = nama;</span><span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0document.formnilai.ona.value = na;</span><span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0document.formnilai.onh.value = nh;</span><span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0document.formnilai.oket.value = ket;</span><span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0}</span><span>\u00a0\u00a0\u00a0\u00a0&lt;/script&gt;</span><span>\u00a0\u00a0\u00a0\u00a0&lt;form name =\"formnilai\"&gt;</span><span>\u00a0\u00a0\u00a0\u00a0&lt;h2&gt; Pengolahan Data Nilai Pemrograman Web &lt;/h2&gt;</span><span>\u00a0\u00a0\u00a0&lt;h3&gt; Input Data Nilai Mahasiswa &lt;/h3&gt;</span><span>\u00a0\u00a0\u00a0\u00a0&lt;pre&gt;</span><span>\u00a0\u00a0\u00a0\u00a0\u00a0NPM\u00a0\u00a0\u00a0\u00a0: &lt;input type=\"text\" size=\u201c10\" name=\"inpm\"&gt; &lt;br&gt;</span><span>\u00a0\u00a0\u00a0\u00a0\u00a0Nama\u00a0\u00a0\u00a0: &lt;input type=\"text\" size=\u201c20\" name=\"inama\"&gt; &lt;br&gt;</span><span>\u00a0\u00a0\u00a0\u00a0\u00a0Nilai Tugas\u00a0\u00a0\u00a0\u00a0\u00a0: &lt;input type=\"text\" size=\"5\" name=\"int\"&gt; &lt;br&gt;</span><span>\u00a0\u00a0\u00a0\u00a0\u00a0Nilai Kuis\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0: &lt;input type=\"text\" size=\"5\" name=\"ink\"&gt; &lt;br&gt;</span><span>\u00a0\u00a0\u00a0\u00a0\u00a0Nilai Mid\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0: &lt;input type=\"text\" size=\"5\" name=\"inm\"&gt; &lt;br&gt;</span><span>\u00a0\u00a0\u00a0\u00a0\u00a0Nilai Semester\u00a0\u00a0: &lt;input type=\"text\" size=\"5\" name=\"ins\"&gt;</span><span>\u00a0\u00a0\u00a0\u00a0&lt;/pre&gt;</span><span>\u00a0\u00a0\u00a0\u00a0&lt;input type=\"button\" value=\"Proses Nilai\" onclick=\"Proses()\"&gt;</span><span>\u00a0\u00a0\u00a0\u00a0&lt;input type=\"reset\" value=\"Ulang\"&gt;</span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0<span>\u00a0\u00a0\u00a0\u00a0&lt;h3&gt;Hasil Proses &lt;/h3&gt;</span><span>\u00a0\u00a0\u00a0\u00a0&lt;pre&gt;</span><span>\u00a0\u00a0\u00a0\u00a0\u00a0NPM\u00a0\u00a0\u00a0\u00a0: &lt;input type=\"text\" size=\u201c10\" name=\"onpm\"&gt; &lt;br&gt;</span><span>\u00a0\u00a0\u00a0\u00a0\u00a0Nama\u00a0\u00a0\u00a0: &lt;input type=\"text\" size=\u201c20\" name=\"onama\"&gt; &lt;br&gt;</span><span>\u00a0\u00a0\u00a0\u00a0\u00a0Nilai Akhir\u00a0\u00a0\u00a0\u00a0: &lt;input type=\"text\" size=\"5\" name=\"ona\"&gt; &lt;br&gt;</span><span>\u00a0\u00a0\u00a0\u00a0\u00a0Nilai Huruf\u00a0\u00a0\u00a0\u00a0: &lt;input type=\"text\" size=\"5\" name=\"onh\"&gt; &lt;br&gt;</span><span>\u00a0\u00a0\u00a0\u00a0\u00a0Keterangan\u00a0\u00a0\u00a0\u00a0\u00a0: &lt;input type=\"text\" size=\"7\" name=\"oket\"&gt; &lt;br&gt;\u00a0\u00a0\u00a0\u00a0</span><span>\u00a0\u00a0\u00a0\u00a0&lt;/pre&gt;</span><span>\u00a0\u00a0\u00a0\u00a0&lt;/form&gt;</span><span>\u00a0\u00a0\u00a0&lt;/body&gt;</span>&lt;/html&gt;<br><span><br><br>kurng pham juga dengan pertanyaannya :)<br>maaf kalau salah, soalnya meragukan</span></span></span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "cara-membuat-cover-novel-keren-dari-coreldraw-814",
+            "question": "Cara membuat cover novel keren dari coreldraw",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "caranya tinggal diedit-edit ajalah",
+                    "attachments": []
+                },
+                {
+                    "answer": "Caranya dengan mendownload gbr yang anda suka, lalu di edit dengan corel draw dengan tool yang ada dan bisa di trim juga. Bisa divariasikan dgn gmbr lain sesuai imajinasi, tambahkan teks dengan text tool",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bagaimana-penerapan-php-dalam-web-browser-386",
+            "question": "Bagaimana penerapan PHP dalam web browser",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "digunakan untuk menampilkan web/halaman dinamis, biasanya kalau tidak berbasis php bisa menggunakan JSP\u00a0",
+                    "attachments": []
+                },
+                {
+                    "answer": "cara menjalankannya di web browser<br><br>http://localhost/nama_folder/file.php",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1bagian-bagian-mesin-penghancur-dokumen-2pengertian-mesin-peng-733",
+            "question": "1.bagian-bagian mesin penghancur dokumen?\r\n2.pengertian mesin penghancur dokumen?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "mesin penghancur dokumen adalah mesin yg dapat menghancurka dokumen-dokumen penting dan alat ini ramah lingkungan arti kata\u00a0tidak ribet dan dokumen tidak perlu di bakar sehingga tidak akan menyababkan polusi udara.",
+                    "attachments": []
+                },
+                {
+                    "answer": "virus yang di buat hacker<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bagaimana-cara-mengkoneksikan-antara-desain-web-php-dengan-databa-616",
+            "question": "Bagaimana cara mengkoneksikan antara desain web PHP dengan Databases Mysql",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "bila kamu memakai Dreamweaver harus membuat site definition dahulu, agar database kamu connect dengan php<br><br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

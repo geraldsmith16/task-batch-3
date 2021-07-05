@@ -1,0 +1,136 @@
+{
+    "question": "Berapa luas daerah yang diarsir..?",
+    "attachments": [
+        "question-attachments/berapa-luas-daerah-yang-diarsir-168-1.docx"
+    ],
+    "answers": [
+        {
+            "answer": "setengah lingkaran besar<br>\u21d2 1/2 x \u03c0 x r\u00b2<br>\u00a0 = 1/2 x 22/7 x 7/2 x 7/2<br>\u00a0 = 77/4 = 19,25<br>lingkaran kecil<br>\u21d2 \u03c0 x r\u00b2<br>\u00a0 = 22/7 x 1,4 x 1,4<br>\u00a0 = 6,16<br>luas yang diarsir = 19,25 - 6,16 = 13.09<br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "dengan-cara-melengkapkan-kuadrat-sempurna-tentukan-akar-akar-pers-430",
+            "question": "Dengan cara melengkapkan kuadrat sempurna tentukan akar-akar persamaan kuadrat berikut : 3xkuadrat-2x-3=0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "\u00a0\u00a01. Pindahkan konstanta ke ruas kanan \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 2. Bagilah kedua ruas dengan\u00a0 dengan a. \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a03. Jika koefisien x yang baru kita sebut b, maka tambah kedua ruas dengan \u00bdb2. \u00a0 \u00a0 \u00a0 \u00a0 <span>4. Ubah bentuk yang ada di ruas kiri menjadi kuadrat sempurna. \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a05. Hilangkan tanda kuadrat di sebelah kiri, sementara ruas kanan menyesuaikan dengan memberikan akar dan tanda \u00b1 di depannya \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a06. Pindahkan konstanta di ruas kiri ke ruas kanan \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 7. dengan memisahkan tanda plus dan minus maka kita peroleh dua nilai x, sehingga penyelesaian persamaan kuadarat sudah kita dapat.\u00a0</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-suku-pertama-beda-dan-u20-jika-u810-dan-u1226-395",
+            "question": "Tentukan suku pertama, beda, dan U20. jika U8=10 dan U12=26",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "beda = 26 - 10 per 12 - 8 = 16 per 4 = 4.<br>suku pertama = 10-4-4-4-4-4-4-4 = -18<br>semoga membantu :))<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-pers-kuadrat-x2-m-3x-3m-1-0-mempunyai-satu-akar-r-799",
+            "question": "Jika pers kuadrat x\u00b2-(m+ 3)x+ (3m + 1) = 0\r\nmempunyai satu akar riil mka nilai m yg memenuhi ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "satu akar, jadi D=0<br>[tex]D=0\\\\\nb^2-4ac=0\\\\\n(m+3)^2-4(1)(3m+1)=0\\\\\nm^2+6m+9-12m-4=0\\\\\nm^2-6m+5=0\\\\\n(m-1)(m-5)=0\\\\\nm_1=1 \\ atau \\ m_2=5[/tex]<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Bentuk Umum Persamaan Kuadrat seperti ini<span>,\u00a0\u00a0dan a, b, c,</span>Dimana :x\u00a0adalah variabel persamaan kuadrata\u00a0adalah koefisien x kuadratb\u00a0adalah koefisien xc\u00a0adalah konstantaCara Menyelesaikan Persamaan Kuadrat<span>1) Mencari faktor<br><br>diuraikan menjadi\u00a0<br>cara pemfaktoran akan lebih mudah bila a = 1<br>maka kita bisa menebak x1 dan x2 dengan cara<br>a = 1<br>b = x1+x2<br>c = x1.x2</span><span>2) Memakai Rumus Kuadrat atau Rumus abc<br></span><span>3) Melengkapkan Kuadrat Sempurna<br>Bentuk umum persamaan kuadrat bebentuk kuadrat sempurna adalah :<br>\u00a0dengan q &gt; 0</span>Menentukan Jenis Akar-Akar Persamaan Kuadrat Jenis akar-akar persamaan kuadrat ditentukan oleh nilai deskriminan :<span><br>a. D &gt; 0 Kedua akar nyata dan berlainan,\u00a0</span><span>b. D = 0<br>Kedua akar nyata dan sama,\u00a0</span><span>c. D &lt;&gt; Kedua akar tidak nyata (imaginer)<br>d.\u00a0\u00a0dengan\u00a0<br>bilangan kuadrat sempurna, kedua akar rasional.</span><span>Untuk menghitung<span>\u00a0jumlah dan hasil kali akar-akar persamaan kuadrat</span>\u00a0, dapat dicari tanpa terlebih dahulu mencari akar-akarnya.</span><span>Dari rumus\u00a0\u00a0dan\u00a0</span><span>Dapat ditunjukkan bahwa:\u00a0</span><span>Rumus-rumus\u00a0Akar Persamaan Kuadrat hasil pengembangan, sering sekali muncul di soal UAN SNMPTN atau SPMB</span><span>Sifat-sifat Akar\u00a0Persamaan Kuadrat Jika\u00a0\u00a0dan\u00a0\u00a0adalah akar-akar persamaan kuadrat\u00a0\u00a0dengan\u00a0<br>maka berlaku sifat-sifat berikut ini :</span><span>a. Syarat mempunyai Dua Akar Positif<br></span><span>b. Syarat mempunyai Dua Akar Negatif<br><br>c. Syarat mempunyai Dua Akar Berlainan Tanda<br><br>d. Syarat mempunyai Dua Akar Berlawanan<br><br>e. Syarat mempunyai kedua akar berkebalikan<br></span><span>Cara menyusun Persamaan kuadratdari akar-akar x1 dan x2 yang diketahui</span><span>Persamaan kuadrat yang akar-akarnya\u00a0dan\u00a0\u00a0adalah :\u00a0</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "untuk-modal-berjualan-bu-fitri-meminjam-uang-di-koperasi-sebesar-291",
+            "question": "untuk modal berjualan bu fitri meminjam uang di koperasi sebesar rp 5.000.000.00 dengan bunga 1% per bulan ,ansuran tiap bulan yang harus di bayar bu fitri jika meminjam selama 10 bulan adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "bunga perbulan = 1% x 5jt = 50.000<br>angsuran perbulan = (1/10) x 5.000.000 + bunga perbulan = 500.000 + 50.000<br>angsuran perbulan = Rp 550.000<br>dengan total yang harus dibayar Rp 5.500.000 selama 10 bulan",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "3-bil-positif-membentuk-barisan-geometri-dgn-rasio-rgt1-jika-s-285",
+            "question": "3 bil positif membentuk barisan geometri dgn rasio r&gt;1, jika suku tengah ditambah 4 maka terbentuk sebuah bil aritmatika yg jumlahnya 30. tentukan hasil kali dari ketiga bil tersebut",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a/r,a,ar \u00a0 \u00a0 \u00a0 \u00a0BG \u00a0 \u00a0 \u00a0 \u00a0 \u00a0suku tengah ditambah 4 jadi BA\u00a0<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 a+4 = (a/r+ar)/2 \u00a0 &lt;=&gt; 2a + 8 = a/r + ar\u00a0<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0dan \u00a0\u00a0a/r + a+4+ar = 30<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0berarti 2a + 8 +a+4 = 30 &lt;=&gt; 3a = 18 maka a = 6 <br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0dan r = 3( (dimasukkan per !)<br>jadi 2+6+18 = 26",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "luas-jajargenjang-pqrs-adalah-72cm-pq12cm-dan-su8cm-tentukan-575",
+            "question": "Luas jajargenjang PQRS adalah 72cm, PQ=12cm, dan SU=8cm. tentukan keliling PQRS!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "12x2= 24<br>8x2=16<br>24+16= 40",
+                    "attachments": []
+                },
+                {
+                    "answer": "12x2= 24<br>8x2=16<br><span>24+16= 40<br>semoga btul</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "3-bilangan-membentuk-barisan-geometri-jumlah-ke-3-bilangan-tsb-ad-686",
+            "question": "3 bilangan membentuk barisan geometri jumlah ke-3 bilangan tsb adalah 14, dan hasil kalinya adalah 64.tentukan 3 bilangan tsb?    dengan cara barisan geometri!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "U\u2081 x U\u2082 x U\u2083 = 64 <br>sifat barisan geometri : U\u2081 x U\u2083 = U\u2082\u00b2 <br>maka didapat : U\u2082\u00b3 = 64 ----&gt; U\u2082 = 4 dan U\u2081 x U\u2083 = 16 ..... pers (1)<br>U\u2081 + U\u2082 + U\u2083 = 14<br>U\u2081 + 4 + U\u2083 = 14 ----&gt; U\u2081 + U\u2083 = 10 ......pers (2) <br>dari pers 1 dan pers 2 didapat bilangan yang hasil kalinya 16 dan hasil jumlahnya 10 adalah 2 dan 8 <br>jadi bilangan yang dimaksud adalah 2 , 4 dan 8 <br><br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "ketiga bilangan tersebut adalah 2,4,8<br>\u00a0dengan rasio = 2",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-akar-akar-dari-persamaan-3x-2-x-6-0-pake-cara-365",
+            "question": "Tentukan akar-akar dari persamaan: 3x\u00a0\u00b2\u00a0- x + 6 = 0\r\n\r\npake cara melengkapkan kuadrat",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>3x\u00a0\u00b2\u00a0- x + 6 = 0<br></span>(3x - 3)(x + 2)<br>x = 3/3\u00a0=\u00a01 atau x= -2<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-percobaan-mengundi-uang-logam-rp-10000-sebanyak-2-kali-208",
+            "question": "Tentukan Percobaan mengundi uang logam Rp. 100,00 sebanyak 2 kali",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "ruang sampel = gambar (G) dan angka (A)<br>pengundian uang logam 100 sebanyak dua kali --&gt; masing-masing sisi punya peluang 2/4 atau 1/2 <br>P(A)=2/4<br>P(G)=2/4<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-keuntungan-produksi-radio-x-unit-x2140-x100-dan-ha-437",
+            "question": "Jika keuntungan produksi radio x unit\u00a0=\u00a0\u00a0x^2+140 x+100. dan harga jual satu radio\u00a0= 200 \u2013 2 x, maka jika jual x unit =\u00a0x(2oo \u2013    2 x). rumus keuntungan = harga jual - biaya produksi. jadi\u00a0=\r\n (200 x \u2013 2x^2)\u2013(x^2+ 140 x +\r\n 100). sdh ditemukan jika ingin mencapai keuntungan max maka perlu mejual 30 unit radio. tapi jika di subtitusi ke rumus keuntungan kenapa jadi rugi?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Xnya kalo gak salah adalah 10<br>jika disubtitusikan (200x-2[tex]10^{2} [/tex])-([tex]10^{2} [/tex]+140x+100<br>=(2000-200)-(100+1400+100)<br>=1800-1400<br>=400<br><br>keuntungannya 400 \u00a0",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

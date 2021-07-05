@@ -1,0 +1,126 @@
+{
+    "question": "sebuah barisan aritmetika mempunyai suku ke 7 adalah 20., suku terakhir 44, dan jumlah 3 suku pertama adalah 12. suku tengah barisan ini adalah...",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "u7=20<br>a+6b=20<br><br>u1+u2+u3=12<br>a+a+b+a+2b=12<br>3a+3b=12<br>a+b=4<br><br>eliminasikan persamaan a+6b=20 dan a+b=4<br>didapat b=[tex] \\frac{16}{5} [/tex]dan a=[tex] \\frac{4}{5} [/tex]<br>Un=44<br>a+(n-1)b=44<br>4/5 + (n-1) 16/5 =44<br>4/5 + 16/5 n - 16/5 =44<br>4/5 n= 44+ 12/5<br>4/5 n =[tex] \\frac{220+12}{5} [/tex]<br>n=58<br><br>yg dicari tengah2 n berarti n:2=58:2=29<br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "bentuk-sederhana-dari-4a-2-2a3-tolong-jelaskan-secara-310",
+            "question": "Bentuk Sederhana dari (4a)-\u00b2 \u00d7 (2a)\u00b3 =\r\n\r\n\r\ntolong jelaskan secara detail, lagi pemula ni..?!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "4^-2 . a^-2 .2^3 . a ^3<br>1/4^2 .8 . a^(-2)+3<br>1/16 . 8 . a^1<br>16 sama 8 nya sama2 bisa dibagi 8. jadi coret<br>1/2a atau 2^-1a<br><br>^= dibaca pangkat yaa<br>soalnya darisini gabisa di superscript",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "transpos-matriks-m-adalah-tolong-dijelaskan-230",
+            "question": "Transpos matriks M adalah ...\r\ntolong dijelaskan..",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "gol indonesia menang 3gol dari ac milan<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dik-fx-x2-dan-g-lingkaran-f-x-x23x2-fungsi-gx-900",
+            "question": "Dik: f(x) =x+2 dan (g lingkaran f ) (x)= x2+3x+2, fungsi g(x).................",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]gof(x)=x^2+3x+2\\\\\ng(f(x))=x^2+3x+2\\\\\ng(x+2)=x^2+3x+2\\\\\ng(x+2)=x^2+4x+4-x-2\\\\\ng(x+2)=(x+2)^2-(x+2)\\\\\ng(x)=x^2-x[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dari-sebuah-kotak-yang-berisi-8-buah-bola-berwarna-merahdan-6-b-423",
+            "question": "Dari sebuah kotak\u00a0 yang berisi 8 buah bola berwarna merahdan 6 buah bola berwarna biru,diambil 3 buah bola berwarna sekaligus secara acak .Peluang terambil 2 buah bola berwarna merah dan 1 buah bola berwarna biru",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "biru,karena 2 bola yang sudah di ambil adalah bewarna merah",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "3-bil-membentuk-barisan-aritmatika-jika-suku-ke-3-ditambah-3-dan-922",
+            "question": "3 bil membentuk barisan aritmatika jika suku ke 3 ditambah 3 dan suku ke 2 dikurangi 1, diperoleh barisan geometri, jika suku ke 3 barisan aritmatika ditambah 8 maka hasilnya menjadi 5 kali suku pertama. tentukan beda dari barisan aritmatika tersebut",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a-b,a,a+b ...... \u00a0 BA<br>a-b,a-1,a+b+3 ........ \u00a0 \u00a0BG \u00a0 \u00a0\u00a0 maka (a-1)^2= (a-b)(a+b+8) \u00a0 \u00a0persamaan 1<br>a+b+8=5(a-b)&lt;=&gt; 8= 4a - 6b &lt;=&gt; 4 = 2a - 3b...pers 2<br>pers 1 dan 2 \u00a0didapat 4a^2-43a-11=0 didapat a= - 1/4 atau a= 11<br>a= 11 maka b = 6<br>a = - 1/4 maka b = - 3/2",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "selisih-dua-buah-bilangan-sama-dengan-hasil-kalinya-dan-jumlah-ke-135",
+            "question": "Selisih dua buah bilangan sama dengan hasil kalinya dan jumlah kebalikannya adalah 5. Tentukan bilangan-bilangan itu.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1/a + 1/b=5<br>1/a=5 - 1/b..................................(i)<br><br>1/a + 1/b=5<br>(5 - 1/b) + 1/b = 5<br>5 - 1/b + 1/b = 5<br>5b/b-1/b+1/b = 5<br>(5-1+1)/b = 5<br>5/b=5<br>5=5b<br>b=1.................. (ii)<br><br>1/a + 1/b=5<br>1/a + 1/1=5<br>1/a+1=5<br>1/a=4<br>1=4a<br>a=1/4.....................(iii)<br><br><br>jadi a = 1/4 b= 1<br><br>jadikan jawaban terbaik kak :D<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "rumus-keliling-segitiga-apa-aku-lupa-hehehe-230",
+            "question": "Rumus keliling segitiga apa ? aku lupa hehehe",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "sisi 1 + sisi 2 + sisi 3\u00a0<br>jadi hanya tinggal menjumlahkan ketiga sisinya saja :)",
+                    "attachments": []
+                },
+                {
+                    "answer": "keliling =\u00a0sisi + sisi + sisi",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "panjang-busur-lingkaran-dengan-sudut-pusat-120-dan-panjang-diam-570",
+            "question": "Panjang busur lingkaran dengan sudut pusat 120\u00b0 dan panjang diameter 21 cm adalah..",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "21.98 jadi 22<br>cari keliling dulu, trs 120/360.kliling lingkaran",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-lengkapilah-tabel-berikut-p-p-q-q-pltgtq-p-415",
+            "question": "Tolong lengkapilah tabel berikut    p , ~p, q , ~q, p&lt;=&gt;q, ~(p&lt;=&gt;q), p^~q, ~p^q, (p^~q) v (~p^q)\r\nB \u00a0 \u00a0S \u00a0B \u00a0 S \u00a0 \u00a0 \u00a0B \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 S \u00a0 \u00a0 S\r\nB \u00a0 \u00a0S \u00a0S \u00a0 B \u00a0 \u00a0 \u00a0S \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 B \u00a0 \u00a0 S\r\nS \u00a0 \u00a0B \u00a0B \u00a0 S \u00a0 \u00a0\u00a0 S \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 S \u00a0 \u00a0 B\r\nS \u00a0 \u00a0B \u00a0S \u00a0 B \u00a0 \u00a0 \u00a0B \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 S \u00a0 \u00a0 S\r\n\r\ntolong lengkapi yang kosong itu ya, saya mohon karena ini penting",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>p , ~p, q , ~q, p&lt;=&gt;q, ~(p&lt;=&gt;q), p^~q, ~p^q, (p^~q) v (~p^q)<br>B \u00a0 \u00a0S \u00a0B \u00a0 S \u00a0 \u00a0 \u00a0B \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0S \u00a0 \u00a0 \u00a0 \u00a0 S \u00a0 \u00a0 S \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 S<br>B \u00a0 \u00a0S \u00a0S \u00a0 B \u00a0 \u00a0 \u00a0S \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0B \u00a0 \u00a0 \u00a0 \u00a0B \u00a0 \u00a0 S \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0B<br>S \u00a0 \u00a0B \u00a0B \u00a0 S \u00a0 \u00a0\u00a0 S \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 B \u00a0 \u00a0 \u00a0 \u00a0 \u00a0S \u00a0 \u00a0 B \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 B<br>S \u00a0 \u00a0B \u00a0S \u00a0 B \u00a0 \u00a0 \u00a0B \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 S \u00a0 \u00a0 \u00a0 \u00a0 \u00a0S \u00a0 \u00a0 S \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 S</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebutkan-contoh-domainkodomaindan-range-519",
+            "question": "Sebutkan contoh domain,kodomain,dan range ;)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Domain adalah Daerah Asal<br>Kodomain adalah Daerah Kawan<br>Range adalah daerah Hasil..<br><br>Misalnya ada sebuah contoh soal Relasi<br>\"1 Kurangnya Dari\", dan Domainnya adalah A={0,1,2,3,4}<br>Kodomainnya adalah B={1,2,3,4,5}<br>Maka Rangenya adalah R={(Domain,Kodomain)}--&gt; R={(0,1)(1,2)(2,3)(3,4)(4,5)}<br>Dibacanya R={(0 satu kurangnya dari 1) (1 satu kurangnya dari 2) dst..}<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

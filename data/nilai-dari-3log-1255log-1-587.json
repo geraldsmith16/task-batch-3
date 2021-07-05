@@ -1,0 +1,148 @@
+{
+    "question": "Nilai dari \u00b3log 125.\u2075log 1\r\n\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 3",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "<span>\u00b3log 125. \u2075 log 1/3</span>\n<br><span>=\u00a0 \u00b3 log 5\u00b3\n. \u2075 log 1/3</span><br>\u00a0<span>= 3. \u00b3 log 5 . \u2075 log 1/3</span>\n<br><span>= 3. \u00b3 log 1/3</span>\n<br><span>= 3. \u00b3 log 3 \u207b\u00b9</span><br>\u00a0<span>= 3. -1. \u00b3 log 3</span><br>\u00a0= 3. -1<br>\u00a0= -3<br><br><br>",
+            "attachments": []
+        },
+        {
+            "answer": "[tex] 3_{log} 125 .  5_{log}   \\frac{1}{3}    \\\\ =  3_{log} 5^{3} . 5_{log}   \\frac{1}{3}  \\\\  = 3. 3_{log} 5 . 5_{log}   \\frac{1}{3} \\\\ = 3. 3_{log}  \\frac{1}{3}  \\\\ = 3. (-1)  \\\\  = -3[/tex]<br><br>maaf kalo salah..",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "jika-akar-akar-persamaan-ax2-5x-12-0-adalah-2-dan-b-maka-4-504",
+            "question": "Jika akar akar persamaan ax\u00b2 + 5x -12 = 0 adalah 2 dan b, maka 4a\u00b2 - 4ab + b\u00b2 = .....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "x=2 &lt;=&gt; ax\u00b2+5x-12=0<br>\u00a0 \u00a0 \u00a0 \u00a0&lt;=&gt; 4a+ 10 - 12=0<br>\u00a0 \u00a0 \u00a0 \u00a0&lt;=&gt; 4a = 2<br>\u00a0 \u00a0 \u00a0 &lt;=&gt; a = 1/2<br>jadi persamannya 1/2 x\u00b2+5x - 12 = 0 semua kalikan 2<br>\u00a0 \u00a0 \u00a0&lt;=&gt; x\u00b2+ 10x - 24 = 0<br>\u00a0 \u00a0 \u00a0&lt;=&gt; ( x - 2) (x + 12) = 0<br>\u00a0 \u00a0 \u00a0&lt;=&gt; x = 2 atau x = - 12 = b<br>jadi 4a\u00b2 - 4ab + b\u00b2 = 1 - 4.. 1/2 . (-12) + 12\u00b2\u00a0<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 1 +24+144 = 169",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dari-angka-angka-12468-dan-9-akan-disusun-3-angka-berbeda-p-326",
+            "question": "dari angka angka 1,2,4,6,8, dan 9 akan disusun 3 angka berbeda. peluang kejadian muncul angka genap kurang dari 500 adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "angka genap kurang dari 500.<br><br><strong>seratusan</strong><br>1 x 4 x\u00a04 = 16<br><strong>2-ratusan</strong><br>1 x 4\u00a0x 3 = 12<br><strong>4-ratusan</strong><br>1 x 4 x 3 = 12<br>16 + 12 + 12 = 40<br><br>Semesta = 4\u00a0x\u00a05\u00a0x\u00a06 = 120<br><br>[tex]Peluang =  \\frac{40}{120} = \\frac{1}{3} [/tex]<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "hitung-jumlah-bilangan-yg-habis-dibagi-3-tapi-tidak-habis-dibagi-361",
+            "question": "Hitung jumlah bilangan yg habis dibagi 3 tapi tidak habis dibagi 5. Dari 1-75\r\ntolong bantuuu u.u",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "3,6,9,12,18,21,24,27,33,36,39,42,48,51,54,57,63,66,69,72<br>berarti jumlah ada 20 bilangan yang habis dibagi 3 dan tidak habis dibagi 5",
+                    "attachments": []
+                },
+                {
+                    "answer": "3, 6.9.12,18,21,24,27,33,36,39,42,48,51,54,57,63,66,69,72<br><br>jadi ada 20",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "ibu-membeli-40-kg-gula-pasir-gula-itu-akan-dijual-eceran-denga-816",
+            "question": "\u00a0Ibu membeli 40 kg gula pasir. Gula itu akan dijual eceran dengan dibungkus plastik masing-masing beratnya\u00a0\u00a0kg. Banyak kantong plastik berisi gula yang dihasilkan adalah........    A.10 kantong\r\nB.80 kantong\r\nC.120 kantong\r\nD.160 kantong",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "40 kg x 2<br>= 80 kantong<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "A. 40:10= 4 kg<br>B. 40:80=1/2 kg<br>C. 40:120= 1/3 kg<br>D. 40:160=1/4 kg",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-dijawab-ya-442",
+            "question": "Tolong dijawab ya :)",
+            "attachments": [
+                "question-attachments/tolong-dijawab-ya-442-1.docx"
+            ],
+            "answers": [
+                {
+                    "answer": "apaan itu kk itu pel kls brp<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dik-fx-x2-dan-g-lingkaran-f-x-x23x2-fungsi-gx-900",
+            "question": "Dik: f(x) =x+2 dan (g lingkaran f ) (x)= x2+3x+2, fungsi g(x).................",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]gof(x)=x^2+3x+2\\\\\ng(f(x))=x^2+3x+2\\\\\ng(x+2)=x^2+3x+2\\\\\ng(x+2)=x^2+4x+4-x-2\\\\\ng(x+2)=(x+2)^2-(x+2)\\\\\ng(x)=x^2-x[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "ada-yang-ngerti-limit-trigonometri-ga-972",
+            "question": "Ada yang ngerti limit trigonometri ga???",
+            "attachments": [
+                "question-attachments/ada-yang-ngerti-limit-trigonometri-ga-972-1.docx"
+            ],
+            "answers": [
+                {
+                    "answer": "nih dek, cb dipelajari",
+                    "attachments": [
+                        "answer-attachments/ada-yang-ngerti-limit-trigonometri-ga-972-1.docx"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "suku-ke-4dan-suku-ke-7-suatu-barisan-geometri-berturut-trut-adlh-742",
+            "question": "Suku ke 4dan suku ke 7 suatu barisan geometri berturut trut adlh 128 dan 8.192    brapakh suku ke 6................",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "n=2<br>suku<br>1=2<br>2=4<br>3=32<br>4=128<br>5=512<br>6=2048<br>7=8192<br>tinggal dipilih deh jawaban yg dicari :)<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "u4 : a+3b = 128<br>u7 : <u>a+6b = 8192</u><br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 -2b = -8064<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 b = <u>-8064</u><br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 -2<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 b = 4032<br>a+6b = 8192<br>a+6(4032) = 8192<br>a+24192 = 8192<br>a = 8192 - 24192<br>a = -16000<br><br>maka, <br>u6 = a+5b<br>= -16000+5(4032)<br>=\u00a0 -16000+20160<br>= 4160<br>\u00a0kalo nggak salah<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "banyak-anggota-matriks-adalah-170",
+            "question": "Banyak anggota matriks\u00a0 adalah....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "antara 12 dan\u00a0tidak ada........................",
+                    "attachments": []
+                },
+                {
+                    "answer": "jelaskan awal mula berdirinya kerajaan singhasari<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bentuk-sederhana-dari-3-akar-81-2-akar-27-3-akar-243-445",
+            "question": "Bentuk sederhana dari 3\u00a0akar 81 - 2 akar 27 + 3 akar 243",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex] \\sqrt[3]{81} = 9 -  \\sqrt[2]{27} = 13,5 +  \\sqrt[3]{243} = 81\u00a0<br>9-13,5+81= 76,5",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

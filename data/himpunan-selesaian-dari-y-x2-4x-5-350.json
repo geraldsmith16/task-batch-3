@@ -1,0 +1,134 @@
+{
+    "question": "Himpunan selesaian dari y\u00a0\u2264\u00a0x\u00b2\u00a0+\u00a04x\u00a0-\u00a05",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "y \u2264 x\u00b2 + 4x - 5<br>y \u2264 (x-5) (x+1)<br>y \u2264 x-5\u00a0 //\u00a0  y \u2264 x+1<br>y-x \u2264 -5\u00a0 //\u00a0  y-x \u2264 1<br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "materi-trigonometri-hitunglah-bentuk-berikut-dengan-menggunaka-883",
+            "question": "MATERI ; TRIGONOMETRI.    Hitunglah bentuk berikut dengan menggunakan rumus setengah sudut.\r\n1. tan 22,5 =\r\n2. cos 22,5 =",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "b. cos 22,5 =\u00a01/2 . 45<br>\u221a1+cos 45 : 2<br>\u221a1 + 1/2\u221a2 :2<br>\u221a2+\u221a2 \u00a0: 4<br>1/2\u00a0\u221a2+\u221a2",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "contoh-soal-persamaan-dan-fungsi-kuadrat-585",
+            "question": "Contoh soal persamaan dan fungsi kuadrat ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]tentukan\\ akar-akar\\ dari\\ persamaan\\ kuadrat:x^2-x+1=0\\\\\\\\\ntentukan\\ titik\\ puncak\\ fungsi\\ f(x)=x^2-x+1\\\\[/tex]",
+                    "attachments": []
+                },
+                {
+                    "answer": "Selisih 2 bilangan bulat adalah 9. Jika hasil kali kedua bilangan tersebut adalah 36. Tentukan nilai dari kedua bilangan tersebut..<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-barisan-aritmatika-dengan-suku-ke-9-51-dan-suku-ke-1-530",
+            "question": "diketahui barisan aritmatika dengan suku ke-9 = 51, dan suku ke 13 = 79. suku ke -6 adalah, tolong beri cara\" nya juga kawan,,, \u00a0 \u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "diket : U9= 51, U13 =79 ,a\u00a0= -5, b = 7,\u00a0\u00a0<br>tanya : U6<br>jawab : u6 = a+ (n-1) b<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = -5 + (6-1)7<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = -5 + 5.7<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = -5 + 35<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 30<br>\u00a0 \u00a0\u00a0",
+                    "attachments": []
+                },
+                {
+                    "answer": "U9 = 51<br>U13 =\u00a079<br><br>U13 - U9 = 4b = 79 - 51<br>4b = 28<br>b = 7<br><br>U6 = U9 - 3b = 51 - 3(7)<br>U6 = 51 - 21<br>U6 = 30",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-bantu-saya-ya-suku-suku-barisan-geometri-tak-hingga-ada-754",
+            "question": "Tolong bantu saya ya :)    suku-suku barisan geometri tak hingga adalah positif, jumlah u1+u2=60, dan u3+u4=15,\r\ntentukan jumlah suku barisan itu!\r\nterimakasih (pakai cara ya sobat)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]a+ar=60 \\rightarrow a(1+r)=60\\\\\nar^2+ar^3=15 \\rightarrow ar^2(1+r)=15\\\\\nr^2(a(1+r))=15\\\\\nr^2(60)=15\\\\\nr^2=\\frac{15}{60}\\\\\nr^2=\\frac{1}{4}\\\\\nr=\\frac{1}{2}\\ atau\\ r=-\\frac{1}{2}(TM,\\ karena\\ suku-sukunya\\ positif)\\\\\na(1+r)=60\\\\\na(1+\\frac{1}{2})=60\\\\\na=\\frac{60}{\\frac{3}{2}}\\\\\na=40\\\\\nS_{\\infty}=\\frac{a}{1-r}\\\\\nS_{\\infty}=\\frac{40}{1-\\frac{1}{4}}\\\\\nS_{\\infty}=\\frac{160}{3}[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-3log-2-x-dan-2log-5y-nilai-5log-15-beserta-car-876",
+            "question": "Diketahui\u00a03log 2 = x dan\u00a0\r\n 2log 5=y. Nilai 5log 15 =\r\n\r\n\r\nBeserta caranya ya",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "3log2= x , diubah jadi 2log3=1/x<br>2log5=y<br><br>5log15 = 2log15 / 2log5<br>= 2log 3 x 2log5 / 2log5<br>= 1/x + y / y<br>= ( y + xy /xy) / y<br>= y + xy / y(xy)<br>= y + xy / xy^2<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-suatu-barisan-aritmetika-136-131-75-127-5-jik-991",
+            "question": "Diketahui suatu barisan aritmetika : 136; 131, 75; 127, 5;... Jika suku ke-n barisan tersebut bernilai nol, n = ...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a= 136<br>b= 131-136= -5<br>Un = a+(n-1)b<br>\u00a00\u00a0 = 136+(n-1)-5<br>\u00a00\u00a0 = 136-5n+5<br>\u00a00\u00a0 =\u00a0 141-5n<br>\u00a05n = 141-0<br>\u00a0 n = 141\u00f75 = 28<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-persamaan-lingkaran-yang-melalui-titik-20-11-3-3-897",
+            "question": "Tentukan persamaan lingkaran yang melalui titik (2,0) (1,1) (3,-3). tolong bantu yaaaa:)))",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "masukan titik\u00a0(2,0) (1,1) (3,-3) ke dalam rumus\u00a0Persamaan lingkaran \u00a0x2 + y2 + ax + by + c = 0, satu persatu dgn menganti nilai x dan y dgn titik tersebut kemudian cari nilai a,b, dan c dgn subtitusi<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-jika-x1-dan-x2-akar-akar-2xkuadrat-10x4-0-nilai-dari-x-912",
+            "question": "1. jika\u00a0 x1 dan x2\u00a0 akar akar 2xkuadrat-10x+4 = 0, nilai dari x1kuadrat+x2kuadrat-3x1x2=    \u00a0\u00a0 \u00a0 A. 20\r\n\u00a0\u00a0 \u00a0 B. 15\r\n\u00a0\u00a0 \u00a0 C. 10\r\n\u00a0\u00a0 \u00a0 D.\u00a0 5\r\n\u00a0\u00a0 \u00a0 E.\u00a0 1",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "2x\u00b2-10x+4 = 0<br>x1+x2= 5 dan x1.x2=2<br>x1\u00b2+x2\u00b2-3x1x2=(x1+x2)\u00b2- 2x1x1 - 3x1x2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0=(x1+x2)\u00b2-\u00a05x1x2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 25-10<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 15",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jawablah-pertanyaan-berikut-ini-dengan-benar-4-diketahui-pernyat-491",
+            "question": "Jawablah pertanyaan berikut ini dengan benar    4. Diketahui pernyataan-pernyataan:\r\n\u00a0\u00a0 p : Hari ini hujan deras\r\n\u00a0\u00a0 q : Hari ini berangin kencang.\r\n\u00a0\u00a0 Tentukan pernyataan-pernyataan majemuk yang dinyatakan dengan notasi berikut ini.\r\n\u00a0\u00a0 a. p ^ q\r\n\u00a0\u00a0 b. q ^ p\r\n\u00a0\u00a0 c. ~p ^ q\r\n\u00a0\u00a0 d. ~(p ^ q)\r\n\u00a0\u00a0 e. ~(p ^ ~q)\r\n\u00a0\u00a0 Jawabanya :\r\n\r\ntolong jawab secepatnya\r\n\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a.hari ini hujan deras dan hari ini berangin kencang<br>b.hari ini berangin kencang dan hari ini hujan deras<br>c.hari ini tidak hujan deras dan hari ini berangin kencang<br>yang d sama e nunggu komentar dari orang lain aja ya :)<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "a. hari ini hujan deras dan berangin kencang<br>b. hari ini berangin kencang dan hujan deras<br>c. hari ini tidak hujan deras dan berangin kencang<br>d. hari ini tidak hujan deras atau tidak berangin kencang<br>e. hari ini tidak hujan deras atau berangin kencang<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "contoh-perhitungan-uji-kenormalan-data-dengan-mengunakan-tabel-go-601",
+            "question": "Contoh perhitungan uji kenormalan data dengan mengunakan tabel goodness of fit",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Ini sepertinya soal per kuliahan ini, goodness of fit adalah uji untuk mengetahui tingkat normalitas dari sebuah data agar dipastikan terhindar dari autokorelasi, heteroskedastisitas, dan multikolininearitas <br><br>Saya kurang tahu apakah di tingkat SMA hal ini sudah diajarkan, tapi karena ditanyakan maka saya berusaha menjawab. <br><br>Untuk uji auto korelasi berfungsi mencari apakah ada gangguan pada data karena data yang digunakan berhubungan dengan data pada periode peridoe sebelumnya yang membuat sampel random menjadi tidak efektif. Rule of thumb nya pake uji durbit watson.<br>Kemudian untuk uji heterokedastisitas adalah menguji apakah ada varian yang besar sehingga membuat standar deviasi melebihi rata ratanya dan membuat bias dalam membaca hasil. Kalau ini bisa menggunakan uji table t.<br>Sedangkan uji multikolineritas adalah mencari apakah hubungan antar variabel independen lebih besar dari dependen kalau ini menggunakan uji F -test.<br><br>Kalau model sudah terbebas dari semua kesalahan ini (3) maka bisa dilihat dari tabel anova apakah adj r square nya besar. Contoh apabila r square nya (50%) maka artinya 50% dari fenomena yang diteliti bisa dicari / direpresentasikan dengan model tersebut.<br><br>Materi ini sudah masuk ke materi ekonometri untuk anak kuliah tingkat akhir, tapi dibahas tidak apa apa karena berkaitan juga dengan matematika.\u00a0 <br><br>Sukses ya<br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

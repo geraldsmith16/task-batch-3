@@ -1,0 +1,138 @@
+{
+    "question": "Persamaan garis yang melali titik (3,3) sejajar dengan garis y=2x-4",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "sejajar berarti gradien sama<br>maka gradien garis tersebut adalah 2<br>(3,3) adalah titik (x1,y1)<br><br>y - y1 = m ( x - x1)<br>y - 3 = 2 ( x - 3)<br>y - 3 = 2x - 6<br>y = 2x - 6 + 3<br><strong>y = 2x - 3</strong><br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "pada-suatu-lingkaran-dengan-pusat-o-di-ketahui-titik-a-b-c-dan-439",
+            "question": "pada suatu lingkaran dengan pusat O di ketahui titik A, B, C, dan D pada keliling lingkaran, sehingga sudut AOB = 35 derajat dan sudut\u00a0 COD = 140 derajat. jika panjang lengkung AB = 14 cm , hitunglah panjang lengkung CD",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "panjang\u00a0lengkung cd=56",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "gan-jika-24m-12-itu-jawabanya-brp-sih-ganama-kasih-tau-caranya-636",
+            "question": "Gan jika 24m = 12 itu jawabanya brp sih gan,ama kasih tau caranya ane masih bingung",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "pindah ruas aja\u00a0<br>m = 12 / 24 = 1/2",
+                    "attachments": []
+                },
+                {
+                    "answer": "24M=12<br>M=12/24<br>M=1/2<br>Mungkin seperti ituu ya",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "p13579-tuliskan-semua-himpunan-bagian-yang-mungkin-dari-p-581",
+            "question": "P={1,3,5,7,9} tuliskan semua himpunan bagian yang mungkin dari p dan hitung banyaknya",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "kalau 1 anggotanya = 5<br>kalau 2 anggotanya = 10<br>kalau 3 anggotanya = 10<br>kalau 4 anggotanya = 5<br>kalau 5 anggotanya = 1<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-penyelesaian-dari-pertidak-samaan-brikut-6x-18-gt-668",
+            "question": "Tentukan penyelesaian dari pertidak samaan brikut : 6x - 18 &gt; 18\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "\u00a0 6x - 18 &gt; 18<br>(=)6x - 18 + 18 &gt; 18+ 18<br>(=)6x\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 &gt; 36<br>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 x &gt; 36/6<br>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 x &gt; 6\u00a0\u00a0\u00a0 <br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "[tex]6x&gt;18+18 \\\\6x&gt;36 \\\\ x&gt;6[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "akhmad-menabung-uang-di-bank-rp-120000000-setelah-5-bulan-ia-m-595",
+            "question": "akhmad menabung uang di bank rp 1.200.000.00 setelah 5 bulan ia menerima jasa rp 45.000.00 suku bunga pertahun di bank tersebut adalah ... %",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "bunga = modal x n/12 x %bunga<br>45000 = 1200000 x 5/12 x %bunga<br>45000 = 500000 x %bunga<br>45000/500000 = %bunga<br>0,09 = %bunga<br>9%\u00a0 = %bunga<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "siapa-penemu-lingkaran-317",
+            "question": "Siapa penemu lingkaran ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span><span>\u00a0</span><span>Zu Chongzhi<br><br>maaf kalau salah :)</span></span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-suku-ke-5-dan-suku-ke-8-barisan-aritmetika-masing-masin-963",
+            "question": "diketahui suku ke-5 dan suku ke-8 barisan aritmetika masing masing 16 dan 25 . jumlah 22 suku pertama ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]U_{8} - U_{5} = a + 7b - (a + 4b) = 9 \\\\ 3b = 9 \\\\ b = 3, a = 4 \\\\ S_{22} =  \\frac{22}{2}(8+63) = 11.71 = 781 [/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "hitunglah-luas-dan-keliling-lingkaran-yang-berjari-jari-21-cm-809",
+            "question": "Hitunglah:    luas dan keliling lingkaran yang berjari - jari 21 cm. \r\nluas dan keliling lingkaran yang berdiameter 6,28 cm.\r\nluas dan keliling lingkaran yang berjari - jari 4,2 cm",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1) r:21cm --&gt;L:1386cm\u00b2 --&gt; K:132cm<br>2)d: 6,28 --&gt;L:30,959144cm\u00b2 --&gt; K:19,7192cm<br>3)r:4,2 --&gt; L:55,44cm\u00b2 --&gt; K:26,4cm",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "ketika-noni-berumur-12-tahunlili-dilahirkanjumlah-umut-noni-282",
+            "question": "\u00a0 ketika noni berumur 12 tahun,lili dilahirkan.jumlah umut noni dan lili sekarang 27 tahun. berapa tahun umur noni sekarang..?? \u00a0 DIJAWAB YAA PLISSSS \u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Noni = 12 tahun ---&gt; x + 12<br>Lili = 0 tahun --&gt; x<br>x + 12 + x = 27<br>2x + 12 = 27<br>2x = 27 - 12<br>2x = 15<br>x = 7,5<br><br>Noni = 7,5 + 12 = 19,5 th<br>Lili = 7,5 th<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "12 + x + x = 27<br>12 + 2x = 27<br>2x = 27 - 12<br>2x = 15<br>x = 7,5 tahun<br>atau 7 tahun 6 bulan<br><br>noni = 12 + 7,5 = 19,5 tahun<br>atau 19 tahun 6 bulan",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jari-jari-sebuah-roda-adalah-84-cm-jika-sepeda-tersebut-menempuh-916",
+            "question": "jari jari sebuah roda adalah 84 cm. jika sepeda tersebut menempuh jarak 264 meter, maka roda sepeda harus berputar sebanyak?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "jari jari sebuah roda adalah 84 cm. jika sepeda tersebut menempuh jarak 264 meter, maka roda sepeda harus berputar sebanyak?<br>\u00a0kel = 2 x phi x r<br>\u00a0 \u00a0 \u00a0 = 2 x 22/7 x 84<br>\u00a0 \u00a0 \u00a0 = 2 x 12 x 22<br>\u00a0 \u00a0 \u00a0 = 528<br>banyak putar = 26400/528<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 50",
+                    "attachments": []
+                },
+                {
+                    "answer": "Keliling roda = 2.pi.r<br>= 2. 22/7 . 168<br>= 1056 cm<br>Jarak dalam cm = 264\u00d7100<br>= 26.400<br>Perlu berapa kali roda berputar?<br>26.400 : 1056<br>= 25 kali<br>Semoga betul dan dapat membantu ^^<br><br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

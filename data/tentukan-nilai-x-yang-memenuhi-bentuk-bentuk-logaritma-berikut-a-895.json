@@ -1,0 +1,134 @@
+{
+    "question": "Tentukan nilai x yang memenuhi bentuk bentuk logaritma berikut\r\na. 3log 27 = x\r\nb. 5 log 625 =x",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "x = 3 log 27 <br>\u00a0\u00a0 = 3 log 3\u00b3<br>\u00a0\u00a0 = 3<br><br>x = 5 log 625 <br>\u00a0\u00a0 = 5 log 5\u2074<br>\u00a0\u00a0 = 4<br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "matriks-himpunan-nilai-a-yang-memenuhi-hubungan-invers-a-a-tr-736",
+            "question": "Matriks, himpunan nilai a yang memenuhi hubungan invers A\u00a0= A transpos adalah..    di ketahui\u00a0A =\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]  \\left[\\begin{array}{ccc}a&amp;a\\\\-a&amp;a\\end{array}\\right] [/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-keliling-suatu-lingkaran-77-cm-panjang-jari-jari-lingkaran-te-685",
+            "question": "1. Keliling suatu lingkaran 77 cm, panjang jari-jari lingkaran tersebut berapa?    2. Diketahui tali busur AB melalui pusat lingkaran dengan panjang AB = 20 cm, berapakah luas lingkaran?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1. k = 2 phi r<br>77 = 2 . 22/7 . r<br>11 = 44 r<br>r = 0,25<br><br>bagian kedua ntar ya, mau mandi bentar -_-",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-rumus-invers-dr-fungsi-brikut-a-fxx-3-b-fx2x5-436",
+            "question": "Tentukan rumus invers dr fungsi\" brikut:    a. f(x)=x-3\r\nb. f(x)=2x+5\r\nc. f(x)=2-seperdua x\r\nd. f(x)=x3\r\ne. f(x)= 6per x, tidak sama dengan 0\r\nf). f(x)= 2 per x-1, x tidak sama dengan 1\r\ng). f(x)=2x-3 per 4x-1, xtidak sama dengan seperempat\r\nh). f(x)= 3x+5 per x-5, x-5 tidak sama dengan 0.\r\nthanks bg yang bs jwb.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "perhatikan caranya : f(x) = x+ 3<br>&lt;=&gt; y = x + 3<br>&lt;=&gt; x = y - 3<br>&lt;=&gt; finvers(y) = y - 3\u00a0<br>jadi finvers (x) = x - 3 \u00a0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "carilah-persamaan-lingkaran-yang-melengkapi-segitiga-siku-siku-ya-417",
+            "question": "carilah persamaan lingkaran yang melengkapi segitiga siku-siku yang titik-titik sudutnya adalah(0,0)(8,0)(0,6) ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "8x+6y klo gak salah\u00a0<br>harap dimaklumi\u00a0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dengan-cara-melengkapkan-kuadrat-sempurna-tentukan-akar-akar-pers-430",
+            "question": "Dengan cara melengkapkan kuadrat sempurna tentukan akar-akar persamaan kuadrat berikut : 3xkuadrat-2x-3=0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "\u00a0\u00a01. Pindahkan konstanta ke ruas kanan \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 2. Bagilah kedua ruas dengan\u00a0 dengan a. \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a03. Jika koefisien x yang baru kita sebut b, maka tambah kedua ruas dengan \u00bdb2. \u00a0 \u00a0 \u00a0 \u00a0 <span>4. Ubah bentuk yang ada di ruas kiri menjadi kuadrat sempurna. \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a05. Hilangkan tanda kuadrat di sebelah kiri, sementara ruas kanan menyesuaikan dengan memberikan akar dan tanda \u00b1 di depannya \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a06. Pindahkan konstanta di ruas kiri ke ruas kanan \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 7. dengan memisahkan tanda plus dan minus maka kita peroleh dua nilai x, sehingga penyelesaian persamaan kuadarat sudah kita dapat.\u00a0</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-diketahui-gxx2-6x-hx7-3x-a-g0hx-b-h0g-254",
+            "question": "Jika diketahui g(x)=x\u00b2-6x, h(x)=7-3x\r\na. (g\u2080h)(x) =\r\nb. (h\u2080g)(x) =",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "g\u00a0o\u00a0h(x) = 49 - 42x +9x^2 - 6(7 - 3x)<br>=\u00a049 - 42x +9x^2 - 42 + 18x<br>=\u00a09x^2 - 24x + 7<br><br>h o g(x) = 7 - 3(x^2 - 6x)<br>= 7 - 3x^2 + 18x<br>= -3x^2 +18x +7",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span>g o h(x)<br>g (7-3x)<br>(7 - 3x)^2 - 6(7-3x)<br>49 - 42 + 9x^2 - 42 + 18x<br>9x^2 - 24x +7</span>\n    <span>\n                    \n                                    l<br></span> <span>h o g(x)<br>h (x^2 - 6x)<br>7 - 3(x^2 - 6x)<br>7 - 3x^2 + 18x<br>-3x^2 + 18x + 7</span><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "hasil-kali-dari-x-x1-x-x2-tolong-dijelaskan-secara-rinc-163",
+            "question": "Hasil kali dari (X - X1) (X- X2) ?? Tolong dijelaskan secara rinci :)\r\nthnks~ ;)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "dikali satu satu ruas kiri ke kanan =\u00a0<br>X^2-2X-X1X2",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span> (X-X1) (X-X2) = </span>[(X-X1)X + (X-X1)(-X2)<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 = X\u00b2-X1X+(-XX2)+X2X1)<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 X\u00b2-X1X-XX2+X2X1<br><br><br>Semoga membantu.<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "berapa-luas-daerah-yang-di-arsir-614",
+            "question": "\u00a0 Berapa Luas Daerah Yang di arsir\u00a0 ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "mana gambarnya yg mau di cari luasnya ???",
+                    "attachments": []
+                },
+                {
+                    "answer": "Daerah Mana Yang Dimaksud??<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-tan-3-p-maka-tan-228-adalah-574",
+            "question": "Jika tan 3 = p maka tan 228 adalah....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "tan 3=p maka tan 6 = 2 tan 3/(1-tan\u00b23p) = 2p/1-p\u00b2<br>tan 12= tan 2.6<br>tan 24 = tan 2 12<br>dan tan 48 = tan 2 24<br>tan 228 = tan ( 180+48)= tan \u00a048",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "contoh-dari-range-data-tunggal-713",
+            "question": "Contoh dari range data tunggal\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>Range adalah salah satu ukuran statistik yang menunjukan jarak penyebaran data antara nilai terendah (Xmin) dengan nilai\u00a0tertinggi (Xmax). Ukuran ini sudah digunakan pada pembahasan daftar distribusi frekuensi. Adapun rumusnya adalah<br>Contoh :\u00a0<span>Berikut ini nilai ujian semester dari 3 mahasiswa<br>A\u00a0= 60 55 70 65 50 80 40<br>B\u00a0= 50 55 60 65 70 65 55<br>C\u00a0= 60 60 60 60 60 60 60<br></span><span>Dari data diatas dapat diketahui bahwa<br>A\u00a0= memiliki Xmax=80, Xmin= 40 , R = 40 , meanya 60<br>B\u00a0= memiliki Xmax=70, Xmin= 50 , R = 20 , meanya 60<br>C\u00a0= memiliki Xmax=60, Xmin= 60 , R = 0 , meanya 60<br></span><span>Dari contoh di atas dapat disimpulkan bahwa :<br>a. Semakin kecil rangenya maka semakin homogen distribusinya<br>b. Semakin besar rangenya maka semakin heterogen distribusinya<br>c. Semakin kecil rangenya, maka meannya merupakan wakil yang representatif<br>d. Semakin besar rangenya maka meannya semakin kurang representatif</span></span>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

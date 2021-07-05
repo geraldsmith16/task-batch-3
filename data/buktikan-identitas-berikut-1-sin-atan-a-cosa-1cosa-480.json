@@ -1,0 +1,138 @@
+{
+    "question": "Buktikan identitas berikut!\r\n\r\n1. sin \u03b1tan \u03b1 + cos\u03b1 = 1/cos\u03b1",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "sin\u03b1 tan\u03b1 + cos\u03b1 = 1/cos\u03b1<br>ruas kiri kita rubah menjadi :<br>sin\u03b1.sin\u03b1/cos\u03b1 + cos\u03b1 <br>&lt;=&gt; sin\u00b2\u03b1 /cos\u03b1 + cos\u00b2\u03b1 / cos\u03b1 karena sin\u00b2\u03b1 + cos\u00b2\u03b1 = 1<br>&lt;=&gt; 1/cos\u03b1<br>terbuktikan?<br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "dalam-suku-deret-aritmatika-diketahui-suku-ke3-9-dan-suku-ke7-878",
+            "question": "Dalam suku deret aritmatika diketahui, suku ke3 = 9 dan suku ke7 = 37. suku ke 30 adalah...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "U3=9 -&gt; a+2b=9\nU7=37-&gt; a+6b = 37\n               ---------- -\n-4b = -28\n   b = 7 -&gt; a +2.7 = 9\n                 a= -5\nNanti tinggal disubsitusi ke\nUn = a+ (n- 1 ) b",
+                    "attachments": []
+                },
+                {
+                    "answer": "U3=9\u00a0<br>U7=37<br>-4b=-28<br>b=-28/-4<br>b=7<br><br>a+2b=9 \u00a0 \u00a0\u00a0a+2.7=9<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 a+14=9<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 a=-5<br><br>U30= a+(n-1)\u00a0b<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0-5+29.7<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0-5+203<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0198",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "ada-3-orang-anak-bernama-yoga-ragil-pengayom-anak-bertiga-it-547",
+            "question": "Ada 3 orang anak bernama , yoga, ragil, pengayom. anak bertiga itu iuran 5000 per orang. jadi semuanya terkumpul 15.000. lalu ketiga anak itu ingin membeli makanan seharga 10.000 dan menyuruh orang lain yang bernama dea. sisa uang tersebut tinggal 5.000. lalu dibagikan kembali 1000 per orang dan yang 2000 diberikan ke dea untuk upah membeli jajan. sama saja ketiga anak itu iuran 4000 kan ? jadi 4000 x 3 = 12000 + 2000 ( uang upah ) = 14.000 . dimana uang 1000 itu ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "kan iuranya 5000!!! kok bisa jadi 4000???<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "uang sisa\u00a01.000 x 3 = 3.000<br>uang dea 2.000<br>=&gt;\u00a03.000 + 2.000 = 5.000<br>membeli makanan 10.000<br><br>10.000 + 5.000 = 15.000<br>berarti jumlah uang mereka memang 15.000, bukan 14.000",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "persamaan-lingkaran-xi-sma-tentukan-persamaan-lingkaran-yang-me-878",
+            "question": "PERSAMAAN LINGKARAN - xi sma tentukan persamaan lingkaran yang melalui (0,0) dengan jari2 akar 5 dan titik pusatnya terletak pada garis y= x-1 \u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]misal\\ titik\\ pusatnya\\ (a,b)\\\\\n(x-a)^2+(y-b)^2=r^2\\ melalui\\ titik\\ (0,0)\\\\\n(0-a)^2+(0-b)^2=(\\sqrt{5})^2\\\\\na^2+b^2=5\\\\\nkarena\\ (a,b)\\ berada\\ pada\\ garis\\ y=x-1,\\ maka\\\\\nb=a-1\\\\\na^2+b^2=5\\\\\na^2+(a-1)^2=5\\\\\n2a^2-2a-4=0\\\\\n(2a+2)(a-2)=0\\\\\na=-1\\ atau\\ a=2\\\\\nutk\\ a=-1,b=-2 \\rightarrow (x+1)^2+(y+2)^2=5\\\\\nutk\\ a=2,b=1 \\rightarrow (x-2)^2+(y-1)^2=5[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "deret-aritmetika-dengan-jumlah-n-suku-pertama-snn2-3ntentuka-475",
+            "question": "Deret aritmetika dengan jumlah n suku pertama Sn=n\u00b2 + 3n.tentukan suku ke-5!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]S _{1} = U _{1}= 4 \\\\ S_{2} = U_{1} + U_{2} = 10 \\\\ U_{2}= 6 \\\\ b = U_{2}-U_{1} = 2 \\\\ U_{n} = a + (n-1)b = 4 + (n-1)2 = 2n + 2 \\\\ U_{5} = 12[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "carilah-persamaan-lingkaran-yang-melengkapi-segitiga-siku-siku-ya-417",
+            "question": "carilah persamaan lingkaran yang melengkapi segitiga siku-siku yang titik-titik sudutnya adalah(0,0)(8,0)(0,6) ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "8x+6y klo gak salah\u00a0<br>harap dimaklumi\u00a0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-bola-dilempar-vertikal-ke-atas-dgn-kecepatan-awal-vo-39-939",
+            "question": "Sebuah bola dilempar vertikal ke atas dgn kecepatan awal Vo = 39, 2m/s\u00b2 dan tanah dgn g=9,8 m/s\u00b2. Nyatakan dahulu posisi bola, y (dalam meter) setelah t sekon. Kapankah ketinggian y lebih dari 34,3 m?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "kalau saya cari hasil nya 1 sekon lebih agar ketinggian lebih dari 34,3<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-barisan-aritmetika-mempunyai-suku-ke-7-adalah-20-suku-te-161",
+            "question": "sebuah barisan aritmetika mempunyai suku ke 7 adalah 20., suku terakhir 44, dan jumlah 3 suku pertama adalah 12. suku tengah barisan ini adalah...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "u7=20<br>a+6b=20<br><br>u1+u2+u3=12<br>a+a+b+a+2b=12<br>3a+3b=12<br>a+b=4<br><br>eliminasikan persamaan a+6b=20 dan a+b=4<br>didapat b=[tex] \\frac{16}{5} [/tex]dan a=[tex] \\frac{4}{5} [/tex]<br>Un=44<br>a+(n-1)b=44<br>4/5 + (n-1) 16/5 =44<br>4/5 + 16/5 n - 16/5 =44<br>4/5 n= 44+ 12/5<br>4/5 n =[tex] \\frac{220+12}{5} [/tex]<br>n=58<br><br>yg dicari tengah2 n berarti n:2=58:2=29<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "berapa-hasil-dari-557",
+            "question": "Berapa hasil dari\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]2^{2014}.2^{15}=2^{2014+15}=2^{2029}[/tex]",
+                    "attachments": []
+                },
+                {
+                    "answer": "[tex] 2^{2014+15} =  2^{2029} [/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "rumus-keliling-segitiga-apa-aku-lupa-hehehe-230",
+            "question": "Rumus keliling segitiga apa ? aku lupa hehehe",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "sisi 1 + sisi 2 + sisi 3\u00a0<br>jadi hanya tinggal menjumlahkan ketiga sisinya saja :)",
+                    "attachments": []
+                },
+                {
+                    "answer": "keliling =\u00a0sisi + sisi + sisi",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-rumus-invers-dr-fungsi-brikut-a-fxx-3-b-fx2x5-436",
+            "question": "Tentukan rumus invers dr fungsi\" brikut:    a. f(x)=x-3\r\nb. f(x)=2x+5\r\nc. f(x)=2-seperdua x\r\nd. f(x)=x3\r\ne. f(x)= 6per x, tidak sama dengan 0\r\nf). f(x)= 2 per x-1, x tidak sama dengan 1\r\ng). f(x)=2x-3 per 4x-1, xtidak sama dengan seperempat\r\nh). f(x)= 3x+5 per x-5, x-5 tidak sama dengan 0.\r\nthanks bg yang bs jwb.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "perhatikan caranya : f(x) = x+ 3<br>&lt;=&gt; y = x + 3<br>&lt;=&gt; x = y - 3<br>&lt;=&gt; finvers(y) = y - 3\u00a0<br>jadi finvers (x) = x - 3 \u00a0",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

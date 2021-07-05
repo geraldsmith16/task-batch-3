@@ -1,0 +1,150 @@
+{
+    "question": "Pernakah kamu melihat seorang pesenam lantai yang sedang beraksi ? Pada saat sedang melakukan gerakan berputar, pesenam sering harus mengubah kecepatan putarnya.    Coba cermatilah, apa yang dilakukan ? Mungkin kamu kurang menyadari, bahwa dengan cara merentangkan tangan saja kecepatan putarannya akan berubah. Mengapa hal ini bisa terjadi ? Jelaskan",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "karena kalau ketika merentangkan tangan, maka gaya gesek antara angin dan badan semakin besar. untuk memperkcil gaya tsb, tangan di turunkan. itu menurut saya :D<br>",
+            "attachments": []
+        },
+        {
+            "answer": "karna dengan merentangkan tangan, pesenam bisa kehilangan keseimbangan, kecepatannya otomatis berubah, dan harus sering mengubah kecepatannya karna nyoba sesuaikan irama lagu (menurut saya)",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "diketahui-tiga-buah-pegas-dua-disusun-paralel-dengan-konstanta-1-771",
+            "question": "Diketahui tiga buah pegas. Dua disusun paralel dengan konstanta 100 n/m. Dan satu disuaun dengan seri dengan konstanta 200n/m. Susunan pegas dipengaruhi oleh beban, sehingga mengalami pertambahan 5cm. Jika pertambahan panjang pegas 1 dan 2 sama, maka berapakah: a) konstanta gaya total penyusunnya. b) massa beban jika g= 10 m/s",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a) rangkaian paralel ==&gt; kp = 100 + 100 = 200 N/m<br>\u00a0\u00a0 kp diseri dengan k3 = 200 ===&gt; 1/ks = 1/200 + 1/200 <br>\u00a0\u00a0 1/ks = 2/200 ===&gt; 1/ks = 1/100 ==&gt; ks = 100 N/m<br>\u00a0\u00a0 Jadi knstanta gaya total = 100 N/m<br>b) dik : \u0394x = 5 cm = 0,05 m\u00a0 \u00a0 ; k total = 100 N/m <br>F = k \u0394x <br>m . g = k . \u0394x ---&gt; m . 10 = 100 . 0,05 ----&gt; m = 0,5 kg <br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span>a) rangkaian paralel ==&gt; kp = 100 + 100 = 200 N/m<br>\u00a0\u00a0 kp diseri dengan k3 = 200 ===&gt; 1/ks = 1/200 + 1/200 <br>\u00a0\u00a0 1/ks = 2/200 ===&gt; 1/ks = 1/100 ==&gt; ks = 100 N/m<br>\u00a0\u00a0 Jadi knstanta gaya total = 100 N/m<br>b) dik : \u0394x = 5 cm = 0,05 m\u00a0 \u00a0 ; k total = 100 N/m <br>F = k \u0394x <br>m . g = k . \u0394x ---&gt; m . 10 = 100 . 0,05 ----&gt; m = 0,5 kg </span><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tuliskan-5-sumber-energi-listrik-921",
+            "question": "Tuliskan 5 sumber energi listrik?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "sumber energi listrik<br>- Batu baterai<br>- Aki (akumulator)<br>- Dinamo<br>- Generator<br>- Nuklir<br>- Minyak<br>- Angin<br>- Gelombang<br>- Batu bara<br>- Panasbumi\u00a0<br>- Panas matahari (sel surya)<br>- Biomasa<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Baterai,  Aki,  Dinamo,  Nuklir dan Sel Surya (panas matahari)",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "seorang-siswa-memiliki-massa-60-kg-jika-percepatan-gravitasi-bum-135",
+            "question": "seorang siswa memiliki massa 60 kg, jika percepatan gravitasi bumi 10 m/s\u00b2, dan percepatan bulan 5,6 m/s\u00b2. htung berat siswa tsb di bumi dan di bulan? jelaskan dengan diket, tanya, dan jawab. trim's",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "diket:<br>m = 60 Kg<br>g bumi = 10 m/s\u00b2<br>g bulan= 5,6 m/s\u00b2<br><br>tanya :<br>W\u00a0bumi ...?<br>W bulan...?<br><br>jawab :<br>\u00a0W\u00a0bumi = m . g bumi<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 60 Kg . 10 m/s\u00b2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 600 kg.m/s\u00b2 atau 600 Newton<br><br>W\u00a0bulan = m. g bulan<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 60 kg. 5,6 m/s\u00b2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 336,0 kg.m/s\u00b2 atau 336 Newton",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "rangkaian-kereta-api-yang-panjangnya-80-m-melaju-dengan-kelajuan-160",
+            "question": "rangkaian kereta api yang panjangnya 80 m melaju dengan kelajuan 72km/jam \u00a0.kereta terlihat melintasi jembatan selama 6 s. hutung panjang jembatan ..!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "s=v.t<br>v nya ubah ke m/s jadi 72000/3600=20 m/s<br>jadi<br>s=20.6=120 meter<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebutkan-contoh-penerapan-1-hukum-archimedes-2-hukum-pascal-3-659",
+            "question": "Sebutkan contoh penerapan :    1. Hukum Archimedes\r\n2. Hukum Pascal\r\n3. Hukum Bernuolli\r\ndalam teknologi ?\r\nmohon bantuannya",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1. apabila sebuah benda, sebagian atau seluruhnya terbenam kedalam air makabenda trsbt mendapat gaya tekan ke atas sebesar berat air yg dipindahkan oleh benda tersebut. contoh benda\u00a0yg menggunakan prinsip ini : kapal laut<br>2. tekanan yang diberikan kepada zat cair akan diteruskan ke segala arah dengan sama besar. contoh penggunaan : peralatan hidrolik<br>3. j<span>umlah dari tekanan, energi kinetik persatuan volume, dan energi potensial persatuan volume mempunyai nilai yang sama pada setiap titik sepanjang suatu garis arus. contoh : manometer, tabung venturi</span>",
+                    "attachments": []
+                },
+                {
+                    "answer": "kalau archimedes kapal laut , \u00a0kalau pascal pesawat terbang , kalau bernoulli parfum atau semprotan nyamuk yang pakai tangkai\u00a0<br>mohon maaf kalau ada kesalahan :D",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "siapakah-penemu-dari-energi-kinetik-translasi-dan-energi-rotasi-300",
+            "question": "Siapakah penemu dari energi kinetik translasi dan energi rotasi ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Gottfried Leibniz dan Johann Bernoulli",
+                    "attachments": []
+                },
+                {
+                    "answer": "pertama kali dikembangkan oleh Gottfried Leibniz dan Johan Bernouli.\u00a0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-uji-dilakukan-terhadap-seutas-kawat-tembaga-dengan-jari-ja-661",
+            "question": "Sebuah uji dilakukan terhadap seutas kawat tembaga dengan jari-jari 1,00 mm untuk menentukan bagaimana kawat tembaga akan menahan tumpukan es ketika kawat digunakan sebagai jaringan listrik. Diperoleh hasil bahwa suatu gaya 300 N akan menyebabkan kawat tertarik dari panjang 100,00 m menjadi 100,11 m, dan ketika tumpukan es dibersihkan (dihilangkan), kawat kembali kepada panjang asalnya. Tegangan, regangan, dan modulus elastis kawat tembaga dalam satuan SI berturut-turut adalah ....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Dik F = 300 N<br>\u00a0\u00a0 \u00a0  lo = 100,00 m<br>\u00a0\u00a0 \u00a0 l = 100,11 m<br>Dit\u00a0 tegangan , regangan , modulus yong<br>jawab.<br><br>\u2208 regangan = \u0394l / lo<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 100,11-100,00 / 100,00<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 0,11 / 100,00<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0  = 0,0011 tanpasatuan<br><br>E elastisitas tembaga = 11.10^10 pa satuan dan tetapan elastisitas young untuk tembaga Sl<br><br>Tegangn = E young . \u2208regangan<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 11x10^10 .0,0011<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 121x10^6 N/m^2<br><br>like<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apa-yang-dimaksud-dengan-gaya-lorentz-907",
+            "question": "Apa yang dimaksud dengan gaya lorentz ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Gaya yang ditimbulkan oleh muatan listrik yang bergerak \u00a0oleh arus yang berada dalam suatu medan Magnet.Arah gaya ini akan mengikuti arah maju Skrup yang diputar dari Vector arah gerak muatan Listrik",
+                    "attachments": []
+                },
+                {
+                    "answer": "gaya lorentz adalah gaya yang ditimbulkan oleh medan elektromagnetik akibat menerima atau partikel bermuatan arus listrik.<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-momen-gaya-1-nm-dikerjakan-pada-roda-yang-mula-mula-diam-667",
+            "question": "Sebuah momen gaya 1 Nm dikerjakan pada roda yang mula-mula diam. momentum sudut roda setelah 2 sekon?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1 new nton dikali 2 =3/5<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span>1 new nton dikali 2 =3/5</span><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "untuk-keamanan-dalam-mendakiseorang-pendaki-gunung-menggunakan-s-591",
+            "question": "untuk keamanan dalam mendaki,seorang pendaki gunung menggunakan sebuah tali nilon yang panjangnya 50 m dan garis tengahnya 1,0 cm.ketika menopang pendaki yang bermassa 80 kg, tali bertambah panjang 1,6 m. tentukan modulus elastis nilon ( ambil\u00a0\u03c0 = 3,15 dan\u00a0g = 9,86 m/\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>E = FLo / delta LA\u00a0<br>= mg Lo / delta LA\u00a0<br>= (80 x 9,86 x 0,5) / (1,6 x (1/4) x 3,15 x 0,01^2)\u00a0<br>= 3,13 x 10^6\u00a0<br><br></span>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

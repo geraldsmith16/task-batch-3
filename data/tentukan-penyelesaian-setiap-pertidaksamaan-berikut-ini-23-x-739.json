@@ -1,0 +1,146 @@
+{
+    "question": "Tentukan penyelesaian setiap pertidaksamaan berikut ini :\r\n2/3 x - 1/6 &gt; 3/4 x",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "2/3x-1/6&gt;3/4x<br>2/3x-3/4x&gt;1/6<br>8x-9x&gt;2<br>-x&gt;2<br>x&lt;-2",
+            "attachments": []
+        },
+        {
+            "answer": "2/3 x - 1/6 &gt; 2/4 x<br>= 4x-1/6 ? 3x/4<br>= 4 (4x-1) &gt; 6 (3x)<br>= 16x - 4 &gt; 18x<br>= 16x - 18x &gt; 4<br>= -2x &gt; 4<br>= 2x &lt; -4<br>= x &lt; -2",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "sebuah-rak-buku-dapat-memuat-36-buah-buku-yang-tebalnya-8-milimet-103",
+            "question": "Sebuah rak buku dapat memuat 36 buah buku    yang tebalnya 8 milimeter. Berapa buah buku\r\nyang dapat ditaruh di rak tersebut jika tiap\r\nbuku tebalnya 12 milimeter?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "8x 36 = 288mm<br>\u00a0288 : 12 = 24 buku",
+                    "attachments": []
+                },
+                {
+                    "answer": "36x 8= 288<br>288/ 12= 24<br>jadi ada24buku yang bisa ditaruh dirak",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "nilai-k-yang-memenuhi-persamaan-1-2kk-3-adalah-855",
+            "question": "Nilai k yang memenuhi persamaan 1-2k=k-3 adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "nilai k yang memenuhi 1-2k = k-3<br>\u00a0=\u00a0 1 + 3 = k + 2k<br>\u00a0= 4 = 3k<br>\u00a0k = 4/3<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0",
+                    "attachments": []
+                },
+                {
+                    "answer": "-2k-k\u00a0=\u00a0-3-1<br>-3k \u00a0= -4<br>k = 4/3<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "luas-lingkaran-pertama-80-cm2-hitunglah-a-luas-lingkaran-k-196",
+            "question": "Luas lingkaran pertama = 80 cm^2. Hitunglah : A) luas lingkaran kedua yang panjang jari-jarinya 3 kali panjang jari-jari lingkaran pertama. B) luas lingkaran ketiga yang panjang jari-jarinya 1/4 kali jari-jari lingkaran pertama.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "80=3,14.r^2<br>r^2=80/3,14 =25,47<br>r= akar 25,47 ..krn ga ada klakulator.. anggap aja 25..r=5\u00a0<br>luas 3x jari\" mula.. 3 x 5 =15..\u00a0<br>L= 3,14.15.15 =706,5<br><br>1/4 x 5 = 1.25\u00a0<br>L= 3,14 . 1,25 . 1,25 =4.9",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pada-himpunan-himpunan-berikut-manakah-yang-merupakan-himpunan-ya-593",
+            "question": "Pada himpunan-himpunan berikut manakah yang merupakan himpunan yang sama?    a. A = {a, b, c}\r\nb. B = {b, e, c,a}\r\nc. C = {a, d, u, k}\r\nd. D = {a, m, u, k}\r\ne. E {r, o, d, a}",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "c. C = {a, d, u, k}<br><span>d. D = {a, m, u, k}</span>",
+                    "attachments": []
+                },
+                {
+                    "answer": "yang sama yaitu:\u00a0C dan D",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "himpunan-penyelesaian-persamaan-x2-2x-1-adalah-416",
+            "question": "Himpunan penyelesaian persamaan \u00a0 \u00a0\u00a0x+2 = 2x\u00a0+\u00a01 \u00a0adalah???    \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 \u00a0 \u00a0\u00a03 \u00a0 \u00a0 \u00a0 \u00a0 \u00a02\r\ntolong di jawab ya, kalau bisa,,,",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "(3)(2x+1) = (2)(x+2)<br>6x + 3 = 2x + 4<br>4x = 1<br>\u00d7 = 1/4<br>Kalau menurut saya itu jawabannya",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span>3(2x+1) = 2(x+2)<br>6x + 3\u00a0\u00a0 = 2x + 4<br>4x + 3\u00a0\u00a0 = 4<br></span>4x\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 1<br>x\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 1/4<br><br>Himpunan penyelesaian = {...; 0,22 ; 0,23 ; 0,24 ; 0,25}<br>Dijamin benar. :) <br>Balas \"terimakasih\" ya :)<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-segitiga-sama-kaki-memiliki-panjang-sisi-yang-sama-dengan-873",
+            "question": "sebuah segitiga sama kaki memiliki panjang sisi yang sama dengan 5 kali panjang sisi lainnya. agar keliling segitiga tersebut lebih besar dari 50m, berapakah masing-masing sisi segitiga tersebut (pakai caranya juga yaa)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "jika sisi a=5 maka sisi b&amp;c 5x5=25. jadi kel= 25+25+5=55m . 55&gt;50 :)<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-2y2-723-2-7gt3x-3-2x-4gt3x9-630",
+            "question": "1. 2y/2-7/2\u22643=\r\n2. 7&gt;3x =\r\n3. 2x-4&gt;3x+9=",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]\\frac{2y}{2}-\\frac{7}{2} \\leq 3\\\\\n\\frac{2y-7}{2} \\leq 3\\\\\n2y-7 \\leq 6\\\\\n2y \\leq 13\\\\\ny \\leq \\frac{13}{2}\\\\\\\\\n7&gt;3x\\\\\n\\frac{7}{3}&gt;x\\\\\nx&lt;\\frac{7}{3}\\\\\\\\\n2x-4&gt;3x+9\\\\\n-x&gt;13\\\\\nx&lt;-13[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sederhanakanlah-5-akar-3-43-6-akar-2-3-akar-2-552",
+            "question": "Sederhanakanlah 5 akar 3 + 43 + 6 akar 2 - 3 akar 2",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "43 + 3 akar2 + 5 akar3<br>itu adalah jawaban yang paling sederhana",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-himpunan-penyelesaian-dari-pertidaksamaan-berikutjika-x-972",
+            "question": "tentukan himpunan penyelesaian dari pertidaksamaan berikut,jika x variabelnya pada himpunan bilangan bulat. \u00a0 a. 1/2 (x+5) - 1/4 (x + 1) &gt; 3 b. 1/3 (5x-1) &lt; 1/2 (2x +1)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a. 1/2\u00a0(x+5) - 1/4 (x+1) &gt;3<br>\u21d46\u00a0(x+5) - 3(x+1) &gt; 39<br>\u21d46x + 30 - 3x + 3 &gt; 39<br>\u21d46x - 3x &gt; 39 - 30 - 3<br>\u21d4 3x &gt; 6<br>\u21d4 x &gt; 6/3 = 2<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "18-tenaga-dapat-menyelesaikan-pekerjaan-selama-36-haribila-peker-438",
+            "question": "18 tenaga dapat menyelesaikan pekerjaan selama 36 hari.bila pekerjaan itu di delesaikan oleh 24 orang tenaga maka waktu yang di perlukan untuk menyelesaikan pekerjaan itu adalah..",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "jawabannya adalah = 12 hari<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "18 tenaga\u00a0 ===&gt; 36 hari<br>24 tenaga ===&gt; ? hari<br><br>persamaan dibuat terbalik, yaitu : 18/24 = ?/36<br>lalu di kalikan silang, menjadi : 24 x ? = 18 x 36 ===&gt; ? = (18 x 36) / 24 = 27 hari<br><br>semoga membantu :)<br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

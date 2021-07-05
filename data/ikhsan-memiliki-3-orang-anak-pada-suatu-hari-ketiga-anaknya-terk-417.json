@@ -1,0 +1,130 @@
+{
+    "question": "ikhsan memiliki 3 orang anak. pada suatu hari ketiga anaknya terkena flu. sampai dirumah sakit diperoleh data bahwa suhu badan ketiga anak itu masing-masing, 40 drjat C,\u00a0 39,5 drrjt C, dan 40,6 drjt C. ubahlah ketiga suhu badan itu dalam derajat reamur dan Fahrenheit!",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "Reamur: <br>1. 40<span>\u2070C= </span>(4/5 x 40)<span>\u2070R= (4 x 8)</span><span>\u2070R= 32</span><span>\u2070R<br>2. 39,5</span><span>\u2070C= (4/5 x 39,5)</span><span>\u2070R= </span>( 4/5 x 395 . 10\u2227-1 )\u2070R = ( 4 x 79 . 10\u2227-1 )\u2070R = 316 . 10^-1 <span>\u2070R = 31,6</span><span>\u2070R<br>3. 40,6</span><span>\u2070C = ( 4/5 x 40,6 )</span>\u2070R =  ( 4/5 x 406 . 10^-1 )\u2070R= ( 4 x 8,12 x 10^-1 )<span>\u2070R = </span>( 4 x 812 x 10^-3 )\u2070R = 3248 x 10^-3 \u2070R = 3,248 \u2070R<br><br>Fahrenheit:<br>1. 40\u2070C= (9/5 x 40) +32 \u2070F= 72 + 32 \u2070F= 104<span>\u2070F<br>2. 39,5</span>\u2070C= (9/5 x 39,5) + 32 \u2070F = ( 9/5 x 395 . 10\u2227-1 ) + 32 \u2070F = ( 9 x 79 . 10\u2227-1 ) + 32 \u2070F = ( 711 . 10^-1) + 32 \u2070F = 71,1+ 32 <span>\u2070F = 103,1 </span>\u2070F<span><br>3. 40,6</span>\u2070C = ( 9/5 x 40,6 ) + 32 \u2070F =  ( 9/5 x 406 . 10^-1 )+ 32 \u2070F= ( 9 x 8,12 x 10^-1 )+ 32 \u2070F = ( 9 x 812 x 10^-3 )+ 32 \u2070F = (7308 x 10^-3) + 32 \u2070F = 7,308 + 32 \u2070F = 39,308 \u2070F <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "suatu-perusahaan-asuransi-memperkirakan-bahwa-besar-kemungkinan-s-404",
+            "question": "suatu perusahaan asuransi memperkirakan bahwa besar kemungkinan supir mengalami kecelakaan dalam satu tahun adalah 0,14 .diantar 250 supir diperkirakan mengalmi kecelakaan dalam satu tahun adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "0,14\u00a0\u00d7 250<br>=35<br><br>maaf kalau salah",
+                    "attachments": []
+                },
+                {
+                    "answer": "14/100 x 250 = 35 :)<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "hasil-dari-1223-254",
+            "question": "Hasil dari\u00a0\u221a12+2\u221a3 = ...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "hasilny\u00a04\u221a3.\u00a0\u221a12+2\u221a3=\u221a4\u00d73+2\u221a3=2\u221a3+2\u221a3=4\u221a3",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bu-aminah-menyimpan-uang-modal-di-koperasi-makmur-sebesar-rp-200-733",
+            "question": "bu aminah menyimpan uang modal di koperasi makmur sebesar rp 2.000.000.00 setelah 9 bulan modalnya bertambah menjadi rp 2.090.000.00 persentase bunga per tahun yang di berikan oleh koperasi makmur adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "9/12 x 90.000/2.000.000 x 100%<br>= 4.5%<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "perbaikan-jalan-akan-selesai-dikerjakan-dalam-waktu-3-bulan-1-b-335",
+            "question": "Perbaikan jalan akan selesai dikerjakan dalam waktu 3 bulan ( 1 bulan=30 hari),jika dikerjakan oleh 16 orang tenaga.setiap hari minggu (1 bulan ada 5 hari minggu) buruh libur bekerja.Berapa orang buruh pekerja yang harus ditambah agar jalan tersebut tetap selesai tepat waktu ?    make caranya ya,nanti aku jadikan solusi terbaik :)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "waktu (hari)\u00a0 \u00a0 \u00a0 \u00a0  pekerja<br>90\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 16<br>75\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 16 + x<br><u><br></u>90/75\u00a0 =16+x/16<br>(75 x 16) + 75x = 90 x 16<br>1200 + 75x = 1440<br>75x =240<br>x = 3.2 orang (3 orang)<br><br>menurut saya sih kayak gini ya. maaf kalo salah.<br><u></u>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "gan-jika-24m-12-itu-jawabanya-brp-sih-ganama-kasih-tau-caranya-636",
+            "question": "Gan jika 24m = 12 itu jawabanya brp sih gan,ama kasih tau caranya ane masih bingung",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "pindah ruas aja\u00a0<br>m = 12 / 24 = 1/2",
+                    "attachments": []
+                },
+                {
+                    "answer": "24M=12<br>M=12/24<br>M=1/2<br>Mungkin seperti ituu ya",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-jari-jari-lingkaran-yg-kelilingnya-1884-dan-220-cmmoho-882",
+            "question": "Tentukan jari jari lingkaran yg kelilingnya 188,4 dan 220 cm.mohon penjelasanya :)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1. K = 188,4 cm<br>\u00a0maka ,masukkan rumus , K =\u00a0\u03c0 . 2. r = 188,4 cm/2 =\u00a0\u03c0r<br>94,2 cm = 22/7 .r<br>94,2 .7 cm /22 = r<br>29,97 cm =r<br><br>2.K = 220 cm<br>kembali masukkan rumus ,<br>K =\u03c0.2.r<br>220 cm = 2,14 . 2. r<br>220 cm = 4,28 .r<br>220 cm / 4,28 = r<br>51,4 cm = r<br><br>ingat\u00a0\u03c0 = 22/7 atau 3,14",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jarak-kota-a-dan-b-pada-peta-5-cm-peta-itu-berskala-1-120000-788",
+            "question": "Jarak kota A dan B pada peta 5 cm. Peta itu berskala 1 : 1.200.000. Amir dengan mengendarai sepeda motor berangkat dari kota A pukul 06.45 dengan kecepatan 45 km perjam.    Di tengah jalan berhenti selama 1/4 jam. Pukul berapa amir tiba di kota B ??\r\n\r\nTolong d jawab y,,??",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "JS = 5 / 1 :1.200.000 =5 x 1.200.000 =6.000.000 cm = 60 km<br>W = JS / K <br>\u00a0\u00a0\u00a0 = 60 / 45 = 1,3 = 1.20<br>06.45 + 1.15 = 8.00 + 1.20<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 8.20<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "himpunan-semesta-yang-mungkin-dari-balok-kubus-adalah-948",
+            "question": "Himpunan semesta yang mungkin dari ( balok, kubus ) adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "himpunan yang memungkinkan<br>- { himpunan bangun ruang }<br>- { himpunan bangun ruang segi 4 }<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "cara-mencari-masing2-diagonal-belah-ketupat-amp-layang-layang-g-985",
+            "question": "Cara mencari masing2 diagonal belah ketupat &amp; layang-layang gimana yah ? Kasi tau dong :D",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>Misal : perpotongan antara diagonal AC dan diagonal BD adalah titik O<br></span><span>BO^2 = AB^2 - AO^2<br></span>(ini untuk belahketupat)<br><span>Luas Layang2 = 1/2 diagonal x diagonal (lainnya)</span><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "gradien-yang-melalui-titik-23-dan-35-adalah-440",
+            "question": "Gradien yang melalui titik (2,3) dan (3,5) adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]m =   \\frac{ y_{2} - y_{1} }{ x_{2} - x_{1} } = \\frac{ 5 - 3 }{ 3 - 2 }= \\frac{2}{1} =2[/tex]<br><br>kalau sekalian mau pers.nya<br><br>y = 2x - 1",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

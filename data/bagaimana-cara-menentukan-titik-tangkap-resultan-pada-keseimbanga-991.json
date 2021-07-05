@@ -1,0 +1,136 @@
+{
+    "question": "bagaimana cara menentukan titik tangkap resultan pada keseimbangan benda tegar yg tersusun dari beberapa gaya yang sejajar berlawanan arah?",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "resultan gaya sejajar segaris dan berlawanan arah sama dengan <u>&#039;&#039;selisih kedua gaya&#039;&#039;</u>. jadi rumusnya : R = F1 - F2<br>R : Resultan gaya",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "seseorang-mengendarai-mobil-dengan-kecepatan-90-kmjam-tiba-tiba-318",
+            "question": "seseorang mengendarai mobil dengan kecepatan 90 km/jam. tiba-tiba mobil tersebut direm dengan perlambatan maksimum. Besarnya jarak yg di butuhkan adalah...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "ya kagak ada jawabannya\u00a0<br>karena rumus GLBB diperlambat itu<br>v = v0 . t - a .t<br>s = v0 . t - 1/2 a . t\u00b2<br>vt\u00b2 = v0\u00a0\u00b2 - 2 a . s",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "rumus-berat-dalam-fisika-386",
+            "question": "Rumus berat dalam fisika?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "W = m . g<br><br>m = massa \u00a0(kg)<br>g \u00a0= gravitasi \u00a0(m/s\u00b2 )<br>W = berat (N)",
+                    "attachments": []
+                },
+                {
+                    "answer": "yang dimaksud berat kan? w = m x g, massa x gravitasi",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-benda-bergerak-dari-keadaan-diam-dan-setelah-10-detik-kece-952",
+            "question": "sebuah benda bergerak dari keadaan diam dan setelah 10 detik kecepatannya 40m/s.jarak yang telah ditempuh adalah?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "s = v/t<br>s = 40/10 = 4\u00a0",
+                    "attachments": []
+                },
+                {
+                    "answer": "s=v.t = 40 m/s . 10 s<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 400 meter\u00a0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "seorang-penyelam-mampu-berada-pada-kedalaman-40-m-di-bawah-permuk-504",
+            "question": "Seorang penyelam mampu berada pada kedalaman 40 m di bawah permukaan laut. Jikamassa jenis air laut 1,2 g/cm3 dan percepatan gravitasi 10 m/s\u00b2, maka hitunglah besar tekanan hidrostatis yang dialami penyelam!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "rho= 1,2 g/cm\u00b3=1,2\u00d7(10^-3/10^-6)=1,2\u00d710^3=1200<br>Ph=rho\u00d7g\u00d7h=1200\u00d710\u00d740=480000 N/m\u00b2",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apakah-betul-jawaban-saya-seorang-pelari-menempuh-2-km-dalam-5-me-217",
+            "question": "APAKAH BETUL JAWABAN SAYA    seorang pelari\r\n menempuh 2 km dalam 5 menit dan kemudian membutuhkan 10 menit untuk berjalan\r\n kembali ketitik awal. a) berapakah kecepatan rata-rata untuk 5 menit pertama?\r\n (b) berapakah kecepatan rata-rata selama waktu yang dipakai berjalan? (c)\r\n berapakah kecepatan rata-rata untuk total perjalanan? (d) berapakah kelajuan\r\n rata-rata untuk total perjalanan?\r\n\r\n JAWABAN\r\n\r\na)\u00a0dikt :s = 2 km\u00a0\u21d2\u00a02000 m,\u00a0t= 5 menit\u00a0\u21d2\u00a0300 sekon,\r\n\r\n v = s/t = 2000/300 = 6,66 m/s\r\n\r\nb)\u00a0dikt :\u00a0s = 2 km\u00a0\u21d2\u00a02000 m,\r\n\r\n\r\n\r\nt = 10 menit\u00a0\u21d2\u00a0600 sekon,\r\n\r\n v = s/t = 2000/600 = 3,33 m/s\r\n\r\nP1 + P2\r\n\r\n 6,66 + 3,33 = 9,99 m/s,\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "iya ,betul betul betul<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "setau saya kecepatan rata2nya nol karena tidak ada perpindahan tetapi kalau lajunya pakai rumus ==&gt; laju rata2 = jarak tempuh / total waktu <br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = (2000 + 2000) / 900 = [tex] \\frac{40}{9} [/tex] m/s<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sumber-bunyi-a-menghasilkan-taraf-intensitas-10-db-ketika-dibunyi-675",
+            "question": "Sumber bunyi A menghasilkan taraf intensitas 10 dB ketika dibunyikan terpisah, sedangkan sumber bunyi B menghasilkan traf intensitas 20 dB ketika dibunyikan terpisah. Jika dua sumber bunyi tersebut dibunyikan bersama maka intensitas bunyi gabungan dinyatakan dengan intensitas ambang pendengar Io adalah ......",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "jawab.<br>Tl = 10 log l/lo<br>10 db = 10^1<br>20 db = 10^2<br><br>(10+20) db = 10 l/10^-12<br>30 db = 10 log l/10^-12<br>l = 10^3 x 10^-12/10 log<br>\u00a0= 10^-9 W/m^2<br>\u00a0<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-keluarga-yang-terdiri-dari-4-orang-total-massanya-200kg-ma-974",
+            "question": "sebuah keluarga yang terdiri dari 4 orang total massanya 200kg masuk ke dalam mobil sehingga pegas mobil tertekan ke bawah sejauh 3 cm.Dengan menganggap pegasnya tunggal,berpakah tetapan pegas mobil itu?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Dik m 4 = 200 kg\u00a0<br>\u00a0 \u00a0 \u00a0 \u00a0\u00a0\u0394l = 3 cm = 0,03 m<br>Dit tetapan pegas mobil ?<br>jawab.\u00a0<br>F = W = m.g = 200 . 10 = 2 000 N<br>k = F /\u00a0\u0394l<br>\u00a0 \u00a0= m.g /\u00a0\u0394l<br>\u00a0 \u00a0= 2000 / 0,03<br>\u00a0 \u00a0= 66 666,67 N/m<br><br>Semoga membantu :) D like<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "seorang-penari-balet-dengan-tangan-terentang-berputar-pada-kecepa-806",
+            "question": "seorang penari balet dengan tangan terentang berputar pada kecepatan sudut diatas lantai mendatar yang licin. jika penari tersebut melipat tangannya, momen inersiannya akan berkurang sebesar 20% dari semula. perbandingan energi kinetik rotasi saat tangan dilipat dengan saat tangan terentang adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kategori: Fisika Bab Energi <br>Kelas: XI SMA IPA <br><br><br><br><br>Perhitungan dapat dilihat pada lampiran",
+                    "attachments": [
+                        "answer-attachments/seorang-penari-balet-dengan-tangan-terentang-berputar-pada-kecepa-806-1.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-bola-pejal-bermassa-0036-kg-dan-jari-jari-12-cm-menggeli-832",
+            "question": "sebuah bola pejal bermassa 0,036 kg dan jari-jari 1,2 cm menggelinding menuruni suatu bidang miring. Bola pejal itu mula-mula bergerak dengan kecepatan 0,5 m/s. Berapakah kecepatan bola itu ketika ketinggiannya berkurang 14 cm? g=10 m/s \u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1. hukum kekekalan massa<br>1/2 m v\u00b2+m g h+ 1/2 I \u03c9\u00b2-1/2 m v\u00b2- I \u03a9\u00b2=0<br>1/2 m v\u00b2+m g h+1/2 I (v/r)\u00b2-1/2 m v\u00b2- 1/2 I (v/r)\u00b2=0<br>1/2 m v\u00b2+m g h+1/2 (2/5) (mr\u00b2) (v/r)\u00b2- 1/2 m v\u00b2- 1/2 ((2/5)(mr\u00b2))(v/r)\u00b2=0<br>sederhanakan<br>gh+7v\u00b2/10-7v\u00b2/10=0<br>(9.8)(0.14)+7(0.5)\u00b2/10-7v\u00b2/10=0<br>v=1.48661 m/s<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-bola-pejal-bermassa-05-kg-dan-jari-jari-20-cm-menggelind-174",
+            "question": "sebuah bola pejal bermassa 0,5 kg. dan jari jari 20 cm menggelinding pada lantai mendatar dengan kecepatan 8 m/s kemudian naik ke bidang miring. Tentukan ketinggian h maksimum yang dapat dicapai hingga bola berhenti sesaat",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>Mapel: Fisika</p><p>Kelas : XI SMA<br></p><p>Kategori \u00a0: dinamika rotasi<br></p><p>Kata Kunci : menggelinding, kecepatan, ketinggian, bidang miring, energi mekanik<br></p><p>Jawaban:<br></p><p>Jika bola menggelinding, berarti benda mengalami gerak translasi sekaligus rotasi. Untuk menyelesaikan soal tersebut, digunakan hukum kekekalan energi mekanik.<br></p><p>Diketahui:<br></p><p>m = 0,5 kg<br></p><p>R = 20 cm<br></p><p>v = 8 m/s<br></p><p>g = 10 m/s2<br></p><p>Ditanya: h saat berhenti sesaat<br></p><p>Jawab:<br></p><p>Mula-mula bola berada di lantai mendatar sehingga tidak memiliki energi potensial. Saat berada pada ketinggian maksimum, bola tidak memiliki energi kinetik. Momen inersia bola pejal besarnya 2/5 mR2 (k = 2/5)<br></p><p>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 EMA = EMB<br></p><p>EPA + EktransA + EkrotA = EPB + EktransB + EkrotB<br></p><p>\u00a0 \u00a0 0 + \u00bd. m. v2 + \u00bd. I. \u03c92 = m.g.h + 0 + 0<br></p><p>\u00a0 \u00a0 \u00a0 \u00bd. m. v2 + \u00bd. k. m. v2 = m.g.h<br></p><p>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00bd. m. v2 ( 1 + k ) = m.g.h<br></p><p>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0h = v2 ( 1 + k )/ 2.g<br></p><p>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0h = 8^2 (1 + 2/5)/ 2.10<br></p><p>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0h = 64. 1,4/20<br></p><p>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0h = 89,2/ 20 = 4,48 meter<br></p><p>Jadi, ketinggian maksimum yang dapat dicapai hingga bola berhenti sesaat adalah 4,48 meter.<br></p><p>Jika mau dihafalkan, rumus cepat untuk mencari ketinggian maksimum benda atau mencari kecepatan mula-mula benda yang menggelinding menaiki bidang miring adalah<br></p><p>h= [tex] \\frac{ v^{2} (1+k)}{2.g} [/tex]<br></p>\n\n<p></p>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

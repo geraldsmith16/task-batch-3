@@ -1,0 +1,144 @@
+{
+    "question": "Dua pegas yang sama jenis dan ukurannya mula-mula disusun secara paralel dan diberi beban bermassa mp hingga mengalami pertambahan panjang sebesar x. selanjutnya kedua pegas disusun secara seri dan diberi beban bermassa ms. agar pertambahan panjang pegas pada susunan seri ini sama dengan x juga, maka nilai mp : ms adalah..    fisika 1A bagus raharja",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "k paralel = 2k <br>k seri = k/2 = 0,5 k<br>F = k .x <br>karena x nya sama maka diperoleh <br>F1/k1 = F1/k2<br>mp . g / 2k = ms . g / 0,5 k\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 g dan k nya bisa dicoret shg didapat <br>mp/2 = ms/0,5 <br>mp : ms = 2 : 0,5 <br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 = 4 : 1\u00a0 <br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "berapa-kalor-yg-di-butuhkan-es-bersuhu-2c-dengan-massa-4-kg-ag-909",
+            "question": "Berapa kalor yg di butuhkan es bersuhu -2\u00b0c dengan massa 4 kg agar mencapai suhu 5\u00b0c, jika dik.    L es=336.000 J/kg\r\nc es=500 J/kg\u00b0c\r\nc air=4200 J/kg\u00b0c",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "m.c.\u0394t=4\u00d72\u00d7500= 4000j<br>m.L=4\u00d7336000=1344000j<br>m.c.\u0394t=4\u00d75\u00d74200=84000j<br><br>kalor yg dibutuhkan=1432000j=1432kj",
+                    "attachments": []
+                },
+                {
+                    "answer": "Q es 1 = m.Ces.\u0394t<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 4 . 500 .(0- -2)<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0= 400 j<br>Q lebur 2\u00a0= m.L<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 4 . 336.000<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = \u00a01.344.000 j<br>Q cair 3\u00a0= m.Cair.\u0394t<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = \u00a04 . 4200 . (5-0)<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 84.000 j<br>kalor total Q = Q1+Q2+Q3<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 400 + 1.344.000 + 84.000<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 1.428.400 J<br>tolong klik bintang",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "siapakah-penemu-dari-energi-kinetik-translasi-dan-energi-rotasi-300",
+            "question": "Siapakah penemu dari energi kinetik translasi dan energi rotasi ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Gottfried Leibniz dan Johann Bernoulli",
+                    "attachments": []
+                },
+                {
+                    "answer": "pertama kali dikembangkan oleh Gottfried Leibniz dan Johan Bernouli.\u00a0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "perhatikan-gambar-dibawah-ini-berikan-penjelasanya-juga-yaaa-ji-601",
+            "question": "Perhatikan gambar dibawah ini    Berikan penjelasanya juga yaaa..\r\n\r\nJika diketahui\u00a0\r\nI = 1,6 A\r\nI1 = 0,3 A\r\nI1 = I2 \u00a0dan\u00a0I3 =I4\r\nmaka\u00a0I4??\r\n\r\na. 0,3 A\r\nb. 0,5 A\r\nc. 1,3A\r\nd. 7A",
+            "attachments": [
+                "question-attachments/perhatikan-gambar-dibawah-ini-berikan-penjelasanya-juga-yaaa-ji-601-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "sesuai hukum kirchof, jumlah arus yang masuk sama dengan jumlah arus yang kluar,\u00a0<br>maka : I = I1 +I2 + I3 + I4<br>karena I1=I2 , sehingga\u00a0jika I1=0,3, maka I2=0,3<br>juga I3 = I4 \u00a0 \u00a0 (substitusi semua ke pers awal)<br>I = I1 +I2 + I3 + I4<br>1,6= o,3 +0,3+ I3 + I3<br>1,6 = 0,6 +2(I3)<br>2(I3) = 1<br>I3 = 0,5<br>karena I3 = I4, maka I4 = 0,5<br>jawaban b)",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dalam-sebuah-tabung-yang-diisi-eter-indeks-bias-n-136-jarak-203",
+            "question": "Dalam sebuah tabung yang diisi eter (indeks bias n = 1,36), jarak anatara permukaan cairan dengan alas\u00a0tabungnya adalah 17 cm. Jika kita memandang secara gerak lurus dari permukaan. Berapa besar kelihatannya jarak antara alas tabung dan permukaan cairan?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<br>e = eter dan u = udara<br>ne . he = nu . hu<br>1,36 . he = 1 . 17<br>he = 17 / 1,36 = 12,5 cm<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "berapa-kalor-yg-di-butuhkan-es-bersuhu-2c-dengan-massa-4-kg-ag-479",
+            "question": "Berapa kalor yg di butuhkan es bersuhu -2\u00b0c dengan massa 4 kg agar mencapai suhu 5\u00b0c, jika dik.    L es=336.000 J/kg\r\nc es=500 J/kg\u00b0c\r\nc air=4200 J/kg\u00b0c",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "m= 4 kg<br>delta t = 3<br>c = 4700<br>= 2x4700x3<br>= 28200<br>= 28,2<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pa-saya-mau-nanya-ada-sebuah-mobil-mainan-dgn-masa-2kg-melaju-dgn-651",
+            "question": "pa saya mau nanya ada sebuah mobil mainan dgn masa 2kg melaju dgn kecepatan 6m2/s berapakah energi mobil kinetik itu???",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1/2 kali 2 kali 12 = 12 joule<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "klo gx salah sih<br>kan rumus nya<br>1/2.m.v= 1/2. 2kg. 6km/s<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a01/2. 2kg. 6km/s<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 =1/2. 12 {12tu dibagi 2 dan dapat 12 dari 6km/s dikali 2kg<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0=6j<br>jadi energi kinetik nya yaitu 6j<br>maaf klu salh",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "empat-buah-pegas-masing-masing-mempunyai-konstanta-elastis-1600-n-216",
+            "question": "empat buah pegas masing masing mempunyai konstanta elastis 1600 N/m. Beban w di gantung menyebabkan pertambahan panjang 5 cm. Hitung berat beban w!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "k =1600n/m<br>delta x = 5 cm = 0.05 m<br>w? w=f=k. delta x<br>W=F=1600.0.05<br>W=80 N<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tekanan-gas-yang-berada-dalam-suatu-ruangan-dikurangi-sehingga-me-983",
+            "question": "tekanan gas yang berada dalam suatu ruangan dikurangi sehingga menjadi 1/2 nya hal ini menyebabkan suhu gas tersebut turun menjadi 3/4 nya ,tentukan perbandingan volume gas akhir dan awal",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex] \\frac{1}{2} [/tex] :\u00a0[tex] \\frac{3}{4} [/tex] =\u00a0[tex] \\frac{6}{4} [/tex] = 3 : 2<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "[tex] \\frac{P1 x V1}{T1} =  \\frac{P2 x V2}{T2} [/tex]\u00a0 ( di soal kamu P1=1/2 P2 dan T1=3/4 T2 ) paham kak? <br>lalu masukan ke persamaan <br>[tex] \\frac{P1 x V1}{T1} =  \\frac{1/2 P1 x V2}{3/4 T1} [/tex]<br>( coret T1 dan P1 )\u00a0 <br>V1=[tex] \\frac{1}{2}: \\frac{3}{4} [/tex] V2 <br>V1/V2 = 2/3 <br><br><br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bagaimana-cara-menguraikan-gaya-pada-bidang-miring-511",
+            "question": "Bagaimana cara menguraikan gaya pada bidang miring ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kalau kita menguraikan gaya pada bidang miring, ada gaya normal yang tegak lurus dengan bidang. dan gaya berat yang selalu menuju pusat grafitasi. Kalau kita uraikan lebih detail kembali terdapat gaya Nx (gaya normal pada bidang x) dan gaya Ny( gaya bidang y), sedangkan pada W terdapat gaya Wx (gaya berat terhadap bidang x) dan gaya Wy(gaya berat terhadap bidang Y)",
+                    "attachments": []
+                },
+                {
+                    "answer": "dengan mengurangi ketinggian bidang miring dan menambah kepanjangan bidang nmiringnya",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dua-pegas-identik-memiliki-kostanta-gaya-400nm-apabila-kedua-peg-630",
+            "question": "dua pegas identik memiliki kostanta gaya 400N/m apabila kedua pegas tersebut disusun secara paralel,maka besarnya gaya yang dubutuhkan untuk menarik pegas sehingga bertambah panjang sebesar 5cm adalah...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "5 cm = 0,05 m<br>k = F/delta l<br>400 = F/0,05<br>400 X 0,05 =F<br>20 N = F<br><br>Jadi, gaya yang diperlukan adalah 20 N<br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

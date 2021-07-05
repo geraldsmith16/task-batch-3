@@ -1,0 +1,146 @@
+{
+    "question": "Contoh teknologi komunikasi itu apa saja selain hp dan surat?",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "Fax<br>Email<br>Social Media<br><br>",
+            "attachments": []
+        },
+        {
+            "answer": "Internet, faksimile contoh lainnya<br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "ada-yang-tau-cara-bikin-mini-games-656",
+            "question": "Ada yang tau cara bikin mini games ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "caranya : pake pictogame itu setau saya <br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "cara membuat games adalah di aplikasi gamemaker atau flashtogame\u00a0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "kenapa-kalau-buka-link-selalu-di-new-tabpadahal-settingnya-sudah-403",
+            "question": "Kenapa kalau buka link selalu di new tab,padahal settingnya sudah benar??",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Mungkin itu blognya memang otomatis pindah di new tab<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Itu karena internet sudah dirancang seperti itu. Karena jika tidak muncul di new tab, tab yang kita buka akan hilang. Kan kalau udah hilang jadi repot, ya walaupun masih bisa dicari di History.<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apa-yang-mendasari-akses-hardisk-lebih-cepat-dari-perangkat-penyi-962",
+            "question": "Apa yang mendasari akses hardisk lebih cepat dari perangkat penyimpanan lainnya?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Sering seringlah me rebuild , repair , reboot\u00a0<br>shut down dengan benar",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tuliskan-langkah-langkah-mengaktifkan-komputer-125",
+            "question": "Tuliskan langkah langkah mengaktifkan komputer",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a. memeriksa apakah power sudah tersambung pada UPS(uninteruptuble Power Supply) dan stabilizer sebelum keduanya dihubungkan dengan listrik<br>b. memeriksa keyboard, mouse dan monitor . apakah sudah tersambung pada port masing2<br>c. memeriksa disket (floppy disk) pada floppy drive A dengan mengosongkan terlebih dahulu jika masih ada disket didalamnya<br>d. menekan power UPS dan stabilizer, kemudian menekan power pada CPU dan monitor. setelah itu tunggu proses booting selesai sehingga tertampil layar dekstop",
+                    "attachments": []
+                },
+                {
+                    "answer": "1. periksa kondisi semua peralatan komputer telah terpasang dengan benar. perhatikan dengan benar kabel-kabel dan konektor lain yang harus terpasang seperti kabel power ke CPU,monitor,dan printer.<br>2. nyalakan stabilizer bagi komputet yang memakai stabilizer.<br>3. nyalakan tobol power pada CPU.<br>4. nyalakan tombol power pada monitor.<br>5. tunggu beberapa saat sampai muncul tampilan awal komputer",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-nih-ada-apa-dengan-pc-ku-di-monitorku-kok-semua-keliatan-749",
+            "question": "Tolong nih ada apa dengan PC ku??    di monitorku kok semua keliatan berbayang terutama kusornya ada yang asli diikuti ama shadownya. pandangan ku jadi kabur lihat nih monitor.\u00a0\r\npertanyaan : gimana caranya balikin ke normal?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "itu harus diservice karena sudah termasuh processing system",
+                    "attachments": []
+                },
+                {
+                    "answer": "harus diservice kan diinstal ulang pun mungkin kagak bisa soalnya itu yang rusak device proscess / sistem dalemnya\u00a0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jelaskan-fungsi-dari-summery-everage-minmax-427",
+            "question": "Jelaskan fungsi dari summery, everage, min,max?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "average = untuk menghitung nilai rata-rata<br>min = untuk menghitung nilai minimum <br>max = untuk menghitung nilai maximum<br>summery = untuk menjumlahkan nilai<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "sum = jumlah nilai<br>average untuk cri nilai rata rata<br>max= nilai tertinggi<br>min=nilai terendah<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tuliskan-hal-hal-apa-saja-yang-dapat-digunakanuntuk-siskom-794",
+            "question": "Tuliskan hal-hal apa saja yang dapat digunakanuntuk siskom!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "os, aplikasi, driver, hardware<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apa-gambar-pada-layar-komputer-huruf-pertamanya-b-proses-menghid-933",
+            "question": "Apa gambar pada layar komputer?    huruf pertamanya B\r\n\r\nProses menghidupkan komputer?\r\nhuruf\u00a0pertamanya R",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "gambar pada layar komputer,\u00a0Background<br>proses menghidupkan komputer setau saya booting, tapi coba aja reset / restart\u00a0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "20-macam-komponen-instalasi-listrik-lengkap-dengan-symbol-dan-fun-347",
+            "question": "20 macam\r\n komponen instalasi listrik lengkap dengan symbol dan fungsinya",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "MACAM-MACAM INSTALASI LISTRIK<br>Instalasi listrik dapat dibedakan dalam beberapa macam yaitu :<br>A. Berdasarkan macam arus listrik yang dipakai<br>1 Instalasi listrik arus searah atau Direct Current (DC)<br>Instalasi ini sudah jarang digunakan karena hanya digunakan pada pabrik (industri), rumah tangga tertentu, kapal laut, dan lain-lain. Alat pembangkit arus searah ialah generator arus searah dan listrik tenaga matahari (Solar Cell)<br><br>2 Instalasi listrik arus bolak-balik atau Alternating Current (AC)<br>Umumnya menggunakan tegangan listrik 220 V, 380 V, 6.000 V, 20.000 V dan seterusnya. Instalasi ini banyak dipakai secara umum baik di industri maupun untuk keperluan rumah tangga. Alat untuk membangkitkan arus bolak-balik digunakan alternator dan inverter<br><br>B. Berdasarkan penggunaannya<br>1 Instalasi listrik penerangan / cahaya. Instalasi ini diperlukan untuk menghasilkan cahaya atau penerangan untuk keperluan rumah tangga.<br>2 Instalasi listrik tenaga. Biasanya digunakan untuk memutar kipas angin, pompa air, mixer, blender dan motor-motor listrik yang lain.<br>3 Instalasi listrik khusus, yaitu instalasi listrik yang terdapat pada kapal laut, pesawat udara, mobil dan sebagainya.<br>4 Instalasi listrik untuk telekomunikasi, yaitu instalasi untuk jaringan telepon, telegraf dan sebagainya<br><br>C. Berdasarkan besar tegangannya<br>1 Instalasi Tegangan Tinggi<br>Tegangannya antara 70.000 Volt (70 KV) sampai 150.000 Volt (150 KV). tegangan ini diperlukan pada jaringan transmisi jarak jauh seperti jaringan antara pusat pembangkit listrik misalnya PLTA Bakaru ke Gardu Induk di PLTU Tello. Tegangan tinggi diperlukan karena denga<br>n jarak yang jauh, tentu sebagian tegangan akan hilang (losses) dan berubah menjadi panas, maka tegangannya perlu dinaikkan dulu baru dikirimkan ke beban.<br><br>2 Instalasi Tegangan Menengah<br>Tegangannya antara 6.000 Volt (6 KV), 12.000 Volt (12 KV) dan 20.000 Volt (20 KV). Contohnya pada jaringan distribusi primer yaitu antara gardu hubung ke gardu distribusi.<br><br>3 Instalasi tegangan Rendah<br>Tegangannya antara 220 Volt, 380 Volt dan 600 Volt. Contohnya ialah instalasi listrik penerangan dan tenaga pada rumah tinggal, pabrik-pabrik atau pada jaringan distribusi.<br><br>D. Berdasarkan kuat arus atau besar daya<br>1 Instalasi listrik arus lemah, Contohnya jaringan instalasi listrik komunikasi.<br>2 Instalasi listrik arus kuat, contohnya jaringan instalasi listrik penerangan dan tenaga<br><br>E. Berdasarkan jumlah fasa<br>1 Instalasi listrik satu fasa, umumnya diperlukan untuk instalasi penerangan rumah tinggal sederhana dan semacamnya.<br>2 Instalasi listrik tiga fasa, umumnya diperlukan untuk instalasi listrik penerangan dan tenaga pada rumah tinggal, bengkel, pabrik dan lain-lain yang memerlukan listrik dengan jumlah daya yang besar.<br><br>2 BATASAN INSTALASI LISTRIK 1 FASA<br>Instalasi listrik satu fasa bukan merupakan instalasi tenaga tetapi hanya merupakan instalasi penerangan yang sederhana, misalnya untuk lampu-lampu listrik, seterika listrik, kompor listrik, pesawat pendingin dan alat-alat rumah tangga listrik lainnya.<br><br>3 KESELAMATAN KERJA DALAM INSTALASI LISTRIK 1 FASA<br>Dalam pelaksanaan pekerjaan instalasi listrik terdapat peraturan-peraturan yang telah disusun dalam buku Peraturan Umum Instalasi Listrik (PUIL) dan yang sekarang berlaku ialah PUIL2007.<br><br>Hal-hal yang perlu diperhatikan dalam pelaksanaan instalasi listrik ialah memenuhi syarat :<br>a. Keamanan<br>b. Keandalan (bermutu)<br>c. Ekonomis<br>d. Mudah dikembangkan / diperluas<br>e. Memungkinkan untuk diperbaharui<br>f. Baik dan rapi.<br><br>Dalam melaksanakan pekerjaan instalasi listrik hendaknya sudah ada perencanaan dan perhitungan pemasangannya. Untuk melaksanakan setiap pekerjaan instalasi listrik, instalatur harus membuat permohonan penyambungan listrik disertai gambar denah lengkap dengan gambar rencana hubungan listrik dan rekapitulasi daya listrik yang diperlukan.<br><br>4 LISTRIK TIGA FASA DAN SATU FASA<br><br>Yang dimaksud dengan pembangkit listrik tiga fasa ialah suatu pembangkit listrik yang menghasilkan tiga aliran listrik yang satu dengan yang lainnya mempunyai sudut fasa yang berbeda. Ketiga arus listrik tersebut masing-masing mempunyai beda fasa 1200 listrik. Listrik tiga fasa memerlukan tiga kawat penghantar dan satu kawat netral. Keempat kawat tersebut masing-masing :<br>Fasa pertama disebut fasa R dengan kode warna merah<br>Fasa kedua disebut fasa S dengan kode warna kuning<br>Fasa ketiga disebut fasa T dengan kode warna hitam<br>Saluran netral yang ditanahkan dengan kode warna biru.<br><br><span>Saluran netral harus ditanahkan sebagai saluran pembuangan arus jika terjadi hubung singkat dalam instalasi listrik.</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "mengapa-kita-sulit-mendapatkan-gerak-benda-di-sekitar-kita-berdas-635",
+            "question": "Mengapa kita sulit mendapatkan gerak benda di sekitar kita berdasar hukum I Newton?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "karena benda tidak akan bergerak kalau tidak ada yang menggerakkannya,...<br>dan tidak akan berhenti jika tida ada gaya yang menghentikannya<br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

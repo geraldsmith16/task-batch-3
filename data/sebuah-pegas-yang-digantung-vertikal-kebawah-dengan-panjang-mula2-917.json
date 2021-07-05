@@ -1,0 +1,136 @@
+{
+    "question": "Sebuah pegas yang digantung vertikal kebawah dengan panjang mula2 12cm , setelah ujung bawah dibebani massa 150 gram , makapanjang pegas menjadi 15cm, kostanta elastisitas pegas tsb adalah... N/m (g 10m/s) \u00a0 beserta caranya",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "diket : lo= 12 cm = 12 x 10\u00a0^ -2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 m = 150 g = 0,15 kg\u00a0<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 Lt= 15 cm = 15 x 10^ -2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 x = 3 cm = 3 x 10 ^ -2<br>tanya : K<br>jawab : k= m.g / x<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 k= 15 x 10^-2 : 3 x 10^-2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 k= 5<br><br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "apakah-semua-jenis-gaya-menyebabkan-pertambahan-panjang-pegas-177",
+            "question": "Apakah semua jenis gaya menyebabkan pertambahan panjang pegas ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "belum tentu, liat massa jga kk...<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "semua gaya mempengaruhi pegas<br>tetapi gaya tarik menyebabkan pertambahan panjang,sedangkan gaya dorong atau tekan menyebabkan pemendekann pada pegas :)",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bagaimana-bentuk-permukaan-zat-cairsudut-kontak-untuk-air-alko-174",
+            "question": "bagaimana bentuk permukaan zat cair(sudut kontak) untuk air, alkohol dan raksa di dalam pipa kapiler ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "sudut kontak air dengan pipa kapiler adalah 0 derajat &lt; 0 &lt; 90 derajat<br>sudut kontak air raksa dengan pipa kapiler adalah 90 derajat &lt; 0 &lt; 180 derajat",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-tali-dengan-panjang-08-m-dapat-mengerjakan-gaya-sebesar-4-345",
+            "question": "sebuah tali dengan panjang 0,8 m dapat mengerjakan gaya sebesar 4 N tanpa putus. tali itu digunakan untuk mengayunkan suatu benda bermassa 0,5 kg dalam suaru lingkaran horizontal. tentukan periode minimum agar benda dapat diayun tanpa menyebabkan tali putus.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "F= 4 N<br>r= 0,8m<br>m= 0,5 kg<br><br>T=F=mv^2/r<br>v^2 = F . r/m<br>v^2 = 4 . 8/5 =32/5 = 6,4<br><br>v= omega . r<br>v^2= omega^2 . r^2<br>6,4 = omega^2 . 0,8^2<br>omega^2= 6,4/0,64<br>omega^2 = 10<br>omega =\u221a10<br><br>omega= 2 phi /T<br>T= 2 phi / omega<br>T = 2 phi/ \u221a10<br><br>(maaf kalo salah, mata ane udah tinggal 5 watt)<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suatu-lensa-bikonveks-jari-jari-kelengkungannya-masing-masing-10-648",
+            "question": "Suatu lensa bikonveks ,jari-jari kelengkungannya masing-masing 10 cm dan 40 cm, indeks bias kacanya nk =1,5 . Kemudian, lensa dimasukkan ke dalam minyak yang indeks biasnya n =1,2. Maka kekuatan lensanya dalam minyak ialah.... dioptri.    a. 3,125 \r\nb. 3,250\r\nc. 4,125\r\nd. 4,250\r\ne. 5,250\r\n\r\njawabnya ,tolong pakek cara,ya!!! Biar ngerti cara ngerjain soalnya juga :D",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "tiga dua lima puluh bukan<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "penjelasan-tentang-momen-inersia-berbagai-benda-tegar-homogen-706",
+            "question": "Penjelasan tentang momen inersia berbagai benda tegar homogen",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Benda tegar tersusun dari banyak partikel yang tersebar di seluruh \nbagian benda. Momen inersia suatu benda tegar merupakan jumlah semua \nmomen inersia masing-masing partikel penyusun benda tegar.<br><br><br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span>Benda tegar tersusun dari banyak partikel yang tersebar di seluruh \nbagian benda. Momen inersia suatu benda tegar merupakan jumlah semua \nmomen inersia masing-masing partikel penyusun benda tegar.<br></span><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-bola-pejal-yang-berjari-jari-r20-cm-bermassa-m2-kg-dilep-457",
+            "question": "sebuah bola pejal yang berjari-jari R=20 cm bermassa m=2 kg dilepas di titik A pada bidang miring kasar tanpa kecepatan awal,berapa energi kinetik rotasi bola ketika mencapai titik B(di ujung)?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "I=2/5mR\u00b2<br><br>EK=Ek rotasi<br>EK=\u00bd I \u03c9\u00b2<br>EK=\u00bd (\u2156 mr\u00b2) (v/r)\u00b2<br>EK=\u2155 m v\u00b2<br>EK=1/5 . 2 . v\u00b2<br>EK=2/5 v\u00b2<br><br>saya dak tau cara nyari V nya berapa. hanya ini yg bisa saya bantu<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span>I=2/5mR\u00b2<br><br>EK=Ek rotasi<br>EK=\u00bd I \u03c9\u00b2<br>EK=\u00bd (\u2156 mr\u00b2) (v/r)\u00b2<br>EK=\u2155 m v\u00b2<br>EK=1/5 . 2 . v\u00b2<br>EK=2/5 v\u00b2<br><br></span><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "4-buah-pegas-identik-masingmasing-mempunyai-konstanta-elavasitas-344",
+            "question": "4 buah pegas identik masingmasing mempunyai konstanta elavasitas 1600N.M-1, disusun seri-paralel (lihat gambar)    beban w yang di gantung menyebabkan sistem pegas mengalami pertambahan panjang secara keseluruhan sebesar 5cm. berat beban w adalah",
+            "attachments": [
+                "question-attachments/4-buah-pegas-identik-masingmasing-mempunyai-konstanta-elavasitas-344-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "Ktotal = (4800x1600) : 4800 + 1600 = 1200 N/m<br>w=Fpegas<br>w=kx<br>w= 1200(0.05)<br>\u00a0 =60 n",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "seseorang-mengendarai-mobil-dengan-kecepatan-90-kmjam-tiba-tiba-318",
+            "question": "seseorang mengendarai mobil dengan kecepatan 90 km/jam. tiba-tiba mobil tersebut direm dengan perlambatan maksimum. Besarnya jarak yg di butuhkan adalah...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "ya kagak ada jawabannya\u00a0<br>karena rumus GLBB diperlambat itu<br>v = v0 . t - a .t<br>s = v0 . t - 1/2 a . t\u00b2<br>vt\u00b2 = v0\u00a0\u00b2 - 2 a . s",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-bola-pejal-yang-massanya-10-kg-dan-jari-jarinya-20-cm-meng-777",
+            "question": "sebuah bola pejal yang massanya 10 kg dan jari-jarinya 20 cm menggelinding dengan kecepatan 8 m/s . berapakah energi kinetiknya?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "ek = 1/2 . mv^2 = 1/2 . 10 kg . 8^2 = 1/2 . 10. 64 = 320 joule<br>ingat ya m= 10 kg<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 v = 8 m/s<br>jika m dan v sudah diketahui kita uda bisa ngerjain energi kinetiknya :)",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-baterai-dihubungkan-dengan-sebuah-resistor-akan-menghasilk-862",
+            "question": "Sebuah baterai dihubungkan dengan sebuah resistor akan menghasilkan arus 0,6 ampere. Jika pada rangkaian tersebut ditambahkan sebuah resistor 4,0 ohm yang dihubungkan seri dengan resistor pertama maka arus akan turun menjadi 0,5 ampere. Gaya gerak listrik (ggl) baterai (dalam volt) adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "v=I.R (sebelum ditambah resistor) <br>v=0.6R1 <br>v=I total ( R1 + R2 ) (setelah ditambah resistor ) <br>nah lalu substitusi <br>I R1 = I total . (R1+R2)<br>0.6R1=0.5 . ( R1 + 4) <br>0.6R1 - 0.5R1 =2<br>0.1R1=2 <br>R1=20ohm ==&gt; V=IR <br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 V=0.6x20 = 12volt <br>maaf kalau ada salah <br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

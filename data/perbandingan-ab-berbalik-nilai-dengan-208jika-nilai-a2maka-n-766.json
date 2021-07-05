@@ -1,0 +1,142 @@
+{
+    "question": "Perbandingan a:b berbalik nilai dengan 20:8.Jika nilai a=2,maka nilai b=",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "Jika a\u00a0:\u00a0b berbalik nilai dengan 20\u00a0:\u00a08<br>maka, a : b = 8 : 20<br><br>Jika a = 2<br>maka, b = (20/8) x 2<br>b =\u00a05",
+            "attachments": []
+        },
+        {
+            "answer": "a/b=8/20<br>2/b=8/20<br>8b=40<br>b=40/8<br>b= 5",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "rumus-cara-mencari-jari2-jika-diketahui-pi-314-dan-luasnya-dik-346",
+            "question": "Rumus cara mencari jari2 jika diketahui pi = 3,14 dan luasnya diketahui gimana? Rumusnya saja ya",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "luas\u00a0=22/7.[tex] r^{2} [/tex]<br>misalnya l=314cm2<br>luas 314=3,14x\u00a0r^{2} [/tex]",
+                    "attachments": []
+                },
+                {
+                    "answer": "r= \\sqrt({ \\frac{L}{ \\pi } }  )[/tex] L/pi<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "help-berapakah-x-280",
+            "question": "[HELP]\u00a0 berapakah x?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "2^{x-5} = 4^{x+3}<br>2^{x-5} = 2^{2(x+3)}<br>x-5 = 2(x+3)<br>x-5 = 2x+6<br>x-2x = 6+5<br>-x = 11<br>x = -11",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "ke-dalam-sebuah-kaleng-akan-dimasukkan-5o-keping-uang-logam-yang-759",
+            "question": "ke dalam sebuah kaleng akan dimasukkan 5o keping uang logam yang terdiri atas uang\u00a0Rp200,00-an\u00a0dan\u00a0Rp500,00-an. Agar nilai uang dalam kaleng paling sedikit Rp16.000,00, banyak uang\u00a0Rp200,00-an adalah...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Rp.500 koin = 20 koin<br>Rp.200 koin = 30 koin<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-f-x-5x8-tentukan-nilai-fapabila-x-4-205",
+            "question": "Jika F (x) =5x+8 tentukan nilai f.apabila x=-4",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "F(x) = 5x + 8<br>jika x = - 4<br><br>maka:<br>F (-4) = 5 (-4) + 8<br>F(-4) = -20 +8<br>F(-4) = -12<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "f ( -4 ) = 5 (-4) + 8<br>f (-4) = -20 + 8<br>f (-4) = -12<br>f\u00a0 \u00a0 \u00a0 \u00a0 = -12/-4<br>f\u00a0 = 3<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-sebuah-segitiga-panjang-sisinya-adalah-8-cm-15-cm-17-483",
+            "question": "Diketahui sebuah segitiga panjang sisinya adalah 8 cm, 15 cm, 17 cm. hitunglah panjang jari-jari lingkaran dari dalam segitiga dan luas segitiga.    tolong dijawab. besok mau dikumpul..",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "\u00a0 \u00a0 \u00a0segitiga dengan sisi 8 , 15 dan 17\u00a0<br>\u00a0adalah segitiga siku2 jadi luas = 1/2 alas x tinggi \u00a0= 1/2 x8 x 15<br>s = 1/2(8+15+17)=20<br>r lingkaran dalam adalah r = (s - a)tan 1/2\u03b1<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0=( 20 - 17) tan 1/2 90<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 3 tan 45\u00a0<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 3<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "53-35-232-7-45-665",
+            "question": "5\u221a3-3\u221a5 =\r\n-2\u221a3+\u221a2 =\r\n\u221a7- 4\u221a5 =",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1. hasilnya 2\u221a5<br>yang no. 2 sudah tdk bisa dikurangi lagi, begitu juga yang no. 3 nya<br><br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "2-per-3-2a35-per-6-a-5-506",
+            "question": "2 per 3 (2a+3)=5 per 6 (a-5)=",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "2/6a+9 = 5/6a-30<br>12a-60 = 30a+45<br>-105 = 18a<br>a= -105/18",
+                    "attachments": []
+                },
+                {
+                    "answer": "[tex] \\frac{2}{3} (2a+3)= \\frac{5}{6} (a-5)  [/tex]<br><br>[tex] \\frac{4a+6}{3} =  \\frac{5a-25}{6} [/tex]<br><br>3(5a-25)=6(4a+6)<br><br>[tex]15a-75=24a+36[/tex]<br><br>15a-24a=36+75<br>-9a=111<br>a=111/-9<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bu-aminah-menyimpan-uang-di-bang-sebesar-rp-60000000-setelah-4-329",
+            "question": "bu aminah menyimpan uang di bang sebesar rp 600.000.00 setelah 4 bulan jumlah simpenan bu aminah\u00a0 menjadi rp 648000.00 suku bunga tunggal (%) yang di berikan bank itu per tahun adalah ...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "4 bulan = 648.000 - 600.000 = 48.000<br>1 bulan = 12.000<br>1 tahun = 12 x 12.000 = 144.000<br><br>% = (144.000/600.000) x 100%<br>% = (12/50) x 100%<br>% = 24 %",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "seorang-anak-memainkan-layang-layang-dengan-benang-yg-panjang-nya-271",
+            "question": "seorang anak memainkan layang layang dengan benang yg panjang nya 130m. jarak anak dengan titik di tanah yang tepar di bawah layang layang adalah 50m. tinggi layang layang tersebut ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "gunakan phytagoras<br><br>x2(kuadrat) = 130^2 (kuadrat) - 50^2 (kuadrat)<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0=\u00a016900-2500<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 14400<br>x= akar 14400<br>x= 120<br>jawaban = 120 m<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dari-himpunan-himpunan-dibawah-ini-manakah-yang-merupakan-himpuna-642",
+            "question": "Dari himpunan-himpunan dibawah ini manakah yang merupakan himpunan yang ekuivalen?    a. P = {1, 2, 3, 4}\r\nb. Q = {a, b, c}\r\nc. R = {x, y, z, m, n}\r\nd. S = {a, i, u, o, f}\r\ne. T = [a, m, n}",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "b dan e<br>maaf kalau ada yang salah...,<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "b dan e<br>c dan d ...........................",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

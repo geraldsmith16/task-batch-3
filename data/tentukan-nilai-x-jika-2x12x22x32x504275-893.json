@@ -1,0 +1,158 @@
+{
+    "question": "Tentukan nilai X, jika (2x+1)+(2x+2)+(2x+3)+...+(2x+50)=4275",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "[tex]Sn= \\frac{n}{2} (U1+Ut)[/tex]<br>u1 adalah suku pertama =(2x+1)<br>ut adalah suku terakhir=(2x+50)<br>banyak nya n suku tsb adalah 50 atau n = 50<br>[tex]Sn= \\frac{n}{2} (U1+Ut)[/tex]<br>4275=[tex] \\frac{50}{2} ( (2x+1)+(2x+50))[/tex]<br>4275=[tex]25(4x+51)[/tex]<br>[tex] \\frac{4275}{25} =4x+51[/tex]<br>171=4x+51<br>120=4x<br>x=3",
+            "attachments": []
+        },
+        {
+            "answer": "Dik : a = 2x+1<br>\u00a0\u00a0 \u00a0 \u00a0  n = 50\u00a0 , b = 1<br>\u00a0\u00a0 \u00a0 \u00a0 S50 = 4275<br>Dit : x , untuk mencari x maka harus tau nilai a<br>Jawab :<br>Sn = 1/2 n (2a + (n-1) b)<br>4275 = 1/2 (50) (2a + (50-1)(1))<br>4275 = 25 (2a + 49)<br>171 = 2a + 49<br>171 - 49 = 2a<br>122 = 2a<br>a = 61<br><br>a = 2x+1<br>61 = 2x + 1<br>61-1 = 2x<br>60 = 2x<br>x = 30<br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "2x-815-215-tentukan-nilai-x-tolong-banget-yaa-475",
+            "question": "2^x . 8^1/5 = 2^1/5\r\n Tentukan nilai x\r\n Tolong banget yaa",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex] 2^{x} .  \\sqrt[5]{8} =  \\sqrt[5]{2}  [/tex]<br>[tex] 2^{x}+ \\frac{2}{5}  = 1[/tex]<br>x =[tex] -\\frac{2}{5} [/tex]",
+                    "attachments": []
+                },
+                {
+                    "answer": "[tex]2^x.(2^3)^{\\frac{1}{5}}=2^{\\frac{1}{5}}\\\\\\\\\n2^x=\\frac{2^{\\frac{1}{5}}}{2^{\\frac{3}{5}}}\\\\\\\\\n2^x=2^{\\frac{1}{5}-\\frac{3}{5}}\\\\\\\\\nx=-\\frac{2}{5}[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "3z11-28-itu-gimana-caranya-yah-506",
+            "question": "3z+11=-28 itu gimana caranya yah?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "3z+11=-28<br>3z=-28-11<br>3z=-39<br>z=-12",
+                    "attachments": []
+                },
+                {
+                    "answer": "3z +11 = -28<br>3z = -28 - 11<br>3z = -33<br>z = -11",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apakah-yang-dimaksud-dengan-linear-satu-variabel-174",
+            "question": "Apakah yang dimaksud dengan linear satu variabel?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Persamaan linear satu variabel<span>\u00a0<br>adalah persamaan yang terdiri dari satu variabel dan pangkat terbesar dari variabel tersebut adalah satu.</span>",
+                    "attachments": []
+                },
+                {
+                    "answer": "kalimat terbuka yang di hubungkan dengan tanda (=) dan hanya mempunyai 1 variabel pangkat 1",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-3x-12-7x-8-tentukanlah-nilai-dari-x-2-274",
+            "question": "Jika 3x + 12 = 7x - 8, tentukanlah nilai dari x +2",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]3x-7x=-8-12 \\\\-4x=-20 \\\\x=5 \\\\  \\\\ x+2=5+2=7[/tex]",
+                    "attachments": []
+                },
+                {
+                    "answer": "3x+12=7x-8<br>7x-3x-8-12=0<br>4x-20=0<br>4x=20<br>x=5<br><br>x+2<br>=5+2=7<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-himpunan-penyelesaian-dari-pertidaksamaan-berikutjika-x-972",
+            "question": "tentukan himpunan penyelesaian dari pertidaksamaan berikut,jika x variabelnya pada himpunan bilangan bulat. \u00a0 a. 1/2 (x+5) - 1/4 (x + 1) &gt; 3 b. 1/3 (5x-1) &lt; 1/2 (2x +1)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a. 1/2\u00a0(x+5) - 1/4 (x+1) &gt;3<br>\u21d46\u00a0(x+5) - 3(x+1) &gt; 39<br>\u21d46x + 30 - 3x + 3 &gt; 39<br>\u21d46x - 3x &gt; 39 - 30 - 3<br>\u21d4 3x &gt; 6<br>\u21d4 x &gt; 6/3 = 2<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-naik-bentor-dheni-akan-sampai-di-sekolah-dalam-waktu-45-men-905",
+            "question": "jika naik bentor, dheni akan sampai di sekolah dalam waktu 45 menit dengan kecepatan rata-rata bentor 20 km/jam. berapa kecepatan rata-rata bentor agar dheni sampai di sekolah dalam waktu 30 menit?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "kecepatannya menjadi 30 km / jam<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "5pak-indra-membeli-2-jenis-kopi-ia-membeli-10-kg-jenis-kopi-a-dg-572",
+            "question": "5Pak Indra membeli 2 jenis kopi. Ia membeli 10 kg jenis kopi A dg harga Rp10.000 per kg &amp;15 kg jemis kopi dengan harga Rp12.000 per kg. Pak Indra mencampur kedua kopi tersebut dan akan dijual lagi . Jika Pak Indra menginginkan kentungan sebesar 25% , tentukan haraga jual kopi campuran per kg .",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "di campur = ditambahkan<br>maka 10kg + 15 kg = (10 x 10.000) + (15 x 12.000)<br>25kg = 100.000 + 180.000<br>25kg = 280.000<br>untung 25%. maka 25 / 100 x 280.000 = 70.000<br>maka 280.000 + 70.000 = 350.000<br>harga per kilo = 350.000 \u00f7 25 kg<br>= 14.000 /kg<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "jenis 1 =10 x 10000 = 100000<br>jenis 2 =15 x 12000 = 180000<br><br>jenis 1 n 2 = 10000 + 180000 =190000<br>190000x 25 % =47500<br>= selanjutnya aq gak tau<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "andi-dapat-menyelesaikan-pekerjaan-dalam-waktu-3jam-sedangkan-bu-213",
+            "question": "Andi dapat menyelesaikan pekerjaan dalam waktu 3jam, sedangkan budi dapat menyesaikan pekerjaan dalam waktu 2jam. Jika Andi dan Budi menyelesaikan pekerjaan tersebut bersama sama ,maka hitunglah waktu yang di perlukan keduanya ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "andi = 3 jam<br>budi = 2 jam<br><br>3-2 = 1<br><br>jadi jawabanya 1 jam<br><br>sorry, tadi salah baca soal",
+                    "attachments": []
+                },
+                {
+                    "answer": "Andi = 3 jam<br>Budi = 2 jam<br>Selisih = 3-2 = 1 jam.<br>Karena mereka mengerjakannya bersama-sama maka waktunya cuma 1 jam.\u00a0<br>Maaf klo salah",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "lanjutkan-3-bilangan-berikutnya-a511172329-b3611-913",
+            "question": "lanjutkan 3 bilangan berikutnya,,, a.5,11,17,23,29,.... b.3,6,11,18,.... c.81,27,9,3,... d.1,1,2,3,5,8,13,....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a. tiga puluh enam<br>b.\u00a0",
+                    "attachments": []
+                },
+                {
+                    "answer": "yang a. itu berkelipatan 6 yaitu ...29, 35, 41, 47...<br>b. itu ganjil.. yaitu ..18, 27, 38, 51...<br>c. dibagi 3 ...3, 1, 3/10, 1/10 ..<br>d. yaitu 2 angka dibelakangnya ditambahkan sehingga menjadi hasil depannya<br>\u00a0...13, 21, 34, 55,....<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-penyelesaian-dari-pertidaksamaan-berikut-a-2x-gt-12-434",
+            "question": "Tentukan penyelesaian dari pertidaksamaan berikut:    a. 2x &gt; 12\r\nb. 20 - y \u2265 2y + 5\r\nc. 6x - 18 &gt; 18",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]a.2x&gt;12 \\\\ x&gt;12/2 \\\\ x&gt;6 \\\\  \\\\ b.20-y \\geq 2y+5 \\\\ -y-2y=5-20 \\\\ -3y=-15 \\\\ y=15/3 \\\\ y=5 \\\\  \\\\ c.6x-18&gt;18 \\\\6x&gt;18+18 \\\\ 6x&gt;36 \\\\ x&gt;6[/tex]",
+                    "attachments": []
+                },
+                {
+                    "answer": "a. x&gt;6<br>b.20 - 5\u00a0[tex] \\geq [/tex] 2y + y<br>\u00a0 \u00a015\u00a0[tex] \\geq [/tex] 3y<br>\u00a0 \u00a0 y\u00a0[tex] \\geq [/tex] 5<br>c. 6x &gt; 36<br>\u00a0 \u00a0 x &gt; 6",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

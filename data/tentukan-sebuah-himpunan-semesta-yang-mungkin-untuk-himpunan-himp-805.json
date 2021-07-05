@@ -1,0 +1,138 @@
+{
+    "question": "Tentukan sebuah himpunan semesta yang mungkin untuk himpunan-himpunan berikut\u00a0    a.A={1,4,9,16,25}\r\nb.B={1,3,5,7,...}\r\nc.E={m,dm,cm,mm}\r\nd.F={kerucut,tabung,bola}",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "a. A = { himpunan bilangan kuadrat }<br>b. B = { himpunan bilangan ganjil }<br>c. E = { himpunan satuan panjang }<br>d. F = { himpunan bangun ruang sisi lengkung }<br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "keliling-sebuah-belahketupat-120cm-jika-panjang-slah-satu-diag-913",
+            "question": "keliling sebuah belahketupat 120cm.\u00a0 jika panjang slah satu diagonalny 48cm.\u00a0 berapakah luas belahketupat\u00a0 tersebut..",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]\\text{K}=4\\times\\text{s}\\\\\n120=4\\times\\text{s}\\\\\n\\text{s}=120:4\\\\\n\\text{s}=30\\\\\\\\\n\\text{d}_2= \\sqrt{30^2-(48:2)^2} \\\\\n\\text{d}_2= \\sqrt{30^2-24^2}\\\\\n\\text{d}_2= \\sqrt{900-576}\\\\\n\\text{d}_2= \\sqrt{324}\\\\\n\\text{d}_2= 18\\times2=36\\text{ cm}\\\\\\\\\n\\text{L}= \\frac{\\text{d}_1\\times\\text{d}_2}{2} \\\\\n\\text{L}= \\frac{48\\times36}{2}~~(36:2=18)\\\\\n\\text{L}=48\\times18\\\\\n\\boxed{\\boxed{\\text{L}=864\\text{ cm}^2}}}[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-nilai-x-jika-2x-1-2x-2-2x-32x-5-961",
+            "question": "Tentukan nilai x, jika (2x + 1) + (2x + 2) + (2x + 3)+...+(2x + 50) = 4275. Tolong dijawab yaa, pleaseee",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "jawabannya 30<br><br>Sn = n/2 { a +Un } = 4275<br>&gt; 50/2 { (2x+1) + (2x+50) } = 4275<br>&gt; 25 { 4x + 51 } = 4275<br>&gt; 100x + 1275 = 4275<br>&gt;100x = 4275 - 1275<br>&gt;100x = 3000<br>&gt;x = 30<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "panjang-diagonal-persegi-adalah-8cm-luas-persegi-tersebut-adala-645",
+            "question": "Panjang diagonal persegi adalah 8cm\u00a0\r\nluas persegi tersebut adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]a^2 + a^2 = 8^2 \\\\ 2a^2 = 64 \\\\ a^2 = 32 \\\\ \\\\ L= s^{2} = a^{2} =32  cm^{2} [/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "berapa-orang-yang-gemar-matematika-maupun-bahasa-ingggris-dari-se-872",
+            "question": "berapa orang yang gemar matematika maupun bahasa ingggris dari sekelompok siswa yang terdiri dari 35 orang, ternyata 18 orang gemar matematika, 22 orang gemar bahasa inggris, dan 7 orang tidak gemar matematika maupun bahasa inggris ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "orang yang gemar keduanya = (yg gemar matematika + yg gemar bahasa inggris + yg tidak gemar keduanya) - jumlah siswa\u00a0 -&gt; ( 18 + 22 + 7 ) - 35 = 47 - 35 = 12<br>jadi yang gemar matematika dan bahasa inggris ada 12 siswa.<br><br>semoga membantu :)<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "S(semua)=35 org<br>Matematika=18<br>b.inggris=22<br>tidak keduanya=7<br><br>Rumus<br>Semua+keduanya=Lainnya<br>35+I=(18+22+7)<br>35+I=47<br>I=47-35<br>I=<strong><em>12</em></strong>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "luass-sebuah-juring-jika-jari-jarinya-10cm-maka-panjang-busur-953",
+            "question": "Luass sebuah juring \u00a0,jika jari-jarinya 10cm maka panjang busur juring adalah :    a.4cm\r\nb.8cm\r\nc.12cm\r\nd.14cm\r\n\u00a0 bantuannya memakai cara y",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Luas juring = <u>a\u00b0</u>\u00a0 \u00d7 \u03c0 \u00d7 r\u00b2<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 360\u00b0<br>40cm\u00b2 =\u00a0<u>a\u00b0</u>\u00a0 \u00d7 3,14 \u00d7 10\u00b2<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0  360\u00b0\u00a0 <br>40 cm\u00b2 \u00d7 360 = 314 a\u00b0<br>45,86\u00b0 = a<br><br>panjang busur = <u>45,86</u> \u00d7 3,14 \u00d7 20<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0  \u00a0 360<br>PB = 8,00002 atau 8 cm<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span>luass sebuah juring \u00a0</span><span>,jika jari-jarinya 10cm maka panjang busur juring adalah :</span><br><span>a.4cm<br>b.8cm<br><strong><em><u>c.12cm aku nggak tau caranya</u></em></strong><br>d.14cm<br>\u00a0 bantuannya memakai cara y<br></span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "kenapa-kebanyakan-siswa-mengaku-bahwa-matematika-itu-pelajaran-yg-263",
+            "question": "Kenapa kebanyakan siswa mengaku bahwa matematika itu pelajaran yg sulit?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "karena matematika terlalu banyak rumus dn siswa susah memahami nya<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-sebuah-segitiga-panjang-sisinya-adalah-8-cm-15-cm-17-661",
+            "question": "Diketahui sebuah segitiga panjang sisinya adalah 8 cm, 15 cm, 17    cm. hitunglah panjang jari-jari lingkaran dari dalam segitiga dan luas \r\n segitiga.\r\n\r\ntolong dijawab. besok mau dikumpul..",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1/2 \u00d7 8 \u00d7 15 \u00f7 1/2 (8+15+17) =  60 \u00f7 20 =3 \n\nMaaf kalau ga jelas",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "cara-mencari-tembereng-amp-apotema-pada-lingkaran-896",
+            "question": "Cara Mencari Tembereng &amp; apotema pada lingkaran",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Cara mencari Tembereng :<br>Luas tembereng = Luas Juring \u2013 Luas Segitiga\u00a0<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "kalo apotema bisa pake konsep luas segitiga sama pythagoras<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-diketahui-barisan-aritmatika-dengan-u1-3-un-87-dan-u6-u7-359",
+            "question": "1. Diketahui barisan aritmatika dengan U1= 3, Un= 87, dan U6 + U7 = 9. Tentukan : a) b=...? b) n=...? c) U50=....?    Pake caraa .. please jawab yaaa:)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "U1 = a = 3<br><br><span>U6 + U7 = 9<br>[a + (6-1)b] + [a + (7-1)b] = 9<br>[3 + 5b] + [3 + 6b] = 9<br>6 + 11b = 9<br>11 b = 9 - 6<br>11b = 3<br>b = [tex] \\frac{11}{3} [/tex] <br><br><br><br><br></span><span>Un= 87<br>a + (n-1)b = 87<br>3 + (n-1) </span>[tex] \\frac{11}{3} [/tex] = 87<br>3 + [tex] \\frac{3}{11} n[/tex] - [tex] \\frac{3}{11} [/tex] = 87<br>[tex] \\frac{36}{11} [/tex] + [tex] \\frac{3}{11} n[/tex] = 87<br>[tex] \\frac{3}{11} n[/tex] = 87 - [tex] \\frac{36}{11} [/tex]<br>[tex] \\frac{3}{11} n[/tex] = [tex] \\frac{957}{11} [/tex]<br>3n = 957<br>n = 319<br><br><br><span>U50 = 3 + 49b<br>\u00a0\u00a0 \u00a0\u00a0\u00a0 = 3 + 49 [tex] \\frac{3}{11} [/tex]<br>\u00a0\u00a0 \u00a0 \u00a0 = 3 + 13,3<br>\u00a0\u00a0 \u00a0 \u00a0 = 16,3<br><br><br><br>semoga membantu :)<br></span><br><br><br><br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apa-pengertian-dari-bangun-datar-jajar-genjang-594",
+            "question": "Apa pengertian dari bangun datar jajar\u00a0genjang\u00a0?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "jajar genjang adalah\u00a0<span>angun datar\u00a0</span>dua dimensi<span>\u00a0yang dibentuk oleh dua pasang\u00a0</span>rusuk<span>\u00a0yang masing-masing sama panjang dan\u00a0</span>sejajar<span>\u00a0dengan pasangannya, dan memiliki dua pasang\u00a0</span>sudut<span>\u00a0bukan\u00a0</span>siku-siku<span>\u00a0yang masing-masing sama besar dengan sudut di hadapannya.</span>",
+                    "attachments": []
+                },
+                {
+                    "answer": "bangun datar jajar genjang adalah bangun datar yang luas bidangnya di dapat dengan mengalikan alas dan tinggi bangun tersebut",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

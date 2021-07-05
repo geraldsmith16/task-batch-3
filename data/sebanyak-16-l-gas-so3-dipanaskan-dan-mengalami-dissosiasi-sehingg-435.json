@@ -1,0 +1,138 @@
+{
+    "question": "Sebanyak 16 L gas SO3 dipanaskan dan mengalami dissosiasi sehingga terbentuk    \u00a0 30 %dari volum O2\r\n\u00a0( Udara 20% O2). Tentukan :\u00a0 a). \u03b1\u00a0\u00a0 b). Kc\u00a0\u00a0\r\n c). Kp pada 127oC",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "16 L SO3 terdisosiasi menjadi O2 sebanyak 30% dimana udara adalah 20% dari O2 tersebut. maka O2 (yang masih bercampur dg udara) yang terbentuk adalah<br>16 L X 30% = 4,8 L<br>O2 murni (tanpa udara) = 4,8 L - (4,8 x 20%) = 4,8 - 0,96 L = 3,84 L<br><br>dengan menjadikan Volume sebagai mol maka reaksinya<br><br>.........SO3 ----&gt;\u00a0 SO2\u00a0 +\u00a0 1/2 O2<br>M.......16L<br>R........7,68.......7,68..............3,84<br>S........8,32.......7,68...............3,84<br><br>maka<br>a derajat ionisasinya (hanya dimilki oleh zat yg memiliki mula2, yaitu SO3)<br>alpha = R/M = 7,68 /16 = 0,48 atau 48 %<br><br>b.<br>Kc = {(3,82)^1/2 x (7,68)}/ 8,32 = 1,8<br><br>c.<br>Kp = Kc(RT)^delta n<br>Kp = 1,8 (0,082 x 400)^0,5 = 10,3<br><br><br>itu pemahaman saya, jika jawaban saya terbaik mohon di tandai ya :)<br>semoga bermanfaat :)<br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "50-ml-larutan-koh-00025-ditambahkan-air-hingga-voulme-larutan-20-821",
+            "question": "50 ml larutan KOH 0,0025 ditambahkan air hingga voulme larutan 200 mL tentukan pH setelah diencerkan",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "identifikasikan zatnya asam atau basa ,kuat atau lemah?<br>disini KOH termasuk basa kuat dengan valensi basa (Vb) = 1<br>50 ml adalah V1 jika ditambah 200 ml air maka V2 = 250 mL<br><br>nah gunakan <br>M1 V1 = M2 V2<br>0,025 x 50 = M2 x 250<br>M2 = 5 x 10^-3\u00a0 ....................... ^ dibaca pangkat ya :)<br><br>setelah ketemu M2 kita cari OH- nya<br>[OH-] = Mb x Vb = 5 x 10^-3 x 1 = 5 x 10^-3<br><br>pOH = - log 5 x 10^-3 = 3 - log5<br>pH = 14 - (3-log5) = 11 + log 5<br><br>tandai sebagai jawab terbaik jika iya :)<br>semoga bermanfaat :)<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "50 ml . 0,0025 = 200 ml . M2<br>M2 = 200. 0,0025 / 50 = 5/50 = 0,1<br><br>maka ph nya\u00a0<br>[OH-] = M.n = 0,1 .1 = 0,1<br>p[OH-] = - log 1. 10 ^-1 = 1<br>ph = 14 -1 = 13 :)",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tulislah-rumus-kimia-dan-reaksi-ionisasi-asambasa-berikut-a-asa-140",
+            "question": "tulislah rumus kimia dan reaksi ionisasi asam/basa berikut a. asam sulfat b. asam asetat c. barium hidoksida d. kalium hidroksida",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Asam sulfat, H2SO4, merupakan asam mineral (anorganik) yang kuat.<br>asam asetat\u00a0CH3COOH / (CH2O)<br>barium hidroksida\u00a0<span>Ba(OH)2 Ba (OH) 2<br>kalium hidroksida\u00a0</span><span>Ca(OH)2 Ca (OH) 2<br></span><br>semoga membantu :)\u00a0",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span> a. asam sulfat\u00a0 : H2SO4.......&gt; 2H+\u00a0 +\u00a0 SO4^-2<br></span>\u00a0b. asam asetat\n: CH3COOH......&gt; CH3COO^-\u00a0 +\u00a0 H^+\u00a0  <br>c. barium hidoksida\n<span>: Ba(OH)2......&gt;\u00a0 2OH-\u00a0  +\u00a0 Ba+2<br>d. kalium hidroksida</span> : KOH........&gt; K+\u00a0  +\u00a0 OH-<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "hitunglah-titrasi-dari-01-m-hcl-25-ml-dengan-02-m-naoh-799",
+            "question": "Hitunglah titrasi dari 0,1 m HCl 25 ml dengan 0,2 m NaOH !",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "jadi titrasi dari pertanyaan anda adlah 120",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "10-ml-larutan-naoh-001-m-diencerkan-sampai-volumenya-1000-ml-ma-572",
+            "question": "10 mL larutan NaOH 0,01 M diencerkan sampai volumenya 1000 mL, maka berapa PH-nya ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "10.0,01=1000.M<br>0,1 = 1000M<br>M = 1x10\u207b\u2074<br>pOH = -log 1x10\u207b\u2074<br>pOH = 4<br>pH = pKw - pOH<br>\u00a0 \u00a0 = 14 - 4<br>\u00a0 \u00a0 =<strong>\u00a010</strong>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suatu-sampel-kayu-dianalisis-ternyata-1-gram-karbon-pada-kayu-ts-127",
+            "question": "suatu sampel kayu dianalisis, ternyata 1 gram karbon pada kayu tsb mempunyai aktivitas 8,5 disintegrasi, brp umur kayu tsb jika karbon dg no massa 14 sama dg 5770 tahun. dan aktivitas karbon dalam tumbuh-tumbuhan hidup 15,3 disintegrasi per menit?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "sejauh ini saya belum mjarang menemui soal seperti di atas, akan saya coba<br><br><span>t = (1/lamda)(ln (Ao/A))</span>\n <br><br>dengan catatan:\n<br> A\t= aktivitas C-14 saat ditemukan [Ci atau Bq]\n<br>Ao= aktivitas C-14 semula (pada waktu masih hidup) [Ci atau Bq]\n<span><br>lamda= \tKonstanta peluruhan C-14 (12,09 x 10-5 /tahun)</span>\n<br><span>t\t= waktu (umur) yang dicari</span> <br><br>dari soal :<br>A\u00a0 \u00a0 = 8,5 disintegrasi<br>Ao = 15,3 disintegrasi<br>maka <br>t = (1/12,09 x 10^-5/tahun) (ln 15,3/8,5)<br>= 1/12,09 x 10^-5 / 51hun x 0,5877<br>= 60,45 tahun<br><br><br>semoga bisa membantu, maaf jika ada kesalahan :)<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-yg-mengalami-oksidasi-dan-reduksi-dari-cl2kohkclo2kcl-545",
+            "question": "tentukan yg mengalami oksidasi dan reduksi dari Cl2+KOH=KClO2+KCl+H2O dengan konsep peningkatan dan penurunan bilangan oksidasi !",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "oksidasi adalah CL, reduksi adalah K",
+                    "attachments": []
+                },
+                {
+                    "answer": "Cl2+KOH=KClO2+KCl+H2O<br>0\u00a0 \u00a0 \u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 +3\u00a0 \u00a0 \u00a0 \u00a0  -1<br><br>yang oksidasi Cl2<br>yang reduksi Cl2<br>hasil oksidasi KClO2<br>hasil reduksi KCl<br><br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "ada-yang-bisa-bantu-aku-ga-gimana-cara-gampang-untuk-belajar-tat-681",
+            "question": "ada yang bisa bantu aku ga, gimana cara gampang untuk belajar tatanama dari alkanol,eter,aldehid dan keton?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "ingat rumus msg dlu..\u00a0<br>alkanol r-oh<br>eter r-o-r\u00a0<br>aldehida r-c=o-h (ket : O diatas C)<br>keton r-c=o-o-r (ket : O pertama di atas C)<br><br><br>aldehida slalu posisi itungan 1 ..jd hitung rantai dr yg ad COH nya...<br>trus klo eter namanya yg pake oksi\" taruh depan br setelah itu cabang\" baru rantai..<br>kalo yg lain bebas dmn aja posisi..tp itungan rantai dr yg terdekat dgn gugus fungsi nya..<br>dan pemberian nama.. pada metil,etil,propil .dst...itu di susun menurut abjad..jd etil,metil,propil,...dst.",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apa-pengertian-dari-a-tata-nama-senyawa-anorganik-b-tata-nama-978",
+            "question": "Apa pengertian dari :\r\na. tata nama senyawa anorganik\r\nb. tata nama senyawa sederhana",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a. tata nama senyawa\u00a0anorganik = golongan senyawa yang terdiri atas unsur2 yang tidak mengandung atom karbon organik,senyawa ini relatif sederhana dan dikelompokkan ke senyawa biner dan poliatom :)<br>b. tata nama senyawa organik sederhana = senyawa senyawa karbon dengan sifat sifat terntentu, contoh metana,etanol,dan aseton:)",
+                    "attachments": []
+                },
+                {
+                    "answer": "Tata nama senyawa organik = Senyawa sederhana yang tidak mengandung atom karbon<br>Tata nama senyawa sederhana = Senyawa yang sejenis dengan senyawa organik, namun mengandung karbon. OKay ? @Liwed<br>Maaf kalo salah",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apakah-sifat-yang-ditentukan-menggunakan-indikator-kertas-lakmus-577",
+            "question": "apakah sifat yang ditentukan menggunakan indikator kertas lakmus merupakan nilai yang akurat? jelaskan!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Tidak, karena kertas lakmus tidak menunjukkan nilai pH, melainkan hanya mengidentifikasikan apakah suatu zat bersifat asam/basa<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jelaskan-dampak-positif-dan-negatif-penggunaan-hidrokarbon-dalam-113",
+            "question": "Jelaskan dampak positif dan negatif penggunaan HIDROKARBON dalam kehidupan sehari hari!!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "dampak positif : pembuatan papan<br>dampak negatif : asap kendaraan bermotor",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,130 @@
+{
+    "question": "Gimana nieh sob cara ngerjain tugas ini :\u00a0    \u00a0",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "[tex]  \\left[\\begin{array}{ccc}-12&amp;33\\\\16&amp;24\\end{array}\\right] [/tex]",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "pekerjaan-pak-suradi-adalah-pembuat-talang-airia-mendapat-pesana-415",
+            "question": "pekerjaan pak suradi adalah pembuat talang air.ia mendapat pesanan membuat talang air dari lembaran seng yang lebarnya 30cm dengan melipat lebarnya atas 3 bagian. bantulah pak suradi menentukan ukuran x agar volume tertampung maksimal ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "mav, soalnya ntu ada gambarnya nggak?<br>cz, x nya itu dmn?<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "nilaixyyang-memenuhi-sistem-persamaan-2x-y5-x-2y7-687",
+            "question": "Nilai(x,y)yang memenuhi sistem persamaan\r\n2x + y=5\r\nx + 2y=7",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>2x + y=5<br>y= 5-2x.................(1)<br><br>x + 2y=7<br>x+ 2(5-2x)=7<br>x+10-4x=7<br>-3x=-3<br>x=1......................(2)<br><br><br>2x+y=5<br>2(1)+y=5<br>2+y=5<br>y=3.........................(3)<br><br><br></span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-x1-dan-x2-merupakan-akar-dari-persamaan-kuadrat-2x2-6x-430",
+            "question": "\u00a0    Jika x1 dan x2 merupakan akar dari\r\n persamaan kuadrat 2x2- 6x \u2013 8 = 0, nilai dari (x1 + x2)2\r\n \u2013 2x1. X2 adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]2x^2-6x-8=0\\\\\nx_1+x_2=\\frac{-b}{a}\\\\\nx_1+x_2=\\frac{-(-6)}{2}\\\\\nx_1+x_2=3\\\\\\\\\nx_1.x_2=\\frac{c}{a}\\\\\nx_1.x_2=\\frac{-8}{2}\\\\\nx_1.x_2=-4\\\\\\\\\n(x_1+x_2)^2-2(x_1.x_2)=(3)^2-2(-4)\\\\\n(x_1+x_2)^2-2(x_1.x_2)=17\\\\[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-salah-satu-akar-dari-2x2-ax-3-0-adalah-3-maka-ni-188",
+            "question": "Jika salah satu akar dari 2x^2 \u2013 ax + 3 = 0 ,\u00a0adalah 3 maka nilai a dan akar yang lain adalah?    a. a=7 akar lain -1/2\r\nb. a =7 akar lain 1/2\r\nc. a= -7 akar lain -1/2\r\nd. a = -7/2 akar lain 1/2\r\ne, a = -7/2 akar lain - 1/2",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]bentuk\\ umum\\ persamaan\\ kuadrat : px^2+qx+c=0 ; p \\neq 0\\\\\nuntuk\\ PK : 2x^2-ax+3=0,\\ p=2,\\ q=-a\\ dan\\ r=3\\\\\nkarena\\ 3\\ merupakan\\ salah\\ satu\\ akar\\ PK\\ tersebut,\\ maka\\\\\n2(3^2)-a(3)+3=0\\\\\n3a=21\\\\\na=7\\\\\n\nsehingga\\ PK\\ tersebut\\ menjadi\\ 2x^2-7x+3=0\\\\\nhasil\\ jumlah\\ akar-akarnya\\ (x_1+x_2)=-\\frac{q}{p}\\\\\nkarena\\ salah\\ satu\\ akarnya\\ adalah\\ 3, maka\\\\\n3+x_2=-\\frac{-7}{2}\\\\\nx_2=\\frac{7}{2}-3\\\\\nx_2=\\frac{1}{2}[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "3-bilangan-membentuk-barisan-geometri-jumlah-ke-3-bilangan-terseb-126",
+            "question": "3 bilangan membentuk barisan geometri jumlah ke 3 bilangan tersebut adalah 14, dan hasil kalinya 64. Tentukan ke 3 bilangan tersebut",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Dik : <br>Barisan geometri\u00a0 U\u2081 + U\u2082 + U\u2083 = 14\u00a0 ; U\u2081 x U\u2082 x U\u2083 = 64<br>Dit : <br>U\u2081\u00a0 ;\u00a0  U\u2082\u00a0  dan U\u2083<br>Jawab : <br>U\u2081 x U\u2082 x U\u2083 = 64 ==&gt; a x ar x ar\u00b2 = 64<br>a\u00b3 x r\u00b3 = 64 .... ruas kiri dan kanan diakar pangkat 3<br>ar = 4 ..... pers(1)<br><br>U\u2081 + U\u2082 + U\u2083 = 14 \u00a0 ==&gt;\u00a0 a + ar + ar\u00b2 = 14 \u00a0 ==&gt;\u00a0 a + ar + ar.r = 14 <br>a + 4 + 4r = 14 ==&gt; 4/r + 4 + 4r - 14 = 0\u00a0 \u00a0 ==&gt;\u00a0 4/r + 4r - 10 = 0 <br>4 + 4r\u00b2 - 10r = 0 ==&gt; 4r\u00b2 - 10r + 4 = 0 ==&gt; (4r - 2)(r - 2) = 0 <br>r = 1/2 atau r = 2 <br>untuk r = 1/2 maka a = 4/0,5 = 8 <br>maka bilangan yang dimaksud adalah : 8 , 4 , 2 <br>untuk r = 2, maka a = 4/2 = 2 <br>bilangan yang dimaksud adalah : 2 . 4 , 8 <br><br><br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "U\u2081 x U\u2082 x U\u2083 = 64\u00a0<br><span>sifat barisan geometri : U\u2081 x U\u2083 = U\u2082\u00b2\u00a0</span><br>maka didapat : U\u2082\u00b3 = 64 ----&gt; U\u2082 = 4 dan U\u2081 x U\u2083 = 16 ..... pers (1)<br>U\u2081 + U\u2082 + U\u2083 = 14<br><span>U\u2081 + 4 + U\u2083 = 14 ----&gt; U\u2081 + U\u2083 = 10 ......pers (2)\u00a0</span><br><span>dari pers 1 dan pers 2 didapat bilangan yang hasil kalinya 16 dan hasil jumlahnya 10 adalah 2 dan 8\u00a0</span><br><span>jadi bilangan yang dimaksud adalah 2 , 4 dan 8\u00a0</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "besar-sudut-p-dari-sebuah-segitiga-pqr-adalah-70-selisih-antara-535",
+            "question": "Besar sudut P dari sebuah segitiga PQR adalah 70, selisih antara besar sudut Q dan R adalah 36\u00b0 tentukan besar sudut Q dan R. Perlu diketahui total sudut sebuah segitiga adalah 180\u00b0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]P=70^o\\\\\nQ-R=36^o \\rightarrow Q=36^o+R\\\\\\\\\nP+Q+R=180^o\\\\\n70^o+36^o+R+R=180^o\\\\\n2R=74^o\\\\\nR=37^o\\\\\\\\\nQ=36^o+R\\\\\nQ=36^o+37^o\\\\\nQ=73^o[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diket-x1-dan-x2-akar-akar-persamaan-kuadrat-2-x-4-0-susun-552",
+            "question": "diket x1 dan x2 akar akar persamaan kuadrat 2\u00a0- x + 4 = 0. susunlah persamaan kuadrat baru yg akar akarnya x1 . x2 dan x1 + x2",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "jika pers x\u00b2-x+4=0 maka x1 + x2 = 1 dan x1x2= 4<br>mis\u00a0\u03b1 dan\u03b2 akar2 pk baru maka<br>\u03b1+\u03b2=x1x2 +(x1+x2) = 5 dan\u00a0\u03b1\u03b2= x1x2.(x1+x2)=4<br>jadi pk baru x\u00b2-( jumlah akar)x + hasil kali akar = 0<br>\u00a0 \u00a0x\u00b2- 5)x + 4r = 0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-selidiki-bahwa-detan-det-an-untuk-a-2-1-673",
+            "question": "1. Selidiki bahwa det(A^n) = (det A)^n untuk    A = \u00a0\u00a0 2\u00a0 \u00a0 -1\u00a0 \u00a0 3\r\n\u00a0\u00a0 \u00a0 \u00a0 \u00a0 1\u00a0 \u00a0\u00a0 2\u00a0 \u00a0\u00a0 4\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 dengan n = 3\r\n\r\n\u00a0\u00a0 \u00a0 \u00a0 \u00a0 5\u00a0 \u00a0\u00a0 -3\u00a0 \u00a0 6\u00a0 \u00a0 \u00a0 \r\n2. Tentukanlah z yang memenuhi persamaan berikut !\r\n\u00a0 \u00a0 z \u00a0 \u00a0 \u00a0 5 \u00a0 \u00a0 \u00a0 7\r\n\u00a0 \u00a0 0 \u00a0 \u00a0 z+1 \u00a0 \u00a0 6\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 = 0\r\n\u00a0 \u00a0 0 \u00a0 \u00a0 \u00a0 0 \u00a0 \u00a0 \u00a0 2z-1 \u00a0 \u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "buat nomor 2. <br>pokoknya tambah 2 baris ke kanan, jadinya persamaan<br>z(z+1)(2z-1)+0+0-(0+0)=0<br>z(z+1)(2z-1)=0<br>maka:<br>z1= 0<br>z2=-1<br>z3=1/2<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Jawaban\u00a0dari\u00a0soal\u00a0diatas:<br>1.57<br>2.28",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-nilai-x-yang-memenuhi-pertidaksamaan-irasional-berikut-384",
+            "question": "Tentukan nilai x yang memenuhi pertidaksamaan irasional berikut\r\n\u221ax\u00b2-x+2 per \u221ax+5 \u2265 1",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex] \\frac{ \\sqrt{ x^{2} -x+2} }{ \\sqrt{x+5} }  \\geq 1[/tex]<br><br>kalikan penyebut ke 1<br><br>[tex] \\sqrt{ x^{2}-x+2}  \\geq  \\sqrt{x+5} [/tex]<br><br>kuadratkan kedua ruas<br><br>[tex] x^{2} -x+2-(x+5)  \\geq 0[/tex]<br><br>[tex] x^{2} -2x+3 \\geq 0[/tex]<br><br>(x+1)(x-3)\u00a0[tex] \\geq 0[/tex]..........(1)<br><br>buat grafik koordinat garis x pada -1 dan 3 sehingga didapat nilai di antara -1 dan 3 misal 2 dimasukkan ke pers 1 dapet minus, padahal nilai yg diharapkan\u00a0[tex] \\geq 0[/tex] maka kedua nilai disebelah kanan dan kiri merupakan plus dg melakukan pembuktian yang sama, dapet x[tex] \\leq -1[/tex] atau x[tex] \\geq 3[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-taman-berbentuk-lingkaran-dengan-diameter-40-mdisekelilin-489",
+            "question": "sebuah taman berbentuk lingkaran dengan diameter 40 m.disekeliling taman itu akan dibuat jalan dengan lebar 1 m (=22/7).hitunglah luas jalan tsb",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "d awal=40 m<br>R=r+1m<br>R=20+1=21m<br>luas lingkaran besar=22/7x21x21=1386<br>luas lingkaran kecil=22/7x20x20= 1257,14286<br>luas jalan=1386-1257,14286=128,8572m\u00b2",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

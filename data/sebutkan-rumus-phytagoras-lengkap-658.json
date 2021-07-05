@@ -1,0 +1,154 @@
+{
+    "question": "Sebutkan rumus phytagoras lengkap ?",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "Dalilnya berbunyi\u00a0<br>kuadrat sisi miring sama dengan jumlah siku-sikunya<br><br>BC\u00b2=AC\u00b2+AB\u00b2<br>A\u00b2=B\u00b2+C\u00b2",
+            "attachments": []
+        },
+        {
+            "answer": "<span>Rumus Pythagoras adalah rumus yang \ndigunakan untuk mencari panjang sisi pada sebuah segitiga siku-siku. \nPenemu rumus ini adalah seorang ahli matematika dari Yunani yang bernama\n Pythagoras.<br><br><br></span><br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "1-keliling-persegi-panjang-205-cm-dan-panjangnya-5cm-lebihnya-d-155",
+            "question": "1. keliling persegi panjang= 205 cm dan panjangnya 5cm lebihnya dari lebarnya. \u00a0 \u00a0a) jika lebarnya = x \u00a0 \u00a0 \u00a0 \u00a0 buatlah kalimat terbuka dalam persamaan \u00a0 \u00a0b)tentukan panjang, lebar, dan luas persegi panjang tersebut \u00a0 2. Dua buah bilangan berselisih 35, jika 2 kali bilangan yang besar dikurangi bilangan yang kecil adalah 185, tentukan kedua bilangan tersebut.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "A=bilangan yang lebih besar, B=bilangan yang lebih kecil<br>2A-B=185<br>A-B=35<br>Dieleminasi<br>maka A=150 dan B=115<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "hy-semuanya-pliss-bantu-saya-mngerjkan-soal-ini-ya-soallnx-353",
+            "question": "Hy semuanya pliss bantu saya mngerjkan soal ini ya....:) soallnx aku gk ngerti    Volume sebuah kerucut dinyatakan dengan rumus V=1per3  rpangkat2 t, dengan r=jari-jari alas keruct dan t=tinggi kerucut.\r\njika r= 1per2 d, dalam hal ini d=diameter alas kerucut, dinyatakan:\r\nA. V dalam , d, dan t;\r\nB.\u00a0\u00a0 t dalam V,, dan r\r\nc. d dalam , v,dan t\r\nd. t dalam  ,v, dan d",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "kalau menurut kakak sih A. V dalam phi, d, dan t<br>karena di dalam soal itu disebutkan jika r = 1/2 d, artinya kan sama dengan r pangkat 2 diameter nya.<br><br>semoga bisa membantu ^_^,,,<br>maaf kalau ada yang salah ^_^,,,",
+                    "attachments": []
+                },
+                {
+                    "answer": "[tex]V=\\frac{1}{3} \\pi r^2t\\\\\na.\\ V=\\frac{1}{3} \\pi (\\frac{1}{2}d)^2t\\\\\nV=\\frac{1}{12} \\pi d^2t\\\\\\\\\nb.\\ V=\\frac{1}{3} \\pi r^2t\\\\\nt=\\frac{V}{\\frac{1}{3} \\pi r^2}\\\\\nt=\\frac{3V}{\\pi r^2}\\\\\\\\\nc.\\ V=\\frac{1}{12} \\pi d^2t\\\\\nd^2=\\frac{V}{\\frac{1}{12} \\pi t}\\\\\nd=\\sqrt{\\frac{12V}{\\pi t}}\\\\\\\\\nd.\\ V=\\frac{1}{12} \\pi d^2t\\\\\nt=\\frac{V}{\\frac{1}{12} \\pi d^2}\\\\\nt=\\frac{12V}{\\pi d^2}\\\\[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "seorang-walikota-merencanakan-membuat-taman-rekreasi-berbentuk-li-127",
+            "question": "Seorang walikota merencanakan membuat taman rekreasi berbentuk lingkaran dengan diameter 1.400 m. Oleh karena kurang dana, dalam realisasinya hanya dibangun taman dengan diameter 700 m. Berapa persen biaya yang dapat dihemat dari biaya pembebasan tanah untuk taman itu dari rencana semula?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "50% <br><br>Maaf kalo salah yaaa<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "karena 700 itu setengah dari 1400 berarti dana yang di hemat juga setengahnya atau 50%",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-motor-menempuh-90-km-dalam-waktu-30-menit-berapa-jam-wakt-821",
+            "question": "sebuah motor menempuh 90 km dalam waktu 30 menit .berapa jam waktu yang diperlukan motor untuk menempuh jarak 210 km?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "90 km -&gt; 30 menit<br>90 : 30=\u00a0 3<br>setiap 1 km= 3 mnt<br>210: 3 = 70<br>waktu yg diperlukan menempuh jarak 210 km= 1 jam 10 menit<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "90 km = 30 menit<br>30 km = 10 menit &lt;&lt;\u00a0dibagi 3<br>ya kan?<br><br>nah berarti<br>210 km = 30 km x 7<br>jadi waktunya juga = 10 menit x 7 = 70 menit<br>atau 1 jam 10 menit",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "lanjutkan-3-bilangan-berikutnya-a511172329-b3611-913",
+            "question": "lanjutkan 3 bilangan berikutnya,,, a.5,11,17,23,29,.... b.3,6,11,18,.... c.81,27,9,3,... d.1,1,2,3,5,8,13,....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a. tiga puluh enam<br>b.\u00a0",
+                    "attachments": []
+                },
+                {
+                    "answer": "yang a. itu berkelipatan 6 yaitu ...29, 35, 41, 47...<br>b. itu ganjil.. yaitu ..18, 27, 38, 51...<br>c. dibagi 3 ...3, 1, 3/10, 1/10 ..<br>d. yaitu 2 angka dibelakangnya ditambahkan sehingga menjadi hasil depannya<br>\u00a0...13, 21, 34, 55,....<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pada-hari-raya-supermarket-menjual-pakaian-dengan-diskon-besar-b-191",
+            "question": "pada hari raya, supermarket menjual pakaian dengan diskon besar-besaran. ibu membeli kemeja adik dengan harga Rp 150.000setelah di diskon sebesar 30% (+15%), artinya akan terjadi diskon harga lagi sebesar 15% dari total harga setelah di diskon 30%. berapakan harga kemeja tsb. jika tidak ada diskon?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "150.000 x 15/100 =Rp 22.500\u00a0<br>= 150.000 + 22.500<br>= Rp\u00a0172.500<br><br>Jika tidak ada diskon = 172.000 : 45%<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 172.000 x 100/45<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= Rp 382.222\u00a0<br><br>Maaf jika salah :)",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-setigita-sama-kaki-memiliki-panjang-sisi-yang-sama-dengan-686",
+            "question": "Sebuah setigita sama kaki memiliki panjang sisi yang sama dengan 5 kali panjang sisi lainnya. Agar\u00a0keliling segitiga tersebut lebih besar dari 50 m, berapakah panjang masing-masing sisi segitiga\u00a0tersebut?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "ini yang untuk kakinya lebih panjang dari alasnya<br><br>keliling= ab + c.................... (a = b = kakiny)<br>50=2a+c<br>50=2(5c)+c.................... (a=b=5c)<br>50=10c+c<br>50=11c<br>c=4,545454...... bulatkan saja jadi 5<br><br>berarti, agar keliling tersebut lebih besar dari 50m, panjang masing2 sisi yaitu<br>a,b,c <br>= 5c, 5c,c<br>= 25, 25, 5<br><br>itu minimal, utk yg lain tinggal dikalikan saja<br>25, 25, 5<br>50, 50, 10<br>dll<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-himpunan-penyelesaian-ari-persamaan-linear-berikut-2-820",
+            "question": "Tentukan himpunan penyelesaian ari persamaan linear berikut:\u00a0\r\n2\u00a0+\u00a0x/4\u00a0= 5\r\n\u00a0 \u00a0/= per",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "2+x/4 = 5<br>x/4= 5-2<br>x/4 = 3<br>x = 12<br>begitu jawabannya",
+                    "attachments": []
+                },
+                {
+                    "answer": "2\u00a0+<u></u>\u00a0x/4\u00a0=\u00a05<br>2\u00a0.\u00a04\u00a0:\u00a0x\u00a0=\u00a05<br>8\u00a0:\u00a0x\u00a0=\u00a05<br>x\u00a0=\u00a05\u00a0-\u00a08<br>x\u00a0=\u00a0-3<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "ini-soalnya-tentang-perbandingan-berbalik-nilai-dheni-akan-sam-235",
+            "question": "Ini soalnya tentang perbandingan berbalik nilai :)    Dheni akan sampai disekolah dalam waktu 45 menit,dengan kecepatan rata-rata 20km/jam\r\nBerapa kecepatan rata-rata agar dheni sampaai disekolah dalam waktu 30 menit ?\r\n\r\n\r\ntolong dijwab ya,sama caranya,nanti aku jadika solusi terbaik",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "\u00a0\u00a0 \u00a0 \u00a0 t\u00a0 \u00a0 \u00a0 \u00a0\u00a0  \u00a0 \u00a0 \u00a0 \u00a0 v<br>\u00a0\u00a0 \u00a0  45\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 20<br>\u00a0\u00a0 \u00a0  30\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 x<br><br>45<u></u>/30 = x/20<br>30x\u00a0  =\u00a0  900<br>x\u00a0 \u00a0 = 30 km/jam<br><br>kalo waktunya diubah dari menit ke jam jg, hasilnya tetep sama. semoga bener.<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "dik : waktu1 = 45 menit ,dengan v1= 20 km/jam<br>\u00a0 \u00a0 \u00a0 \u00a0 waktu 2=30 menit ,dengan v2 = ..?<br><br>logikanya jika 20 km/jam sampainya 45 menit,maka jarak tempat yang akan dituju<br>= (45 menit ubah ke jam dulu) lalu di kali 20km.jam<br>= 3/4 jam . 20 km/jam<br>= 15 km (jarak total)<br><br>maka untuk sampai dalam waktu 30 menit,kecepatan yang dibutuhkan adalah<br>jarak total = waktu. kecepatan<br>15 km = 1/2 jam(ubah kejam yang 30 menit td) . kecepatn<br>15 km/1/2 jam)= kecepatan<br>30 km/jam = kecepatn :)<br><br>cara ke dua perbandingan berbalik nilai<br>45/30 = x/20<br>45.20 = 30.x<br>900=30 x<br>900/30 = x<br>30 km/jam = x :)<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "34-y-38-y-pake-cara-522",
+            "question": "- 3/4 y = -3/8\r\ny=\r\n\u00a0pake cara",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]- \\frac{3y}{4}=  -\\frac{3}{8}  \\\\  \\\\  \\frac{3y}{4}=  \\frac{3}{8}  \\\\  \\\\ 3y.8 = 4.3 \\\\  \\\\ 24y = 12 \\\\  \\\\ y= \\frac{12}{24}  \\\\  \\\\ y= \\frac{1}{2} [/tex]",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span>- 3/4 y = -3/8<br>y = -3/8 : -3/4\u00a0<br>\u00a0 \u00a0= -3/8 x -4/3<br>\u00a0 \u00a0= 12/24<br>\u00a0 \u00a0= 1/2 = 0,5</span>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,142 @@
+{
+    "question": "Plis siapa yang bisa tolong bantu.\u00a0    sebuah tongkat menyodok bola biliard dengan gaya 80N selama selang waktu 0,5 sekon. jika massa bola adalah 200 gram. tentukan kelajuan bola sesaat setelah disodok.\u00a0",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "I = momentum akhir - momentum awal <br>I = m.v - 0 ( karena kecepatan awal 0 ) <br>F.\u0394t = m.v <br>80 x 0.5=0,2 x v ( ingat semua harus diubah ke kg m sekon ) <br>v = 200m/s <br>mohon maaf kalau ada salah , semoga jawaban saya membantu<br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "diketahui-tiga-buah-pegas-dua-disusun-paralel-dengan-konstanta-1-771",
+            "question": "Diketahui tiga buah pegas. Dua disusun paralel dengan konstanta 100 n/m. Dan satu disuaun dengan seri dengan konstanta 200n/m. Susunan pegas dipengaruhi oleh beban, sehingga mengalami pertambahan 5cm. Jika pertambahan panjang pegas 1 dan 2 sama, maka berapakah: a) konstanta gaya total penyusunnya. b) massa beban jika g= 10 m/s",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a) rangkaian paralel ==&gt; kp = 100 + 100 = 200 N/m<br>\u00a0\u00a0 kp diseri dengan k3 = 200 ===&gt; 1/ks = 1/200 + 1/200 <br>\u00a0\u00a0 1/ks = 2/200 ===&gt; 1/ks = 1/100 ==&gt; ks = 100 N/m<br>\u00a0\u00a0 Jadi knstanta gaya total = 100 N/m<br>b) dik : \u0394x = 5 cm = 0,05 m\u00a0 \u00a0 ; k total = 100 N/m <br>F = k \u0394x <br>m . g = k . \u0394x ---&gt; m . 10 = 100 . 0,05 ----&gt; m = 0,5 kg <br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span>a) rangkaian paralel ==&gt; kp = 100 + 100 = 200 N/m<br>\u00a0\u00a0 kp diseri dengan k3 = 200 ===&gt; 1/ks = 1/200 + 1/200 <br>\u00a0\u00a0 1/ks = 2/200 ===&gt; 1/ks = 1/100 ==&gt; ks = 100 N/m<br>\u00a0\u00a0 Jadi knstanta gaya total = 100 N/m<br>b) dik : \u0394x = 5 cm = 0,05 m\u00a0 \u00a0 ; k total = 100 N/m <br>F = k \u0394x <br>m . g = k . \u0394x ---&gt; m . 10 = 100 . 0,05 ----&gt; m = 0,5 kg </span><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-mobil-a-bergerak-dengan-kelajuan-40-kmjam-5-menit-kemudian-m-571",
+            "question": "1. mobil A bergerak    dengan kelajuan 40 km/jam, 5 menit kemudian mobil B bergerak dengan 90 km/jam. Kapan\r\n dan dimana mobil B bisa menyusul A?\r\n\r\n\r\n\r\n2. mobil A dengan\r\n kecepatan 70 km/jam ke barat, mobil B dengan kecepatan 50 km/jam ke timur,\r\n jarak mula mula 10 km. kapan dan dimana mobil A dan B bisa bertemu?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "kita konversi dulu kecepatannya<br>mobil A = 11,1 m/s<br>mobil B = 25 m/s<br>jaraknya 300 s<br>jarak tempuh 1 = jarak tempuh 2<br>11,1 x\u00a0(t+300) = 25 x t<br>11,1t + 3330 = 25t<br>13,9t = 3330<br>t = 239,56835 s<br><br>tempat ketemu\u00a0<br>=25 x 239,56835<br>=5989,2088 meter dari kedudukan awal",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "mengapa-besi-lebih-elastis-dibandingkan-aluminium-jelaskan-933",
+            "question": "Mengapa besi lebih elastis dibandingkan aluminium ? jelaskan",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "karena muai besi lebih besar dibandingkan alumunium<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "karena besi mmpunyai sft yg berat dri pda alumunium<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-tongkat-homogen-sepanjang-50-cm-bermasa-4-kg-pada-salah-sa-611",
+            "question": "sebuah tongkat homogen sepanjang 50 cm bermasa 4 kg pada salah satu ujung tongkat diberi beban ,sedangkan ujung tongkat lainnya sebagai tumpuan .jika f= 200 N Momen gaya pada titik O adalah......N.m\u00a0\u00a0\u00a0\u00a0 (g=9.8 m/s2)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "momen inersia terhadap batang = <span><span>1/12m.l kuadrat + m(1/2) kuadrat = 1/3 ml kuadrat</span></span><br><br><br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span>tinggal di masukkin nilainya<br>sepertinya itu</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-silinder-pejal-yang-massanya-40-kg-dan-jari-jari-10-cm-mu-616",
+            "question": "Sebuah silinder pejal yang massanya 40 kg dan jari jari 10 cm, mula    mula diam. setelah di fungsikan selama 5 sekon, silinder berputar dengan\r\n frekuensi 40\u03c0 Hz.a. tentukan percepatan dusutnyab. tentukan besar momen gaya yang bekeja",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "momen gaya silinder pejal : I/2 mr pangkat 2<br>I = 1/2 . 40 . 0,1 pangkat 2<br>I = 0,2 kg m/s",
+                    "attachments": []
+                },
+                {
+                    "answer": "a. \u03b1 = 2f<u></u> / 3m<br>\u00a0\u00a0 \u00a0 \u00a0 = 2.40 / 3.40<br>\u00a0\u00a0 \u00a0 \u00a0 = 2/3 = 0,67<br>b. <em>I </em>= 1/2 mr\u00b2<br>\u00a0\u00a0 \u00a0\u00a0 = 1/2 40. 0,1\u00b2<br>\u00a0\u00a0 \u00a0\u00a0 = 1/2 40. 0,01<br>\u00a0\u00a0 \u00a0\u00a0 = 1/2 0,4<br>\u00a0\u00a0 \u00a0\u00a0 = 0,2<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "empat-buah-pegas-masing-masing-mempunyai-konstanta-elastis-1600-n-216",
+            "question": "empat buah pegas masing masing mempunyai konstanta elastis 1600 N/m. Beban w di gantung menyebabkan pertambahan panjang 5 cm. Hitung berat beban w!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "k =1600n/m<br>delta x = 5 cm = 0.05 m<br>w? w=f=k. delta x<br>W=F=1600.0.05<br>W=80 N<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebutkan-contoh-penerapan-1-hukum-archimedes-2-hukum-pascal-3-659",
+            "question": "Sebutkan contoh penerapan :    1. Hukum Archimedes\r\n2. Hukum Pascal\r\n3. Hukum Bernuolli\r\ndalam teknologi ?\r\nmohon bantuannya",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1. apabila sebuah benda, sebagian atau seluruhnya terbenam kedalam air makabenda trsbt mendapat gaya tekan ke atas sebesar berat air yg dipindahkan oleh benda tersebut. contoh benda\u00a0yg menggunakan prinsip ini : kapal laut<br>2. tekanan yang diberikan kepada zat cair akan diteruskan ke segala arah dengan sama besar. contoh penggunaan : peralatan hidrolik<br>3. j<span>umlah dari tekanan, energi kinetik persatuan volume, dan energi potensial persatuan volume mempunyai nilai yang sama pada setiap titik sepanjang suatu garis arus. contoh : manometer, tabung venturi</span>",
+                    "attachments": []
+                },
+                {
+                    "answer": "kalau archimedes kapal laut , \u00a0kalau pascal pesawat terbang , kalau bernoulli parfum atau semprotan nyamuk yang pakai tangkai\u00a0<br>mohon maaf kalau ada kesalahan :D",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-silender-pejal-diletakan-di-atas-puncak-bidang-miring-kasa-728",
+            "question": "sebuah silender pejal diletakan di atas puncak bidang miring kasar dengan ketinggian h.kecepatan silinder di kaki bidang miring adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "karena ga dikasih tau angkanya, saya kasih tau caranya<br>hitung I silinder pejal = 1/2 mr\u00b2<br>hitung torsi = I x\u00a0\u03b1<br>I = mr\u00b2<br>ingat, torsi adalah F.r<br>\u03a3F = m . a<br>F-fg (permukaan kasar, ada gaya gesek) = m .a<br>\u03b1 = a/r<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apa-pengertian-dari-anergi-mekanis-dan-sebutkan-contohnya-379",
+            "question": "Apa pengertian dari anergi mekanis dan sebutkan contohnya?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "energi mekanis adalah energi yang dimiliki suatu benda karena sifat geraknya.\u00a0<br>contoh: kelapa yang jatuh ke tanah",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-mesin-dibuat-sedemikian-rupa-sehingga-mampu-menghasilkan-g-420",
+            "question": "sebuah mesin dibuat sedemikian rupa sehingga mampu menghasilkan gaya 15000\u00a0N mesin ini di gunakan pada sebuah mobil balap tersebut agar didapatkan akselerasi yg di harapkan bagaimana dengan massa penummpang?perlukah untuk di perhitungkan?jelaskan !",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "menurut saya perlu<br>ingat F = m.a<br>yang mempengaruhi gaya adalah massa dan percepatan(akselerasi)<br>tatkala hasil yg di inginkan adalah akselerasi<br>maka a= F/m<br>tentu saja massa tetap mempengaruhi akselerasi yang tejadi :)",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

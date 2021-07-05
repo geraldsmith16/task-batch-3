@@ -1,0 +1,142 @@
+{
+    "question": "\u00a0{ bilangan asli ganjil kurang dari 15 }",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "{1,3,5,7,9,11,13,15}",
+            "attachments": []
+        },
+        {
+            "answer": "1, 3, 5, 7, 9, 11, 13<br><br>sekian :D<br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "jika-u1152-dan-u1363-maka-nilai-ab-462",
+            "question": "Jika U11=52 dan U13=63, maka nilai a+b=",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "u13=u11+2b<br>63=52+2b<br>63-52=2b<br>11=2b<br>b=11/2 atau 5,5<br><br>u11=a+10b<br>52=a+10(5,5)<br>52=a+55<br>52-55=a<br>a=-3<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "rumus:\u00a0Un=a+(n-1)b<br>U11=a+(11-1)b<br>U11=a+10b<br>U13=a+(13-1)b<br>U13=a+12b<br><br>rumus eliminasi<br>a+10b=52<br><u>a+12b=63</u>\u00a0-<br>\u00a0 \u00a0 -2b=-11<br>\u00a0 \u00a0 \u00a0b=5,5<br>a+10b=52<br>a+10.5,5=52<br>a+55=52<br>a=52-55<br>a=-3<br><br>a+b<br>-3+5,5=2,5",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "rumus-suke-ke-n-dari-1-31248192768-2-4211214-678",
+            "question": "Rumus suke ke-n dari : \u00a0 1) 3,12,48,192,768 \u00a0 2) 4,2,1,1/2,1/4. \u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1. rumus Un = 3x[tex]4^{n-1} [/tex]<br>2. rumus Un =\u00a0[tex] 2^{3-n} [/tex]",
+                    "attachments": []
+                },
+                {
+                    "answer": "Untuk mencari n\u00a0<br>1) a atau U1 = 3\u00a0<br>\u00a0 \u00a0r = U3 / U2<br>\u00a0 \u00a0r = 48 / 12<br>\u00a0 \u00a0r = 4\u00a0<br>\u00a0 \u00a0Un = <u></u>[tex]a r ^{n-1} [/tex]\u00a0<u></u><br>\u00a0 \u00a0768 =\u00a0[tex]3 x 4  ^{n-1} [/tex]<br>\u00a0 \u00a0[tex]3 x 4 ^{4} [/tex]\u00a0=\u00a0[tex]3 x 4 ^{n-1} [/tex]<br>\u00a0 \u00a04 = n-1\u00a0<br>\u00a0 \u00a05 = n\u00a0<br><br>2) U1 = 4\u00a0<br>\u00a0 \u00a0r = U3 / U2\u00a0<br>\u00a0 \u00a0r = 2 / 4\u00a0<br>\u00a0 \u00a0r = 1/2\u00a0<br>\u00a0 \u00a0Un =\u00a0[tex]a r ^{n-1} [/tex]<br>\u00a0 \u00a0[tex] \\frac{1}{4} [/tex] =\u00a0[tex]4x \\frac{1}{2}  ^{n-1} [/tex]<br>\u00a0 \u00a0[tex]4x2 ^{-4} [/tex] =\u00a0[tex]4x2 ^{n-1} [/tex]<br>\u00a0 \u00a04 \u00a0 = \u00a0n-1\u00a0<br>\u00a0 \u00a05 = n",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "6x-37-5x-57-x-tolong-pake-cara-ya-601",
+            "question": "6x + 3/7 = 5x + 5/7\r\nx =\r\ntolong pake cara ya",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "6x\u00a0+\u00a03/7\u00a0=\u00a05x + 5/7 (all kalikan 7)<br><br>42x + 3 = 35x + 5<br><br>42x -\u00a035x = 5-3<br><br>7x = 2<br><br>x = 2/7",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukanlah-keliling-lingkaran-yang-berjari-jari-7-cm-panja-689",
+            "question": "Tentukanlah:     keliling lingkaran\u00a0 yang berjari - jari 7 cm.\r\npanjang jari - jari lingkaran jika keliling lingkarannya 314 cm dan \u03c0 = 3,14\r\npanjang diameter sebuah lingkaran yang kelilingnya 110 cm dengan \u03c0 = 22/7\r\nbesar sudut bdc, jika besar sudut aoc = 82 derajat",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]r=7cm\\\\\nkell=2 \\pi r=2(\\frac{22}{7})(7)\\\\\nkell=44cm\\\\\\\\\nkell=314\\\\\n2 \\pi r=314\\\\\n2(3,14)r=314\\\\\nr=50cm\\\\\\\\\nkell=110\\\\\n\\pi d=110\\\\\n(\\frac{22}{7})d=110\\\\\nd=35cm[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-skala-pada-peta-1700000-dengan-garis-koordinat-peta-beru-761",
+            "question": "sebuah skala pada peta 1:700.000 dengan garis koordinat peta berukuran 2x2 cm. jika koordinat diubah menjadi ukuran 8x8 cm, maka skala petanya berubah menjadi.......",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "2 x 2 ====&gt; 1 : 700.000<br>8 x 8 ====&gt; 1 : ?<br><br>jika koordinat menjadi lebih besar, berarti skala menjadi lebih kecil, berarti ini merupakan perbandingan terbalik, persamaannya menjadi:<br><br>2 / 8 = ? / 700.000<br>? = ( 2 / 8 ) * 700.000<br>? = 175.000<br><br>sehingga skalanya menjadi 1 : 175.000<br><br>semoga membantu :)<br>@mr_m_satrio<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Jika gambar suatu peta diperbesar, maka skalanya mengecil.<br>syaratnya panjang dan lebarnya harus sama-sama dikalikan bilangan yang sama.<br><br>nah, disoalnya kan dari (2x2) menjadi (8x8)<br>maka nilai perbesaran = 4<br><br>karena berbanding terbalik maka, skala yang baru<br>700.000/4 = 175.000<br><br><strong>1:175.000</strong><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bu-aminah-menyimpan-uang-modal-di-koperasi-makmur-sebesar-rp-200-733",
+            "question": "bu aminah menyimpan uang modal di koperasi makmur sebesar rp 2.000.000.00 setelah 9 bulan modalnya bertambah menjadi rp 2.090.000.00 persentase bunga per tahun yang di berikan oleh koperasi makmur adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "9/12 x 90.000/2.000.000 x 100%<br>= 4.5%<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "penderita-kanker-dan-jantung-dirumah-sakit-sebanyak-86-orang-kan-935",
+            "question": "Penderita kanker dan jantung dirumah sakit sebanyak 86 orang.    kanker 35 orang.\r\n15 orang menderita kanker dan jantung\r\npertanyaan:\r\n1.banyak penderita yang sakit jantung ada berapa orang ???",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]S=86 \\\\ K=35-15=20 \\\\ keduanya=15 \\\\ Jantung=86-(20+15) \\\\ =86-35 \\\\ =51[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "12x-5-gt-15-tolong-dibantu-658",
+            "question": "1/2x + 5 &gt; 15\r\n\r\ntolong dibantu",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1/2x + 5 &gt; 15<br>1/2x &gt; 15 - 5<br>1/2x &gt; 10<br>x &gt; 10.2<br>x &gt; 20<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "1/2X + 5 &gt; 15<br>1/2x +5 = 15<br>1/2x = 10<br>x = 20\u00a0<br>insya Allah begini jawabannya",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "perbandingan-a-b-berbalik-nilai-dengan-c-d-bila-bd-175-dan-918",
+            "question": "Perbandingan a : b berbalik nilai dengan c : d. Bila bd = 175 dan a = 5, maka nilai d =",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "bd : a<br>175 : 5<br>d = 35<br>Smoga ajha:) biar sya coba lagi nanti klu salah :3<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "cara-menyelesaikan-12x-5-gt-15-ptlsv-bagaimana-647",
+            "question": "Cara menyelesaikan 1/2x + 5 &gt; 15 (PtLSV) bagaimana??",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1/2 X + 5 &gt; 15<br>1/2 X &gt; 15 -5<br>1/2 X &gt; 10<br>X &gt; 10/ 0,5<br>X &gt; 20",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

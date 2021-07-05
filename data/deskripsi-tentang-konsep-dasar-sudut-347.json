@@ -1,0 +1,122 @@
+{
+    "question": "Deskripsi tentang konsep dasar sudut?",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "sudut adalah titik yang dibentuk oleh 2 garis yang bersinggungan atau berpotongan",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "di-berikan-titik-titik-p6-4-q-1-6-r8-1-s42-tentu-623",
+            "question": "Di berikan titik - titik P(6,-4), Q(-1,-6), R(8,-1), S(4,2) Tentukan :    a. garis yang tegak lurus PR dan Melewati titik Q\r\nb. garis lain yang sejajar RS dan melewati titik P dan hitung keliling segitiga PRS\r\nc. Gradient PQ dan RS",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]gradien\\ PR=\\frac{-1-(-4)}{8-6}=\\frac{3}{2}\\\\ garis\\ yg\\ tegak\\ lurus\\ PR,\\ m_2.m_{PR}=-1\\\\ m_2.\\frac{3}{2}=-1\\\\ m_2=-\\frac{2}{3}\\\\ persamaan\\ garis\\ yg\\ melalui\\ Q(-1,-6) dan\\ tegak\\ lurus\\ PR :\\\\ y-(-6)=-\\frac{2}{3}(x-(-1))\\\\ 3y+18=-2x-2\\\\ 2x+3y+20=0\\\\\n\\\\\ngradien\\ RS=\\frac{2-(-1)}{4-8}=-\\frac{3}{4}\\\\\npersamaan\\ garis\\ melalui\\ P(6,-4)\\ dan\\ sejajar\\ RS:\\\\\ny-(-4)=-\\frac{3}{4}(x-6)\\\\\n4y+16=-3x+18\\\\\n3x+4y=2\\\\[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-barisan-aritmetika-dengan-u3-u5-u7-u9-104-nila-151",
+            "question": "Diketahui barisan aritmetika dengan U3 + U5 + U7 + U9 = 104. Nilai U6 adalah..",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>Diketahui barisan aritmetika dengan U\u2083 + U\u2085 + U\u2087 + U\u2089 = 104.</p><p><strong>Barisan Aritmatika</strong> adalah \u00a0suatu barisan dengan selisih antara dua suku yang berurutan selalu tetap.</p><p>Rumus : Un = a + (n - 1)b</p><p><strong>Deret Aritmatika</strong> adalah jumlah suku \u2013 suku barisan aritmatika</p><p>Rumus : Sn = \u00b9/\u2082 n (a + Un)</p><h3>Pembahasan</h3><p><em><strong>Penjelasan dengan langkah-langkah:</strong></em></p><p><strong>Diketahui:</strong></p><p>U\u2083 + U\u2085 + U\u2087 + U\u2089 = 104</p><p><strong>Ditanya:</strong></p><p>Nilai U\u2086 = ... ?</p><p><strong>Jawab:</strong></p><p>Ingat Un = a + (n - 1)b</p><p>U\u2083 = a + (3 - 1)b</p><p> \u00a0 \u00a0 = a + 2b</p><p>U\u2085 = a + (5 - 1)b</p><p> \u00a0 \u00a0 = a + 4b</p><p>U\u2087 = a + (7 - 1)b</p><p> \u00a0 \u00a0 = a + 6b</p><p>U\u2089 = a + (9 - 1)b</p><p> \u00a0 \u00a0 = a + 8b</p><p>U\u2083 + U\u2085 + U\u2087 + U\u2089 = 104</p><p>a + 2b + a + 4b + a + 6b + a + 8b = 104</p><p>4a + 20b = 104</p><p><em><strong>a + 5b = 26</strong></em></p><br><p>Un = a + (n - 1)b</p><p><em><strong>U\u2086 = a + (6 - 1)b</strong></em></p><p><em><strong> \u00a0 \u00a0 = a + 5b</strong></em></p><p><em><strong> \u00a0 \u00a0 = 26</strong></em></p><br><p><u><em><strong>Jadi Nilai U\u2086 adalah 26</strong></em></u></p><br><h3>Pelajari lebih lanjut</h3><p>Bab barisan dan deret aritmatika dapat disimak pula di</p><ul><li>brainly.co.id/tugas/13759951</li><li>brainly.co.id/tugas/4240841</li><li>brainly.co.id/tugas/1509694</li><li>brainly.co.id/tugas/12054249</li></ul><h3>===========================</h3><h3>Detail Jawaban</h3><p><strong>Kelas </strong>: 9</p><p><strong>Mapel </strong>: Matematika</p><p><strong>Kategori </strong>: Barisan dan Deret</p><p><strong>Kode </strong>: 9.2.2</p><br><p><strong>Kata kunci </strong>: barisan aritmatika, deret aritmatika, suku pertama, beda, suku ke-n, jumlah n suku pertama</p><br><br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-f-1x-a-fx-12-x-5-831",
+            "question": "Tentukan f-1(x)\r\n\r\n\r\na. f(x) = 1/2 (x + 5 )",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]ini\\ langkahnya\\ dek\\\\\n\\\\\nf(x)=\\frac{x+5}{2}\\\\\\\\\nkalikan\\ dengan\\ 2\\\\\\\\\n2f(x)=x+5\\\\\\\\\nkedua\\ ruas\\ dikurang\\ dengan\\ 5\\\\\\\\\n2f(x)-5=x+5-5\\\\\\\\\n2f(x)-5=x\\\\\\\\\nnyatakan\\ bentuk\\ di atas\\ sebagai\\ f^{-1}(x)\\\\\\\\\nf^{-1}(x)=2f(x)-5[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-xy-23-adalah-penyelesaian-dari-sistempersamaan-ax-b-844",
+            "question": "Jika (x,y) =(2,3) adalah penyelesaian dari sistempersamaan\r\nax + by=1\r\nay - bx=8",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "substitusikan nilai (x,y) dalam pers.<br><br>a(2) + b(3) = 1<br>a(3) - b(2) = 8<br><br>2a + 3b = 1 .... x3<br>3a - 2b = 8 .... x2<br><br>6a + 9b = 3<br>6a - 4b = 16<br>(dikurang), maka<br>13b = -13<br><strong>b = -1</strong><br><br>subs b ke pers 1.<br><br>2a + 3(-1) = 1<br>2a -3 = 1<br>2a = 4<br><strong>a = 2</strong><br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "seorang-pemilik-kebun-memetik-apel-setiap-hari-nya-dan-mencatat-132",
+            "question": "Seorang pemilik kebun , memetik apel setiap hari nya dan mencatatnya , banyak apel yang di petik pada hari ke-n adalah Un=80+20n .    Tentukan banyak nya apel yg di petik dalam satu minggu beserta langkah2 nya.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "seminggu = 7 hari<br>U1 = 80+20(1) = 100<br>U7 = 80+20(7) = 80+140 = 220<br><br>Sn = n/2 (U1 + Un)<br>S7 = 7/2 (100 +220)<br>S7 = 7/2 (320)<br>S7 = 1120<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "deret-geometri-dengan-u5-dan-u8-masing-masing-48-dan-384-tentuka-109",
+            "question": "Deret geometri dengan U5 dan U8 masing masing 48 dan 384.    Tentukan jumlah 9 suku pertama serta langkah2 nya.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]U_5=ar^4=48\\\\\nU_8=ar^7=384\\\\\\\\\nar^7=384\\\\\nar^4.r^3=384\\\\\n48r^3=384\\\\\nr^3=8\\\\\nr=2\\\\\nar^4=48\\\\\na(2^4)=48\\\\\n16a=48\\\\\na=3\\\\\\\\\nS_n=\\frac{a(r^n-1)}{r-1}\\\\\nS_9=\\frac{3(2^9-1)}{2-1}\\\\\nS_9=3(512-1)\\\\\nS_9=1533[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-bak-air-besar-berbentuk-tabung-yang-panjang-jari-jarinya-7-580",
+            "question": "sebuah bak air besar berbentuk tabung yang panjang jari-jarinya 70 cm dan tinggi 1,8 m, terisi penuh. setelah air dalam bak terpakai sebanyak 770 liter, berapakah tinggi sisa air dalam bak tersebut?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "v tabung = 22/7 x\u00a070 x 70 x 180 = 2.772.000 cm3 : 2.772 l<br>sisa air = 2.772 - 770 = 2.002 l",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "hitunglahsudut-antara-vektor-a-dan-b-berikut-ini-a-3i-2j-k-104",
+            "question": "Hitunglahsudut antara vektor A dan B berikut ini,\r\n\r\nA = 3i - 2j + k\r\nB = 4i - 3j +2k",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "A = (3,-2,1); B (4, -3, 2)<br>A.B = 12 + 6 + 2 = 20<br>|A| = akar ( 9 + 4 + 1 ) = akar (14)<br>|B| = akar (16 + 9 + 4 ) = akar (29)<br>cos = 20 / ((akar 14)* (akar 29)) = 0,9925<br>sudut =\u00a0 7 <br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-percobaan-mengundi-uang-logam-rp-10000-sebanyak-2-kali-208",
+            "question": "Tentukan Percobaan mengundi uang logam Rp. 100,00 sebanyak 2 kali",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "ruang sampel = gambar (G) dan angka (A)<br>pengundian uang logam 100 sebanyak dua kali --&gt; masing-masing sisi punya peluang 2/4 atau 1/2 <br>P(A)=2/4<br>P(G)=2/4<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "5-sin-a-cos-a-4-sin-a-3-cos-a-tentukan-nilai-a-dengan-kis-323",
+            "question": "5 (sin A - cos A) = 4 sin A - 3 cos A\r\n\r\nTentukan nilai A dengan kisaran 0-360 derajat",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "5(sin A - cos A) = 4 sin A -3 cos A<br>5 sin A - 5 cos A = 4 sin A - 3 cos A<br>2 cos A = sin A<br>A = 2 (\u03c0n + tan^-1(1/2(-1-\u221a5)))<br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

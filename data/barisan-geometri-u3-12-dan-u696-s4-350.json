@@ -1,0 +1,134 @@
+{
+    "question": "Barisan Geometri. U3= 12, dan U6=96. S4. . . ?",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "u6 = 96 = rumus\u00a0 ar^n-1<br>u3 = 12 <br>s4 ?<br><br>u6 = ar^5\u00a0 u3 = ar^2<br>96 = ar^5\u00a0 12 = ar^2<br><br>r = 6-3\u221a96/12 = \u221b8 = 2<br>S4 = u3 x r<br>\u00a0\u00a0 \u00a0 = 12 x 2 = 24<br>S4 = 3 + 6 + 12 + 24 = 45<br>",
+            "attachments": []
+        },
+        {
+            "answer": "U3 = 12<br>U6 = 96<br>dit : S4<br><br>U6 = U3 . rrr<br>96 = 12 . rrr<br>rrr = 8<br>r = 2<br><br>S4 = 3 + 6 + 12 + 24 = 45",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "deret-4-10-16-k-374-jadi-tentukan-nilai-k-adalah-338",
+            "question": "Deret 4 + 10 +16 +.....+k = 374. Jadi tentukan nilai K adalah...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]a=4,b=4,U_n=k\\\\\nU_n=a+(n-1)b\\\\\nk=4+(n-1)6\\\\\n\\frac{k-4}{6}+1=n\\\\\n\\frac{k-4+6}{6}=n\\\\\n\\frac{k+2}{6}=n\\\\\n\nS_n=\\frac{n}{2}(a+U_n)\\\\\n374=\\frac{\\frac{k+2}{6}}{2}(4+k)\\\\\n374=\\frac{k+2}{12}(4+k)\\\\\n4488=(k+2)(k+4)\\\\\nk^2+6k+8=4488\\\\\nk^2+6k-4480=0\\\\\nk_{1,2}=\\frac{-6 \\underline{+}\\sqrt{6^2-4(1)(-4480)}}{2}\\\\\nk_{1,2}=\\frac{-6 \\underline{+}\\sqrt{17956}}{2}\\\\\nk_{1,2}=\\frac{-6 \\underline{+}134}{2}\\\\\nk_{1,2}=-3 \\underline{+}67\\\\k_1=-3+67=64\\\\k_2=-3-67=-70(tidak memenuhi)[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sekeping-uang-logam-di-lempar-30-kali-frekuensi-muncul-gambar-9-840",
+            "question": "sekeping uang logam di lempar 30 kali. frekuensi muncul gambar 9 kali. frekuensi relatif muncul gambar.........",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "P (mcl gambar) = 9/30 = 0,3",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "besar-sudut-p-dari-sebuah-segitiga-pqr-adalah-70-selisih-antara-535",
+            "question": "Besar sudut P dari sebuah segitiga PQR adalah 70, selisih antara besar sudut Q dan R adalah 36\u00b0 tentukan besar sudut Q dan R. Perlu diketahui total sudut sebuah segitiga adalah 180\u00b0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]P=70^o\\\\\nQ-R=36^o \\rightarrow Q=36^o+R\\\\\\\\\nP+Q+R=180^o\\\\\n70^o+36^o+R+R=180^o\\\\\n2R=74^o\\\\\nR=37^o\\\\\\\\\nQ=36^o+R\\\\\nQ=36^o+37^o\\\\\nQ=73^o[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diana-mempunyai-sejumlah-uang-sebanyak-bagian-uang-tersebut-di-983",
+            "question": "Diana mempunyai sejumlah uang. sebanyak\u00a0 bagian uang tersebut digunakan untuk membeli sepatu. jika setelah membeli sepatu sisa uang Diana kurang dari Rp50.000,00 . uang Diana mula-mula ...    A. Kurang dari Rp150.000,00\r\nB. Kurang dari Rp100.000,00\r\nC. lebih dari Rp100.000,00\r\nD. Lebih dari Rp150.000,00\r\n\r\nSuatu fungsi f:R\u00a0\u21d2 R dinyatakan dengan rumus f(x) = 5x + b. Jika f(3) = 12 , rumus fungsi f(x) adalah...\r\n\r\nA. \u00a0f(x) = 5x - 7\r\nB.\u00a0 f(x) = 5x - 3\r\nC. \u00a0f(x) = 5x + 3\r\nD. \u00a0f(x) = 5x + 7",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]misal\\ jumlah\\ uang\\ awal = x\\\\dibelanjakan\\ sebanyak\\ \\frac{2}{3}x,\\ sisa\\ \\frac{1}{3}x\\\\sisa\\ uang\\ &lt;Rp50.000,00\\\\\\frac{1}{3}x&lt;Rp50.000,00\\\\x&lt;Rp150.000,00\\\\\\\\f(3)=5(3)+b=12\\\\15+b=12\\\\b=-3\\\\<span>f(x)=5x-3[/tex]</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "harga-tiket-masuk-ke-ruangan-pameran-untuk-balita-rp200000-dan-415",
+            "question": "harga tiket masuk ke ruangan pameran untuk balita Rp.2000,00 dan untuk dewasa Rp.3000,00.Pada hari minggu terjual 540 tiket adengan hasil penjualan Rp1.260.000,00.banyak masing-masing tiket masuk balita dan dewasa terjual berturut turut adalah...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "balita = 360 tiket = 720.000<br>dewasa = 180 riket = 540.000<br>total = 1.260.000",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dalam-suku-deret-aritmatika-diketahui-suku-ke3-9-dan-suku-ke7-878",
+            "question": "Dalam suku deret aritmatika diketahui, suku ke3 = 9 dan suku ke7 = 37. suku ke 30 adalah...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "U3=9 -&gt; a+2b=9\nU7=37-&gt; a+6b = 37\n               ---------- -\n-4b = -28\n   b = 7 -&gt; a +2.7 = 9\n                 a= -5\nNanti tinggal disubsitusi ke\nUn = a+ (n- 1 ) b",
+                    "attachments": []
+                },
+                {
+                    "answer": "U3=9\u00a0<br>U7=37<br>-4b=-28<br>b=-28/-4<br>b=7<br><br>a+2b=9 \u00a0 \u00a0\u00a0a+2.7=9<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 a+14=9<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 a=-5<br><br>U30= a+(n-1)\u00a0b<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0-5+29.7<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0-5+203<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0198",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jawablah-pertanyaan-berikut-ini-dengan-benar-5-tentukan-negasi-d-339",
+            "question": "Jawablah Pertanyaan berikut ini dengan benar    5. Tentukan negasi dari disjungsi- disjungsi berikut.\r\na. Susi Wanita yang cantik atau baik hati.\r\nb. 5 bialngan prima atau habis dibagi 2.\r\nc. 2x + 1 = 5 atau 3 bilangan ganjil.\r\nJawabannya:\r\n\r\ntolong Jawablah secepat mungkin karena ini penting",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a. baik hati<br>b. 2<br>c. 2x + 1 = 5<br>\u00a0\u00a0  2x = 5-1<br>\u00a0\u00a0 2x = 4<br>\u00a0\u00a0 x\u00a0\u00a0\u00a0 = 2<br><br>Itu jawabannya. Balas \"terimakasih\" ya ! :)<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "a. susi wanita yang tidak cantik dan tidak baik hati<br>b. 5 bukan bilangan prima dan tidak habis dibagi 2<br>c. 2x + 1 \u2260 5 dan 3 bukan bilangan ganjil<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-taman-berbentuk-lingkaran-dengan-diameter-40-mdisekelilin-489",
+            "question": "sebuah taman berbentuk lingkaran dengan diameter 40 m.disekeliling taman itu akan dibuat jalan dengan lebar 1 m (=22/7).hitunglah luas jalan tsb",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "d awal=40 m<br>R=r+1m<br>R=20+1=21m<br>luas lingkaran besar=22/7x21x21=1386<br>luas lingkaran kecil=22/7x20x20= 1257,14286<br>luas jalan=1386-1257,14286=128,8572m\u00b2",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "persamaan-lingkaran-xi-sma-tentukan-persamaan-lingkaran-yang-me-878",
+            "question": "PERSAMAAN LINGKARAN - xi sma tentukan persamaan lingkaran yang melalui (0,0) dengan jari2 akar 5 dan titik pusatnya terletak pada garis y= x-1 \u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]misal\\ titik\\ pusatnya\\ (a,b)\\\\\n(x-a)^2+(y-b)^2=r^2\\ melalui\\ titik\\ (0,0)\\\\\n(0-a)^2+(0-b)^2=(\\sqrt{5})^2\\\\\na^2+b^2=5\\\\\nkarena\\ (a,b)\\ berada\\ pada\\ garis\\ y=x-1,\\ maka\\\\\nb=a-1\\\\\na^2+b^2=5\\\\\na^2+(a-1)^2=5\\\\\n2a^2-2a-4=0\\\\\n(2a+2)(a-2)=0\\\\\na=-1\\ atau\\ a=2\\\\\nutk\\ a=-1,b=-2 \\rightarrow (x+1)^2+(y+2)^2=5\\\\\nutk\\ a=2,b=1 \\rightarrow (x-2)^2+(y-1)^2=5[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "deskripsi-tentang-konsep-dasar-sudut-347",
+            "question": "Deskripsi tentang konsep dasar sudut?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "sudut adalah titik yang dibentuk oleh 2 garis yang bersinggungan atau berpotongan",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

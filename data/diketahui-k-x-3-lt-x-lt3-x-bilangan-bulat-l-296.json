@@ -1,0 +1,128 @@
+{
+    "question": "Diketahui:    K = {x |\u00a0\u207b3 &lt; x &lt;3, x\u00a0\u2208 bilangan bulat }\r\nL = {lima bilangan cacah pertama}\r\nM = {x | x&lt;5, x\u2208 bilangan asli}\r\n\r\ntentukan:\r\na.K U L\r\nb.K U M\r\nc.L U M\r\nd.K U L U M\r\ne.K\u00a0\u03a0 M\r\nf.K\u00a0\u03a0 L\r\ng.K\u00a0\u03a0 L M",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "K = {-2,-1,0,1,2}<br>L\u00a0= {0,1,2,3,4}<br>M = {1,2,3,4}<br><br>jawaban\u00a0<br>A. A={-2,-1,0,1,2,3,4}<br>B. B={-2,-1,0,1,2,3,4}<br>C. C={0,1,2,3,4}<br>D. D={-2,-1,0,1,2,3,4}<br>E. E={1,2}<br>F. F={0,1,2}<br>G. yang ini soalnya gak jelas",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "34a-4-11ini-ngerjainnya-caranya-gimana-750",
+            "question": "3/4a - 4 = 11,ini ngerjainnya caranya gimana??",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "3/2\u00a0a\u00a0-\u00a04 =11<br>3/2 a =15<br>a=15per 3/2<br>a=15\u00d72per3<br>a=10",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sederhanakanlah-5-akar-3-43-6-akar-2-3-akar-2-552",
+            "question": "Sederhanakanlah 5 akar 3 + 43 + 6 akar 2 - 3 akar 2",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "43 + 3 akar2 + 5 akar3<br>itu adalah jawaban yang paling sederhana",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "a2c-48-b-43s24-manakah-yang-merupakan-persamaan-linier-satu-800",
+            "question": "A.2c-4;8\r\n B.-4+3s;24\r\n manakah yang merupakan persamaan linier satu variabel?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a. 2c-4=8<br>2c=8+4\u00a0 (pindah ruas)<br>2c=12<br>c=6<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "maaf kalau salah. menurut saya sih A. soalnya :<br>a. 2c-4 = 8<br>\u00a0\u00a0 \u00a0 \u00a0\u00a0 2c = 8 + 4<br>\u00a0\u00a0 \u00a0 \u00a0\u00a0 2c = 12<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 c = 6<br><br>b. -4 + 3s = 24<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0\u00a0 3s = 24 +4<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 3s = 28 (padahal 28 tidak bisa dibagi 3)<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pada-suatu-lingkaran-dengan-pusat-o-di-ketahui-titik-a-b-c-dan-439",
+            "question": "pada suatu lingkaran dengan pusat O di ketahui titik A, B, C, dan D pada keliling lingkaran, sehingga sudut AOB = 35 derajat dan sudut\u00a0 COD = 140 derajat. jika panjang lengkung AB = 14 cm , hitunglah panjang lengkung CD",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "panjang\u00a0lengkung cd=56",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "cara-menghitung-luas-dan-keliling-yang-ada-derajatnya-dan-contoh-553",
+            "question": "Cara menghitung luas dan keliling yang ada derajatnya dan contoh soal",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kalo hitung luas segitiga siku2 ataupun kelilingnya harus pake teorema pythqgoras",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1gambarlah-lingkaran-d-berjari-jari-2-cm-2buatlah-sudut-pusar-q-151",
+            "question": "1.Gambarlah lingkaran D berjari jari 2 cm    2.buatlah sudut pusar QPR =50\u00b0\r\n 3.gambarlah lingkaran lain dgn pusat tetap di P dan berjari jari 4 cm\r\n 4.apakah ukuran QPR berubah ?apa kesimpulanmu?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "besar sudut QPR tetap sama",
+                    "attachments": [
+                        "answer-attachments/1gambarlah-lingkaran-d-berjari-jari-2-cm-2buatlah-sudut-pusar-q-151-1.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "seorang-anak-memainkan-layang-layang-dengan-benang-yg-panjang-nya-271",
+            "question": "seorang anak memainkan layang layang dengan benang yg panjang nya 130m. jarak anak dengan titik di tanah yang tepar di bawah layang layang adalah 50m. tinggi layang layang tersebut ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "gunakan phytagoras<br><br>x2(kuadrat) = 130^2 (kuadrat) - 50^2 (kuadrat)<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0=\u00a016900-2500<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 14400<br>x= akar 14400<br>x= 120<br>jawaban = 120 m<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "kenapa-nilai-phi-314-817",
+            "question": "Kenapa nilai phi 3,14?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "karena nilai phi itu diperoleh dari keliling lingkaran dibagi diameter",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "53-35-232-7-45-665",
+            "question": "5\u221a3-3\u221a5 =\r\n-2\u221a3+\u221a2 =\r\n\u221a7- 4\u221a5 =",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1. hasilnya 2\u221a5<br>yang no. 2 sudah tdk bisa dikurangi lagi, begitu juga yang no. 3 nya<br><br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "harga-sebuah-baju-sama-dengan-harga-ketiga-buah-kaos-seorang-pe-638",
+            "question": "Harga sebuah baju sama\u00a0dengan harga ketiga buah kaos. seorang pedagang membeli 2 baju dan 3 kaos,pedagang itu harus membayar Rp.\u00a0420.000,00    a. buatlah model matematika dari keterangan diatas\r\nb. selesaikan model matematika tersebut,kemudian tentukan harga 5 baju dan 4 kaos.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a. b=baju<br>\u00a0 \u00a0 k=baju kaos<br>\u00a0 \u00a0\u00a01b=3k<br>\u00a0 \u00a0 2b+3k=420.000<br>b. jwb sendiri mls ngetik, kalau bener2 gk tau, komen aja ya.",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

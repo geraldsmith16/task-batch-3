@@ -1,0 +1,145 @@
+{
+    "question": "Garis x-y+3=0 dirotasi 60\u00b0 berlawanan dengan arah perputaran jarum jam dengan pusat putar O(0,0). Tentukan bayangannya!",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "pakai rumus<br>(x) \u00a0 = \u00a0 \u00a0 \u00a0 \u00a0 \u00a0cos a (-sin\u00a0a) \u00a0diinferskan lalu dikali (x&#039;)<br>(y) \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 sin a \u00a0 cos a\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0(y&#039;)<br>setelah hasilnya ketemu nanti dmasukkan ke persamaan yang menjadi soalnya<br><br>maaf tidak bisa membantu banyak, karna keterbatasan penulisan disini jadi saya tdk bisa menjawab hingga tuntas..",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "sebuah-kotak-berisi-10-kelereng-biru8-kelereng-kuningdan-2-kele-236",
+            "question": "sebuah kotak berisi 10 kelereng biru,8 kelereng kuning,dan 2 kelereng merah.jika diambil dua kelereng sekaligus,peluang terambil keduanya kelereng biru atau keduanya kelereng kuning adalah...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Biru = 10<br>Kuning = 8<br>Merah = 2<br>Total kelereng = 20<br><br>Peluang terambil keduanya kelereng biru = 10C2 = 10!/((10 - 2)! * 2!) = (9 * 10)/(2) = 45<br>Peluang terambil keduanya kelereng kuning = 8C2 = 8!/((8 - 2)! * 2!) = (7 * 8)/(2) = 28<br>Peluang terambil keduanya dari total = 20C2 = 19 * 20 / 2 = 190<br><br>Peluang keduanya biru = 45/190 <br>Keduanya merah = 28/190<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "3-bilangan-membentuk-barisan-geometri-jumlah-ke-3-bilangan-terseb-126",
+            "question": "3 bilangan membentuk barisan geometri jumlah ke 3 bilangan tersebut adalah 14, dan hasil kalinya 64. Tentukan ke 3 bilangan tersebut",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Dik : <br>Barisan geometri\u00a0 U\u2081 + U\u2082 + U\u2083 = 14\u00a0 ; U\u2081 x U\u2082 x U\u2083 = 64<br>Dit : <br>U\u2081\u00a0 ;\u00a0  U\u2082\u00a0  dan U\u2083<br>Jawab : <br>U\u2081 x U\u2082 x U\u2083 = 64 ==&gt; a x ar x ar\u00b2 = 64<br>a\u00b3 x r\u00b3 = 64 .... ruas kiri dan kanan diakar pangkat 3<br>ar = 4 ..... pers(1)<br><br>U\u2081 + U\u2082 + U\u2083 = 14 \u00a0 ==&gt;\u00a0 a + ar + ar\u00b2 = 14 \u00a0 ==&gt;\u00a0 a + ar + ar.r = 14 <br>a + 4 + 4r = 14 ==&gt; 4/r + 4 + 4r - 14 = 0\u00a0 \u00a0 ==&gt;\u00a0 4/r + 4r - 10 = 0 <br>4 + 4r\u00b2 - 10r = 0 ==&gt; 4r\u00b2 - 10r + 4 = 0 ==&gt; (4r - 2)(r - 2) = 0 <br>r = 1/2 atau r = 2 <br>untuk r = 1/2 maka a = 4/0,5 = 8 <br>maka bilangan yang dimaksud adalah : 8 , 4 , 2 <br>untuk r = 2, maka a = 4/2 = 2 <br>bilangan yang dimaksud adalah : 2 . 4 , 8 <br><br><br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "U\u2081 x U\u2082 x U\u2083 = 64\u00a0<br><span>sifat barisan geometri : U\u2081 x U\u2083 = U\u2082\u00b2\u00a0</span><br>maka didapat : U\u2082\u00b3 = 64 ----&gt; U\u2082 = 4 dan U\u2081 x U\u2083 = 16 ..... pers (1)<br>U\u2081 + U\u2082 + U\u2083 = 14<br><span>U\u2081 + 4 + U\u2083 = 14 ----&gt; U\u2081 + U\u2083 = 10 ......pers (2)\u00a0</span><br><span>dari pers 1 dan pers 2 didapat bilangan yang hasil kalinya 16 dan hasil jumlahnya 10 adalah 2 dan 8\u00a0</span><br><span>jadi bilangan yang dimaksud adalah 2 , 4 dan 8\u00a0</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "x22x-150-carlah-x1-dan-x2-denan-menggunakan-rumus-abc-505",
+            "question": "X\u00b2+2x-15=0\r\ncarlah x\u2081 dan x\u2082\r\ndenan menggunakan rumus abc",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "kalo itu akar\"nya\u00a0<br>(x-3)(x+5)<br>yg rumus abc itu apa pakek yang ini ??<br>x1,2 = -b +-\u00a0\u221ab\u00b2 - 4ac / 2a",
+                    "attachments": []
+                },
+                {
+                    "answer": "rumus D = b^2 - 4ac<br>(2x)^2-4(1)(-15)=0<br>4x^2-4+60=0<br>4x^2+56=0<br>4x^2 = -56<br>x^2 = \u00a0-14<br>x =\u00a0\u221a14<br>jadi nilai x = positif negarif\u00a0\u221a14",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-barisan-aritmetika-jumlah-suku-kedua-dan-keempat-adalah-880",
+            "question": "diketahui barisan aritmetika jumlah suku kedua dan keempat adalah 24 dan jumlah suku ketiga dan kelima adalah 32 suku ke 9 barisan tersebut adalah??",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a=4<br>b=4<br><br>u9=a+8b<br>\u00a0\u00a0  =4+32<br>\u00a0\u00a0 =36<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "aku-punya-pr-tapi-aku-atak-tahu-bagaimana-cara-untuk-menemukan-ja-208",
+            "question": "Aku punya PR tapi aku atak tahu bagaimana cara untuk menemukan jalan solusinya,    pertanyaannya begini:\r\n\r\nTemukan grafik fungsi kuadrat f(X) = 4x\u00b2 - 8x +\u00a03, dari grafik fungsi kuadrat g(x) = 4x\u00b2 !\r\n\r\nMohon penjelasannya!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]f(x)=4x^2-8x+3\\\\\ncari\\ titik\\ potong\\ thdp\\ sb\\ x\\ (y=0)\\\\\n0=4x^2-8x+3\\\\\n(2x-3)(2x-1)=0\\\\\nx=\\frac{3}{2}\\ atau\\ x=\\frac{1}{2}\\\\\ndiperoleh\\ (\\frac{3}{2},0)\\ dan\\ (\\frac{1}{2},0)\\\\\\\\\ncari\\ tipot\\ thdp\\ sb\\ y\\ (x=0)\\\\\nf(x)=y=4x^2-8x+3\\\\\ny=4(0)^2-8(0)+3\\\\\ny=3\\\\\ndiperoleh\\ (0,3)\\\\\\\\\ncari\\ titik\\ puncak\\ P(\\frac{-b}{2a},\\frac{-(b^2-4ac)}{4a})\\\\\nP(\\frac{-(-8)}{2(4)},\\frac{-((-8)^2-4(4)(3))}{4(4)})\\\\\nP(1,-1)\\\\\nletakkan\\ semua\\ titik\\ pada\\ koordinat\\ kartesius\\\\\nlalu\\ gambar\\ grafiknya[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "untuk-membangun-2-ruang-kelas-butuh-15-orang-pekerja-dalam-waktu-370",
+            "question": "Untuk membangun 2 ruang kelas\u00a0butuh 15 orang pekerja dalam waktu 50 hari, setelah 20 hari\u00a0berjalan terhenti karena suatu sebab selama 5 hari. berapa tambahan pekerja agar tetap selesai dalam waktu 50 hari ?    hayo siapa yang bisa,\u00a0tolong ya teman-teman saya lupa maaf nih..",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "50 hari = 15 pekerja<br><br>setellah bekerja 20 hari,sisa<br>30 hari = 15 pekerja yang selesaikan<br><br>libur 5 hari<br>25 hari = x orang<br><br>jawab:<br>30 / 25 = x / 15<br>30 \u00d7 15 = 25x<br>450 = 25x<br>18 orang = x<br><br>jumlah yang harus ditambah:<br>18 - 15 = 3 orang<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jumlah-ke-10-dari-barisan-3-5-7-9-adalah-222",
+            "question": "JUMLAH KE-10 DARI BARISAN\u00a0 : 3, 5, 7, 9 ...... ADALAH",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Sn = n/2 (2a+(n-1)b)<br>Sn\u00a0= 10/2 (2.3+(10-1)2)<br>Sn = 5 (6+18)<br>Sn = 5 . 24<br>Sn = 120",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pada-sebuah-segitiga-klm-dengan-siku-siku-di-l-berlaku-sin-m2-781",
+            "question": "pada sebuah segitiga KLM, dengan siku-siku di L, berlaku sin M=2/3 dan panjang sisi KL=\u221a10 cm, tentukanlah panjang sisi segitiga yang lain.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "KL=LM=\u221a10<br>KM=akar dari <span>\u221a10 x </span><span>\u221a10</span>= akar 100=10<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "m/ sin M = l / sin L<br>\u221a10 \u00f7\u00a02/3 = l\u00a0\u00f7 1<br>l = 3/2 (dikali)\u00a0\u221a10 cm\u00a0= panjang KM<br><br>panjang\u00a0LM = k =\u00a0\u221a(3/2\u00d7\u221a10)\u00b2 - (\u221a10)\u00b2 = 90/4 -10 = (90-40)/4 = 50/4 = 12.5 cm<br><br>maaf jika kurang tetpat",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apakah-fungsi-y-x2-4-mempunyai-turunan-di-x2-558",
+            "question": "Apakah fungsi y= |x^{2}\u00a0-4|\u00a0mempunyai turunan di x=2 ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "ya karena jika dihitung ada 2hasil yaitu 2 dan -2<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "menurut saya tidak, karena pada x = 2 grafik fungsi modulus\u00a0 f(x)=|x^2-4| diskontinu atau terputus, lihat grafik. semoga membantu<br>",
+                    "attachments": [
+                        "answer-attachments/apakah-fungsi-y-x2-4-mempunyai-turunan-di-x2-558-1.png",
+                        "answer-attachments/apakah-fungsi-y-x2-4-mempunyai-turunan-di-x2-558-2.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "garis-ymxn-melalui-titik-16-dan-3-2-maka-nilai-m-dan-n-569",
+            "question": "Garis y=mx+n melalui titik (1,6) dan (-3,-2), maka nilai m dan n berturut-turut adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "m=[tex] \\frac{Y2-Y1}{X2-X1} [/tex]<br>m = [tex] \\frac{-2-6}{-3-1} = \\frac{-8}{-4}=2 [/tex]<br>Y - Y1 = m(X-X1) <br>y - 6 = 2 (x-1)<br>y = 2x - 2 + 6<br>y = 2x + 4 <br><br>mudah mudahan membantu ya! dan jangan lupa istirahat he he <br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "&gt;&gt;\u00a0m=\u00a0<br>&gt;&gt;\u00a0<span>m =\u00a0</span><br><span>&gt;&gt; y\u00a0- y1 = m(x-x1)\u00a0 <br>&gt;&gt;\u00a0</span>y - 6 = 2 (x-1)<br>&gt;&gt;\u00a0y = 2x - 2 + 6<br><span>&gt;&gt;\u00a0y = 2x + 4\u00a0<br>maaf kalo ngelantur habis ngantuk sih</span>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

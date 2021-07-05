@@ -1,0 +1,146 @@
+{
+    "question": "Numpang tanya lagi boleh,,,????    \u00a0diket : x=1, y=4\r\ndit : (x\u00b2/\u00b3 . y \u207b\u2074/\u00b3)\r\n\u00a0\u00a0 \u00a0 \u00a0 (y\u00b2/\u00b3 . x\u00b2)\r\n\u00a0mohon bantuanya,,, makasih :)",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "[tex]x=1,y=4\\\\\n\\frac{x^{\\frac{2}{3}}y^{\\frac{-4}{3}}}{y^{\\frac{2}{3}}x^2}\\\\\n=\\frac{(1^{\\frac{2}{3}})(4^{\\frac{-4}{3}})}{(4^{\\frac{2}{3}})(1^2)}\\\\\n=\\frac{4^{\\frac{-4}{3}}}{4^{\\frac{2}{3}}}\\\\\n=4^{\\frac{-4}{3}-\\frac{2}{3}}\\\\\n=4^{\\frac{-6}{3}}\\\\\n=4^{-2}\\\\\n=\\frac{1}{16}[/tex]",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "diketahui-persamaan-kuadrat-x2-2kx-3k-2-0-a-tentukan-dis-604",
+            "question": "Diketahui persamaan kuadrat x\u00b2 - 2kx + 3k -2 = 0    a. Tentukan diskriminannya\r\nb. Tentukan nilai k agar persamaan kuadrat tersebut memiliki\r\n\u00a0 1) dua akar real berbeda\r\n\u00a0 2) dua akar real sama\r\n\u00a0 3) dua akar tidak real",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]x^2-2kx+3k-2=0\\\\ D=b^2-4ac=(-2k)^2-4(1)(3k-2)\\\\ D=4k^2-12k+8\\\\ D=4(k^2-3+2)\\\\ D=4(k-1)(k-2)\\\\\\\\ 1)\\ 2\\ akar\\ real\\ berbeda\\ (D&gt;0)\\\\ 4(k-1)(k-2)&gt;0\\\\ (k-1)(k-2)&gt;0\\\\ k&lt;1\\ atau\\ k&gt;2\\\\\\\\ 2)\\ 2\\ akar\\ real\\ kembar\\ (D=0)\\\\ 4(k-1)(k-2)=0\\\\ (k-1)(k-2)=0\\\\ k=1\\ atau\\ k=2\\\\\\\\ 3)\\ 2\\ akar\\ imajiner\\ D(&lt;0)\\\\ 4(k-1)(k-2)&lt;0\\\\ (k-1)(k-2)&lt;0\\\\ 1&lt;k&lt;2 [/tex]",
+                    "attachments": []
+                },
+                {
+                    "answer": "b^2-4.a.c=0<br>(-2k)^2-4.1.(3k-2)=0<br>4k^2-12k+8=0<br>maka, difaktorkan menjadi<br>(k-1)(4k-8)<br>maka bil. diskriminannya adalah...<br>1 atau 2<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "berapa-hasil-dari-557",
+            "question": "Berapa hasil dari\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]2^{2014}.2^{15}=2^{2014+15}=2^{2029}[/tex]",
+                    "attachments": []
+                },
+                {
+                    "answer": "[tex] 2^{2014+15} =  2^{2029} [/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bagaimana-cara-membuat-komik-matematika-dan-berikan-contohnya-t-473",
+            "question": "bagaimana cara membuat\u00a0 komik matematika dan berikan contohnya tentang :pernyataan,kalimat terbuka???",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "iya itu merupakan kalimat terbuka <br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "contoh kalimat terbuka dalam matematika<br>4 + 5 = 9<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dari-angka-angka-12468-dan-9-akan-disusun-3-angka-berbeda-p-326",
+            "question": "dari angka angka 1,2,4,6,8, dan 9 akan disusun 3 angka berbeda. peluang kejadian muncul angka genap kurang dari 500 adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "angka genap kurang dari 500.<br><br><strong>seratusan</strong><br>1 x 4 x\u00a04 = 16<br><strong>2-ratusan</strong><br>1 x 4\u00a0x 3 = 12<br><strong>4-ratusan</strong><br>1 x 4 x 3 = 12<br>16 + 12 + 12 = 40<br><br>Semesta = 4\u00a0x\u00a05\u00a0x\u00a06 = 120<br><br>[tex]Peluang =  \\frac{40}{120} = \\frac{1}{3} [/tex]<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "materi-trigonometri-hitunglah-bentuk-berikut-dengan-menggunaka-883",
+            "question": "MATERI ; TRIGONOMETRI.    Hitunglah bentuk berikut dengan menggunakan rumus setengah sudut.\r\n1. tan 22,5 =\r\n2. cos 22,5 =",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "b. cos 22,5 =\u00a01/2 . 45<br>\u221a1+cos 45 : 2<br>\u221a1 + 1/2\u221a2 :2<br>\u221a2+\u221a2 \u00a0: 4<br>1/2\u00a0\u221a2+\u221a2",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-akar-persamaan-kuadrat-dari-6x2-48x-90-tentukan-n-397",
+            "question": "Diketahui akar persamaan kuadrat dari 6x\u00b2 - 48x + 90. tentukan nilai (x1/x2+1) + (x2/ X1+1)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "6x\u00b2-48x+90 = x\u00b2-8x+15<br>=(x-3) (x-5)=0<br>x1 = 3 x2= 5<br><br>silahkan substitusikan sisanya",
+                    "attachments": []
+                },
+                {
+                    "answer": "6x2-48x+90<br>(x-3)(x-5)<br>x1=3 \u00a0x2=5<br><br>(x1/x2+1) + (x2/x1+1)<br>(3/5+1) +(5/3+1)<br>8/5 + 8/3 = 64/15 gitu?\u00a0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jumlah-bilangan-asli-antara-1-dan-200-yg-hbis-diagi-4-adalah-310",
+            "question": "jumlah bilangan asli antara 1 dan 200 yg hbis diagi 4 adalah...?? jumlah n suku pertama suatu deret aritmetika dinyatakan dengan SN=n^2+3N..suku ke 20 deret tersebut adalah.....mohon bntuanyaaaa",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "kalo aritmatika jawabannya 80<br>4,8,12.....200<br>U-20= a+(n-1)b<br>4+(19)4<br>=80<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "menentukan-nilai-fungsi-fx2x-3x-1-tentukan-f-2-326",
+            "question": "Menentukan nilai fungsi f(x):2x - 3x +1 tentukan (f-2)???",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>f(x)=2x - 3x +1<br>f(2)= 2(2) - 3(2) +\u00a01<br>\u00a0 \u00a0 \u00a0= 4 - 6 + 1<br>\u00a0 \u00a0 \u00a0= -1<br>jawabanya -1</span>",
+                    "attachments": []
+                },
+                {
+                    "answer": "f(-2) = 2(-2) - 3(-2) + 1 = -4 + 6 + 1 = 3<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "ada-yang-ngerti-limit-trigonometri-ga-972",
+            "question": "Ada yang ngerti limit trigonometri ga???",
+            "attachments": [
+                "question-attachments/ada-yang-ngerti-limit-trigonometri-ga-972-1.docx"
+            ],
+            "answers": [
+                {
+                    "answer": "nih dek, cb dipelajari",
+                    "attachments": [
+                        "answer-attachments/ada-yang-ngerti-limit-trigonometri-ga-972-1.docx"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-nilai-a-dan-b-jika-x4-ax2bx-1-habis-dibagi-oleh-x2-321",
+            "question": "Tentukan nilai a dan b jika\u00a0 X^4-ax^2+bx-1 habis dibagi oleh X^2-2x+1\r\n\r\nMohonnnn bantuannya!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]x^4-ax^2+bx-1 habis\\ dibagi\\ (x-1)^2\\\\\nmaka\\ (1)^4-a(1^2)+b(1)-1=0\\\\\n1-a+b-1=0\\\\\n-a+b=0\\\\\na=b[/tex]",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

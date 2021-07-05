@@ -1,0 +1,144 @@
+{
+    "question": "Tentukan nilai\"m\" yang memenuhi :    a. f(x) = mx2 - (m+1) x-8\r\nb. f(x) = mx2 + 12x + 9m\r\njika 1 memotong sumbu x\r\njika 1 menyinggung sumbu x\r\njika 1 tidak memotong/menyinggung sumbu x",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "a. <br><span><br>b. </span><br><span><br><br>i&#039;m sorry if the fals answer..<br></span>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "jika-999-997-995-adalah-barisan-aretmatika-maka-suku-brni-497",
+            "question": "Jika -999,-997,-995,... Adalah barisan aretmatika, maka suku brnilai positif yg muncul prtama kali adalah suku ke .. \u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1 = a + (n-1)b<br>1\u00a0=- 999 + 2n -2<br>3 = -999 + 2n<br>1112 = 2n<br>556 = n :)",
+                    "attachments": []
+                },
+                {
+                    "answer": "a = -999<br>b = -997 - (-999) = 2<br><br>suku positif pertama<br>Un = -999 + 2(n-1)<br><br>yang cocok pada saat n-1 bernilai 500<br>jadi<br>Un = -999 + 2(500) = -999 + 1000 = 1<br><br>jadi<br>n - 1 = 500<br>n = 501<br><br>jadi suku ke 501",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suatu-garis-melalui-titik-a-4-1-dan-b-2-3-gradien-ga-259",
+            "question": "Suatu garis melalui titik A(\u00a0-4, 1\u00a0) dan B( 2, -3 ).    Gradien garis tersebut adalah...\r\n\r\nA.\u00a0\u208b\r\nB.\u00a0\u208b\r\nC.\u00a0\r\nD.\u00a0\r\n\r\nsama cara mengerjakannya ya :)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "titik A (-4,1) maka x1 = -4 dan y1 = 1<br>titik B (2 , -3)\u00a0 maka x2 = 2 dan y2 = -3<br><br>gradien atau m = (y2 - y1) / (x2 - x1) = ( -3 - 1 ) / ( 2 - (-4) ) = -4/6 = -2/3<br><br>semoga membantu :)<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "x4-3x3-5x2x-6-x25x-2-917",
+            "question": "(x4-3x3- 5x2+x-6)\r\n : ( x2+5x-2)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "hasil pembagiannya x= -16648 dan x=42112<br>x4-3x3-5x+x-6 ;x2+5x-2<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-segitiga-abc-dengan-koordinat-titik-a11-b82-c1-829",
+            "question": "Diketahui segitiga ABC dengan koordinat titik\u00a0 A(1,1) B(8,2) C(11,5), tentukan translasi yang diwakili oleh garis AB",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Secara umum:<br>B(x`,y`) = T(a,b)+ A(x,y)<br>(8,2) = (a,b) + (1,1)<br>(8,2) = (a+1,b+1), sehingga\u00a0 a+1 = 8 , maka a=7 dan b+1=2, maka b=1.<br>jadi translasi T(7 1)<br><br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-kasih-tau-jawaban-dan-penyelesaiannya-juga-dong-banyak-369",
+            "question": "Tolong kasih tau jawaban dan penyelesaiannya juga dong :)    Banyak bilangan antara 2000 dan 6000 yang dapat disusun dari angka 0,1,2,3,4,5,6,7 dan tidak ada angka yang sama adalah...\r\nTerimah kasih sebelumnya yaa :)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "buat 4 kotak\u00a0 |ribuan|ratusan|puluhan|satuan|<br>|5|7|6|5| = 5 x 7 x 6 x 5 = 1050.<br><br>nb:<br>kotak pertama = dari 0 - 7 yang memenuhi tempat ribuan ada 5 (2, 3, 4, 5, 6)<br>kotak kedua\u00a0 \u00a0  = dari 0 - 7 yang memenuhi tempat ratusan ada 7<br>(jika syaratnya tidak ada angka yang sama, peluang setiap kotaknya di kurang 1, kemudian setiap angka dikalikan, dan itulah hasilnya)<br>dst..<br>:D<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "maaf-sebelumnya-kali-ini-aku-lagi-ada-masalah-besok-bakal-ada-r-646",
+            "question": "Maaf sebelumnya. kali ini aku lagi ada masalah. besok bakal ada razia jilbab,    jlbab aku masih di loundry dan bukanya siang aku lupa ngambil. gimana caranya biar besok aku bisa sakit (pura-pura sakit) dan ngga ketauan\r\n\r\n\"sekolahku bording school :(",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Pake jilbab orangtua aja , ato minjem temen<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "pukul kepela ke tembok aja kak-_-\" ato pagi2 basahin air ke jidat biar kelihatan berkeringat disangka sakit deh..<br><br>kalau ga pake jilbab gmn emg? jilbab temen yg lain?",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "ditanya-sudut-kol-diketahui-sudut-mon-30-derajat-sudut-kql-60-506",
+            "question": "Ditanya sudut KOL? diketahui sudut MON= 30 derajat, sudut KQL= 60 derajat",
+            "attachments": [
+                "question-attachments/ditanya-sudut-kol-diketahui-sudut-mon-30-derajat-sudut-kql-60-506-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "&lt; KOL = 30 derajat karena bertolak belakang dengan\u00a0 &lt; MON<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "ukuran sudutnya adalah 90 derajat<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diana-mempunyai-sejumlah-uang-sebanyak-bagian-uang-tersebut-di-983",
+            "question": "Diana mempunyai sejumlah uang. sebanyak\u00a0 bagian uang tersebut digunakan untuk membeli sepatu. jika setelah membeli sepatu sisa uang Diana kurang dari Rp50.000,00 . uang Diana mula-mula ...    A. Kurang dari Rp150.000,00\r\nB. Kurang dari Rp100.000,00\r\nC. lebih dari Rp100.000,00\r\nD. Lebih dari Rp150.000,00\r\n\r\nSuatu fungsi f:R\u00a0\u21d2 R dinyatakan dengan rumus f(x) = 5x + b. Jika f(3) = 12 , rumus fungsi f(x) adalah...\r\n\r\nA. \u00a0f(x) = 5x - 7\r\nB.\u00a0 f(x) = 5x - 3\r\nC. \u00a0f(x) = 5x + 3\r\nD. \u00a0f(x) = 5x + 7",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]misal\\ jumlah\\ uang\\ awal = x\\\\dibelanjakan\\ sebanyak\\ \\frac{2}{3}x,\\ sisa\\ \\frac{1}{3}x\\\\sisa\\ uang\\ &lt;Rp50.000,00\\\\\\frac{1}{3}x&lt;Rp50.000,00\\\\x&lt;Rp150.000,00\\\\\\\\f(3)=5(3)+b=12\\\\15+b=12\\\\b=-3\\\\<span>f(x)=5x-3[/tex]</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "luas-sebidang-tanah-yang-berbentuk-persegi-panjang-adalah-96-m2-968",
+            "question": "luas sebidang tanah yang berbentuk persegi panjang adalah 96 m2. panjang tanah adalah 6 kali lebarnya. tentukan panjang dan lebar tanah tersebut",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "panjang = 6a<br>lebar = a<br>96 = 6a X a<br>96 = 6a\u00b2<br>a\u00b2 = 96/6<br>a\u00b2 = 16<br>a = 4<br>panjang = 6a = 6x4 = 24 cm<br>lebar = a = 4",
+                    "attachments": []
+                },
+                {
+                    "answer": "Dik : L = 96 m2<br>\u00a0\u00a0 \u00a0 \u00a0  p = 6 l<br><br>Dit : p , l .. ?<br>Jwb :<br>L = p x l<br>96 = 6l x l<br>96 = 6 l(kuadrat)<br>96/6 = l kuadrat<br>l = <em><u></u></em>[tex] \\sqrt{16} [/tex]<br>l = 4 m<br><br>p = 6 l<br>p = 6 (4)<br>p = 24 m<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "x22x-150-carlah-x1-dan-x2-denan-menggunakan-rumus-abc-505",
+            "question": "X\u00b2+2x-15=0\r\ncarlah x\u2081 dan x\u2082\r\ndenan menggunakan rumus abc",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "kalo itu akar\"nya\u00a0<br>(x-3)(x+5)<br>yg rumus abc itu apa pakek yang ini ??<br>x1,2 = -b +-\u00a0\u221ab\u00b2 - 4ac / 2a",
+                    "attachments": []
+                },
+                {
+                    "answer": "rumus D = b^2 - 4ac<br>(2x)^2-4(1)(-15)=0<br>4x^2-4+60=0<br>4x^2+56=0<br>4x^2 = -56<br>x^2 = \u00a0-14<br>x =\u00a0\u221a14<br>jadi nilai x = positif negarif\u00a0\u221a14",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

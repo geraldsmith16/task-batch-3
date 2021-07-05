@@ -1,0 +1,134 @@
+{
+    "question": "Pertidaksamaan \u221a(X\u00b2-5X)\u2265\u221a(-X-3)",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "akar ( x pangkat 2 - 5x ) lebih besar dari sama dengan ( -x-3 )<br><br>akar dari x pangkat 2 - 5x \u00a0itu bisa dihilangkan yang penting x pangkat dua\u00a0dihilangkan pangkatnya maka akan didapat hasil<br><br>x-5x lebih besar dari sama dengan -x-3<br>x-5x+x lebih besar dari\u00a0sama dengan -3 \u00a0 \u00a0 \u00a0( dipindahkan / disendirikan yang ber variabel )<br>-4x + X \u00a0lebih besar dari sama dengan -3<br>-3x lebih besar dari sama dengan -3<br>x lebih besar dari -3/-3<br>jadi x lebih besar dari sama dengan 1",
+            "attachments": []
+        },
+        {
+            "answer": "\u221a(x\u00b2 - 5x)\u00a0\u2265\u00a0\u221a(-x - 3)<br>=\u00a0\u221a (x\u00b2 - 5x)\u00b2\u00a0\u2265\u00a0\u221a (-x - 3)\u00b2<br>= x\u00b2 - 5x\u00a0\u2265 -x - 3<br>= x\u00b2 - 5x + x\u00a0\u2265 -3<br>= x\u00b2 - 4x + 3\u00a0\u2265 0<br>= ( x - 1) (x - 3)",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "tolong-lengkapilah-tabel-berikut-p-p-q-q-pltgtq-p-415",
+            "question": "Tolong lengkapilah tabel berikut    p , ~p, q , ~q, p&lt;=&gt;q, ~(p&lt;=&gt;q), p^~q, ~p^q, (p^~q) v (~p^q)\r\nB \u00a0 \u00a0S \u00a0B \u00a0 S \u00a0 \u00a0 \u00a0B \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 S \u00a0 \u00a0 S\r\nB \u00a0 \u00a0S \u00a0S \u00a0 B \u00a0 \u00a0 \u00a0S \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 B \u00a0 \u00a0 S\r\nS \u00a0 \u00a0B \u00a0B \u00a0 S \u00a0 \u00a0\u00a0 S \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 S \u00a0 \u00a0 B\r\nS \u00a0 \u00a0B \u00a0S \u00a0 B \u00a0 \u00a0 \u00a0B \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 S \u00a0 \u00a0 S\r\n\r\ntolong lengkapi yang kosong itu ya, saya mohon karena ini penting",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>p , ~p, q , ~q, p&lt;=&gt;q, ~(p&lt;=&gt;q), p^~q, ~p^q, (p^~q) v (~p^q)<br>B \u00a0 \u00a0S \u00a0B \u00a0 S \u00a0 \u00a0 \u00a0B \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0S \u00a0 \u00a0 \u00a0 \u00a0 S \u00a0 \u00a0 S \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 S<br>B \u00a0 \u00a0S \u00a0S \u00a0 B \u00a0 \u00a0 \u00a0S \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0B \u00a0 \u00a0 \u00a0 \u00a0B \u00a0 \u00a0 S \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0B<br>S \u00a0 \u00a0B \u00a0B \u00a0 S \u00a0 \u00a0\u00a0 S \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 B \u00a0 \u00a0 \u00a0 \u00a0 \u00a0S \u00a0 \u00a0 B \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 B<br>S \u00a0 \u00a0B \u00a0S \u00a0 B \u00a0 \u00a0 \u00a0B \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 S \u00a0 \u00a0 \u00a0 \u00a0 \u00a0S \u00a0 \u00a0 S \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 S</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebutkan-contoh-domainkodomaindan-range-519",
+            "question": "Sebutkan contoh domain,kodomain,dan range ;)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Domain adalah Daerah Asal<br>Kodomain adalah Daerah Kawan<br>Range adalah daerah Hasil..<br><br>Misalnya ada sebuah contoh soal Relasi<br>\"1 Kurangnya Dari\", dan Domainnya adalah A={0,1,2,3,4}<br>Kodomainnya adalah B={1,2,3,4,5}<br>Maka Rangenya adalah R={(Domain,Kodomain)}--&gt; R={(0,1)(1,2)(2,3)(3,4)(4,5)}<br>Dibacanya R={(0 satu kurangnya dari 1) (1 satu kurangnya dari 2) dst..}<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sisa-pembagian-suku-banyak-x4ax23xb-oleh-x2-2x-3-adal-758",
+            "question": "sisa pembagian suku banyak x^{4}+ax^{2}+3x+b oleh x^{2}-2x-3 adalah 2x-4. tentukan nilai a dan b. \u00a0mohon bantuannya ..",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]x^2-2x-3=(x-3)(x+1)\\\\\nf(x)=x^4+ax^2+3x+b\\\\\nf(3)=3^4+a(3)^2+3(3)+b=2(3)-4\\\\\nf(3)=81+9a+9+b=2\\\\\nf(3)=9a+b=-88\\\\\\\\\nf(-1)=(-1)^4+a(-1)^2+3(-1)+b=2(-1)-4\\\\\nf(-1)=1+a-3+b=-6\\\\\nf(-1)=a+b=-4\\\\\\\\\neliminasi f(3)\\ dan\\ f(-1)\\\\\nf(3)=9a+b=-88\\\\\nf(-1)=a+b=-4\\\\\n8a=-84 \\rightarrow a=-\\frac{21}{2}\\\\\na+b=-4 \\rightarrow -\\frac{21}{2}\\\\+b=-4 \\rightarrow b=\\frac{13}{2}[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "panjang-busur-lingkaran-dengan-sudut-pusat-120-dan-panjang-diam-570",
+            "question": "Panjang busur lingkaran dengan sudut pusat 120\u00b0 dan panjang diameter 21 cm adalah..",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "21.98 jadi 22<br>cari keliling dulu, trs 120/360.kliling lingkaran",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jelaskan-turunan-fungsi-dari-1-2-900",
+            "question": "Jelaskan turunan fungsi dari :\r\n1.\u00a0\r\n2.\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]y=cosec(x)=\\frac{1}{sin(x)}\\\\\ny=(sin(x))^{-1}\\\\\ny&#039;=(-1)(sin(x))^{-1-1}.cos(x).(1)\\\\\ny&#039;=-(sin(x))^{-2}.cos(x)\\\\\ny&#039;=-\\frac{cos(x)}{(sin(x))^2)}\\\\\ny&#039;=-\\frac{cos(x)}{sin(x)}.\\frac{1}{sin(x)}\\\\\ny&#039;=-cot(x).cosec(x)\\\\\\\\\ny=x.sin(3x)\\\\\ny&#039;=(1)sin(3x)+x.cos(3x).(3)\\\\\ny&#039;=sin(3x)+3x.cos(3x)[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-b-dan-c-dan-determinan-dari-matriks-bc-adalah-k-885",
+            "question": "diketahui B =\u00a0, dan C = dan determinan dari matriks B.C adalah K. jika garis 2x - y = 5 dan x + y = 1 berpotongan di titik A, maka persamaan garis melalui A dan bergradien K adalah...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "det B = -2<br>det C = -6<br>K = det B . det C = -2 . -6 = 12<br><br>eliminasi y<br><span>2x - y = 5<br>x + y = 1<br></span>3x = 6<br>x = 2<br><br>subs ke x + y = 1<br>2 + y = 1<br>y = -1<br><br>(x, y) = (2, -1)<br>persamaan baru dengan gradien 12<br>y = 12x - 25",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "ada-3-orang-anak-bernama-yoga-ragil-pengayom-anak-bertiga-it-547",
+            "question": "Ada 3 orang anak bernama , yoga, ragil, pengayom. anak bertiga itu iuran 5000 per orang. jadi semuanya terkumpul 15.000. lalu ketiga anak itu ingin membeli makanan seharga 10.000 dan menyuruh orang lain yang bernama dea. sisa uang tersebut tinggal 5.000. lalu dibagikan kembali 1000 per orang dan yang 2000 diberikan ke dea untuk upah membeli jajan. sama saja ketiga anak itu iuran 4000 kan ? jadi 4000 x 3 = 12000 + 2000 ( uang upah ) = 14.000 . dimana uang 1000 itu ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "kan iuranya 5000!!! kok bisa jadi 4000???<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "uang sisa\u00a01.000 x 3 = 3.000<br>uang dea 2.000<br>=&gt;\u00a03.000 + 2.000 = 5.000<br>membeli makanan 10.000<br><br>10.000 + 5.000 = 15.000<br>berarti jumlah uang mereka memang 15.000, bukan 14.000",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "fx-12-x2-2-gx-x10-f-komposisi-g-x-318",
+            "question": "F(x) = 1/2 x^2 + 2 \r\ng(x) = x+10\r\n(f komposisi g) (x) =...... ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "fog = 1/2(x+10)^2 + 2<br>\u00a0\u00a0 \u00a0  = x^2/2 + 10x + 52<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "contoh-soal-persamaan-dan-fungsi-kuadrat-585",
+            "question": "Contoh soal persamaan dan fungsi kuadrat ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]tentukan\\ akar-akar\\ dari\\ persamaan\\ kuadrat:x^2-x+1=0\\\\\\\\\ntentukan\\ titik\\ puncak\\ fungsi\\ f(x)=x^2-x+1\\\\[/tex]",
+                    "attachments": []
+                },
+                {
+                    "answer": "Selisih 2 bilangan bulat adalah 9. Jika hasil kali kedua bilangan tersebut adalah 36. Tentukan nilai dari kedua bilangan tersebut..<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "x-1-dan-x-2-adalah-akar-akar-persamaan-kuadrat-2x2-768",
+            "question": "\u00a0x_{1}\u00a0dan\u00a0\u00a0x_{2} adalah akar akar persamaan kuadrat 2x^{2} + 3x -6 = 0.Tentukan 2x1x2^{2} + 2 x1^{2}x2",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]2x_1x^2_2+2x^2_1x_2=2x_1x_2(x_1+x_2)\\\\\\\\\n2x_1x^2_2+2x^2_1x_2=2(\\frac{-6}{2})(-\\frac{3}{2})\\\\\\\\\n2x_1x^2_2+2x^2_1x_2=9[/tex]",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

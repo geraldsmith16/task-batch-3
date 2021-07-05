@@ -1,0 +1,140 @@
+{
+    "question": "sebuah bola pejal menggelinding murni dari bidang miring dengan kecepatan sudut w. jika percepatan gravitasi g, percepatan linier bola adalh",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "Bola pejal I = 2/5 MR^2 k=2/5<br>a = 5/7 g sin alpha",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "sebuah-benda-bermassa-2-kg-yang-mula-mula-diam-gaya-sebesar-8n-b-589",
+            "question": "sebuah benda bermassa 2 kg yang mula mula diam. gaya sebesar 8N bekerja pada benda tersebut. maka percepatan benda setelah 2 detik adalah? bagaimana cara mengerjakannya dan kasih tau yaa rumusnya",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a = F/m<br>\u00a0 = 8N/2 kg<br>\u00a0 = 8 kg m/s\u00b2 dibagi 2 kg<br>\u00a0 = 4 m/s\u00b2<br>\u00a0(mungkin, kalau gak gitu dikali 4 --&gt; dari 2\u00b2, aja soalnya 1 detik itu di pangkatkan. jadi mungkin jawabnya 4 m/s\u00b2 . 4 = 16 m/s\u00b2)<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "8N=2kg*(percepatan benda+2 detik)<br>(percepatan benda + 2 detik) = 8:2<br>(percepatan benda + 2 detik) = 4<br>(percepatan benda) = 4 - 2<br>percepatan benda = 2 <br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suhu-suatu-benda-77-derajat-f-jika-suhu-benda-tersebut-diukur-de-320",
+            "question": "suhu suatu benda 77 derajat F. Jika suhu benda tersebut diukur dengan termometer celcius, mala akan menunjukkan suhu ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "77 derajat farenhait ke celcius adalah 25.000 celcius<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "77-32/1.8=25\u00b0C<br>Cara mencarinya<br>(fahrenheit-32)/1.8=",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "gaya-ani-300-newtongaya-amir-400-newtondan-gaya-tono-650-newton-408",
+            "question": "gaya ani 300 newton,gaya amir 400 newton,dan gaya tono 650 newton. jika ani dan amir bekerja sama untuk melawan tono dalam tarik tambang , berapa resultannya dan ke arah mana tali bergerak?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "reseltan gaya = 300+400-650 = 50<br>ke arah ani dan amin<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebutkan-43-deret-tribolistik-202",
+            "question": "Sebutkan 43 deret tribolistik",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1. Bulu kelinci, 2. Gelas, 3. Mika, 4. Wol, 5. Bulu kucing, 6. Sutra, 7.\n Kapas, 8. Kayu, 9. Batu Ambar, 10. Damar, 11. Logam(Cu,Ni,Ag), 12. \nBelerang, 13. Logam(Pt,Au), 14. Seluloid\u00a0 hanya itu<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "saya-ingin-bertanya-kalo-merumuskan-kalor-apa-y-yang-lengkap-nya-627",
+            "question": "Saya ingin bertanya kalo merumuskan kalor apa y yang lengkap nya\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "tergantung kalornya dibentuk dari proses apa\u00a0dulu<br>kalau proses peleburan<br>Q = m.l<br>kalau dalam proses yg ada perubahan suhunya<br>Q = m.c.\u0394t<br>kalau proses penguapan<br>Q = m.u<br><br>Ket:<br>Q = jumlah kalor<br>m = massa benda<br>l = kalor lebur<br>c = jenis kalor<br>\u0394t = perubahan suhu (T2-T1)<br>u = kalor uap",
+                    "attachments": []
+                },
+                {
+                    "answer": "jika yang\u00a0terjadi perubahan wujud.\u00a0<br>Q = m . L<br><br>m = massa<br>L = Kalor laten\u00a0<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apa-arti-tachyon-jelaskan-please-need-259",
+            "question": "Apa arti tachyon\u00a0\r\njelaskan!!!!!\r\nplease need",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "objek atau materi yang dapat mencapai kecepatan cahaya<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-benda-dengan-massa-5-kg-yang-mula-mula-diam-dikerjakan-gay-320",
+            "question": "Sebuah Benda Dengan Massa 5 kg yang mula mula diam dikerjakan gaya konstanta sebesar 10N.Berapa jarak Yang ditempuhbenda setelak 10 sekon?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "W = m.g\u00a0<br>\u00a0 \u00a0 = 5 . 10<br>\u00a0 \u00a0 = 50 j<br>W = F.\u0394s<br><br>\u0394s = 50/10 = 5 m<br>jadi jarak yang di tempuh benda setelah 10 sekon adalah 5 m",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bagaimana-prinsip-kerja-termometer-kristal-cair-402",
+            "question": "Bagaimana prinsip kerja termometer kristal cair???",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>Prinsip Kerja :<br>Termometer Kristal cair menggunakan zat kristal cair yang bersifat cair dan padat sebagai indikator suhu.\u00a0<br>Selain itu termometer ini dapat berubah warna akibat faktor suhu, tekanan, aliran listrik, medan magnet, dan persentuhan bahan kimia.</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-pesawat-bergerak-dengan-kecepatan-100msjika-gaya-dorong-620",
+            "question": "Sebuah pesawat bergerak dengan kecepatan 100m/s.Jika gaya dorong mesin pesawat adalah 20.000N.Daya mesin pesawat tersebut adalah?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "p = v. f<br>p= 100 x 20.000<br>p= 2.000.000<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "100m/s dibagi 20.000 newton <br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bab-gerak-harmonik-soalnya-ada-pada-gambar-di-bawah-ini-855",
+            "question": "BAB Gerak harmonik\r\n\r\nsoalnya ada pada\u00a0gambar di bawah ini\u00a0",
+            "attachments": [
+                "question-attachments/bab-gerak-harmonik-soalnya-ada-pada-gambar-di-bawah-ini-855-1.png"
+            ],
+            "answers": [
+                {
+                    "answer": "setiap gerak yg terjadi berulang dalam selang waktu yg sama di sebut gerak periodik . karena gerak ini terjadi secara teratur\u00a0 mka di sebut juga sebagai harmonik . itu saja ku tau terima kasih <br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

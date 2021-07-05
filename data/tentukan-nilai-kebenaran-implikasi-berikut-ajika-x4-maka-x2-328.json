@@ -1,0 +1,134 @@
+{
+    "question": "Tentukan nilai kebenaran implikasi berikut !    a.Jika x=4 maka x\u00b2=16\r\nb.Jika 0\u00a0\u2264 x\u00a0\u2264 2 maka x\u00b2\u00a0-\u00a0x\u00a0-\u00a06\u00a0\u2264 10 dengan x\u00a0\u2208 {Bil.Bulat}\r\nc.Jika x\u00b2 = 9 maka x\u00a0\u2265 3",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "a. benar<br>b. benar<br>c. salah, karena nilai x di bolehkan lebih dari 3<br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "jika-x1-dan-x2-akar-akar-2x2-5x30-maka-tentukan-nilai-x12x2-938",
+            "question": "Jika x1 dan x2 akar-akar 2x^2-5x+3=0, maka tentukan nilai x1^2+x2^2\r\nPlissss",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "x1^2+x2^2 = (x1+x2)^2 - 2x1*x2<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 = (-(-5/2)^2 - 2*3/2<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 = 25/4 - 3<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 = 3 1/4<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "2x^2 - 5x + 3 = 0<br>faktor<br>(x\u00a0-\u00a01)\u00a0(2x\u00a0-\u00a03)\u00a0=\u00a00<br>x1 = 1 \u00a0<br>x2 = 3/2<br><br>nilai X1^2 + X2^2<br>jadi, 1^2 + 3/2^2<br>\u00a0 \u00a0 \u00a0 \u00a0= 1 + 9/4<br>\u00a0 \u00a0 \u00a0 \u00a0=( 4+9)\u00a0/ 4<br>\u00a0 \u00a0 \u00a0 \u00a0= 13/4<br>\u00a0 \u00a0 \u00a0 \u00a0= 3\u00a0[tex] \\frac{1}{4} [/tex]<br><br>Semoga membantu :) D like klik bintang",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "transpos-matriks-m-adalah-tolong-dijelaskan-230",
+            "question": "Transpos matriks M adalah ...\r\ntolong dijelaskan..",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "gol indonesia menang 3gol dari ac milan<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-bilangan-enam-angka-n-yang-memenuhi-i-n-adalah-bilanga-617",
+            "question": "Tentukan bilangan enam angka n yang memenuhi (i) n adalah bilangan kuadrat sempurna, (ii) bilangan dibentuk dengan tiga angka terakhir n lebih satu dari tiga angka pertama n. (Sebagai ilustrasi n terlihat seperti 123124 tetapi itu bukan bilangan kuadrat)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span><span>Gini,,,<br><br>Misalkan tiga angka pertama n adalah a, maka n = 1000a + a + 1 = m^<br>m^ \u2212 1 = 1001a = 7 \u22c5 11 \u22c5 13 \u22c5 a<br>100000 \u2264 m^ \u2264 999999<br>316 &lt; m &lt; 1000<br>(m + 1) (m \u2212 1) = 7 \u22c5 11 \u22c5 13 \u22c5 a<br><br>\u2022 Jika m + 1 = 143b dan m \u2212 1 = 7c dengan bc = a<br>Karena 317 &lt; m + 1 &lt; 1001 maka 2 &lt; b &lt; 7.<br>Karena m \u2212 1 = 7c maka m \u2212 1 \u2261 0 (mod 7) ----&gt; m \u2261 1 (mod 7)<br>m + 1 \u2261 2 (mod 7) ----&gt; 143b \u2261 2 (mod 7)<br>143b = 7 \u22c5 20b + 3b<br>3b \u2261 2 (mod 7)<br>Karena 2 &lt; b &lt; 7 maka nilai b yang memenuhi hanya b = 3<br>Jika b = 3 maka m = 143 \u22c5 3 \u2212 1 = 428 ----&gt; 428 \u2212 1 = 7c ----&gt; c = 61<br>a = bc = 183 ----&gt; n = 183184 = 428^<br><br>\u2022 Jika m \u2212 1 = 143b dan m + 1 = 7c dengan bc = a<br>Karena 315 &lt; m \u2212 1 &lt; 999 maka 2 &lt; b &lt; 7.<br>Karena m + 1 = 7c maka m + 1 \u2261 0 (mod 7) ----&gt; m \u2261 \u22121 (mod 7)<br>m \u2212 1 \u2261 \u22122 (mod 7) ----&gt; 143b \u2261 \u22122 (mod 7)<br>143b = 7 \u22c5 20b + 3b<br>3b \u2261 \u22122 (mod 7) ----&gt; 3b \u2261 5 (mod 7)<br>Karena 2 &lt; b &lt; 7 maka nilai b yang memenuhi hanya b = 4<br>Jika b = 4 maka m = 143 \u22c5 4 + 1 = 573",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-barisan-aritmetika-jumlah-suku-kedua-dan-keempat-adalah-880",
+            "question": "diketahui barisan aritmetika jumlah suku kedua dan keempat adalah 24 dan jumlah suku ketiga dan kelima adalah 32 suku ke 9 barisan tersebut adalah??",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a=4<br>b=4<br><br>u9=a+8b<br>\u00a0\u00a0  =4+32<br>\u00a0\u00a0 =36<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bentuk-sederhana-dari-4a-2-2a3-tolong-jelaskan-secara-310",
+            "question": "Bentuk Sederhana dari (4a)-\u00b2 \u00d7 (2a)\u00b3 =\r\n\r\n\r\ntolong jelaskan secara detail, lagi pemula ni..?!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "4^-2 . a^-2 .2^3 . a ^3<br>1/4^2 .8 . a^(-2)+3<br>1/16 . 8 . a^1<br>16 sama 8 nya sama2 bisa dibagi 8. jadi coret<br>1/2a atau 2^-1a<br><br>^= dibaca pangkat yaa<br>soalnya darisini gabisa di superscript",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-suku-pertama-beda-dan-u20-jika-u810-dan-u1226-395",
+            "question": "Tentukan suku pertama, beda, dan U20. jika U8=10 dan U12=26",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "beda = 26 - 10 per 12 - 8 = 16 per 4 = 4.<br>suku pertama = 10-4-4-4-4-4-4-4 = -18<br>semoga membantu :))<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "xy2-x2y225-penyelesaiannya-270",
+            "question": "X+y=2\r\nx^2+y^2=25. Penyelesaiannya?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Perintahnya apa? Tentang bab apa?",
+                    "attachments": []
+                },
+                {
+                    "answer": "soal x+y=2<br>jawab y= 2 - x<br><br>soal x^2+y^2=25<br>jawab x+y=5<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0  y = 5 - x<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "persamaan-lingkaran-xi-sma-tentukan-persamaan-lingkaran-yang-me-878",
+            "question": "PERSAMAAN LINGKARAN - xi sma tentukan persamaan lingkaran yang melalui (0,0) dengan jari2 akar 5 dan titik pusatnya terletak pada garis y= x-1 \u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]misal\\ titik\\ pusatnya\\ (a,b)\\\\\n(x-a)^2+(y-b)^2=r^2\\ melalui\\ titik\\ (0,0)\\\\\n(0-a)^2+(0-b)^2=(\\sqrt{5})^2\\\\\na^2+b^2=5\\\\\nkarena\\ (a,b)\\ berada\\ pada\\ garis\\ y=x-1,\\ maka\\\\\nb=a-1\\\\\na^2+b^2=5\\\\\na^2+(a-1)^2=5\\\\\n2a^2-2a-4=0\\\\\n(2a+2)(a-2)=0\\\\\na=-1\\ atau\\ a=2\\\\\nutk\\ a=-1,b=-2 \\rightarrow (x+1)^2+(y+2)^2=5\\\\\nutk\\ a=2,b=1 \\rightarrow (x-2)^2+(y-1)^2=5[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-f2x-3-4x-7-maka-nilai-dari-f17-f7-adalah-383",
+            "question": "Diketahui, f(2x-3) = 4x-7, maka nilai dari f(17) - f(7) adalah?\u00a0 tolong bantu yaa",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "f(17)=f(2x-3)<br>17=2x-3<br>x=10\u00a0<br>f(17)=40-7 =33<br>f(7)=28-7=21\u00a0<br>33-21=12",
+                    "attachments": []
+                },
+                {
+                    "answer": "f (17)<br>2x - 3 = 17<br>2x= 17 + 3<br>2x = 20<br>x = 10<br><br>f (7)<br>2x - 3 = 7<br>2x = 7 +3<br>2x=10<br>x= 5<br><br>sehingga\u00a0\u00a0f(17) = 4x - 7 = 4.(10) - 7 =40 - 7 = 33<br>sehingga f(7) = 4x - 7 = 4(5) -7 = 20 -7 = 13 :)",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "5-sin-a-cos-a-4-sin-a-3-cos-a-tentukan-nilai-a-dengan-kis-323",
+            "question": "5 (sin A - cos A) = 4 sin A - 3 cos A\r\n\r\nTentukan nilai A dengan kisaran 0-360 derajat",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "5(sin A - cos A) = 4 sin A -3 cos A<br>5 sin A - 5 cos A = 4 sin A - 3 cos A<br>2 cos A = sin A<br>A = 2 (\u03c0n + tan^-1(1/2(-1-\u221a5)))<br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,138 @@
+{
+    "question": "P : 6 cm    l : 4 cm\r\nt : 12 cm\r\nm : 240 g\r\ng : 10 m/s\r\nmaka tekanan yang di alami balok tersebut sebesar. . .",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "Rumus ; P= F/ A<br>Dik:<br>m= 240 g\u00a0<br>g = 10 m/s<br>untuk mencari F= m.g<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 =240 x 10= 2400 g m/s<br>A (Luas permukaan dasar balok) berbentuk PESEGI PANJANG\u00a0<br>maka A= pxl<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 6x4<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 24 cm\u00b2=\u00a0<br>maka P (tekanan)= F/A<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 2400/ 24= 100 Pa",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "seorang-astronoutmenimbang-berda-yang-massanya-1-kg-di-bumi-dan-b-817",
+            "question": "Seorang astronoutmenimbang berda yang massanya 1 kg di bumi dan bulan. grafitasi di bulan adalah 1/6 kali grafitasi di bumi. percepatan grafitasi di bumi adalah 10 m/s2.    a. berapakah massa benda di bumi dan di bulan?\r\nb. berapakah berat benda di bumi dan di bulan?\r\nc. mengapa hal itu bisa terjadi? jelaskan.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a. massa benda tetap 1 kg untuk dibumi maupun dibulan<br><br>b. berat bumi = m \u00d7 g(bumi)<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 = 1 x 10 = 10 N<br><br>\u00a0\u00a0 berat bulan = m \u00d7 g(bulan)<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 = 1 x 10/6 = 1[tex] \\frac{2}{3} [/tex] N<br><br>c. untuk massa tiap benda sama karena massa itu adalah kepadatan suatu benda sedangkan berat tiap benda tidak sama karena berat tergantung dengan gravitasi suatu tempat.<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-transformator-perbandingan-lilitan-primer-dan-sekunder-ada-477",
+            "question": "sebuah transformator perbandingan lilitan primer dan sekunder adalah 4:1. transformator trsebut dihubungkan dngn tegangan 110 V. maka tegangan yg dihasilkan adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex] \\frac{1}{4} .110 =27,5 Volt[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "contoh-glbb-dipercepat-153",
+            "question": "Contoh GLBB dipercepat",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>dipercepat: apel jatuh dari pohon, org naik sepeda di turunan, air terjun, meteor yg jatuh ke bumi, pesawat pas mau lepas landas<br><br>diperlambat: bola dilempar keatas, org mengayuh sepeda di tanjakan, pesawat yang baru mendarat, mobil rem mendadak, org loncat ke atas</span><span>8 bulan lalu</span>",
+                    "attachments": []
+                },
+                {
+                    "answer": "apel yang jatuh dari pohon",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "perbedaan-sudut-inkinasi-positif-dan-negatif-638",
+            "question": "Perbedaan sudut inkinasi positif dan negatif ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Deklinasi memiliki 2 pengertian, \npertama adalah deklinasi jika hubungannya dengan bumi \nDeklinasi adalah sudut antara kutub-kutub magnet dengan kutub bumi (sudut antara jarum kompas dengan kutub bumi yang asli) \nkedua adlah deklinasi jika hubungannya dengan langit/luar angkasa \nDeklinasi adalah sudut antara benda langit dengan proyeksinya pada lingkaran khatulistiwa.Untuk benda langit di utara memakai tanda positif sedangkan jika benda berada di belahan langit selatan maka negatif",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span>Untuk benda langit di utara memakai tanda POSITIF sedangkan jika benda berada di belahan langit selatan maka NEGATIF</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bagaimana-bisa-terjadi-radiasi-dari-laptop-alat-elektronik-lain-875",
+            "question": "Bagaimana bisa terjadi radiasi dari laptop / alat elektronik lainnya ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "karna laptop atau alat eletronik lainnya mengeluarkan cahaya",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-pengukuran-berat-dipermukaan-bumi-menunjukkan-98-n-jika-pe-826",
+            "question": "Sebuah pengukuran berat dipermukaan Bumi menunjukkan 98 N jika percepatan gravitasinya 9,8 N/Kg. Berapakah pemunjukan neraca pegas jika benda tersebut diukur di permukaan Bulan yang percepatan gravitasinya 1,6 N/Kg?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<u><em><strong>Mapel : IPA Fisika</strong></em></u><br><u><em><strong>Kelas : 8 SMP/VIII SMP</strong></em></u><br><u><em><strong>Bab : Percepatan dan Kecepatan\u00a0</strong></em></u><br><br><u><em><strong>Pembahasan Soal :</strong></em></u><br><span>Sebuah pengukuran berat dipermukaan Bumi menunjukkan 98 N jika percepatan gravitasinya 9,8 N/Kg. Berapakah pemunjukan neraca pegas jika benda tersebut diukur di permukaan Bulan yang percepatan gravitasinya 1,6 N/Kg....<br><br><u><em><strong>Pembahasan Jawaban :</strong></em></u><br></span><u><em><strong>DiKetahui : </strong></em></u><br>w bumi = 9,8 Newton<br>g bumi = 9,8 N/kg<br>g bulan = 1,6 N/Kg<br><br><u><em><strong>DiTanya : </strong></em></u><br>w bulan =...?<br><br><u><em><strong>DiJawab :</strong></em></u><br>Sebelum mencari w bulan. Kita harus mencari m\u00a0<br><u><em><strong>Rumus mencari m\u00a0</strong></em></u><br>Yaitu :<br>m = w bumi : g bumi<br>m = 98 N :\u00a09,8<br>m = 10 kg<br><br><u><em><strong>Rumus mencari w di bulan</strong></em></u><br>Yaitu :<br>w bulan\u00a0= m\u00a0\u00d7 g bulan<br>w bulan = 10 \u00d71,6<br>w bulan = 16 Newton<strong><br></strong><u><em><strong>Jadi, berat benda tersebut ketika di bulan adalah 16 Newton.</strong></em></u><br><br>Semoga Membantu",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apa-yang-terjadi-bila-kelebihan-dan-kekurangan-zat-lemak-dan-prot-492",
+            "question": "Apa yang terjadi bila kelebihan dan kekurangan zat lemak dan protein??",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "kekurangan : busung lapar<br>kelebihan :obesitas/kegemukan<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Obesitas atau kegemukan.<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "contoh-induksi-magnetik-382",
+            "question": "Contoh induksi magnetik",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "generator listrik yang biasanya menggunakan induksi magnetik",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "kalor-sebanyak-84-kj-ditambahkan-pada-500-g-air-yang-bersuhu-20-d-145",
+            "question": "Kalor sebanyak 84 kJ ditambahkan pada 500 g air yang bersuhu 20 derajat celcius. Menjadi berapakah suhu air itu? Kalor jenis air 4200 J / (Kg.K)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "m.c.\u0394t = m.c.(t2-t1)<br>84 Kj= 0,5kg \u00d7 4200 \u00d7 (t2-20)<br>(t2-20)= [tex] \\frac{2100}{84} [/tex] (84Kj-nya pindah ruas)<br>t2-20=25<br>t2=20+25<br>t2=45<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apa-respirasi-itu-dan-bagaiman-cara-percobaanya-491",
+            "question": "Apa respirasi itu dan bagaiman cara percobaanya",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "respirasi adalah proses mobilisasi energi yang dilakukan jasad hidup melalui pemecah senyawa berenergi tinggi (SET) untuk digunakan dalam menjalankan fungsi hidup<br>percobaannya dapat disamakan dengan Pernafasan",
+                    "attachments": []
+                },
+                {
+                    "answer": "respirasi adalah proses penguraian energi dengan menggunakan oksigen untuk aktivitas makhluk hidup!!!<br>percobaanya menggunakan alat respirasi dengan menggunakan serangga (jangkrik,belalang,kupu-kupu) di dalam nya!!",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

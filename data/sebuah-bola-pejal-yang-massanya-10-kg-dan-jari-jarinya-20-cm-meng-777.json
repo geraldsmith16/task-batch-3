@@ -1,0 +1,132 @@
+{
+    "question": "sebuah bola pejal yang massanya 10 kg dan jari-jarinya 20 cm menggelinding dengan kecepatan 8 m/s . berapakah energi kinetiknya?",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "ek = 1/2 . mv^2 = 1/2 . 10 kg . 8^2 = 1/2 . 10. 64 = 320 joule<br>ingat ya m= 10 kg<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 v = 8 m/s<br>jika m dan v sudah diketahui kita uda bisa ngerjain energi kinetiknya :)",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "sebuah-balok-dengan-masa-2kg-mula-mula-diam-terletak-di-atas-bida-543",
+            "question": "sebuah balok dengan masa 2kg mula mula diam terletak di atas bidang datar licin kemudian di dorong dengan sebuah gaya konstan mendatar sebesar F1=8N. setelah 3 s, F2= 8N dikerjakan pada benda dgn arah berlawanan dgn F1. besar perpindahan benda setelah 4 s pertama adalah?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Jawaban berupa lampiran",
+                    "attachments": [
+                        "answer-attachments/sebuah-balok-dengan-masa-2kg-mula-mula-diam-terletak-di-atas-bida-543-1.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "jarak-yang-di-tempuh-sebuah-mobil-adalah-sebagai-berikut-5-meni-424",
+            "question": "Jarak yang di tempuh sebuah mobil adalah sebagai berikut :    5 menit pertama menempuh jarak 3,0 km \r\n10 menit kedua menempuh jarak 8,0 km \r\n15 menit ketiga menempuh jarak 20 km \r\nkelajuan rata-rata mobil tersebut adalah ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "waktunya 30 mnt<br>jaraknya 31 km<br>kecepatan rata ratanya 62 km/jam",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "plis-siapa-yang-bisa-tolong-bantu-sebuah-tongkat-menyodok-bola-605",
+            "question": "Plis siapa yang bisa tolong bantu.\u00a0    sebuah tongkat menyodok bola biliard dengan gaya 80N selama selang waktu 0,5 sekon. jika massa bola adalah 200 gram. tentukan kelajuan bola sesaat setelah disodok.\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "I = momentum akhir - momentum awal <br>I = m.v - 0 ( karena kecepatan awal 0 ) <br>F.\u0394t = m.v <br>80 x 0.5=0,2 x v ( ingat semua harus diubah ke kg m sekon ) <br>v = 200m/s <br>mohon maaf kalau ada salah , semoga jawaban saya membantu<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "ketika-seorang-penjinak-singa-melecutkan-cambuknya-cambuk-itu-men-367",
+            "question": "Ketika seorang penjinak singa melecutkan cambuknya cambuk itu mengeluarkan \"ledakan\" sangat keras.akan tetapi ia tidak memukul sang singa,dan ujungnya pun tidak menyentuh tanah. apa yaang membuat cambuk itu berbunyi ??    Jelaskan..",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "gesekan antara tali cambuk yang kuat dan lentur dengan angin yang didorong oleh gaya yang juga besar, sehingga gerakan menjadi cepat dan suara cambuk pun terdengar.",
+                    "attachments": []
+                },
+                {
+                    "answer": "gesekan antara cambuk dengan angin<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-pegas-yang-digantung-vertikal-kebawah-dengan-panjang-mula2-917",
+            "question": "Sebuah pegas yang digantung vertikal kebawah dengan panjang mula2 12cm , setelah ujung bawah dibebani massa 150 gram , makapanjang pegas menjadi 15cm, kostanta elastisitas pegas tsb adalah... N/m (g 10m/s) \u00a0 beserta caranya",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "diket : lo= 12 cm = 12 x 10\u00a0^ -2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 m = 150 g = 0,15 kg\u00a0<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 Lt= 15 cm = 15 x 10^ -2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 x = 3 cm = 3 x 10 ^ -2<br>tanya : K<br>jawab : k= m.g / x<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 k= 15 x 10^-2 : 3 x 10^-2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 k= 5<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pemanas-air-dengan-spesifikasi-200-watt-digunakan-untuk-memanaska-817",
+            "question": "Pemanas air dengan spesifikasi 200 watt digunakan untuk memanaskan air bersuhu 30 C sebanyak 0,5 kg. kalor jenis air 4200 J//kg C. Berapa lama waktu yang diperlukan hingga air mencapai suhu 10 C?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Q= M.C.\u0394t<br>m.c<u></u>/ Q=\u00a0\u0394t<br>0.5x4200/20 =105 menit",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "berikan-5-soal-dan-pembahasannya-tentang-optik-259",
+            "question": "Berikan 5 soal dan pembahasannya tentang optik",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1. dimanakan letak mata akan berakomodasi maksimum pada lensa cembung<br>2. berapakah perbesaran dari lensa cembung jika diketahui r = 20\u00a0cm dan jarak benda ke cermin adalah 15 cm<br>3. dimanakah letak mata akan tidak berakomodasi ?<br>4. pada cermin cekung,\u00a0diketahui si adalah 30 cm dengan so adalah 15 cm, jika benda digeser 3 cm lebih jauh\u00a0dari semula, berapakah jarak bayangan sekarang ?<br>5. \u00a0titik jauh seorang penderita miopi adalah 25 cm. agar dapat melihat dengan normal dibutuhkan kacamata berlensa .... dengan .... dioptri<br><br>jawab<br>1. di antara f dengan lensa<br>2. 2 kali<br>3. tepat di f<br>4. 60 cm<br>5. cekung, -4 dioptri",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "penjelasan-tentang-momen-inersia-berbagai-benda-tegar-homogen-706",
+            "question": "Penjelasan tentang momen inersia berbagai benda tegar homogen",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Benda tegar tersusun dari banyak partikel yang tersebar di seluruh \nbagian benda. Momen inersia suatu benda tegar merupakan jumlah semua \nmomen inersia masing-masing partikel penyusun benda tegar.<br><br><br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span>Benda tegar tersusun dari banyak partikel yang tersebar di seluruh \nbagian benda. Momen inersia suatu benda tegar merupakan jumlah semua \nmomen inersia masing-masing partikel penyusun benda tegar.<br></span><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sifat-sifat-resonansi-427",
+            "question": "Sifat-sifat resonansi ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Dapat dituliskan dalam beberapa struktur Lewis yang disebut dengan struktur resonan. Tetapi tidak satupun struktur tersebut melambangkan bentuk asli molekul yang bersangkutan.Di antara struktur yang saling beresonansi bukanlah isomer. Perbedaan antar struktur hanyalah pada posisi elektron, bukan posisi inti.Masing-masing struktur Lewis harus mempunyai jumlah elektron valensi dan elektron tak berpasangan. yang sama.Ikatan yang mempunyai orde ikatan yang berbeda pada masing-masing struktur tidak mempunyai panjang ikatan yang khas.Struktur yang sebenarnya mempunyai energi yang lebih rendah dibandingkan energi masing-masing struktur resonan.",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-mesin-dibuat-sedemikian-rupa-sehingga-mampu-menghasilkan-g-420",
+            "question": "sebuah mesin dibuat sedemikian rupa sehingga mampu menghasilkan gaya 15000\u00a0N mesin ini di gunakan pada sebuah mobil balap tersebut agar didapatkan akselerasi yg di harapkan bagaimana dengan massa penummpang?perlukah untuk di perhitungkan?jelaskan !",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "menurut saya perlu<br>ingat F = m.a<br>yang mempengaruhi gaya adalah massa dan percepatan(akselerasi)<br>tatkala hasil yg di inginkan adalah akselerasi<br>maka a= F/m<br>tentu saja massa tetap mempengaruhi akselerasi yang tejadi :)",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,134 @@
+{
+    "question": "Sebuah partikel bermassa 1 g berputar mengelilingi poros dengan kecepatan 90 rpm.Jika jarak partikel ke poros 50 cm,tentukan besar momentum sudutnya?",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "massa 1 gram = 0,001 kg<br>kecepatan = 90 putaran/menit<br>frekuensi = 90/60 Hz = 1,2 Hz<br>momentum sudut = 2. phi. f = 2 . phi . 1,2 Hz = 2,4 rad/s<br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "suatu-pipa-seragam-dengan-panjang-20-m-dan-massa-20-kg-disangga-o-295",
+            "question": "Suatu pipa seragam dengan panjang 20 m dan massa 20 kg disangga oleh penumpu pada salah satu titik di pipa tersebut. Ketika ujung kiri diberi beban 10 kg dan titik tumpu berada pada jarak 2 m dari tengah pipa, massa beban yang harus diberikan pada ujung kanan pipa agar terjadi keseimbangan adalah...........kg",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Ini penumpunya 2 meter disebelah kanan apa kiri dari tengahnya? <br>kalo di sebelah kiri benda di kanan bermassa :<br>20.8=.x.12<br>x=160/12=13,333 kg<br>kalo disebelah kanan<br>20.12=x.8<br>x=240/8=30 kg<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "diket= P pipa= 20m, m1=10kg, s1=12m , s2=8m<br>jawab: m1 . s1 = m2 .s2<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0\u00a0 10 . 12 = m2 . 8<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0  120 = 8m<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 m= 120 : 8<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0  m= 15kg<br>jadi, di ujung kanan harus di beri beban 15kg agar setimbang<br><br>maaf kalo GJ, saya krg paham ama soalnya,.<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-benda-yang-massanya-100-kg-digantung-pada-suatu-kawat-yang-379",
+            "question": "sebuah benda yang massanya 100 kg digantung pada suatu kawat yang dapat memikul beban maksimal sebesar 15000 N. jika g= 9,8 m/s^2 berapa nilai maksimum percepatan ke atas yang dapat diberikan kepada benda itu?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "mungkin 14700000 J..<br>Maaf klo slah..<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-katrol-bermassa-4kg-dan-jari-jari-10cm-jika-m11kgm23kg-dan-366",
+            "question": "1. katrol bermassa 4kg dan jari-jari 10cm. jika m1=1kg,m2=3kg dan percepatan gravitasi bumi 10m/s. tentukan percepatan sudut balok.    2. sebuah sistem katrol dengan jari-jari 20cm dan 10cm mempunyai momen inersia 4kgm. sistem katrol ditarik oleh dua gaya f1 dan f2, maka ktrol akan mengalami percepatan sudut sebesar",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "dik : mk : 4 kg<br>r : 10<br>m1; 1 = w.g = 1x10 =10<br>m2; 3=w.g = 3x10=30<br>penyelesaian ;\u00a0\u03b1= a[tex]  \\frac{a}{r} [/tex]= 5/0.1 = 50 n<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-silinder-pejal-yang-massanya-40-kg-dan-jari-jari-10-cm-mu-616",
+            "question": "Sebuah silinder pejal yang massanya 40 kg dan jari jari 10 cm, mula    mula diam. setelah di fungsikan selama 5 sekon, silinder berputar dengan\r\n frekuensi 40\u03c0 Hz.a. tentukan percepatan dusutnyab. tentukan besar momen gaya yang bekeja",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "momen gaya silinder pejal : I/2 mr pangkat 2<br>I = 1/2 . 40 . 0,1 pangkat 2<br>I = 0,2 kg m/s",
+                    "attachments": []
+                },
+                {
+                    "answer": "a. \u03b1 = 2f<u></u> / 3m<br>\u00a0\u00a0 \u00a0 \u00a0 = 2.40 / 3.40<br>\u00a0\u00a0 \u00a0 \u00a0 = 2/3 = 0,67<br>b. <em>I </em>= 1/2 mr\u00b2<br>\u00a0\u00a0 \u00a0\u00a0 = 1/2 40. 0,1\u00b2<br>\u00a0\u00a0 \u00a0\u00a0 = 1/2 40. 0,01<br>\u00a0\u00a0 \u00a0\u00a0 = 1/2 0,4<br>\u00a0\u00a0 \u00a0\u00a0 = 0,2<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jarak-yang-di-tempuh-sebuah-mobil-adalah-sebagai-berikut-5-meni-424",
+            "question": "Jarak yang di tempuh sebuah mobil adalah sebagai berikut :    5 menit pertama menempuh jarak 3,0 km \r\n10 menit kedua menempuh jarak 8,0 km \r\n15 menit ketiga menempuh jarak 20 km \r\nkelajuan rata-rata mobil tersebut adalah ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "waktunya 30 mnt<br>jaraknya 31 km<br>kecepatan rata ratanya 62 km/jam",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-bola-pejal-yang-berjari-jari-r20-cm-bermassa-m2-kg-dilep-457",
+            "question": "sebuah bola pejal yang berjari-jari R=20 cm bermassa m=2 kg dilepas di titik A pada bidang miring kasar tanpa kecepatan awal,berapa energi kinetik rotasi bola ketika mencapai titik B(di ujung)?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "I=2/5mR\u00b2<br><br>EK=Ek rotasi<br>EK=\u00bd I \u03c9\u00b2<br>EK=\u00bd (\u2156 mr\u00b2) (v/r)\u00b2<br>EK=\u2155 m v\u00b2<br>EK=1/5 . 2 . v\u00b2<br>EK=2/5 v\u00b2<br><br>saya dak tau cara nyari V nya berapa. hanya ini yg bisa saya bantu<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span>I=2/5mR\u00b2<br><br>EK=Ek rotasi<br>EK=\u00bd I \u03c9\u00b2<br>EK=\u00bd (\u2156 mr\u00b2) (v/r)\u00b2<br>EK=\u2155 m v\u00b2<br>EK=1/5 . 2 . v\u00b2<br>EK=2/5 v\u00b2<br><br></span><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-uji-dilakukan-terhadap-seutas-kawat-tembaga-dengan-jari-ja-661",
+            "question": "Sebuah uji dilakukan terhadap seutas kawat tembaga dengan jari-jari 1,00 mm untuk menentukan bagaimana kawat tembaga akan menahan tumpukan es ketika kawat digunakan sebagai jaringan listrik. Diperoleh hasil bahwa suatu gaya 300 N akan menyebabkan kawat tertarik dari panjang 100,00 m menjadi 100,11 m, dan ketika tumpukan es dibersihkan (dihilangkan), kawat kembali kepada panjang asalnya. Tegangan, regangan, dan modulus elastis kawat tembaga dalam satuan SI berturut-turut adalah ....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Dik F = 300 N<br>\u00a0\u00a0 \u00a0  lo = 100,00 m<br>\u00a0\u00a0 \u00a0 l = 100,11 m<br>Dit\u00a0 tegangan , regangan , modulus yong<br>jawab.<br><br>\u2208 regangan = \u0394l / lo<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 100,11-100,00 / 100,00<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 0,11 / 100,00<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0  = 0,0011 tanpasatuan<br><br>E elastisitas tembaga = 11.10^10 pa satuan dan tetapan elastisitas young untuk tembaga Sl<br><br>Tegangn = E young . \u2208regangan<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 11x10^10 .0,0011<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 121x10^6 N/m^2<br><br>like<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "persamaan-gelombang-berjalan-pada-seutas-tali-dinyatakan-oleh-y-556",
+            "question": "Persamaan gelombang berjalan pada seutas tali dinyatakan oleh y = 12 sin 5\u00a0\\pi (4x + 2t) dengan x dan y dalam cm dan t dalam sekon. tentukan :    a. arah rambat gelombang disertai dengan gambarnya\r\nb. amplitudo\r\nc. frequensi\r\nd. bilangan gelombang\r\ne.\u00a0panjang gelombang\r\nf. kecepatan gelombang",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "y =A sin (\u03c9t - kx)<br>y = A ampitudo = 12<br><br>k = 2\u03c0/lamda<br>lamda = 2\u03c0/10/\u03c0 = \u03c0^2/5 m<br><br><br>\u03c9 = 2\u03c0f<br>20/\u03c0 = 2\u03c0f<br>f = 20/ \u03c0 / 2\u03c0 = 40 /\u03c0^2 Hz<br><br>v = t/x = 20/\u03c0/10/\u03c0 = 2 m/s<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "berapa-kalor-yg-di-butuhkan-es-bersuhu-2c-dengan-massa-4-kg-ag-479",
+            "question": "Berapa kalor yg di butuhkan es bersuhu -2\u00b0c dengan massa 4 kg agar mencapai suhu 5\u00b0c, jika dik.    L es=336.000 J/kg\r\nc es=500 J/kg\u00b0c\r\nc air=4200 J/kg\u00b0c",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "m= 4 kg<br>delta t = 3<br>c = 4700<br>= 2x4700x3<br>= 28200<br>= 28,2<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-komedi-putar-berdiameter-3-m-dengan-momen-inersia-100-kgm2-480",
+            "question": "sebuah komedi putar berdiameter 3 m dengan momen inersia 100 kgm2 berotasi dengan kelajuan 1 rps. empat orang anak masing-masing bermassa 30 kg tiba-tiba melompat dan duduk 1 m dari pusat komedi putar. tentukan kecepatan sudut komedi putar sekarang!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<u><em></em></u>[tex] \\left \\{ {{y=2} \\atop {x=2}} \\right. [/tex]",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

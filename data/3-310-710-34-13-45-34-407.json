@@ -1,0 +1,146 @@
+{
+    "question": "3 3/10- 7/10=\r\n3/4-1/3=\r\n4/5-3/4=",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "3\u00a0 3/10 - 7/4 = 26/10 = 2\u00a0 6/10 = 2\u00a0 3/5<br>3/4 - 1/3 = 5/12<br>4/5 - 3/4 = 1/20<br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "diketahui-matriks-a-x1-2-b-x-3-dan-526",
+            "question": "Diketahui matriks A = ( x+1 \u00a02), B = ( \u00a0\u00a0x \u00a0 \u00a0\u00a0 3 \u00a0 ), dan C (\u00a03 \u00a05). Jika A\u00a0+ B\u00a0= C\u00a0    \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 3 \u00a0 \u00a05 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a02 \u00a0 \u00a0y+\u00a02 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 5 \u00a04\u00a0\r\n\r\nMaka nilai x + y adalah....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]  \\left[\\begin{array}{cc}{x+1}&amp;2\\\\3&amp;5\\\\\\end{array}\\right] + \\left[\\begin{array}{cc}x&amp;3\\\\2&amp;{y+2}\\\\\\end{array}\\right] = \\left[\\begin{array}{cc}3&amp;5\\\\5&amp;4\\\\\\end{array}\\right] \\\\\\\\\n\\left[\\begin{array}{cc}{(x+1)+x}&amp;2+3\\\\3+2&amp;5+(y+2)\\\\\\end{array}\\right] = \\left[\\begin{array}{cc}3&amp;5\\\\5&amp;4\\\\\\end{array}\\right] \\\\\\\\\n\\left[\\begin{array}{cc}{2x+1}&amp;5\\\\5&amp;{y+6}\\\\\\end{array}\\right] = \\left[\\begin{array}{cc}3&amp;5\\\\5&amp;4\\\\\\end{array}\\right] \\\\\\\\\nmaka\\\\\n2x+1=3 \\rightarrow x=1\\\\\ny+6=4 \\rightarrow y=-2\\\\\nsehingga\\ x+y=1+(-2)=-1[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "coba-tolong-dilihat-dulu-ada-yang-bisa-bantu-1-2-557",
+            "question": "Coba tolong dilihat dulu, ada yang bisa bantu?    1. \r\n2.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]\\int (4x-3)dx= \\int 4xdx-\\int 3dx\\\\\n\\int (4x-3)dx= 2x^2-3x+C\\\\\\\\\n\\int \\frac{2}{\\sqrt{2}-5}dx=\\frac{2x}{\\sqrt{2}-5}+C[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-diketahui-gxx2-6x-hx7-3x-a-g0hx-b-h0g-254",
+            "question": "Jika diketahui g(x)=x\u00b2-6x, h(x)=7-3x\r\na. (g\u2080h)(x) =\r\nb. (h\u2080g)(x) =",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "g\u00a0o\u00a0h(x) = 49 - 42x +9x^2 - 6(7 - 3x)<br>=\u00a049 - 42x +9x^2 - 42 + 18x<br>=\u00a09x^2 - 24x + 7<br><br>h o g(x) = 7 - 3(x^2 - 6x)<br>= 7 - 3x^2 + 18x<br>= -3x^2 +18x +7",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span>g o h(x)<br>g (7-3x)<br>(7 - 3x)^2 - 6(7-3x)<br>49 - 42 + 9x^2 - 42 + 18x<br>9x^2 - 24x +7</span>\n    <span>\n                    \n                                    l<br></span> <span>h o g(x)<br>h (x^2 - 6x)<br>7 - 3(x^2 - 6x)<br>7 - 3x^2 + 18x<br>-3x^2 + 18x + 7</span><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "rasionalkan-penyebut-pecahan-berikut-22-66-beri-penjela-135",
+            "question": "Rasionalkan penyebut pecahan berikut. \u00a0    2\u221a2 \r\n6\u221a6\r\n\r\nBeri penjelasannya yang LENGKAP ya :)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "2\u221a2\u00a0\u00f7\u00a06\u221a6 = 2\u221a2\u00a0\u00f7 6\u221a6\u00a0\u00d7 6\u221a6\u00f76\u221a6 = 12\u221a12\u00a0\u00f7 216 = 24\u221a3\u00a0\u00f7 216 = 1/9\u00a0\u221a3",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "x22x-150-carlah-x1-dan-x2-denan-menggunakan-rumus-abc-505",
+            "question": "X\u00b2+2x-15=0\r\ncarlah x\u2081 dan x\u2082\r\ndenan menggunakan rumus abc",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "kalo itu akar\"nya\u00a0<br>(x-3)(x+5)<br>yg rumus abc itu apa pakek yang ini ??<br>x1,2 = -b +-\u00a0\u221ab\u00b2 - 4ac / 2a",
+                    "attachments": []
+                },
+                {
+                    "answer": "rumus D = b^2 - 4ac<br>(2x)^2-4(1)(-15)=0<br>4x^2-4+60=0<br>4x^2+56=0<br>4x^2 = -56<br>x^2 = \u00a0-14<br>x =\u00a0\u221a14<br>jadi nilai x = positif negarif\u00a0\u221a14",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-sebuah-talang-air-dari-lembaran-seng-yang-lebarnya-30-c-350",
+            "question": "Diketahui sebuah talang air dari lembaran seng yang lebarnya 30 cm dengan melipat lebarnya atas 3 bagian, seperti gambar dibawah    ditanyakan : a. ukuran x ?\r\n\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0b. volume air maks yg dapat ditampung ?",
+            "attachments": [
+                "question-attachments/diketahui-sebuah-talang-air-dari-lembaran-seng-yang-lebarnya-30-c-350-1.png"
+            ],
+            "answers": [
+                {
+                    "answer": "X= 10\u00a0<br>V=\u00a0[tex] 10^{3} [/tex]=1000cm3",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suku-ke-4dan-suku-ke-7-suatu-barisan-geometri-berturut-trut-adlh-742",
+            "question": "Suku ke 4dan suku ke 7 suatu barisan geometri berturut trut adlh 128 dan 8.192    brapakh suku ke 6................",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "n=2<br>suku<br>1=2<br>2=4<br>3=32<br>4=128<br>5=512<br>6=2048<br>7=8192<br>tinggal dipilih deh jawaban yg dicari :)<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "u4 : a+3b = 128<br>u7 : <u>a+6b = 8192</u><br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 -2b = -8064<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 b = <u>-8064</u><br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 -2<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 b = 4032<br>a+6b = 8192<br>a+6(4032) = 8192<br>a+24192 = 8192<br>a = 8192 - 24192<br>a = -16000<br><br>maka, <br>u6 = a+5b<br>= -16000+5(4032)<br>=\u00a0 -16000+20160<br>= 4160<br>\u00a0kalo nggak salah<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-penyelesaian-dan-himpunan-penyelesaian-dari-x-8-6-153",
+            "question": "Tentukan penyelesaian dan himpunan penyelesaian dari x + 8 = 6",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "x + 8= 6<br>x= 6-8<br>x=-2<br>maaf hanya ini jawaban a ga tw bener ap ga, semoga aj bener ea<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "x+8= 6<br>x= 6-8<br>\u00a0 = -2<br>Kalau persamaan itu hanya ada satu penyelesaian. Jadi, jawabannya -2.<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "cara-menjawab-soal-pola-bilangan-yang-tidak-berurutan-seperti-soa-325",
+            "question": "Cara menjawab soal pola bilangan yang tidak berurutan seperti soal psikotest itu gimana sih ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Tergantung dengan pola bilangannya juga sih.Tapi menurut pendapat saya, carilah angka yang paling kecil, lalu bandingkan dengan angka terkecil kedua. Okay ? @Liwed",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pada-fungsi-kuadrat-apa-yang-terjadi-jika-a-gt-0-dan-apa-yang-847",
+            "question": "Pada fungsi kuadrat, apa yang terjadi jika a &gt; 0 dan apa yang terjadi jika a &lt; 0 ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Jika nilai a &gt; 0 maka parabola terbuka ke atas dan mempunyai nilai ekstrem minimum<br><br>\nJika nilai a &lt; 0 maka parabola terbuka ke bawah dan mempunyai nilai ekstrem maksimum<br><br><br><br>",
+                    "attachments": [
+                        "answer-attachments/pada-fungsi-kuadrat-apa-yang-terjadi-jika-a-gt-0-dan-apa-yang-847-1.jpg"
+                    ]
+                },
+                {
+                    "answer": "untuk a\u00a0&gt;\u00a00, grafik/kurvanya menghadap ke atas, dan memiliki nilai minimum (puncaknya ada di bawah)<br><br>untuk a\u00a0&lt;\u00a00, grafik/kurvanya menghadap ke bawah, dan memiliki nilai maksimum\u00a0(puncaknya ada di atas)<br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

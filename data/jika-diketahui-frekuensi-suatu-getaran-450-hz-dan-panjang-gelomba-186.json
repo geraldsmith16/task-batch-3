@@ -1,0 +1,146 @@
+{
+    "question": "Jika diketahui frekuensi suatu getaran 450 Hz dan panjang gelombang 50 cm, maka tentukan kecepatan gelombang tersebut!",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "v = \u00a0450 Hz . 0.5 m<br>v = 225 m/s",
+            "attachments": []
+        },
+        {
+            "answer": "f = 450 Hz<br>lamda / panjang gelombang = 50 cm,ubah ke meter dulu = 0,5 m<br>v..?<br>ingat rumus v = lamda . f = 0,5 m . 450 Hz = 225 m/s :)<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "1jika-percepatan-gravitasi-bumi-98-nkg-hitunglah-berat-tiap-b-600",
+            "question": "1.jika percepatan gravitasi bumi 9,8 N/KG, hitunglah berat tiap batu yang memiliki massa berturut turut 5 KG,15 KG,dan 7,5 KG?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "newton dan joule \u00a0 \u00a0<br>w dan J\u00a0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suatu-benda-ditmbang-dbumi-beratnya-1000n-jika-benda-tersebut-401",
+            "question": "suatu benda di'tmbang d;bumi beratnya 1000n ,jika benda tersebut dibawa ke bulan .hitunglah berapa berat benda dibulan jika gravitasi bumi =10m /s2 dan gravitasi bulan 1,6/s2",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "berat di bumi = 1000N<br>maka:<br>w = m \u00d7 g(bumi)<br>1000N = m \u00d7 10<br>m = 100 kg<br><br>berat d bulan :<br>w = m \u00d7 g(bulan)<br>w = 100 \u00d7 1,6<br>w = 160 N<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "berat:m.g<br>100. 1,6<br>160n<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebutkan-bagian-sel-tumbuhan-beserta-fungsinya-472",
+            "question": "Sebutkan bagian sel tumbuhan Beserta fungsinya!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "badan golgi berfungsi untuk sebagai alat\u00a0pengeluaran<br>retikuulum endoplasma; untuk sekresi protein dan lemak<br>vakuola; tempat pengeluaran dan pencernaan<br>riboson; sebagai tempat sintesis protein atau permukaan protein",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apa-tujuan-daun-di-panaskan-dalam-air-mendidih-dalam-pengamatan-717",
+            "question": "Apa tujuan daun\u00a0di panaskan dalam air mendidih dalam pengamatan ipa?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "agar mendapat pengetahuan tentang stoma dan klorofil pada daun yang \u00a0di panskan tersebut :)",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-transformator-digunakan-untuk-menurunkan-tegangan-dari-220-887",
+            "question": "sebuah transformator digunakan untuk menurunkan tegangan dari 220V menjadi 11V.jika arus yang mengalir pada lilitan primer adalah 0,4 A dan tidak ada daya yang hilang,maka arus yang mengalir pada lilitan sekunder adalah,,",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Dik. Vp=220, Vs=11, Ip= 0,4<br>dit. Ip=...?<br>Vp/Vs = Is/Ip<br>Is=Vp . Ip /Vs<br>Is= 220 . (0,4) / 11<br>Is= 8 A<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "berapakah-waktu-yg-diperlukan-sebuah-mobil-untuk-menempuh-jarak-2-546",
+            "question": "berapakah waktu yg diperlukan sebuah mobil untuk menempuh jarak 250 km dengan kelajuan rata-rata 30 m/s",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "v= s/t<br>30 m/s=25000 m/t<br>t=25000/30<br>t=833,3 dibulatkan 833 sekon<br>smga bsa membantu...",
+                    "attachments": []
+                },
+                {
+                    "answer": "t = s/v<br>t = 250000/30 = 8333,3 s <br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "serbuk-besi-jika-didekatkan-pada-batang-besi-yang-telah-digosok-d-447",
+            "question": "Serbuk besi jika didekatkan pada batang besi yang telah digosok dengan magnet permanen akan ??    #sama pembahasan nya",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "melekat pada dinding magnet<br>jika salah mohon maaf",
+                    "attachments": []
+                },
+                {
+                    "answer": "melekat pada batang besi karena batang besi yang telah digosokkan dgn magnet permanen akn memiliki medan magnet sama sperti magnet permanen",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebatang-logam-besi-panjangnya-5000-cm-pada-suhu-10-celsius-dan-882",
+            "question": "sebatang logam besi panjangnya 50,00 cm pada suhu 10 Celsius dan 50,05 cm pada suhu 110 Celcius. Maka koefisien muai panjang baja itu adalah...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "\u0394L = Lo x \u03b1 x \u0394T<br>(50,05 - 50) cm = 50 cm x \u03b1 x (110 - 10)<br>0,05 = 50 x \u03b1 x 100<br>0,05 = 5000 x \u03b1<br>0,00001 = \u03b1",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "energi-listrik-nuklir-bisa-diperbaharui-atau-tidak-686",
+            "question": "Energi listrik, nuklir bisa diperbaharui atau tidak ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "setau saya sih bisa diperbaharui,asalkan tidak terjadi kebocoran radioaktif yang terdapat dalam nuklir\u00a0",
+                    "attachments": []
+                },
+                {
+                    "answer": "satau saya tidak dapat diperbaharui tetapi dapat di simpan untuk masa yang akan datang<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-benda-mempunyai-massa-3-kg-berada-pada-ketinggian-5-m-295",
+            "question": "Sebuah benda mempunyai massa 3 kg. Berada\u00a0pada\u00a0ketinggian 5 m. Jika percepatan gravitasi 9,8 m/s\u00b2. Berapakah energi potensial tersebut?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Ep = m.g.h\u00a0<br>\u00a0 \u00a0 \u00a0= 3 x 9,8 x 5\u00a0<br>\u00a0 \u00a0 \u00a0=\u00a0147 Joule",
+                    "attachments": []
+                },
+                {
+                    "answer": "[tex]ep=m.g.h \\\\=3.9,8.5 \\\\=3.49 \\\\=147 J[/tex]",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

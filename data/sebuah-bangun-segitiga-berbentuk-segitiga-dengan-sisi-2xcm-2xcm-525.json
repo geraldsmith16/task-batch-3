@@ -1,0 +1,138 @@
+{
+    "question": "Sebuah bangun Segitiga berbentuk segitiga dengan sisi 2xcm, 2xcm ,3xcm . Jika keliling segitiga 126 cm,tentukan panjang masing - masing sisi segitiga tersebut!",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "k=s+s+s<br>126=2x+3x+2x<br>126=7x<br>x=126/7<br>x=18<br><br>disubtitusikan<br>2x= 2.18 = 36<br>3x= 3.18 = 54<br><br>jadi panjang masing\" sisi adalah 36cm,36cm dan 54cm<br>",
+            "attachments": []
+        },
+        {
+            "answer": "2x+2x+3x = 126<br>7x = 126<br>x = 18<br><br>jadi panjang sisi sisinya :<br>1. 2x = 2 . 18 = 36<br>2. 2x = 2. 18 = 36<br>3. 3x = 3 . 18 = 54",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "tulislah-fakta-yg-berkaitan-dengan-soal-di-bawah-ini-435",
+            "question": "tulislah fakta yg berkaitan dengan soal di bawah ini\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 \u00a01.x-5=\u00a0\u00a0\u00a017\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 \u00a02.a+6=21\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 3.17+y=35",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>1.\u00a0x-5 = 7<br>x= 12<br><br>2. a+6= 21<br>a= 15<br><br>3. 17+y=35<br>y=18</span>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<br>Fakta sama dengan arti nilai x yang memenuhi suatu persamaan.\u00a0<br>Jawab:<br>1. x - 5 = 17<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 x\u00a0= 17 - 5<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 x = 22 (nilai x = 22, memenuhi persamaan x - 5 = 17)<br><br>2. a + 6 = 21<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 a = 21 - 6<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0a = 15 (nilai a = 15, memenuhi persamaan a + 6 = 21)<br><br>3. 17 + y = 35<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0y = 35 - 17<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 y \u00a0= 18 (nilai y = 18, memenuhi persamaan 17 + y = 35).<br><br><br>semoga bisa membantu ^_^,,,<br>maaf jika ada yang salah ^_^,,,<br>jika ada yang tidak dimengerti dari jawaban diatas, silahkan ditanyakan ^_^,,,<br><br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0\u00a0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-belah-ketupat-pqrs-dengan-besar-tps-30-dan-panjang-297",
+            "question": "Diketahui belah ketupat PQRS dengan besar TPS = 30\u00b0 dan panjang PT = 24cm    hitunglah :\r\na. keliling, dan\r\nb. luas belah ketupat\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "PQ=QR=RS=SP=<em></em>\u221a24\u00b2+24\u00b2 =\u00a0\u221a576+576 = 33,9<br>Keliling = 4\u00a0\u00d7 PQ = 4\u00a0\u00d7 33,9 = 135,6 cm<br>Luas = 1/2 d1\u00a0\u00d7 d2 = 1/2\u00a0\u00d7 48\u00d7 48 = 1152 cm\u00b2<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1dua-bilangan-selisih-5jika-dikali-bilangan-yang-besar-dikurang-454",
+            "question": "1.Dua Bilangan selisih 5.jika dikali bilangan yang besar dikurangi bilangan yang kecil adalah 175,tentukan bilangan itu jawab : 2.diketahui jumlah bilangan 100 dan selisihnya adalah 40.bagaimana nilai dua bilangan tersebut.dapat dinyatakan linear 1 variabel jawab : \u00a0 \u00a0 tolongg dijawab besok dikumpullll:'(",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "hanya tuhan yang tau",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "besar-sudut-yang-dibentuk-dari-pukul-1020-dan-0745-338",
+            "question": "Besar sudut yang dibentuk dari pukul 10.20 dan 07.45",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "10.20 : Sudut Tumpul<br>07.45 : Sudur Lancip",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-himpunan-penyelesaian-dari-persamaan-berikut-1-24m-1-898",
+            "question": "Tentukan himpunan penyelesaian dari persamaan berikut.    1. 24m = 12\r\n2. 25 - 4y = 6y + 15\r\n3. 6x + 5 = 26 - x",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1. 24m=12<br>\u00a0\u00a0 \u00a0  m=12:24<br>\u00a0\u00a0 \u00a0 m= 0,5<br>2. 25-4y=6y+15<br>\u00a0\u00a0 -4y-6y=15-25<br>\u00a0\u00a0 \u00a0 -10y= -10<br>\u00a0\u00a0 \u00a0 \u00a0 y=1<br>3. 6x=5=26-x<br>\u00a0\u00a0  6x-x=26-5<br>\u00a0\u00a0 \u00a0 7x=21<br>\u00a0\u00a0 \u00a0 x=3 ^^<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebidang-tanah-berbentuk-persegi-panjang-dengan-panjang-dan-lebar-944",
+            "question": "Sebidang tanah berbentuk persegi panjang dengan panjang dan lebar tanah adalah 14 m dan 8 m, tanah tersebut akan digambar dengan skala 1 : 200.    a. berapakah panjang dan lebar tanah pada denah?\r\nb. berapakah luas tanah pada denah?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "dik:<br>p= 14 m= 1400 cml= 8 m= 800 cmskala= 1: 200<br><br>a. p=1400\u00a0x\u00a01:200<br>\u00a0 \u00a0 \u00a0=1400:200<br>\u00a0 \u00a0 \u00a0=7 cm\u00a0 <br>\u00a0 \u00a0\u00a0l=800\u00a0x\u00a01:200<br>\u00a0 \u00a0 \u00a0=800:200<br>\u00a0 \u00a0 \u00a0=4 cm<br>b. L=p\u00a0x\u00a0l<br>\u00a0 \u00a0 \u00a0=7\u00a0x\u00a04<br>\u00a0 \u00a0 \u00a0=28 cm<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "A. p = 14 m = 1400 cm. 1400 cm x \u00a0<u></u>1/200 = 7 cm<br> \u00a0 \u00a0 l = 8 m = 800 cm. 800 cm x 1/200 = 4 cm<br><br>B. luas= 7 cm x 4 cm = 28 cm\u00b2\u00a0<u><br></u><u><br></u>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bantuin-dong-3-bilangan-merupakan-barisan-aritmatika-s321-dan-829",
+            "question": "Bantuin dong:)    3 bilangan merupakan barisan aritmatika. S3=21 dan hasil kalinya 280. Tentukan ketiga bilangan itu !\r\npake cara yaa pliss makasihh:)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]S_3=21\\\\a+(a+b)+(a+2b)=21\\\\3a+3b=21\\\\a+b=7 \\rightarrow b=7-a\\\\\\\\a(a+b)(a+2b)=280\\\\a(7)(a+2(7-a))=280\\\\a(a+14-2a)=40\\\\a(-a+14)=40\\\\-a^2+14a-40=0\\\\(-a+10)(a-4)=0\\\\a=10\\ atau\\ a=4\\\\utk\\ a=10,b=-3 \\rightarrow bilangan\\ tsb:10,7,4\\\\utk\\ a=4,b=3 \\rightarrow bilangan\\ tsb:4,7,10[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-f-x-5x8-tentukan-nilai-fapabila-x-4-205",
+            "question": "Jika F (x) =5x+8 tentukan nilai f.apabila x=-4",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "F(x) = 5x + 8<br>jika x = - 4<br><br>maka:<br>F (-4) = 5 (-4) + 8<br>F(-4) = -20 +8<br>F(-4) = -12<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "f ( -4 ) = 5 (-4) + 8<br>f (-4) = -20 + 8<br>f (-4) = -12<br>f\u00a0 \u00a0 \u00a0 \u00a0 = -12/-4<br>f\u00a0 = 3<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-harga-3-pensil-dan-6-pulpen-rp1500000-sedangkan-harga-2-pen-449",
+            "question": "1. Harga 3 pensil dan 6 pulpen Rp15.000,00, Sedangkan harga 2 pensil dan 3 pulpen Rp.8.000,00. Harga 4 pulpen dan 2 pensil adalah ....    2. Keliling sebuah belahketupat 120 cm. Jika panjang salah satu diagonalnya\u00a0 48 cm, Luas belahketupat itu adalah ....\r\n\r\n3. Sebuah aula berbentuk balok dengan ukuran panjang 9 meter, lebar 7 meter, dan tinggi 4 meter.Dinding bagian dalamnya dicat dengan biaya Rp50.000,00 per meter persegi. Seluruh biaya pengecata aula adalah ....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kan keliling belah ketupat K= 120cm, trs rumusnya K=4.alas<br>jdi 120 : 4 =&gt; 30 &lt;= Alasnya<br>Nah diagonal 1 nya =&gt; \u00a048<br>trs diagonal 2 nya =&gt;\u00a0[tex] x^{2} = 30^{2} - 28^{2} =&gt;  \\sqrt{324}  =&gt; 18[/tex]<br>18+18=&gt; 36<br>Trs rumus luasnya =&gt; 1/2\u00a0\u00d7 d1\u00a0\u00d7 d2 =&gt; 1/2\u00a0\u00d7 48 \u00d7 36 =&gt; 864<br>Jawabannya nomor 2 = 864 ^^",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "p-13579-tuliskan-semua-himpunan-bagian-yang-mungkin-dari-320",
+            "question": "P = {1,3,5,7,9}. Tuliskan semua himpunan bagian yang mungkin dari P dan hitung banyaknya!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "\u00a0P={11 13 15 17 19 21 23 25 27 29 31 33 35 37 39 41}<br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

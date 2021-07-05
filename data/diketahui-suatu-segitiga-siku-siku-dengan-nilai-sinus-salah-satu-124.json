@@ -1,0 +1,142 @@
+{
+    "question": "diketahui suatu segitiga siku-siku dengan nilai sinus salah satu sudut lancipnya adalah\u221a3/2. tentukanlah nilai cosinus, tangen sudut tersebut.",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "cos nya 1/2 <br>tangen nya \u221a3",
+            "attachments": []
+        },
+        {
+            "answer": "<span>cos nya 1/2 <br>tangen nya \u221a3</span><br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "seorang-pengusaha-kaya-memiliki-500-botol-jus-tapi-diketahui-ter-402",
+            "question": "Seorang pengusaha kaya memiliki 500 botol jus. Tapi diketahui terdapat 1 botol jus yang beracun di antara 500 botol jus tersebut. Jika terminum bisa menyebabkan kematian dalam waktu kurang lebih 24 jam.    Seorang cendekiawan bernama joko diperintah untuk menemukan 1 botol jus beracun tersebut. joko membuat strategi. Dia akan mengambil sampel jus-jus tersebut dan mencobanya kepada beberapa ekor tikus. Setelah itu tikus-tikus itu dibiarkan dalam 24 jam dalam kurungan untuk melihat reaksinya.\u00a0\r\n\r\nBerapakah tikus minimal yang dibutuhkan joko? Dan bagaimana strateginya?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "sekitar 300 - 500 ekor tikus",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-bantu-saya-ya-suku-suku-barisan-geometri-tak-hingga-ada-754",
+            "question": "Tolong bantu saya ya :)    suku-suku barisan geometri tak hingga adalah positif, jumlah u1+u2=60, dan u3+u4=15,\r\ntentukan jumlah suku barisan itu!\r\nterimakasih (pakai cara ya sobat)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]a+ar=60 \\rightarrow a(1+r)=60\\\\\nar^2+ar^3=15 \\rightarrow ar^2(1+r)=15\\\\\nr^2(a(1+r))=15\\\\\nr^2(60)=15\\\\\nr^2=\\frac{15}{60}\\\\\nr^2=\\frac{1}{4}\\\\\nr=\\frac{1}{2}\\ atau\\ r=-\\frac{1}{2}(TM,\\ karena\\ suku-sukunya\\ positif)\\\\\na(1+r)=60\\\\\na(1+\\frac{1}{2})=60\\\\\na=\\frac{60}{\\frac{3}{2}}\\\\\na=40\\\\\nS_{\\infty}=\\frac{a}{1-r}\\\\\nS_{\\infty}=\\frac{40}{1-\\frac{1}{4}}\\\\\nS_{\\infty}=\\frac{160}{3}[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-2-bilangan-4-amp-4-disisipkan-4-buah-sehingga-membentuk-325",
+            "question": "Jika 2 bilangan 4\u00a0&amp; -4 disisipkan 4 buah sehingga membentuk barisan geomatri yang rasionya lebih kecil dari nol    tentukan:\u00a0\r\n1.tentukan rasionya\r\n2.cari rumus umum\r\n3 tentukan suku ke-3",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Deret geometri tersebut adalah<strong><br>4</strong>, -4, 4,\u00a0-4, 4, <strong>-4<br><br></strong>rasio = -1<br><strong><br><u></u></strong>[tex]Un = a (-1)^{n-1} [/tex]<br><br>[tex]U3 = 4 .  (-1)^{3-1} =4 .  (-1)^{2}= 4.1 \\\\ U3=4[/tex]<strong><br></strong>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pada-sebuah-segitiga-klm-dengan-siku-siku-di-l-berlaku-sin-m2-781",
+            "question": "pada sebuah segitiga KLM, dengan siku-siku di L, berlaku sin M=2/3 dan panjang sisi KL=\u221a10 cm, tentukanlah panjang sisi segitiga yang lain.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "KL=LM=\u221a10<br>KM=akar dari <span>\u221a10 x </span><span>\u221a10</span>= akar 100=10<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "m/ sin M = l / sin L<br>\u221a10 \u00f7\u00a02/3 = l\u00a0\u00f7 1<br>l = 3/2 (dikali)\u00a0\u221a10 cm\u00a0= panjang KM<br><br>panjang\u00a0LM = k =\u00a0\u221a(3/2\u00d7\u221a10)\u00b2 - (\u221a10)\u00b2 = 90/4 -10 = (90-40)/4 = 50/4 = 12.5 cm<br><br>maaf jika kurang tetpat",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-kita-perhatikan-jam-berapa-kali-kah-dalam-1-hari-terbentuk-119",
+            "question": "Jika kita perhatikan jam, berapa kali kah dalam 1 hari terbentuk sudut 90 derajat?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "jawabannya 17 kali<br><br>semoga membantu, tolong jadikan jawaban terbaik",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-999-997-995-adalah-barisan-aretmatika-maka-suku-brni-497",
+            "question": "Jika -999,-997,-995,... Adalah barisan aretmatika, maka suku brnilai positif yg muncul prtama kali adalah suku ke .. \u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1 = a + (n-1)b<br>1\u00a0=- 999 + 2n -2<br>3 = -999 + 2n<br>1112 = 2n<br>556 = n :)",
+                    "attachments": []
+                },
+                {
+                    "answer": "a = -999<br>b = -997 - (-999) = 2<br><br>suku positif pertama<br>Un = -999 + 2(n-1)<br><br>yang cocok pada saat n-1 bernilai 500<br>jadi<br>Un = -999 + 2(500) = -999 + 1000 = 1<br><br>jadi<br>n - 1 = 500<br>n = 501<br><br>jadi suku ke 501",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "permisiii-mohon-tanya-ada-yang-tau-hasil-ini-gag-saya-kura-347",
+            "question": "Permisiii mohon tanya, ada yang tau hasil ini gag ???    \u00a0saya kurang faham niii, mahon bantuannya ya :) \r\n\u00a0(9p\u00b2.q\u207b\u00b3)\u2074(27p\u2074.q\u207b\u00b2)\u207b\u00b3",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "243 p^\u00a0-4 + 9p^8\u00a0q^6 + 243 p^ -12 q^-12 + q^-6 (ket. : ^= pangkat)",
+                    "attachments": []
+                },
+                {
+                    "answer": "[tex](9p^2q^{-3})^4(27p^4q^{-2})^{-3}\\\\\n=(3^2p^2q^{-3})^4(3^3p^4q^{-2})^{-3}\\\\\n=3^8p^8q^{-12}(3^{-9}p^{-12}q^{6})\\\\\n=3^{8-9}p^{8-12}q^{-12+6}\\\\\n=3^{-1}p^{-4}q^{-6}\\\\\n=\\frac{1}{3p^4q^6}\\\\[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sekeping-uang-logam-dilempar-10-kali-berapa-frekuensi-harapan-mu-577",
+            "question": "Sekeping uang logam dilempar 10 kali. berapa frekuensi harapan munculnya sisi gambar?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "kesempatan msg\" sisi = 1/2<br>1/2 x 10 = 5<br>:D",
+                    "attachments": []
+                },
+                {
+                    "answer": "peluang gambar = 1/2<br><br>frekuansi harapan = peluang x banyak pelemparan = (1/2) x 10<br>frekuensi harapan sisi gambar = 5",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dik-3tex-leftbeginarraycccpampq2amp6endarray-186",
+            "question": "Dik 3[tex] \\left[\\begin{array}{ccc}p&amp;q\\\\2&amp;6\\\\\\end{array}\\right]    [/tex] = +  . nilai dari 2q + p adalah,\r\n\r\ntolong bantu, cara + penjelasanya kawan",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]3\\left[\\begin{array}{cc}p&amp;q\\\\2&amp;6\\end{array}\\right]=\\left[\\begin{array}{cc}p&amp;6\\\\-1&amp;5\\end{array}\\right]+\\left[\\begin{array}{cc}4&amp;p+q\\\\7&amp;13\\end{array}\\right]\\\\\n\\left[\\begin{array}{cc}3p&amp;3q\\\\6&amp;18\\end{array}\\right]=\\left[\\begin{array}{cc}p+4&amp;6+(p+q)\\\\-1+7&amp;5+13\\end{array}\\right]\\\\\n\\left[\\begin{array}{cc}3p&amp;3q\\\\6&amp;18\\end{array}\\right]=\\left[\\begin{array}{cc}p+4&amp;p+q+6\\\\6&amp;18\\end{array}\\right]\\\\\n\\\\\n3p=p+4\\\\\np=2\\\\\n\\\\\n3q=p+q+6\\\\\n2q=2+6\\\\\n2q=8\\\\\n\\\\\nmaka\\ 2q+p=8+2=10[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "penerapan-sudut-pada-bidang-fisika-apa-ya-721",
+            "question": "Penerapan sudut pada bidang fisika apa ya",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "penerapan sudut dalam bidang fisika yaitu dalam mencari percepatan sudut, momen gaya, momen sudut,\u00a0vektor posisi benda\u00a0pada katrol dan lain lain",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

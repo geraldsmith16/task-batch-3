@@ -1,0 +1,138 @@
+{
+    "question": "Buatkan 5 contoh soal dan jawaban PLSV",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "Soal 1: Penjelajah Gua Bawah Tanah\n\nDua orang penjelajah gua sedang menelusuri dua cabang yang berbeda dari\nsuatu gua bawah tanah. Penjelajah pertama dapat turun 77 meter lebih jauh\ndaripada penjelajah kedua. Jika penjelajah pertama telah turun 433 meter dari\npermukaan tanah, berapa meterkah panjang cabang gua yang telah dituruni oleh\npenjelajah kedua?\n\n<span>Pembahasan Misalkan d adalah jarak yang telah ditempuh oleh\npenjelajah kedua dalam menuruni cabang gua tersebut. Maka permasalahan ini\ndapat digambarkan sebagai berikut.</span>\n\n<span>Sehingga, dari ilustrasi di atas permasalahan tersebut dapat dimodelkan\nsebagai persamaan d + 77 = 433.</span>\n\n\n\nJadi, panjang cabang gua yang telah dituruni oleh penjelajah kedua adalah\n356 meter dari permukaan tanah.\n\n\u00a0\n\n<br><br><br><br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "manakah-yang-termasuk-persamaan-linear-satu-variable-a-2x-48-964",
+            "question": "Manakah yang termasuk persamaan linear satu variable?    A. 2x - 4=8\r\n B. -4 + 3s = 24\r\n C. -8 - d^2 = 32\r\n D. 5(u-2) = u-2",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "kalau ga salah semuanya juga satu variabel",
+                    "attachments": []
+                },
+                {
+                    "answer": "yang termasuk PLSV adalh a dan b<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "perbandingan-xy-senilai-dengan-st-diketahui-xy67-dan-x16-s-385",
+            "question": "Perbandingan x:y senilai dengan s:t diketahui x:y=6:7 dan x=1/6 s dan s-x=30 tentukan nilai x,y,s dan t",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "\u21d2x = 1/6 s<br>\u00a0\u00a0 s-x = 30<br>\u00a0\u00a0 s-1/6s = 30<br>\u00a0\u00a0 5/6s = 30<br>\u00a0\u00a0 5s = 180<br>\u00a0\u00a0 s = 36<br>\u21d2s:t = 6:7<br>\u00a0\u00a0 6/7 = 36/t<br>\u00a0\u00a0 6t = 252<br>\u00a0\u00a0 t = 42<br>\u21d2x = 1/6 s<br>\u00a0\u00a0 x = 1/6 (36)<br>\u00a0\u00a0 x = 6<br>\u21d2x:y = 6:7<br>\u00a0\u00a0 y = 7<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "cari-nilai-x-144",
+            "question": "Cari nilai x..",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex] \\frac{x-5}{2} =0\n  [/tex]<br>x-5 = 0<br>x = 5<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "[tex]  \\sqrt{ 5^{x-5} } =1\n [/tex]<br>[tex] 5^{x-5} pngkt 1/2= 5^{0} [/tex]<br>(x-5)/2=0<br>x=5<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bagaimana-menghitung-bilangan-berpangkat-dan-cara-menyederhanakan-788",
+            "question": "Bagaimana menghitung bilangan berpangkat dan cara menyederhanakannya?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "apa bila angkanx sama tinggal menjumlah pangkatnx<br>ex : 5\u00b2+5\u00b3 = ...<br>5\u00b2<u><em></em></u><em></em>+\u00b3 =...<br>= 5x5x5x5x5<br>5 pangkat 5<br><br>yg lainnx gtu\u00a0<br><br><br>atatan : ntuk perkalian tinggal menjumlahkan pangkatnx, pembagian tinggal ngurangi pangkatnx (apabila bilangannx sama)",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-besar-ltopq-72-derajat-dan-panjang-op-21-cm-luas-685",
+            "question": "Diketahui besar &lt;OPQ = 72 Derajat dan panjang OP = 21 Cm, luas juring OPQ adalah..",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Luas Juring OPQ = 72/360\u00a0\u00d7 22/7\u00a0\u00d7 21\u00a0\u00d7 21<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0= 277,2 cm\u00b2",
+                    "attachments": []
+                },
+                {
+                    "answer": "Jawab:<br>72/360 x 21 x 21 x 22/7 = 1/5 x 3 x 21 x 22 = 1486/5 = 297,2\u00a0[tex] cm^{2} [/tex]<br><br><br>semoga bisa membantu ^_^,,,<br>maaf jika ada yang salah ^_^,,,<br>jika ada yang tidak dimengerti, silahkan ditanyakan ^_^,,,<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "2-4-x-22-tolongg-jawab-ini-dongg-pleasee-793",
+            "question": "2 - ( 4 + x )\u00a0\u2265 - 22\r\ntolongg, jawab ini dongg, pleasee!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>2 - ( 4 + x )\u00a0\u2265 - 22<br></span><br>-2 - x\u00a0 \u2265 - 22<br>- x\u00a0 \u2265 - 22 + 2<br>- x\u00a0 \u2265 - 20<br>\u00a0x\u00a0 \u2265 20<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "carilah-faktor-dari-x-pangkat-6-14x-pangkat-4-49x-pangkat-2-478",
+            "question": "Carilah faktor dari x pangkat 6 - 14x pangkat 4 + 49x pangkat 2 - 36\r\nTolong bantuin ya...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex](x-3)(x+3(x-2)(x+2)(x-1)(x+1)[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "seorang-pedagang-membeli-2-jenis-kopi-masing-masing-sebanyak-18kg-740",
+            "question": "Seorang pedagang membeli 2 jenis kopi masing-masing sebanyak 18kg dengan harga Rp 3.500 per kg dan 12 kg dengan harga Rp 3.000 per kg. kedua jenis kopi kemudian dicampur menjadi satu dan dijual dengan harga Rp 3.200 per kg. pedagang kopi tersebut akan mengalami ...    a. Rugi Rp 3.000 per kg \r\nb. Rugi Rp 3.000 \r\nc. Untung Rp 200 per kg\r\nd. Untung Rp 5.000 \r\n\r\ntolong bantu saya ya! dengan caranya Terima Kasih :)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "kopi 1 = 18 x 3.500 = 63.000<br>kopi 2 = 12 x 3.000 = 36.000<br>maka total nya 99.000 <br><br>kopi 1 di campur kopi 2 = 30kg x 3.200 = 96.000<br><br>maka 96.000 - 99.000 = - 3000<br>maka rugi 3.000<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bantuin-aku-donk-5-x-54-x-58-pake-cara-ket-a-pangkatn-933",
+            "question": "Bantuin aku donk..\r\n5 x (-5)'4 x 5'8 pake cara!!\r\n\r\nKet:\r\n'a= Pangkatnya ookey ;;))",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "5 x (-5)^4 x 5^8<br><br>ingat! setiap pangkat genap, bilangan ganjil yg dipangkat menghasilan bilangan positif<br>jadi (-5)^4 sama saja dengan\u00a0(5)^4 <br><br>5 x (5)^4 x 5^8<br>=5^1 x (5)^4 x 5^8<br>=5^(1+4+8)<br>=5^13<br><br>^= pangkat <br><br><br><br><br><br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-jari-jari-yang-mempunyai-luas-a-11304cm-b385-cm-se-331",
+            "question": "Tentukan jari-jari yang mempunyai luas\u00a0\r\na. 113,04cm\r\nb.38,5 cm\r\n\r\nsecepatnya tri makasih :)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]luas= \\pi r^2\\\\\\\\\nr= \\sqrt{ \\frac{luas}{ \\pi } } \\\\\\\\\\\\\na.\\\\r= \\sqrt{ \\frac{113,04}{ 3,14 } }\\\\\nr= \\sqrt{36}\\\\\nr=6\\\\\\\\\\\\\nb.\\\\\nr= \\sqrt{ \\frac{38,5}{ \\frac{22}{7} } } \\\\\nr= \\sqrt{12,25}\\\\\nr=3,5 [/tex]",
+                    "attachments": []
+                },
+                {
+                    "answer": "rumus luas lingkaran\u00a0[tex] \\pi [/tex] x r x r\u00a0<br>Pi: 22/7 / 3,14<br><br>a.\u00a0113,04:3,14=36 akar pangkat 36= 6cm\u00a0<br>b. 38,5x7= 269.5 : 22= 12.25 akar pangkat 12.25=3.5cm\u00a0",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,130 @@
+{
+    "question": "Bilangan cacah ganjil yang kurang dari 16 dan habis dibagi 3 notasinya mendaftar anggotanya \u00a0",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "angota :15,12,9,6,3<br><br>K={3,6,9,12,15}<br><br>Notasi:<br>{x|x adalah himp yang kurang dari 16 dan dapat dibagi habis 3}<br><br><br>Menurut saya itu jawabannya",
+            "attachments": []
+        },
+        {
+            "answer": "{\u00a0x | x adalah bilangan cacah ganjil yang habis dibagi 3 dan\u00a0bernilai\u00a0kurang dari 16 }<br><br>x = {3, 6, 9, 12, 15}",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "sebuah-bus-memiliki-daya-angkut-tidak-lebih-dari-60-orang-ubahl-436",
+            "question": "\"Sebuah bus memiliki daya angkut tidak lebih dari 60 orang\" ubahlah ke dalam bentuk pertidak samaan linear",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "{x I x\u00a0\u2264\u00a060, x\u00a0\u2208\u00a0R}<br>mnurutku ini jawabannya,,,, sorry klo salah jawabannyaaa",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-hitunglah-panjang-tali-yg-diperlukan-untuk-melilitkan-sebuah-999",
+            "question": "1 . Hitunglah Panjang Tali yg diperlukan untuk melilitkan sebuah drum berjari jari 3 cm sebanyak lima putaran",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "cari dulu keliling lingkaranya<br>k=6x3,14=18,84<br>panjang tali seluruhnya=kelilingx5=18,84x5=94,2",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span>cari dulu keliling lingkaranya<br>k=6x3,14=18,84<br>panjang tali seluruhnya=kelilingx5=18,84x5=94,2</span><span></span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "kenapa-nilai-phi-314-817",
+            "question": "Kenapa nilai phi 3,14?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "karena nilai phi itu diperoleh dari keliling lingkaran dibagi diameter",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-dpqr-dengan-panjang-sisi-pqqr15-cm-dan-pr-pq-6-685",
+            "question": "Diketahui \u0394PQR dengan panjang sisi PQ=QR=15 cm dan PR : PQ = 6 : 5. Luas \u0394PQR adalah.....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "PR = 6x3 = 18<br>t = triple 9, 15, 12cm<br>l = 1/2 x 12 x 15<br>=\u00a090 cm^2",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "romus-keliling-pythagoras-798",
+            "question": "Romus keliling pythagoras",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<strong>untuk segitiga siku-siku di titik A, berlaku</strong><br><strong>AB\u00b2 + AC\u00b2 = BC\u00b2</strong>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-kakak-kakak-ya-makasih-tolong-num-108",
+            "question": "Tolong.... :)\u00a0 \u00a0 kakak - kakak ya.... makasih.... tolong :) numpuk tuggas    \u00a0\u00a0 \u00a0 1.sebuah segitiga sama kaki memiliki panjang sisi yang sama dengan 5 kali panjang sisi lainnya. agar keliling segitiga tersebut lebih besar dari 50m, berapakah panjang masing-masing segitiga tersebut ?\r\n\u00a0\u00a0 \u00a0 2.pak ketut membangun rumah di atas sebidang tanah berbentuk persegi panjang yang panjangnya 30m dan lebarnya (2y + 1)m. jika luas tanah paketut tidak lebih luas dari 150m\u00b2.\r\n\u00a0\u00a0 \u00a0 \u00a0 a.berapakah lebar tanah pak ketut yang paling besar ?\r\n\u00a0\u00a0 \u00a0 \u00a0 b.biaya untuk membangun 1m\u00b2 dibutuhkan uang empat setengah juta rupiah,berapakah biaya maksimal yang harus di sediakan pak ketut jika seluruh tanahnya di bangun ?\r\n\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 TERIMAKASIH",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1. diketahui = sisi segitiga sama kaki 5 kali lebih besar dari sisi lainnya<br>\u00a0 \u00a0 ditanya \u00a0 \u00a0= agar kelilingnya lebih besar dari 50, berapakah sisinya?<br>jawab = sisi = 5a + 5a + a &gt; 50<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a011a &gt; 50<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 11a : 11 &gt; 50 : 11<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 a = 4,6 cm<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 sisi = a = 4,6 cm<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 5a = 5 x 4,6 = 23 cm<br><br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "harga-sebuah-topi-lebih-murah-rp5000-dari-sebuah-ikat-pinggang-469",
+            "question": "harga sebuah topi lebih murah rp.5000 dari sebuah ikat pinggang. harga 3 topi &amp; 2 ikat pinggang rp.45000 (misalkan harga sebuah ikat pinggang x rupiah)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1 buah topi= 4000<br>1 buah ikat pinggang= 16500<br>\u00a0<br>3 buah topi= 4000\u00d73= 12000<br>2 buah ikat pinggang= 16500\u00d72=33000<br>33000+12000=45000<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "keliling-1-kuadran-dengan-jari-jari-lingkarang-14-cm-itu-berapa-y-350",
+            "question": "Keliling 1 kuadran dengan jari jari lingkarang 14 cm itu berapa ya?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "22/7x14x14=22x2x14=44x14=616",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-ubahlah-masalah-nyata-berikut-ke-dalam-bentuk-pertidaksaman-li-426",
+            "question": "1. Ubahlah masalah nyata berikut ke dalam bentuk pertidaksaman linear satu variabel.    a) Sebuah bus dapat mengangkut tidak kurang dari enampuluh orang penumpang.\r\nb) Jarak rumah Beni ke sekolah lebih dari seratus meter.\r\nc) Penghasilan ibu Monika tidak lebih dari dua juta rupiah setiap bulannya.\r\nd) Sebuah pesawat berada diketinggian tidak kurang dari tiga ribu kaki di atas permukaan laut.\r\ne) Kecepatan Udin berkendara tidak lebih dari 50 km/jam.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "coba membantu tapi maaf kalo salah ya.. :)<br>a)\u00a0x&gt;60<br>b) x&gt;100<br>c) x&lt;2.000.000<br>d) x&lt;50",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-sebuah-segitiga-panjang-sisinya-adalah-8-cm-15-cm-17-483",
+            "question": "Diketahui sebuah segitiga panjang sisinya adalah 8 cm, 15 cm, 17 cm. hitunglah panjang jari-jari lingkaran dari dalam segitiga dan luas segitiga.    tolong dijawab. besok mau dikumpul..",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "\u00a0 \u00a0 \u00a0segitiga dengan sisi 8 , 15 dan 17\u00a0<br>\u00a0adalah segitiga siku2 jadi luas = 1/2 alas x tinggi \u00a0= 1/2 x8 x 15<br>s = 1/2(8+15+17)=20<br>r lingkaran dalam adalah r = (s - a)tan 1/2\u03b1<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0=( 20 - 17) tan 1/2 90<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 3 tan 45\u00a0<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 3<br><br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

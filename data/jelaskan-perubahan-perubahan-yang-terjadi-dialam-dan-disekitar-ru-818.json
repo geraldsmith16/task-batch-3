@@ -1,0 +1,150 @@
+{
+    "question": "Jelaskan perubahan-perubahan yang terjadi dialam dan disekitar rumah.!",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "Kalau dialam (di luar rumah) itu Gerah, tapi kalau di sekitar rumah Dingiin<br>",
+            "attachments": []
+        },
+        {
+            "answer": "perpohonan tidak ada lgi ,tanah gersang ,dll",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "jika-percepatan-sebuah-benda-adalah-nolapakah-tidak-ada-gaya-yan-971",
+            "question": "Jika percepatan sebuah benda adalah nol,apakah tidak ada gaya yang bekerja padanya?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "menurut saya.... iyyaaa.....<br>dan benda itu hanya melakukan keseimbangan.....<br>maaf kalau jawabannya kurang tepat.......<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "menurut saya gaya yang bekerja pada benda hanya melakukan kesetimbangan<br>contoh dalam rumus hukum Newton<br>torsi = i.\u00a0\u03b1<br>F.d = mr^2 . o<br>F.d = 0<br>gaya yang\u00a0setimbang\u00a0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebutkan-3-contoh-hasil-penambangan-perut-bumi-yang-digunakan-seb-930",
+            "question": "Sebutkan 3 contoh hasil penambangan perut bumi yang digunakan sebagai sumber energi!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "minyak bumi,gas alam,batu bara<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "- minyak bumi<br>- batu bara<br>- emas, timah dan perak",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-setrika-listrik-bertuliskan-350w220v-di-gunakan-selama-2-me-809",
+            "question": "jika setrika listrik bertuliskan 350W/220V di gunakan selama 2 menit , energi kalor yg di hasilkan adalah ....? yg tw jawab yachhhh",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "350W x 120 detik= 42.000 joule/kg\u00b0c<br>maaf jika\u00a0salah",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apa-yang-disebut-hukum-newton-3-113",
+            "question": "Apa yang disebut hukum newton 3?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "hukum newton 3 : gaya aksi dan reaksi dari dua benda memiliki besar yang sama, dengan \narah terbalik, dan segaris. Artinya jika ada benda A yang memberi gaya \nsebesar F pada benda B, maka benda B akan memberi gaya sebesar \u2013F kepada\n benda A. F dan \u2013F memiliki besar yang sama namun arahnya berbeda. Hukum\n ini juga terkenal sebagai hukum aksi-reaksi, dengan F disebut sebagai aksi dan \u2013F adalah reaksinya.<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Hukum 3 Newton menjelaskan bahwa setiap ada gaya aksi akan timbul gaya reaksi yang besarnya sama tetapi arahnya berlawanan. <span><br></span><span><br></span><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "rudi-menekan-meja-dengan-gaya-sebesar-05-newton-nilai-05-n-set-490",
+            "question": "Rudi menekan meja dengan gaya sebesar 0,5 newton. Nilai 0,5 n setara dengan ...... dyne.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]1newton=10000 dyne \\\\ 0.5n=0,5.10000 \\\\ =5000 dyne[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "2suatu-gelombang-panjangnya-05-cm-dan-cepat-rambatannya-75-ms-532",
+            "question": "2.suatu gelombang panjangnya 0,5 cm dan cepat rambatannya 75 m/s berapakah frekuensinya ???",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "F=v / panjang glmbng<br>f=75/ 0.005 =15000 hz<br>maaf klo salah<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "v = lambda x\u00a0f<br>75 = 0,005 x f<br>f = 75/0,005<br>f = 15.000 Hz",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "torsi-yang-bekerja-pada-silinder-pejal-yang-massanya-05-kg-denga-844",
+            "question": "Torsi yang bekerja pada silinder pejal yang massanya 0,5 kg dengan jari-jari 12 cm adalah 3,6 x 10-2. Tentukan percepatan sudut yang dialami silinder tersebut?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "silinder pejal (I =[tex] \\frac{1}{2} [/tex] m.r\u00b2 )<br>m = 0,5 kg<br>r= 12cm =&gt; 0,12 m<br>I = 1/2 x 0,5 x (0,12)\u00b2<br>=3,6x10\u207b\u00b3<br>torsi = 3,6x10\u207b\u00b2<br>Torsi = I.\u03b1<br>\u03b1 = torsi\u00f7I<br>= 3,6x10\u207b\u00b2\u00f73,6x10\u207b\u00b3<br><strong>= 10 rad/s\u00b2</strong>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jelaskan-prinsip-kerja-bimetal-sebagai-sensor-suhu-pada-setrika-l-767",
+            "question": "Jelaskan prinsip kerja bimetal sebagai sensor suhu pada setrika listrik!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Bimetal terdiri dari dua lapisan logam (metal) yang memiliki koefisien  \npengembangan sangat berbeda. Pada suhu kamar (normal) keduanya memiliki \npanjang sama. Jika bimetal suhunya naik akan membengkok kearah lapisan  \ndengan koefisien pengembangan lebih kecil dan jika didinginkan akan \nmembengkok kearah yang koefisien pengembangannya lebih besar,<br>\nPada salah satu ujungnya (A) bimetal di keling (direvet) pada bagian \nlogam yang terimbas panas dari heater atau tahanan yang merubah energi \nlistrik menjadi energi panas (pada seterika listrik  atau pemanas \ndispenser. Jika suhu naik ujung yang lain dari bimetal (B) akan \nmembengkok kearah lapisan logam dengan koefisein muai (pengembangan) \nlebih kesil.<br>\nPada ujung B terdapat titik pengumpil yang berguna untuk mengangkat \nterminal  bebas  (C) dari sekaklar listrik yang pada suhu normal \nterhubung dengan terminal (D) sekaklar yang dapat mengatur \n\"kelekatannya\" terhadap terminal C (Biasanya dengan sebuah baut pengatur\n yang dihubungkan dengan knop/piringan yang diberi skala pengatur).<br>\nPada suhu tertentu ujung B akan mengangkat terminal D sehingga skaklar \nterbuka dan menyebabkan  aliran listrik pada pemanas terputus.<br>\nUntuk menghindari timbulnya bunga api dan agar terminal skaklar tak \nmudah hangus/terbakar, terminal skaklar harus dibuat dari logam yang tak\n mudah teroksidasi dan tahan panas (sejenis platina) dan ada mekanik \nyang mengatur agar skalkar terbuka secara mendadak/kejut  (tak \nberangsur).<br>\nTermostat pada kulkas dad AC banyak  yang menggunakan tabung udara dan \nlempeng logam anti karat yang lebih peka terhadap perubahan suhu, bahkan\n kini  banyak yang menggunakan dioda serta perangkat skaklar elektronik.\n Dioda yang sangat kecil ini ditempelkan pada bagian pendinginan, atau \nbagian expanser.<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span>\n<span>\nBimetal\nadalah alat yang terdiri dari dua logam yang berbeda nilai koefisien muai\npanjangnya atau yang berbeda kecepatan pemuaiannya, direkatkan menjadi satu.\nMisalnya bimetal terbuat dari besi dan tembaga sebelum dipanaskan bimetal itu\ndalam keadaan lurus kemudian setelah dipanaskan, bimetal akan melengkung ke\narah logam (besi) yang nilai koefisien muai panjangnya kecil atau lambat\nmemuai. Selanjutnya, apabila bimetal didinginkan akan melengkung ke arah logam\n(tembaga) yang nilai koefisien muai panjangnya besar atau cepat memuai.</span>\n</span>\n\n\n<span>Alat-alat\nteknologi yang menggunakan prinsip bimetal, antara lain termostat, sakelar\notomatis pada setrika, alat pemberitahu kebakaran, dan termometer.</span><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "budi-melempar-bola-dan-ditangkap-oleh-dani-jika-massa-benda-ters-896",
+            "question": "budi melempar bola dan ditangkap oleh dani. jika massa benda tersebut 30 g dan energi kinetik bola sampai di tangan dani sebesar 0,5 joule, berapakah kecepatan bola ketika sampai ditangan dani?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "m = 30 g = 0,03 kg<br>ek = 0,5 joule<br>v ..?<br>ek = 1/2 . m . v ^2<br>0,5 joule .2 = 0,03 kg . v^2<br>1/0,03 = v^2<br>33,33 = v^2<br>5,77 m/s = v :)",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-balok-dengan-ukuran-10-dm-x-5-dm-x-4dm-memiliki-massa-25-685",
+            "question": "Sebuah balok dengan ukuran 10 dm x 5 dm x 4dm memiliki massa 2,5 kg. jika percepetan gravitasi di tempat tersbeut 10 m/s\u00b2, hitunglah:    a. volume balok, b. berat balok, c. berat jenis balok",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a.[tex]v=p.l.t \\\\=10.5.4 \\\\=200 dm^{3} [/tex]<br><br>b.[tex]w=m.g \\\\ =2,5.10 \\\\=25[/tex]",
+                    "attachments": []
+                },
+                {
+                    "answer": "mau dalam satuan apa?<br>a.\u00a0[tex]V = p.l.t = 10 .5.4=200 dm^{3} [/tex]<br>atau\u00a0[tex]0,2  m^{3} [/tex]<br><br>b. berat = w = m.g = 2,5 . 10 = 25 Newton<br><br>c. massa jenis =\u00a0[tex] \\frac{massa}{volume} = \\frac{2,5}{0,2} = 12,5kg/m^{3}[/tex]",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

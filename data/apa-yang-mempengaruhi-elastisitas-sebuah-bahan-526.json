@@ -1,0 +1,142 @@
+{
+    "question": "Apa yang mempengaruhi elastisitas sebuah bahan ?",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "faktor yang utama adalah struktur penyusunnya . maaf kalo salah",
+            "attachments": []
+        },
+        {
+            "answer": "Bahan tersebut elastisitasnya dipengaruhi oleh gaya potensial yg terkandung pd bahan tsb serta bahan penyusun atau strukturnya .",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "sebuah-benda-bermassa-100-kg-yg-mula-diam-didorong-sedemikian-ru-743",
+            "question": "sebuah benda bermassa 100 kg yg mula\" diam didorong sedemikian rupa sehingga persepatan 0,2 m/s2 (kuadrat).berapa besar gaya yg bekerja pada benda tersebut ?\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "dik = m = 100 kg<br>\u00a0 \u00a0 \u00a0 \u00a0 a = 0,2 m/s^2<br>F..?<br>ingat F = m.a\u00a0<br>sehingga, F = 100 kg . 0,2 m/s^2 = 20 N :)",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span>dik = m = 100 kg<br>\u00a0 \u00a0 \u00a0 \u00a0 a = 0,2 m/s^2<br>F..?<br>ingat F = m.a\u00a0<br>sehingga, F = 100 kg . 0,2 m/s^2 = 20</span><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-benda-berotasi-dengan-momen-inersia-25-m2-dan-kec-625",
+            "question": "sebuah benda berotasi dengan momen inersia 2,5\u00a0\u00d7\u00a0\u00a0m\u00b2 dan kecepatan sudut awal 5 rad/s , agar benda itu berhenti dalam waktu 2,5 sekon maka besar momen gaya yang harus dikerjakan adalah...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>torsi= I.\u03b1---&gt; \u03c9t=\u03c9o + \u03b1. t</p><p>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a00 = 5 + \u03b1.2,5</p><p>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0-5\u00a0= \u03b1.2,5</p><p>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 \u03b1=-0,5</p><p>torsi= I . \u03b1= 2,5 x\u00a0-0,5=-1,25</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "seorang-siswa-memiliki-massa-60-kg-jika-percepatan-gravitasi-bum-135",
+            "question": "seorang siswa memiliki massa 60 kg, jika percepatan gravitasi bumi 10 m/s\u00b2, dan percepatan bulan 5,6 m/s\u00b2. htung berat siswa tsb di bumi dan di bulan? jelaskan dengan diket, tanya, dan jawab. trim's",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "diket:<br>m = 60 Kg<br>g bumi = 10 m/s\u00b2<br>g bulan= 5,6 m/s\u00b2<br><br>tanya :<br>W\u00a0bumi ...?<br>W bulan...?<br><br>jawab :<br>\u00a0W\u00a0bumi = m . g bumi<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 60 Kg . 10 m/s\u00b2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 600 kg.m/s\u00b2 atau 600 Newton<br><br>W\u00a0bulan = m. g bulan<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 60 kg. 5,6 m/s\u00b2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 336,0 kg.m/s\u00b2 atau 336 Newton",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-balok-dengan-masa-2kg-mula-mula-diam-terletak-di-atas-bida-543",
+            "question": "sebuah balok dengan masa 2kg mula mula diam terletak di atas bidang datar licin kemudian di dorong dengan sebuah gaya konstan mendatar sebesar F1=8N. setelah 3 s, F2= 8N dikerjakan pada benda dgn arah berlawanan dgn F1. besar perpindahan benda setelah 4 s pertama adalah?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Jawaban berupa lampiran",
+                    "attachments": [
+                        "answer-attachments/sebuah-balok-dengan-masa-2kg-mula-mula-diam-terletak-di-atas-bida-543-1.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "apa-yang-dimaksud-dengan-gaya-lorentz-907",
+            "question": "Apa yang dimaksud dengan gaya lorentz ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Gaya yang ditimbulkan oleh muatan listrik yang bergerak \u00a0oleh arus yang berada dalam suatu medan Magnet.Arah gaya ini akan mengikuti arah maju Skrup yang diputar dari Vector arah gerak muatan Listrik",
+                    "attachments": []
+                },
+                {
+                    "answer": "gaya lorentz adalah gaya yang ditimbulkan oleh medan elektromagnetik akibat menerima atau partikel bermuatan arus listrik.<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-saya-membutuhkan-3-soal-yang-berkaitan-dgn-vektor-645",
+            "question": "Tolong saya membutuhkan 3\u00a0soal yang berkaitan dgn Vektor.?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>vektor gaya yang sama, masing\u00b2 besarnya 10newton,<br>tentukan nilai resultan masing\u00b2 vektor.,?<br><br></span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jarak-kota-surabaya-dan-jakarta-936-km-andi-berangkat-pukul-17-841",
+            "question": "jarak kota surabaya dan jakarta 936 km . andi berangkat pukul 17.00 hari sabtu dengan mengendarai mobilnya dan sampai di jakarta pukul 05.00 .hari minggu . kelajuan rata\" mobil andi adalah ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "936 dibagi 12 aja<br>kan perjalanannya 12 jam tuh. berarti kecepatannya 78km per jam<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<u>936 km</u>\u00a0<u></u><strong></strong><u></u>=12 km/jam<u><br></u>12 jam<u><br></u>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suatu-vektor-gaya-dengan-persamaan-f-5i3j-n-bekerja-pada-suat-157",
+            "question": "suatu vektor gaya dengan persamaan F=(-5i+3j) N Bekerja pada suatu titik poros yang memiliki vektor posisi r=(4i+3j)m.besar torsi nya adalah?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "\u03c4 = r x F <br><br>\n\u03c4 = {4,3,0} x {-5,3,0} <br><br>\n\u03c4 = {0, 0, 27} <br><br>\nbesar torsi adalah <br><br>\n|\u03c4| = 27 Nm  <br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebutkan-macam-macam-benda-plastis-beserta-manfaat-minimal-5-778",
+            "question": "Sebutkan macam -macam benda plastis beserta manfaat minimal 5.. \u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "benda plastis : kayu, kaca ,plastic ,plastisin ,kertas.<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "seorang-dengan-massa-60-kg-berada-dalam-lift-yang-sedang-bergerak-595",
+            "question": "Seorang dengan massa 60 kg berada dalam lift yang sedang bergerak ke bawah dengan percepatan 2m/s\u00b2. Jika g = 10m/s\u00b2 ,maka gesekan kaki orang pada lantai lift adalah....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kelas : X<br>Mata Pelajaran : Fisika<br>Kategori : Bab Dinamika partikel<br>Kata Kunci : Gerak pada Lift<br><br>Jawaban berupa lampiran<br><br><br><br>",
+                    "attachments": [
+                        "answer-attachments/seorang-dengan-massa-60-kg-berada-dalam-lift-yang-sedang-bergerak-595-1.png"
+                    ]
+                }
+            ]
+        }
+    ]
+}

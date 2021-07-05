@@ -1,0 +1,128 @@
+{
+    "question": "Dalam suku deret aritmatika diketahui, suku ke3 = 9 dan suku ke7 = 37. suku ke 30 adalah...",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "U3=9 -&gt; a+2b=9\nU7=37-&gt; a+6b = 37\n               ---------- -\n-4b = -28\n   b = 7 -&gt; a +2.7 = 9\n                 a= -5\nNanti tinggal disubsitusi ke\nUn = a+ (n- 1 ) b",
+            "attachments": []
+        },
+        {
+            "answer": "U3=9\u00a0<br>U7=37<br>-4b=-28<br>b=-28/-4<br>b=7<br><br>a+2b=9 \u00a0 \u00a0\u00a0a+2.7=9<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 a+14=9<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 a=-5<br><br>U30= a+(n-1)\u00a0b<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0-5+29.7<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0-5+203<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0198",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "limit-dari-2x-2-8xpangkat-2-4-limit-x2-267",
+            "question": "Limit dari 2/x -2 - 8/xpangkat 2 - 4=\r\nlimit x=2",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Lim (x--&gt;2)<br><br>[tex] \\frac{2}{x-2} - \\frac{8}{ x^{2} -4} = \\frac{2(x+2)-8}{ x^{2} -4}=\\frac{2x+4-8}{ x^{2} -4} \\\\  \\\\ =\\frac{2x-4}{ x^{2} -4} = \\frac{2(x-2)}{ (x+2)(x-2)}= \\frac{2}{x+2} [/tex]<br><br>[tex] \\frac{2}{2+2} =  \\frac{1}{2} [/tex]<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-ab-dan-c-adl-sudut2-pda-sebuah-segtiga-dan-nilai-dari-tan-367",
+            "question": "jika A,B, dan C adl sudut2 pda sebuah segtiga dan nilai dari tan A = 4, tan B = 3, maka nilai dari tan C=.......?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]A,\\ B\\ dan\\ C\\ merupakan\\ sudut2\\ dlm\\ segitiga,\\ maka\\\\\nA+B+C=180^{o}\\\\\nA+B=180^{o}-C\\\\\nTan(A+B)=Tan(180^{o}-C)\\\\\n\\frac{Tan A+Tan B}{1-TanATanB}=-TanC\\\\\n\\frac{4+3}{1-4(3)}=-TanC\\\\\n\\frac{7}{-11}=-TanC\\\\\nTanC=\\frac{7}{11}\n[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "mohon-bantuan-nya-dong-kakak-jika-u243-u636-maka-jumlah-4-suku-622",
+            "question": "Mohon bantuan nya dong kakak\r\njika U2=4/3 U6=36 maka jumlah 4 suku bernomor ganjil pertama adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "u2 = 4/3 maka ar = 4/3 \u00a0 \u00a0 \u00a0pers 1<br>u6 =36 maka ar^5 = 36 \u00a0 \u00a0 \u00a0pers 2<br>pers 1 dan 2 didapat \u00a0rpangat 4 = 27 berarti rpangkat 2 =\u00a0\u221a27<br>r =akar pangkat 4 dari 27<br>a =4/3 \u00a0dibagi r = 4/9 akar pangkat 4 dari 3<br>jadi a + arkuadrat + arpangkat 4 + ar pangkat 6<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "864",
+            "question": "",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]lim_{x \\rightarrow 0}\\ \\frac{x-3-sin(x-3)}{x-3}\\\\\n= lim_{x \\rightarrow 0}\\ \\frac{x-3}{x-3}- lim_{x \\rightarrow 0}\\ \\frac{sin(x-3)}{x-3}\\\\\n=  lim_{x \\rightarrow 0}\\ 1- lim_{x \\rightarrow 0}\\ 1\\\\\n=1-1\\\\\n=0[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "persaman-m-14x2m0-mempunyai-akar-real-tentukan-m-yang-memen-534",
+            "question": "Persaman (m-1)+4x+2m=0 mempunyai akar real. Tentukan m yang memenuhi",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>(m-1)+4x+2m=0<br></span><br><span>m-1+4x+2m=0<br>3m</span><span>+4x=1<br>3m=1-4x<br>m=(1-4x)/3<br>m=(1/3)-(4x/3)<br>maybe :D<br></span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-akar-akar-persamaan-kuadrat-jika-23y252y1-yang-bisa-758",
+            "question": "Tentukan akar akar persamaan kuadrat jika 2/3y2+5/2y=1 ,yang bisa jawab jawab ya",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]\\frac{2}{3}y^2+\\frac{5}{2}y=1\\ kalikan\\ kedua\\ ruas\\ dengan\\ 6\\\\\n4y^2+15y-6=0\\\\\ny_{1,2}=\\frac{-b \\underline{+} \\sqrt{b^2-4ac}}{2a}\\\\\ny_{1,2}=\\frac{-15 \\underline{+} \\sqrt{15^2-4(4)(-6)}}{2(4)}\\\\\ny_{1,2}=\\frac{-15 \\underline{+} \\sqrt{225+96}}{8}\\\\\ny_{1,2}=\\frac{-15 \\underline{+} \\sqrt{321}}{8}\\\\[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "berapa-luas-daerah-yang-diarsir-168",
+            "question": "Berapa luas daerah yang diarsir..?",
+            "attachments": [
+                "question-attachments/berapa-luas-daerah-yang-diarsir-168-1.docx"
+            ],
+            "answers": [
+                {
+                    "answer": "setengah lingkaran besar<br>\u21d2 1/2 x \u03c0 x r\u00b2<br>\u00a0 = 1/2 x 22/7 x 7/2 x 7/2<br>\u00a0 = 77/4 = 19,25<br>lingkaran kecil<br>\u21d2 \u03c0 x r\u00b2<br>\u00a0 = 22/7 x 1,4 x 1,4<br>\u00a0 = 6,16<br>luas yang diarsir = 19,25 - 6,16 = 13.09<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "nih-ada-pr-mtk-sains-gurunya-blm-nerangin-mohon-di-bantu-yok-c-359",
+            "question": "Nih ada pr mtk sains gurunya blm nerangin :( mohon di bantu yok cekidot nih soalny..    Tentukanlah himpunan penyelesaian dari persamaan trigonometri 2-2sin(2x+15\u00b0)=3 untuk 0\u00b0\u2264x\u2264360\u00b0\r\n\r\n\r\nnah tolong bantuin ngerjain soal di atas oke :) please gan sis",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span> 2-2sin(2x+15\u00b0)=3 <br><br>2sin(2x+15) = -1 <br><br></span><span>sin(2x+15) = -1/2 <br><br></span><span>sin(2x+15) = sin 210 <br><br></span>berarti himpunan penyelesaiannya = { 210 , 330 ) <br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-siswa-direlasikan-dengan-tanggal-kelahirannya-apakah-relas-900",
+            "question": "jika siswa direlasikan dengan tanggal kelahirannya , apakah relasi itu merupakan fungsi ? berikan penjelasannya ??",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "tdak karena tdAK MENutup kemungkinan terdapat kesamaan tanggal lahir",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "persegi-abcd-dengan-panjang-sisinya-a-cm-pada-sisi-ab-diberi-tit-273",
+            "question": "Persegi ABCD dengan panjang sisinya a cm. pada sisi AB diberi titik E dengan panjang AE adalah x cm. Diantara sisi BC diberi titik F dengan panjang BF\u00a0= AE. Panjang EB = FC. Tentukan luas minimum DEF !",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "sama halnya dengan rumus persegi biasa yaitu sisi x sisi = a kuadrat<br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

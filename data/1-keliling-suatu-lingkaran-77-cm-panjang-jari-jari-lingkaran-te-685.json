@@ -1,0 +1,126 @@
+{
+    "question": "1. Keliling suatu lingkaran 77 cm, panjang jari-jari lingkaran tersebut berapa?    2. Diketahui tali busur AB melalui pusat lingkaran dengan panjang AB = 20 cm, berapakah luas lingkaran?",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "1. k = 2 phi r<br>77 = 2 . 22/7 . r<br>11 = 44 r<br>r = 0,25<br><br>bagian kedua ntar ya, mau mandi bentar -_-",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "diketahui-segitiga-pqr-dengan-pq8-qr6-pr5-tentukan-sudut-p-230",
+            "question": "Diketahui segitiga PQR, dengan PQ=8, QR=6, PR=5.    Tentukan sudut P, Q, dan R.\r\ndiketahui segitiga ABC, AB=3, BC=4, sudut B=135 derajat, panjang AC=?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "p=50,q=40,r=90<br>ac=6,5cm<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "3-310-710-34-13-45-34-407",
+            "question": "3 3/10- 7/10=\r\n3/4-1/3=\r\n4/5-3/4=",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "3\u00a0 3/10 - 7/4 = 26/10 = 2\u00a0 6/10 = 2\u00a0 3/5<br>3/4 - 1/3 = 5/12<br>4/5 - 3/4 = 1/20<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "hitunglahsudut-antara-vektor-a-dan-b-berikut-ini-a-3i-2j-k-399",
+            "question": "Hitunglahsudut antara vektor A dan B berikut ini,\r\n\r\nA = 3i - 2j + k\r\nB = 4i - 3j +2k",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "cos a= a.b/panjanga xpanjangb<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0=(12+6+2)/\u221a14\u221a29",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-barisan-aritmatika-dengan-suku-ke-9-51-dan-suku-ke-1-466",
+            "question": "Diketahui barisan aritmatika dengan suku ke-9 = 51, dan suku ke-13= 79. suku ke 6 adalah...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "13-9 = 4<br>Jadi jarak antar kedua suku adalah 4<br>79-51= 28<br>Jadi selisih kedua suku adalah 28<br>4 = 28<br>1= 7<br>Jadi, beda antar suku adalah 7<br>Jadi, barisan aritmatikanya adalah<br>-5,2,9,16,23,30,37,44,51<br>Suku ke 6 adalah 30 ^^<br>semoga betul kak :D",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jumlah-bilangan-asli-antara-1-dan-200-yg-hbis-diagi-4-adalah-310",
+            "question": "jumlah bilangan asli antara 1 dan 200 yg hbis diagi 4 adalah...?? jumlah n suku pertama suatu deret aritmetika dinyatakan dengan SN=n^2+3N..suku ke 20 deret tersebut adalah.....mohon bntuanyaaaa",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "kalo aritmatika jawabannya 80<br>4,8,12.....200<br>U-20= a+(n-1)b<br>4+(19)4<br>=80<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-rumus-invers-dr-fungsi-brikut-a-fxx-3-b-fx2x5-436",
+            "question": "Tentukan rumus invers dr fungsi\" brikut:    a. f(x)=x-3\r\nb. f(x)=2x+5\r\nc. f(x)=2-seperdua x\r\nd. f(x)=x3\r\ne. f(x)= 6per x, tidak sama dengan 0\r\nf). f(x)= 2 per x-1, x tidak sama dengan 1\r\ng). f(x)=2x-3 per 4x-1, xtidak sama dengan seperempat\r\nh). f(x)= 3x+5 per x-5, x-5 tidak sama dengan 0.\r\nthanks bg yang bs jwb.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "perhatikan caranya : f(x) = x+ 3<br>&lt;=&gt; y = x + 3<br>&lt;=&gt; x = y - 3<br>&lt;=&gt; finvers(y) = y - 3\u00a0<br>jadi finvers (x) = x - 3 \u00a0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-13-11-9-un-1800-tentukan-banyak-suku-dere-197",
+            "question": "Jika : 13 + 11 + 9 +...... + Un = -1800\r\ntentukan banyak suku deret tersebut ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "cari dlu rumus suku ke-n atau Un<br>Un = (a +(n-1)b) = 13 +(n-1)-2 = 15 - 2n<br>kemudian masukkan rumus jumlah sukuk ke- n atau Sn<br>Sn= n/2(a + Un)<br>-1800=n/2(13 + 15 - 2n)<br>-1800=(28n - 2n^2)/2<br>-3600 = 28n - 2n^2 \u00a0 \u00a0 \u00a0 (pindahkan semua yang di ruas kanan ke ruas kiri)<br>2n^2 - 28n -3600 = 0 \u00a0 \u00a0 (bagi 2 kedua ruas)<br>n^2 - 14n -1800 = 0 \u00a0 \u00a0 \u00a0 \u00a0 (faktorkan)<br>(n-50)(n+36) = 0<br>n = 50 atau -36<br><br>jawabannya n adalah 50, karena harus bernilai positif, atau syarat di atas adalah n= bil . asli<br>(coba saja bayangkan apakah ada suku ke -36??) yang ada adalah suku ke 50,\u00a0<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-percobaan-mengundi-uang-logam-rp-10000-sebanyak-2-kali-208",
+            "question": "Tentukan Percobaan mengundi uang logam Rp. 100,00 sebanyak 2 kali",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "ruang sampel = gambar (G) dan angka (A)<br>pengundian uang logam 100 sebanyak dua kali --&gt; masing-masing sisi punya peluang 2/4 atau 1/2 <br>P(A)=2/4<br>P(G)=2/4<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jawablah-pertanyaan-berikut-ini-dengan-benar-4-diketahui-pernyat-491",
+            "question": "Jawablah pertanyaan berikut ini dengan benar    4. Diketahui pernyataan-pernyataan:\r\n\u00a0\u00a0 p : Hari ini hujan deras\r\n\u00a0\u00a0 q : Hari ini berangin kencang.\r\n\u00a0\u00a0 Tentukan pernyataan-pernyataan majemuk yang dinyatakan dengan notasi berikut ini.\r\n\u00a0\u00a0 a. p ^ q\r\n\u00a0\u00a0 b. q ^ p\r\n\u00a0\u00a0 c. ~p ^ q\r\n\u00a0\u00a0 d. ~(p ^ q)\r\n\u00a0\u00a0 e. ~(p ^ ~q)\r\n\u00a0\u00a0 Jawabanya :\r\n\r\ntolong jawab secepatnya\r\n\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a.hari ini hujan deras dan hari ini berangin kencang<br>b.hari ini berangin kencang dan hari ini hujan deras<br>c.hari ini tidak hujan deras dan hari ini berangin kencang<br>yang d sama e nunggu komentar dari orang lain aja ya :)<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "a. hari ini hujan deras dan berangin kencang<br>b. hari ini berangin kencang dan hujan deras<br>c. hari ini tidak hujan deras dan berangin kencang<br>d. hari ini tidak hujan deras atau tidak berangin kencang<br>e. hari ini tidak hujan deras atau berangin kencang<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "mencari-simbol-o-1-62-362-2-55-1-486",
+            "question": "Mencari simbol o !    1. 6\u00b0\u207a\u00b2 = (36)\u00b0\u207a\u00b2\r\n\r\n2. \u221a5\u00b0\u207b\u2075 = 1\r\n\r\n\r\n3. (\u221a10)\u00b0\u207b\u00b2 = 0,1\r\n\r\n\r\n\r\n4. \u221a2\u00b0\u207a\u00b3 = (1/4)\u00b0\u207a\u2074",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "ganti jadi huruf p ya<br><br>1.<br>basisnya beda (6 dan 36)<br>pangkatnya sama (p+2)<br>jadi hanya ada 1 solusi pada saat p+2=0<br>atau p=-2<br><br>2.<br>supaya hasilnya 1, maka pangkatnya harus nol<br>p-5=0<br>p=5<br><br>3.<br>[tex] (\\sqrt{10} )^{p-2}=0,1\\\\\n (10^{1/2} )^{p-2}=10^{-1}\\\\\n (10)^{(p-2)/2}=10^{-1}\\\\\n\\frac{p-2}{2}=-1\\\\\np=0\n[/tex]<br><br>4.<br>[tex] \\sqrt{2^{p+3}}=( \\frac{1}{4})^{p+4}  \\\\\\\\\n 2^{\\frac{p+3}{2}}=(2^{-2})^{p+4}  \\\\\\\\\n 2^{\\frac{p+3}{2}}=2^{-2p-8}  \\\\\\\\\n\\frac{p+3}{2}}={-2p-8}  \\\\\\\\\np+3=-4p-16\\\\\np= -\\frac{19}{5} [/tex]<br><br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

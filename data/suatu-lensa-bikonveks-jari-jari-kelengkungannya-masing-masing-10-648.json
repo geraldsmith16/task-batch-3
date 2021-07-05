@@ -1,0 +1,132 @@
+{
+    "question": "Suatu lensa bikonveks ,jari-jari kelengkungannya masing-masing 10 cm dan 40 cm, indeks bias kacanya nk =1,5 . Kemudian, lensa dimasukkan ke dalam minyak yang indeks biasnya n =1,2. Maka kekuatan lensanya dalam minyak ialah.... dioptri.    a. 3,125 \r\nb. 3,250\r\nc. 4,125\r\nd. 4,250\r\ne. 5,250\r\n\r\njawabnya ,tolong pakek cara,ya!!! Biar ngerti cara ngerjain soalnya juga :D",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "tiga dua lima puluh bukan<br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "sebuah-bola-pejal-bermassa-05-kg-dan-jari-jari-20-cm-menggelind-174",
+            "question": "sebuah bola pejal bermassa 0,5 kg. dan jari jari 20 cm menggelinding pada lantai mendatar dengan kecepatan 8 m/s kemudian naik ke bidang miring. Tentukan ketinggian h maksimum yang dapat dicapai hingga bola berhenti sesaat",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>Mapel: Fisika</p><p>Kelas : XI SMA<br></p><p>Kategori \u00a0: dinamika rotasi<br></p><p>Kata Kunci : menggelinding, kecepatan, ketinggian, bidang miring, energi mekanik<br></p><p>Jawaban:<br></p><p>Jika bola menggelinding, berarti benda mengalami gerak translasi sekaligus rotasi. Untuk menyelesaikan soal tersebut, digunakan hukum kekekalan energi mekanik.<br></p><p>Diketahui:<br></p><p>m = 0,5 kg<br></p><p>R = 20 cm<br></p><p>v = 8 m/s<br></p><p>g = 10 m/s2<br></p><p>Ditanya: h saat berhenti sesaat<br></p><p>Jawab:<br></p><p>Mula-mula bola berada di lantai mendatar sehingga tidak memiliki energi potensial. Saat berada pada ketinggian maksimum, bola tidak memiliki energi kinetik. Momen inersia bola pejal besarnya 2/5 mR2 (k = 2/5)<br></p><p>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 EMA = EMB<br></p><p>EPA + EktransA + EkrotA = EPB + EktransB + EkrotB<br></p><p>\u00a0 \u00a0 0 + \u00bd. m. v2 + \u00bd. I. \u03c92 = m.g.h + 0 + 0<br></p><p>\u00a0 \u00a0 \u00a0 \u00bd. m. v2 + \u00bd. k. m. v2 = m.g.h<br></p><p>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00bd. m. v2 ( 1 + k ) = m.g.h<br></p><p>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0h = v2 ( 1 + k )/ 2.g<br></p><p>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0h = 8^2 (1 + 2/5)/ 2.10<br></p><p>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0h = 64. 1,4/20<br></p><p>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0h = 89,2/ 20 = 4,48 meter<br></p><p>Jadi, ketinggian maksimum yang dapat dicapai hingga bola berhenti sesaat adalah 4,48 meter.<br></p><p>Jika mau dihafalkan, rumus cepat untuk mencari ketinggian maksimum benda atau mencari kecepatan mula-mula benda yang menggelinding menaiki bidang miring adalah<br></p><p>h= [tex] \\frac{ v^{2} (1+k)}{2.g} [/tex]<br></p>\n\n<p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebatang-silinder-timah-hitam-sepanjang-1-m-e-16-x-1010-m3-624",
+            "question": "Sebatang silinder timah hitam sepanjang 1 m (E = 1,6 x 10^10 m^3) memiliki luas penampang 1,25 x 10^-3 m^2 ditarik oleh gaya 2500 N. Besar regangan silinder tersebut adalah?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "3194\u00a0=besar regangan silinder",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "empat-buah-pegas-masing-masing-mempunyai-konstanta-elastis-1600-n-216",
+            "question": "empat buah pegas masing masing mempunyai konstanta elastis 1600 N/m. Beban w di gantung menyebabkan pertambahan panjang 5 cm. Hitung berat beban w!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "k =1600n/m<br>delta x = 5 cm = 0.05 m<br>w? w=f=k. delta x<br>W=F=1600.0.05<br>W=80 N<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-tongkat-homogen-sepanjang-50-cm-bermasa-4-kg-pada-salah-sa-611",
+            "question": "sebuah tongkat homogen sepanjang 50 cm bermasa 4 kg pada salah satu ujung tongkat diberi beban ,sedangkan ujung tongkat lainnya sebagai tumpuan .jika f= 200 N Momen gaya pada titik O adalah......N.m\u00a0\u00a0\u00a0\u00a0 (g=9.8 m/s2)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "momen inersia terhadap batang = <span><span>1/12m.l kuadrat + m(1/2) kuadrat = 1/3 ml kuadrat</span></span><br><br><br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span>tinggal di masukkin nilainya<br>sepertinya itu</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "lima-buah-partikel-berada-dalam-sistem-dengan-dua-level-energi-d-769",
+            "question": "Lima buah partikel berada dalam sistem dengan dua level energi. Dua partikel tereksitasi pd level yg lbh tinggi. Jika partikel tersebut terbedakan:    a). Hitunglah jumlah keadaan berbeda yg mungkin\r\nb). Hitunglah Entropi sistem",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>\nHukum kedua termodinamika\n</span>\nSumber: Frederick J. Bueche,Fisika, edisi ke-8, 1989\n(1)\u00a0\u00a0\u00a0 Kalor secara spontan akan mengalir dari benda yang panas ke benda yang dingin, dan bukan sebaliknya\n(2)\u00a0\u00a0\u00a0 Tidak ada mesin kalor yang berputar terus menerus dapat merubah seluruh energi yang masuk menjadi kerja\n<span>(3)\u00a0\u00a0\u00a0 Jika suatu sistem mengalami perubahan spontan, maka perubahan \nakan berarah sedemikian rupa sehingga entropi sistem akan bertambah atau\n akan bertahan pada nilai sebelumnya</span><br>Entropi merupakan suatu perubahan keadaan pada sistem yang setimbang. \nIni berarti bahwa S ( entropi ) sistem selalu sama, apabila sistem \nberada dalam keadaan keseimbangan tertentu.<br><br>a. jumlah entalpi jagad raya \u0394s = 0 dan bertambah pada saat irreversible terjadi \u0394s&gt;0<br>\u00a0\u00a0 menjadi 5 x partikel &gt;0<br>b. \u0394s =Q/T = 1 - q2/q1<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-seorang-kakek-dapat-membaca-buku-denan-baik-jika-tulisan-yang-895",
+            "question": "1. seorang kakek dapat membaca buku denan baik jika tulisan yang dibaca terletak pada jarak 40 cm . setelah memakai kacamata, ia dapat membaca dengan baik pada jarak 25 cm. jarak fokus lensa kacamata yang dipakai adalah ... cm    options :\r\n40/3\u00a0 \u00a0 \u00a0 3/25\u00a0 \u00a0 \u00a0 25/40\u00a0 \u00a0 \u00a0 \u00a0 200/3\u00a0 \u00a0 \u00a0 100/3\r\n2. sebuah teropong pantul memiliki jari-jari keelengkungan cermin objektif sebesar 6 m . jika jarak fokus lensa okuler 3 cm, perbesaran angulernya ... kali\r\noptions :\r\n100\u00a0 \u00a0 200\u00a0 \u00a0 50\u00a0 \u00a0 40\u00a0 \u00a0 \u00a0 20\r\n3. sebuah lup mempunyai jarak fokus 5 cm, digunakan seseorang bermata normal untuk melihat sebuah benda kecil yang berjarak 5 cm dari lup jika mata pengguna tidak berakomodasi , perbesarannnya ... kali\r\noptions :\r\n2\u00a0 \u00a0 4\u00a0 \u00a0 4,5\u00a0 \u00a0 5\u00a0 \u00a0 6,25",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "dik : f= 5 cm<br>\u00a0 \u00a0 \u00a0 \u00a0s = 5 cm<br>dit :M<br>\u00a0 \u00a0Jawab :\u00a0<br>karena titik dekat mata normal itu 25cm maka Sn = 25 cm<br>M = 25/5 = 5 kali<br><strong></strong> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-bus-bergerak-dengan-kecepatan-60-kmjam-seorang-pedagang-396",
+            "question": "sebuah bus bergerak dengan kecepatan 60 km/jam. seorang pedagang asongan di dalam bus berjalan dari depan ke belakang dengan kecepatan 1 km/jam. kecepatan pedagang asongan menurut pengamat yang diam ditepi jalan ..... km/jam",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "kecepatan\u00a0pejualan asongan\u00a0 3m/sec menurut pejalan kaki",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-balok-dengan-masa-2kg-mula-mula-diam-terletak-di-atas-bida-543",
+            "question": "sebuah balok dengan masa 2kg mula mula diam terletak di atas bidang datar licin kemudian di dorong dengan sebuah gaya konstan mendatar sebesar F1=8N. setelah 3 s, F2= 8N dikerjakan pada benda dgn arah berlawanan dgn F1. besar perpindahan benda setelah 4 s pertama adalah?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Jawaban berupa lampiran",
+                    "attachments": [
+                        "answer-attachments/sebuah-balok-dengan-masa-2kg-mula-mula-diam-terletak-di-atas-bida-543-1.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-benda-bergerak-dari-keadaan-diam-dan-setelah-10-detik-kece-952",
+            "question": "sebuah benda bergerak dari keadaan diam dan setelah 10 detik kecepatannya 40m/s.jarak yang telah ditempuh adalah?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "s = v/t<br>s = 40/10 = 4\u00a0",
+                    "attachments": []
+                },
+                {
+                    "answer": "s=v.t = 40 m/s . 10 s<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 400 meter\u00a0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "faktor-yang-mempengaruhi-elastisitas-sebuah-benda-479",
+            "question": "Faktor yang mempengaruhi elastisitas sebuah benda",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "sifat fisik yang utama adalah karena dipengaruhi oleh struktur penyusunnya<br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,138 @@
+{
+    "question": "F(x) = 1/2 x^2 + 2 \r\ng(x) = x+10\r\n(f komposisi g) (x) =...... ?",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "fog = 1/2(x+10)^2 + 2<br>\u00a0\u00a0 \u00a0  = x^2/2 + 10x + 52<br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "jumlah-bilangan-asli-antara-1-dan-200-yg-hbis-diagi-4-adalah-310",
+            "question": "jumlah bilangan asli antara 1 dan 200 yg hbis diagi 4 adalah...?? jumlah n suku pertama suatu deret aritmetika dinyatakan dengan SN=n^2+3N..suku ke 20 deret tersebut adalah.....mohon bntuanyaaaa",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "kalo aritmatika jawabannya 80<br>4,8,12.....200<br>U-20= a+(n-1)b<br>4+(19)4<br>=80<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "buktikan-identitas-berikut-1-sin-atan-a-cosa-1cosa-480",
+            "question": "Buktikan identitas berikut!\r\n\r\n1. sin \u03b1tan \u03b1 + cos\u03b1 = 1/cos\u03b1",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "sin\u03b1 tan\u03b1 + cos\u03b1 = 1/cos\u03b1<br>ruas kiri kita rubah menjadi :<br>sin\u03b1.sin\u03b1/cos\u03b1 + cos\u03b1 <br>&lt;=&gt; sin\u00b2\u03b1 /cos\u03b1 + cos\u00b2\u03b1 / cos\u03b1 karena sin\u00b2\u03b1 + cos\u00b2\u03b1 = 1<br>&lt;=&gt; 1/cos\u03b1<br>terbuktikan?<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "garis-ymxn-melalui-titik-16-dan-3-2-maka-nilai-m-dan-n-569",
+            "question": "Garis y=mx+n melalui titik (1,6) dan (-3,-2), maka nilai m dan n berturut-turut adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "m=[tex] \\frac{Y2-Y1}{X2-X1} [/tex]<br>m = [tex] \\frac{-2-6}{-3-1} = \\frac{-8}{-4}=2 [/tex]<br>Y - Y1 = m(X-X1) <br>y - 6 = 2 (x-1)<br>y = 2x - 2 + 6<br>y = 2x + 4 <br><br>mudah mudahan membantu ya! dan jangan lupa istirahat he he <br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "&gt;&gt;\u00a0m=\u00a0<br>&gt;&gt;\u00a0<span>m =\u00a0</span><br><span>&gt;&gt; y\u00a0- y1 = m(x-x1)\u00a0 <br>&gt;&gt;\u00a0</span>y - 6 = 2 (x-1)<br>&gt;&gt;\u00a0y = 2x - 2 + 6<br><span>&gt;&gt;\u00a0y = 2x + 4\u00a0<br>maaf kalo ngelantur habis ngantuk sih</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "3-bilangan-membentuk-barisan-geometri-jumlah-ke-3-bilangan-terseb-126",
+            "question": "3 bilangan membentuk barisan geometri jumlah ke 3 bilangan tersebut adalah 14, dan hasil kalinya 64. Tentukan ke 3 bilangan tersebut",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Dik : <br>Barisan geometri\u00a0 U\u2081 + U\u2082 + U\u2083 = 14\u00a0 ; U\u2081 x U\u2082 x U\u2083 = 64<br>Dit : <br>U\u2081\u00a0 ;\u00a0  U\u2082\u00a0  dan U\u2083<br>Jawab : <br>U\u2081 x U\u2082 x U\u2083 = 64 ==&gt; a x ar x ar\u00b2 = 64<br>a\u00b3 x r\u00b3 = 64 .... ruas kiri dan kanan diakar pangkat 3<br>ar = 4 ..... pers(1)<br><br>U\u2081 + U\u2082 + U\u2083 = 14 \u00a0 ==&gt;\u00a0 a + ar + ar\u00b2 = 14 \u00a0 ==&gt;\u00a0 a + ar + ar.r = 14 <br>a + 4 + 4r = 14 ==&gt; 4/r + 4 + 4r - 14 = 0\u00a0 \u00a0 ==&gt;\u00a0 4/r + 4r - 10 = 0 <br>4 + 4r\u00b2 - 10r = 0 ==&gt; 4r\u00b2 - 10r + 4 = 0 ==&gt; (4r - 2)(r - 2) = 0 <br>r = 1/2 atau r = 2 <br>untuk r = 1/2 maka a = 4/0,5 = 8 <br>maka bilangan yang dimaksud adalah : 8 , 4 , 2 <br>untuk r = 2, maka a = 4/2 = 2 <br>bilangan yang dimaksud adalah : 2 . 4 , 8 <br><br><br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "U\u2081 x U\u2082 x U\u2083 = 64\u00a0<br><span>sifat barisan geometri : U\u2081 x U\u2083 = U\u2082\u00b2\u00a0</span><br>maka didapat : U\u2082\u00b3 = 64 ----&gt; U\u2082 = 4 dan U\u2081 x U\u2083 = 16 ..... pers (1)<br>U\u2081 + U\u2082 + U\u2083 = 14<br><span>U\u2081 + 4 + U\u2083 = 14 ----&gt; U\u2081 + U\u2083 = 10 ......pers (2)\u00a0</span><br><span>dari pers 1 dan pers 2 didapat bilangan yang hasil kalinya 16 dan hasil jumlahnya 10 adalah 2 dan 8\u00a0</span><br><span>jadi bilangan yang dimaksud adalah 2 , 4 dan 8\u00a0</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-kain-songket-dengan-ukuran-panjang-9-per-4-m-dan-lebar-510",
+            "question": "sebuah kain songket dengan ukuran panjang \u00a09 per 4\u00a0m dan lebar \u00a03 per 4m\u00a0. di bagian tengah terdapat 5 bagian daerah yg seluruhnya \u00a0451 per 400\u00a0m. 1. tentukan ukuran bagian kain songket yg berwarna merah dan daerah berambu benang. 2. bagaimana kamu menentukan luas daerah tersebut? 3. apakah ada keterkaitan konsep dan prinsip persamaan kuadrat untuk menentukan ukuran daerah bagian dalam kain songket?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "mav, soalnya itu ada gb.nya nggak?<br>songket warna merahnya dmn?<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-x1-dan-x2-akar-akar-2x2-5x30-maka-tentukan-nilai-x12x2-938",
+            "question": "Jika x1 dan x2 akar-akar 2x^2-5x+3=0, maka tentukan nilai x1^2+x2^2\r\nPlissss",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "x1^2+x2^2 = (x1+x2)^2 - 2x1*x2<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 = (-(-5/2)^2 - 2*3/2<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 = 25/4 - 3<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 = 3 1/4<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "2x^2 - 5x + 3 = 0<br>faktor<br>(x\u00a0-\u00a01)\u00a0(2x\u00a0-\u00a03)\u00a0=\u00a00<br>x1 = 1 \u00a0<br>x2 = 3/2<br><br>nilai X1^2 + X2^2<br>jadi, 1^2 + 3/2^2<br>\u00a0 \u00a0 \u00a0 \u00a0= 1 + 9/4<br>\u00a0 \u00a0 \u00a0 \u00a0=( 4+9)\u00a0/ 4<br>\u00a0 \u00a0 \u00a0 \u00a0= 13/4<br>\u00a0 \u00a0 \u00a0 \u00a0= 3\u00a0[tex] \\frac{1}{4} [/tex]<br><br>Semoga membantu :) D like klik bintang",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "carilah-persamaan-lingkaran-yang-melengkapi-segitiga-siku-siku-ya-417",
+            "question": "carilah persamaan lingkaran yang melengkapi segitiga siku-siku yang titik-titik sudutnya adalah(0,0)(8,0)(0,6) ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "8x+6y klo gak salah\u00a0<br>harap dimaklumi\u00a0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "selesaikan-persamaan-kuadat-berikut-dengan-pemfaktoran-atau-den-825",
+            "question": "Selesaikan persamaan kuadat \u00a0berikut dengan pemfaktoran atau dengan melengkapkan kuadrat / rumus ABC    1. x\u00b2 - 2x -15 = 0\r\n2. 5 + 3x - 2x\u00b2 = 0\r\n3. ax\u00b2 + (ab + 1) x + b = 0\r\n4.x\u00b2 - 8x - 24 = 0\r\n5. 9x\u00b2 - 12x + 2 = 0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1 (x-5)(x+3)=0<br>2(-2x+5)( \u00a0x+1 )=0<br>\u00a0yg bisa pake faktor cuma itu,,sisanya mau pake abc lama.. panjang..<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "1.(+) 3+(-5)<br>\u00a0 \u00a0(x) 3x5<br><br>x+3 = 0<br>x1 = -3<br><br>x-5=0<br>x2 = 5 \u00a0 \u00a0akarnya -3 dan 5<br><br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "coba-tolong-dilihat-dulu-ada-yang-bisa-bantu-1-2-557",
+            "question": "Coba tolong dilihat dulu, ada yang bisa bantu?    1. \r\n2.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]\\int (4x-3)dx= \\int 4xdx-\\int 3dx\\\\\n\\int (4x-3)dx= 2x^2-3x+C\\\\\\\\\n\\int \\frac{2}{\\sqrt{2}-5}dx=\\frac{2x}{\\sqrt{2}-5}+C[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-sebuah-deret-geometri-memenuhi-log-u1-log-u2-log-u3-666",
+            "question": "diketahui sebuah deret geometri memenuhi log U1 + log U2 + log U3 + log U4 + log U5 = 15 log 2. jika r =2, tentukan S9.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Deret geometri dg r = 2<br>log U\u2081 + log U\u2082 + log U\u2083 + log U\u2084 + log U\u2085 = 15 log 2 <br>berdasarkan sifat logaritma, maka didapat : <br>log (U\u2081 . U\u2082 . U\u2083 .U\u2084 . U\u2085) = log 2\u00b9\u2075 <br>U\u2081 x U\u2082 x U\u2083 x U\u2084 x U\u2085 = 2\u00b9\u2075 <br>a x ar x ar\u00b2 x ar\u00b3 x ar\u2074 = 2\u00b9\u2075 <br>a\u2075 x r\u00b9\u2070 = 2\u00b9\u2075\u00a0  <br>a x r \u00b2 = 2\u00b3<br>a x 2\u00b2 = 2\u00b3<br>a = 2<br>S\u2089 = a(r\u2079 - 1) : (r - 1)<br>\u00a0\u00a0 \u00a0 = 2(2\u2079 - 1) : (2 - 1) <br>\u00a0\u00a0 \u00a0  = 2(512 - 1) : 1 <br>\u00a0\u00a0 \u00a0 = 2(511) <br>\u00a0\u00a0 \u00a0  = 1022<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

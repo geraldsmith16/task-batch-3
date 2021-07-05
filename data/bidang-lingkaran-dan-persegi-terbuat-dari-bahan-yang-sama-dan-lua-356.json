@@ -1,0 +1,122 @@
+{
+    "question": "bidang lingkaran dan persegi terbuat dari bahan yang sama dan luas lingkaran dua kali luas persegi pada suhu 20 derajat C. berapakah perbandingan pertambahan luas kedua bidang. jika bidang lingkaran dipanasi\u00a0hingga 30 derajat C. sedangkan pesegi dipanaskan hingga 35 derajat C\u00a0",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "m\u00d7c\u00d7\u0394t<br>massa di umpamakan luasnya<br>1xcx(30-25)=5c<br>2xcx(35-25)=20c<br>5:20=1:4<br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "sebuah-benda-berotasi-dengan-momen-inersia-25-m2-dan-kec-625",
+            "question": "sebuah benda berotasi dengan momen inersia 2,5\u00a0\u00d7\u00a0\u00a0m\u00b2 dan kecepatan sudut awal 5 rad/s , agar benda itu berhenti dalam waktu 2,5 sekon maka besar momen gaya yang harus dikerjakan adalah...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>torsi= I.\u03b1---&gt; \u03c9t=\u03c9o + \u03b1. t</p><p>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a00 = 5 + \u03b1.2,5</p><p>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0-5\u00a0= \u03b1.2,5</p><p>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 \u03b1=-0,5</p><p>torsi= I . \u03b1= 2,5 x\u00a0-0,5=-1,25</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "batang-ab-homogen-panjangnya-80cm-dan-beratnya-18n-jika-ac-60cm-606",
+            "question": "Batang AB homogen panjangnya\u00a080cm dan beratnya 18N. jika AC 60cm dan berat beban w 30N. tegangan tali BC \u00a0adalah ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Ini masuk materi medan magnet yah,,<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-tali-dengan-panjang-08-m-dapat-mengerjakan-gaya-sebesar-4-345",
+            "question": "sebuah tali dengan panjang 0,8 m dapat mengerjakan gaya sebesar 4 N tanpa putus. tali itu digunakan untuk mengayunkan suatu benda bermassa 0,5 kg dalam suaru lingkaran horizontal. tentukan periode minimum agar benda dapat diayun tanpa menyebabkan tali putus.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "F= 4 N<br>r= 0,8m<br>m= 0,5 kg<br><br>T=F=mv^2/r<br>v^2 = F . r/m<br>v^2 = 4 . 8/5 =32/5 = 6,4<br><br>v= omega . r<br>v^2= omega^2 . r^2<br>6,4 = omega^2 . 0,8^2<br>omega^2= 6,4/0,64<br>omega^2 = 10<br>omega =\u221a10<br><br>omega= 2 phi /T<br>T= 2 phi / omega<br>T = 2 phi/ \u221a10<br><br>(maaf kalo salah, mata ane udah tinggal 5 watt)<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "rumus-rumus-menurut-teori-atom-planck-yang-benar-adalah-825",
+            "question": "Rumus-rumus menurut teori atom planck yang benar adalah?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "E= h.\u00b7v<br>E= ENEGI<br>H= KONSTANTA<br>V= FREKUENSI RADIASI<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "gelombang-elektromagnetik-yang-memiliki-energi-foton-paling-besa-917",
+            "question": "Gelombang elektromagnetik\u00a0yang memiliki energi foton paling besar adalah....    A. Sinar - X\r\nB. Cahaya Merah\r\nC. Cahaya Ungu\r\nD. Gelombang Radio\r\nE. Sinar Gamma",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "c sinar ungu<br>karena memiliki f terbesar dan panjang gelombang terpendek",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apakah-kekekalan-momentum-linear-konsisten-dengan-hukum-kedua-dan-871",
+            "question": "Apakah kekekalan momentum linear konsisten dengan hukum kedua\r\n dan ketiga Newton?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Hukum Kedua: sebuah benda dengan massa M mengalami gaya resultan sebesar\n F akan mengalami percepatan a yang arahnya sama dengan arah gaya, dan \nbesarnya berbanding lurus terhadap F dan berbanding terbalik terhadap M.\n atau F=Ma. Bisa juga diartikan resultan gaya yang bekerja pada suatu \nbenda sama dengan turunan dari momentum linear benda tersebut terhadap \nwaktu.<br>\u00a0 <br>Hukum Ketiga: gaya aksi dan reaksi dari dua benda memiliki besar yang sama, dengan arah terbalik, dan segaris.<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bagaimana-bentuk-permukaan-zat-cairsudut-kontak-untuk-air-alko-174",
+            "question": "bagaimana bentuk permukaan zat cair(sudut kontak) untuk air, alkohol dan raksa di dalam pipa kapiler ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "sudut kontak air dengan pipa kapiler adalah 0 derajat &lt; 0 &lt; 90 derajat<br>sudut kontak air raksa dengan pipa kapiler adalah 90 derajat &lt; 0 &lt; 180 derajat",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-keluarga-yang-terdiri-dari-4-orang-total-massanya-200kg-ma-974",
+            "question": "sebuah keluarga yang terdiri dari 4 orang total massanya 200kg masuk ke dalam mobil sehingga pegas mobil tertekan ke bawah sejauh 3 cm.Dengan menganggap pegasnya tunggal,berpakah tetapan pegas mobil itu?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Dik m 4 = 200 kg\u00a0<br>\u00a0 \u00a0 \u00a0 \u00a0\u00a0\u0394l = 3 cm = 0,03 m<br>Dit tetapan pegas mobil ?<br>jawab.\u00a0<br>F = W = m.g = 200 . 10 = 2 000 N<br>k = F /\u00a0\u0394l<br>\u00a0 \u00a0= m.g /\u00a0\u0394l<br>\u00a0 \u00a0= 2000 / 0,03<br>\u00a0 \u00a0= 66 666,67 N/m<br><br>Semoga membantu :) D like<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "rangkaian-kereta-api-yang-panjangnya-80-m-melaju-dengan-kelajuan-160",
+            "question": "rangkaian kereta api yang panjangnya 80 m melaju dengan kelajuan 72km/jam \u00a0.kereta terlihat melintasi jembatan selama 6 s. hutung panjang jembatan ..!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "s=v.t<br>v nya ubah ke m/s jadi 72000/3600=20 m/s<br>jadi<br>s=20.6=120 meter<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-manakah-yang-memiliki-massa-lebih-besar-sebuah-truk-berat-yan-267",
+            "question": "1. manakah yang memiliki massa lebih besar, sebuah truk berat yang sedang diam, ataukah\u00a0anak kecil yang sedang begerak dengan sepatu roda?    2. manakah yang memiliki momentum lebih besar dari keduanya?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>anak kecil yang sedang begerak dengan sepatu roda</span>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

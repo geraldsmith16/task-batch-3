@@ -1,0 +1,138 @@
+{
+    "question": "Faktor dari\u00a0",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "[tex] x^{2} +2x-48\n[/tex]<br>(x+8)(x-6)<br>x=-8 x=6<br>",
+            "attachments": []
+        },
+        {
+            "answer": "(X+8)(X-6)+0..<br>tu dia ....<br><br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "jika-jumlah-semua-suku-deret-geometri-tak-hingga-adalah-72-dan-ju-487",
+            "question": "Jika jumlah semua suku deret geometri tak hingga adalah 72 dan jumlah semua sukunya yang berindeks ganjil adalah 48, tentukan suku ke-3 deret tersebut !    Tolong di bantu..",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Jumlah Suku Tak hingga (S\u221e) :<br>S\u221e = a / (1 - r)\u00a0<br>72 = a / (1 - r)\u00a0<br><br>Jumlah semua suku ganjil : r&#039; = r\u00b2, Maka :\u00a0<br>Sg = a / (1 - r\u00b2)\u00a0<br>48 = a / (1 - r\u00b2)\u00a0<br><br>[tex] \\frac{72}{48} = \\frac{a/(1-r)}{a/(1-r^{2})} [/tex]<br><br>[tex] \\frac{3}{2} = \\frac{1-r ^{2}}{1-r} [/tex] \u00a0 (Jabarkan (1-r)\u00b2 menjadi (1-r)(1+r))<br><br>[tex] \\frac{3}{2} = \\frac{(1-r)(1+r)}{1-r} [/tex] \u00a0 \u00a0(Coret yg sama)<br><br>[tex] \\frac{3}{2} = 1 + r[/tex] \u00a0\u00a0(kali silang)<br><br>2 + 2r = 3\u00a0<br>2r = 1\u00a0<br>r =\u00a0[tex] \\frac{1}{2} [/tex]<br><br>Masukkan nilai r =\u00a0[tex] \\frac{1}{2} [/tex] ke :\u00a0<br>72 = a / (1 - r)\u00a0<br>72 = a / (1 -\u00a0[tex] \\frac{1}{2} [/tex])\u00a0<br>72 = a /\u00a0[tex] \\frac{1}{2} [/tex]\u00a0<br>2a = 72<br>a = 36\u00a0<br><br>Sehingga Untuk Urutan ke 3 :<br>\u21d2Un = [tex]a*r^{(n-1)} [/tex]\u00a0<br><br>\u21d2U\u2083 = 36 \u00d7\u00a0[tex](\\frac{1}{2})^{2} [/tex]\u00a0<br><br>\u21d2U\u2083\u00a0= 36\u00d7[tex] \\frac{1}{4} [/tex]\u00a0<br><br>\u21d2U\u2083\u00a0=\u00a0[tex] \\frac{36}{4} [/tex]<br><br>\u21d2U\u2083\u00a0= 9<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "3-bilangan-membentuk-barisan-geometri-jumlah-ke-3-bilangan-terseb-126",
+            "question": "3 bilangan membentuk barisan geometri jumlah ke 3 bilangan tersebut adalah 14, dan hasil kalinya 64. Tentukan ke 3 bilangan tersebut",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Dik : <br>Barisan geometri\u00a0 U\u2081 + U\u2082 + U\u2083 = 14\u00a0 ; U\u2081 x U\u2082 x U\u2083 = 64<br>Dit : <br>U\u2081\u00a0 ;\u00a0  U\u2082\u00a0  dan U\u2083<br>Jawab : <br>U\u2081 x U\u2082 x U\u2083 = 64 ==&gt; a x ar x ar\u00b2 = 64<br>a\u00b3 x r\u00b3 = 64 .... ruas kiri dan kanan diakar pangkat 3<br>ar = 4 ..... pers(1)<br><br>U\u2081 + U\u2082 + U\u2083 = 14 \u00a0 ==&gt;\u00a0 a + ar + ar\u00b2 = 14 \u00a0 ==&gt;\u00a0 a + ar + ar.r = 14 <br>a + 4 + 4r = 14 ==&gt; 4/r + 4 + 4r - 14 = 0\u00a0 \u00a0 ==&gt;\u00a0 4/r + 4r - 10 = 0 <br>4 + 4r\u00b2 - 10r = 0 ==&gt; 4r\u00b2 - 10r + 4 = 0 ==&gt; (4r - 2)(r - 2) = 0 <br>r = 1/2 atau r = 2 <br>untuk r = 1/2 maka a = 4/0,5 = 8 <br>maka bilangan yang dimaksud adalah : 8 , 4 , 2 <br>untuk r = 2, maka a = 4/2 = 2 <br>bilangan yang dimaksud adalah : 2 . 4 , 8 <br><br><br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "U\u2081 x U\u2082 x U\u2083 = 64\u00a0<br><span>sifat barisan geometri : U\u2081 x U\u2083 = U\u2082\u00b2\u00a0</span><br>maka didapat : U\u2082\u00b3 = 64 ----&gt; U\u2082 = 4 dan U\u2081 x U\u2083 = 16 ..... pers (1)<br>U\u2081 + U\u2082 + U\u2083 = 14<br><span>U\u2081 + 4 + U\u2083 = 14 ----&gt; U\u2081 + U\u2083 = 10 ......pers (2)\u00a0</span><br><span>dari pers 1 dan pers 2 didapat bilangan yang hasil kalinya 16 dan hasil jumlahnya 10 adalah 2 dan 8\u00a0</span><br><span>jadi bilangan yang dimaksud adalah 2 , 4 dan 8\u00a0</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "numpang-tanya-lagi-boleh-diket-x1-y4-dit-x23-678",
+            "question": "Numpang tanya lagi boleh,,,????    \u00a0diket : x=1, y=4\r\ndit : (x\u00b2/\u00b3 . y \u207b\u2074/\u00b3)\r\n\u00a0\u00a0 \u00a0 \u00a0 (y\u00b2/\u00b3 . x\u00b2)\r\n\u00a0mohon bantuanya,,, makasih :)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]x=1,y=4\\\\\n\\frac{x^{\\frac{2}{3}}y^{\\frac{-4}{3}}}{y^{\\frac{2}{3}}x^2}\\\\\n=\\frac{(1^{\\frac{2}{3}})(4^{\\frac{-4}{3}})}{(4^{\\frac{2}{3}})(1^2)}\\\\\n=\\frac{4^{\\frac{-4}{3}}}{4^{\\frac{2}{3}}}\\\\\n=4^{\\frac{-4}{3}-\\frac{2}{3}}\\\\\n=4^{\\frac{-6}{3}}\\\\\n=4^{-2}\\\\\n=\\frac{1}{16}[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "3-310-710-34-13-45-34-407",
+            "question": "3 3/10- 7/10=\r\n3/4-1/3=\r\n4/5-3/4=",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "3\u00a0 3/10 - 7/4 = 26/10 = 2\u00a0 6/10 = 2\u00a0 3/5<br>3/4 - 1/3 = 5/12<br>4/5 - 3/4 = 1/20<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-hp-dari-pertidaksamaan-di-bawa-ini-x-r-1-3x-41-776",
+            "question": "Tentukan HP dari pertidaksamaan di bawa ini (x \u2208 R)\r\n1. 3X-4\u226516+8X",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "3x-4\u00a0<span>\u2265 16+8x<br>3x-8x\u00a0</span><span>\u226516+4<br></span>-5x\u00a0<span>\u2265 20<br></span><span>5x\u00a0<u>&lt;</u> -20<br>x\u00a0<u>&lt;</u>-4<br><br>{x| x<u>&lt;</u>-4, x: R}<br><br></span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "contoh-perhitungan-uji-kenormalan-data-dengan-mengunakan-tabel-go-601",
+            "question": "Contoh perhitungan uji kenormalan data dengan mengunakan tabel goodness of fit",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Ini sepertinya soal per kuliahan ini, goodness of fit adalah uji untuk mengetahui tingkat normalitas dari sebuah data agar dipastikan terhindar dari autokorelasi, heteroskedastisitas, dan multikolininearitas <br><br>Saya kurang tahu apakah di tingkat SMA hal ini sudah diajarkan, tapi karena ditanyakan maka saya berusaha menjawab. <br><br>Untuk uji auto korelasi berfungsi mencari apakah ada gangguan pada data karena data yang digunakan berhubungan dengan data pada periode peridoe sebelumnya yang membuat sampel random menjadi tidak efektif. Rule of thumb nya pake uji durbit watson.<br>Kemudian untuk uji heterokedastisitas adalah menguji apakah ada varian yang besar sehingga membuat standar deviasi melebihi rata ratanya dan membuat bias dalam membaca hasil. Kalau ini bisa menggunakan uji table t.<br>Sedangkan uji multikolineritas adalah mencari apakah hubungan antar variabel independen lebih besar dari dependen kalau ini menggunakan uji F -test.<br><br>Kalau model sudah terbebas dari semua kesalahan ini (3) maka bisa dilihat dari tabel anova apakah adj r square nya besar. Contoh apabila r square nya (50%) maka artinya 50% dari fenomena yang diteliti bisa dicari / direpresentasikan dengan model tersebut.<br><br>Materi ini sudah masuk ke materi ekonometri untuk anak kuliah tingkat akhir, tapi dibahas tidak apa apa karena berkaitan juga dengan matematika.\u00a0 <br><br>Sukses ya<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apa-pengertian-algoritma-557",
+            "question": "Apa pengertian algoritma",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "algoritma (matematika)\u00a0adalah prosedur atau cara kerja atau proses yang dilakukan untuk menyelesaikan suatu permasalahan\u00a0(dalam\u00a0matematika)",
+                    "attachments": []
+                },
+                {
+                    "answer": "operasi matematika yang merupakan kebalikan dari eksponen \u00a0atau pemangkatan",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "selidiki-persamaan-kuadrat-berikut-a-x2-2x10-b2x2-2x0-c3-574",
+            "question": "Selidiki persamaan kuadrat berikut:    a) x\u00b2-2x+1=0\r\nb)2x\u00b2-2x=0\r\nc)3x\u00b2-2x+10=0\r\nd)x\u00b2-10=0\r\nberikan jawabannya dengan cara jalannya\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1). (x-1).(x-1)<br>2). (2x-2).(x-0)<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-x1-dan-x2-merupakan-akar-dari-persamaan-kuadrat-2x2-6x-430",
+            "question": "\u00a0    Jika x1 dan x2 merupakan akar dari\r\n persamaan kuadrat 2x2- 6x \u2013 8 = 0, nilai dari (x1 + x2)2\r\n \u2013 2x1. X2 adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]2x^2-6x-8=0\\\\\nx_1+x_2=\\frac{-b}{a}\\\\\nx_1+x_2=\\frac{-(-6)}{2}\\\\\nx_1+x_2=3\\\\\\\\\nx_1.x_2=\\frac{c}{a}\\\\\nx_1.x_2=\\frac{-8}{2}\\\\\nx_1.x_2=-4\\\\\\\\\n(x_1+x_2)^2-2(x_1.x_2)=(3)^2-2(-4)\\\\\n(x_1+x_2)^2-2(x_1.x_2)=17\\\\[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dengan-berjalan-kaki-askar-memerlukan-waktu-6-menit-untuk-sampai-292",
+            "question": "dengan berjalan kaki, askar memerlukan waktu 6 menit untuk sampai ke kampusnya. jarak antara rumah dan kampus 5/8 km. berapa kecepatan rata-rata askar berjalan?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "v = s :\u00a0 t<br>v= 5/8 : 360<br>v = 1,73 m/s",
+                    "attachments": []
+                },
+                {
+                    "answer": "kecepatan = m/s<br>5/8 km=625m<br>6 menit= 360 s<br>kecepatan= 625/360=1,736<br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

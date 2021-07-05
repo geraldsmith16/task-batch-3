@@ -1,0 +1,150 @@
+{
+    "question": "Manfaat dan bahaya radioisotop dan gelombang elektromagnetik",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "manfaat: memanfaatkan sinar-sinar radiasinya untuk berbagai kepetluan.sumber tenaga listrik<br>bahaya :dapat merusak jaringan pada makhluk hidup. dapat mengakibatkan tumor/ kanker",
+            "attachments": []
+        },
+        {
+            "answer": "manfaat : sebagai sumber tenaga listrik<br>bahaya : merusak jaringan, menyebabkan kanker<br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "sebuah-uji-dilakukan-terhadap-seutas-kawat-tembaga-dengan-jari-ja-661",
+            "question": "Sebuah uji dilakukan terhadap seutas kawat tembaga dengan jari-jari 1,00 mm untuk menentukan bagaimana kawat tembaga akan menahan tumpukan es ketika kawat digunakan sebagai jaringan listrik. Diperoleh hasil bahwa suatu gaya 300 N akan menyebabkan kawat tertarik dari panjang 100,00 m menjadi 100,11 m, dan ketika tumpukan es dibersihkan (dihilangkan), kawat kembali kepada panjang asalnya. Tegangan, regangan, dan modulus elastis kawat tembaga dalam satuan SI berturut-turut adalah ....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Dik F = 300 N<br>\u00a0\u00a0 \u00a0  lo = 100,00 m<br>\u00a0\u00a0 \u00a0 l = 100,11 m<br>Dit\u00a0 tegangan , regangan , modulus yong<br>jawab.<br><br>\u2208 regangan = \u0394l / lo<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 100,11-100,00 / 100,00<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 0,11 / 100,00<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0  = 0,0011 tanpasatuan<br><br>E elastisitas tembaga = 11.10^10 pa satuan dan tetapan elastisitas young untuk tembaga Sl<br><br>Tegangn = E young . \u2208regangan<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 11x10^10 .0,0011<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 121x10^6 N/m^2<br><br>like<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-benda-dengan-volume-q-mempunyai-koefisien-muai-volume-sebe-129",
+            "question": "Sebuah benda dengan volume Q mempunyai koefisien muai volume sebesar 8,5 x 10\u207b\u2075/ \u2070C. Jika benda tersebut dipanaskan, untuk mencari penambahan luas dan panjang , besar koefisien yg dipakai adalah ? \u00a0 (A). \u0391= 2,83 x 10\u207b\u2075/ \u2070C \u00a0 \u00a0 \u00a0 \u00a0\u0392= 5,66 x 10\u207b\u2075/ \u2070C \u00a0 (B). A= 5,66 x 10\u207b\u2075/ \u2070C \u00a0 \u00a0 \u00a0 \u00a0B= 2,83 x 10\u207b\u2075/ \u2070C \u00a0 (C). A= 2,8 x 10\u207b\u2074/ \u2070C \u00a0 \u00a0 \u00a0 \u00a0 B= 8,5 x 10\u207b\u2074/ \u2070C \u00a0 (D). A= 5,6 x 10\u207b\u2074/ \u2070C \u00a0 \u00a0 \u00a0 \u00a0 B= 8,5 x 10\u207b\u2074/ \u2070C \u00a0 (E). A= 8,5 x 10\u207b\u2075/ \u2070C \u00a0 \u00a0 \u00a0 \u00a0 B= 8,5 x 10\u207b\u2075/ \u2070C \u00a0 PILIHLAH JAWABAN DAN SERTAKAN CARA MENGERJAKAN !!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>(E). A= 8,5 x 10\u207b\u2075/ \u2070C\n<span>\u00a0 \u00a0 \u00a0 \u00a0 B= 8,5 x 10\u207b\u2075/ \u2070C</span></span> <br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "contoh-rangkaian-campuran-732",
+            "question": "Contoh rangkaian campuran",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "kendaraan bermotor yang sebagian besar komponennya terdapat beban listrik yang lebih banyak dari rangkaian seri<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "rangkaian antara rangkaian pararel dan rangkaian seri. contohnya rangkaian dalam kendaraan bermotor",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-beban-bermassa-m-digantungkan-pada-ujung-bawah-pegas-deng-511",
+            "question": "Sebuah beban bermassa\u00a0m digantungkan pada ujung bawah pegas dengan tetapan pegas\u00a0k=50 N/m. berapa periode osilasi pegas?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "periodenya<br>T = 2\u03c0\u221a[tex] \\frac{m}{50} [/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bagaimana-cara-menguraikan-gaya-pada-bidang-miring-511",
+            "question": "Bagaimana cara menguraikan gaya pada bidang miring ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kalau kita menguraikan gaya pada bidang miring, ada gaya normal yang tegak lurus dengan bidang. dan gaya berat yang selalu menuju pusat grafitasi. Kalau kita uraikan lebih detail kembali terdapat gaya Nx (gaya normal pada bidang x) dan gaya Ny( gaya bidang y), sedangkan pada W terdapat gaya Wx (gaya berat terhadap bidang x) dan gaya Wy(gaya berat terhadap bidang Y)",
+                    "attachments": []
+                },
+                {
+                    "answer": "dengan mengurangi ketinggian bidang miring dan menambah kepanjangan bidang nmiringnya",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "seorang-penderita-rabun-dekat-dengan-titik-dekat-05-m-ingin-memb-869",
+            "question": "seorang penderita rabun dekat dengan titik dekat 0,5 m ingin membaca pada jarak baca normal. jenis lensa kacamata yang harus digunakan dan jarak fokusnya adalah ..",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "ditolong dengan lensa cembung. fokusnya +2 .\nmaaf klo salah",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span>\u00a0lensa cembung. fokusnya +2 .</span><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "seorang-anak-melemparkan-sebuah-buku-fisika-kepada-temannya-yang-255",
+            "question": "seorang anak melemparkan sebuah buku fisika kepada temannya yang berada di lantai 2 setinggi 4 m dari tanah . buku tersebut ditangkap oleh temannya setelah 1,5 s. berapakah kecepatan awal buku tersebu?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "kecepatan awal =\u00a02,666666667 m/s",
+                    "attachments": []
+                },
+                {
+                    "answer": "h=vot-1/2gt^2<br>4=vo.1,5-1/2.10.1,5^2<br>4=1,5vo-11,25<br>15,25=1,5vo<br>vo=10,1 m/s<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pengertian-rotasi-gerak-dan-macam-macam-keseimbangan-statis-tolo-273",
+            "question": "Pengertian rotasi Gerak dan macam-macam keseimbangan statis?\r\nTolong dijawab bagi yang tau..",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "klo gx salah\u00a0si<br>gerak\u00a0Rotasi<span>\u00a0adalah perputaran benda pada suatu\u00a0</span>sumbu<span>\u00a0yang tetap, misalnya perputaran\u00a0</span>gasing<span>\u00a0dan perputaran\u00a0</span>bumi<span>pada poros/sumbunya.<br>klu keseimbangan statis aku gx tay</span>",
+                    "attachments": []
+                },
+                {
+                    "answer": "rotasi gerak : perputaran benda pada suatu sumbu yg tetap misalnya perputaran gangsing dan perputaran bumi pada poros dan sumbunya\u00a0<br>mungkin klo keseimbangan statis : kesadaran akan posisi kepala terhadap gaya gravitasi jika tubuh tdk brgrak\u00a0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "perhatikan-gambar-dibawah-ini-berikan-penjelasanya-juga-yaaa-ji-601",
+            "question": "Perhatikan gambar dibawah ini    Berikan penjelasanya juga yaaa..\r\n\r\nJika diketahui\u00a0\r\nI = 1,6 A\r\nI1 = 0,3 A\r\nI1 = I2 \u00a0dan\u00a0I3 =I4\r\nmaka\u00a0I4??\r\n\r\na. 0,3 A\r\nb. 0,5 A\r\nc. 1,3A\r\nd. 7A",
+            "attachments": [
+                "question-attachments/perhatikan-gambar-dibawah-ini-berikan-penjelasanya-juga-yaaa-ji-601-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "sesuai hukum kirchof, jumlah arus yang masuk sama dengan jumlah arus yang kluar,\u00a0<br>maka : I = I1 +I2 + I3 + I4<br>karena I1=I2 , sehingga\u00a0jika I1=0,3, maka I2=0,3<br>juga I3 = I4 \u00a0 \u00a0 (substitusi semua ke pers awal)<br>I = I1 +I2 + I3 + I4<br>1,6= o,3 +0,3+ I3 + I3<br>1,6 = 0,6 +2(I3)<br>2(I3) = 1<br>I3 = 0,5<br>karena I3 = I4, maka I4 = 0,5<br>jawaban b)",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "titik-berat-pelat-yang-bentuknya-seperti-gambar-dibawwah-adalah-632",
+            "question": "Titik berat pelat yang bentuknya seperti gambar dibawwah adalah",
+            "attachments": [
+                "question-attachments/titik-berat-pelat-yang-bentuknya-seperti-gambar-dibawwah-adalah-632-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "mav, hehe, fisika pa mm, saya coba ea, btul pa salah<br>-jk ttik brat thd sumbu x maka:<br>\u00a0\u00a0 -1.12+1.4+1.4 / -12+4+4 = y<br>\u00a0\u00a0 -12+4+4 / 20 = y<br>\u00a0\u00a0 y = -4/20<br>\u00a0\u00a0 y= -1/5<br><br>-jk ttik berat thd sumbu y<br>\u00a0 3.12+1.4+5.4 / 12+4+4 = x<br>\u00a0 36+4+20 / 20 = x<br>\u00a0 x= 60/20<br>\u00a0 x= 3<br><br>hehe, mav kalo GJ, pengawuran mode ON<br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

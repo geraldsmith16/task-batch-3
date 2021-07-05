@@ -1,0 +1,134 @@
+{
+    "question": "Sebutkan contoh penerapan :    1. Hukum Archimedes\r\n2. Hukum Pascal\r\n3. Hukum Bernuolli\r\ndalam teknologi ?\r\nmohon bantuannya",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "1. apabila sebuah benda, sebagian atau seluruhnya terbenam kedalam air makabenda trsbt mendapat gaya tekan ke atas sebesar berat air yg dipindahkan oleh benda tersebut. contoh benda\u00a0yg menggunakan prinsip ini : kapal laut<br>2. tekanan yang diberikan kepada zat cair akan diteruskan ke segala arah dengan sama besar. contoh penggunaan : peralatan hidrolik<br>3. j<span>umlah dari tekanan, energi kinetik persatuan volume, dan energi potensial persatuan volume mempunyai nilai yang sama pada setiap titik sepanjang suatu garis arus. contoh : manometer, tabung venturi</span>",
+            "attachments": []
+        },
+        {
+            "answer": "kalau archimedes kapal laut , \u00a0kalau pascal pesawat terbang , kalau bernoulli parfum atau semprotan nyamuk yang pakai tangkai\u00a0<br>mohon maaf kalau ada kesalahan :D",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "sebuah-uji-dilakukan-terhadap-seutas-kawat-tembaga-dengan-jari-ja-661",
+            "question": "Sebuah uji dilakukan terhadap seutas kawat tembaga dengan jari-jari 1,00 mm untuk menentukan bagaimana kawat tembaga akan menahan tumpukan es ketika kawat digunakan sebagai jaringan listrik. Diperoleh hasil bahwa suatu gaya 300 N akan menyebabkan kawat tertarik dari panjang 100,00 m menjadi 100,11 m, dan ketika tumpukan es dibersihkan (dihilangkan), kawat kembali kepada panjang asalnya. Tegangan, regangan, dan modulus elastis kawat tembaga dalam satuan SI berturut-turut adalah ....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Dik F = 300 N<br>\u00a0\u00a0 \u00a0  lo = 100,00 m<br>\u00a0\u00a0 \u00a0 l = 100,11 m<br>Dit\u00a0 tegangan , regangan , modulus yong<br>jawab.<br><br>\u2208 regangan = \u0394l / lo<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 100,11-100,00 / 100,00<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 0,11 / 100,00<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0  = 0,0011 tanpasatuan<br><br>E elastisitas tembaga = 11.10^10 pa satuan dan tetapan elastisitas young untuk tembaga Sl<br><br>Tegangn = E young . \u2208regangan<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 11x10^10 .0,0011<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 121x10^6 N/m^2<br><br>like<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tekanan-gas-yang-berada-dalam-suatu-ruangan-dikurangi-sehingga-me-983",
+            "question": "tekanan gas yang berada dalam suatu ruangan dikurangi sehingga menjadi 1/2 nya hal ini menyebabkan suhu gas tersebut turun menjadi 3/4 nya ,tentukan perbandingan volume gas akhir dan awal",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex] \\frac{1}{2} [/tex] :\u00a0[tex] \\frac{3}{4} [/tex] =\u00a0[tex] \\frac{6}{4} [/tex] = 3 : 2<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "[tex] \\frac{P1 x V1}{T1} =  \\frac{P2 x V2}{T2} [/tex]\u00a0 ( di soal kamu P1=1/2 P2 dan T1=3/4 T2 ) paham kak? <br>lalu masukan ke persamaan <br>[tex] \\frac{P1 x V1}{T1} =  \\frac{1/2 P1 x V2}{3/4 T1} [/tex]<br>( coret T1 dan P1 )\u00a0 <br>V1=[tex] \\frac{1}{2}: \\frac{3}{4} [/tex] V2 <br>V1/V2 = 2/3 <br><br><br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-mesin-dibuat-sedemikian-rupa-sehingga-mampu-menghasilkan-g-420",
+            "question": "sebuah mesin dibuat sedemikian rupa sehingga mampu menghasilkan gaya 15000\u00a0N mesin ini di gunakan pada sebuah mobil balap tersebut agar didapatkan akselerasi yg di harapkan bagaimana dengan massa penummpang?perlukah untuk di perhitungkan?jelaskan !",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "menurut saya perlu<br>ingat F = m.a<br>yang mempengaruhi gaya adalah massa dan percepatan(akselerasi)<br>tatkala hasil yg di inginkan adalah akselerasi<br>maka a= F/m<br>tentu saja massa tetap mempengaruhi akselerasi yang tejadi :)",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-bola-pejal-bermassa-05-kg-dan-jari-jari-20-cm-menggelind-174",
+            "question": "sebuah bola pejal bermassa 0,5 kg. dan jari jari 20 cm menggelinding pada lantai mendatar dengan kecepatan 8 m/s kemudian naik ke bidang miring. Tentukan ketinggian h maksimum yang dapat dicapai hingga bola berhenti sesaat",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>Mapel: Fisika</p><p>Kelas : XI SMA<br></p><p>Kategori \u00a0: dinamika rotasi<br></p><p>Kata Kunci : menggelinding, kecepatan, ketinggian, bidang miring, energi mekanik<br></p><p>Jawaban:<br></p><p>Jika bola menggelinding, berarti benda mengalami gerak translasi sekaligus rotasi. Untuk menyelesaikan soal tersebut, digunakan hukum kekekalan energi mekanik.<br></p><p>Diketahui:<br></p><p>m = 0,5 kg<br></p><p>R = 20 cm<br></p><p>v = 8 m/s<br></p><p>g = 10 m/s2<br></p><p>Ditanya: h saat berhenti sesaat<br></p><p>Jawab:<br></p><p>Mula-mula bola berada di lantai mendatar sehingga tidak memiliki energi potensial. Saat berada pada ketinggian maksimum, bola tidak memiliki energi kinetik. Momen inersia bola pejal besarnya 2/5 mR2 (k = 2/5)<br></p><p>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 EMA = EMB<br></p><p>EPA + EktransA + EkrotA = EPB + EktransB + EkrotB<br></p><p>\u00a0 \u00a0 0 + \u00bd. m. v2 + \u00bd. I. \u03c92 = m.g.h + 0 + 0<br></p><p>\u00a0 \u00a0 \u00a0 \u00bd. m. v2 + \u00bd. k. m. v2 = m.g.h<br></p><p>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00bd. m. v2 ( 1 + k ) = m.g.h<br></p><p>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0h = v2 ( 1 + k )/ 2.g<br></p><p>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0h = 8^2 (1 + 2/5)/ 2.10<br></p><p>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0h = 64. 1,4/20<br></p><p>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0h = 89,2/ 20 = 4,48 meter<br></p><p>Jadi, ketinggian maksimum yang dapat dicapai hingga bola berhenti sesaat adalah 4,48 meter.<br></p><p>Jika mau dihafalkan, rumus cepat untuk mencari ketinggian maksimum benda atau mencari kecepatan mula-mula benda yang menggelinding menaiki bidang miring adalah<br></p><p>h= [tex] \\frac{ v^{2} (1+k)}{2.g} [/tex]<br></p>\n\n<p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dari-beberapa-drum-yang-berisi-udara-yang-memiliki-massa-keseluru-729",
+            "question": "dari beberapa drum yang berisi udara yang memiliki massa keseluruhan 30 kg dan volum rata-rata 2,5 m\u00b3, digunakan untuk membuat jembatan ponton yang terapung di atas permukaan air. Berapa berat beban maksimum yang dapat ditahan oleh drum tersebut?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "kalau berat maksimum berarti w=F(archimedes) <br>w=Fa\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 w= \u03c1(rho air) . V(benda dalam fluida) . g <br>w=1000 . 2.5 .10 = 25000N <br>semoga membantu , kalau ada yg tidak paham tanya aja<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "penjelasan-tentang-momen-inersia-berbagai-benda-tegar-homogen-706",
+            "question": "Penjelasan tentang momen inersia berbagai benda tegar homogen",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Benda tegar tersusun dari banyak partikel yang tersebar di seluruh \nbagian benda. Momen inersia suatu benda tegar merupakan jumlah semua \nmomen inersia masing-masing partikel penyusun benda tegar.<br><br><br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span>Benda tegar tersusun dari banyak partikel yang tersebar di seluruh \nbagian benda. Momen inersia suatu benda tegar merupakan jumlah semua \nmomen inersia masing-masing partikel penyusun benda tegar.<br></span><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "ada-yang-tau-rumus-rumus-gerak-melingkar-beraturan-232",
+            "question": "Ada yang tau rumus rumus GERAK MELINGKAR BERATURAN ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>v = 2\u03c0R/T \u00a0\u00a0atau \u00a0v = 2\u03c0Rf</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dua-mobil-a-dan-b-mula-mula-diam-massa-mobil-a-dua-kali-mobil-b-777",
+            "question": "Dua mobil A dan B mula mula diam, Massa Mobil A dua kali mobil B agar dalam waktu yang sama kecepatan mobil B dua kali mobil A. Perbandingan usaha yang dilakukan mobil A dan Mobil B yang tepat adalah ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1:2<br>dapat diperoleh dari teori usaha = perubahan energi kinetik dengan rumus 1/2mv\u00b2<br>Untuk memastikan dapat dicoba.",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "modulus-young-aluminium-adalah-710-pangkat-10-pa-jika-seutas-ka-576",
+            "question": "modulus young aluminium adalah 7.10 pangkat 10 Pa. jika seutas kawat aluminium berdiameter 1.5 mm &amp; panjang50 cm direnggangkan 10 m. berapa gaya yang dikerjakan oleh kawat?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "F=7,0 x 10 pangkat 10 x 2,0x 10 pangkat -2 x 1,76 x 10 pangkat -4<br>F-247 N",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "modulus-elastisitas-alumunium-7x10-pangkat-10-nm2-jika-kawat-a-176",
+            "question": "modulus elastisitas alumunium 7x10 pangkat 10 n/m\u00b2. jika kawat alumunium berdiameter 1,5 mm dan panjang 50 cm direnggangkan 10 mm. hitunglah gaya yg di kerjakan pd kawat tsb",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "E = F kali\u00a0panjang mula-mula dibagi A (luas penampang) kali delta l (pertambahan panjang)<br>tuh<br>rumusnya, cari ayo :D",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

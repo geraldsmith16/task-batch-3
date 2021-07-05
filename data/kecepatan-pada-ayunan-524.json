@@ -1,0 +1,134 @@
+{
+    "question": "Kecepatan pada ayunan",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "V = A w cos wt<br>V = A 2phif cos 2phif t<br>V = A 2phi f : t cos 2phi :t t",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "sebuah-katrol-dengan-memiliki-massa-beban-2kg-massa-ktrol-2-kg-537",
+            "question": "Sebuah katrol dengan memiliki massa beban = 2kg massa ktrol =2 kg jari jari = 0.4 m    hitunglah\u00a0\r\n\r\na. momen inersia katrol\r\nb. momen gaya yang bekerja pada katrol\r\nc. percepatan sudut katrol\u00a0\r\n\r\nmohon segera dijawab karena pagi ini saya ngumpulkan tugas",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1---------------------------------------------<br>I=(1/2)MR\u00b2<br>l=(1/2) x 2 x (0,4)\u00b2<br>l=0,4 x 0,4<br>l=0,16 kgm\u00b2<br><br>2-----------------------------------------------<br>momen gaya = Fd<br><br>ingat.... F = w = m g\u00a0 dan d = r\u00a0 \u00a0  G= 9,8 atau dibulatkan mnjdi 10m/s\u00b2<br><br>momen gaya = (mg)r<br>momen gaya = (2 x 10) 0,4<br>momen gaya = 20 x 0,4<br>momen gaya = 20 x 0,4r<br>momen gaya = 8\u00a0 Nm<br><br>3------------------------------------------------<br>\u03b1=momen gaya : momen inersia<br>\u03b1= 8/0,16<br>\u03b1= 50 rad/s\u00b2<br><br>jadikan jwbn terbaik :D<br><br><br><br><br><br><br><br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-bola-pejal-bermassa-0036-kg-dan-jari-jari-12-cm-menggeli-832",
+            "question": "sebuah bola pejal bermassa 0,036 kg dan jari-jari 1,2 cm menggelinding menuruni suatu bidang miring. Bola pejal itu mula-mula bergerak dengan kecepatan 0,5 m/s. Berapakah kecepatan bola itu ketika ketinggiannya berkurang 14 cm? g=10 m/s \u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1. hukum kekekalan massa<br>1/2 m v\u00b2+m g h+ 1/2 I \u03c9\u00b2-1/2 m v\u00b2- I \u03a9\u00b2=0<br>1/2 m v\u00b2+m g h+1/2 I (v/r)\u00b2-1/2 m v\u00b2- 1/2 I (v/r)\u00b2=0<br>1/2 m v\u00b2+m g h+1/2 (2/5) (mr\u00b2) (v/r)\u00b2- 1/2 m v\u00b2- 1/2 ((2/5)(mr\u00b2))(v/r)\u00b2=0<br>sederhanakan<br>gh+7v\u00b2/10-7v\u00b2/10=0<br>(9.8)(0.14)+7(0.5)\u00b2/10-7v\u00b2/10=0<br>v=1.48661 m/s<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-bola-bermassa-04-kg-bergerak-dengan-laju-6-ms-dan-menumb-488",
+            "question": "Sebuah bola bermassa 0,4 kg bergerak dengan laju 6 m/s dan menumbuk bola lain bermassa 0,6 Kg yang sedang bergerak mendekatinya dengan laju 8 m/s. Kedua bola tersebut bertumbuk tidak lenting sempurna. Laju kedua bola setelah tumbukan adalah..",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>m1.v1 + m2.v2= (m1+v1) v&#039;</p><p>0.4.6 + 0.6.8= (0,4+0,6) v&#039;</p><p>2,4 + 4,8 = 1. v&#039;</p><p>7,2= v&#039;</p><p>jadi laju kedua bola setelah tumbukan adalah 7,2 m/s<br></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-sebuah-katrol-berbentuk-silinder-homogen-dengan-massa-2-241",
+            "question": "Diketahui sebuah katrol berbentuk silinder homogen dengan massa 2 kg,jari jari 20 cm,dan F=10 N.tentukan    a.momen gaya yang dikerjakan F pada katrol\r\n b.momen inersia katrol\r\n c.percepatan sudut katrol",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a.) momen gaya= F . r = 10 . 0,2 = 2 Nm\u00a0<br>b.) I = MR\u00b2 / 2 = 2 . 0,2\u00b2 = 0,08 kgm\u00b2\u00a0<br>c.) momen gaya = I .\u00a0\u03b1\u00a0\u21d4\u00a0\u03b1 = momen gaya / I = 2 / 0,08 = 25 rad/s\u00b2\u00a0<br>maaf kalau salah\u00a0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1batang-logam-panjangnya-300cm-dipanaskan-dari-25derajat-c-hing-479",
+            "question": "1.)Batang logam panjangnya 300cm dipanaskan dari 25derajat C hingga 225derajat C mengalami pertambahan panjang sebesar 0,6cm.Berapa pertambahan batang logam yang sama dengan panjang 200cm dan dipanaskan dari 20derajat hingga suhu 320derajatC    2.)Sekeping alumunium panjangnya 40cm dan lebarnya 30cm dipanaskan dari 40derajat C sampai 140derajat C.Jika koefisien muai panjang aluminium adalah 2,5 x 10pangkat -5/derajat C,berapakah luas keping alumunium setelah dipanaskan\r\n3.)Besi berbentuk kubus pada suhu 20derajat C memiliki panjang rusuk 10cm.Kubus tersebut dipanaskan hingga suhu 220derajat C.berrapa volume kubus pada suhu 220 deraja C jika koefisien muai panjang besi 1,2 x 10pangkat 5 /derajat C",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1.)Batang logam panjangnya 300cm dipanaskan dari 25derajat C hingga 225derajat C mengalami pertambahan panjang sebesar 0,6cm.Berapa pertambahan batang logam yang sama dengan panjang 200cm dan dipanaskan dari 20derajat hingga suhu 320derajatC<br><br>panjang 1 mpanjang kedua \u00a03,006[tex]\\triangle T = 200[/tex]<br>alfanya [tex]n * 10^{-6}[/tex]\u00a0<br>[tex]L_2=L_1 (1+\\alpha(t_2-t_1))[/tex]<br><br>[tex]\\frac{0.006}{x}= (200)[/tex]<span>alpha = 0.006/200 = 0.00003<br></span><br>panjang besi berikutnya\u00a0<br><br>[tex]L_2=L_1 (1+\\alpha(t_2-t_1))[/tex]<br>[tex]L_2=2(1+0.00003(300))[/tex]<br>201.8 cm<br><br>2.)Sekeping alumunium panjangnya 40cm dan lebarnya 30cm dipanaskan dari 40derajat C sampai 140derajat C.Jika koefisien muai panjang aluminium adalah 2,5 x 10pangkat -5/derajat C,berapakah luas keping alumunium setelah dipanaskan<br><br>[tex]A_2=A_1 (1+\\alpha(t_2-t_1))[/tex]<br>[tex]A_2=1.2 (1+\\0.000025(100))[/tex]<br><br>3.)Besi berbentuk kubus pada suhu 20derajat C memiliki panjang rusuk 10cm.Kubus tersebut dipanaskan hingga suhu 220derajat C.berrapa volume kubus pada suhu 220 deraja C jika koefisien muai panjang besi 1,2 x 10pangkat 5 /derajat C<br><br>[tex]V_2=10 (1+0.000012(200))[/tex]<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "ada-yang-tau-rumus-rumus-gerak-melingkar-beraturan-359",
+            "question": "Ada yang tau rumus rumus GERAK MELINGKAR BERATURAN ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "rumus gerak melingkar beraturan adalah<br>v = 2\u03c0R/T \u00a0\u00a0atau \u00a0v = 2\u03c0Rf\u00a0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dari-puncak-sebuah-menara-setinggi-45-m-dijatuhkan-sebuah-batu-j-959",
+            "question": "dari puncak sebuah menara setinggi 45 m dijatuhkan sebuah batu. jika percepatan gravitasi di tempat tersebut 10 m/s\u00b2, kecepatan batu saat tepat menyentuh tanah sebesar?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Dik = h : 45cm<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0g : 10 m/ [tex] s^{2} [/tex]\u00a0<br>Dit = V =  \\sqrt{2.g.h} ?<br>Penye =\n<br>V =  \\sqrt{2.10.45}<br>\u00a0 \u00a0=   \\sqrt{900}<br>\u00a0 \u00a0= 30[/tex]<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "EP = EK<br>mgh = 1/2 m v^2<br>gh = 1/2 v^2<br>45.10 = 1/2 v^2<br>900 = v^2<br>v = 30m/s<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "berapakah-energi-kinetik-bola-pejal-yang-menggelinding-dengan-kec-179",
+            "question": "Berapakah energi kinetik bola pejal yang menggelinding dengan kecepatan 10m/s. Jika masanya 20kg.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "EK = 1/2 * 20 * 10*10 = 1000 Joule",
+                    "attachments": []
+                },
+                {
+                    "answer": "Dik : m=20kg<br>\u00a0\u00a0 \u00a0 \u00a0\u00a0 v=10m/s<br>dit : Ek..?<br>Jwb : Ek = <u>1</u><em></em> . m . v\u00b2<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 2<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 =<u>1</u> . 20 . 10\u00b2<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 2<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 =<u>1</u> . 20 . 100<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 2<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 =<u></u><u>2000</u><u><br></u>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0\u00a0\u00a0\u00a0 2<u><br></u>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 = 1000 J<u><br></u><u></u>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "rangkaian-rl-seri-dihubungkan-dengan-sumber-tegangan-arus-bolak-b-388",
+            "question": "Rangkaian RL seri dihubungkan dengan sumber tegangan arus bolak balik dengan Vm=100v, hambatan R=80 ohm. Arus maksimum pada rangkaian sebesar 1 A .    tentukan :\r\na. impedansi rangkaian\u00a0\r\nb. reaktansi induktif\r\nc. teganagan antara ujung2 induktor\r\n\r\nmohon bantuannya?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "wow jawabannya kalo panjang gapapa tha kak<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-tongkat-homogen-sepanjang-50-cm-bermasa-4-kg-pada-salah-sa-611",
+            "question": "sebuah tongkat homogen sepanjang 50 cm bermasa 4 kg pada salah satu ujung tongkat diberi beban ,sedangkan ujung tongkat lainnya sebagai tumpuan .jika f= 200 N Momen gaya pada titik O adalah......N.m\u00a0\u00a0\u00a0\u00a0 (g=9.8 m/s2)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "momen inersia terhadap batang = <span><span>1/12m.l kuadrat + m(1/2) kuadrat = 1/3 ml kuadrat</span></span><br><br><br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span>tinggal di masukkin nilainya<br>sepertinya itu</span>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

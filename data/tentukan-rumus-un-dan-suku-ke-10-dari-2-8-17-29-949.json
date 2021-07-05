@@ -1,0 +1,150 @@
+{
+    "question": "Tentukan Rumus Un dan suku ke-10 dari:\r\n- 2, 8, 17, 29,..................Un",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "U10 = 1/2*10*10+17/2*10 +(-11)<br>\u00a0\u00a0 \u00a0\u00a0 = 50+85-11<br>\u00a0\u00a0 \u00a0\u00a0 = 124<br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "sebuah-lingkaran-dengan-juring-opq-mempunyai-sudut-135-derajat-159",
+            "question": "Sebuah lingkaran dengan juring\u00a0OPQ mempunyai\u00a0sudut 135 derajat di titik O (titik pusat). Diketahui panjang OP = 10 cm. Maka luas juring OPQ ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "135/360\u00a0\u00d7 3,14\u00a0\u00d7 10\u00a0\u00d7 10 = 117,75",
+                    "attachments": []
+                },
+                {
+                    "answer": "Luas Juring = sudut OPQ/360 x\u00a0\u03c0 x r\u00b2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 =135/360 x 3,14 x 10\u00b2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 =117,75 cm\u00b2",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tulislah-fakta-yg-berkaitan-dengan-soal-di-bawah-ini-435",
+            "question": "tulislah fakta yg berkaitan dengan soal di bawah ini\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 \u00a01.x-5=\u00a0\u00a0\u00a017\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 \u00a02.a+6=21\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 3.17+y=35",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>1.\u00a0x-5 = 7<br>x= 12<br><br>2. a+6= 21<br>a= 15<br><br>3. 17+y=35<br>y=18</span>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<br>Fakta sama dengan arti nilai x yang memenuhi suatu persamaan.\u00a0<br>Jawab:<br>1. x - 5 = 17<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 x\u00a0= 17 - 5<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 x = 22 (nilai x = 22, memenuhi persamaan x - 5 = 17)<br><br>2. a + 6 = 21<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 a = 21 - 6<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0a = 15 (nilai a = 15, memenuhi persamaan a + 6 = 21)<br><br>3. 17 + y = 35<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0y = 35 - 17<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 y \u00a0= 18 (nilai y = 18, memenuhi persamaan 17 + y = 35).<br><br><br>semoga bisa membantu ^_^,,,<br>maaf jika ada yang salah ^_^,,,<br>jika ada yang tidak dimengerti dari jawaban diatas, silahkan ditanyakan ^_^,,,<br><br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0\u00a0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apa-pengertian-dari-bangun-datar-jajar-genjang-594",
+            "question": "Apa pengertian dari bangun datar jajar\u00a0genjang\u00a0?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "jajar genjang adalah\u00a0<span>angun datar\u00a0</span>dua dimensi<span>\u00a0yang dibentuk oleh dua pasang\u00a0</span>rusuk<span>\u00a0yang masing-masing sama panjang dan\u00a0</span>sejajar<span>\u00a0dengan pasangannya, dan memiliki dua pasang\u00a0</span>sudut<span>\u00a0bukan\u00a0</span>siku-siku<span>\u00a0yang masing-masing sama besar dengan sudut di hadapannya.</span>",
+                    "attachments": []
+                },
+                {
+                    "answer": "bangun datar jajar genjang adalah bangun datar yang luas bidangnya di dapat dengan mengalikan alas dan tinggi bangun tersebut",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "di-kelsa-3-terdapat-100-siswayang-saling-berjabat-tangan-pada-ac-240",
+            "question": "di kelsa 3 terdapat 100 siswa,yang saling berjabat tangan pada acara halal bihalal.banyak jabat tangan yang terjadi dalam acara tersebut adalah....kali.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "100x2= 200 jawabnya 200",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apabila-5y-2-dijumlahkan-dengan-7y1-hasilnya-adalah-217",
+            "question": "Apabila -5(y-2) dijumlahkan dengan 7(y+1) hasilnya adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "-5(y-2)+7(y+1)<br>= -5y+10+7y+1<br>=2y+11",
+                    "attachments": []
+                },
+                {
+                    "answer": "-5 (y -2) + 7(y +1)<br>-5y +10 +7y +7<br>-5y +7y +10 +7<br>2y +17<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-bangun-segitiga-berbentuk-segitiga-dengan-sisi-2xcm-2xcm-525",
+            "question": "Sebuah bangun Segitiga berbentuk segitiga dengan sisi 2xcm, 2xcm ,3xcm . Jika keliling segitiga 126 cm,tentukan panjang masing - masing sisi segitiga tersebut!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "k=s+s+s<br>126=2x+3x+2x<br>126=7x<br>x=126/7<br>x=18<br><br>disubtitusikan<br>2x= 2.18 = 36<br>3x= 3.18 = 54<br><br>jadi panjang masing\" sisi adalah 36cm,36cm dan 54cm<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "2x+2x+3x = 126<br>7x = 126<br>x = 18<br><br>jadi panjang sisi sisinya :<br>1. 2x = 2 . 18 = 36<br>2. 2x = 2. 18 = 36<br>3. 3x = 3 . 18 = 54",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "2a-7-gt-5-merupakan-contoh-ptlsv-mengapa-981",
+            "question": "2a + 7 &gt;_ 5, merupakan contoh PTLSV mengapa",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Ada tiga alasan. Yaitu karena memiliki satu variabel. Dihubungkan dengan relasi lebih dari. Dan variabelnya berpangkat satu.<br><br>Btw, ini pelajaran kelas 7 SMP, pas banget aku juga lagi diajarin PLSV dan PTLSV sama guruku. Semoga bisa membantu ya :)<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "setelah-9-bulan-uang-tabungan-suci-di-koperasi-berjumlah-381400-418",
+            "question": "setelah 9 bulan uang tabungan suci di koperasi berjumlah 3.814.000. koperasi memberikan jasa bunga berupa 12% per tahun. tabungalawal sucidi koperasi adalah ........",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "3814:9 =423,78 x1000 = 423780 x12 =5085360 x88/100 =4475117 :12 =372926,5",
+                    "attachments": []
+                },
+                {
+                    "answer": "Tab.Awal=tab.akhir.100/100+%b<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0=381400000/109<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0=3.499.082,5",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "seorang-pedagang-buah-membeli-15-kg-jeruk-dengan-harga-rp60000-da-360",
+            "question": "seorang pedagang buah membeli 15 kg jeruk dengan harga Rp60000 dan 18 kg mangga dengan harga Rp54000 setiap 1 kg jeruk ia jual dengan harga Rp5.200 . supaya pedagang untung Rp54000 dari seluruh penjualan maka harga jual mangga per kg-nya adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "harga beli jeruk = 60000/15 = 4000 perkilo<br>keuntungan jeruk = 5200 - 4000 = rp 1200,-<br>total keuntungan menjual jeruk = 15 x 1200 =18000<br><br>keuntungan yang masih perlu didapat = 54000 - 18000 =36000<br><br>harga beli mangga = 54000<br>harga jual 18 kg mangga = 54000 + 36000 = 90000<br>harga jual 1 kilo mangga = 90000/18 kilo = Rp 5000,-<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pada-balok-klmnpqrs-berikut-ini-panjang-kl20cm-lm16cm-dan-lq1-681",
+            "question": "Pada balok KLMN.PQRS berikut ini panjang KL=20cm LM=16cm dan LQ=12 cm     hitunglah panjang LR dan Luas KLRS",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "LR^2=16^2\u00a0. 16^2<br>LR^2=256+256<br>LR^2=16/2 \u00a0 ket: / akar<br>luas KLRS = 20 . 16/2 = 320/2",
+                    "attachments": []
+                },
+                {
+                    "answer": "LR =\u00a0[tex] \\sqrt{LM + RM } [/tex]<br>=[tex] \\sqrt{16 ^{2} + 12 ^{2} } [/tex]<br>=[tex] \\sqrt{256 + 144} [/tex]<br>=\u00a0[tex] \\sqrt{400} [/tex]<br>= 20 CM\u00a0<br>L.KLRS = p x LR<br>=20 X 20<br>=400 cm^{2} [/tex]",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

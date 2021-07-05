@@ -1,0 +1,150 @@
+{
+    "question": "Kak tolong jelasin tentang Rumus hukum newton 2",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "percepatan yg dihasilkan oleh resultan gaya bekerja pada suatu benda berbanding lurus dgn resultan gaya dan searah dengan resultan gaya dan berbanding terbalik dgnn massa",
+            "attachments": []
+        },
+        {
+            "answer": "\"Percepatan sebuah benda berbanding lurus dengan resultan gaya dan berbalik terbalik dengan massa benda.\"<br>a= F/m<br><u></u><strong>S\u00a0F= m a</strong><br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "sebuah-uji-dilakukan-terhadap-seutas-kawat-tembaga-dengan-jari-ja-661",
+            "question": "Sebuah uji dilakukan terhadap seutas kawat tembaga dengan jari-jari 1,00 mm untuk menentukan bagaimana kawat tembaga akan menahan tumpukan es ketika kawat digunakan sebagai jaringan listrik. Diperoleh hasil bahwa suatu gaya 300 N akan menyebabkan kawat tertarik dari panjang 100,00 m menjadi 100,11 m, dan ketika tumpukan es dibersihkan (dihilangkan), kawat kembali kepada panjang asalnya. Tegangan, regangan, dan modulus elastis kawat tembaga dalam satuan SI berturut-turut adalah ....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Dik F = 300 N<br>\u00a0\u00a0 \u00a0  lo = 100,00 m<br>\u00a0\u00a0 \u00a0 l = 100,11 m<br>Dit\u00a0 tegangan , regangan , modulus yong<br>jawab.<br><br>\u2208 regangan = \u0394l / lo<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 100,11-100,00 / 100,00<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 0,11 / 100,00<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0  = 0,0011 tanpasatuan<br><br>E elastisitas tembaga = 11.10^10 pa satuan dan tetapan elastisitas young untuk tembaga Sl<br><br>Tegangn = E young . \u2208regangan<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 11x10^10 .0,0011<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 121x10^6 N/m^2<br><br>like<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "saat-beban-digantungkan-pada-pegas-apakah-beban-melakukan-gaya-532",
+            "question": "Saat beban digantungkan pada pegas, apakah beban melakukan gaya?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "tidak,,,,,,,,,,,,,,,",
+                    "attachments": []
+                },
+                {
+                    "answer": "melakukan gaya,apabila sebua pegas yang digantung diberi beban m pada ujungnya kemudian benda tersebut disimpangkan dari titik setimbangnya,maka beban pegas tersebut akan melakukan gerak bolak-balik (gaya) pada titik setimbangnya.<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "coba-jelasin-bagaimana-transformasi-lorentz-itu-soalnya-masih-921",
+            "question": "Coba jelasin bagaimana transformasi lorentz itu? \u00a0soalnya masih kurang ngerti aku. Thx:)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Transformasi Lorenz menyatakan transformasi ruang-waktu yang melandasi \nteori relativitas khusus antara dua pengamat yang bergerak dengan \nkecepatan konstan.<br>Transformasi Lorentz hanya berlaku untuk kerangka acuan yang bergerak \nseragam (tanpa percepatan) terhadap kerangka acuan lain. Pada \nkenyataannya kehadiran percepatan tidak dapat dipungkiri dalam kehidupan\n sehari-hari. Contohnya adalah: jika penumpang keretaapi tadi menarik \nrem darurat tiba-tiba, maka ia akan merasakan percepatan ke arah \nlokomotif, atau keretaapi mengalami perlambatan. Jika hanya bermodalkan \nTRK, maka keraguan terhadap prinsip relativitas akan merasuki kita untuk\n kasus ini. Namun Einstein berusaha mencari pemecahannya dengan motivasi\n bahwa hukum alam tetap sama untuk kerangka acuan jenis apapun.         \n <br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span>\u00a0transformasi Lorentz ditemukan pengabaian fundamental pada arah sebaran cahaya dari objek kepada pengamat yang mengakibatkan tidak terpenuhinya kondisi tertentu dalam konsep koordinat ruang dan waktu.</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apakah-semua-jenis-gaya-menyebabkan-pertambahan-panjang-pegas-269",
+            "question": "Apakah semua jenis gaya menyebabkan pertambahan panjang pegas ?\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "semua jenis gaya mungkin bisa <br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-bola-pejal-dengan-massa-6-kg-dan-berjari-jari-20-cm-berger-996",
+            "question": "sebuah bola pejal dengan massa 6 kg dan berjari-jari 20 cm bergerak pada kelajuan 30 m/s sambil berputar. total energi kinetiknya adalah....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "ek=1/2\u00d7m\u00d7v\u00b2<br>ek=1/2.6.30\u00b2<br>ek=2700<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Ek= 1/2 . m. v \u00b2 + 1/2.I.\u03c9\u00b2<br>\u00a0\u00a0 \u00a0= 1/2. 6. 900 + 1/2. (1/2.6.0,04). (900/0,04)<br>\u00a0\u00a0 \u00a0 = 2700 + 1350<br>\u00a0\u00a0 \u00a0 = 4050 m/s\u00b2",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "kecepatan-pada-ayunan-524",
+            "question": "Kecepatan pada ayunan",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "V = A w cos wt<br>V = A 2phif cos 2phif t<br>V = A 2phi f : t cos 2phi :t t",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apa-yang-mempengaruhi-gaya-archimedes-yang-bekerja-pada-sebuah-be-775",
+            "question": "Apa yang mempengaruhi gaya archimedes yang bekerja pada sebuah benda ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>Di dalam\nilmu fisika, gaya adalah pengaruh apapun yang\ndapat menyebabkan sebuah benda bermassa mengalami perubahan, baik\ndalam bentuk gerakan, arah, maupun konstruksi geometris.[1]. Dengan kata lain, sebuah gaya\ndapatmenyebabkan sebuah objek dengan massa\ntertentu untuk mengubah kecepatannya (termasuk\nuntuk bergerak dari keadaan diam),\natau berakselerasi, atau untuk terdeformasi.\nGaya memiliki besar\ndan arah, sehingga merupakan besaran vektor. Satuan SI yang digunakan untuk mengukur gaya\nadalah Newton\n(dilambangkan dengan N). Gaya sendiri dilambangkan dengan simbol F.</span>\n\n<span>Hukum kedua Newton\nmenyatakan bahwa gaya bersih yang bekerja pada suatu benda sama dengan kecepatan\npada saat momentumnya berubah terhadap waktu. Jika massa\nobjek konstan, maka hukum ini menyatakan bahwa percepatan objek berbanding lurus dengan gaya\nyang bekerja pada objek dan arahnya juga searah dengan gaya tersebut,\ndinyatakan dengan</span>\n\n<span>Konsep yang\nberhubungan dengan gaya antara lain: gaya hambat, yang mengurangi kecepatan benda, torsi\nyang menyebabkan perubahan\nkecepatan rotasi benda. Pada objek yang diperpanjang, setiap bagian\nbenda menerima gaya, distribusi gaya ke setiap bagian ini disebut regangan.\nTekanan merupakan regangan sederhana. Regangan\nbiasanya menyebabkan deformasi\npada benda padat, atau aliran pada benda cair.</span>\n\n<br><br><br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "gaya archimedes adalah gaya angkat suatu benda dalam zat cair dan mempengaruhi keadaan benda tersebut apakah melayang / tenggelam / terapung\u00a0<br>tergantung dari massa jenis zat cair , volume benda , dan percepatan gravitasi\u00a0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tinggi-nada-senar-gitar-tergantung-1-4-558",
+            "question": "Tinggi nada senar gitar tergantung ?\u00a0\r\n( 1-4)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "frekuensi gelombang longitudinal nya<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "frekuensi dari gelombang longitudinal\u00a0gitar itu sendiri",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-benda-dengan-volume-q-mempunyai-koefisien-muai-volume-sebe-129",
+            "question": "Sebuah benda dengan volume Q mempunyai koefisien muai volume sebesar 8,5 x 10\u207b\u2075/ \u2070C. Jika benda tersebut dipanaskan, untuk mencari penambahan luas dan panjang , besar koefisien yg dipakai adalah ? \u00a0 (A). \u0391= 2,83 x 10\u207b\u2075/ \u2070C \u00a0 \u00a0 \u00a0 \u00a0\u0392= 5,66 x 10\u207b\u2075/ \u2070C \u00a0 (B). A= 5,66 x 10\u207b\u2075/ \u2070C \u00a0 \u00a0 \u00a0 \u00a0B= 2,83 x 10\u207b\u2075/ \u2070C \u00a0 (C). A= 2,8 x 10\u207b\u2074/ \u2070C \u00a0 \u00a0 \u00a0 \u00a0 B= 8,5 x 10\u207b\u2074/ \u2070C \u00a0 (D). A= 5,6 x 10\u207b\u2074/ \u2070C \u00a0 \u00a0 \u00a0 \u00a0 B= 8,5 x 10\u207b\u2074/ \u2070C \u00a0 (E). A= 8,5 x 10\u207b\u2075/ \u2070C \u00a0 \u00a0 \u00a0 \u00a0 B= 8,5 x 10\u207b\u2075/ \u2070C \u00a0 PILIHLAH JAWABAN DAN SERTAKAN CARA MENGERJAKAN !!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>(E). A= 8,5 x 10\u207b\u2075/ \u2070C\n<span>\u00a0 \u00a0 \u00a0 \u00a0 B= 8,5 x 10\u207b\u2075/ \u2070C</span></span> <br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apa-yang-dimaksut-dengan-torsi-906",
+            "question": "Apa yang dimaksut dengan torsi ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>Torsi adalah<em> kemampuan suatu gaya menghasilkan perputaran (rotasi) benda terhadap suatu poros atau pada sumbu putarnya.</em></span><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "sebuah besaran yang menyatakan besarnya gaya yang bekerja pada sebuah benda sehingga mengakibatkan benda tersebut berotasi\u00a0",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

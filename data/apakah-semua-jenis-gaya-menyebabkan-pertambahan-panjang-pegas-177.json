@@ -1,0 +1,144 @@
+{
+    "question": "Apakah semua jenis gaya menyebabkan pertambahan panjang pegas ?",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "belum tentu, liat massa jga kk...<br><br>",
+            "attachments": []
+        },
+        {
+            "answer": "semua gaya mempengaruhi pegas<br>tetapi gaya tarik menyebabkan pertambahan panjang,sedangkan gaya dorong atau tekan menyebabkan pemendekann pada pegas :)",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "suatu-pipa-seragam-dengan-panjang-20-m-dan-massa-20-kg-disangga-o-295",
+            "question": "Suatu pipa seragam dengan panjang 20 m dan massa 20 kg disangga oleh penumpu pada salah satu titik di pipa tersebut. Ketika ujung kiri diberi beban 10 kg dan titik tumpu berada pada jarak 2 m dari tengah pipa, massa beban yang harus diberikan pada ujung kanan pipa agar terjadi keseimbangan adalah...........kg",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Ini penumpunya 2 meter disebelah kanan apa kiri dari tengahnya? <br>kalo di sebelah kiri benda di kanan bermassa :<br>20.8=.x.12<br>x=160/12=13,333 kg<br>kalo disebelah kanan<br>20.12=x.8<br>x=240/8=30 kg<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "diket= P pipa= 20m, m1=10kg, s1=12m , s2=8m<br>jawab: m1 . s1 = m2 .s2<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0\u00a0 10 . 12 = m2 . 8<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0  120 = 8m<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 m= 120 : 8<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0  m= 15kg<br>jadi, di ujung kanan harus di beri beban 15kg agar setimbang<br><br>maaf kalo GJ, saya krg paham ama soalnya,.<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apa-yang-dimaksut-dengan-torsi-906",
+            "question": "Apa yang dimaksut dengan torsi ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>Torsi adalah<em> kemampuan suatu gaya menghasilkan perputaran (rotasi) benda terhadap suatu poros atau pada sumbu putarnya.</em></span><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "sebuah besaran yang menyatakan besarnya gaya yang bekerja pada sebuah benda sehingga mengakibatkan benda tersebut berotasi\u00a0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apa-itu-sebenarnya-momentum-311",
+            "question": "Apa itu sebenarnya momentum?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "momentum adalah saat yang menentukan<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Dalam\u00a0fisika<span>,\u00a0</span>momentum<span>\u00a0atau\u00a0</span>pusa<span>\u00a0adalah besaran yang berhubungan dengan\u00a0</span>kecepatan<span>\u00a0dan\u00a0</span>massa<span>\u00a0suatu benda.</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-bola-pejal-yang-massanya-10-kg-dan-jari-jarinya-20-cm-meng-777",
+            "question": "sebuah bola pejal yang massanya 10 kg dan jari-jarinya 20 cm menggelinding dengan kecepatan 8 m/s . berapakah energi kinetiknya?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "ek = 1/2 . mv^2 = 1/2 . 10 kg . 8^2 = 1/2 . 10. 64 = 320 joule<br>ingat ya m= 10 kg<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 v = 8 m/s<br>jika m dan v sudah diketahui kita uda bisa ngerjain energi kinetiknya :)",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-pipa-berbentuk-pipa-u-berisi-air-dan-minyak-tinggi-kolom-346",
+            "question": "Sebuah pipa berbentuk pipa U berisi air dan minyak. Tinggi kolom minyak 20 cm dan tinggi kolom air 10 cm. Jika massa jenis air 1.000 kg/m3, maka hitunglah massa jenis minyak!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Massa jenis air = row1<br>massa jenis minyak = row 2<br>Tinggi air = A1<br>Tinggi minyak = A2<br><br>Row 2/A2 = Row 1/A1<br>Row 2/20 cm = 1000kg.m3/10cm<br>Row 2/ 0.2 m = 1000kg.m3/0.1 m<br>Row 2 = 1000kg.m3/0.1 m * 0.2 m<br><br>Row 2 =\u00a0 2000kg.M3<br><br>NB : / itu per<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "perhatikan-gambar-dibawah-ini-berikan-penjelasanya-juga-yaaa-ji-601",
+            "question": "Perhatikan gambar dibawah ini    Berikan penjelasanya juga yaaa..\r\n\r\nJika diketahui\u00a0\r\nI = 1,6 A\r\nI1 = 0,3 A\r\nI1 = I2 \u00a0dan\u00a0I3 =I4\r\nmaka\u00a0I4??\r\n\r\na. 0,3 A\r\nb. 0,5 A\r\nc. 1,3A\r\nd. 7A",
+            "attachments": [
+                "question-attachments/perhatikan-gambar-dibawah-ini-berikan-penjelasanya-juga-yaaa-ji-601-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "sesuai hukum kirchof, jumlah arus yang masuk sama dengan jumlah arus yang kluar,\u00a0<br>maka : I = I1 +I2 + I3 + I4<br>karena I1=I2 , sehingga\u00a0jika I1=0,3, maka I2=0,3<br>juga I3 = I4 \u00a0 \u00a0 (substitusi semua ke pers awal)<br>I = I1 +I2 + I3 + I4<br>1,6= o,3 +0,3+ I3 + I3<br>1,6 = 0,6 +2(I3)<br>2(I3) = 1<br>I3 = 0,5<br>karena I3 = I4, maka I4 = 0,5<br>jawaban b)",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tekanan-gas-yang-berada-dalam-suatu-ruangan-dikurangi-sehingga-me-983",
+            "question": "tekanan gas yang berada dalam suatu ruangan dikurangi sehingga menjadi 1/2 nya hal ini menyebabkan suhu gas tersebut turun menjadi 3/4 nya ,tentukan perbandingan volume gas akhir dan awal",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex] \\frac{1}{2} [/tex] :\u00a0[tex] \\frac{3}{4} [/tex] =\u00a0[tex] \\frac{6}{4} [/tex] = 3 : 2<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "[tex] \\frac{P1 x V1}{T1} =  \\frac{P2 x V2}{T2} [/tex]\u00a0 ( di soal kamu P1=1/2 P2 dan T1=3/4 T2 ) paham kak? <br>lalu masukan ke persamaan <br>[tex] \\frac{P1 x V1}{T1} =  \\frac{1/2 P1 x V2}{3/4 T1} [/tex]<br>( coret T1 dan P1 )\u00a0 <br>V1=[tex] \\frac{1}{2}: \\frac{3}{4} [/tex] V2 <br>V1/V2 = 2/3 <br><br><br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "kenapa-energi-potensial-pada-listrik-statis-skalar-ttapi-medan-da-869",
+            "question": "Kenapa energi potensial pada listrik statis skalar ttapi medan dan gaya listrik vektor?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "karena energi memiliki nilai saja\u00a0tidak memiliki arah maka merupakan\u00a0vektor<br>medan dan gaya listrik memiliki nilai dan\u00a0arah yaitu muatan + ke - sehinnga merupakan besaran skalar",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bola-05-kg-dijatuhkan-diatas-pegas-dari-ketinggian-2-m-ketika-t-576",
+            "question": "bola 0,5 kg dijatuhkan diatas pegas dari ketinggian 2 m. ketika tertimpa bola, pegas tersebut mampat sejauh 20cm. tentukan konstanta pegas tsb.. (g=10m/s^2)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "mgh=1/2 k \u0394x\u00b2<br>k=\u00a0[tex] \\frac{2mgh}{\u0394x\u00b2} [/tex]<br>tinggal masukin angkanya ntr dapet k=500 N/m.<br>jangan lupa 20 cm nya rubah dulu ke m",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suatu-lensa-bikonveks-jari-jari-kelengkungannya-masing-masing-10-648",
+            "question": "Suatu lensa bikonveks ,jari-jari kelengkungannya masing-masing 10 cm dan 40 cm, indeks bias kacanya nk =1,5 . Kemudian, lensa dimasukkan ke dalam minyak yang indeks biasnya n =1,2. Maka kekuatan lensanya dalam minyak ialah.... dioptri.    a. 3,125 \r\nb. 3,250\r\nc. 4,125\r\nd. 4,250\r\ne. 5,250\r\n\r\njawabnya ,tolong pakek cara,ya!!! Biar ngerti cara ngerjain soalnya juga :D",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "tiga dua lima puluh bukan<br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

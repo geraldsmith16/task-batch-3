@@ -1,0 +1,129 @@
+{
+    "question": "Tentukan persamaan bidang yang melalui\u00a0titik- titik\u00a0P ( 3,2,1,); Q ( 4,1,5 ); R ( 2,4,3 )",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "3x + 2y + z = 0\u00a0 \u00a0 <br>4x + y + 5z = 0<br>2x + 4y + 3z = 0<br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "deskripsi-tentang-konsep-dasar-sudut-347",
+            "question": "Deskripsi tentang konsep dasar sudut?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "sudut adalah titik yang dibentuk oleh 2 garis yang bersinggungan atau berpotongan",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "gambarlah-grafik-fungsi-kuadrat-1-y-2x2-7x-2-12-2-y-640",
+            "question": "Gambarlah grafik fungsi kuadrat\r\n 1. y = 2x^2 - 7x + 2 1/2\r\n 2. y = -x^2 + 4x - 3",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "nih gambarnya, silakan dipelajari",
+                    "attachments": [
+                        "answer-attachments/gambarlah-grafik-fungsi-kuadrat-1-y-2x2-7x-2-12-2-y-640-1.png",
+                        "answer-attachments/gambarlah-grafik-fungsi-kuadrat-1-y-2x2-7x-2-12-2-y-640-2.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-hp-dari-pertidaksamaan-di-bawa-ini-x-r-1-3x-41-776",
+            "question": "Tentukan HP dari pertidaksamaan di bawa ini (x \u2208 R)\r\n1. 3X-4\u226516+8X",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "3x-4\u00a0<span>\u2265 16+8x<br>3x-8x\u00a0</span><span>\u226516+4<br></span>-5x\u00a0<span>\u2265 20<br></span><span>5x\u00a0<u>&lt;</u> -20<br>x\u00a0<u>&lt;</u>-4<br><br>{x| x<u>&lt;</u>-4, x: R}<br><br></span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-barisan-geometri-mempunyai-9suku-suku-tengah-ut768-u3-529",
+            "question": "Sebuah barisan geometri mempunyai 9suku, suku tengah (Ut)=768, U3=48,diantara tiap dua suku, disisipkan sebuah suku baru sehingga diperoleh barisan geometri baru. Tentukanlah Rasio,banyaks suku(n) dan U15 dari suku baru tersebut! :)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "tyeryreyjeriyjeriyjerjyierjyieryj<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bagaimana-cara-menentukan-akar-akar-persamaan-kuadrat-baru-yang-a-112",
+            "question": "Bagaimana cara menentukan akar-akar persamaan kuadrat baru yang akar-akarnya berlawanan dan berkebalikan ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "persamaan kuadrat baru yang akar-akarnya berkebalikan<br>1.menghitung variabel baru berdasarkan rumus x1+x2=-b/a dan x1.x2=c/a<br>2.masukkan kerumus ax^2-bx+c<br>persamaan kuadrat baru yang akar-akarnya\u00a0 berlawanan<br>ubah tanda koefisien b<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "hasil-kali-dari-x-x1-x-x2-tolong-dijelaskan-secara-rinc-163",
+            "question": "Hasil kali dari (X - X1) (X- X2) ?? Tolong dijelaskan secara rinci :)\r\nthnks~ ;)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "dikali satu satu ruas kiri ke kanan =\u00a0<br>X^2-2X-X1X2",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span> (X-X1) (X-X2) = </span>[(X-X1)X + (X-X1)(-X2)<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 = X\u00b2-X1X+(-XX2)+X2X1)<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 X\u00b2-X1X-XX2+X2X1<br><br><br>Semoga membantu.<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suatu-percobaan-di-lakukan-dengan-melempar-undi-3-mata-uang-logam-833",
+            "question": "Suatu percobaan di lakukan dengan melempar undi 3 mata uang logam secara bersamaan sebanyak 64 kali frekuensi harapan munculnya sisi gambar lebih dari satu adalah.....    a.8 \u00a0 b.24 \u00a0 c.32 \u00a0 d.40 \u00a0 e.48\r\n\r\ntolong yang dengan cara kerjanya kalau bisa dengan rumusnya :)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "P (A) = n (A) / n (S) = 4/8<br>maka Fh (A) = P (A) X n<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 4/8 X 64<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 32 (c)<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "mencari-simbol-o-1-62-362-2-55-1-486",
+            "question": "Mencari simbol o !    1. 6\u00b0\u207a\u00b2 = (36)\u00b0\u207a\u00b2\r\n\r\n2. \u221a5\u00b0\u207b\u2075 = 1\r\n\r\n\r\n3. (\u221a10)\u00b0\u207b\u00b2 = 0,1\r\n\r\n\r\n\r\n4. \u221a2\u00b0\u207a\u00b3 = (1/4)\u00b0\u207a\u2074",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "ganti jadi huruf p ya<br><br>1.<br>basisnya beda (6 dan 36)<br>pangkatnya sama (p+2)<br>jadi hanya ada 1 solusi pada saat p+2=0<br>atau p=-2<br><br>2.<br>supaya hasilnya 1, maka pangkatnya harus nol<br>p-5=0<br>p=5<br><br>3.<br>[tex] (\\sqrt{10} )^{p-2}=0,1\\\\\n (10^{1/2} )^{p-2}=10^{-1}\\\\\n (10)^{(p-2)/2}=10^{-1}\\\\\n\\frac{p-2}{2}=-1\\\\\np=0\n[/tex]<br><br>4.<br>[tex] \\sqrt{2^{p+3}}=( \\frac{1}{4})^{p+4}  \\\\\\\\\n 2^{\\frac{p+3}{2}}=(2^{-2})^{p+4}  \\\\\\\\\n 2^{\\frac{p+3}{2}}=2^{-2p-8}  \\\\\\\\\n\\frac{p+3}{2}}={-2p-8}  \\\\\\\\\np+3=-4p-16\\\\\np= -\\frac{19}{5} [/tex]<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "daerah-asal-dari-fungsi-yfxx-1x-adalah-751",
+            "question": "Daerah asal dari fungsi \r\ny=f(x)=(x-1)/x adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]y=\\frac{x-1}{x}\\\\\ndaerah\\ asal\\ fungsi\\ tsb\\ (domain)\\ adalah\\ \\{x \\neq 0, x \\in Real\\} [/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "deret-geometri-dengan-u5-dan-u8-masing-masing-48-dan-384-tentuka-109",
+            "question": "Deret geometri dengan U5 dan U8 masing masing 48 dan 384.    Tentukan jumlah 9 suku pertama serta langkah2 nya.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]U_5=ar^4=48\\\\\nU_8=ar^7=384\\\\\\\\\nar^7=384\\\\\nar^4.r^3=384\\\\\n48r^3=384\\\\\nr^3=8\\\\\nr=2\\\\\nar^4=48\\\\\na(2^4)=48\\\\\n16a=48\\\\\na=3\\\\\\\\\nS_n=\\frac{a(r^n-1)}{r-1}\\\\\nS_9=\\frac{3(2^9-1)}{2-1}\\\\\nS_9=3(512-1)\\\\\nS_9=1533[/tex]",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

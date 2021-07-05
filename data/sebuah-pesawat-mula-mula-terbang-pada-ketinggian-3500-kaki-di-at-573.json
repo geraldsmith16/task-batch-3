@@ -1,0 +1,138 @@
+{
+    "question": "sebuah pesawat mula-mula terbang pada ketinggian 3.500 kaki di atas permukaan laut. karena gumpalan awan, pesawat terbang naik sampai ketinggian 8.000 kaki. tentukan posisi pesawat dengan penjumlahan bilangan bulat !",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "8000 + (-3500) = 4500",
+            "attachments": []
+        },
+        {
+            "answer": "3500 + n = 8000<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0n = 8000 - 3500<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0n = 4500 m<br>Jadi kenaikan pesawat 4500 m<br>atau<br>0+3500 m + n = 8000<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0n = 8000-0-3500<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0n = 4500\u00a0m<br>0 meter = posisi pesawat saat belum terbang\u00a0<br>3500 meter = posisi pesawat ketika terbang<br>8000 meter = posisi kenaikan pesawat",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "tentukanlah-penyelesaian-dari-pertidaksamaan-berikut-a-2x-4-gt-130",
+            "question": "Tentukanlah penyelesaian dari pertidaksamaan berikut    a. 2x-4 &gt; 3x+9\r\nb. \u00a02y-7\u00a0\u2264 3\r\n\u00a0 \u00a0 \u00a0 \u00a02\r\n\r\nTolong beri cara utk mengerjakannya juga ya :)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "A. 2x-4 &gt; 3x + 9<br>\u00a0 \u00a0 2x - 2x -4 &gt; 3x+ 9<br>\u00a0 \u00a0 -4 &gt; x + 9<br>\u00a0 \u00a0 -4 - 9 &gt; x + 9 -9<br>\u00a0 \u00a0 \u00a0 \u00a0-13 &gt; x<br>B.\u00a0[tex] \\frac{2y-7}{2} [/tex] <u>&lt;</u> 3<br>\u00a0 \u00a0 semua dikalikan 2 menjadi<br>\u00a0 \u00a0 2y-7 <u>&lt;</u> 6<br>\u00a0 \u00a0 2y - 7 + 7\u00a0<u>&lt;</u> 6 + 7<br>\u00a0 \u00a0 \u00a02y\u00a0<u>&lt;</u> 13<br>\u00a0 \u00a0 \u00a02y : 2\u00a0<u>&lt;</u> 13 : 2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0y\u00a0<u>&lt;</u> 6,5",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "panjang-diagonal-persegi-adalah-8cm-luas-persegi-tersebut-adala-645",
+            "question": "Panjang diagonal persegi adalah 8cm\u00a0\r\nluas persegi tersebut adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]a^2 + a^2 = 8^2 \\\\ 2a^2 = 64 \\\\ a^2 = 32 \\\\ \\\\ L= s^{2} = a^{2} =32  cm^{2} [/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "gradien-garis-3y-5x120-adalah-426",
+            "question": "Gradien garis 3y-5x+12=0 adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]Gradien \\\\  \\\\  \\frac{-a}{ b}= \\frac{-(-5)}{3}= \\frac{5}{3}   \\\\  \\\\ gradien=5/3[/tex]",
+                    "attachments": []
+                },
+                {
+                    "answer": "3y= 5x-12<br>y = 5/3x - 12/3<br>y\u00a0 = 5/3x - 4<br>m= 5/3<br>lupa gradien garis yang \"y\" atau yang \"m\" <br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "untuk-1-hari-1-malam-24-jam-ada-berapa-kali-putaran-jam-menent-746",
+            "question": "Untuk 1 hari 1 malam (24 jam), ada berapa kali putaran jam menentukan ukuran sudut terbesar dari :    a. 90\u00b0\r\nb. 150\u00b0\r\nc. 180\u00b0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a. 48x<br>b. 48x<br>c.24x<br>a dan b : 1 jam 2x putaran<br>c : 1 jam 1x putaran.<br>jadi, a dan b : 2x24 = 48<br>c : 1x24 = 24<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sederhanakanlah-5-akar-3-43-6-akar-2-3-akar-2-552",
+            "question": "Sederhanakanlah 5 akar 3 + 43 + 6 akar 2 - 3 akar 2",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "43 + 3 akar2 + 5 akar3<br>itu adalah jawaban yang paling sederhana",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suku-ke-4-suku-ke-7-barisan-aritmetika-masing-masing-19-dan-24-su-644",
+            "question": "Suku ke-4 suku ke-7 barisan aritmetika masing-masing 19 dan 24 suku pertama adalah...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "u4 = 19<br>u4= a+(4-1)b =&gt; 19 = a+3b / x2 \u00a0=&gt; 38=2a+6b<br>u7 = 24<br>u7=a+(7-1)b =&gt; 24=a+6b \u00a0/x1 \u00a0 \u00a0=&gt; \u00a024=a+6b<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 ---------------- ----<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 14= a \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 19=14+3b<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a05=3b<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a05/3=b<br>u1 = a+b<br>\u00a0 \u00a0 \u00a0 14+5/3<br>\u00a0 \u00a0 \u00a0 42/3+5/3 \u00a0= 47/3 = 15 2/3",
+                    "attachments": []
+                },
+                {
+                    "answer": "u4 = 19\n<br>u7 = 24\n<br><br>a+6b = 24 | X1 | a+6b = 24\n<br>a+3b = 19 | X2 | 2a+6b = 38\u00a0\n                       <br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 ------------------  ---\n                        <br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 -a       = -14\n                         <br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 a       = 14",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-himpunan-penyelesaian-dari-persamaan-berikut-1-24m-1-898",
+            "question": "Tentukan himpunan penyelesaian dari persamaan berikut.    1. 24m = 12\r\n2. 25 - 4y = 6y + 15\r\n3. 6x + 5 = 26 - x",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1. 24m=12<br>\u00a0\u00a0 \u00a0  m=12:24<br>\u00a0\u00a0 \u00a0 m= 0,5<br>2. 25-4y=6y+15<br>\u00a0\u00a0 -4y-6y=15-25<br>\u00a0\u00a0 \u00a0 -10y= -10<br>\u00a0\u00a0 \u00a0 \u00a0 y=1<br>3. 6x=5=26-x<br>\u00a0\u00a0  6x-x=26-5<br>\u00a0\u00a0 \u00a0 7x=21<br>\u00a0\u00a0 \u00a0 x=3 ^^<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "cara-menyelesaikan-12x-5-gt-15-ptlsv-bagaimana-647",
+            "question": "Cara menyelesaikan 1/2x + 5 &gt; 15 (PtLSV) bagaimana??",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1/2 X + 5 &gt; 15<br>1/2 X &gt; 15 -5<br>1/2 X &gt; 10<br>X &gt; 10/ 0,5<br>X &gt; 20",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "yang-bukan-triple-phytagoras-a-6-8-10-b-9-12-15-c-7-24-30-d-115",
+            "question": "Yang bukan triple phytagoras\u00a0\r\na. 6 8 10\r\nb. 9 12 15\r\nc. 7 24 30\r\nd. 8 15 17",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "kayaknya c. 7, 24, 30",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span><strong><em>yang bukan triple phytagoras :</em></strong><br></span><span>c. 7, 24, 30</span><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-panjang-sisi-sebuah-persegi-sama-dengan-5cm-tentukan-panjang-d-130",
+            "question": "1) panjang sisi sebuah persegi sama dengan 5cm tentukan panjang diagonal persegi tersebut    2) jika luas persegi 49cm berapakah panjang diagonal persegi tersebut",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1) panjang sisi = 5 cm<br>\u00a0 Maka, panjang diagonal =\u00a0[tex] \\sqrt{25+25} [/tex]<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0=\u00a0[tex] \\sqrt{50} [/tex] = 5[tex] \\sqrt{2} [/tex]<br>2) Jika luasnya 49, maka pnjng sisi= 7cm<br>\u00a0 Panjang diagonal =\u00a0[tex] \\sqrt{49+49} [/tex]<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0=\u00a0[tex] \\sqrt{98} [/tex]= 7[tex] \\sqrt{2} [/tex]",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

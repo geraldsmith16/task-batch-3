@@ -1,0 +1,146 @@
+{
+    "question": "Diketahui k : {1,2,3,4,5,6} f fungsi dari k ke k dengan aturan : f(n) : \u00a01 jika n ganjil &amp; 1/2 jika n genap    a) tulislah peta dari 1,2,3,4,5,6\r\nb) nyatakan sebagai himpunan pasangan berurutan\r\nc) tentukan domain, kodomain, dan range dari f",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "[tex]mohon\\ dikoreksi\\ apabila\\ terdapat\\ kesalahan\\\\\n\\\\\nf(n)=\\{1,\\frac{1}{2}\\}\\\\\\\\\n\\{(1,1),(2,\\frac{1}{2}),(3,1),(4,\\frac{1}{2}),(5,1),(6,\\frac{1}{2})\\}\\\\\\\\\ndomain:\\ 1&lt;=n&lt;=6\\\\\nkodomain:\\ x=1\\ dan\\ x=\\frac{1}{2}\\\\[/tex]",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "hitunglah-nilai-a-jika-x3-ax2-11-x-30-mempunyai-faktor-x3-754",
+            "question": "Hitunglah nilai a jika x3 + ax2 - 11 x + 30 mempunyai faktor (x+3)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "(-4)..............................<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apa-pengertian-algoritma-557",
+            "question": "Apa pengertian algoritma",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "algoritma (matematika)\u00a0adalah prosedur atau cara kerja atau proses yang dilakukan untuk menyelesaikan suatu permasalahan\u00a0(dalam\u00a0matematika)",
+                    "attachments": []
+                },
+                {
+                    "answer": "operasi matematika yang merupakan kebalikan dari eksponen \u00a0atau pemangkatan",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-kasih-tau-jawaban-dan-penyelesaiannya-juga-dong-banyak-369",
+            "question": "Tolong kasih tau jawaban dan penyelesaiannya juga dong :)    Banyak bilangan antara 2000 dan 6000 yang dapat disusun dari angka 0,1,2,3,4,5,6,7 dan tidak ada angka yang sama adalah...\r\nTerimah kasih sebelumnya yaa :)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "buat 4 kotak\u00a0 |ribuan|ratusan|puluhan|satuan|<br>|5|7|6|5| = 5 x 7 x 6 x 5 = 1050.<br><br>nb:<br>kotak pertama = dari 0 - 7 yang memenuhi tempat ribuan ada 5 (2, 3, 4, 5, 6)<br>kotak kedua\u00a0 \u00a0  = dari 0 - 7 yang memenuhi tempat ratusan ada 7<br>(jika syaratnya tidak ada angka yang sama, peluang setiap kotaknya di kurang 1, kemudian setiap angka dikalikan, dan itulah hasilnya)<br>dst..<br>:D<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "nilai-dari-log-16-log-4-log-2-390",
+            "question": "Nilai dari log 16 - log 4 /log 2",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex] \\frac{log16-log 4}{log 2} \\\\   \\frac{log (16/4)}{log2} \\\\   \\frac{log4}{log2}  \\\\   2log2  ^{2}   \\\\ 2[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suku-ke-5-amp-10-dari-aritmatika-adalah-21-amp-41-tentukan-ju-875",
+            "question": "Suku ke 5 &amp; 10 dari aritmatika adalah 21 &amp; 41 tentukan jumlah 20 suku pertama",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "dik :<br>u5 = 21<br>u10 = 41<br>s20 ?<br><br>u10-u5=41-21=20<br>a+9b-a+4b=20<br>5b=20<br>b= 4<br><br>masukkan ke persamaan :<br>u10 = 41<br>a+9b=41<br>a+9.4=41<br>a+36=41<br>a=41-36<br>a=5<br><br>maka ...<br>s20 = 1/2 n . (2a+(n-1)b)<br>\u00a0 \u00a0 \u00a0 =1/2.20 . (2.5 + (20-1)4)<br>\u00a0 \u00a0 \u00a0 =10 .(10 + (19)4)<br>\u00a0 \u00a0 \u00a0 = 10. ( 10 + 76)<br>\u00a0 \u00a0 \u00a0 =10 . 86 = 860 :)",
+                    "attachments": []
+                },
+                {
+                    "answer": "U5 = 21<br>21=a+ (5-1)b =&gt; 21=a+4b /9 \u00a0=&gt; \u00a0 189=9a+36b<br>U10= 41<br>41=a+ (10-1)b=&gt;41=a+9b/4 \u00a0 =&gt; \u00a0 164=4a+36b<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 --------------------- \u00a0---<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a025=5a<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a05 \u00a0 =a \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a021=5+4b<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a04=b<br>U1 = a+(1-1)b<br>\u00a0 \u00a0 \u00a0 \u00a05+ 0.4 = 5<br>U2 = 5+ (2-1)b<br>\u00a0 \u00a0 \u00a0 \u00a05 + 4 \u00a0 = 9<br>u3 = 5+ (3-1)b<br>\u00a0 \u00a0 \u00a0 \u00a05+8 \u00a0 \u00a0= 13<br>jumlah 20 suku pertama : sn = n/2 (2a+(n-1)b)<br><br>a = 5<br>b = u2-u1 = 9-5 = 4<br><br>s20 = 20/2 (10+76)<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a010(86)<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 860<br>semoga benar ya",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "7266605412-tentukan-banyak-suku-ddan-jumlah-deret-aritma-127",
+            "question": "72+66+60+54+....+12\r\nTentukan banyak suku ddan jumlah deret aritmatika?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<em>Diketahui:</em><br>U\u2081 = a = 72<br>Suku terakhir Un = 12<br><br><em>Ditanya:</em><br>(a). Banyak n suku<br>(b). Jumlah n suku (Sn)<br><br><em>Penyelesaian:</em><br><br>(a). Banyak n suku<br>\u21d4 Beda b = U\u2082 - U\u2081<br>\u21d4 b = 66 - 72<br>\u21d4 Diperoleh b = - 6<br>\u21d4 Selanjutnya, Un = a + (n - 1).b<br>\u21d4 12 = 72 + (n - 1).(- 6)<br>\u21d4 - 60 = (n - 1).(- 6)<br>\u21d4 10 = n - 1<br><strong>\u21d4 \u2234 Banyaknya suku adalah\u00a0n = 11</strong><br><br>(b). Gunakan rumus jumlah n suku Sn = n/2.[a + Un]<br>\u21d4 S\u2081\u2081 =\u00a0n/2.[a + U\u2081\u2081]<br>\u21d4 S\u2081\u2081 =\u00a0[11/2] x [72 + 12]\u00a0\u00a0<br>\u21d4 S\u2081\u2081 =\u00a0[11/2] x 84<br>\u21d4 S\u2081\u2081 =\u00a011 x 42<br>\u21d4 S\u2081\u2081 =\u00a0462<br><strong>\u21d4 \u2234 Jumlah 11 suku pertama deret aritmatika tersebut adalah 462</strong><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "a = 72<br>b = U\u2082 - u\u2081<br>\u00a0\u00a0  = 66 -72<br>\u00a0\u00a0 = -6<br>Un = 12<br>gunakan rumus Un untuk mencari nilai n <br>Un = a + (n-1) b<br>12\u00a0 = 72 + ( n-1) -6<br>12\u00a0 = 72 - 6n + 6<br>12\u00a0 = 78-6n<br>12-78 = -6n<br>\u00a0-66 = -6n<br>-66/-6 = n<br>\u00a0\u00a0 11\u00a0 \u00a0  = n <br><br>gunakan rumus Sn untuk mencari jumlah suku<br>Sn = n/2 (2a + (n-1) b)<br>\u00a0 \u00a0 \u00a0 = 11/2 ( 2.72 + ( 11-1) -6)<br>\u00a0 \u00a0 \u00a0 = 11/2 ( 144 + (10)(-6))<br>\u00a0 \u00a0 \u00a0 = 11/2 ( 144 - 60)<br>\u00a0 \u00a0 \u00a0 = 11/2 (84)<br>\u00a0 \u00a0 \u00a0 = 11 (42)<br>\u00a0 \u00a0 \u00a0 = 462<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-dibantu-jika-fx-3x-4-dan-fb-26-maka-nilai-134",
+            "question": "Tolong dibantu :) \u00a0 jika f(x) = 3x - 4 dan f(b) = 26, maka nilai b + 2 adalah.... please bantu,..\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "f (x) = 3x-4<br>f (b) = 26<br><br>f(b) = 3.(b)-4= 26<br>\u00a0 \u00a0 \u00a0= 3b = 30<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0b = 10<br><br><br><br>b=2 = 10 =2 =12",
+                    "attachments": []
+                },
+                {
+                    "answer": "f(x) = 3x - 4<br><span>f(b) = 26<br><br>f(b) =&gt; 3x - 4 = 26<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 3x\u00a0 \u00a0\u00a0 = 26 + 4<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 3x\u00a0\u00a0 = 30<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 x\u00a0 \u00a0 = 30/3 <br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 x = 10<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0  b\u00a0 \u00a0  = 10<br><br></span><br><span><span>b + 2 = </span>10 + 2 = 12<br></span><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "umur-abc-235-jumlah-umur-b-dan-c-adalah-24-tahun-maka-umur-497",
+            "question": "Umur a:b:c = 2:3:5 jumlah umur b dan c adalah 24 tahun maka umur a adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "umur b ditambah c = 24<br>\u00a0pebandingan umur b ditambah c = 8<br><br>2/8 dikali 24 = 6<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Dik: a:b:c = 2:3:5<br>b+c =\u00a024<br>Dit: a?<br>Jawab:<br><br>b:c = 3:5<br>b+c = 24<br>b =\u00a0[tex] \\frac{3}{8} [/tex]\u00d724 = 9 tahun<br>c =\u00a0[tex] \\frac{5}{8} [/tex]\u00d724 = 15 tahun<br><br>a:b:c = 2:3:5 = a:9:15<br>a = 6 tahun<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-luas-belah-ketupat-abcd-480-cm2-jika-panjang-diagona-923",
+            "question": "Diketahui luas belah ketupat ABCD = 480 cm\u00b2 jika panjang diagonal AC = 20 cm, keliling belah ketupat ABCD adalah....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "d1 . d2 / 2 = 480<br>20 . d2 / 2 = 480<br>d2 = 48 cm<br><br>nanti cari sisi miring dengan phytagoras 10\u00b2 + 24\u00b2 = s\u00b2<br>baru keliling = 4 x sisi miring",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-akar-persamaan-kuadrat-dari-6x2-48x-90-tentukan-n-397",
+            "question": "Diketahui akar persamaan kuadrat dari 6x\u00b2 - 48x + 90. tentukan nilai (x1/x2+1) + (x2/ X1+1)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "6x\u00b2-48x+90 = x\u00b2-8x+15<br>=(x-3) (x-5)=0<br>x1 = 3 x2= 5<br><br>silahkan substitusikan sisanya",
+                    "attachments": []
+                },
+                {
+                    "answer": "6x2-48x+90<br>(x-3)(x-5)<br>x1=3 \u00a0x2=5<br><br>(x1/x2+1) + (x2/x1+1)<br>(3/5+1) +(5/3+1)<br>8/5 + 8/3 = 64/15 gitu?\u00a0",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,134 @@
+{
+    "question": "Rasionalkan penyebut pecahan berikut. \u00a0    2\u221a2 \r\n6\u221a6\r\n\r\nBeri penjelasannya yang LENGKAP ya :)",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "2\u221a2\u00a0\u00f7\u00a06\u221a6 = 2\u221a2\u00a0\u00f7 6\u221a6\u00a0\u00d7 6\u221a6\u00f76\u221a6 = 12\u221a12\u00a0\u00f7 216 = 24\u221a3\u00a0\u00f7 216 = 1/9\u00a0\u221a3",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "diketahui-sin-ao-12-13-untuk-2-lt-a-lt-p-nilai-dari-sin-217",
+            "question": "Diketahui sin Ao = 12 13 untuk 2 &lt; A &lt; \u03c0 . Nilai dari Sin ( \u03c0 - A)o adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "sepertinya soal yang anda masukan ada kesalahan<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pada-sebuah-segitiga-klm-dengan-siku-siku-di-l-berlaku-sin-m2-781",
+            "question": "pada sebuah segitiga KLM, dengan siku-siku di L, berlaku sin M=2/3 dan panjang sisi KL=\u221a10 cm, tentukanlah panjang sisi segitiga yang lain.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "KL=LM=\u221a10<br>KM=akar dari <span>\u221a10 x </span><span>\u221a10</span>= akar 100=10<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "m/ sin M = l / sin L<br>\u221a10 \u00f7\u00a02/3 = l\u00a0\u00f7 1<br>l = 3/2 (dikali)\u00a0\u221a10 cm\u00a0= panjang KM<br><br>panjang\u00a0LM = k =\u00a0\u221a(3/2\u00d7\u221a10)\u00b2 - (\u221a10)\u00b2 = 90/4 -10 = (90-40)/4 = 50/4 = 12.5 cm<br><br>maaf jika kurang tetpat",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "x4-3x3-5x2x-6-x25x-2-917",
+            "question": "(x4-3x3- 5x2+x-6)\r\n : ( x2+5x-2)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "hasil pembagiannya x= -16648 dan x=42112<br>x4-3x3-5x+x-6 ;x2+5x-2<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-3log-2-x-dan-2log-5y-nilai-5log-15-beserta-car-876",
+            "question": "Diketahui\u00a03log 2 = x dan\u00a0\r\n 2log 5=y. Nilai 5log 15 =\r\n\r\n\r\nBeserta caranya ya",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "3log2= x , diubah jadi 2log3=1/x<br>2log5=y<br><br>5log15 = 2log15 / 2log5<br>= 2log 3 x 2log5 / 2log5<br>= 1/x + y / y<br>= ( y + xy /xy) / y<br>= y + xy / y(xy)<br>= y + xy / xy^2<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dik-3tex-leftbeginarraycccpampq2amp6endarray-186",
+            "question": "Dik 3[tex] \\left[\\begin{array}{ccc}p&amp;q\\\\2&amp;6\\\\\\end{array}\\right]    [/tex] = +  . nilai dari 2q + p adalah,\r\n\r\ntolong bantu, cara + penjelasanya kawan",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]3\\left[\\begin{array}{cc}p&amp;q\\\\2&amp;6\\end{array}\\right]=\\left[\\begin{array}{cc}p&amp;6\\\\-1&amp;5\\end{array}\\right]+\\left[\\begin{array}{cc}4&amp;p+q\\\\7&amp;13\\end{array}\\right]\\\\\n\\left[\\begin{array}{cc}3p&amp;3q\\\\6&amp;18\\end{array}\\right]=\\left[\\begin{array}{cc}p+4&amp;6+(p+q)\\\\-1+7&amp;5+13\\end{array}\\right]\\\\\n\\left[\\begin{array}{cc}3p&amp;3q\\\\6&amp;18\\end{array}\\right]=\\left[\\begin{array}{cc}p+4&amp;p+q+6\\\\6&amp;18\\end{array}\\right]\\\\\n\\\\\n3p=p+4\\\\\np=2\\\\\n\\\\\n3q=p+q+6\\\\\n2q=2+6\\\\\n2q=8\\\\\n\\\\\nmaka\\ 2q+p=8+2=10[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "gimana-cara-faktorin-persamaan-pangkat-3-548",
+            "question": "gimana cara faktorin persamaan pangkat 3?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "pake cara horner <br>3 | 1\u00a0 \u00a0\u00a0 -6 \u00a0 \u00a0 \u00a0 -9 \u00a0\u00a0 \u00a0  54 <br>\u00a0\u00a0 |_____3____-9___-54____ <br>\u00a0\u00a0 \u00a0 1\u00a0 \u00a0  -3\u00a0 \u00a0 \u00a0 \u00a0 -18\u00a0 \u00a0  0 <br>\u00a0\u00a0 \u00a0 x\u00b2 -3x - 18 = (x - 6) (x + 3) <br>jadi didapat faktornya adalah <br>(x - 3) (x + 3) (x - 6) <br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dengan-mengunakan-tabel-kebenaran-buktikanlah-bahwa-pernyataan-pe-908",
+            "question": "Dengan mengunakan tabel kebenaran buktikanlah bahwa pernyataan pernyataan \u00a0berikut ini mrupakan pernyataan majemuk yang ekuivalen !    a. (p^q) \u00a0= ~ (~pv~q) \u00a0 b. (~p^q) = ~ (pv~q) \u00a0 c. (~p^~q) = ~(pvq) \u00a0 d. (~p^~q) = ~(~pv~q) \u00a0 e. (~p^~q) = pvq",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "silakan dipelajari, sekalian diperiksa apabila terdapat kesalahan",
+                    "attachments": [
+                        "answer-attachments/dengan-mengunakan-tabel-kebenaran-buktikanlah-bahwa-pernyataan-pe-908-1.docx"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "temukan-grafik-fungsi-kuadrat-fx-4x2-8x3-dari-grafik-fung-281",
+            "question": "Temukan grafik fungsi kuadrat f(x) = 4x^{2}-8x+3 dari grafik fungsi kuadrat g(x) = 4x^{2} (dalam 1 grafik)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "ini gambarnya, silakan dipelajari",
+                    "attachments": [
+                        "answer-attachments/temukan-grafik-fungsi-kuadrat-fx-4x2-8x3-dari-grafik-fung-281-1.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "tolong-kasih-tau-jawaban-dan-penyelesaiannya-juga-dong-banyak-369",
+            "question": "Tolong kasih tau jawaban dan penyelesaiannya juga dong :)    Banyak bilangan antara 2000 dan 6000 yang dapat disusun dari angka 0,1,2,3,4,5,6,7 dan tidak ada angka yang sama adalah...\r\nTerimah kasih sebelumnya yaa :)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "buat 4 kotak\u00a0 |ribuan|ratusan|puluhan|satuan|<br>|5|7|6|5| = 5 x 7 x 6 x 5 = 1050.<br><br>nb:<br>kotak pertama = dari 0 - 7 yang memenuhi tempat ribuan ada 5 (2, 3, 4, 5, 6)<br>kotak kedua\u00a0 \u00a0  = dari 0 - 7 yang memenuhi tempat ratusan ada 7<br>(jika syaratnya tidak ada angka yang sama, peluang setiap kotaknya di kurang 1, kemudian setiap angka dikalikan, dan itulah hasilnya)<br>dst..<br>:D<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jelaskanapa-yg-dimaksud-invers-941",
+            "question": "Jelaskanapa yg dimaksud invers ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Invers biasanya merupakan lawan dari sesuatu.<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Invers secara umum artinya lawan dari sesuatu hal.<br><br>dalam matematika, invers itu sering disebut fungsi kebalikan.<br>yang apabila suatu fungsi misalnya f, inversnya ditulis[tex]f^{-1} [/tex]<br><br>sifat khusus dari invers<br>[tex]f. f^{-1} =1[/tex]<br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

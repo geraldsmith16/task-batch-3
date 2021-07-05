@@ -1,0 +1,136 @@
+{
+    "question": "Satuan momen gaya ( torsi ) adalah...    a. kg m\u00b2s\u00b2 \u00a0 \u00a0 \u00a0 \u00a0 c. kg\u00b2 m\u00b2 s \u00a0 \u00a0 \u00a0 \u00a0 \u00a0e. kg\u00b2 / m\u00b2 s\u00b2\r\nb. kg m\u00b2 / s\u00b2 \u00a0 \u00a0 \u00a0 d. kg\u00b2 m\u00b2 / s\u00b2\r\n\r\nseorang penari balet berputar dengan kecepatan\u00a0\u03c91 sambil ,merentangkan tangannya dengan momen inersia I1. penari tersebut kemudian melipat tangannya hingga kecepatan sudutnya menjadi\u00a0\u03c92 dan momen inersianya menjadi I2. jika\u00a0\u03c92 = 2\u00a0\u03c92 maka...\r\na. I2 = I1/4\r\nb. I2 = I1/2\r\nc. I2 = I1\r\nd. I2 = 2 I1\r\ne. I2 = 4 I1",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "I2 = I1/4<br>b. I2 = I1/2<br>c. I2 = I1<br><span>d. I2 = 2 I<br>ini jawabnya gan</span>",
+            "attachments": []
+        },
+        {
+            "answer": "Maaf mohon diperiksa kembali soalnya sepertinya terdapat kesalahan Satuan Momen Gaya(Torsi/Torka) = Nm atau Kgm\u00b2<br>Untuk Soal ke 2 tolong diperiksa kembali karena\u00a0\u03c92=\u00a02\u03c92 bagaimana dikerjakan ?",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "bola-bowling-memiliki-berat-70-n-bola-itu-diam-pada-dinding-yang-914",
+            "question": "bola bowling memiliki berat 70 N, bola itu diam pada dinding yang licin jika bola dianggap homogen tentukan gaya normal di titik a dan b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Maaf sebelumnya,apakah mizzpurple66 salah menulis soal.karna saat bola berada di dinding otomatis bola akn bergerak ke bawah.saya misalkan dinding itu menjadi lantai dan mengapa tidak ada gambar?titik a dan b apakah seperti ini ?a\u00a0\u208b\u208b\u208b\u208b\u208b\u208b\u208b\u208b\u208b\u208b\u208b\u208b\u208bb<br>\u00a0jadi:<br>W=N<br>70=N<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dari-puncak-sebuah-menara-setinggi-45-m-dijatuhkan-sebuah-batu-j-959",
+            "question": "dari puncak sebuah menara setinggi 45 m dijatuhkan sebuah batu. jika percepatan gravitasi di tempat tersebut 10 m/s\u00b2, kecepatan batu saat tepat menyentuh tanah sebesar?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Dik = h : 45cm<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0g : 10 m/ [tex] s^{2} [/tex]\u00a0<br>Dit = V =  \\sqrt{2.g.h} ?<br>Penye =\n<br>V =  \\sqrt{2.10.45}<br>\u00a0 \u00a0=   \\sqrt{900}<br>\u00a0 \u00a0= 30[/tex]<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "EP = EK<br>mgh = 1/2 m v^2<br>gh = 1/2 v^2<br>45.10 = 1/2 v^2<br>900 = v^2<br>v = 30m/s<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apa-betul-jawaban-saya-tlng-di-cmnt-seorang-pelari-menempuh-2-412",
+            "question": "APA\u00a0BETUL JAWABAN SAYA? TLNG DI CMNT !    seorang\r\n pelari menempuh 2 km dalam 5 menit dan kemudian membutuhkan 10 menit untuk\r\n berjalan kembali ketitik awal. a) berapakah kecepatan rata-rata untuk 5 menit\r\n pertama? (b) berapakah kecepatan rata-rata selama waktu yang dipakai berjalan?\r\n (c) berapakah kecepatan rata-rata untuk total perjalanan? (d) berapakah\r\n kelajuan rata-rata untuk total perjalanan?\r\n\r\n JAWABAN\r\n\r\n\r\na)\u00a0dikt :s\r\n = 2 km ~\u00a02000 m,\u00a0t = 5 menit ~\u00a0300 second\r\n\r\n v = s/t = 2000/300 = 6,66 m/s\r\nb)\u00a0dikt :s\r\n = 2 km ~\u00a02000 m,\u00a0t = 10 menit ~ 600 second\r\n\r\n v = s/t = 2000/600 = 3,33 m/s\r\n\u00a0 \u00a0 P1 + P2 =\u00a06,66 + 3,33 = 9,99 m/s\r\n\r\n\r\nc)\r\nd)\u00a0dikt :s\r\n = 2 km ~ 2000 x 2 = 4000 m,\u00a0t = 5 + 10 = 15 menit ~\u00a0900 second\r\n\r\n\r\n\u00a0 \u00a0 v = s/t = 4000/900 = 4,44",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "semuanya betul semua<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebatang-silinder-timah-hitam-sepanjang-1-m-e-16-x-1010-m3-624",
+            "question": "Sebatang silinder timah hitam sepanjang 1 m (E = 1,6 x 10^10 m^3) memiliki luas penampang 1,25 x 10^-3 m^2 ditarik oleh gaya 2500 N. Besar regangan silinder tersebut adalah?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "3194\u00a0=besar regangan silinder",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-truk-bermassa-7500-kg-yang-bergerak-dengan-kecepatan-5-ms-402",
+            "question": "sebuah truk bermassa 7500 kg yang bergerak dengan kecepatan 5 m/s ditabrak mobil lain yang bermassa 15000 kg dengan keceptan 20 m/s.kedua kendaraan rjusak berat dan menjadi satu. kelajuan kedua mobil rusak itu adalah........",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "m1.v1 + m2.v2 = (m1+m2) V<br>7500.5 + 15000.20 = (7500+15000) V<br>37500 + 300000 = 22500 V<br>337500 = 22500 V<br>V= 337500 : 22500<br>V= 15 m/s<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebatang-tembaga-dipanaskan-sampai-3000-c-lalu-dijepit-dengan-560",
+            "question": "Sebatang tembaga dipanaskan sampai 300^{0} C, lalu dijepit dengan kuat, sehingga tidak dapat menyusut ketika suhunya turun. Jika tegangan patahnya 220 x 10^{6} N/m^{2}, pada suhu berapakah batang akan mulai putus saat suhunya diturunkan? Diketahui modulus Young tembaga 110 x 10^{9} N/m^{2} dan koefisien muai panjang 15 x ^{-6} K.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "menurut Teori elastisitas, <br><br>\ntegangan = modulus Elastisitas *  regangan <br><br>\n\u03c3 = E \u03b5 <br><br>\n\u03c3 = E \u0394L/L <br><br>\n\u03c3 = E \u03b1 \u0394T <br><br>\n220 * 10^6 = (110 * 10^9)(15 * 10^-6)(300 - t) <br><br>\nt = 166.67 \u00b0C  <br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "roda-yang-berupa-silinder-pejal-massanya-3-kg-dan-jari-jari-20-cm-867",
+            "question": "Roda yang berupa silinder pejal massanya 3 kg dan jari jari 20 cm. Roda tersebut menggelinding dengan kecepatan sudut 100 rad/s. Tentukan energi kinetik total gerak roda tersebut?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Momen inersia nya =\u00a0[tex] \\frac{2}{5} mr^2[/tex]<br><br>[tex] \\frac{2}{5} 3 * 0.20^2[/tex]<br>\u03b1 = 100 rad / s\u00a0<br><br>berdasar hukum newton II terkait benda berotasi\u00a0<br><br>[tex]r F = m r^2  \\alpha [/tex]\u00a0<br><br>Energi kinetik pada bola pejal =\u00a0<br>[tex] \\frac{2}{5} 3 * 0.0400* 100 rad /s = 4.8 kg m s^{-1}[/tex]<br><br>di cek sekali lagi ya kalau kalau ada yang salah\u00a0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "seorang-dengan-massa-60-kg-berada-dalam-lift-yang-sedang-bergerak-595",
+            "question": "Seorang dengan massa 60 kg berada dalam lift yang sedang bergerak ke bawah dengan percepatan 2m/s\u00b2. Jika g = 10m/s\u00b2 ,maka gesekan kaki orang pada lantai lift adalah....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kelas : X<br>Mata Pelajaran : Fisika<br>Kategori : Bab Dinamika partikel<br>Kata Kunci : Gerak pada Lift<br><br>Jawaban berupa lampiran<br><br><br><br>",
+                    "attachments": [
+                        "answer-attachments/seorang-dengan-massa-60-kg-berada-dalam-lift-yang-sedang-bergerak-595-1.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "manfaat-dan-bahaya-radioisotop-dan-gelombang-elektromagnetik-209",
+            "question": "Manfaat dan bahaya radioisotop dan gelombang elektromagnetik",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "manfaat: memanfaatkan sinar-sinar radiasinya untuk berbagai kepetluan.sumber tenaga listrik<br>bahaya :dapat merusak jaringan pada makhluk hidup. dapat mengakibatkan tumor/ kanker",
+                    "attachments": []
+                },
+                {
+                    "answer": "manfaat : sebagai sumber tenaga listrik<br>bahaya : merusak jaringan, menyebabkan kanker<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "benda-bermassa-10-kg-di-atas-bidang-datar-licin-dipengaruhi-gaya-694",
+            "question": "Benda bermassa 10 kg di atas bidang datar licin dipengaruhi gaya 40 N membentuk sudut 60 derajat terhadap horizontal,jika g= 10 m/s^2.tentukan perpindahan benda setelah gaya bekerja 60 \u00a0sekon",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "karena permukaannya licin, maka fg (gaya gesek) = 0<br>cari\u00a0\u03a3 F = m.a<br>\u00a0 \u00a0 \u00a0F + w cos 30 = m .a \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0w = m .g<br>\u00a0 \u00a0 \u00a040 + (10.10.1/2\u221a3) = 10.a<br>\u00a0 \u00a0 \u00a0 40 + 50\u221a3 = 10.a<br>\u00a0\u221a3 = 1,73<br>40 + 50 (1,73) = 10a<br>40 + 86,5 = 10a<br>126,5 = 10 a<br>a = 126,5 /10<br>\u00a0 \u00a0= 12,65 m/s\u00b2<br>mudah2an benar -_-",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,138 @@
+{
+    "question": "Faktor dari (2x^2 - 5x -12) =\r\n^ : pangkat\u00a0",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "2x^2 - 5x -12 = (2x + 3)(x - 4)<br>x1 = 2x + 3 = 0<br>\u00a0\u00a0 \u00a0 \u00a0  2x = -3<br>\u00a0\u00a0 \u00a0 \u00a0 x = -3/2<br><br>X2 = x - 4 = 0<br>\u00a0\u00a0 \u00a0 \u00a0  x = 4<br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "perbandingan-2-x-senilai-dengan-y-27-dan-yx-16-tentukan-548",
+            "question": "Perbandingan 2 :\u00a0x senilai dengan y :27 dan y/x = 1/6. tentukan nilai x dan y!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "2\u00a0:\u00a0x=\u00a0y\u00a0:\u00a027 berarti xy = 54 \u00a0 ......1<br>y/x = 1/6 berarti x \u00a0= 6y.....2\u00a0<br>nilai di substitusikan pada pers 1 didxapat 6y\u00b2= 54&lt;=&gt; y= 3 maka x = 18<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 y = -3 maka x = -18",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span>2\u00a0:\u00a0x=\u00a0y\u00a0:\u00a027 berarti xy = 54 \u00a0 ......1<br>y/x = 1/6 berarti x \u00a0= 6y.....2\u00a0<br>nilai di substitusikan pada pers 1 didxapat 6y\u00b2= 54&lt;=&gt; y= 3 maka x = 18<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 y = -3 maka x = -18</span><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-rumus-un-dan-suku-ke-10-dari-2-8-17-29-949",
+            "question": "Tentukan Rumus Un dan suku ke-10 dari:\r\n- 2, 8, 17, 29,..................Un",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "U10 = 1/2*10*10+17/2*10 +(-11)<br>\u00a0\u00a0 \u00a0\u00a0 = 50+85-11<br>\u00a0\u00a0 \u00a0\u00a0 = 124<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "6-24-a-itu-gimana-yah-caranya-aku-bingung-416",
+            "question": "6\r\n -+2=4\r\n A\r\n Itu gimana yah caranya aku bingung?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "A = 6 - (+2) = 4<br>A = 6 - 2\u00a0<br>A = 4",
+                    "attachments": []
+                },
+                {
+                    "answer": "6-2=4a<br>4 = 4a<br>a = 1<br>mungkin seperti itu<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "manakah-dibawah-ini-yang-merupakan-persaaan-linear-satu-variabel-109",
+            "question": "Manakah dibawah ini yang merupakan persaaan linear satu variabel ??     a. 2x - 4 = 8\r\nb. -4 + 3s + 24\r\nc. -8 - d\u00b2 = 32\r\nd. 5 (u - 2) + u - 2",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a. 2x - 4 = 8<br>c. -8 - d2 = 32<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-ya-ni-tugas-numpuk-tolong-a-12x-583",
+            "question": "Tolong ya..... ni tugas numpuk tolong    \u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 a. 1/2x + 5 &gt; 15\r\n\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 b. 2 - (4+x) \u2265 - 22\r\n\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 c. 2/3p + 4 \u2264 8\r\n\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 d. 2x _4 &gt;3X + 9\r\n\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 e. 2y - 7/2\u2264 3\r\nnote. / adalah PER\r\n\u00a0\u00a0 makasih bantu ya...:)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a. <u>1 </u>x\u00a0 +\u00a0 5 &gt; 15<br>\u00a0\u00a0\u00a0 2<br><u>x\u00a0</u> &gt;\u00a0 15 - 5<br>2<br><u>x </u>&gt; 10<br>2<br>x &gt; 20<br><br>b. 2 - ( 4 + x ) \u2265 - 22<br>\u00a0\u00a0 2 - 4 - x \u2265 - 22<br>\u00a0- 2 - x \u2265 - 22<br>\u00a0- x \u2265 - 20<br>\u00a0x \u2264 20<br><br>c.<u> 2\u00a0</u> p\u00a0 + 4 \u2264 8<br>\u00a0\u00a0 3<br>\u00a0<u>2p</u>\u00a0 \u2264 8 - 4<br>\u00a03<br><u>2p</u> \u2264 4<br>3<br>2p \u2264 12<br>p \u2264 6<br><br>d. 2x - 4 &gt; 3x + 9<br>\u00a0 -3x + 2x &gt; 9 + 4<br>\u00a0 -x &gt; 13<br>\u00a0 x &lt; - 13 <br><br>e. 2y - <u>7</u> \u2264 3\u00a0 \u00a0 \u00a0 (kedua ruas dikalikan 2)<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0\u00a0 2<br>\u00a0\u00a0 4y - 7 \u2264 6<br>\u00a0\u00a0 4y \u2264 13<br>\u00a0\u00a0 y\u00a0  \u2264 <u>13</u><br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 4<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pada-kegiatan-rally-sebuah-mobil-akan-sampai-di-garis-finis-dala-872",
+            "question": "Pada kegiatan    Rally, sebuah\r\nmobil akan sampai\r\ndi garis finis dalam\r\nwaktu 4,5 jam\r\ndengan kecepatan rata-rata 63 km/jam. Setelah\r\n2 jam berjalan, ban mobil Biru pecah sehingga\r\nterpaksa berhenti mengganti ban selama\r\n15 menit. Berapa kecepatan mobil biru dinaikkan\r\nagar tetap sampai di finis tepat waktu?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "4,5 jam = 63 km/jam<br>setelah berjalan 2 jam, berarti<br>3,5 jam = 63 km/jam<br>ban\u00a0 bocor 15 mnit = 0,25 jam<br>jadi: 3,25 jam = x<br><br>maka:<br>3,5/3,25 = x/63<br>x = 67,85<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "nilai-t-yang-memenuhi-persamaan-21-2t23-2t-adalah-645",
+            "question": "Nilai t yang memenuhi persamaan 2(1-2t)=23-2t adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "2 (1-2t) =23-2t<br>2-4t=23-2t<br>-4t+2t=23-2<br>-2t=21<br>t=-10,5<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "2 (1-t)=23-2t\n2-4t=23-2t\n-4t+2t=23 -2\n-2t=21\n t= -21/2",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-4-suku-pertama-dari-barisan-dengan-rumus-suku-ke-n-berik-930",
+            "question": "Tentukan 4 suku pertama dari barisan dengan rumus suku ke-n berikut ini !    a. Un = 3n\r\nb. Un = 3n+1\r\nc. Un = n x (n+1) x (n+2)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a) U4 = 3(4) = 12<br>\u00a0\u00a0\u00a0 S4 = 4/2 (3+12) = 30<br>b) U4 = 3(4)+1 = 13<br>\u00a0\u00a0\u00a0 S4 = 4/2 (4+13) = 34<br>c) U4 = 4 x (4+1) x (4+2) = 128<br>\u00a0\u00a0\u00a0  S4 = 4/2 (6+128) =268<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "5pak-indra-membeli-2-jenis-kopi-ia-membeli-10-kg-jenis-kopi-a-dg-572",
+            "question": "5Pak Indra membeli 2 jenis kopi. Ia membeli 10 kg jenis kopi A dg harga Rp10.000 per kg &amp;15 kg jemis kopi dengan harga Rp12.000 per kg. Pak Indra mencampur kedua kopi tersebut dan akan dijual lagi . Jika Pak Indra menginginkan kentungan sebesar 25% , tentukan haraga jual kopi campuran per kg .",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "di campur = ditambahkan<br>maka 10kg + 15 kg = (10 x 10.000) + (15 x 12.000)<br>25kg = 100.000 + 180.000<br>25kg = 280.000<br>untung 25%. maka 25 / 100 x 280.000 = 70.000<br>maka 280.000 + 70.000 = 350.000<br>harga per kilo = 350.000 \u00f7 25 kg<br>= 14.000 /kg<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "jenis 1 =10 x 10000 = 100000<br>jenis 2 =15 x 12000 = 180000<br><br>jenis 1 n 2 = 10000 + 180000 =190000<br>190000x 25 % =47500<br>= selanjutnya aq gak tau<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bagaimana-menghitung-bilangan-berpangkat-dan-cara-menyederhanakan-788",
+            "question": "Bagaimana menghitung bilangan berpangkat dan cara menyederhanakannya?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "apa bila angkanx sama tinggal menjumlah pangkatnx<br>ex : 5\u00b2+5\u00b3 = ...<br>5\u00b2<u><em></em></u><em></em>+\u00b3 =...<br>= 5x5x5x5x5<br>5 pangkat 5<br><br>yg lainnx gtu\u00a0<br><br><br>atatan : ntuk perkalian tinggal menjumlahkan pangkatnx, pembagian tinggal ngurangi pangkatnx (apabila bilangannx sama)",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

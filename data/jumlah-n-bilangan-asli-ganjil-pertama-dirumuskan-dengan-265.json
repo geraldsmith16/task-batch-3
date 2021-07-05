@@ -1,0 +1,130 @@
+{
+    "question": "Jumlah n bilangan asli ganjil pertama dirumuskan dengan ...",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "bilangan ganjil: Un = 2n -1<br>",
+            "attachments": []
+        },
+        {
+            "answer": "Bilangan ganjil un : 2n-1",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "besar-sudut-p-dari-sebuah-segitiga-pqr-adalah-70-selisih-antara-535",
+            "question": "Besar sudut P dari sebuah segitiga PQR adalah 70, selisih antara besar sudut Q dan R adalah 36\u00b0 tentukan besar sudut Q dan R. Perlu diketahui total sudut sebuah segitiga adalah 180\u00b0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]P=70^o\\\\\nQ-R=36^o \\rightarrow Q=36^o+R\\\\\\\\\nP+Q+R=180^o\\\\\n70^o+36^o+R+R=180^o\\\\\n2R=74^o\\\\\nR=37^o\\\\\\\\\nQ=36^o+R\\\\\nQ=36^o+37^o\\\\\nQ=73^o[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-mesin-bor-di-rancang-memiliki-6-kecepatan-mulai-dari-50-p-723",
+            "question": "sebuah mesin bor di rancang memiliki 6 kecepatan. mulai dari 50 putaran/menit hingga 750 putaran / menit. jika kecepatan ini membentuk geometri, tentukan lah nilai nilai, masing masing benar hingga bilangan bulat terdekat",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "tolong ditulis caranya ya",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "864",
+            "question": "",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]lim_{x \\rightarrow 0}\\ \\frac{x-3-sin(x-3)}{x-3}\\\\\n= lim_{x \\rightarrow 0}\\ \\frac{x-3}{x-3}- lim_{x \\rightarrow 0}\\ \\frac{sin(x-3)}{x-3}\\\\\n=  lim_{x \\rightarrow 0}\\ 1- lim_{x \\rightarrow 0}\\ 1\\\\\n=1-1\\\\\n=0[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jumlah-bilangan-asli-antara-1-dan-200-yg-hbis-diagi-4-adalah-310",
+            "question": "jumlah bilangan asli antara 1 dan 200 yg hbis diagi 4 adalah...?? jumlah n suku pertama suatu deret aritmetika dinyatakan dengan SN=n^2+3N..suku ke 20 deret tersebut adalah.....mohon bntuanyaaaa",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "kalo aritmatika jawabannya 80<br>4,8,12.....200<br>U-20= a+(n-1)b<br>4+(19)4<br>=80<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "x4-3x3-5x2x-6-x25x-2-917",
+            "question": "(x4-3x3- 5x2+x-6)\r\n : ( x2+5x-2)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "hasil pembagiannya x= -16648 dan x=42112<br>x4-3x3-5x+x-6 ;x2+5x-2<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suatu-kotak-berisi-5-kelereng-merah-dan-3-kelereng-putihdua-kele-757",
+            "question": "suatu kotak berisi 5 kelereng merah dan 3 kelereng putih.dua kelereng di ambil satu persatu tanpa pengembalian kelereng pertama kedalam kotak.peluang terambilnya kelereng pertama\u00a0dan kedua berwarna merah adalah?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "klu ndasalh 1/4<br><br>maaf klau slahhhh<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "5\u00d73= 15<br>15:5 = 3<br>5= ADALAH kelereng pertama berwarna merah<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-kotak-berisi-10-kelereng-biru8-kelereng-kuningdan-2-kele-236",
+            "question": "sebuah kotak berisi 10 kelereng biru,8 kelereng kuning,dan 2 kelereng merah.jika diambil dua kelereng sekaligus,peluang terambil keduanya kelereng biru atau keduanya kelereng kuning adalah...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Biru = 10<br>Kuning = 8<br>Merah = 2<br>Total kelereng = 20<br><br>Peluang terambil keduanya kelereng biru = 10C2 = 10!/((10 - 2)! * 2!) = (9 * 10)/(2) = 45<br>Peluang terambil keduanya kelereng kuning = 8C2 = 8!/((8 - 2)! * 2!) = (7 * 8)/(2) = 28<br>Peluang terambil keduanya dari total = 20C2 = 19 * 20 / 2 = 190<br><br>Peluang keduanya biru = 45/190 <br>Keduanya merah = 28/190<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tuliskan-persamaan-x-y3-258",
+            "question": "Tuliskan persamaan {x-y=3}    \u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 {3x-2y=16} dalam bentukan matriks , lalu tentukan nilai 2x+5y",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "x - y = 3<br>3x -2y = 16<br><br>2x - 2y = 6<br><u>3x - 2y = 16</u> _<br><u></u>-x\u00a0 \u00a0 \u00a0 \u00a0 = -10<br><br>10 - y = 3<br>\u00a0\u00a0 \u00a0\u00a0 y = 7<br><br>2x +5y =<br>2*10 + 5*7 = 55<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "cari-fogx-amp-gofx-jika-1-fxx2-dan-gx-3x1-2-380",
+            "question": "Cari (fog)(x) &amp; (gof)(x)    jika : \r\n 1. f(x)=x+2 dan g(x) = 3x+1 \r\n 2. f(x)=4/x dan g(x) = 1-3x",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1. f(x) = x + 2 dan g(x) = 3x + 1 <br>\u00a0\u00a0  (f\u2080g)(x) = 3x + 1 + 2 = 3x + 3 <br>\u00a0\u00a0 (g\u2080f)(x) = 3(x + 2) + 1 <br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 = 3x + 6 + 1 <br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 = 3x + 7 <br><br>2. f(x) = 4/x dan g(x) = 1 - 3x <br>(f\u2080g)(x) = 4/(1 - 3x) <br>(g\u2080f)(x) = 1 - 3(4/x) <br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 1 - 12/x <br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0  = (x - 12)/x <br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jumlah-mobil-yang-diproduksi-suatu-pabrik-selama-1-hari-setelah-400",
+            "question": "jumlah mobil yang diproduksi suatu pabrik selama 1 hari setelah\u00a0t jam operasi adalah\u00a0n(t)\u00a0= 200\u00a0t\u00a0- 10t\u00b2, 0\u00a0\u2264\u00a0t\u00a0&lt; 10. jika biaya produksi\u00a0n\u00a0mobil (dalam dolar) adalah\u00a0B\u00a0(n) = 30.000 + 8.000n , tentukan biaya\u00a0B\u00a0sebagai fungsi dari waktu ,\u00a0B (t).\u00a0berapakah biaya memproduksi mobil selama 1 bulan?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "n = 200t-10t^2=0<br>\u00a0 \u00a0= 200 - 20t=0<br>t = 200 / 20 = 10\u00a0<br><br>berarti dalam 1 hari memproduksi 10 mobil dalam 1 bulan = 30 hari<br>B\u00a0= 30.000+8000(10.30)<br>\u00a0 \u00a0= 30 000 + 2.400 000<br>\u00a0 \u00a0= 2 430 000 dolar",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

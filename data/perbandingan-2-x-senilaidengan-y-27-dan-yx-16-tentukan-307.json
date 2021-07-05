@@ -1,0 +1,144 @@
+{
+    "question": "Perbandingan 2 : x senilai,dengan y : 27 dan y/x - 1/6,\u00a0tentukan nilai x dan y",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "y/x = 1/6<br>x = 6y<br><br>2/x = y/27<br>2/6y = y/27<br>6y^2 = 54<br>y^2 = 9<br>y = 3<br>x = 6y<br>\u00a0\u00a0 = 18<br>",
+            "attachments": []
+        },
+        {
+            "answer": "<span>y/x = 1/6<br>x = 6y<br><br>2/x = y/27<br>2/6y = y/27<br>6y^2 = 54<br>y^2 = 9<br>y = 3<br>x = 6y<br>\u00a0\u00a0 = 18</span><br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "dari-40-siswa-terdapat-23-siswa-gemar-bermain-basket-9-siswa-gem-676",
+            "question": "Dari 40 siswa terdapat 23 siswa gemar bermain basket, 9 siswa gemar bermain basket dan voli, 5 siswa tidak gemar bermain basket mau pun voli.Banyak siswa yang hanya gemar bermain voli adalah..    2.Disebuah lapangan parkir terdapat 105 kendaraan terdiri dari sepeda motor dan mobil.Jika seluruh roda kendaraan tersebut (tanpa ban serep) adalah 290 roda, maka banyak mobil dilapangan parkir tersebut adalah...\r\n\r\n3.Sepotong bambu dipotong menjadi 5 bagian yang panjang nya membentuk barisan geometri.Panjang potongan terpendek 5 cm\u00a0dan potongan terpanjang 80 cm.Panjang bambu semula adalah...\r\n\r\n4.Deni akan membuat topi ulang tahun dari karton berbentuk kerucut dengan diameter alas 20 cm dan tinggi topi 24 cm.Jika ingin membuat sebanyak 50 topi, luas karton minimal yang dibutuhkan adalah...\r\n(r= 3,14)\r\n\r\n5. Diketahui banyak sisi dan rusuk prisma segi-8 masing-masing a buah dan b buah, banyak sisi dan rusuk limas segi-5 masing-masing c buah dan d buah.Hasil dari a+b-c-d adalah...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "cuma\u00a0tahu nomor 1 jawabannya 3<br>kalau nomor 2 tidak diberi tahu umlah motornya<br>dan kalau nomor 3 saya tidak mengerti\u00a0barisan geometri... (maap yak)",
+                    "attachments": []
+                },
+                {
+                    "answer": "jawaban no 5<br>sisi prisma = n+2<br>sisi prisma 8 = 8+2 = 10 (a)<br>rusuk prisma = 3n -----&gt; 3\u00d78= 24 (b)<br>sisi limas = n+1------&gt; 5+1= 6 (c)<br>rusuk limas = 2n-----&gt; 2\u00d75=10 (d)<br>a+b-c-d=<br>10+24-6-10= 18<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "harga-sebuah-baju-sama-dengan-harga-ketiga-buah-kaos-seorang-pe-638",
+            "question": "Harga sebuah baju sama\u00a0dengan harga ketiga buah kaos. seorang pedagang membeli 2 baju dan 3 kaos,pedagang itu harus membayar Rp.\u00a0420.000,00    a. buatlah model matematika dari keterangan diatas\r\nb. selesaikan model matematika tersebut,kemudian tentukan harga 5 baju dan 4 kaos.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a. b=baju<br>\u00a0 \u00a0 k=baju kaos<br>\u00a0 \u00a0\u00a01b=3k<br>\u00a0 \u00a0 2b+3k=420.000<br>b. jwb sendiri mls ngetik, kalau bener2 gk tau, komen aja ya.",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pada-kegiatan-rally-sebuah-mobil-akan-sampai-di-garis-finish-dal-184",
+            "question": "pada kegiatan Rally, sebuah mobil akan sampai di garis finish dalam waktu 4,5 jam dengan kecepatan rata rata 63 km/jam. setelah 2 jam berjalan, ban mobil biru pecah sehingga terpaksa berhenti mengganti ban selama 15 menit. berapa kecepatan mobil biru di naikkan agar tetap sampai di garis finish tepat waktu?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>Jarak tempat = 4,5 jam x 63 km / jam <br>= 283,5 km<br>Perjalanan 2 jam , jaraknya = 2 jam x 63 km/jam <br>= 126 km<br>Berhenti selama 15 menit, total waktu yang sudah ditempuh <br>= 2 jam + 15 menit <br>= 2,25 jam<br>Jarak tempat yang belum di lalui <br>= 283,5 km - 126 km <br>= 157,5 km<br>Kecepatan agar tepat waktu <br>= 157,5 km / 2,25 jam <br>= 70 km/jam</span><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-b-xxlt5x-bilasli-tulislah-himpunan-bagian-da-679",
+            "question": "Diketahui B = { x|x&lt;5,x bil.asli }    tulislah himpunan bagian dari B yang mempunyai 2 anggota !",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "B = {1,2}<br><br>Sorry kalau salah, karena saya juga baru belajar :)",
+                    "attachments": []
+                },
+                {
+                    "answer": "[tex]B=\\{x|x&lt;5,x \\in bil.asli\\}\\\\\nB=\\{1,2,3,4\\}\\\\\n\\{1,2\\},\\{1,3\\},\\{1,4\\},\\{2,3\\},\\{2,4\\},\\{3,4\\}[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "seorang-walikota-merencanakan-membuat-taman-rekreasi-berbentuk-li-127",
+            "question": "Seorang walikota merencanakan membuat taman rekreasi berbentuk lingkaran dengan diameter 1.400 m. Oleh karena kurang dana, dalam realisasinya hanya dibangun taman dengan diameter 700 m. Berapa persen biaya yang dapat dihemat dari biaya pembebasan tanah untuk taman itu dari rencana semula?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "50% <br><br>Maaf kalo salah yaaa<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "karena 700 itu setengah dari 1400 berarti dana yang di hemat juga setengahnya atau 50%",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "693",
+            "question": "",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "jadi 10+6=16<br><br>begitu saja kak jawabanyy<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "help-kasih-caranya-juga-ya-thanks-783",
+            "question": "[HELP] kasih caranya juga ya thanks",
+            "attachments": [
+                "question-attachments/help-kasih-caranya-juga-ya-thanks-783-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "[tex]( \\sqrt[4]{2})^{6}  = (2^ \\frac{1}{4})^6 = 2^ \\frac{6}{4} = 2^ \\frac{3}{2} =  \\sqrt 2^{3}  = 2  \\sqrt{2} [/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-harga-sepasang-sepatu-dua-kali-harga-sandal-seorang-pe-782",
+            "question": "diketahui harga sepasang sepatu dua kali harga sandal. seorang pedagang membeli 4 pasang sepatu dan 3 pasang sandal.pedagang tersebut harus membayar Rp.275.000,00. A.buat model matematika? B.tentukan harga 3 pasang sepatu dan 5 pasang sandal! tolong di bantu....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "A. Harga sepatu = x<br>\u00a0\u00a0 \u00a0  harga sandal = y<br>x=2y<br>4x+3y=275000<br>B. 3x+5y= 3.2y+5y<br>\u00a0\u00a0 \u00a0 \u00a0 =11y<br>=11.53000=\u00a0 hitung sendiri<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "barapakah-hasil-dari-19999999999999828782428-694",
+            "question": "Barapakah hasil dari 19999999999999828782+428",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "jawabannya :20.000.000.000.427<br><br>maaf kalau salah :)",
+                    "attachments": []
+                },
+                {
+                    "answer": "19.999.999.999.999.829.210<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-dari-sejumlah-siswa-diketahui-25-siswa-gemar-matematika-21-s-250",
+            "question": "1. dari sejumlah siswa diketahui 25 siswa gemar matematika , 21 siswa gemar bahasa inggris , dan 9 siswa gemar keduanya ..jumlah siswa pada kelompok itu adalah........    2. terdapat 30 pengendara sepeda motor yang terkena tilang .pengendara tidak membawa sim ada 15orang , 17 tidak membawa stnk dan 5 pengendara melakukan pelanggaran lain. banyaknya pengendara yang terkena tilang ,tidak membawa sin dan stnk adalah .....\r\n\r\n3.didalam suatu kelas terdiri dari 43 siswa , siswa yang gemar matematika 29 orang , sedangkan yang gemar bahasa ada 27 orang . jika ada 6 orang yang tidak gemar matematika \u00a0maupun bahasa maka berapa banyaknya siswa yang gemar keduanya ?\u00a0\r\n\r\ntolong dikasih caranya ya ......\r\ntolaong dibantu ......",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1. ( 25 - 9 ) + ( 21 - 9 )<br>= 16 + 12<br>= 28<br>jadi,\u00a0jumlah siswa di kelompok itu adalah 28 siswa<br><br>2. maaf yg no. 2 kurang tau<br><br>3. 29 + 27 + 6 = 62 - 43<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0= 19<br>jadi, banyak siswa yg gemar keduanya adalah 19 siswa<br><br>kalau hitungan nya ada yg salah mohon maaf :)",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,134 @@
+{
+    "question": "Bagaimana cara menghitung perbedaan dan persamaan dan perbedaan linear satu variabel ? Tolong jelaskan dengan jelas !",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "kalau pakai pendapat saya, persamaan linear satu variabel itu hanya mengunakan 1 variabel untuk penyelesaiaanya misalnya: x, y, dsb. sedangkan perbedaan linear satu variabel itu dalam penyelesainnya terdapat kata\u00a0<u></u><strong>tidak\u00a0</strong>atau\u00a0<strong>bukan</strong> misalnya: \u00a0dalam persamaan ini:<br>3x + 12 = 24, {x| x &lt; 5, x E\u00a0bilangan prima}<br>3x = 24 - 12<br>3x = 12<br>x = 4<br>jadi, x = 4\u00a0<strong>bukan\u00a0</strong>penyelesaian dari persamaan 3x + 12 = 24, {x|\u00a0x &lt; 5, x E bilangan prima}<br><br><br>semoga bisa membantu ^_^,,,<br>maaf kalau ada yang salah ^_^,,,<br>silahkan ditanyakan kalau tidak mengerti dengan jawaban saya tadi ^_^,,,",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "809",
+            "question": "",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "kalo ada soal kyk gitu inget!!! (a+b)\u00b2= a\u00b2+2ab+b\u00b2<br>(\u221a5+\u221a3)\u00b2<br>5+2\u221a15+3<br>8+\u221a15<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "([tex](  \\sqrt{8}  )^{2} [/tex]<br>=[tex] \\sqrt{64} =8[/tex]<br><br>semoga membantu :)",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-kakak-kakak-ya-makasih-tolong-num-108",
+            "question": "Tolong.... :)\u00a0 \u00a0 kakak - kakak ya.... makasih.... tolong :) numpuk tuggas    \u00a0\u00a0 \u00a0 1.sebuah segitiga sama kaki memiliki panjang sisi yang sama dengan 5 kali panjang sisi lainnya. agar keliling segitiga tersebut lebih besar dari 50m, berapakah panjang masing-masing segitiga tersebut ?\r\n\u00a0\u00a0 \u00a0 2.pak ketut membangun rumah di atas sebidang tanah berbentuk persegi panjang yang panjangnya 30m dan lebarnya (2y + 1)m. jika luas tanah paketut tidak lebih luas dari 150m\u00b2.\r\n\u00a0\u00a0 \u00a0 \u00a0 a.berapakah lebar tanah pak ketut yang paling besar ?\r\n\u00a0\u00a0 \u00a0 \u00a0 b.biaya untuk membangun 1m\u00b2 dibutuhkan uang empat setengah juta rupiah,berapakah biaya maksimal yang harus di sediakan pak ketut jika seluruh tanahnya di bangun ?\r\n\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 TERIMAKASIH",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1. diketahui = sisi segitiga sama kaki 5 kali lebih besar dari sisi lainnya<br>\u00a0 \u00a0 ditanya \u00a0 \u00a0= agar kelilingnya lebih besar dari 50, berapakah sisinya?<br>jawab = sisi = 5a + 5a + a &gt; 50<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a011a &gt; 50<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 11a : 11 &gt; 50 : 11<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 a = 4,6 cm<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 sisi = a = 4,6 cm<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 5a = 5 x 4,6 = 23 cm<br><br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "gimana-sih-cara-mudah-menghitung-pemfaktoran-934",
+            "question": "Gimana sih cara mudah menghitung pemfaktoran?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "pemfaktoran aljabar, bentuk kuadrat, atau yang lain???<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "kalo saya, lebih gampang pake rumus abc, yang<br>(-b\u00b1\u221a(b^2-4ac))/2a<br><br>soalnya,\u00a0tinggal dimasuk-masukin doang angkanya orz.",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-kasih-soaljawaban-dan-keterangannya-tentang-pertidak-s-437",
+            "question": "Tolong :)    kasih soal,jawaban dan keterangannya tentang pertidak samaan liner satu varriable....\r\nbuat kelas 7 ya... terimakasaih :)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "2x + 5 = 11<br>2x + 5 - 5 = 11 - 5<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 2x = 6<br>1/2\u00a0 x\u00a0 2x = 1/2 x 6<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0  x = 3<br>jadi x = 3 disebut penyelesaian dari 2x + 5 = 11<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jumlah-kelereng-robincecepdan-budi-248-butir-banyak-kelereng-r-346",
+            "question": "Jumlah kelereng Robin,Cecep,dan Budi 248 butir. Banyak kelereng Robin 4/5 kali banyaknya kelereng Cecep. Tetapi banyak kelereng Budi sama banyak dengan kelereng Cecep. Berapa banyak kelereng mereka masing-masing?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "robin+cecep+budi=248<br>robin=4/5cecep<br>cecep=budi<br>maka-----&gt; robin+cecep+budi<br>----&gt; 4/5cecep+cecep+cecep/budi=248<br>4/5c + 2c=248<br>14/5c=248<br>c=248 : 14/5<br>=88,57 (cecep &amp; budi)<br>robin=\u00a0 4/5 x 88,57<br>=70,85<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "persamaan-garis-yang-melali-titik-33-sejajar-dengan-garis-y2x-688",
+            "question": "Persamaan garis yang melali titik (3,3) sejajar dengan garis y=2x-4",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "sejajar berarti gradien sama<br>maka gradien garis tersebut adalah 2<br>(3,3) adalah titik (x1,y1)<br><br>y - y1 = m ( x - x1)<br>y - 3 = 2 ( x - 3)<br>y - 3 = 2x - 6<br>y = 2x - 6 + 3<br><strong>y = 2x - 3</strong><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "seorang-walikota-merencanakan-membuat-taman-rekreasi-berbentuk-li-127",
+            "question": "Seorang walikota merencanakan membuat taman rekreasi berbentuk lingkaran dengan diameter 1.400 m. Oleh karena kurang dana, dalam realisasinya hanya dibangun taman dengan diameter 700 m. Berapa persen biaya yang dapat dihemat dari biaya pembebasan tanah untuk taman itu dari rencana semula?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "50% <br><br>Maaf kalo salah yaaa<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "karena 700 itu setengah dari 1400 berarti dana yang di hemat juga setengahnya atau 50%",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "manakah-dibawah-ini-yang-merupakan-persaaan-linear-satu-variabel-109",
+            "question": "Manakah dibawah ini yang merupakan persaaan linear satu variabel ??     a. 2x - 4 = 8\r\nb. -4 + 3s + 24\r\nc. -8 - d\u00b2 = 32\r\nd. 5 (u - 2) + u - 2",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a. 2x - 4 = 8<br>c. -8 - d2 = 32<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "hasil-dari-3-5-x-204-235",
+            "question": "Hasil dari (-3-5) x (-20+4)\r\n\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0-------------------\r\n\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0-(-7-3)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "ini jawaban saya<br>(-3-5) X (-20+4) / -(-7-3)<br>-60-12+100-20 / 7+3<br>-92+100 / 10<br>8 / 10 = 0,8<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1dua-bilangan-selisih-5jika-dikali-bilangan-yang-besar-dikurang-454",
+            "question": "1.Dua Bilangan selisih 5.jika dikali bilangan yang besar dikurangi bilangan yang kecil adalah 175,tentukan bilangan itu jawab : 2.diketahui jumlah bilangan 100 dan selisihnya adalah 40.bagaimana nilai dua bilangan tersebut.dapat dinyatakan linear 1 variabel jawab : \u00a0 \u00a0 tolongg dijawab besok dikumpullll:'(",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "hanya tuhan yang tau",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

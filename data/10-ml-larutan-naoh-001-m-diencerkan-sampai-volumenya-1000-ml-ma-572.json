@@ -1,0 +1,142 @@
+{
+    "question": "10 mL larutan NaOH 0,01 M diencerkan sampai volumenya 1000 mL, maka berapa PH-nya ?",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "10.0,01=1000.M<br>0,1 = 1000M<br>M = 1x10\u207b\u2074<br>pOH = -log 1x10\u207b\u2074<br>pOH = 4<br>pH = pKw - pOH<br>\u00a0 \u00a0 = 14 - 4<br>\u00a0 \u00a0 =<strong>\u00a010</strong>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "analisis-senyawa-hidrokarbon-menghasilkan-data-sebagai-berikut-k-769",
+            "question": "Analisis senyawa hidrokarbon menghasilkan data sebagai berikut:    kadar karbon = 92,3%\r\nkadar hidrogen = 7,7 %\r\njika diketahui Ar : H=1,C=12 , dan M senyawa =78,tenteukan rumus empiris dan rumus molekul senyawa tersebut.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kadar C = 92,3 % x 78<br>= 71,994 \u21d2 dibulatin jadi 72<br>setelah dapat 72, kemudian dibagi sama Ar C = 6<br><br>Kadar H = 7,7 % x 78<br>= 6,006 \u21d2 dibulatin jadi 6<br>setelah dapat 6, kemudian dibagi sama Ar H = 6<br><br>Jadi, rumus empirisnya C\u2086H\u2086 (Benzena)<br><br>rumus molekul, bentuk cincin benzena<br>\u00a0\u00a0 \u00a0\u00a0 \u00a0\u00a0 C\u2081H<br>C\u2086H\u00a0 \u00a0 \u00a0 \u00a0\u00a0 \u00a0 C\u2082H<br><br>C\u2085H\u00a0 \u00a0 \u00a0 \u00a0\u00a0 \u00a0 C\u2083H<br>\u00a0\u00a0 \u00a0 \u00a0\u00a0\u00a0 C\u2084H<br>ket ;<br>C\u2081=C\u2082-C\u2083=C\u2084-C\u2085=C\u2086-C\u2081",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bagaimana-cara-membuktikan-berlakunya-kaidah-duplet-pada-molekul-129",
+            "question": "Bagaimana cara membuktikan berlakunya kaidah duplet pada molekul H2, kaidah oktet pada molekul CCl4 dan CO2, serta keduanya pada molekul CH4?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "yang perlu di ingat kaidah duplet memiliki 8 elaktron terluar sedangkan kaidah oktet memiliki 2 elekton pada kulit terluar.<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "menurut-teori-bronsted-lowry-aminiak-bersifat-basa-karena-108",
+            "question": "Menurut teori bronsted lowry aminiak bersifat basa, karena....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "zat penerima proton H+<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "asam atau basa itu adalah konsep senyawa yang terlarut di dalam air. jadi jika terlarut pada selain air, tidak boleh disebut sebagai asam/ basa.<br>amonia bersifat basa harus diletakkan pada kondisi terlarut. jika masih dalam keadaan amonia (NH3), tidak dapat dipakai sebagai basa karena keadaanya masih gas.<br>pada keadaan air, reaksinya :<br>NH3 + H2O --&gt; NH4OH<br>maka ketika pada kondisi terlarut, dia dapat menerima proton dalam bentuk H+ apabila ia bereaksi dengan suatu asam<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "penjelasan-tentang-asam-dan-basa-bagaimana-cara-menbedakannya-555",
+            "question": "Penjelasan tentang asam dan basa\r\nbagaimana cara menbedakannya",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "asam adalah senyawa yang dalam air menghasilkan ion H+<br>basa adalah senyawa yang dalam air menghasilkan ion OH-<br><br>cara membedakannya dapat menggunakan alat yaitu<br>indikator universal<br>indikator alami,dll<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "asam bersifat korosif, asam memiliki rasa asam,asam menghasilkan ion H+ dalam air, asam memiliki pH kurang dari 7<br>basa bersifat kaustik (merusak kulit), terasa licin ditangan,terasa pahit,\u00a0 menghasilkan ion OH dalam air, basa memiliki pH lebih dari atau sama dengan 7<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebutkan-nama-unsur-periodik-golongan-va-397",
+            "question": "Sebutkan nama unsur periodik golongan VA",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "hidrogen, litium, natrium, kalium, rubidium, sesium, fransium",
+                    "attachments": []
+                },
+                {
+                    "answer": "Nitrogen = N<br>Posfor = P<br>Arsen = As<br>Stibium / Antimon = Sb<br>Bismuth = Bi<br><br>semoga bisa membantu :)<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "berapa-banyak-atom-al-dalam-1-mol-logam-aluminium-al-976",
+            "question": "Berapa banyak atom Al dalam 1 mol logam aluminium (Al)?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "jumlah atom = n.6,02.10^23<br>=1.6,02.10^23 atom<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tabung-yang-volume-nya-5liter-berisi-campuran-gas-ch4-dan-c2h2-ya-898",
+            "question": "tabung yang volume nya 5liter berisi campuran gas CH4 dan C2H2 yang dibakar sempurna menurut rreaksi: \u00a0 CH4 + O2 -&gt; CO2 +H2O \u00a0 C2H2 + O2 -&gt; CO2 + H2O \u00a0 jika volume gas CO2 yang dihasilkan pada pembakaran tersebut 8 liter, tentukan volume masing masing gas didalam campuran tersebut... minta bantuannya ya...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "setarakan reaksi.<br>CH\u2084 + 2O\u2082 -&gt; CO\u2082 + 2H\u2082O<br>1 \u00a0 \u00a0 \u00a0 \u00a02 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 1 \u00a0 \u00a0 \u00a0 \u00a0 2<br>C\u2082H\u2082 + \u2075/\u2082O\u2082 -&gt; 2CO\u2082 + H\u2082O<br>1 \u00a0 \u00a0 \u00a0 \u00a0 \u00a05/2 \u00a0 \u00a0 \u00a0 \u00a0 2 \u00a0 \u00a0 \u00a0 \u00a0 1<br><br>pada CH\u2084 tiap 1 liter gas metana tersebut bereaksi hanya menghasilkan 1 liter CO\u2082<br>pada C\u2082H\u2082 tiap 1 liter zat tersebut bereaksi menghasilkan 2 liter CO\u2082<br>bisa diasumsikan begini<br>CH\u2084 anggap x<br>C\u2082H\u2082 anggap y<br>pX + qY = 8<br>X = 1\u00a0<br>Y = 2<br>berapa nilai p dan q supaya hasilnya bisa 8? inisih asumsikan sendiri juga bisa<br>saya anggap nilai p= 2 dan q = 3<br>2(1) + 3(2) = 8 sama<br>berarti campuran gas tersebut adalah 2 liter gas CH\u2084 dan 3 liter gas C\u2082H\u2082<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apa-gunanya-kaca-spion-mobil-yang-cembung-919",
+            "question": "Apa gunanya kaca spion mobil yang cembung",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Pemantulan cahaya<br>Hukum Pemantulan Cahaya :<br>1. Sinar datang, sinar pantul, dan garis normal terletak pada satu bidang datar.<br>2. Sudut datang sama dengan sudut pantul.<br>CERMIN DATAR<br>Sifat-sifat bayangan pada cermin datar :<br>1. Bayangan cermin sama besar  dengan benda yang berada di depan cermin,<br>2. Bayangan cermin tegak, artinya posisi tegaknya sama dengan posisi tegaknya benda,<br>3. Jarak bayangan ke cermin sama dengan jauhnya jarak benda ke cermin,<br>4. Bayangan cermin tertukar sisinya.<br>5. Bayangan cermin merupakan bayangan semu.<br>Pembentukan bayangan pada cermin datar. <br>semua tergantung bentuk spion<br>\\<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "cermin datar lebih bagus,bayangan yang dipantulkan jaraknya sama dengan aslinya\u2026 kan klo cembung jd keliatan jauh\u2026. \u201d . Kenapa kaca Spion menggunakan cermin cembung (konveks) ? Jawabannya adalah agar area daerah observasi menjadi lebih Luas<br><br>semoga jawaban ini bisa membantu<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tetapan-disosiasi-suatu-asam-berbasa-satu-adalah-10-pangkat-7-592",
+            "question": "tetapan disosiasi suatu asam berbasa satu adalah 10 pangkat -7\u00a0 \u00a0 .jika suatu larutan mempunyai ph 4 maka konsentrasinya adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "M=10^-1<br>H+=(ka.M)^1/2<br>10^-4=(10^-7.M)^1/2<br>10^-8=10^-7.M<br>M=10^-8/106-7<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "timbel-nitrat-itu-termasuk-elektrolit-lemah-atau-kuat-rumus-ki-132",
+            "question": "Timbel\u00a0nitrat itu termasuk elektrolit lemah atau kuat? rumus\u00a0kimia dari timbel nitrat itu apa?\u00a0Jawab ya :D",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "elektlorit\u00a0kuat<br>\u00a0rumus kimiannya\u00a0Pb(NO\u2083)\u2082",
+                    "attachments": []
+                },
+                {
+                    "answer": "timbal nitrat elektrolit kuat<br>ada dua rumus untuk timbal nitrat dikarenakan timbal memiliki 2 jenis bilangan oksidasi (valensi)<br><br>1. Pb(NO3)2<br>2. Pb(NO3)4<br><br>semoga bisa membantu :)<br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

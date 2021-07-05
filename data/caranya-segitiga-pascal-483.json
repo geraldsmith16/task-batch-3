@@ -1,0 +1,142 @@
+{
+    "question": "Caranya segitiga pascal?",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "Kelas : VII (1 SMP)<br>Materi : Operasi dan Faktorisasi Bentuk Aljabar<br>Kata Kunci : aljabar, segitiga, pascal<br><br>Pembahasan :<br>Menggunakan pola bilangan segitiga Pascal untuk menjabarkan bentuk aljabar (a + b)\u207f.<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 1 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u2192 (a + b)\u2070<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a01 \u00a0 \u00a0 \u00a0 \u00a0 1 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u2192 (a + b)\u00b9<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 1 \u00a0 \u00a0 \u00a0 \u00a0 2 \u00a0 \u00a0 \u00a0 \u00a0 \u00a01 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u2192 (a + b)\u00b2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 1 \u00a0 \u00a0 \u00a0 \u00a0 \u00a03 \u00a0 \u00a0 \u00a0 \u00a0 3 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 1 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u2192 (a + b)\u00b3<br>\u00a0 \u00a0 \u00a01 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 4 \u00a0 \u00a0 \u00a0 \u00a0 6 \u00a0 \u00a0 \u00a0 \u00a0 \u00a04 \u00a0 \u00a0 \u00a0 \u00a0 \u00a01 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u2192 (a + b)\u2074<br>1 \u00a0 \u00a0 \u00a0 \u00a0 \u00a05 \u00a0 \u00a0 \u00a0 \u00a0 10 \u00a0 \u00a0 \u00a0 \u00a0 10 \u00a0 \u00a0 \u00a0 \u00a0 5 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a01 \u00a0 \u00a0 \u00a0 \u2192 (a + b)\u2075<br>\u2191 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u2191<br>Koefisien suku ke-1 \u00a0 \u00a0 \u00a0... \u00a0 Koefisien suku ke-6<br><br>Contoh :<br>(x + 3y)\u00b3 = x\u00b3 + 3.x\u00b2.3y + 3.x.(3y)\u00b2 + (3y)\u00b3 = x\u00b3 + 9x\u00b2y + 27xy\u00b2 + 27y\u00b3.<br><br>(a - 2b)\u2074 = a\u2074 + 4.a\u00b3.(-2b) + 6.a\u00b2.(-2b)\u00b2 + 4.a.(-2b)\u00b3 + (-2b)\u2074 = a\u2074 - 8a\u00b3b + 24a\u00b2b\u00b2 - 32ab\u00b3.<br><br>(-2x + 5y)\u2075 = (-2x)\u2075 + 5.(-2x)\u2074.(5y) + 10.(-2x)\u00b3.(5y)\u00b2 + 10.(-2x)\u00b2.(5y)\u00b3 + 5.(-2x).(5y)\u2074 + (5y)\u2075 = -32x\u2075 + 400x\u2074y - 2.000x\u00b3y\u00b2 + 5.000x\u00b2y\u00b3 - 6.250xy\u2074 + 3125y\u2075.<br><br>Semangat!",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "untuk-membangun-ruang-kelas-baru-sebanyak-2-kelas-akan-selesai-da-253",
+            "question": "untuk membangun ruang kelas baru sebanyak 2 kelas akan selesai dalam waktu 50 hari jika dikerjakan oleh 15 orang tukang. setelah 20 hari bekerja bahan habis, pekerjaan terhenti 5 hari. berapa orang tukang ditambah agar ruang kelas itu tetap selesai tepat waktu?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<strong><em>Target selesai</em></strong>=50 hari<br><strong><em>Byk pekerja awal</em></strong>=15 org<br><strong><em>Libur</em></strong>=5 hr<br><strong><em>Sisa hari</em></strong>=50-(20+5)=25 hari<br><br><strong><em>Pekerja tambahan=byk pekerja awalxlibur/sisa hari</em></strong><br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0=[tex] \\frac{15.5}{25} \\\\  \\\\ 3 org [/tex]<br><br>Jadi <strong><em>tambaan pkerja 3 orang</em></strong> dan jumlah pekerja mnjadi 18 orang",
+                    "attachments": []
+                },
+                {
+                    "answer": "akan bertambah 17 tukang<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "32-2-128-bagaimana-cara-mengerjakannya-28-18-556",
+            "question": "\u221a32 - \u221a2 +\u221a128 bagaimana cara mengerjakannya\r\n\r\n2\u221a8 + \u221a18 + \u221a32 +\u221a200",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>=\u221a32 - \u221a2 +\u221a128<br>=</span>\u221a16\u221a2 - \u221a2 + \u221a64<span>\u221a2<br>=4</span><span>\u221a2-\u221a2+8\u221a2<br>=</span><span>\u221a2(4-1+8)<br></span>=\u221a2 x 11<br>=11\u221a2<br><br><span>=2\u221a8 + \u221a18 + \u221a32 +\u221a200<br>=2\u221a4\u221a2+\u221a9\u221a2+\u221a16\u221a2+\u221a100\u221a2<br>=4\u221a2+3\u221a2+4\u221a2+10\u221a2<br>=\u221a2(4+3+4+10)<br>=\u221a2 x 21<br>=21\u221a2</span><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "2n2-2n-2-2n-123-2-pangkat-400",
+            "question": "2^n+2 - 2^n-2 \u00f7 2^n-1(2^3-2)\r\n ^ = pangkat",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "ni hasilnya <br>= 4(2^n - 4)<br>n = 2<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-naik-motor-dheni-akan-sampai-ke-sekolah-dalam-waktu-45-me-569",
+            "question": "Jika naik motor, Dheni \u00a0akan sampai ke sekolah dalam waktu 45 menit dengan kecepatan rata-rata 20 km/jam. berapa kecepatan rata - rata bentor agar Dheni sampai di sekolah dalam waktu\u00a030 menit?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Pertama, dicari jaraknya dulu<br>S = v.t<br>S = 20. 3/4<br>S = 15<br>Bila ingin menempuh waktu 30 menit maka dibutuhkan kecepatan..<br>v = S : t<br>v = 15 :1/2<br>v = 30<br>Semoga betul ^^",
+                    "attachments": []
+                },
+                {
+                    "answer": "Pertama, dicari jaraknya dulu<br>S = v.t<br>S = 20. 3/4<br>S = 15<br>Bila ingin menempuh waktu 30 menit maka dibutuhkan kecepatan..<br>v = S : t<br>v = 15 :1/2<br><span>v = 30</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-lingkaran-memiliki-jari-jari-8m-berapakah-panjang-lintasan-108",
+            "question": "Jika lingkaran memiliki jari jari 8m, berapakah panjang lintasan yang ditempuh?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "k O = 2\u03c0r<br>\u00a0\u00a0 \u00a0 =\u00a0 2 x 3,14 x 8<br>\u00a0\u00a0 \u00a0 =\u00a0 50,24<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Lintasan=Keliling<br>2r=d=16<br>Kell.=\u03c0\u00b7d<br>=3,14\u00b716<br>=<strong>50,24</strong><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "berapa-hasil-dari-18-618-6-562",
+            "question": "Berapa hasil dari\u00a0 (\u221a18 +\u00a0\u221a6(\u221a18-\u221a6))",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "( \u221a18+\u221a16(\u221a18-\u221a16))<br>=(3\u221a2+4(3\u221a2-4))<br>=18+12\u221a2+12\u221a2-16<br>=18+24\u221a2-16<br>=2+24\u221a2",
+                    "attachments": []
+                },
+                {
+                    "answer": "\u00a0hasil perubahan soal\u00a0 \u00a0\u00a03\u221a2 +\u00a0\u221a6(2\u221a3-\u221a6)<br>hasil\u00a03\u221a2 - 6 + 6\u221a3",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diket-skala-110000000-jarak-pda-pta-kota-jambi-palembang-2-945",
+            "question": "Diket : skala 1:10.000.000    jarak pda pta kota Jambi - Palembang 2,4 cm\r\nsopir bis mengendarai bis dari jambi-palembag dgn kec 80km/jam\r\nsopir bis istirahat 30 menit\r\ntiba di kota palembang pukul 10.30\r\n\r\na.berapa jam bis itu di perjalanan ?\r\nb.pukul brp sopir bis berangkat dri kota jambi ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a. w = JS =1:10.000.000 x 2.4 =24000.000 cm = 240 km<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 240 / 80 = 3\u00a0 jam ( tidak dgn waktu istirahat )<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 3 jam + 30 menit = 3.30 (dgn waktu istirahat ) \u00a0  <br>\u00a0\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 <br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 <br>b.\u00a0 10.30 - 3.30<br>\u00a0\u00a0 \u00a0 pukul 7<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-suku-ke-5-dan-suku-ke-8-barisan-aritmetika-masing-masin-963",
+            "question": "diketahui suku ke-5 dan suku ke-8 barisan aritmetika masing masing 16 dan 25 . jumlah 22 suku pertama ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]U_{8} - U_{5} = a + 7b - (a + 4b) = 9 \\\\ 3b = 9 \\\\ b = 3, a = 4 \\\\ S_{22} =  \\frac{22}{2}(8+63) = 11.71 = 781 [/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-kakak-kakak-ya-makasih-tolong-num-108",
+            "question": "Tolong.... :)\u00a0 \u00a0 kakak - kakak ya.... makasih.... tolong :) numpuk tuggas    \u00a0\u00a0 \u00a0 1.sebuah segitiga sama kaki memiliki panjang sisi yang sama dengan 5 kali panjang sisi lainnya. agar keliling segitiga tersebut lebih besar dari 50m, berapakah panjang masing-masing segitiga tersebut ?\r\n\u00a0\u00a0 \u00a0 2.pak ketut membangun rumah di atas sebidang tanah berbentuk persegi panjang yang panjangnya 30m dan lebarnya (2y + 1)m. jika luas tanah paketut tidak lebih luas dari 150m\u00b2.\r\n\u00a0\u00a0 \u00a0 \u00a0 a.berapakah lebar tanah pak ketut yang paling besar ?\r\n\u00a0\u00a0 \u00a0 \u00a0 b.biaya untuk membangun 1m\u00b2 dibutuhkan uang empat setengah juta rupiah,berapakah biaya maksimal yang harus di sediakan pak ketut jika seluruh tanahnya di bangun ?\r\n\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 TERIMAKASIH",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1. diketahui = sisi segitiga sama kaki 5 kali lebih besar dari sisi lainnya<br>\u00a0 \u00a0 ditanya \u00a0 \u00a0= agar kelilingnya lebih besar dari 50, berapakah sisinya?<br>jawab = sisi = 5a + 5a + a &gt; 50<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a011a &gt; 50<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 11a : 11 &gt; 50 : 11<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 a = 4,6 cm<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 sisi = a = 4,6 cm<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 5a = 5 x 4,6 = 23 cm<br><br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "rasionalkan-penyebut-pecahan-berikut-22-66-yang-jawabannya-108",
+            "question": "Rasionalkan penyebut pecahan berikut.    2\u221a2\r\n6\u221a6\r\n\r\nYang jawabannya Jelas dan benar BINTANG 5 :)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "= 1<u>\u221a2</u> = <u> \u00a0</u><u>1 \u00a0</u>\u00a0\u00d7\u00a0<u>\u221a3</u> =\u00a0<u>\u00a0</u><u>1\u00a0</u>[tex] \\sqrt{3} [/tex]<u><br></u>\u00a0 \u00a03\u221a6 \u00a0 \u00a03\u221a3 \u00a0 \u00a0\u221a3 \u00a0 \u00a0\u00a09<span><br><br></span>",
+                    "attachments": []
+                },
+                {
+                    "answer": "[tex] \\frac{2 \\sqrt{2} }{6 \\sqrt{6} } =  \\frac{\\sqrt{2} }{3\\sqrt{6} } = \\frac{\\sqrt{2} }{3\\sqrt{6} }.  \\frac{ \\sqrt{6} }{ \\sqrt{6} } =   \\frac{ \\sqrt{12} }{18} \\\\ \\frac{ \\sqrt{4.3} }{18}=\\frac{2 \\sqrt{3} }{18}=\\frac{ \\sqrt{3} }{9}[/tex]",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

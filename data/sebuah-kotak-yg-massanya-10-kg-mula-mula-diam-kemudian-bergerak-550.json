@@ -1,0 +1,140 @@
+{
+    "question": "Sebuah kotak yg massanya 10 kg mula-mula diam, kemudian bergerak turun pada bidang miring yg membuat sudut 30 derajat terhadap arah horizontal tanpa gesekan dan menempuh jarak 10 m sebelum sampai ke bidang mendatar. kecepatan kotak pada akhir bidang miring jika percepatan gravitasi bumi g=9,8 m/s kuadrat adalah...    tolong dibantu ya?? :) makasi..",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "[tex] \\frac{h}{s} [/tex] = sin 30<br>[tex] \\frac{h}{s} [/tex] = <u></u>[tex] \\frac{1}{2} [/tex]<br>h = [tex] \\frac{s}{2} [/tex]<br>h = [tex] \\frac{10}{2} [/tex]<br>h = 5 <br><br>v = [tex] \\sqrt{2gh} [/tex]<br>v = [tex] \\sqrt{2.9,8.5} [/tex]<br>v = [tex] \\sqrt{98} [/tex]<br>v = [tex] \\sqrt{49.2} [/tex]<br>v = [tex] 7\\sqrt{2} [/tex]",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "apa-yang-dimaksut-dengan-torsi-906",
+            "question": "Apa yang dimaksut dengan torsi ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>Torsi adalah<em> kemampuan suatu gaya menghasilkan perputaran (rotasi) benda terhadap suatu poros atau pada sumbu putarnya.</em></span><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "sebuah besaran yang menyatakan besarnya gaya yang bekerja pada sebuah benda sehingga mengakibatkan benda tersebut berotasi\u00a0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dari-puncak-sebuah-menara-setinggi-45-m-dijatuhkan-sebuah-batu-j-959",
+            "question": "dari puncak sebuah menara setinggi 45 m dijatuhkan sebuah batu. jika percepatan gravitasi di tempat tersebut 10 m/s\u00b2, kecepatan batu saat tepat menyentuh tanah sebesar?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Dik = h : 45cm<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0g : 10 m/ [tex] s^{2} [/tex]\u00a0<br>Dit = V =  \\sqrt{2.g.h} ?<br>Penye =\n<br>V =  \\sqrt{2.10.45}<br>\u00a0 \u00a0=   \\sqrt{900}<br>\u00a0 \u00a0= 30[/tex]<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "EP = EK<br>mgh = 1/2 m v^2<br>gh = 1/2 v^2<br>45.10 = 1/2 v^2<br>900 = v^2<br>v = 30m/s<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bagaimana-cara-menentukan-titik-tangkap-resultan-pada-keseimbanga-991",
+            "question": "bagaimana cara menentukan titik tangkap resultan pada keseimbangan benda tegar yg tersusun dari beberapa gaya yang sejajar berlawanan arah?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "resultan gaya sejajar segaris dan berlawanan arah sama dengan <u>&#039;&#039;selisih kedua gaya&#039;&#039;</u>. jadi rumusnya : R = F1 - F2<br>R : Resultan gaya",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "seorang-penari-balet-dengan-tangan-terentang-berputar-pada-kecepa-806",
+            "question": "seorang penari balet dengan tangan terentang berputar pada kecepatan sudut diatas lantai mendatar yang licin. jika penari tersebut melipat tangannya, momen inersiannya akan berkurang sebesar 20% dari semula. perbandingan energi kinetik rotasi saat tangan dilipat dengan saat tangan terentang adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kategori: Fisika Bab Energi <br>Kelas: XI SMA IPA <br><br><br><br><br>Perhitungan dapat dilihat pada lampiran",
+                    "attachments": [
+                        "answer-attachments/seorang-penari-balet-dengan-tangan-terentang-berputar-pada-kecepa-806-1.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-bola-pejal-bermassa-05-kg-dan-jari-jari-20-cm-menggelind-174",
+            "question": "sebuah bola pejal bermassa 0,5 kg. dan jari jari 20 cm menggelinding pada lantai mendatar dengan kecepatan 8 m/s kemudian naik ke bidang miring. Tentukan ketinggian h maksimum yang dapat dicapai hingga bola berhenti sesaat",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>Mapel: Fisika</p><p>Kelas : XI SMA<br></p><p>Kategori \u00a0: dinamika rotasi<br></p><p>Kata Kunci : menggelinding, kecepatan, ketinggian, bidang miring, energi mekanik<br></p><p>Jawaban:<br></p><p>Jika bola menggelinding, berarti benda mengalami gerak translasi sekaligus rotasi. Untuk menyelesaikan soal tersebut, digunakan hukum kekekalan energi mekanik.<br></p><p>Diketahui:<br></p><p>m = 0,5 kg<br></p><p>R = 20 cm<br></p><p>v = 8 m/s<br></p><p>g = 10 m/s2<br></p><p>Ditanya: h saat berhenti sesaat<br></p><p>Jawab:<br></p><p>Mula-mula bola berada di lantai mendatar sehingga tidak memiliki energi potensial. Saat berada pada ketinggian maksimum, bola tidak memiliki energi kinetik. Momen inersia bola pejal besarnya 2/5 mR2 (k = 2/5)<br></p><p>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 EMA = EMB<br></p><p>EPA + EktransA + EkrotA = EPB + EktransB + EkrotB<br></p><p>\u00a0 \u00a0 0 + \u00bd. m. v2 + \u00bd. I. \u03c92 = m.g.h + 0 + 0<br></p><p>\u00a0 \u00a0 \u00a0 \u00bd. m. v2 + \u00bd. k. m. v2 = m.g.h<br></p><p>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00bd. m. v2 ( 1 + k ) = m.g.h<br></p><p>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0h = v2 ( 1 + k )/ 2.g<br></p><p>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0h = 8^2 (1 + 2/5)/ 2.10<br></p><p>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0h = 64. 1,4/20<br></p><p>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0h = 89,2/ 20 = 4,48 meter<br></p><p>Jadi, ketinggian maksimum yang dapat dicapai hingga bola berhenti sesaat adalah 4,48 meter.<br></p><p>Jika mau dihafalkan, rumus cepat untuk mencari ketinggian maksimum benda atau mencari kecepatan mula-mula benda yang menggelinding menaiki bidang miring adalah<br></p><p>h= [tex] \\frac{ v^{2} (1+k)}{2.g} [/tex]<br></p>\n\n<p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-balok-dengan-massa-15-kg-berada-pada-bidang-datarkemudian-973",
+            "question": "sebuah balok dengan massa 15 kg berada pada bidang datar,kemudian didorongoleh dua gaya 20 N dan 10N dalam arah yg sama .jika kondisi bidang datar dalam keadaan licin,tentukan percepatan yg dialamo balok tersebut ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "m=15kg<br>F= 20N + 10N = 30N<br>a?<br>F=m a<br>30=15a<br>a=2",
+                    "attachments": []
+                },
+                {
+                    "answer": "m = 15 kg<br>F = 20 N + 10 N = 30 N<br>gaya gesek tidak ada karna lantai licin<br><br>maka a..?<br>ingat F = m.a<br>30 N = 15 kg .a<br>30 N/15 kg =a<br>2 m/s^2 = a :)",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-balon-berisi-900-m3-gas-helium-yang-massa-jenisnya-0183-152",
+            "question": "sebuah balon berisi 900 m\u00b3 gas helium yang massa jenisnya 0.183 kg/m\u00b3 . Jika massa jenis udara 1.29 kg/m\u00b3 . berapa beban yang dapay diangkat balon tersebut?? massa balon kosong 25 kg.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "maaf aku kurang mengerti pertanyaanya<br>rho = m.v<br>w = m.g<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-batu-bata-dengan-massa-3-kg-jatuh-dari-ketinggian-20-meter-ma-863",
+            "question": "1. Batu bata dengan massa 3 kg jatuh dari ketinggian 20 meter, maka kecepatan batu bata sesaat sebelum menyentuh tanah ?    2. Pegas panjang 20 cm digantungkan beban 200 gram sehingga panjang pegas menjadi 25 cm. untuk menarik pegas 2 cm dari titik seimbang hingga 8 cm dari titik seimbang diperlukan usaha sebesar ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1. Kecepatan sebuah benda jatuh bebas dapat dicari menggunakan\u00a0\u221a2gh sehingga V=\u00a0\u221a2.10.20=\u221a400\u2261\u00a020 m/s<br>2. Sebelum mencari besar usaha kita harus mencari koefisien elastisitas pegas terlebih\u00a0dahulu dari F = k.\u0394x sehingga k = F/\u0394x = 0,2.10/0,05 = 40 N/m<br>Kemudian Usaha untuk menarik pegas W = 1/2kx\u00b2\u00a0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suatu-gaya-menyinggungtepi-silinder-pejal-homogen-yang-massanya-932",
+            "question": "Suatu gaya menyinggungtepi silinder pejal homogen, yang massanya 200 gram. jari - jari 50 cm, akibat gaya tersebut silinder memiliki percepatan 4rad/s2, nilai gaya momen silinder sebesar...    A.0,1 b. 0,2 c.0,3 d.0,4 e. 0,5",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Dik : m = 200 g = 0,2 kg <br>\u00a0\u00a0 \u00a0 \u00a0\u00a0 r = 50 cm = 0,5 m <br>\u00a0\u00a0 \u00a0 \u00a0 \u03b1 = 4 rad/s2 <br>Dit : \u03c3 = ...?<br>Jwb : <br>silinder pejal ---&gt; I = 1/2 m r^2 <br>I = 1/2 . 0,2 . 0,5^2 = 0,025 <br>\u03c3 = I . \u03b1<br>\u00a0\u00a0 = 0,025 . 4 = 0,1 <br>(A) <br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Dik m = 200 gr = 0,2 kg<br>\u00a0 \u00a0 \u00a0 r = 50 cm = 0,5 m<br>\u00a0 \u00a0 \u00a0\u00a0\u03b1 = 4 rad/s<br>Dit torsi ?<br>jawab.<br>i =\u00a0[tex] \\frac{1}{2} m r^{2} [/tex]<br>\u00a0 = 1/2 . 0,2 . 0,5^2<br>\u00a0\u00a0= 0,025 kgm^2<br><br>torsi = \u00a0i .\u00a0\u03b1<br>\u00a0 \u00a0 \u00a0 \u00a0= 0,025 . 4<br>\u00a0 \u00a0 \u00a0 \u00a0= 0,1 Nm",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dua-buah-piringan-memiliki-inersia-i-dan-2i-dipasang-pada-sat-452",
+            "question": "Dua buah piringan memiliki inersia (I) dan (2I) dipasang pada satu poros yang licin dan dapat berputar bersama sebagai satu system. Piringan pertama awalnya di putar dengan kecepatan sudut ( \u03c9 ) dan yg kedua dengan kecepatan sudut (2\u03c9) ( keduanya berputar dalam arah yg sama ) dan kemudian keduanya di satukan dan terus berputar dengan kecepatan sudut \u2126. \u2126 sama dengan\u2026??",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "kecepatan sudut total =\u00a0\u221a\u03c9^2 + 2\u03c9^2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0=\u221a 5\u03c9^2",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

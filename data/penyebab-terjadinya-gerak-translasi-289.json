@@ -1,0 +1,140 @@
+{
+    "question": "Penyebab terjadinya gerak translasi",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "Gya yg searah atau berlawanan arah dengan gerak benda yang menyebabkan benda bergrak translasi diprcepat or diperlambat<br>",
+            "attachments": []
+        },
+        {
+            "answer": "karena terjadi gaya yang bekerja pada benda bulat dan menyebabkan benda tersbut\u00a0bergerak",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "sebuah-balok-bermassa-m-berada-di-atas-lantai-mendatar-licin-di-d-923",
+            "question": "sebuah balok bermassa m berada di atas lantai mendatar licin di dorong dengan gaya mendatar 21,5 N sehingga mengalami percepatan 2m/s\u00b2.berapakah gaya yang harus diberikan agar percepatan menjadi 4m/s\u00b2??",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "F=m.a<br>21,5=m.2<br>m=10,75 kg<br><br>F=m.a<br>F=10,75.4<br>F=43N<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "kita buat perbandingan aja,karna massanya sama kan :)<br>maka\u00a0<br>F1= 21,5 N<br>a1= 2 m/s^2<br>F2 = ..?<br>a2= 4 m/s^2<br><br>maka ..<br>F1/F2 = a1/a2<br>21,5 N/F2 = 2/4<br>21,5 N/F2 = 1/2<br>21,5 N . 2 = F2<br>43 N = F2 :)",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "roda-yang-berupa-silinder-pejal-massanya-3-kg-dan-jari-jari-20-cm-867",
+            "question": "Roda yang berupa silinder pejal massanya 3 kg dan jari jari 20 cm. Roda tersebut menggelinding dengan kecepatan sudut 100 rad/s. Tentukan energi kinetik total gerak roda tersebut?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Momen inersia nya =\u00a0[tex] \\frac{2}{5} mr^2[/tex]<br><br>[tex] \\frac{2}{5} 3 * 0.20^2[/tex]<br>\u03b1 = 100 rad / s\u00a0<br><br>berdasar hukum newton II terkait benda berotasi\u00a0<br><br>[tex]r F = m r^2  \\alpha [/tex]\u00a0<br><br>Energi kinetik pada bola pejal =\u00a0<br>[tex] \\frac{2}{5} 3 * 0.0400* 100 rad /s = 4.8 kg m s^{-1}[/tex]<br><br>di cek sekali lagi ya kalau kalau ada yang salah\u00a0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "gelombang-elektromagnetik-yang-memiliki-energi-foton-paling-besa-917",
+            "question": "Gelombang elektromagnetik\u00a0yang memiliki energi foton paling besar adalah....    A. Sinar - X\r\nB. Cahaya Merah\r\nC. Cahaya Ungu\r\nD. Gelombang Radio\r\nE. Sinar Gamma",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "c sinar ungu<br>karena memiliki f terbesar dan panjang gelombang terpendek",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apa-pengertian-dari-anergi-mekanis-dan-sebutkan-contohnya-379",
+            "question": "Apa pengertian dari anergi mekanis dan sebutkan contohnya?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "energi mekanis adalah energi yang dimiliki suatu benda karena sifat geraknya.\u00a0<br>contoh: kelapa yang jatuh ke tanah",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-momen-gaya-1-nm-dikerjakan-pada-roda-yang-mula-mula-diam-667",
+            "question": "Sebuah momen gaya 1 Nm dikerjakan pada roda yang mula-mula diam. momentum sudut roda setelah 2 sekon?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1 new nton dikali 2 =3/5<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span>1 new nton dikali 2 =3/5</span><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bagaimanakah-momentum-benda-sebelum-dan-sesudah-tumbukan-218",
+            "question": "Bagaimanakah momentum benda sebelum dan sesudah tumbukan ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Berdasarkan hukum kekekalan momentum,\"jika tidak ada gaya luar yang bekerja pada benda,maka jumlah momentum sebelum tumbukan = jumlah momentum setelah tumbukan\"",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bidang-lingkaran-dan-persegi-terbuat-dari-bahan-yang-sama-dan-lua-356",
+            "question": "bidang lingkaran dan persegi terbuat dari bahan yang sama dan luas lingkaran dua kali luas persegi pada suhu 20 derajat C. berapakah perbandingan pertambahan luas kedua bidang. jika bidang lingkaran dipanasi\u00a0hingga 30 derajat C. sedangkan pesegi dipanaskan hingga 35 derajat C\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "m\u00d7c\u00d7\u0394t<br>massa di umpamakan luasnya<br>1xcx(30-25)=5c<br>2xcx(35-25)=20c<br>5:20=1:4<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "berapakah-energi-kinetik-bola-pejal-yang-menggelinding-dengan-kec-179",
+            "question": "Berapakah energi kinetik bola pejal yang menggelinding dengan kecepatan 10m/s. Jika masanya 20kg.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "EK = 1/2 * 20 * 10*10 = 1000 Joule",
+                    "attachments": []
+                },
+                {
+                    "answer": "Dik : m=20kg<br>\u00a0\u00a0 \u00a0 \u00a0\u00a0 v=10m/s<br>dit : Ek..?<br>Jwb : Ek = <u>1</u><em></em> . m . v\u00b2<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 2<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 =<u>1</u> . 20 . 10\u00b2<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 2<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 =<u>1</u> . 20 . 100<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 2<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 =<u></u><u>2000</u><u><br></u>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0\u00a0\u00a0\u00a0 2<u><br></u>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 = 1000 J<u><br></u><u></u>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-baterai-dihubungkan-dengan-sebuah-resistor-akan-menghasilk-862",
+            "question": "Sebuah baterai dihubungkan dengan sebuah resistor akan menghasilkan arus 0,6 ampere. Jika pada rangkaian tersebut ditambahkan sebuah resistor 4,0 ohm yang dihubungkan seri dengan resistor pertama maka arus akan turun menjadi 0,5 ampere. Gaya gerak listrik (ggl) baterai (dalam volt) adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "v=I.R (sebelum ditambah resistor) <br>v=0.6R1 <br>v=I total ( R1 + R2 ) (setelah ditambah resistor ) <br>nah lalu substitusi <br>I R1 = I total . (R1+R2)<br>0.6R1=0.5 . ( R1 + 4) <br>0.6R1 - 0.5R1 =2<br>0.1R1=2 <br>R1=20ohm ==&gt; V=IR <br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 V=0.6x20 = 12volt <br>maaf kalau ada salah <br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "4-buah-pegas-identik-masingmasing-mempunyai-konstanta-elavasitas-344",
+            "question": "4 buah pegas identik masingmasing mempunyai konstanta elavasitas 1600N.M-1, disusun seri-paralel (lihat gambar)    beban w yang di gantung menyebabkan sistem pegas mengalami pertambahan panjang secara keseluruhan sebesar 5cm. berat beban w adalah",
+            "attachments": [
+                "question-attachments/4-buah-pegas-identik-masingmasing-mempunyai-konstanta-elavasitas-344-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "Ktotal = (4800x1600) : 4800 + 1600 = 1200 N/m<br>w=Fpegas<br>w=kx<br>w= 1200(0.05)<br>\u00a0 =60 n",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

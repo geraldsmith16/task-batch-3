@@ -1,0 +1,134 @@
+{
+    "question": "sebuah peta berskala 1:10000000. jarak kota jambi dan palembang pada peta jaraknya 2,4 cm. seorang supir bus berangkat dari kota jambi menuju kota palembang dengan kecepatan rata rata 80 km per jam. selama perjalanannya, ia berhenti istirahat sebanyak 1 kali selama 30 menit. ia tiba di kota palembang pukul 10.30 wib . \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 pertanyaannya: berapa jam bis tu di perjalanan? \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 jawabannya di berikan cara penyelesaiannya",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "Jarak = skala \u00d7 jarak pd peta<br>Jarak = 100 \u00d7 2,4<br>Jarak = 240 km<br><br>Waktu = Jarak \u00f7 Kecepatan<br>Waktu = 240 \u00f7 80<br>Waktu = 3 jam<br><br>waktu perjalanan = 3 jam - 30 menit = 2 jam 30 menit<br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "carilah-persamaan-lingkaran-yang-melengkapi-segitiga-siku-siku-ya-417",
+            "question": "carilah persamaan lingkaran yang melengkapi segitiga siku-siku yang titik-titik sudutnya adalah(0,0)(8,0)(0,6) ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "8x+6y klo gak salah\u00a0<br>harap dimaklumi\u00a0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "harga-tiket-masuk-ke-ruangan-pameran-untuk-balita-rp200000-dan-415",
+            "question": "harga tiket masuk ke ruangan pameran untuk balita Rp.2000,00 dan untuk dewasa Rp.3000,00.Pada hari minggu terjual 540 tiket adengan hasil penjualan Rp1.260.000,00.banyak masing-masing tiket masuk balita dan dewasa terjual berturut turut adalah...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "balita = 360 tiket = 720.000<br>dewasa = 180 riket = 540.000<br>total = 1.260.000",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jumlah-keliling-dua-buah-lingkaran-12-cm-jumlah-luasnya-20-cm-381",
+            "question": "Jumlah keliling dua buah lingkaran 12 cm,\u00a0 jumlah luasnya 20  cm, berapa jari-jari tiap lingkaran?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "k=2[tex] \\pi [/tex].diameter<br>12\\pi=[tex] \\pi [/tex].diameter<br>diameter= 12\u00a0<br>jari\"=12/2=6",
+                    "attachments": []
+                },
+                {
+                    "answer": "[tex]K_1+K_2=12 \\pi \\\\\n2 \\pi r_1+2 \\pi r_2=12 \\pi \\\\\nr_1+r_2=6\\\\\nr_2=6-r_1\\\\\\\\\nL_1+L_2=20 \\pi \\\\\n \\pi r^2_1+ \\pi r^2_2=20 \\pi \\\\\nr^2_1+r^2_2=20\\\\\nr^2_1+(6-r_1)^2=20\\\\\nr^2_1+36-12r_1+r^2_1=20\\\\\n2r^2_1-12r_1+16=0\\\\\nr^2_1-6r_1+8=0\\\\\n(r_1-2)(r_1-4)=0\\\\\nr_1=2\\ atau\\ r_1=4\\\\\nutk\\ r_1=2 \\rightarrow r_2=6-r_1=6-2=4\\\\\nutk\\ r_1=4 \\rightarrow r_2=6-r_1=6-4=2\\\\[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dik-jari-juring-lingkaran-20-cm-dan-mempunyai-luas-60-cm2-hit-818",
+            "question": "dik: jari\" juring lingkaran 20 cm dan mempunyai luas 60 cm\u00b2. hitunglah sudut juring tersebut dalam ukuran derajad !",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]\\frac{sudut\\ yg\\ dibentuk\\ oleh\\ juring}{360^o}=\\frac{luas\\ juring}{luas\\ lingkaran}\\\\\nsudut\\ yg\\ dibentuk\\ oleh\\ juring=\\frac{60}{ \\pi (20^2)}360^o\\\\\nsudut\\ yg\\ dibentuk\\ oleh\\ juring=\\frac{54}{\\pi }^o\\\\[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "rumus-keliling-segitiga-apa-aku-lupa-hehehe-230",
+            "question": "Rumus keliling segitiga apa ? aku lupa hehehe",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "sisi 1 + sisi 2 + sisi 3\u00a0<br>jadi hanya tinggal menjumlahkan ketiga sisinya saja :)",
+                    "attachments": []
+                },
+                {
+                    "answer": "keliling =\u00a0sisi + sisi + sisi",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dketahui-barisan-geometri-u1-u2-45-dan-u3-u4-20-tentukan-119",
+            "question": "Dketahui barisan geometri U1 + U2 = 45 DAN U3 + U4 = 20 tentukan rasiaonya ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "U1 + U2 = a + ab = 45<br>U3 + U4 = abb + abbb = 20<br><br>(a + ab = 45) &lt;&lt; dikali dengan bb<br>(a + ab)bb = 45bb<br>abb + abbb = 45bb<br><br>45bb = 20<br>bb = 20/45 = 4/9<br>b = akar (4/9)<br>b\u00a0= 2/3",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "maaf-sebelumnya-kali-ini-aku-lagi-ada-masalah-besok-bakal-ada-r-646",
+            "question": "Maaf sebelumnya. kali ini aku lagi ada masalah. besok bakal ada razia jilbab,    jlbab aku masih di loundry dan bukanya siang aku lupa ngambil. gimana caranya biar besok aku bisa sakit (pura-pura sakit) dan ngga ketauan\r\n\r\n\"sekolahku bording school :(",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Pake jilbab orangtua aja , ato minjem temen<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "pukul kepela ke tembok aja kak-_-\" ato pagi2 basahin air ke jidat biar kelihatan berkeringat disangka sakit deh..<br><br>kalau ga pake jilbab gmn emg? jilbab temen yg lain?",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-akar-akar-dari-persamaan-3x-2-x-6-0-pake-cara-365",
+            "question": "Tentukan akar-akar dari persamaan: 3x\u00a0\u00b2\u00a0- x + 6 = 0\r\n\r\npake cara melengkapkan kuadrat",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>3x\u00a0\u00b2\u00a0- x + 6 = 0<br></span>(3x - 3)(x + 2)<br>x = 3/3\u00a0=\u00a01 atau x= -2<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tuliskan-persamaan-x-y3-258",
+            "question": "Tuliskan persamaan {x-y=3}    \u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 {3x-2y=16} dalam bentukan matriks , lalu tentukan nilai 2x+5y",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "x - y = 3<br>3x -2y = 16<br><br>2x - 2y = 6<br><u>3x - 2y = 16</u> _<br><u></u>-x\u00a0 \u00a0 \u00a0 \u00a0 = -10<br><br>10 - y = 3<br>\u00a0\u00a0 \u00a0\u00a0 y = 7<br><br>2x +5y =<br>2*10 + 5*7 = 55<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-barisan-aritmetika-jumlah-suku-kedua-dan-keempat-adalah-880",
+            "question": "diketahui barisan aritmetika jumlah suku kedua dan keempat adalah 24 dan jumlah suku ketiga dan kelima adalah 32 suku ke 9 barisan tersebut adalah??",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a=4<br>b=4<br><br>u9=a+8b<br>\u00a0\u00a0  =4+32<br>\u00a0\u00a0 =36<br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

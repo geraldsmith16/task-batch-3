@@ -1,0 +1,138 @@
+{
+    "question": "Termometer celcius dan fahrenheit menunjukkan angka yang sama pada suhu",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "y\u00b0 R = y\u00b0 C<br><br>y = 4/5 y<br><br>5/5 y - 4/5 y = 0<br><br>1/5 y = 0<br><br>1 x y = 5 x 0<br><br>y = 0<br><br><br><span>Jadi suhu 0\u00b0 R sama dengan suhu 0\u00b0 C</span>",
+            "attachments": []
+        },
+        {
+            "answer": "323 kalo gak salah, kalo salah tolong betulin yaa<br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "untuk-keamanan-dalam-mendakiseorang-pendaki-gunung-menggunakan-s-591",
+            "question": "untuk keamanan dalam mendaki,seorang pendaki gunung menggunakan sebuah tali nilon yang panjangnya 50 m dan garis tengahnya 1,0 cm.ketika menopang pendaki yang bermassa 80 kg, tali bertambah panjang 1,6 m. tentukan modulus elastis nilon ( ambil\u00a0\u03c0 = 3,15 dan\u00a0g = 9,86 m/\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>E = FLo / delta LA\u00a0<br>= mg Lo / delta LA\u00a0<br>= (80 x 9,86 x 0,5) / (1,6 x (1/4) x 3,15 x 0,01^2)\u00a0<br>= 3,13 x 10^6\u00a0<br><br></span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-benda-panjangnya-2-meter-setelah-ditarik-oleh-gaya-30n-pan-113",
+            "question": "sebuah benda panjangnya 2 meter setelah ditarik oleh gaya 30N panjangnya menjadi 2,02 meter. Besar konstanta pegas benda tersebut adalah..",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "dik<br>panjang awal = 2 m<br>panjang akhir = 2,02 m<br>F = 30 N<br>dit :<br>k..?<br>jwb ..<br>x= panjang akhir - panjang awal = 2,02 - 2 m = 0,02 m<br><br>maka k = F/x = 30 N / 0,02 m = 1500 N/m",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "berapakah-energi-kinetik-bola-pejal-yang-menggelinding-dengan-kec-179",
+            "question": "Berapakah energi kinetik bola pejal yang menggelinding dengan kecepatan 10m/s. Jika masanya 20kg.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "EK = 1/2 * 20 * 10*10 = 1000 Joule",
+                    "attachments": []
+                },
+                {
+                    "answer": "Dik : m=20kg<br>\u00a0\u00a0 \u00a0 \u00a0\u00a0 v=10m/s<br>dit : Ek..?<br>Jwb : Ek = <u>1</u><em></em> . m . v\u00b2<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 2<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 =<u>1</u> . 20 . 10\u00b2<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 2<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 =<u>1</u> . 20 . 100<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 2<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 =<u></u><u>2000</u><u><br></u>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0\u00a0\u00a0\u00a0 2<u><br></u>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 = 1000 J<u><br></u><u></u>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-mobil-a-bergerak-dengan-kelajuan-40-kmjam-5-menit-kemudian-m-571",
+            "question": "1. mobil A bergerak    dengan kelajuan 40 km/jam, 5 menit kemudian mobil B bergerak dengan 90 km/jam. Kapan\r\n dan dimana mobil B bisa menyusul A?\r\n\r\n\r\n\r\n2. mobil A dengan\r\n kecepatan 70 km/jam ke barat, mobil B dengan kecepatan 50 km/jam ke timur,\r\n jarak mula mula 10 km. kapan dan dimana mobil A dan B bisa bertemu?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "kita konversi dulu kecepatannya<br>mobil A = 11,1 m/s<br>mobil B = 25 m/s<br>jaraknya 300 s<br>jarak tempuh 1 = jarak tempuh 2<br>11,1 x\u00a0(t+300) = 25 x t<br>11,1t + 3330 = 25t<br>13,9t = 3330<br>t = 239,56835 s<br><br>tempat ketemu\u00a0<br>=25 x 239,56835<br>=5989,2088 meter dari kedudukan awal",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "contoh-rangkaian-campuran-732",
+            "question": "Contoh rangkaian campuran",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "kendaraan bermotor yang sebagian besar komponennya terdapat beban listrik yang lebih banyak dari rangkaian seri<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "rangkaian antara rangkaian pararel dan rangkaian seri. contohnya rangkaian dalam kendaraan bermotor",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-pegas-yang-digantung-vertikal-kebawah-dengan-panjang-mula2-917",
+            "question": "Sebuah pegas yang digantung vertikal kebawah dengan panjang mula2 12cm , setelah ujung bawah dibebani massa 150 gram , makapanjang pegas menjadi 15cm, kostanta elastisitas pegas tsb adalah... N/m (g 10m/s) \u00a0 beserta caranya",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "diket : lo= 12 cm = 12 x 10\u00a0^ -2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 m = 150 g = 0,15 kg\u00a0<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 Lt= 15 cm = 15 x 10^ -2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 x = 3 cm = 3 x 10 ^ -2<br>tanya : K<br>jawab : k= m.g / x<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 k= 15 x 10^-2 : 3 x 10^-2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 k= 5<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-pegas-meregang-10-mm-ketika-di-tarik-oleh-gaya-2-n-berapa-985",
+            "question": "sebuah pegas meregang 10 mm ketika di tarik oleh gaya 2 N. berapa pertambahan panjang ketika ditarik gaya 5 N",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "m1/m2 = F2/F1<br>10/m2 = akar5/2<br>10/m2 = akar2,5<br>10/m2 = 1,58<br>m2 = 10/1,58<br>m2 = 6,3 mm",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "contih-soal-hukum-hooke-570",
+            "question": "Contih soal hukum hooke?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Ketika seseorang yang bermasaa 60kg bergelantungan pada ujung sebuah pegas, pegas bertambah panjang 15 cm. tentukan terapan gaya pegas.",
+                    "attachments": []
+                },
+                {
+                    "answer": "sebuah pegas digantung pd statif, panjang mula mula adlh 40 cm, kemudian pd ujungnya digantungi beban seberat 1 kg ternyata panjang pegas menjadi 45 cm. tentukan besar konstanta pegas tersebut jika \u00a0g = 10 m/s\u00b2",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-bola-pejal-menggelinding-dari-keadaan-diam-menuruni-suatu-174",
+            "question": "Sebuah bola pejal menggelinding dari keadaan diam menuruni suatu bidang miring yang membentuk sudut 30\"(30derajat) terhadap arah mendatar. kelajuan linear bola ketika telah menempuh lintasan sejauh 3,5 m pada bidang adalah....    tentukan dengan menggunakan persamaan V=((2mgh)/(m+I/R^2))^1/2",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "kalau menurut saya , bikin segitiga dulu , kan sudutnya 30 dan sisi miring nya 3,5 , jadi { sin30 = [tex] \\frac{h}{3,5} [/tex] ==&gt; h = 3.5sin30 = [tex] \\frac{7}{4} [/tex] <br>jadi langsung aja karena bola pejal jadi kecepatan linearnya <u></u>v = [tex] \\sqrt{ \\frac{4}{3} . g . h} [/tex] <br>v = [tex] \\sqrt{ \\frac{4}{3}. 10 .  \\frac{7}{4}  } [/tex] (kalau g nya 9.8 masukan 9.8 ) <br>v = [tex] \\sqrt{ \\frac{70}{3} } m/s[/tex] <br>semoga jawaban saya membantu mas dimas <br>mohon maaf kalau ada salah2 hehe<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "faktor-apa-saja-yang-mempengaruhi-besarnya-konstanta-elastisitas-773",
+            "question": "Faktor apa saja yang mempengaruhi besarnya konstanta elastisitas suatu kawat?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "menurut saya yang mempengaruhi konstanta adalah<br>gaya dan pertambahan panjang :)",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

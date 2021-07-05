@@ -1,0 +1,134 @@
+{
+    "question": "Ubahlah masalah nyata berikut ke dalam bentuk pertidaksamaan linear satu variabel    a) sebuah bus dapat mengangkut tidak kurang dari enam puluh orang penumpang\r\nb) jarak rumah beni ke sekolah lebih dari 100 meter\r\nc) penghasilan ibu monika tidak lebih dari 2 juta per bulannya\r\nd) sebuah pesawat berada di ketinggian tidak kurang dari 3 ribu kaki di atas permukaan laut\r\ne) kecepatan udin berkendara tidak lebih dari 50 km/jam",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "a) penumpang = x&gt;=60<br>b)x&gt;100<br>c) x&lt;=2<br>d) x&gt;=3<br>e) x&lt;=50",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "untuk-1-hari-1-malam-24-jam-ada-berapa-kali-putaran-jam-menent-746",
+            "question": "Untuk 1 hari 1 malam (24 jam), ada berapa kali putaran jam menentukan ukuran sudut terbesar dari :    a. 90\u00b0\r\nb. 150\u00b0\r\nc. 180\u00b0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a. 48x<br>b. 48x<br>c.24x<br>a dan b : 1 jam 2x putaran<br>c : 1 jam 1x putaran.<br>jadi, a dan b : 2x24 = 48<br>c : 1x24 = 24<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "keliling-sebuah-lingkaran-adalah-30-cm-jika-ukuran-jari-jari-di-114",
+            "question": "Keliling sebuah lingkaran adalah 30 cm. Jika ukuran jari-jari di perpanjang 2 kalinya, maka keliling lingkaran sekarang adalah....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "2phiR=30<br>R=30/2phi<br><br>2R=60/2phi<br>\u00a0jadi, keliling skrng 60 CM\u00a0",
+                    "attachments": []
+                },
+                {
+                    "answer": "30 = 2. pi .r<br>15 = 3,14 .r<br>15/3,14 =r<br>4,7 =r<br>dikali 2 maka r = 9,4 cm<br>maka keliling = 2.3,14 .9,4 cm = 59,032 cm",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukanlah-penyelesaian-dari-pertidaksamaan-berikut-a-2x-4-gt-130",
+            "question": "Tentukanlah penyelesaian dari pertidaksamaan berikut    a. 2x-4 &gt; 3x+9\r\nb. \u00a02y-7\u00a0\u2264 3\r\n\u00a0 \u00a0 \u00a0 \u00a02\r\n\r\nTolong beri cara utk mengerjakannya juga ya :)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "A. 2x-4 &gt; 3x + 9<br>\u00a0 \u00a0 2x - 2x -4 &gt; 3x+ 9<br>\u00a0 \u00a0 -4 &gt; x + 9<br>\u00a0 \u00a0 -4 - 9 &gt; x + 9 -9<br>\u00a0 \u00a0 \u00a0 \u00a0-13 &gt; x<br>B.\u00a0[tex] \\frac{2y-7}{2} [/tex] <u>&lt;</u> 3<br>\u00a0 \u00a0 semua dikalikan 2 menjadi<br>\u00a0 \u00a0 2y-7 <u>&lt;</u> 6<br>\u00a0 \u00a0 2y - 7 + 7\u00a0<u>&lt;</u> 6 + 7<br>\u00a0 \u00a0 \u00a02y\u00a0<u>&lt;</u> 13<br>\u00a0 \u00a0 \u00a02y : 2\u00a0<u>&lt;</u> 13 : 2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0y\u00a0<u>&lt;</u> 6,5",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-persegi-abcd-memiliki-panjang-sisi-a-cm-tentukan-panjang-511",
+            "question": "Sebuah persegi ABCD memiliki panjang sisi a cm. Tentukan panjang diagonal AC dalam a?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "berarti panjang diagonal AC=\u00a0[tex] \\sqrt{a} [/tex]",
+                    "attachments": []
+                },
+                {
+                    "answer": "ac=akar dari pada a.................",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-peta-berskala-1-10000000-jarak-kota-jambi-dan-palemba-564",
+            "question": "Sebuah peta berskala 1 : 10.000.000. Jarak kota Jambi dan Palembang pada peta jaraknya 2, 4 cm. Seorang sopir bis berangkat dari kota Jambi menuju kota Palembang dengan kecepatan rata-rata 80 km per jam. Selama perjalanannya ia berhenti istirahat sebanyak 1 kali selama 30 menit. Ia tiba di kota Palembang pukul 10.30 WIB.\u00a0    A. Berapa jam bis itu diperjalanan?\r\nB. Pukul berapa sopir bis itu berangkat dari kota Jambi?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Jarak Sebenarnya = 2,4\u00a0\u00d7 10.000.000<br>= 24.000.000 cm / 240 km<br>Waktu yang dibutuhkan untuk tiba di palembang tanpa istirahat =<br>240 : 80 = 3 jam<br>Dengan istirahat = 3 jam 30 menit<br>A. Di perjalanan membutuhkan waktu 3 jam (apabila istirahat tidak dihitung) dan 3 jam 30 menit (apabila istirahat dihitung)<br>B. Sopir berangkat pada pukul =<br>10.30 - 3.30 = 7.00<br>Semoga betul dan bermanfaat ^^",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "segitiga-yang-dibentuk-dari-dua-jari-jari-lingkaran-dan-tai-busur-324",
+            "question": "Segitiga yang dibentuk dari dua jari jari lingkaran dan tai busur adalah segitiga",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "segitiga yang terbentuk dari 2 jari\" dan 1 tali busur adalah <strong><u>segitiga sama kaki</u></strong><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "gradien-yang-melalui-titik-23-dan-35-adalah-440",
+            "question": "Gradien yang melalui titik (2,3) dan (3,5) adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]m =   \\frac{ y_{2} - y_{1} }{ x_{2} - x_{1} } = \\frac{ 5 - 3 }{ 3 - 2 }= \\frac{2}{1} =2[/tex]<br><br>kalau sekalian mau pers.nya<br><br>y = 2x - 1",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "himpunan-penyelesaian-dari-2x-5-11dengan-x-bilangan-bulat-364",
+            "question": "Himpunan penyelesaian dari 2x + 5 \u2264 11,dengan x bilangan bulat adalah?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>2x + 5 \u2264 11<br>2x</span>\u2264\u00a011-5<br>2x\u2264\u00a06<br>x\u2264\u00a03",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-himpunanpenyelesaian-dri-persamaan-linear-a-24m-12-b-813",
+            "question": "Tentukan himpunanpenyelesaian dri persamaan linear    a. 24m = 12\r\nb. -4 x-15 = 1- 8r\r\nplis d jawab",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]24m=12 \\rightarrow m=\\frac{12}{24}=\\frac{1}{2}\\\\\nHp=\\{\\frac{1}{2}\\}\\\\\\\\\n(-4)(-15)=1-8r\\\\\n60-1=-8r\\\\\n59=-8r\\\\\nr=-\\frac{59}{8}\\\\\nHp=\\{-\\frac{59}{8}\\}[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "3a-5b-a-4b-bentuk-sederhana-adalah-572",
+            "question": "3a - 5b -a -4b bentuk sederhana adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "samain dlu sukunya\u00a0 3a - 5b - a - 4b ,,,,, jadi\u00a0 3a - a - 5b - 4b<br>baru dijawab ,,,, jwaban.a 2a - b<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Jawabnya adalah 2a-9b :))",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

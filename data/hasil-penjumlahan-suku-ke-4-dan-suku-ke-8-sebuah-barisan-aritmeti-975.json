@@ -1,0 +1,138 @@
+{
+    "question": "Hasil penjumlahan suku ke 4 dan suku ke 8 sebuah barisan aritmetika adalah -46. Suku terakhir barisan tersebut adalah 47. Tentukan : A.suku ke 6...",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "Un = a + (n-1)b<br><br>U\u2084 + U\u2088 = -46<br>(a + 3b) + (a + 7b) = -46<br><strong>2a + 10b = -46 \u00a0</strong>dibagi 2 \u00a0=\u00a0<strong>a + 5b = -23<br><br><br>a+ 5b =\u00a0U</strong>\u2086 = -23<strong><br><br></strong>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "sebanyak-18-gram-glukosa-dibakar-dengan-oksigen-menghasilkan-264-772",
+            "question": "Sebanyak 18 gram glukosa dibakar dengan oksigen menghasilkan 26,4 gram gas karbondioksida dan 10,8 gram uap air. Hitunglah berapa gram oksigen yang diperlukan pada pembakaran tersebut?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "(buat dulu reaksinya)<br>jumlah reaksi = jumlah produk<br>18 gr + O2 = 26,4 + 10,8<br>18 gr + O2 = 37,2<br>O2 = 19,2 gr<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-hp-dari-pertidaksamaan-di-bawa-ini-x-r-1-3x-41-776",
+            "question": "Tentukan HP dari pertidaksamaan di bawa ini (x \u2208 R)\r\n1. 3X-4\u226516+8X",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "3x-4\u00a0<span>\u2265 16+8x<br>3x-8x\u00a0</span><span>\u226516+4<br></span>-5x\u00a0<span>\u2265 20<br></span><span>5x\u00a0<u>&lt;</u> -20<br>x\u00a0<u>&lt;</u>-4<br><br>{x| x<u>&lt;</u>-4, x: R}<br><br></span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tiga-bilangan-positif-membenrik-barisan-geometri-dengan-rasio-rg-198",
+            "question": "Tiga bilangan positif membenrik barisan geometri dengan rasio r&gt;1.jika suku tengah ditambah 4,maka terbentuk sebuah barisan aritmatika yang jumlahnya 30.tentukan hasil kali dari ketiga bilangan tersebut.    Tolong dongg",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a,b,c,nanti saat di barisan aritmatika b+4<br>a+b+c = 30<br>b= a.r^n-1,<br>6=a.r^1 = 6/r = a , c = a.r^n-1= 6/r . r^2 = 6.r<br>maka. a + b + c = 30<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a06/r + 6 + 6r = 30<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 6/r + 6r = 24<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 6r+ 6 = 24<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a06r = 18<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 r = 3<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0<br><br>a= 2<br>b = 6<br>c = 18<br>r= 3<br>jika b +4 = 6+ 4 =10,maka a+b+c= 30 :)<br>sehingga 2 x 6 x18 =156 :)",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "berapa-hasil-dari-557",
+            "question": "Berapa hasil dari\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]2^{2014}.2^{15}=2^{2014+15}=2^{2029}[/tex]",
+                    "attachments": []
+                },
+                {
+                    "answer": "[tex] 2^{2014+15} =  2^{2029} [/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "x22x-150-carlah-x1-dan-x2-denan-menggunakan-rumus-abc-505",
+            "question": "X\u00b2+2x-15=0\r\ncarlah x\u2081 dan x\u2082\r\ndenan menggunakan rumus abc",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "kalo itu akar\"nya\u00a0<br>(x-3)(x+5)<br>yg rumus abc itu apa pakek yang ini ??<br>x1,2 = -b +-\u00a0\u221ab\u00b2 - 4ac / 2a",
+                    "attachments": []
+                },
+                {
+                    "answer": "rumus D = b^2 - 4ac<br>(2x)^2-4(1)(-15)=0<br>4x^2-4+60=0<br>4x^2+56=0<br>4x^2 = -56<br>x^2 = \u00a0-14<br>x =\u00a0\u221a14<br>jadi nilai x = positif negarif\u00a0\u221a14",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-sebuah-deret-geometri-memenuhi-log-u1-log-u2-log-u3-666",
+            "question": "diketahui sebuah deret geometri memenuhi log U1 + log U2 + log U3 + log U4 + log U5 = 15 log 2. jika r =2, tentukan S9.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Deret geometri dg r = 2<br>log U\u2081 + log U\u2082 + log U\u2083 + log U\u2084 + log U\u2085 = 15 log 2 <br>berdasarkan sifat logaritma, maka didapat : <br>log (U\u2081 . U\u2082 . U\u2083 .U\u2084 . U\u2085) = log 2\u00b9\u2075 <br>U\u2081 x U\u2082 x U\u2083 x U\u2084 x U\u2085 = 2\u00b9\u2075 <br>a x ar x ar\u00b2 x ar\u00b3 x ar\u2074 = 2\u00b9\u2075 <br>a\u2075 x r\u00b9\u2070 = 2\u00b9\u2075\u00a0  <br>a x r \u00b2 = 2\u00b3<br>a x 2\u00b2 = 2\u00b3<br>a = 2<br>S\u2089 = a(r\u2079 - 1) : (r - 1)<br>\u00a0\u00a0 \u00a0 = 2(2\u2079 - 1) : (2 - 1) <br>\u00a0\u00a0 \u00a0  = 2(512 - 1) : 1 <br>\u00a0\u00a0 \u00a0 = 2(511) <br>\u00a0\u00a0 \u00a0  = 1022<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-pers-kuadrat-x2-m-3x-3m-1-0-mempunyai-satu-akar-r-799",
+            "question": "Jika pers kuadrat x\u00b2-(m+ 3)x+ (3m + 1) = 0\r\nmempunyai satu akar riil mka nilai m yg memenuhi ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "satu akar, jadi D=0<br>[tex]D=0\\\\\nb^2-4ac=0\\\\\n(m+3)^2-4(1)(3m+1)=0\\\\\nm^2+6m+9-12m-4=0\\\\\nm^2-6m+5=0\\\\\n(m-1)(m-5)=0\\\\\nm_1=1 \\ atau \\ m_2=5[/tex]<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Bentuk Umum Persamaan Kuadrat seperti ini<span>,\u00a0\u00a0dan a, b, c,</span>Dimana :x\u00a0adalah variabel persamaan kuadrata\u00a0adalah koefisien x kuadratb\u00a0adalah koefisien xc\u00a0adalah konstantaCara Menyelesaikan Persamaan Kuadrat<span>1) Mencari faktor<br><br>diuraikan menjadi\u00a0<br>cara pemfaktoran akan lebih mudah bila a = 1<br>maka kita bisa menebak x1 dan x2 dengan cara<br>a = 1<br>b = x1+x2<br>c = x1.x2</span><span>2) Memakai Rumus Kuadrat atau Rumus abc<br></span><span>3) Melengkapkan Kuadrat Sempurna<br>Bentuk umum persamaan kuadrat bebentuk kuadrat sempurna adalah :<br>\u00a0dengan q &gt; 0</span>Menentukan Jenis Akar-Akar Persamaan Kuadrat Jenis akar-akar persamaan kuadrat ditentukan oleh nilai deskriminan :<span><br>a. D &gt; 0 Kedua akar nyata dan berlainan,\u00a0</span><span>b. D = 0<br>Kedua akar nyata dan sama,\u00a0</span><span>c. D &lt;&gt; Kedua akar tidak nyata (imaginer)<br>d.\u00a0\u00a0dengan\u00a0<br>bilangan kuadrat sempurna, kedua akar rasional.</span><span>Untuk menghitung<span>\u00a0jumlah dan hasil kali akar-akar persamaan kuadrat</span>\u00a0, dapat dicari tanpa terlebih dahulu mencari akar-akarnya.</span><span>Dari rumus\u00a0\u00a0dan\u00a0</span><span>Dapat ditunjukkan bahwa:\u00a0</span><span>Rumus-rumus\u00a0Akar Persamaan Kuadrat hasil pengembangan, sering sekali muncul di soal UAN SNMPTN atau SPMB</span><span>Sifat-sifat Akar\u00a0Persamaan Kuadrat Jika\u00a0\u00a0dan\u00a0\u00a0adalah akar-akar persamaan kuadrat\u00a0\u00a0dengan\u00a0<br>maka berlaku sifat-sifat berikut ini :</span><span>a. Syarat mempunyai Dua Akar Positif<br></span><span>b. Syarat mempunyai Dua Akar Negatif<br><br>c. Syarat mempunyai Dua Akar Berlainan Tanda<br><br>d. Syarat mempunyai Dua Akar Berlawanan<br><br>e. Syarat mempunyai kedua akar berkebalikan<br></span><span>Cara menyusun Persamaan kuadratdari akar-akar x1 dan x2 yang diketahui</span><span>Persamaan kuadrat yang akar-akarnya\u00a0dan\u00a0\u00a0adalah :\u00a0</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-maka-nilai-yang-mungkin-untuk-adalah-612",
+            "question": "Jika \u00a0maka nilai yang mungkin untuk \u00a0adalah ...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "soal olimpiade kah ini mas?<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dengan-berjalan-kaki-askar-memerlukan-waktu-6-menit-untuk-sampai-824",
+            "question": "Dengan berjalan kaki, askar memerlukan waktu 6 menit untuk sampai ke kampusnya. jarak antara rumah dan kampus 5/8 km. berapa kecepatan rata-rata askar berjalan?    dengan caranya ya",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "6 menit= 360 s<br>5/8 : 360<br>= 1800m/28 s",
+                    "attachments": []
+                },
+                {
+                    "answer": "6 menit = 360 s<br>5/8 km = 625 m<br>k = j/w<br>\u00a0 = 625/360<br>\u00a0\u00a0 = 1,74m/s<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-luas-belah-ketupat-abcd-480-cm2-jika-panjang-diagona-923",
+            "question": "Diketahui luas belah ketupat ABCD = 480 cm\u00b2 jika panjang diagonal AC = 20 cm, keliling belah ketupat ABCD adalah....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "d1 . d2 / 2 = 480<br>20 . d2 / 2 = 480<br>d2 = 48 cm<br><br>nanti cari sisi miring dengan phytagoras 10\u00b2 + 24\u00b2 = s\u00b2<br>baru keliling = 4 x sisi miring",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

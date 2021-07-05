@@ -1,0 +1,144 @@
+{
+    "question": "Bagaimana cara kerja Wireless Network TP-Link TL-WN3211G agar dapat membantu mempercepat koneksi / speed Modem Smartfren, apa yang harus dilakukan agar bisa berfungsi dengan baik, jelaskan langkah-langkahnya!",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "Wireless Adapter tidak dapat mempengaruhi KECEPATAN INTERNET<br>Jika Ingin lebih cepat , Gunakan paket yang paling tinggi dan sinyal yang kuat",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "apakah-pengertian-php-684",
+            "question": "Apakah pengertian php ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "PHP adalah singkatan dari Hypertext Preprocessor\u00a0<br>PHP adalah scripting server side artinya di jalan kan server kemudian outputnya di kirim ke client (browser<br>di gunakan untuk membuat web dinamis\u00a0<br>salah satu bahasa pemrogramman website\u00a0",
+                    "attachments": []
+                },
+                {
+                    "answer": "Opo opo keno! Dadi sakkarepu arep ngopo :|<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bagaimana-cara-mengatasi-flash-disk-yg-write-protect-dgn-sndriny-973",
+            "question": "Bagaimana cara mengatasi Flash Disk yg write\u00a0protect dgn sndrinya?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1 Colokan flashdisk ke komputer<br><br><span>2 Kita musti menghapus kode write protected di\u00a0\u00a0</span>registry editor, caranya :<br><br><span>tekan Tombol\u00a0</span>Windows+R, lalu pada kolom ketikan REGEDIT =&gt; Enter<br><br>3 Cari kode write potected. Gunakan Ctrl+F lalu ketikan write protected<br><br>4 Jika kode tersebut telah ditemukan, klik kanan lalu pilih DELETE<br><br><span>5 Selesai</span>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Pertama, masukan Flashdisk dan buka windows explorer kemudian klik kanan flashdisk dan Eject, lalu masukan kembali. ( lakukan tahap ini 3x )<br>Kedua, Gunakan software EASEUS Partition Master 8.0.1\u00a0silahkan\n anda cari sendiri di google banyak kok....software ini digunakan untuk \nmemformat Flashdisk anda dan kalo berhasil berarti flashdisk anda sudah \npulih kembali. Oke, untuk Langkah terakhir silahkan anda format sekali \nlagi flashdisk anda di windows explorer.<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "maaf-mengganggu-saya-mau-tanya-hp-saya-kan-ada-memori-telepon-431",
+            "question": "Maaf mengganggu,\u00a0saya mau tanya    hp saya kan ada memori telepon, sama memori eksternal, nah memori telepon saya terformat waktu lagi di hubung USB ke komputer, kira2 cara ngembali in nya gimana?\r\n\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "saya udah coba recovery itu, tapi ga bisa-bisa.. ya bagaimana lagi, data hilang semua, kecuali kalau datanya di memori eksternal<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "komponen-komponen-visual-basic-dan-berikan-penjelasannya-154",
+            "question": "Komponen-komponen visual basic dan berikan penjelasannya ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>\nVisual\nBasic merupakan salah satu bahasa pemrograman\u00a0\nyang merupakan bagian dari produk pemrograman yang dikeluarkan oleh\nMicrosoft, yaitu Microsoft Visual Studio 2010. Visual Basic 2010 sudah\nmenggunakan Framework berbasis .NET, sehingga anda dapat membuat Console Application, Windows Application, serta Web Application secara mudah dan\nterstruktur.</span>\n<span>\n<br></span>\n\n<span>2.\u00a0\u00a0\u00a0\n</span>Menjalankan Visual Studio 2010\n<span>\nBerikut\nini adalah tahapan \u2013 tahapan dalam membuka aplikasi Visual Studio 2010, beserta\ntahapan dalam membuat sebuah Project Visual Basic 2010.</span>\n<span>\n1.\u00a0\u00a0\u00a0\nKlik tombol Start -&gt; All Program\n-&gt; Microsoft Visual Studio 2010\n-&gt; Microsoft Visual Studio 2010<br></span><span>\n2.\u00a0\u00a0\u00a0\nTunggu beberapa saat sampai keluar tamplian\nsebagai berikut</span>\n<span>\n</span>",
+                    "attachments": [
+                        "answer-attachments/komponen-komponen-visual-basic-dan-berikan-penjelasannya-154-1.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "tentang-form-pada-javascript-990",
+            "question": "Tentang form pada javascript ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>pembuatan form pada HTML dengan menggunakan Java Script<span><br>&lt;html&gt;<span>\u00a0\u00a0&lt;head&gt;&lt;title&gt;JavaScript-Mid&lt;/title&gt;&lt;/head&gt;</span><span>\u00a0\u00a0&lt;body&gt;</span><span>\u00a0\u00a0\u00a0\u00a0&lt;script languange =\"JavaScript\"&gt;</span><span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0function Proses()</span><span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0{</span><span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0var npm = (document.formnilai.inpm.value);</span><span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0var nama = (document.formnilai.inama.value);</span><span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0var nt = (document.formnilai.int.value);</span><span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0var nk = (document.formnilai.ink.value);</span><span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0var nm = (document.formnilai.inm.value);</span><span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0var ns = (document.formnilai.ins.value);\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0na = 0.2*nt+0.1*nk+0.3*nm+0.4*ns;</span><span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0if (na&gt;=85)</span><span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0nh=&#039;A&#039;;</span><span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0else if (na&gt;=70)</span><span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0nh=&#039;B&#039;;</span><span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0else if (na&gt;=55)</span><span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0nh=&#039;C&#039;;</span><span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0else if (na&gt;=40)</span><span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0nh=&#039;D&#039;;</span><span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0else</span><span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0nh=&#039;E&#039;;</span><span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0if (nh==&#039;A&#039; || nh==&#039;B&#039; || nh==&#039;C&#039;)</span><span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0ket = \"Lulus\";</span><span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0else</span><span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0ket = \"Gagal\";</span><span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0document.formnilai.onpm.value = npm;\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0document.formnilai.onama.value = nama;</span><span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0document.formnilai.ona.value = na;</span><span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0document.formnilai.onh.value = nh;</span><span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0document.formnilai.oket.value = ket;</span><span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0}</span><span>\u00a0\u00a0\u00a0\u00a0&lt;/script&gt;</span><span>\u00a0\u00a0\u00a0\u00a0&lt;form name =\"formnilai\"&gt;</span><span>\u00a0\u00a0\u00a0\u00a0&lt;h2&gt; Pengolahan Data Nilai Pemrograman Web &lt;/h2&gt;</span><span>\u00a0\u00a0\u00a0&lt;h3&gt; Input Data Nilai Mahasiswa &lt;/h3&gt;</span><span>\u00a0\u00a0\u00a0\u00a0&lt;pre&gt;</span><span>\u00a0\u00a0\u00a0\u00a0\u00a0NPM\u00a0\u00a0\u00a0\u00a0: &lt;input type=\"text\" size=\u201c10\" name=\"inpm\"&gt; &lt;br&gt;</span><span>\u00a0\u00a0\u00a0\u00a0\u00a0Nama\u00a0\u00a0\u00a0: &lt;input type=\"text\" size=\u201c20\" name=\"inama\"&gt; &lt;br&gt;</span><span>\u00a0\u00a0\u00a0\u00a0\u00a0Nilai Tugas\u00a0\u00a0\u00a0\u00a0\u00a0: &lt;input type=\"text\" size=\"5\" name=\"int\"&gt; &lt;br&gt;</span><span>\u00a0\u00a0\u00a0\u00a0\u00a0Nilai Kuis\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0: &lt;input type=\"text\" size=\"5\" name=\"ink\"&gt; &lt;br&gt;</span><span>\u00a0\u00a0\u00a0\u00a0\u00a0Nilai Mid\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0: &lt;input type=\"text\" size=\"5\" name=\"inm\"&gt; &lt;br&gt;</span><span>\u00a0\u00a0\u00a0\u00a0\u00a0Nilai Semester\u00a0\u00a0: &lt;input type=\"text\" size=\"5\" name=\"ins\"&gt;</span><span>\u00a0\u00a0\u00a0\u00a0&lt;/pre&gt;</span><span>\u00a0\u00a0\u00a0\u00a0&lt;input type=\"button\" value=\"Proses Nilai\" onclick=\"Proses()\"&gt;</span><span>\u00a0\u00a0\u00a0\u00a0&lt;input type=\"reset\" value=\"Ulang\"&gt;</span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0<span>\u00a0\u00a0\u00a0\u00a0&lt;h3&gt;Hasil Proses &lt;/h3&gt;</span><span>\u00a0\u00a0\u00a0\u00a0&lt;pre&gt;</span><span>\u00a0\u00a0\u00a0\u00a0\u00a0NPM\u00a0\u00a0\u00a0\u00a0: &lt;input type=\"text\" size=\u201c10\" name=\"onpm\"&gt; &lt;br&gt;</span><span>\u00a0\u00a0\u00a0\u00a0\u00a0Nama\u00a0\u00a0\u00a0: &lt;input type=\"text\" size=\u201c20\" name=\"onama\"&gt; &lt;br&gt;</span><span>\u00a0\u00a0\u00a0\u00a0\u00a0Nilai Akhir\u00a0\u00a0\u00a0\u00a0: &lt;input type=\"text\" size=\"5\" name=\"ona\"&gt; &lt;br&gt;</span><span>\u00a0\u00a0\u00a0\u00a0\u00a0Nilai Huruf\u00a0\u00a0\u00a0\u00a0: &lt;input type=\"text\" size=\"5\" name=\"onh\"&gt; &lt;br&gt;</span><span>\u00a0\u00a0\u00a0\u00a0\u00a0Keterangan\u00a0\u00a0\u00a0\u00a0\u00a0: &lt;input type=\"text\" size=\"7\" name=\"oket\"&gt; &lt;br&gt;\u00a0\u00a0\u00a0\u00a0</span><span>\u00a0\u00a0\u00a0\u00a0&lt;/pre&gt;</span><span>\u00a0\u00a0\u00a0\u00a0&lt;/form&gt;</span><span>\u00a0\u00a0\u00a0&lt;/body&gt;</span>&lt;/html&gt;<br><span><br><br>kurng pham juga dengan pertanyaannya :)<br>maaf kalau salah, soalnya meragukan</span></span></span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "langkah-cara-merakit-pc-dengan-benar-664",
+            "question": "Langkah\u00a0cara\u00a0merakit\u00a0pc\u00a0dengan\u00a0benar?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>1. Letakkan motherboard pada tempat yang datar dan jangan lupa beri alas dengan permukaan yang lembut agar motherboard tidak tergores atau putus jalur komponennya.<br><br><br>\u00a02. Pasang processor pada motherboard. Pemasangan processor usahakan diluar casing agar memudahkan anda dalam pemasangan processor tersebut. Pemasangan processor disesuaikan dengan jenis processor dan motherboard yang digunakan.<br><br><br>\u00a03. Setelah prosessor terpasang kemudian lakukan pemasangan kipas processor.</span><span><br><br><span>\u00a04. Pasang RAM pada slot RAM yang tersedia pada motherboard. Pemasangan RAM pada slot harus mengikuti aturan karena apabila terjadi kesalahan dalam pemasangan dapat membuat RAM dan motherboard rusak atau terbakar.\u00a0</span><br><br><br></span>5. Siapkan casing untuk pemasangan semua komponen yang sudah di sediakan.<span><br><span>6. Setelah menyiapkan casing pasanglah catu daya atau power supply seperti gambar dibawah ini.\u00a0</span><br><br><br></span><span><span>7. Setelah itu masukkan motherboard pada casing secara perlahan agar motherboard tidak rusak. Pada saat pemasangan motherboard, perhatikan konektor mouse, keyboard, serial, vga dan sound agar terpasang dengan panel yang terdapat pada casing dengan benar.\u00a0</span><br><span><br><br></span></span>8. Kemudian bautlah motherboard dengan dudukannya agar kuat dan tidak goyang.<span><br>9. Di contoh ini kita menggunakan motherboard yang sudah dilengkapi dengan VGA, Sound Card, dan LAN Card yang sudah menjadi satu dalam motherboard. Komponen yang sudah menjadi satu dengan motherboard disebut dengan komponen ON BOARD.</span><span><br>10. Setelah itu pasanglah CD ROM pada rak yang terdapat pada casing, dengan cara memasukkannya dari depan.</span><span><br>11. Kemudian bautlah CD ROM yang telah terpasang tadi dangan raknya agar tidak goncang. Kemudian pasangkan kabel power dan kabel data atau kabel ATA CD ROM pada motherboard.</span><span><br>12. Pasanglah harddisk pada rak yang terdapat pada casing dengan perlahan agar harddisk tidak terbentur. Karena komponen harddisk ini sangat rawan tehadap goncangan. Kemudian baut dengan kencang agar tidak goyang.</span><span><br><span>13. Setelah harddisk terpasang kemudian pasanglah kabel data atau kabel ATA harddisk pada motherboard dan pada harddisk itu sendiri.\u00a0</span><br><br><br></span><span>14. Pasang konektor power supply pada tempatnya yang terdapat di motherboard. Jika pemasangan ini salah maka akan mengakibatkan kerusakan yang fatal pada motherboard.<br><br><br></span><span><span>15. Kemudian tancapkan konektor power / restart / hdd lad / power lad dan pad konektor lainnya yang terdapat di motherboard seperti gambar berikut.\u00a0</span><br><br><br></span><span>16. Setelah kita selesai merakit semua komponen kemudian pasang penutup casing dan perakitan tersebut harus kita tes apakah berhasil atau tidak. Pasang kabel port VGA ke monitor kemudian power monitor dan CPU ke saklar listrik, selanjutnya hidupkan bila komputer dapat BOOTING maka perakitan berhasil. Bila tidak dapat BOOTING berarti perakitan belum sempurna, maka harus disempurnakan terlebih dahulu bila nanti ingin menginstal Sistem Operasi nya dengan cara cek kembali semua komponen yang telah terpasang apakah sudah benar atau tidak</span><br>Semoga Bermanfaat",
+                    "attachments": []
+                },
+                {
+                    "answer": "tahap2 perakitan komputer.<br>1. pemilihan komponen dan spesifikasi komputer <br>2. memeriksa komponen komputer <br>3. mengkonfigurasikan<br>4. penambahan peralatan jika di perlukan<br>5. tahap pemeriksaan hasil instalasi<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "buat-halaman-html-untuk-menampilkan-aplikasi-program-tiket-pesawa-977",
+            "question": "Buat halaman html untuk menampilkan aplikasi program tiket pesawat dengan menggunakan javascript",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Program osTicket,Bisa Di Download Penginstallan Nya Juga Mudah<br>Bisa Di Download Lewat\u00a0osticket.com/download",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jawablah-soal-soal-ini-1-sistem-operasi-berbasis-teks-terdapat-p-316",
+            "question": "Jawablah Soal Soal ini    1. Sistem operasi berbasis teks terdapat pada ....\r\n\u00a0\u00a0 a. Novell\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 d. Microsoft Windows\r\n\u00a0\u00a0 b. Ms DOS\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 e. Apple Machintos\r\n\u00a0\u00a0 c. Linux\r\n2. Lapisan abstrak yang terdapat diantara brainware dan hardware adalah ...\r\n\u00a0\u00a0 a. CPU\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 d. software\r\n\u00a0\u00a0 b. RAM\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 e. perangkat keras\r\n\u00a0\u00a0 c. user\r\n3. Sistem operasi yang bersifat multiuser dan multitasking adalah ....\r\n\u00a0\u00a0 a. MS-DOS\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 d. Windows\r\n\u00a0\u00a0 b. PC-DOS\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 e. Prolog\r\n\u00a0\u00a0 c. Turbo Pascal\r\n4. Berikut merupakan sistem operasi berbasis grafis adalah ....\r\n\u00a0\u00a0 a. HP/UX\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 d. UNIX\r\n\u00a0\u00a0 b. MS-DOS\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 e. Linux\r\n\u00a0\u00a0 c. Free BSD\r\n6. Dalam Perkembangan sistem operasi di mulai dari program ... dan dikembangkan\u00a0 \u00a0 menjadi\u00a0 program berorientasi ....\r\n\u00a0\u00a0 a.\u00a0 DOS, GUI\r\n\u00a0\u00a0 b. GUI, DOS\r\n\u00a0\u00a0 c. IBM, DOS\r\n\u00a0\u00a0 d. DOS, UNIX\r\n\u00a0\u00a0 e. Linux, Windows\r\n7. Tampilan Control Panel untuk mengatur waktu dan Tanggal adalah ....\r\n\u00a0\u00a0 a. Accesibility Options\r\n\u00a0\u00a0 b. Printers and Other Hardware\r\n\u00a0\u00a0 c. Date, Time, Language, and Regional Options\r\n\u00a0\u00a0 d. Appearance and Themes\r\n\u00a0\u00a0 e. User Accounts\r\n8. Tampilan BIOS yang di gunakan untuk mengatur power komputer adalah ....\r\n\u00a0\u00a0 a. Set User Password\r\n\u00a0\u00a0 b. Integrated Peripheral\r\n\u00a0\u00a0 c. PnP/PCI Configurations\r\n\u00a0\u00a0 d. Power Management Setup\r\n\u00a0\u00a0 e. H/W Monitor\r\n9. Sistem operasi yang di buat oleh Linus Torvalds adalah ....\r\n\u00a0\u00a0 a. DOS\r\n\u00a0\u00a0 b. Windows\r\n\u00a0\u00a0 c. UNIX\r\n\u00a0\u00a0 d. Linux\r\n\u00a0\u00a0 e. Google\r\n10. Salah satu sifat yang dimiliki Windows adalah multitasking yang berarti ...\r\n\u00a0\u00a0 a. digunakan oleh banyak user\r\n\u00a0\u00a0 b. dilakukan oleh banyak komputer\r\n\u00a0\u00a0 c. digunakan oleh banyak workstations\r\n\u00a0\u00a0 d. digunakan untuk melakukan banyak tugas\r\n\u00a0\u00a0 e. digunakan untuk mengirim e-mail\r\n11. Berikut contoh dari sistem operasi yang bersifat open source dan berbasis teks, kecuali \r\n\u00a0\u00a0 a. Suse\r\n\u00a0\u00a0 b. MS-DOS\r\n\u00a0\u00a0 c. Mandrake\r\n\u00a0\u00a0 d. RedHat\r\n\u00a0\u00a0 e. Knoppix\r\n12. Linux merupakan varian dari sistem operasi ....\r\n\u00a0\u00a0 a. Windows\r\n\u00a0\u00a0 b. C/PM-86\r\n\u00a0\u00a0 c. UNIX\r\n\u00a0\u00a0 d. MS-DOS\r\n\u00a0\u00a0 e. Mac OS\r\n13. Dalam BIOS kita dapat mengatur sistem waktu, yaitu pada Bagian ....\r\n\u00a0\u00a0 a. System Time\r\n\u00a0\u00a0 b. System date\r\n\u00a0\u00a0 c. Legacy diskette\r\n\u00a0\u00a0 d. Primary master\r\n\u00a0\u00a0 e. Secondary master\r\n14. Bahasa yang di gunakan di seting BIOS tersebut adalah ....\r\n\u00a0\u00a0 a. Bahasa Indonesia\u00a0 \u00a0 \u00a0 d. Bahasa Belanda\r\n\u00a0\u00a0 b. Bahasa Inggris\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 e. Bahasa Rusia\r\n\u00a0\u00a0 c. Bahasa Spanyol\r\n15. Dari setting BIOS tersebut, status tidak ada permintaan password disebut ....\r\n\u00a0\u00a0 a. Yes\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 d. Disabled\r\n\u00a0\u00a0 b. No\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 e. None\r\n\u00a0\u00a0 c. Enabled\r\n\r\ndan satu soal lagi \r\n4. Apa Saja produk sistem operasi dari perusahaan Microsoft?\r\n\u00a0\u00a0 Jawabannya:\r\n\u00a0\u00a0 \r\n\r\ntolong tolong Jawablah secepat cepat mungkin karena ini sangat penting",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "urut dari no 1-selesai<br>bddeacddddcbbe<br>produk OS window win98,winME,win2000,winXP,win7,win8<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jenis-keyboard-yang-diproduksi-oleh-perusahaan-remington-pada-tah-460",
+            "question": "Jenis keyboard yang diproduksi oleh perusahaan Remington pada tahun 1873 adalah???",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "keyboard QWERTY, diproduksi oleh perusahaan Remington pada 1873 dan digunakan pertama kali pada 1874 pada mesin ketik di USA.<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "jenis keyboard yang diproduksi adalah QWERTY<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pengertian-jaringan-komputer-462",
+            "question": "Pengertian jaringan komputer",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Jaringan komputer (jaringan) adalah sebuah sistem yang terdiri atas komputer-komputer\n yang didesain untuk dapat berbagi sumber daya (printer, CPU), \nberkomunikasi (surel, pesan instan), dan dapat mengakses \ninformasi(peramban web).<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Jaringan Komputer adalah sebuah sistem/perangkat komputer\u00a0yang memberdayakan berbagai macam perkara teknologi, seperti mencari informasi dan menginput informasi. Okay ? @Liwed",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,139 @@
+{
+    "question": "Coba tolong dilihat dulu, ada yang bisa bantu?    1. \r\n2.",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "[tex]\\int (4x-3)dx= \\int 4xdx-\\int 3dx\\\\\n\\int (4x-3)dx= 2x^2-3x+C\\\\\\\\\n\\int \\frac{2}{\\sqrt{2}-5}dx=\\frac{2x}{\\sqrt{2}-5}+C[/tex]",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "akar-persamaan-x2a-1x20-adalah-a-dan-v-jika-a2v-d-156",
+            "question": "Akar persamaan\u00a0x\u00b2+(a-1)x+2=0 adalah\u00a0\u03b1 dan\u00a0\u03b2. jika\u00a0\u03b1=2\u03b2 dan a&gt;0 maka nilai a=......",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "x\u00b2+(a-1)x+2=0, <br><span><span>\u03b1=2\u03b2<br><br></span>\u03b1\u00b7\u03b2=c/a<br>2\u03b2 \u00b7 \u03b2=2<br>2\u03b2\u00b2=2<br>\u03b2= +-1<br><br>\u03b1+\u03b2= -b/a<br>2\u03b2+\u03b2= -(a-1)<br>3\u03b2= -a+1<br><br>substitusikan nilai \u03b2=1<br>3= -a+1<br>a= -4 (bukan a yg dimaksud)<br><br>\u03b2= -1<br>-3= -a+1<br>a=4 (memenuhi syarat a&gt;0)<br><br><br></span>\u00a0<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pada-kubus-abcd-diketahui-panjang-sisi-be48cmtentukan-panjan-128",
+            "question": "Pada kubus ABCD diketahui panjang sisi BE=\u221a48cm.tentukan panjang AB",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]perhatikan\\ segitga\\ ABE\\\\\nmisal\\ panjang\\ AB=AE=s\\\\\ngunakan\\ teorema\\ pythagoras\\\\\nAB^2+AE^2=BE^2\\\\\ns^2+s^2=(\\sqrt{48})^2\\\\\n2s^2=48\\\\\ns^2=24\\\\\ns=AB=\\sqrt{24}\\ atau\\ s=-\\sqrt{24}\\ (TM)[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bagaimana-cara-membuat-komik-matematika-dan-berikan-contohnya-t-473",
+            "question": "bagaimana cara membuat\u00a0 komik matematika dan berikan contohnya tentang :pernyataan,kalimat terbuka???",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "iya itu merupakan kalimat terbuka <br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "contoh kalimat terbuka dalam matematika<br>4 + 5 = 9<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suatu-garis-melalui-titik-a-4-1-dan-b-2-3-gradien-ga-259",
+            "question": "Suatu garis melalui titik A(\u00a0-4, 1\u00a0) dan B( 2, -3 ).    Gradien garis tersebut adalah...\r\n\r\nA.\u00a0\u208b\r\nB.\u00a0\u208b\r\nC.\u00a0\r\nD.\u00a0\r\n\r\nsama cara mengerjakannya ya :)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "titik A (-4,1) maka x1 = -4 dan y1 = 1<br>titik B (2 , -3)\u00a0 maka x2 = 2 dan y2 = -3<br><br>gradien atau m = (y2 - y1) / (x2 - x1) = ( -3 - 1 ) / ( 2 - (-4) ) = -4/6 = -2/3<br><br>semoga membantu :)<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pada-fungsi-kuadrat-apa-yang-terjadi-jika-a-gt-0-dan-apa-yang-847",
+            "question": "Pada fungsi kuadrat, apa yang terjadi jika a &gt; 0 dan apa yang terjadi jika a &lt; 0 ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Jika nilai a &gt; 0 maka parabola terbuka ke atas dan mempunyai nilai ekstrem minimum<br><br>\nJika nilai a &lt; 0 maka parabola terbuka ke bawah dan mempunyai nilai ekstrem maksimum<br><br><br><br>",
+                    "attachments": [
+                        "answer-attachments/pada-fungsi-kuadrat-apa-yang-terjadi-jika-a-gt-0-dan-apa-yang-847-1.jpg"
+                    ]
+                },
+                {
+                    "answer": "untuk a\u00a0&gt;\u00a00, grafik/kurvanya menghadap ke atas, dan memiliki nilai minimum (puncaknya ada di bawah)<br><br>untuk a\u00a0&lt;\u00a00, grafik/kurvanya menghadap ke bawah, dan memiliki nilai maksimum\u00a0(puncaknya ada di atas)<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dengan-cara-melengkapkan-kuadrat-sempurna-tentukan-akar-akar-pers-430",
+            "question": "Dengan cara melengkapkan kuadrat sempurna tentukan akar-akar persamaan kuadrat berikut : 3xkuadrat-2x-3=0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "\u00a0\u00a01. Pindahkan konstanta ke ruas kanan \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 2. Bagilah kedua ruas dengan\u00a0 dengan a. \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a03. Jika koefisien x yang baru kita sebut b, maka tambah kedua ruas dengan \u00bdb2. \u00a0 \u00a0 \u00a0 \u00a0 <span>4. Ubah bentuk yang ada di ruas kiri menjadi kuadrat sempurna. \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a05. Hilangkan tanda kuadrat di sebelah kiri, sementara ruas kanan menyesuaikan dengan memberikan akar dan tanda \u00b1 di depannya \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a06. Pindahkan konstanta di ruas kiri ke ruas kanan \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 7. dengan memisahkan tanda plus dan minus maka kita peroleh dua nilai x, sehingga penyelesaian persamaan kuadarat sudah kita dapat.\u00a0</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "logika-matematika-1-manakah-yang-merupakan-pernyataan-kalimat-t-813",
+            "question": "Logika matematika    1. Manakah yang merupakan pernyataan, kalimat terbuka atau bukan pernyataan dari kalimat kalimat berikut ini.\r\na. Gunung Kerinci terletak di Bali\r\nb. Oslo ibukota Norwegia.\r\nc. Pergilah engkau sekarang!\r\nd. x adalah bilangan prima kurang dari 30.\r\ne. 9 adalah faktor dari 63\r\njawabannya\r\n\u00a0\u00a0 \u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kalimat terbuka : D<br>pernyataan : a,b,e<br>bukan pernyataan : c",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "gradien-garis-dri-persamaan-3x-6y-5-yaitu-133",
+            "question": "Gradien garis dri persamaan 3x-6y=-5 yaitu ....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kelas : 8<br>Mapel : Matematika<br>Kategori :\u00a0Bab 3 - Persamaan Garis<br>Kata Kunci : persamaan garis, gradien<br>Kode : 8.2.3 [Kelas 8 Matematika Bab 3 - Persamaan Garis]<br><br>Pembahasan :<br><p>Persamaan garis lurus adalah persamaan berbentuk\u00a0<br>ax + by = c<br>dengan a, b, dan c merupakan bilangan-bilangan real, a\u00a0\u2260 0 atau b\u00a0\u2260 0.</p><br>Gradien adalah nilai yang menyatakan kecondongan suatu garis yang dinotasikan dengan m.<br><br>Garis dengan persamaan ax + by = c memiliki gradien\u00a0<br>m =\u00a0[tex]- \\frac{a}{b} [/tex]<br><br>Garis yang melalui titik P(x\u2081, y\u2081) dan Q(x\u2082, y\u2082) memiliki gradien\u00a0<br>m =\u00a0[tex] \\frac{y_2-y_1}{x_2-x_1} [/tex]<br><br>Mari kita lihat soal tersebut.<br>Tentukan gradien garis dengan persamaan 3x - 6y = -5!<br><br>Jawab :<br>Diketahui persamaan<br>3x - 6y = -5<br>\u21d4 -6y = -5 - 3x<br>\u21d4 y =\u00a0[tex] \\frac{5}{-6} [/tex] -\u00a0[tex] \\frac{3}{-6} [/tex]x<br>\u21d4 y = -[tex] \\frac{5}{6} [/tex] + [tex] \\frac{3}{6} [/tex]x<br>\u21d4 y = -[tex] \\frac{5}{6} [/tex] + [tex] \\frac{1}{2} [/tex]x<br>\u21d4 m = [tex] \\frac{1}{2} [/tex]<br><br>Jadi, persamaan 3x - 6y = -5 memiliki gradien [tex] \\frac{1}{2} [/tex].<br><br>Soal lain untuk belajar :\u00a0<br>1.\u00a0https://brainly.co.id/tugas/12602883<br>2.\u00a0https://brainly.co.id/tugas/1686609<br>3.\u00a0https://brainly.co.id/tugas/130401<br>4.\u00a0https://brainly.co.id/tugas/1398763<br>5.\u00a0https://brainly.co.id/tugas/3136258<br>6.\u00a0https://brainly.co.id/tugas/12689804<br><br>Semangat!<br><br>Stop Copy Paste!",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-bantu-saya-kerjakan-dik-f2x-34x-7maka-nilai-dari-852",
+            "question": "Tolong Bantu saya kerjakan\u00a0 \r\nDIK=\u00a0 f(2x-3)=4x-7,maka nilai dari F(17)-F(7) adalah...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "f(17) = 117\u00a0<br>f(7) = 37\u00a0<br>jadi hasilnya 80. kalo enggak salah yaaa",
+                    "attachments": []
+                },
+                {
+                    "answer": "f = 4(2x-3) - 7<br>\u00a0= 8x - 12 - 7<br>\u00a0= 8x - 19<br>f 17 = 8(17) - 19 = 117<br>f 7 = 8 (7) - 19 = 37<br><br>nilai f17-f7 = 117 - 37 = 80<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "gambarlah-grafik-fungsi-kuadrat-1-y-2x2-7x-2-12-2-y-640",
+            "question": "Gambarlah grafik fungsi kuadrat\r\n 1. y = 2x^2 - 7x + 2 1/2\r\n 2. y = -x^2 + 4x - 3",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "nih gambarnya, silakan dipelajari",
+                    "attachments": [
+                        "answer-attachments/gambarlah-grafik-fungsi-kuadrat-1-y-2x2-7x-2-12-2-y-640-1.png",
+                        "answer-attachments/gambarlah-grafik-fungsi-kuadrat-1-y-2x2-7x-2-12-2-y-640-2.png"
+                    ]
+                }
+            ]
+        }
+    ]
+}

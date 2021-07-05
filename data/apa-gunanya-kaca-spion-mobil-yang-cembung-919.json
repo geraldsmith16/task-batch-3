@@ -1,0 +1,134 @@
+{
+    "question": "Apa gunanya kaca spion mobil yang cembung",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "Pemantulan cahaya<br>Hukum Pemantulan Cahaya :<br>1. Sinar datang, sinar pantul, dan garis normal terletak pada satu bidang datar.<br>2. Sudut datang sama dengan sudut pantul.<br>CERMIN DATAR<br>Sifat-sifat bayangan pada cermin datar :<br>1. Bayangan cermin sama besar  dengan benda yang berada di depan cermin,<br>2. Bayangan cermin tegak, artinya posisi tegaknya sama dengan posisi tegaknya benda,<br>3. Jarak bayangan ke cermin sama dengan jauhnya jarak benda ke cermin,<br>4. Bayangan cermin tertukar sisinya.<br>5. Bayangan cermin merupakan bayangan semu.<br>Pembentukan bayangan pada cermin datar. <br>semua tergantung bentuk spion<br>\\<br>",
+            "attachments": []
+        },
+        {
+            "answer": "cermin datar lebih bagus,bayangan yang dipantulkan jaraknya sama dengan aslinya\u2026 kan klo cembung jd keliatan jauh\u2026. \u201d . Kenapa kaca Spion menggunakan cermin cembung (konveks) ? Jawabannya adalah agar area daerah observasi menjadi lebih Luas<br><br>semoga jawaban ini bisa membantu<br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "suatu-larutan-basa-kuat-koh-sebanyak-100-ml-memiliki-ph-12-dal-141",
+            "question": "suatu larutan basa kuat KOH sebanyak 100 ml memiliki ph = 12. dalam larutan tersebut terlarut KH (Ar K = 39 , O = 16 , H = 1)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "prolog :<br>konsenp pH adalah konsep kekuatan asam di dalam air. pH adalah power of Hydrogen yang hanya boleh dicek pada keadaan air. maka sudah dapat dipastikan, senyawa yang pekat tidak memiliki konsep pH.<br><br>pH 12 adalah pH basa. maka pasti memiliki nilai pOH<br>nilai pOH = 14 - pH<br>pOH = 14-12 = 2<br>pOH = -log [OH-]<br>maka nilai OH-\u00a0 adalah 10^-2 mol/L<br>jika yang tersedia hanyalah 100 ml atau 0,1 L, maka jumlah mol yang terlarut adalah 10^-3 mol.<br>jika dikonversikan ke gram, maka nilainya 10^-3 x Mr KOH(56) = 0,056 gram<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "larutan-asam-lemah-ha-01-m-setelah-ditetesi-dengan-suatu-indikat-125",
+            "question": "larutan asam lemah HA 0,1 M setelah ditetesi dengan suatu indikator ternyata warnanya sama dengan warna HCl 0,001 M. Tentukan harga Ka asam HA tersebut!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "pH HCl= pH HA<br>0,001=(ka.M)^1/2<br>0,001=(ka.0,1)^1/2<br>10^-6=ka.10^-1<br>ka=10^-5<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "hitunglahphlarutanberikut-alarutan500ml-907",
+            "question": ".\u00a0\u00a0\u00a0Hitunglah\u00a0pH\u00a0larutan\u00a0berikut. a.\u00a0\u00a0\u00a0Larutan\u00a0500\u00a0mL\u00a0amonia\u00a00,1\u00a0M\u00a0(Kb\u00a0=\u00a0\u00a0\u00a04\u00a0\u00d7\u00a010\u20135).",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "#[OH-] = akar Kb x M = akar 4x10-5 x 10-1 =akar 4x10-6 = 2x10-3<br>#pOH = -Log[OH-]<br>= -log(2x10-3) = 3 -log 2<br>#PH = 14- pOH = 14 - 3-log 2 = 11+log 2<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "[OH-] = akar Kb x M = akar 4x10^-5 x 10-1 =akar 4x10^-6 = 2x10^-3<br><br>pOH = -Log[OH-]<br>= -log\u00a0(2x10-3) = 3 -log 2<br><br><span>PH = 14- pOH = 14 - 3-log 2 = 11+log 2</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apa-perbedaan-dari-rumus-kimia-p4empatnya-kecil-dan-4p-503",
+            "question": "Apa perbedaan dari rumus kimia P4(empatnya kecil)\u00a0dan 4P?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kalau 4P biasanya ditemuin di matematika<br>P4 udh ketentuannya kali mbak, fosfor kan ya?<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bagaimana-cara-membuktikan-berlakunya-kaidah-duplet-pada-molekul-129",
+            "question": "Bagaimana cara membuktikan berlakunya kaidah duplet pada molekul H2, kaidah oktet pada molekul CCl4 dan CO2, serta keduanya pada molekul CH4?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "yang perlu di ingat kaidah duplet memiliki 8 elaktron terluar sedangkan kaidah oktet memiliki 2 elekton pada kulit terluar.<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "berapa-banyak-atom-al-dalam-1-mol-logam-aluminium-al-976",
+            "question": "Berapa banyak atom Al dalam 1 mol logam aluminium (Al)?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "jumlah atom = n.6,02.10^23<br>=1.6,02.10^23 atom<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suatu-atom-mempunyai-elektron-terakhir-pada-n3-l2-m0-dan-s-486",
+            "question": "Suatu atom mempunyai elektron terakhir pada n=3, l=2, m=0, dan s=1/2. maka atom tersebut terletak pada golongan/periode...    \u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "periode = IIIA dan golongannya aku lupa, soalnya materinya udh lama gk d pelajarin<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "n=3, l=2, m=0, s=1/2=\u00a0[tex] 3d^{2} [/tex]<br>Itu elektron satu didepannya apa? pasti ada depannya. Nggak bisa ditentuin golongannya kalau cuma elektron terakhir, kecuali kalau subkulitnya &#039;s&#039; (l=0).<br>Periode elektron tersebut= 3",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "adam-hx-01-mempunyai-ph-yang-sama-dengan-larutan-hcl-0001mtent-905",
+            "question": "Adam HX 0,1 mempunyai pH yang sama dengan larutan HCL 0,001M.tentukan nilai tetapan ionisasi (ka)asam HX itu",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "H+^2=Ka x Ma= 10^-6=Ka.0,1....Ka=10^-5<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebanyak-24-gr-naoh-bereaksi-dengan-319gr-cuso4-menghasilkan-end-772",
+            "question": "Sebanyak 24 gr NaOH bereaksi dengan 31,9gr CuSO4 menghasilkan endapan Cu(OH)2 menurut\u00a0 reaksi :    2NaOH(AQ) + CuSO\u2084 (AQ) --&gt; Cu(OH)\u2082 (s) + Na\u2082 SO\u2084 (AQ)\r\na) berapa gram endapan Cu (OH)\u2082 yang terbentuk?\r\nb) zat apakah yang tersisa dan berapa gram sisanya ?\r\n(dik : Ar Na : 23, O : 16, H : 1, Cu : 63, S:32)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "B Semoga dapat membantu ya\u00a0<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "cara-menyamakan-jumlah-atom-dibawah-ini-nh43po4-ca-581",
+            "question": "Cara menyamakan jumlah atom dibawah ini:    \u00a0...(NH4)3PO4 \u00a0+... Ca(OH)2\u00a0\u00a0 \u2192 .... Ca3(PO4)2\u00a0 +\u00a0\r\n ...H2O + ... NH3",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>\u00a0<span>2(NH4)3PO4 \u00a0+ 3Ca(OH)2\u00a0\u00a0 \u2192 <span>Ca3(PO4)2\u00a0 + 4H2O + 2NH3</span></span></span><br>Lihat Ca kanan = 3 maka Ca kiri =3 juga<br>kemudian karena PO4 kanan= 2 maka koefisien (NH4)3PO4 = 2 juga<br>kemudian karena N kiri = 2 maka N kana juga harus 2<br>lalu hitung jumlah H kiri = 14 maka H kanan = 14 juga sehingga koefisien H20=4 agar jumlah H = 8 sehingga saat dijumlah dengan H dari NH3 = 6 jumlah H kanan = 14 --&gt; (8+6)<br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

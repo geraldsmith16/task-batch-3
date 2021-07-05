@@ -1,0 +1,133 @@
+{
+    "question": "Tolong jawab ini ya, fisika kesetimbangan benda tegar kelas 2 sma",
+    "attachments": [
+        "question-attachments/tolong-jawab-ini-ya-fisika-kesetimbangan-benda-tegar-kelas-2-sma-182-1.jpg",
+        "question-attachments/tolong-jawab-ini-ya-fisika-kesetimbangan-benda-tegar-kelas-2-sma-182-2.jpg",
+        "question-attachments/tolong-jawab-ini-ya-fisika-kesetimbangan-benda-tegar-kelas-2-sma-182-3.jpg",
+        "question-attachments/tolong-jawab-ini-ya-fisika-kesetimbangan-benda-tegar-kelas-2-sma-182-4.jpg"
+    ],
+    "answers": [
+        {
+            "answer": "\u00a0\u03a3\u0442=0 (no1)<br>\u04421=\u04422 (sumbu putar di A jadi \u0442a=0 paham ? ) <br>NBxL= w(batang)x[tex] \\frac{1}{2} [/tex] L + w(bola) x [tex] \\frac{3}{4}[/tex]L (semua L dicoret) <br>NB= 200x[tex] \\frac{1}{2} [/tex] + 450 x [tex] \\frac{3}{4}[/tex] <br>NB= 437.5 N <br><br>\u03a3\u0442=0 <br>\u04421=\u04422 ( sumbu putar di B jadi \u0442b=0 ) <br>NAxL= w(batang)x[tex] \\frac{1}{2} [/tex] L + w(bola) x [tex] \\frac{1}{4}[/tex]L (semua L dicoret) <br>NA= 212.5 <br>semoga untuk yang nomor 2 di coba dulu konsepnya sama <br><br><br><br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "apakah-semua-jenis-gaya-menyebabkan-pertambahan-panjang-pegas-269",
+            "question": "Apakah semua jenis gaya menyebabkan pertambahan panjang pegas ?\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "semua jenis gaya mungkin bisa <br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "lima-buah-partikel-berada-dalam-sistem-dengan-dua-level-energi-d-769",
+            "question": "Lima buah partikel berada dalam sistem dengan dua level energi. Dua partikel tereksitasi pd level yg lbh tinggi. Jika partikel tersebut terbedakan:    a). Hitunglah jumlah keadaan berbeda yg mungkin\r\nb). Hitunglah Entropi sistem",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>\nHukum kedua termodinamika\n</span>\nSumber: Frederick J. Bueche,Fisika, edisi ke-8, 1989\n(1)\u00a0\u00a0\u00a0 Kalor secara spontan akan mengalir dari benda yang panas ke benda yang dingin, dan bukan sebaliknya\n(2)\u00a0\u00a0\u00a0 Tidak ada mesin kalor yang berputar terus menerus dapat merubah seluruh energi yang masuk menjadi kerja\n<span>(3)\u00a0\u00a0\u00a0 Jika suatu sistem mengalami perubahan spontan, maka perubahan \nakan berarah sedemikian rupa sehingga entropi sistem akan bertambah atau\n akan bertahan pada nilai sebelumnya</span><br>Entropi merupakan suatu perubahan keadaan pada sistem yang setimbang. \nIni berarti bahwa S ( entropi ) sistem selalu sama, apabila sistem \nberada dalam keadaan keseimbangan tertentu.<br><br>a. jumlah entalpi jagad raya \u0394s = 0 dan bertambah pada saat irreversible terjadi \u0394s&gt;0<br>\u00a0\u00a0 menjadi 5 x partikel &gt;0<br>b. \u0394s =Q/T = 1 - q2/q1<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "rumus-berat-dalam-fisika-386",
+            "question": "Rumus berat dalam fisika?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "W = m . g<br><br>m = massa \u00a0(kg)<br>g \u00a0= gravitasi \u00a0(m/s\u00b2 )<br>W = berat (N)",
+                    "attachments": []
+                },
+                {
+                    "answer": "yang dimaksud berat kan? w = m x g, massa x gravitasi",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dua-buah-piringan-memiliki-inersia-i-dan-2i-dipasang-pada-sat-452",
+            "question": "Dua buah piringan memiliki inersia (I) dan (2I) dipasang pada satu poros yang licin dan dapat berputar bersama sebagai satu system. Piringan pertama awalnya di putar dengan kecepatan sudut ( \u03c9 ) dan yg kedua dengan kecepatan sudut (2\u03c9) ( keduanya berputar dalam arah yg sama ) dan kemudian keduanya di satukan dan terus berputar dengan kecepatan sudut \u2126. \u2126 sama dengan\u2026??",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "kecepatan sudut total =\u00a0\u221a\u03c9^2 + 2\u03c9^2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0=\u221a 5\u03c9^2",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "seorang-dengan-massa-60-kg-berada-dalam-lift-yang-sedang-bergerak-595",
+            "question": "Seorang dengan massa 60 kg berada dalam lift yang sedang bergerak ke bawah dengan percepatan 2m/s\u00b2. Jika g = 10m/s\u00b2 ,maka gesekan kaki orang pada lantai lift adalah....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kelas : X<br>Mata Pelajaran : Fisika<br>Kategori : Bab Dinamika partikel<br>Kata Kunci : Gerak pada Lift<br><br>Jawaban berupa lampiran<br><br><br><br>",
+                    "attachments": [
+                        "answer-attachments/seorang-dengan-massa-60-kg-berada-dalam-lift-yang-sedang-bergerak-595-1.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "bagaimanakah-momentum-benda-sebelum-dan-sesudah-tumbukan-218",
+            "question": "Bagaimanakah momentum benda sebelum dan sesudah tumbukan ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Berdasarkan hukum kekekalan momentum,\"jika tidak ada gaya luar yang bekerja pada benda,maka jumlah momentum sebelum tumbukan = jumlah momentum setelah tumbukan\"",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "berapa-kalor-yg-di-butuhkan-es-bersuhu-2c-dengan-massa-4-kg-ag-479",
+            "question": "Berapa kalor yg di butuhkan es bersuhu -2\u00b0c dengan massa 4 kg agar mencapai suhu 5\u00b0c, jika dik.    L es=336.000 J/kg\r\nc es=500 J/kg\u00b0c\r\nc air=4200 J/kg\u00b0c",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "m= 4 kg<br>delta t = 3<br>c = 4700<br>= 2x4700x3<br>= 28200<br>= 28,2<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebatang-tembaga-dipanaskan-sampai-3000-c-lalu-dijepit-dengan-560",
+            "question": "Sebatang tembaga dipanaskan sampai 300^{0} C, lalu dijepit dengan kuat, sehingga tidak dapat menyusut ketika suhunya turun. Jika tegangan patahnya 220 x 10^{6} N/m^{2}, pada suhu berapakah batang akan mulai putus saat suhunya diturunkan? Diketahui modulus Young tembaga 110 x 10^{9} N/m^{2} dan koefisien muai panjang 15 x ^{-6} K.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "menurut Teori elastisitas, <br><br>\ntegangan = modulus Elastisitas *  regangan <br><br>\n\u03c3 = E \u03b5 <br><br>\n\u03c3 = E \u0394L/L <br><br>\n\u03c3 = E \u03b1 \u0394T <br><br>\n220 * 10^6 = (110 * 10^9)(15 * 10^-6)(300 - t) <br><br>\nt = 166.67 \u00b0C  <br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-saya-membutuhkan-3-soal-yang-berkaitan-dgn-vektor-645",
+            "question": "Tolong saya membutuhkan 3\u00a0soal yang berkaitan dgn Vektor.?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>vektor gaya yang sama, masing\u00b2 besarnya 10newton,<br>tentukan nilai resultan masing\u00b2 vektor.,?<br><br></span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "contoh-soal-gerak-vertikal-ke-atas-853",
+            "question": "Contoh soal gerak vertikal ke atas",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "sebuah bola bermassa 3 kg,di lemparkan ke atas,dalam jarak 3 meter setelah di lempar,berapa kecepatan yang dimiliki oleh bola dengan gravitasi 10 m/s^2 :)<br>soalnya aja ? :)",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

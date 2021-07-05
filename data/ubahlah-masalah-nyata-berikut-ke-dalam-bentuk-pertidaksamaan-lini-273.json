@@ -1,0 +1,142 @@
+{
+    "question": "Ubahlah masalah nyata berikut ke dalam bentuk pertidaksamaan linier 1 variabel:    a.Sebuah bus dapat mengangkut tidak kurang dari 60 orang penumpang\r\nb.Jarak rumah beni ke sekolah lebih dari 100 m\r\nc.Penghasilan ibu Monika tidak lebih dari Rp.2.000.000 setiap bulan\r\nd.Sebuah pesawat berada di ketinggian tidak kurang dari 3.000 kaki di atas permukaan laut\r\ne.Kecepatan udin berkendara tidak lebi dari 50 km/jam",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "banyak penumpang bus = a<br>a\u226560<br>jarak rumah beni ke sekolah dalam meter = b<br>b&gt;100<br>penghasilan ibu mona dalam rupiah = c<br>c\u22642.000.000<br>ketinggian pesawat diatas permukaan laut = d<br>d\u22653000<br>kecepatan udin berkendara dalam km/jam = e<br>e\u226450<br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "56-siswa-dalam-sebuah-desa-43-anak-suka-nasi-goreng-37-anak-suka-646",
+            "question": "56 siswa dalam sebuah desa    43 anak suka nasi goreng\r\n37 anak suka mie goreng\r\n22 anak tidak suka keduanya\r\npertanyaan :\r\n1.berapa anak yang suka keduanya ???",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "56 = (43 - x) + (37 - x) + x + 22<br>56 = 102 + x<br>x = 46<br><br>jadi yang gemar keduanya adalah 46 anak...<br>semoga berguna:)",
+                    "attachments": []
+                },
+                {
+                    "answer": "[tex]S+I=L \\\\ 56+1=43+37+22 \\\\ 56+I=102 \\\\ I=102-56 \\\\I=46[/tex]<br><br>Keterangan:<br>S=seluruh\u00a0<br>I=Suka keduanya<br>L=Lain2nya",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "roda-sepeda-motor-dengan-jari-jari-20-cm-jika-roda-itu-berputar-745",
+            "question": "roda sepeda motor dengan jari -jari 20 cm, jika roda itu berputar sebanyak 1.500 putaran,berapa panjang lintasan yang dilalui sepeda motor itu adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "k=2x3,14xr<br>k=2x3,14x20=125,6<br>125,6x1500=188400<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Keliling = 2[tex] \\pi [/tex]r\u00a0<br>K = 2 x 3,14 x 20<br>K = 125,6 cm<br><br>Panjang lintasan = K x Putaran<br>Pl = 125,6 x 1500<br>Pl = 188.400 cm<br>Pl = 1.884 m<br><br>Maaf jika ada kesalahan :)<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1mobil-ketika-mesinnya-di-hidupkandapat-melaju-dengan-kecepatan-128",
+            "question": "1.mobil ketika mesinnya di hidupkan,dapat melaju dengan kecepatan tertentu.setelah beberapa saat,mobil tersebut di rem sehingga jalannya menadi lambat da ber lahan-lahan berhenti.    \u00a0a) Adakah dorongan atau tarikan yang mempengaruhi bendah tersebut?apakah itu?\r\n\u00a0b)Ketika melaju,gaya apakah yang bekerja pada mobil?\r\n\u00a0c)Pada saat mobil ber lahan-lahan berhenti,gaya apakah yang bekarja pada mobil tersebut?\r\n\r\n2.Apakah yang akan terjadi jika :\r\n\u00a0a. pegas di tarik\r\n\u00a0b. Roti di tekan\r\n\u00a0c.Sepeda di kayuh,dan\r\n\u00a0d. bola di tendang?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1c. gaya gesek<br>2a. memantul<br>2b. mengempes<br>2c. berjalan<br>2d. berjalan lurus kearah tendangan tersebut<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "1A = Ada, yakni gaya dari mesin mobil<br>1B = Gaya gesek pula<br>1C = Gaya gesek<br>2A = Jika ada bendanya, akan melempar benda itu. Bila tidak ada, cuman memantul.<br>2B = Hancur atau mengempis<br>2C = Sepeda akan bergerak dan menghadapi gaya gesek<br>2D = Terlempar tergantung pada gerakan kakinya, tidak mesti lurus dengan tendangan<br>Okay ? @Liwed Maaf kalo salah",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apa-itu-variabel-dan-apa-itu-persamaan-kuadrat-247",
+            "question": "Apa Itu Variabel ? Dan Apa Itu Persamaan Kuadrat ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span><span>Variabel\u00a0: (Lat) 1. berubah-ubah, tidak tetap;<br>\u00a02. deklarasi sesuatu yang memiliki variasi nilai <br>3. berbeda-beda dalam bahasa pemrograman disebut juga simbol yang mewakili nilai tertentu, variabel yang dikenal di sub program disebut variabel lokal. sedang yang di kenal secara umum/utuh dalam satu program disebut variabel global.<br></span><span>Variabel\u00a0: adalah objek penelitian, atau apa yang menjadi fokus di dalam suatu penelitian. Menurut F.N. Kerlinger variabel sebagai sebuah konsep. Variabel merupakan konsep yang mempunyai nilai yang bermacam-macam. Suatu konsep dapat diubah menjadi suatu variabel dengan cara memusatkan pada aspek tertentu dari variabel itu sendiri.<br><br><span>Persamaan kuadrat\u00a0adalah suatu persamaan polinomial berorde dua. Bentuk umum dari persamaan kuadrat adalah</span><br></span></span>",
+                    "attachments": []
+                },
+                {
+                    "answer": "variabel adalah lambang pengganti suatu bilangan\u00a0  yang belum diketahu nilainya dengan\u00a0 jelas. persamaan kuadrat adalah nilai peubah yang memenuhi pers kuadrat ,<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "6-pangkat-3-8-pangkat-4-9-pangkat-2-3-pangkat-5-4-pan-677",
+            "question": "6 pangkat 3 \u00d7 8 pangkat 4 \u00d7 9 pangkat 2 \u00f7 3 pangkat 5 \u00d7 4 pangkat 4 \u00d7 2 pangkat 2",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "(6^3 \u00d7 8^4 \u00d7 9^2) \u00f7 (3^5 \u00d7 4^4 \u00d7 2<span>^2)<br>=<br></span>((2x3)^3 \u00d7 (2x4)^4 \u00d7 (3x3)^2) \u00f7 (3^5 \u00d7 4^4 \u00d7 2<span>^2)<br></span>=<br>(2^3 x 3^3 \u00d7 2^4 x 4^4 \u00d7 3^2x3^2) \u00f7 (3^5 \u00d7 4^4 \u00d7 2<span>^2)<br></span>=<br>(2^7 x 3^7 x 4^4) \u00f7 (3^5 \u00d7 4^4 \u00d7 2^2)<br>=<br>3^2 x 2^5<br>=<br>9 x 32<br>=<br>288<br><br>ingat setelah simbol \u00f7 angkanya dibawah per...<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-f-x-5x8-tentukan-nilai-fapabila-x-4-205",
+            "question": "Jika F (x) =5x+8 tentukan nilai f.apabila x=-4",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "F(x) = 5x + 8<br>jika x = - 4<br><br>maka:<br>F (-4) = 5 (-4) + 8<br>F(-4) = -20 +8<br>F(-4) = -12<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "f ( -4 ) = 5 (-4) + 8<br>f (-4) = -20 + 8<br>f (-4) = -12<br>f\u00a0 \u00a0 \u00a0 \u00a0 = -12/-4<br>f\u00a0 = 3<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-nilai-xjika-2x12x22x32x504275-948",
+            "question": "Tentukan nilai x,jika (2x=1)+(2x+2)+(2x+3)+....+(2x+50)=4275",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "itu yang pertama beneran (2x=1) ?? bukan (2x+1) ?? :)",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "693",
+            "question": "",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "jadi 10+6=16<br><br>begitu saja kak jawabanyy<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-jumlah-dua-bilangan-adalah-100-dan-selisih-nya-adalah-4-770",
+            "question": "diketahui jumlah dua bilangan adalah 100 dan selisih nya adalah 40 bagaimana nilai dua bilangan tersebut dapat dinatakan dua linear variabel.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "jawabannya:<br>a+b = 100<br>a-b \u00a0= 40<br>truss lakukan proses eliminasi....<br>2b = 60<br>b = 30<br>substitusikan ke a+b=100<br>a+ 30 = 100<br>a= 70",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "cara-menghitung-luas-dan-keliling-yang-ada-derajatnya-dan-contoh-553",
+            "question": "Cara menghitung luas dan keliling yang ada derajatnya dan contoh soal",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kalo hitung luas segitiga siku2 ataupun kelilingnya harus pake teorema pythqgoras",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

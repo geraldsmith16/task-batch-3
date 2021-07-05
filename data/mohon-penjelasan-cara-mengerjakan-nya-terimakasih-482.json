@@ -1,0 +1,136 @@
+{
+    "question": "Mohon penjelasan cara mengerjakan nya, terimakasih",
+    "attachments": [
+        "question-attachments/mohon-penjelasan-cara-mengerjakan-nya-terimakasih-482-1.jpg"
+    ],
+    "answers": [
+        {
+            "answer": "insyaallah<br>tapi man soalnya?",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "akar-akar-persamaan-kuadrat-a-2-x2-4x-a2-0-adalah-p-d-761",
+            "question": "Akar-akar persamaan kuadrat (a-2) x\u00b2 + 4x + (a+2) = 0 adalah P dan Q. Jika PQ (p+q) = -20. Tentukan nilai a!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "nilai a = 2 nilai x = -1",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jumlah-n-suku-pertama-suata-deret-artmetika-adalah-sn12n11-n-918",
+            "question": "Jumlah n suku pertama suata deret artmetika adalah Sn=1/2n(11-n).rumus sukuke-n adalah....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "rumus jumlah suku ke n = n/2(2a+(11-1)b)<br>jadi rumus suku ke n = a+(11-1)b<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-percobaan-mengundi-uang-logam-rp-10000-sebanyak-2-kali-208",
+            "question": "Tentukan Percobaan mengundi uang logam Rp. 100,00 sebanyak 2 kali",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "ruang sampel = gambar (G) dan angka (A)<br>pengundian uang logam 100 sebanyak dua kali --&gt; masing-masing sisi punya peluang 2/4 atau 1/2 <br>P(A)=2/4<br>P(G)=2/4<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bagaimana-cara-membuat-komik-matematika-dan-berikan-contohnya-t-473",
+            "question": "bagaimana cara membuat\u00a0 komik matematika dan berikan contohnya tentang :pernyataan,kalimat terbuka???",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "iya itu merupakan kalimat terbuka <br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "contoh kalimat terbuka dalam matematika<br>4 + 5 = 9<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-a-x-1-lt-x-lt-20-x-bilangan-prima-b-y-761",
+            "question": "Diketahui :    A = {x\u00a0| 1\u00a0&lt; x &lt; 20, x bilangan prima}\r\nB = {y | 1\u00a0\u2264 y\u00a0\u2264 10, y bilangan ganjil}\r\n\r\nHasil A\u00a0\u03a0 B ..\r\n\r\nA. {3,5,7}\r\nB. {3,5,7,9}\r\nC. {1,3,5,7}\r\nD. {1,3,5,7,9}",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Jawab:<br>A = {2,3,5,7,11,13,17,19)<br>B = {1,3,5,7,9,10)<br>\u00a0A irisan B (A\u00a0\u2227 B) = {2,5,7}<br>jadi, jawabannya adalah A. {3,5,7}<br><br>semoga bisa membantu ^_^,,,<br>maaf kalau ada yang salah ^_^,,,",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1suku-ke-2-dan-suku-ke-5-dari-barisan-geometri-adalah-12dan-49-617",
+            "question": "1.suku ke-2 dan suku ke-5 dari barisan geometri adalah 12dan 4/9 tentukan rumus suku ke -n besarnya suku ke-4     2.tiga bilangan membentuk barisan geometri jumlah ketiga bilangan tersebut adalah 14 dan hasil kalinya 64 tentukan ketiga bilangan",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "U2=12 &lt;=&gt; ar = 12 \u00a0 \u00a0 ....1<br>U5 = 4/9&lt;=&gt; ar^4= 4/9....2<br>1 dan 2 didapat r\u00b3 = 4/(12x 9 \u00a0= 1/27 jadi r = 1/3 dan a = 36<br>Un = ar^(n-1) = \u00a036 (1/3)^(n-1)",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "barisan-dan-deret-sebuah-bola-jatuh-dari-ketinggian-8m-dan-meman-782",
+            "question": "Barisan dan deret!    sebuah bola jatuh dari ketinggian 8m dan memantul kembali dengan ketinggian 3/5 kali tinggi sebelumnya. pemantulan ini berlangsung terus menerus hingga bola berhenti. berapakah jarak lintasan seluruhnya? HELP DONK!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Maaf kak aku gak pakek cara resminya\u00a0<br><br>ketinggian bola awal\u00a0a = 8 m\u00a0<br><br>r =\u00a0[tex] \\frac{x}{y} =  \\frac{3}{5} [/tex] jadi nilai y = 3 dan x = 5<br><br>jadi S~ = a [tex] \\frac{x + y}{x - y} [/tex]<br><br>\u00a0 \u00a0 \u00a0 S~ = 8 [tex] \\frac{5 + 3}{5 - 3} [/tex]<br><br>\u00a0 \u00a0 \u00a0 S~ = 8 . 4<br><br>\u00a0 \u00a0 \u00a0 S~ = 32 m<br><br>jadi panjang lintasan yang di tempuh 32 m<br><br>Semoga membantu :) D",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span>\u21d4ketinggian bola awal = 8 m\u00a0<br><br>R\u00a0 = 3/5 <br>Lintasan = tinggi bola x (5+3)/(5-3)<br><br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 \u00a0  = 8 x 8/2<br>\u00a0\u00a0\u00a0\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 = 8 x 4<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 =32<br>jadi, lintasan yang di tempuh 32 m</span><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suku-ke-5-amp-10-dari-aritmatika-adalah-21-amp-41-tentukan-ju-875",
+            "question": "Suku ke 5 &amp; 10 dari aritmatika adalah 21 &amp; 41 tentukan jumlah 20 suku pertama",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "dik :<br>u5 = 21<br>u10 = 41<br>s20 ?<br><br>u10-u5=41-21=20<br>a+9b-a+4b=20<br>5b=20<br>b= 4<br><br>masukkan ke persamaan :<br>u10 = 41<br>a+9b=41<br>a+9.4=41<br>a+36=41<br>a=41-36<br>a=5<br><br>maka ...<br>s20 = 1/2 n . (2a+(n-1)b)<br>\u00a0 \u00a0 \u00a0 =1/2.20 . (2.5 + (20-1)4)<br>\u00a0 \u00a0 \u00a0 =10 .(10 + (19)4)<br>\u00a0 \u00a0 \u00a0 = 10. ( 10 + 76)<br>\u00a0 \u00a0 \u00a0 =10 . 86 = 860 :)",
+                    "attachments": []
+                },
+                {
+                    "answer": "U5 = 21<br>21=a+ (5-1)b =&gt; 21=a+4b /9 \u00a0=&gt; \u00a0 189=9a+36b<br>U10= 41<br>41=a+ (10-1)b=&gt;41=a+9b/4 \u00a0 =&gt; \u00a0 164=4a+36b<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 --------------------- \u00a0---<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a025=5a<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a05 \u00a0 =a \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a021=5+4b<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a04=b<br>U1 = a+(1-1)b<br>\u00a0 \u00a0 \u00a0 \u00a05+ 0.4 = 5<br>U2 = 5+ (2-1)b<br>\u00a0 \u00a0 \u00a0 \u00a05 + 4 \u00a0 = 9<br>u3 = 5+ (3-1)b<br>\u00a0 \u00a0 \u00a0 \u00a05+8 \u00a0 \u00a0= 13<br>jumlah 20 suku pertama : sn = n/2 (2a+(n-1)b)<br><br>a = 5<br>b = u2-u1 = 9-5 = 4<br><br>s20 = 20/2 (10+76)<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a010(86)<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 860<br>semoga benar ya",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sisa-pembagian-suku-banyak-x4ax23xb-oleh-x2-2x-3-adal-758",
+            "question": "sisa pembagian suku banyak x^{4}+ax^{2}+3x+b oleh x^{2}-2x-3 adalah 2x-4. tentukan nilai a dan b. \u00a0mohon bantuannya ..",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]x^2-2x-3=(x-3)(x+1)\\\\\nf(x)=x^4+ax^2+3x+b\\\\\nf(3)=3^4+a(3)^2+3(3)+b=2(3)-4\\\\\nf(3)=81+9a+9+b=2\\\\\nf(3)=9a+b=-88\\\\\\\\\nf(-1)=(-1)^4+a(-1)^2+3(-1)+b=2(-1)-4\\\\\nf(-1)=1+a-3+b=-6\\\\\nf(-1)=a+b=-4\\\\\\\\\neliminasi f(3)\\ dan\\ f(-1)\\\\\nf(3)=9a+b=-88\\\\\nf(-1)=a+b=-4\\\\\n8a=-84 \\rightarrow a=-\\frac{21}{2}\\\\\na+b=-4 \\rightarrow -\\frac{21}{2}\\\\+b=-4 \\rightarrow b=\\frac{13}{2}[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-akar-akar-dari-persamaan-3x-2-x-6-0-pake-cara-365",
+            "question": "Tentukan akar-akar dari persamaan: 3x\u00a0\u00b2\u00a0- x + 6 = 0\r\n\r\npake cara melengkapkan kuadrat",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>3x\u00a0\u00b2\u00a0- x + 6 = 0<br></span>(3x - 3)(x + 2)<br>x = 3/3\u00a0=\u00a01 atau x= -2<br><br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

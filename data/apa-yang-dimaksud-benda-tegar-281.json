@@ -1,0 +1,134 @@
+{
+    "question": "Apa yang dimaksud benda tegar",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "benda yang tidak akan berubah bentuknya setelah diberi suatu gaya pada benda tersebut.",
+            "attachments": []
+        },
+        {
+            "answer": "benda tegar adalah istilah dalam fisika terhadap benda yang tidak akan berubah bentuknya setelah diberikan gaya pada benda itu,pada benda tegar titik harus berada pada jarak yang sama,sehinga titik2 lainnya sering sekali berbentuk lingkaran :)",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "apa-yang-mempengaruhi-gaya-archimedes-yang-bekerja-pada-sebuah-be-775",
+            "question": "Apa yang mempengaruhi gaya archimedes yang bekerja pada sebuah benda ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>Di dalam\nilmu fisika, gaya adalah pengaruh apapun yang\ndapat menyebabkan sebuah benda bermassa mengalami perubahan, baik\ndalam bentuk gerakan, arah, maupun konstruksi geometris.[1]. Dengan kata lain, sebuah gaya\ndapatmenyebabkan sebuah objek dengan massa\ntertentu untuk mengubah kecepatannya (termasuk\nuntuk bergerak dari keadaan diam),\natau berakselerasi, atau untuk terdeformasi.\nGaya memiliki besar\ndan arah, sehingga merupakan besaran vektor. Satuan SI yang digunakan untuk mengukur gaya\nadalah Newton\n(dilambangkan dengan N). Gaya sendiri dilambangkan dengan simbol F.</span>\n\n<span>Hukum kedua Newton\nmenyatakan bahwa gaya bersih yang bekerja pada suatu benda sama dengan kecepatan\npada saat momentumnya berubah terhadap waktu. Jika massa\nobjek konstan, maka hukum ini menyatakan bahwa percepatan objek berbanding lurus dengan gaya\nyang bekerja pada objek dan arahnya juga searah dengan gaya tersebut,\ndinyatakan dengan</span>\n\n<span>Konsep yang\nberhubungan dengan gaya antara lain: gaya hambat, yang mengurangi kecepatan benda, torsi\nyang menyebabkan perubahan\nkecepatan rotasi benda. Pada objek yang diperpanjang, setiap bagian\nbenda menerima gaya, distribusi gaya ke setiap bagian ini disebut regangan.\nTekanan merupakan regangan sederhana. Regangan\nbiasanya menyebabkan deformasi\npada benda padat, atau aliran pada benda cair.</span>\n\n<br><br><br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "gaya archimedes adalah gaya angkat suatu benda dalam zat cair dan mempengaruhi keadaan benda tersebut apakah melayang / tenggelam / terapung\u00a0<br>tergantung dari massa jenis zat cair , volume benda , dan percepatan gravitasi\u00a0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-bola-pejal-i25-mrpngkat-2-bertranslasi-dan-berotasi-957",
+            "question": "sebuah bola pejal (I=2/5 mR[pngkat 2 ) bertranslasi dan berotasi dengan kecepatan linear dan kecepatan sudut v dan w. tentukan energi kinetik total bola pejal tsb",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "EkRotasi : 1/2 M.V^2 + 1/2 . I . W^2<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-mobil-a-bergerak-dengan-kelajuan-40-kmjam-5-menit-kemudian-m-571",
+            "question": "1. mobil A bergerak    dengan kelajuan 40 km/jam, 5 menit kemudian mobil B bergerak dengan 90 km/jam. Kapan\r\n dan dimana mobil B bisa menyusul A?\r\n\r\n\r\n\r\n2. mobil A dengan\r\n kecepatan 70 km/jam ke barat, mobil B dengan kecepatan 50 km/jam ke timur,\r\n jarak mula mula 10 km. kapan dan dimana mobil A dan B bisa bertemu?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "kita konversi dulu kecepatannya<br>mobil A = 11,1 m/s<br>mobil B = 25 m/s<br>jaraknya 300 s<br>jarak tempuh 1 = jarak tempuh 2<br>11,1 x\u00a0(t+300) = 25 x t<br>11,1t + 3330 = 25t<br>13,9t = 3330<br>t = 239,56835 s<br><br>tempat ketemu\u00a0<br>=25 x 239,56835<br>=5989,2088 meter dari kedudukan awal",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "seorang-penyelam-mampu-berada-pada-kedalaman-40-m-di-bawah-permuk-504",
+            "question": "Seorang penyelam mampu berada pada kedalaman 40 m di bawah permukaan laut. Jikamassa jenis air laut 1,2 g/cm3 dan percepatan gravitasi 10 m/s\u00b2, maka hitunglah besar tekanan hidrostatis yang dialami penyelam!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "rho= 1,2 g/cm\u00b3=1,2\u00d7(10^-3/10^-6)=1,2\u00d710^3=1200<br>Ph=rho\u00d7g\u00d7h=1200\u00d710\u00d740=480000 N/m\u00b2",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apa-yang-anda-ketahui-tentang-gaya-satu-newton-467",
+            "question": "Apa yang anda ketahui tentang gaya satu newton?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "disebut juga hukum kelembaman. suatu benda akan tetap diam jika tidak ada resultan gaya yang mengenainya",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span>Gaya Satu newton adalah besarnya gaya yang diperlukan untuk membuat benda\nbermassa\nsatu kilogram\nmengalami percepatan\nsebesar satu meter\nper detik</span>\n\n<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-seorang-kakek-dapat-membaca-buku-denan-baik-jika-tulisan-yang-895",
+            "question": "1. seorang kakek dapat membaca buku denan baik jika tulisan yang dibaca terletak pada jarak 40 cm . setelah memakai kacamata, ia dapat membaca dengan baik pada jarak 25 cm. jarak fokus lensa kacamata yang dipakai adalah ... cm    options :\r\n40/3\u00a0 \u00a0 \u00a0 3/25\u00a0 \u00a0 \u00a0 25/40\u00a0 \u00a0 \u00a0 \u00a0 200/3\u00a0 \u00a0 \u00a0 100/3\r\n2. sebuah teropong pantul memiliki jari-jari keelengkungan cermin objektif sebesar 6 m . jika jarak fokus lensa okuler 3 cm, perbesaran angulernya ... kali\r\noptions :\r\n100\u00a0 \u00a0 200\u00a0 \u00a0 50\u00a0 \u00a0 40\u00a0 \u00a0 \u00a0 20\r\n3. sebuah lup mempunyai jarak fokus 5 cm, digunakan seseorang bermata normal untuk melihat sebuah benda kecil yang berjarak 5 cm dari lup jika mata pengguna tidak berakomodasi , perbesarannnya ... kali\r\noptions :\r\n2\u00a0 \u00a0 4\u00a0 \u00a0 4,5\u00a0 \u00a0 5\u00a0 \u00a0 6,25",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "dik : f= 5 cm<br>\u00a0 \u00a0 \u00a0 \u00a0s = 5 cm<br>dit :M<br>\u00a0 \u00a0Jawab :\u00a0<br>karena titik dekat mata normal itu 25cm maka Sn = 25 cm<br>M = 25/5 = 5 kali<br><strong></strong> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suatu-penghantar-dililitkan-melingkar-3x-dengan-jari-jari-25cm-p-309",
+            "question": "suatu penghantar dililitkan melingkar 3x dengan jari-jari 25cm, pada penghantar dialirkan arus listrik 12A. hitung induksi magnet pada pusat lingkaran!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "5cm x 25cm sama dengan 125 cm pangkat dua<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "persamaan-gelombang-berjalan-pada-seutas-tali-dinyatakan-oleh-y-556",
+            "question": "Persamaan gelombang berjalan pada seutas tali dinyatakan oleh y = 12 sin 5\u00a0\\pi (4x + 2t) dengan x dan y dalam cm dan t dalam sekon. tentukan :    a. arah rambat gelombang disertai dengan gambarnya\r\nb. amplitudo\r\nc. frequensi\r\nd. bilangan gelombang\r\ne.\u00a0panjang gelombang\r\nf. kecepatan gelombang",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "y =A sin (\u03c9t - kx)<br>y = A ampitudo = 12<br><br>k = 2\u03c0/lamda<br>lamda = 2\u03c0/10/\u03c0 = \u03c0^2/5 m<br><br><br>\u03c9 = 2\u03c0f<br>20/\u03c0 = 2\u03c0f<br>f = 20/ \u03c0 / 2\u03c0 = 40 /\u03c0^2 Hz<br><br>v = t/x = 20/\u03c0/10/\u03c0 = 2 m/s<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "gelombang-elektromagnetik-yang-memiliki-energi-foton-paling-besa-917",
+            "question": "Gelombang elektromagnetik\u00a0yang memiliki energi foton paling besar adalah....    A. Sinar - X\r\nB. Cahaya Merah\r\nC. Cahaya Ungu\r\nD. Gelombang Radio\r\nE. Sinar Gamma",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "c sinar ungu<br>karena memiliki f terbesar dan panjang gelombang terpendek",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebatang-silinder-timah-hitam-sepanjang-1-m-e-16-x-1010-m3-624",
+            "question": "Sebatang silinder timah hitam sepanjang 1 m (E = 1,6 x 10^10 m^3) memiliki luas penampang 1,25 x 10^-3 m^2 ditarik oleh gaya 2500 N. Besar regangan silinder tersebut adalah?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "3194\u00a0=besar regangan silinder",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

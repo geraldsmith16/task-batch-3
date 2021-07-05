@@ -1,0 +1,147 @@
+{
+    "question": "jika fungsi f(x) dan g(x) mempunyai invers f-i (f invers) (x) = 2x-4/5 dan g-i (g invers) (x) = 3-2x/4 tentukan nilai p jika (fog)-i (invers) (p) = 2",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "fog^-1 = 2(3-2x/4)-4/5<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 = 1/10(3-2x-4/5)= 2<br>p= - 25/2<br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "jika-barisan-5-8-11125-punya-suku-tengah-ut-maka-t-ut-310",
+            "question": "Jika barisan 5, 8, 11........125 punya suku tengah Ut maka t + Ut adalah    mnta tolong yha kl ada yg bsa bntuin\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a= 1, Un=131<br>\u00a0Ut= 1/2(a+ Un)<br>\u00a0\u00a0\u00a0 =1/2(5+131)<br>\u00a0\u00a0\u00a0 =1/2(136)<br>\u00a0\u00a0\u00a0 = 68<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "buatlah-sketsa-grafik-fungsi-kuadrat-y-x2-4x-12-langkah2-699",
+            "question": "Buatlah sketsa grafik fungsi kuadrat\u00a0    y= -x\u00b2 - 4x + 12\r\nlangkah2 langkah mencari titik potong dan titik puncak\u00a0saja..nanti saya yang mengambar..minta tolong plissss^^",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1. nyari titik puncak, <br><span>y= -x\u00b2 - 4x + 12<br>untuk mencari titik puncak maka, y&#039;=0<br>y&#039;=</span><span> -2x - 4<br>-2x - 4=0<br>x= -2<br>(-2,16) titik puncak<br><br>2. mencari titik potong</span><br><span>y= -x\u00b2 - 4x + 12</span><br>(x + 6)(-x + 2)<br>x=-6 V x=-2<br><br>3. membuat tabel titik perpotongan<br>x -6 -5\u00a0 -4\u00a0\u00a0 -3\u00a0\u00a0\u00a0 -2\u00a0\u00a0 -1\u00a0\u00a0\u00a0 0\u00a0\u00a0 1\u00a0 2<br>y\u00a0 0\u00a0 7\u00a0 12\u00a0 15\u00a0\u00a0 16\u00a0 -15\u00a0 12\u00a0 7\u00a0 0<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "kalo titik puncak bukannya tinggal ( Xp , Yp ) = ( -b / 2a , D / -4a ) ?<br>dengan D = b kuadrat - 4ac = (-4)^2 - 4 (-1) 12 = 16+48 = 64<br>jadi puncak ( -2, 16 )<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pada-sebuah-segitiga-klm-dengan-siku-siku-di-l-berlaku-sin-m2-781",
+            "question": "pada sebuah segitiga KLM, dengan siku-siku di L, berlaku sin M=2/3 dan panjang sisi KL=\u221a10 cm, tentukanlah panjang sisi segitiga yang lain.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "KL=LM=\u221a10<br>KM=akar dari <span>\u221a10 x </span><span>\u221a10</span>= akar 100=10<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "m/ sin M = l / sin L<br>\u221a10 \u00f7\u00a02/3 = l\u00a0\u00f7 1<br>l = 3/2 (dikali)\u00a0\u221a10 cm\u00a0= panjang KM<br><br>panjang\u00a0LM = k =\u00a0\u221a(3/2\u00d7\u221a10)\u00b2 - (\u221a10)\u00b2 = 90/4 -10 = (90-40)/4 = 50/4 = 12.5 cm<br><br>maaf jika kurang tetpat",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apakah-fungsi-y-x2-4-mempunyai-turunan-di-x2-558",
+            "question": "Apakah fungsi y= |x^{2}\u00a0-4|\u00a0mempunyai turunan di x=2 ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "ya karena jika dihitung ada 2hasil yaitu 2 dan -2<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "menurut saya tidak, karena pada x = 2 grafik fungsi modulus\u00a0 f(x)=|x^2-4| diskontinu atau terputus, lihat grafik. semoga membantu<br>",
+                    "attachments": [
+                        "answer-attachments/apakah-fungsi-y-x2-4-mempunyai-turunan-di-x2-558-1.png",
+                        "answer-attachments/apakah-fungsi-y-x2-4-mempunyai-turunan-di-x2-558-2.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "contoh-soal-persamaan-dan-fungsi-kuadrat-585",
+            "question": "Contoh soal persamaan dan fungsi kuadrat ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]tentukan\\ akar-akar\\ dari\\ persamaan\\ kuadrat:x^2-x+1=0\\\\\\\\\ntentukan\\ titik\\ puncak\\ fungsi\\ f(x)=x^2-x+1\\\\[/tex]",
+                    "attachments": []
+                },
+                {
+                    "answer": "Selisih 2 bilangan bulat adalah 9. Jika hasil kali kedua bilangan tersebut adalah 36. Tentukan nilai dari kedua bilangan tersebut..<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dari-sebuah-kotak-yang-berisi-8-buah-bola-berwarna-merahdan-6-b-423",
+            "question": "Dari sebuah kotak\u00a0 yang berisi 8 buah bola berwarna merahdan 6 buah bola berwarna biru,diambil 3 buah bola berwarna sekaligus secara acak .Peluang terambil 2 buah bola berwarna merah dan 1 buah bola berwarna biru",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "biru,karena 2 bola yang sudah di ambil adalah bewarna merah",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "3-310-710-34-13-45-34-407",
+            "question": "3 3/10- 7/10=\r\n3/4-1/3=\r\n4/5-3/4=",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "3\u00a0 3/10 - 7/4 = 26/10 = 2\u00a0 6/10 = 2\u00a0 3/5<br>3/4 - 1/3 = 5/12<br>4/5 - 3/4 = 1/20<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "untuk-modal-berjualan-bu-fitri-meminjam-uang-di-koperasi-sebesar-291",
+            "question": "untuk modal berjualan bu fitri meminjam uang di koperasi sebesar rp 5.000.000.00 dengan bunga 1% per bulan ,ansuran tiap bulan yang harus di bayar bu fitri jika meminjam selama 10 bulan adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "bunga perbulan = 1% x 5jt = 50.000<br>angsuran perbulan = (1/10) x 5.000.000 + bunga perbulan = 500.000 + 50.000<br>angsuran perbulan = Rp 550.000<br>dengan total yang harus dibayar Rp 5.500.000 selama 10 bulan",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "mohon-penjelasan-cara-mengerjakan-nya-terimakasih-482",
+            "question": "Mohon penjelasan cara mengerjakan nya, terimakasih",
+            "attachments": [
+                "question-attachments/mohon-penjelasan-cara-mengerjakan-nya-terimakasih-482-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "insyaallah<br>tapi man soalnya?",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "berapa-hasil-dari-557",
+            "question": "Berapa hasil dari\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]2^{2014}.2^{15}=2^{2014+15}=2^{2029}[/tex]",
+                    "attachments": []
+                },
+                {
+                    "answer": "[tex] 2^{2014+15} =  2^{2029} [/tex]",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

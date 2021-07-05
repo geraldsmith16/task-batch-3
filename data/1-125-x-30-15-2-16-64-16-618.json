@@ -1,0 +1,150 @@
+{
+    "question": "1. 125 X 30 : 15 =\r\n2. (-16 ) + 64 : (-16) =",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "1. 125 x 30 : 15 = 250\u00a0<br>2. (-16) + 64 : (-16) = -20<br>bener nggak ya",
+            "attachments": []
+        },
+        {
+            "answer": "1. 250<br>2.48:(-16)= -3",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "jika-a2-a-3-0-maka-nilai-terbesar-yang-mungkin-dari-a3-444",
+            "question": "Jika \u00a0a\u00b2 + a - 3 = 0, maka nilai terbesar yang mungkin dari a\u00b3 + 4a\u00b2 + 9988 adalah ..    dibantu yaahh .. :(",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a\u00b2+a-3 = 0<br>persamaan a\u00b2=3-a<br>persamaan a\u00b3=3a-a\u00b2<br><br>=a\u00b3+4a\u00b2+9988<br>=3a-a\u00b2+4(3-a)+9988<br>=3a-a\u00b2+12-4a+9988<br>=-a-a\u00b2+10000<br>=-a-(3-a)+10000<br>=-a-3+a+10000<br>=-3+10000<br>=9997 <br><br><br>voila dapat hasilnya :D<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apa-rumus-luas-daerah-dibawah-kurva-481",
+            "question": "Apa rumus luas daerah dibawah kurva?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "tergantung sumbu X dan Y yang diketahui\u00a0<br>dan tergantung bentuk kurvanya",
+                    "attachments": []
+                },
+                {
+                    "answer": "tergantung bentuk kurvanya dan juga sumbu X dan \u00a0Y\u00a0nya",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "ada-3-orang-anak-bernama-yoga-ragil-pengayom-anak-bertiga-it-547",
+            "question": "Ada 3 orang anak bernama , yoga, ragil, pengayom. anak bertiga itu iuran 5000 per orang. jadi semuanya terkumpul 15.000. lalu ketiga anak itu ingin membeli makanan seharga 10.000 dan menyuruh orang lain yang bernama dea. sisa uang tersebut tinggal 5.000. lalu dibagikan kembali 1000 per orang dan yang 2000 diberikan ke dea untuk upah membeli jajan. sama saja ketiga anak itu iuran 4000 kan ? jadi 4000 x 3 = 12000 + 2000 ( uang upah ) = 14.000 . dimana uang 1000 itu ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "kan iuranya 5000!!! kok bisa jadi 4000???<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "uang sisa\u00a01.000 x 3 = 3.000<br>uang dea 2.000<br>=&gt;\u00a03.000 + 2.000 = 5.000<br>membeli makanan 10.000<br><br>10.000 + 5.000 = 15.000<br>berarti jumlah uang mereka memang 15.000, bukan 14.000",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "luas-sebidang-tanah-yang-berbentuk-persegi-panjang-adalah-96-m2-968",
+            "question": "luas sebidang tanah yang berbentuk persegi panjang adalah 96 m2. panjang tanah adalah 6 kali lebarnya. tentukan panjang dan lebar tanah tersebut",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "panjang = 6a<br>lebar = a<br>96 = 6a X a<br>96 = 6a\u00b2<br>a\u00b2 = 96/6<br>a\u00b2 = 16<br>a = 4<br>panjang = 6a = 6x4 = 24 cm<br>lebar = a = 4",
+                    "attachments": []
+                },
+                {
+                    "answer": "Dik : L = 96 m2<br>\u00a0\u00a0 \u00a0 \u00a0  p = 6 l<br><br>Dit : p , l .. ?<br>Jwb :<br>L = p x l<br>96 = 6l x l<br>96 = 6 l(kuadrat)<br>96/6 = l kuadrat<br>l = <em><u></u></em>[tex] \\sqrt{16} [/tex]<br>l = 4 m<br><br>p = 6 l<br>p = 6 (4)<br>p = 24 m<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suatu-suku-banyak-fx-jika-dibagi-x3-bersisa-11-dan-jika-diba-249",
+            "question": "Suatu suku banyak f(x) jika dibagi (x+3) bersisa 11 dan jika dibagi (x-1) bersisa -5 .    tentukan sisanya jika f(x) dibagi oleh X\u00b2 + 2x - 3 !",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "x + 3 = 0 ; x = - 3 =&gt; f (-3) = 11<br>x - 1 = 0 ; x = 1 =&gt; f (1) = - 5<br>menentukan sisa f(x)-nya :<br>s (x) = f (a) - f(b) (x) / a-b + a. f (b) - b.f (a) / a - b<br>\u00a0\u00a0 \u00a0 \u00a0\u00a0 = 11 - (-5) (x) / -3 -1 + -3.-5 - 1. 11 / -3-1<br>\u00a0 \u00a0 \u00a0 \u00a0 = 16x /- 4 + 4 /- 4<br>\u00a0 \u00a0 \u00a0 \u00a0 = - 4x -1\u00a0 \u00a0\u00a0 <br><br><br><br><br><br><br><br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "f(-3)=11 dan f(1)= -5<br>f(x) = (x+3)(x-1) H(x) + px + q<br>f(-3) = 11\u21d4 -3p+q = 11<br>f(1) = 5\u21d4 \u00a0 \u00a0<u> \u00a0 p+q = -5 \u00a0</u> \u00a0-\u00a0<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0-4p = 16\u00a0\u21d4 p = -4 dan q = \u00a0-1<br>jadi sisanya -4x -1",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suku-pertama-barisan-geometri-adalah-5-dan-besar-suku-tengahnya-a-805",
+            "question": "suku pertama barisan geometri adalah 5 dan besar suku tengahnya adalah 3.645. banyak sukunya adalah.. \u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex] \\frac{3645}{5} = 729 = 9^{3} = 3^{6}[/tex]<br><br>jadi ada 2 jawaban nih yang mungkin.<br>kalau rasio = 9.<br>maka banyak sukunya = 7<br><br>kalau rasio = 3<br>maka banyak sukunya = 13<br><br>slahkan di cek.",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "rata-rata-berat-badan-apri-danbambang-49-kg-rata-rata-apri-dan-489",
+            "question": "Rata-rata berat badan Apri danBambang 49 kg . Rata-rata apri dan cici 47 kg sedangkan rata-rata b ambang dan Cici 48 kg . Berapakah rata-rata berat bambang apri ,bambang dan cici .??\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "apri = x<br>bambang = y<br>cici = z<br><br>x+y = 98<br>x+z = 94<br>y+z= 96<br><br>x+y= 98<br><u>x+z = 94</u> -<br>y-z= 4<br><br>y+z= 96<br><u>y-z= 4</u> -<br>2z = 92<br>z= 46<br><br>y+z = 96<br>y+46=96<br>y= 40<br><br>x+y= 98<br>x+40=98<br>x= 48<br><br>(46+48+40) : 3 =45 kg<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "persamaan-m-1-x2-4x-2m-0-mempunyai-akar-akar-real-te-829",
+            "question": "Persamaan (m - 1)\u00a0x\u00b2 + 4x + 2m = 0 mempunyai akar-akar real. Tentukan nilai m yg memenuhi!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "JAWAB.<br>akar akarnya<br>x= -2 m= 2<br>x= 0 m=0<br>x=1 m= -1<br>x=4 m=0<br><br>nilai m = 1 dan x = -1/2<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "D&gt;0<br>x\u00b2+4x+2m&gt;0<br>b\u00b2-4ac<br>(4)\u00b2-4.1.2m&gt;0<br>16-8m&gt;0<br>-8&gt;-16<br>m&lt;2<br>jadi m nya : 1<br>mungkin begitu, semoga benar :D",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "barisan-dan-deret-sebuah-bola-jatuh-dari-ketinggian-8m-dan-meman-782",
+            "question": "Barisan dan deret!    sebuah bola jatuh dari ketinggian 8m dan memantul kembali dengan ketinggian 3/5 kali tinggi sebelumnya. pemantulan ini berlangsung terus menerus hingga bola berhenti. berapakah jarak lintasan seluruhnya? HELP DONK!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Maaf kak aku gak pakek cara resminya\u00a0<br><br>ketinggian bola awal\u00a0a = 8 m\u00a0<br><br>r =\u00a0[tex] \\frac{x}{y} =  \\frac{3}{5} [/tex] jadi nilai y = 3 dan x = 5<br><br>jadi S~ = a [tex] \\frac{x + y}{x - y} [/tex]<br><br>\u00a0 \u00a0 \u00a0 S~ = 8 [tex] \\frac{5 + 3}{5 - 3} [/tex]<br><br>\u00a0 \u00a0 \u00a0 S~ = 8 . 4<br><br>\u00a0 \u00a0 \u00a0 S~ = 32 m<br><br>jadi panjang lintasan yang di tempuh 32 m<br><br>Semoga membantu :) D",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span>\u21d4ketinggian bola awal = 8 m\u00a0<br><br>R\u00a0 = 3/5 <br>Lintasan = tinggi bola x (5+3)/(5-3)<br><br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 \u00a0  = 8 x 8/2<br>\u00a0\u00a0\u00a0\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 = 8 x 4<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 =32<br>jadi, lintasan yang di tempuh 32 m</span><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "contoh-soal-pernyataan-majemuk-dan-pernyataan-berkuantor-logika-m-485",
+            "question": "Contoh soal pernyataan majemuk dan pernyataan berkuantor logika matematika",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "soal ini masih misteri... :D<br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,144 @@
+{
+    "question": "Jika sebuah dadu dilempar 5 kali.Berapakah peluang mata dadu yang muncul selalu ganjil? Tolong ya di jawab dan jelaskan cara jalannya",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "sebuah dadu ada 1, 2,3,4,5,6 dilempar sebanyak 5 kai<br><br>\u00a0\u00a01 \u00a02 \u00a03\u00a0 4 \u00a05\u00a0<br>1\u00a02 \u00a03\u00a0 4 \u00a05 \u00a06<br>2 3 \u00a04 \u00a05 \u00a06 \u00a07<br>3 4\u00a0 5\u00a0 6 \u00a07 \u00a08\u00a0<br>4 5 \u00a06 \u00a07 \u00a08 \u00a09\u00a0<br>5 6 \u00a07 \u00a08 \u00a09 \u00a010<br>6 7 \u00a08 \u00a09 \u00a010 \u00a011<br><br>P (A) =\u00a0[tex] \\frac{banyaknya kejadian A}{banyaknya kejadian yang mungkin} [/tex]<br>[tex] \\frac{15}{30} [/tex] =\u00a0[tex] \\frac{1}{2} [/tex]<br><br>30 = banyaknya ruang sampel<br>15 = jumlah ganjil<br><br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "panjang-jari-jari-sebuah-lingkaran-8-cm-jika-panjang-jari-jari-l-264",
+            "question": "Panjang jari-jari sebuah lingkaran 8 cm. Jika panjang jari-jari lingkaran kedua 1 1/2 kali jari-jari lingkaran pertama, hitunglah perbedaan luas kedua lingkaran tersebut dengan phi = 3,14",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "luas lingkaran 1 = phi r*2 = 3,14 x 64= 200,96 \u00a0 \u00a0r lingkaran 2 = 3/2 kali 8 = 12<br>luas lingkaran 2 = 3,14\u00a0x 144 = 452,16<br>jadi perbedaannya = L LINGK 1 - L LINGK 2 =\u00a0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-himpuna-semesta-yng-mungkin-dri-himpuna-himpuna-berikut-360",
+            "question": "Tentukan himpuna semesta yng mungkin dri himpuna-himpuna berikut.    a. {gelas,,piring,sendok,garpu}\r\nb. {9,16,25,36,49}",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a. Semesta yang mungkin = Peralatan makan<br><br>b. Semesta yang mungkin = Bilangan kuadrat",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "a2c-48-b-43s24-manakah-yang-merupakan-persamaan-linier-satu-800",
+            "question": "A.2c-4;8\r\n B.-4+3s;24\r\n manakah yang merupakan persamaan linier satu variabel?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a. 2c-4=8<br>2c=8+4\u00a0 (pindah ruas)<br>2c=12<br>c=6<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "maaf kalau salah. menurut saya sih A. soalnya :<br>a. 2c-4 = 8<br>\u00a0\u00a0 \u00a0 \u00a0\u00a0 2c = 8 + 4<br>\u00a0\u00a0 \u00a0 \u00a0\u00a0 2c = 12<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 c = 6<br><br>b. -4 + 3s = 24<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0\u00a0 3s = 24 +4<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 3s = 28 (padahal 28 tidak bisa dibagi 3)<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "rini-mempunyi-pita-sepanjang-325cm-di-berikan-kepada-dina-9-dmd-624",
+            "question": "rini mempunyi pita sepanjang 325cm. di berikan kepada dina 9 dm,dan ima 570mm. berapa cm sisa pita rini?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "9 dm=90 cm<br>570 mm= 57 cm<br><br>325-(90+57)<br>325-147=178 cm<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "648",
+            "question": "",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]3a^{4} + (6a^{2})^{2} - (3a^{4}) [/tex]maka<br>[tex] 3a^{4} [/tex][tex]+ 36a^{4} [/tex]-[tex] 3a^{4} [/tex]=<br><strong>[tex] 39a^{4} [/tex]<br></strong><br>:)",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "cipta-menjual-mobil-dengan-harga-rp-11160000-lalu-dia-rugi-320",
+            "question": "- Cipta menjual mobil dengan harga Rp. 11.160.000. Lalu, dia rugi 7%. Berapakah harga beli mobilnya?    - Evita menjual sebuah gedung dengan harga Rp 132.000.000, jika dia rugi 12%. Berapakah harga membelinya?\r\n\r\ntolong bantuin yaaa, pake jalan:) makasiih",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "11.160.000= (100-7)/100 x harga asli<br><span>11.160.000 x 100 /93= harga asli<br>harga asli = </span>11.160.000 x 100 /93<br>harga asli = 12.000.000<br><br><br><span>132.000.000 = (100-12)100 x harga asli<br>harga asli = </span><span>132.000.000 x 100 / 88<br>harga asli = 150.000.000<br></span><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "1. karena rugi 7%, maka persentase jual mnjadi <br>= 100% - 7%<br>= 93%<br>maka :<br>\u00a0\u00a0 harga beli = <u>100</u>\u00a0 \u00d7 11.160.000 <br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 93<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = Rp 12.000.000<br><br>2. karena\u00a0 rugi 12% maka persentase jual =<br>\u00a0 = 100% - 12%<br>\u00a0 = 88%<br>maka :<br>harga beli\u00a0 = <u>100</u>\u00a0  \u00d7\u00a0 132.000.000<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 88<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 = Rp 150.000.000<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-x-12-2x-36-2x45-3-24y-1133-20y-363",
+            "question": "1. X-12= 2x +36\r\n2+x/4=5\r\n3. 24y-11=33-20y",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]x-12=2x+36\\\\\n-x=48\\\\\nx=-48\\\\\\\\\n\\frac{x}{4}=5\\\\\nx=20\\\\\\\\\n24y-11=33-20y\\\\\n44y=44\\\\\ny=1[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "nih-nilai-dari-673-adalah-921",
+            "question": "Nih nilai dari 6\u221a7/3 adalah?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "enam akar tujuh di bagi tiga sama dengan dua akar tujuh<br>",
+                    "attachments": [
+                        "answer-attachments/nih-nilai-dari-673-adalah-921-1.png"
+                    ]
+                },
+                {
+                    "answer": "mgkin soal nya kek gni<br><br><u>6\u221a7</u><br>\u00a0\u221a3<br><br>maka:<br><br><u><strong>6\u221a7</strong></u><strong>\u00a0  </strong>\u00d7 \u221a3<br>\u00a0<strong>\u221a3\u00a0\u00a0</strong> \u00d7 \u221a3<br><br><u>6\u221a21</u><br>\u00a0 3<br><br>2\u221a21",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-1-3-2-pke-cara-5-6-609",
+            "question": "1 1 + 3 2 = ??? pke cara\r\n\u00a0 \u00a05 \u00a0 \u00a0\u00a0\u00a0 6\r\n\u00a0\u00a0\u00a0\r\n \u00a0\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1 1/5 + 3 2/6 = 6/5 + 20/6 = 36/30 + 100/30 = 136/30 = 4,53<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "pakai cara hitung campuran<br><br>[tex] 1\\frac{1}{5} + 3\\frac{2}{6}  \\\\  \\\\ =  \\frac{6}{5} + \\frac{20}{6}  \\\\   \\\\ = \\frac{36+100}{30} =  \\frac{136}{30} = 4 \\frac{16}{30} = 4 \\frac{8}{15} [/tex]<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "2x-815-215-tentukan-nilai-x-tolong-banget-yaa-475",
+            "question": "2^x . 8^1/5 = 2^1/5\r\n Tentukan nilai x\r\n Tolong banget yaa",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex] 2^{x} .  \\sqrt[5]{8} =  \\sqrt[5]{2}  [/tex]<br>[tex] 2^{x}+ \\frac{2}{5}  = 1[/tex]<br>x =[tex] -\\frac{2}{5} [/tex]",
+                    "attachments": []
+                },
+                {
+                    "answer": "[tex]2^x.(2^3)^{\\frac{1}{5}}=2^{\\frac{1}{5}}\\\\\\\\\n2^x=\\frac{2^{\\frac{1}{5}}}{2^{\\frac{3}{5}}}\\\\\\\\\n2^x=2^{\\frac{1}{5}-\\frac{3}{5}}\\\\\\\\\nx=-\\frac{2}{5}[/tex]",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

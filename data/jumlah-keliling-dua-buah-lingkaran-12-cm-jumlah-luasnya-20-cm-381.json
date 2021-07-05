@@ -1,0 +1,152 @@
+{
+    "question": "Jumlah keliling dua buah lingkaran 12 cm,\u00a0 jumlah luasnya 20  cm, berapa jari-jari tiap lingkaran?",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "k=2[tex] \\pi [/tex].diameter<br>12\\pi=[tex] \\pi [/tex].diameter<br>diameter= 12\u00a0<br>jari\"=12/2=6",
+            "attachments": []
+        },
+        {
+            "answer": "[tex]K_1+K_2=12 \\pi \\\\\n2 \\pi r_1+2 \\pi r_2=12 \\pi \\\\\nr_1+r_2=6\\\\\nr_2=6-r_1\\\\\\\\\nL_1+L_2=20 \\pi \\\\\n \\pi r^2_1+ \\pi r^2_2=20 \\pi \\\\\nr^2_1+r^2_2=20\\\\\nr^2_1+(6-r_1)^2=20\\\\\nr^2_1+36-12r_1+r^2_1=20\\\\\n2r^2_1-12r_1+16=0\\\\\nr^2_1-6r_1+8=0\\\\\n(r_1-2)(r_1-4)=0\\\\\nr_1=2\\ atau\\ r_1=4\\\\\nutk\\ r_1=2 \\rightarrow r_2=6-r_1=6-2=4\\\\\nutk\\ r_1=4 \\rightarrow r_2=6-r_1=6-4=2\\\\[/tex]",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "pada-fungsi-kuadrat-apa-yang-terjadi-jika-a-gt-0-dan-apa-yang-847",
+            "question": "Pada fungsi kuadrat, apa yang terjadi jika a &gt; 0 dan apa yang terjadi jika a &lt; 0 ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Jika nilai a &gt; 0 maka parabola terbuka ke atas dan mempunyai nilai ekstrem minimum<br><br>\nJika nilai a &lt; 0 maka parabola terbuka ke bawah dan mempunyai nilai ekstrem maksimum<br><br><br><br>",
+                    "attachments": [
+                        "answer-attachments/pada-fungsi-kuadrat-apa-yang-terjadi-jika-a-gt-0-dan-apa-yang-847-1.jpg"
+                    ]
+                },
+                {
+                    "answer": "untuk a\u00a0&gt;\u00a00, grafik/kurvanya menghadap ke atas, dan memiliki nilai minimum (puncaknya ada di bawah)<br><br>untuk a\u00a0&lt;\u00a00, grafik/kurvanya menghadap ke bawah, dan memiliki nilai maksimum\u00a0(puncaknya ada di atas)<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pemecahan-masalah-berkaitan-dengan-persaman-kuadrat-soal-misalk-217",
+            "question": "Pemecahan masalah berkaitan dengan persaman kuadrat. Soal: misalkan anda berencana memagari taman berbentuk persegi panjang disamping tembok rumahmu,dgn menggunakan pagar ketiga sisinya. Anggap anda mempunyai pagar sepanjang 48m dan ingin menciptakan sebuah kamar seluas 160m2.    A) tulislah suatu pernyataan untuk panjang taman\r\n B) buatlah model matematika yg terkait dgn persamaan kuadrat,kemudian selesaikanlah.\r\n C) berapa ukuran taman ini seharusnya?\r\n Tolong dijabarkan ya:)terimakasih..",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "panjang,agak lama gak papa?<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jawablah-pertanyaan-berikut-ini-dengan-benar-5-tentukan-negasi-d-339",
+            "question": "Jawablah Pertanyaan berikut ini dengan benar    5. Tentukan negasi dari disjungsi- disjungsi berikut.\r\na. Susi Wanita yang cantik atau baik hati.\r\nb. 5 bialngan prima atau habis dibagi 2.\r\nc. 2x + 1 = 5 atau 3 bilangan ganjil.\r\nJawabannya:\r\n\r\ntolong Jawablah secepat mungkin karena ini penting",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a. baik hati<br>b. 2<br>c. 2x + 1 = 5<br>\u00a0\u00a0  2x = 5-1<br>\u00a0\u00a0 2x = 4<br>\u00a0\u00a0 x\u00a0\u00a0\u00a0 = 2<br><br>Itu jawabannya. Balas \"terimakasih\" ya ! :)<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "a. susi wanita yang tidak cantik dan tidak baik hati<br>b. 5 bukan bilangan prima dan tidak habis dibagi 2<br>c. 2x + 1 \u2260 5 dan 3 bukan bilangan ganjil<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "rumus-keliling-segitiga-apa-aku-lupa-hehehe-230",
+            "question": "Rumus keliling segitiga apa ? aku lupa hehehe",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "sisi 1 + sisi 2 + sisi 3\u00a0<br>jadi hanya tinggal menjumlahkan ketiga sisinya saja :)",
+                    "attachments": []
+                },
+                {
+                    "answer": "keliling =\u00a0sisi + sisi + sisi",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "nilaixyyang-memenuhi-sistem-persamaan-2x-y5-x-2y7-687",
+            "question": "Nilai(x,y)yang memenuhi sistem persamaan\r\n2x + y=5\r\nx + 2y=7",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>2x + y=5<br>y= 5-2x.................(1)<br><br>x + 2y=7<br>x+ 2(5-2x)=7<br>x+10-4x=7<br>-3x=-3<br>x=1......................(2)<br><br><br>2x+y=5<br>2(1)+y=5<br>2+y=5<br>y=3.........................(3)<br><br><br></span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "ibu-membeli-40-kg-gula-pasir-gula-itu-akan-dijual-eceran-denga-816",
+            "question": "\u00a0Ibu membeli 40 kg gula pasir. Gula itu akan dijual eceran dengan dibungkus plastik masing-masing beratnya\u00a0\u00a0kg. Banyak kantong plastik berisi gula yang dihasilkan adalah........    A.10 kantong\r\nB.80 kantong\r\nC.120 kantong\r\nD.160 kantong",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "40 kg x 2<br>= 80 kantong<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "A. 40:10= 4 kg<br>B. 40:80=1/2 kg<br>C. 40:120= 1/3 kg<br>D. 40:160=1/4 kg",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diskiriminan-pk-panjang-suatu-persegi-panjang-adalah-2m-lebih-pan-398",
+            "question": "Diskiriminan pk    panjang suatu persegi panjang adalah 2m lebih panjang dari lebarnya . jika luasnya 960m\u00b2. tentukan panjang persegi tersebut\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]p=2+l\\\\\nL=pl=960\\\\\n(2+l)l=960\\\\\nl^2+2l-960=0\\\\\n(l-30)(l+32)=0\\\\\nl=30\\ atau\\ l=-32(TM)\\\\\np=32[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "voulum-prisma-yang-alasnya-berbentuk-layang-layang-dengan-panjang-999",
+            "question": "voulum prisma yang alasnya berbentuk layang-layang dengan panjang diagonal 15 cm dan 12 cm serta tinggi prisma 9 cm adalah ...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "v = (1/2*15*12)*9<br>\u00a0 = 810<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "V\u00a0=\u00a0La . t<br>V\u00a0= 1/2 . 15 .12 . 9<br>V = 810 cm\u00b3",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "ada-yang-ngerti-limit-trigonometri-ga-972",
+            "question": "Ada yang ngerti limit trigonometri ga???",
+            "attachments": [
+                "question-attachments/ada-yang-ngerti-limit-trigonometri-ga-972-1.docx"
+            ],
+            "answers": [
+                {
+                    "answer": "nih dek, cb dipelajari",
+                    "attachments": [
+                        "answer-attachments/ada-yang-ngerti-limit-trigonometri-ga-972-1.docx"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "jika-ab-dan-c-adl-sudut2-pda-sebuah-segtiga-dan-nilai-dari-tan-367",
+            "question": "jika A,B, dan C adl sudut2 pda sebuah segtiga dan nilai dari tan A = 4, tan B = 3, maka nilai dari tan C=.......?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]A,\\ B\\ dan\\ C\\ merupakan\\ sudut2\\ dlm\\ segitiga,\\ maka\\\\\nA+B+C=180^{o}\\\\\nA+B=180^{o}-C\\\\\nTan(A+B)=Tan(180^{o}-C)\\\\\n\\frac{Tan A+Tan B}{1-TanATanB}=-TanC\\\\\n\\frac{4+3}{1-4(3)}=-TanC\\\\\n\\frac{7}{-11}=-TanC\\\\\nTanC=\\frac{7}{11}\n[/tex]",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

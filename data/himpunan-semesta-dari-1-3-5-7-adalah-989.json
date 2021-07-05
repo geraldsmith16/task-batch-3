@@ -1,0 +1,150 @@
+{
+    "question": "Himpunan semesta dari \u00a0( 1, 3, 5, 7, ) adalah",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "bilangan asli yang lebih &gt;10<br>",
+            "attachments": []
+        },
+        {
+            "answer": "(1),(3),(5),(7),(1,3),(1,5),(1,7),(3,5),(3,7),(5,7),(1,3,5),(1,3,7),(1,3,5,7) = 14<br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "help-berapakah-x-280",
+            "question": "[HELP]\u00a0 berapakah x?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "2^{x-5} = 4^{x+3}<br>2^{x-5} = 2^{2(x+3)}<br>x-5 = 2(x+3)<br>x-5 = 2x+6<br>x-2x = 6+5<br>-x = 11<br>x = -11",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-bangun-segitiga-berbentuk-segitiga-dengan-sisi-2xcm-2xcm-525",
+            "question": "Sebuah bangun Segitiga berbentuk segitiga dengan sisi 2xcm, 2xcm ,3xcm . Jika keliling segitiga 126 cm,tentukan panjang masing - masing sisi segitiga tersebut!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "k=s+s+s<br>126=2x+3x+2x<br>126=7x<br>x=126/7<br>x=18<br><br>disubtitusikan<br>2x= 2.18 = 36<br>3x= 3.18 = 54<br><br>jadi panjang masing\" sisi adalah 36cm,36cm dan 54cm<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "2x+2x+3x = 126<br>7x = 126<br>x = 18<br><br>jadi panjang sisi sisinya :<br>1. 2x = 2 . 18 = 36<br>2. 2x = 2. 18 = 36<br>3. 3x = 3 . 18 = 54",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suatu-pekerjaan-dapat-diselesaikan-oleh-28-orang-dalam-waktu-9-ha-149",
+            "question": "Suatu pekerjaan dapat diselesaikan oleh 28 orang dalam waktu 9 hari. Setelah dikerjakan selama 2 hari pekerjaan terhenti selama 3 hari agar pekerjaan selesai tepat waktu, maka diperlukan pekerja tambahan sebanyak ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "21 orang pekerja tambahannya",
+                    "attachments": []
+                },
+                {
+                    "answer": "<u>28 x 3\u00a0</u>\u00a0 \u00a0\u00a0= 84/4 \u00a0 \u00a0= 21 orang.<br>9\u00a0-\u00a02\u00a0-\u00a03<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-banyak-himunan-bagian-dari-hiimpunan-tersebut-ahimpuna-715",
+            "question": "Tentukan banyak himunan bagian dari hiimpunan tersebut,    a.himpunan bilangan asli kurang dari 6.\r\nb.himpunan bilangan prima antara 4 dan 20\r\nc.q={nama nama hari dalam seminggu }",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a {1,2,3,4,5} = 5 anggota himp.<br>b. {5,7,11,13,17} = 5 anggota himp.<br>c. {senin, selasa , rabu, kamis, jumat, sabtu, minggu} = 7 anggota himp<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-penyelesaian-2y-7-3-661",
+            "question": "Tentukan penyelesaian\u00a0\u00a02y - 7\u00a0 \u00a0\u2264 3\r\n \u00a0\u00a0\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a02",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<u>2y - 7\u00a0</u><span>\u00a0\u00a0\u2264 3</span><u><br></u><span>\u00a0 \u00a0 2<br></span>2y-7\u22643.2<br>2y-7\u22646<br>2y\u226413<br>y\u22646.5",
+                    "attachments": []
+                },
+                {
+                    "answer": "2y-7\u22646<br>2y\u22646+7<br>2y\u226413<br>\u00a0jadi y\u22646,5",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-lanjutin-jawabannya-karena-saya-gak-tahu-cara-mengerjakan-102",
+            "question": "Tolong lanjutin jawabannya, karena saya gak tahu cara mengerjakannya lagi.............    Tolong donk, pertanyaannya ada di DOC :)",
+            "attachments": [
+                "question-attachments/tolong-lanjutin-jawabannya-karena-saya-gak-tahu-cara-mengerjakan-102-1.docx"
+            ],
+            "answers": [
+                {
+                    "answer": "capek nulisnya jadi aku jawab di kertas trus aku foto ya\u00a0<br><br><br>",
+                    "attachments": [
+                        "answer-attachments/tolong-lanjutin-jawabannya-karena-saya-gak-tahu-cara-mengerjakan-102-1.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "nilai-t-yang-memenuhi-persamaan-21-2t23-2t-adalah-645",
+            "question": "Nilai t yang memenuhi persamaan 2(1-2t)=23-2t adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "2 (1-2t) =23-2t<br>2-4t=23-2t<br>-4t+2t=23-2<br>-2t=21<br>t=-10,5<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "2 (1-t)=23-2t\n2-4t=23-2t\n-4t+2t=23 -2\n-2t=21\n t= -21/2",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "ubalah-satuan-sudut-berikut-ke-dalam-derajat-1-360-menit-2-948-227",
+            "question": "Ubalah satuan sudut berikut ke dalam derajat    1. 360 menit\r\n 2. 948 menit\r\n 3. 1.020 menit\r\n 5. 75.600 detik",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1. (360*60)/360 = 60<br>2. (948*60)/360 = 158<br>3. (1020*60)/360 = 170<br>4. (75600/360) = 210<br><br>mungkin seperti itu yang dimaksud!!!<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-jawab-dan-berikan-caranya-pada-kegiatan-rally-sebuah-mobi-265",
+            "question": "Tolong jawab dan berikan caranya    Pada kegiatan Rally, sebuah mobil akan sampai di garis finish dalam waktu 4,5 jam dengan kecepatan rata rata 63 km/jam. setelah 2 jam berjalan ban mobil biru pecah sehingga terpaksa berhenti mengganti ban 15 menit. Berapa kecepatan mobil biru di naikan agar tetap sampai finish tepat waktu?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "4,5 jam\u00a0\u21d263 km/jam<br>2,5 jam\u00a0\u21d263 km/jam<br>2,25jam\u21d2 x<br>2,5<u></u><em></em> per 2,25 = x per 63<br>250 per 225(sdrhanakan mnjadi 10 per 9)<br>10 per 9 = x per 63<br>9x=630<br>x =630 : 9<br>x = 70",
+                    "attachments": []
+                },
+                {
+                    "answer": "Jarak tempat = 4,5 jam * 63 km / jam = 283,5 km<br>Perjalanan 2 jam , jaraknya = 2 jam * 63 km/jam = 126 km<br>Berhenti selama 15 menit, total waktu yang sudah ditempuh = 2 jam + 15 menit = 2,25 jam<br>Jarak tempat yang belum di lalui = 283,5 km - 126 km = 157,5 km<br>Kecepatan agar tepat waktu = 157,5 km / 2,25 jam = 70 km/jam<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-segitiga-sama-kaki-memiliki-panjang-sisi-yg-sama-dengan-5-250",
+            "question": "Sebuah segitiga sama kaki memiliki panjang sisi yg sama. Dengan 5    kali panjang sisi yg lainnya. Agar keliling segitiga tersebut lebih \r\n\r\n\r\n besar dari 50m. Berapakah panjang masing-masing sisi segitiga tersebut?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a=5<br>5 x 5 = 25 (2)<br>5+25+25<br>= 55<br>55&gt;50",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

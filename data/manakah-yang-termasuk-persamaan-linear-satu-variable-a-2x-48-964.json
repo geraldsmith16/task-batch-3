@@ -1,0 +1,146 @@
+{
+    "question": "Manakah yang termasuk persamaan linear satu variable?    A. 2x - 4=8\r\n B. -4 + 3s = 24\r\n C. -8 - d^2 = 32\r\n D. 5(u-2) = u-2",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "kalau ga salah semuanya juga satu variabel",
+            "attachments": []
+        },
+        {
+            "answer": "yang termasuk PLSV adalh a dan b<br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "nilai-t-yang-memenuhi-persamaan-21-2t23-2t-adalah-645",
+            "question": "Nilai t yang memenuhi persamaan 2(1-2t)=23-2t adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "2 (1-2t) =23-2t<br>2-4t=23-2t<br>-4t+2t=23-2<br>-2t=21<br>t=-10,5<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "2 (1-t)=23-2t\n2-4t=23-2t\n-4t+2t=23 -2\n-2t=21\n t= -21/2",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-x-adalah-himpunan-bilangan-ganjil-antara-20-dan-46nyat-469",
+            "question": "Diketahui x adalah himpunan bilangan ganjil antara 20 dan 46,nyatakan x dengan :1)dengan kata kata\u00a0 2).notasi pembentuk himpunan\u00a0 3)dengan mendaftarkan anggota-anggotanya Tolong dijawabnya",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]X=\\{20&lt;2n+1&lt;46\\ ;n=10,11,...,22 \\}\\\\\n\\\\\nX=\\{21, 23, 25,27,29,31,33, 35, 37, 39,41,43,45\\}[/tex]",
+                    "attachments": []
+                },
+                {
+                    "answer": "1) Menyatakan Sifat Yang Dimiliki : {bilangan ganjil lebih dari 20 dan kurang dari 46}<br>2) Notasi Pembentuk Himpunan : {x | 20\u00a0\u2264 x\u00a0\u2264 46 , x bilangan ganjil}<br>3) Mendaftar Anggota : {21,23,25,27,29,31,...,45}<br>Okay ? @Liwed",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-jumlah-dua-bilangan-adalah-100-dan-selisih-nya-adalah-4-818",
+            "question": "Diketahui jumlah dua bilangan adalah 100 dan selisih nya adalah 40. bagaimana nilai dua bilangan tersebut dapat dinyatakan dua linear satu variabel???    (tolong sekalian caranya)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a+b=100<br>a-b=40<br>_________-<br>\u00a0\u00a02b=60<br>\u00a0\u00a0b = 30<br>masukaan b=30 ke persamaan 2<br>a-30=40<br>a=70",
+                    "attachments": []
+                },
+                {
+                    "answer": "a\u208ab=100<br>a\u208ab=40<br>________-<br>2b=60<br>b=30<br>a=30=40<br>a=70<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "berat-badan-arif-2-kg-lebih-dari-53-kali-berat-badan-dimas-jika-111",
+            "question": "berat badan arif 2 kg lebih dari 5/3 kali berat badan dimas. jika jumlah berat badan mereka 122 kg, maka selisih berat badan mereka adalah?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Arif 5:3 Dimas<br>Arif +2 Dimas\u00a0<br>5+3=8\u00a0<br>122-2=120\u00a0<br>5x120:8= 75 (Arif)<br>3x120:8= 45 (Dimas)\u00a0<br>75+45=120\u00a0<br>75-45=30 kg",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "di-kelsa-3-terdapat-100-siswayang-saling-berjabat-tangan-pada-ac-240",
+            "question": "di kelsa 3 terdapat 100 siswa,yang saling berjabat tangan pada acara halal bihalal.banyak jabat tangan yang terjadi dalam acara tersebut adalah....kali.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "100x2= 200 jawabnya 200",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-k-235711-tentukan-ahimpunan-bagian-k-yang-mem-547",
+            "question": "diketahui K = { 2,3,5,7,11} tentukan a.himpunan bagian K yang mempunyai dua anggota b.himpunan bagian K yang mempunyai tiga anggota c.himpunan bagian K yang mempunyai empat anggota",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a.) (2,3);(2,5);(2,7);(2,11);(3,5);(3,7);(3,11);(5,7);(5,11);(7,11)<br>b.)(2,3,5);(2,3,7);(2,3,11),(2,5,7);(2,5,11);(2,7,11);(3,5,7);(3,7,11);(5,7,11)<br>c.)(2,3,5,7);(2,3,5,11);(2,5,7,11);(3,5,7,11)<br>Maaf kalau kurang lengkap?!",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "perbandingan-a-b-berbalik-nilai-dengan-c-d-bila-bd-175-dan-378",
+            "question": "Perbandingan a : b berbalik nilai dengan c : d. Bila bd = 175 dan a = 5 ,maka nilai d =",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a/b = d/c<br>ac=bd<br>5c=175<br>c=175/5<br>c=35<br><br>itu yg d buku ctak matematika soalnya salah yg D hrsnya C krna yg D udah diketahui",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-a-samarinda-adalah-ibu-kota-provinsi-kalimantan-timu-537",
+            "question": "Diketahui :    a. Samarinda adalah ibu kota provinsi kalimantan timur\r\nb. 2+3=6 \r\nc. 2 adalah bilangan prima terkecil dan merupakan bilangan genap \r\nd. 4b - 9 = 4b - 9\r\nManakah dari antara kalimat tersebut yang merupakan kalimat tertutup dan kalimat terbuka?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "kalo menurut saya, semuanya kalimat tertutup",
+                    "attachments": []
+                },
+                {
+                    "answer": "kalimat terbuka:<br><span>\u00a0b.\u00a02+3=6\u00a0</span><br>kalimat tertutup:<br>a.\u00a0samarinda adalah ibukota kalimantan timur<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jawablah-pertanyaan-berikut-dengan-menggunaakan-2-cara-yaitu-perb-964",
+            "question": "Jawablah pertanyaan berikut dengan menggunaakan 2 cara yaitu perbandingan dan perkalian silang !",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "400 / 8 = 60 / x<br>\u00a0perkalian silang:<br>400 * x = 8 * 60<br>x = 480 / 400<br>x = 1,2<br><br>perbandingan:<br>400 / 8 = 60 / x<br>50 = 60 / x<br>x = 60 / 50<br>x = 6 / 5<br>x = 1,2<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "cara perkalian silang<br>[tex] \\frac{400}{8} =  \\frac{60}{x}  \\\\ 400x=8.60 \\\\ 400x=480 \\\\ x= \\frac{480}{400} =1,2[/tex]<br><br>cara perbandingan<br>[tex] \\frac{400}{8} =  \\frac{60}{x}  \\\\ \\\\   \\frac{400}{8} =  \\frac{60}{x}. \\frac{\\frac{20}{3} }{ \\frac{20}{3} }   \\\\  \\\\  \\frac{400}{8} =  \\frac{400}{ \\frac{20x}{3} }  \\\\  \\\\ 20x = 8.3 \\\\ x= \\frac{24}{20}  \\\\ x=1,2[/tex]<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-jari-jari-lingkaran-yg-kelilingnya-1884-dan-220-cmmoho-882",
+            "question": "Tentukan jari jari lingkaran yg kelilingnya 188,4 dan 220 cm.mohon penjelasanya :)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1. K = 188,4 cm<br>\u00a0maka ,masukkan rumus , K =\u00a0\u03c0 . 2. r = 188,4 cm/2 =\u00a0\u03c0r<br>94,2 cm = 22/7 .r<br>94,2 .7 cm /22 = r<br>29,97 cm =r<br><br>2.K = 220 cm<br>kembali masukkan rumus ,<br>K =\u03c0.2.r<br>220 cm = 2,14 . 2. r<br>220 cm = 4,28 .r<br>220 cm / 4,28 = r<br>51,4 cm = r<br><br>ingat\u00a0\u03c0 = 22/7 atau 3,14",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,134 @@
+{
+    "question": "tiga buah bilangan membentuk barisan aritmatika. jika jumlah ketiga bilangan itu 30, sedangkan hasil kalinya 640, tentukan ketiga bilangan tersebut !",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "misal barisannya : (a-b) , a , dan (a+b)<br>(a-b) + a +(a+b) = 30<br>3a = 30<br>a = 10<br>Hasil kali : <br>(a-b).a.(a+b) = 640<br>(10-b).10.(10+b) = 640<br>100 - b\u00b2 = 64<br>100 - 64 - b\u00b2 = 0<br>36 - b\u00b2 =0<br>b = 6 \u2228 b =\u00a0- 6 =&gt; pilih saja b = 6<br>maka barisannya : (10-6) , 10 , (10+6)<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 4, 10, 16<br>\u00a0<br>",
+            "attachments": []
+        },
+        {
+            "answer": "a-b,a,a+b BA \u00a0jumlah ketiga bil = 30<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u21d4 \u00a0 \u00a0 \u00a0 3a = 30 maka a = 10<br>(a-b)a(a+b) = 640 maka \u00a010(10-b)(10+b) = 640\u21d4 100 - b\u00b2= 64 maka b = 6 <br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0atau b = -6<br>ketiga bil itu adalah 4,10,16 atau 16,10,4",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "ingkaran-dari-p-q-adalah-bentuk-ekuivalen-p-gt-q-adalah-533",
+            "question": "Ingkaran dari p ^ q adalah....\r\nbentuk ekuivalen -p -&gt; q adalah...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "ingkaran dari p ^ q adalah p v q<br>soal ke 2 itu bener ya?<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentang-konjungsi-dik-pxx3-x0-qx-8-9lt0-dit-tentu-592",
+            "question": "Tentang konjungsi    dik : p(x)=x\u00b3-x=0 ; q(x)= 8-9&lt;0\r\ndit : tentukan nilai x agar p\u2227q bernilai benar dan bernilai salah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "di cari dulu persamaannnya mbak \"D<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "akar-akar-persamaan-kuadrat-a-2-x2-4x-a2-0-adalah-p-d-761",
+            "question": "Akar-akar persamaan kuadrat (a-2) x\u00b2 + 4x + (a+2) = 0 adalah P dan Q. Jika PQ (p+q) = -20. Tentukan nilai a!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "nilai a = 2 nilai x = -1",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1perhatikan-2-kertas-hvs-yang-berukuran-a5-dan-f4-tanpa-menguku-375",
+            "question": "1.Perhatikan 2 kertas HVS yang berukuran A5 dan F4. Tanpa mengukurnya terlebih dahulu, ketas HVS manakah yang lebih luas permukaannya?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "lebih luas F4 karena\u00a0<br>A, semakin besar semakin kecil luasnya",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "seorang-pengusaha-kaya-memiliki-500-botol-jus-tapi-diketahui-ter-402",
+            "question": "Seorang pengusaha kaya memiliki 500 botol jus. Tapi diketahui terdapat 1 botol jus yang beracun di antara 500 botol jus tersebut. Jika terminum bisa menyebabkan kematian dalam waktu kurang lebih 24 jam.    Seorang cendekiawan bernama joko diperintah untuk menemukan 1 botol jus beracun tersebut. joko membuat strategi. Dia akan mengambil sampel jus-jus tersebut dan mencobanya kepada beberapa ekor tikus. Setelah itu tikus-tikus itu dibiarkan dalam 24 jam dalam kurungan untuk melihat reaksinya.\u00a0\r\n\r\nBerapakah tikus minimal yang dibutuhkan joko? Dan bagaimana strateginya?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "sekitar 300 - 500 ekor tikus",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "permisiii-mohon-tanya-ada-yang-tau-hasil-ini-gag-saya-kura-347",
+            "question": "Permisiii mohon tanya, ada yang tau hasil ini gag ???    \u00a0saya kurang faham niii, mahon bantuannya ya :) \r\n\u00a0(9p\u00b2.q\u207b\u00b3)\u2074(27p\u2074.q\u207b\u00b2)\u207b\u00b3",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "243 p^\u00a0-4 + 9p^8\u00a0q^6 + 243 p^ -12 q^-12 + q^-6 (ket. : ^= pangkat)",
+                    "attachments": []
+                },
+                {
+                    "answer": "[tex](9p^2q^{-3})^4(27p^4q^{-2})^{-3}\\\\\n=(3^2p^2q^{-3})^4(3^3p^4q^{-2})^{-3}\\\\\n=3^8p^8q^{-12}(3^{-9}p^{-12}q^{6})\\\\\n=3^{8-9}p^{8-12}q^{-12+6}\\\\\n=3^{-1}p^{-4}q^{-6}\\\\\n=\\frac{1}{3p^4q^6}\\\\[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-nilai-kebenaran-implikasi-berikut-ajika-x4-maka-x2-328",
+            "question": "Tentukan nilai kebenaran implikasi berikut !    a.Jika x=4 maka x\u00b2=16\r\nb.Jika 0\u00a0\u2264 x\u00a0\u2264 2 maka x\u00b2\u00a0-\u00a0x\u00a0-\u00a06\u00a0\u2264 10 dengan x\u00a0\u2208 {Bil.Bulat}\r\nc.Jika x\u00b2 = 9 maka x\u00a0\u2265 3",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a. benar<br>b. benar<br>c. salah, karena nilai x di bolehkan lebih dari 3<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "umur-abc-235-jumlah-umur-b-dan-c-adalah-24-tahun-maka-umur-497",
+            "question": "Umur a:b:c = 2:3:5 jumlah umur b dan c adalah 24 tahun maka umur a adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "umur b ditambah c = 24<br>\u00a0pebandingan umur b ditambah c = 8<br><br>2/8 dikali 24 = 6<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Dik: a:b:c = 2:3:5<br>b+c =\u00a024<br>Dit: a?<br>Jawab:<br><br>b:c = 3:5<br>b+c = 24<br>b =\u00a0[tex] \\frac{3}{8} [/tex]\u00d724 = 9 tahun<br>c =\u00a0[tex] \\frac{5}{8} [/tex]\u00d724 = 15 tahun<br><br>a:b:c = 2:3:5 = a:9:15<br>a = 6 tahun<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-barisan-aritmetika-dengan-u3-u5-u7-u9-104-nila-151",
+            "question": "Diketahui barisan aritmetika dengan U3 + U5 + U7 + U9 = 104. Nilai U6 adalah..",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>Diketahui barisan aritmetika dengan U\u2083 + U\u2085 + U\u2087 + U\u2089 = 104.</p><p><strong>Barisan Aritmatika</strong> adalah \u00a0suatu barisan dengan selisih antara dua suku yang berurutan selalu tetap.</p><p>Rumus : Un = a + (n - 1)b</p><p><strong>Deret Aritmatika</strong> adalah jumlah suku \u2013 suku barisan aritmatika</p><p>Rumus : Sn = \u00b9/\u2082 n (a + Un)</p><h3>Pembahasan</h3><p><em><strong>Penjelasan dengan langkah-langkah:</strong></em></p><p><strong>Diketahui:</strong></p><p>U\u2083 + U\u2085 + U\u2087 + U\u2089 = 104</p><p><strong>Ditanya:</strong></p><p>Nilai U\u2086 = ... ?</p><p><strong>Jawab:</strong></p><p>Ingat Un = a + (n - 1)b</p><p>U\u2083 = a + (3 - 1)b</p><p> \u00a0 \u00a0 = a + 2b</p><p>U\u2085 = a + (5 - 1)b</p><p> \u00a0 \u00a0 = a + 4b</p><p>U\u2087 = a + (7 - 1)b</p><p> \u00a0 \u00a0 = a + 6b</p><p>U\u2089 = a + (9 - 1)b</p><p> \u00a0 \u00a0 = a + 8b</p><p>U\u2083 + U\u2085 + U\u2087 + U\u2089 = 104</p><p>a + 2b + a + 4b + a + 6b + a + 8b = 104</p><p>4a + 20b = 104</p><p><em><strong>a + 5b = 26</strong></em></p><br><p>Un = a + (n - 1)b</p><p><em><strong>U\u2086 = a + (6 - 1)b</strong></em></p><p><em><strong> \u00a0 \u00a0 = a + 5b</strong></em></p><p><em><strong> \u00a0 \u00a0 = 26</strong></em></p><br><p><u><em><strong>Jadi Nilai U\u2086 adalah 26</strong></em></u></p><br><h3>Pelajari lebih lanjut</h3><p>Bab barisan dan deret aritmatika dapat disimak pula di</p><ul><li>brainly.co.id/tugas/13759951</li><li>brainly.co.id/tugas/4240841</li><li>brainly.co.id/tugas/1509694</li><li>brainly.co.id/tugas/12054249</li></ul><h3>===========================</h3><h3>Detail Jawaban</h3><p><strong>Kelas </strong>: 9</p><p><strong>Mapel </strong>: Matematika</p><p><strong>Kategori </strong>: Barisan dan Deret</p><p><strong>Kode </strong>: 9.2.2</p><br><p><strong>Kata kunci </strong>: barisan aritmatika, deret aritmatika, suku pertama, beda, suku ke-n, jumlah n suku pertama</p><br><br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-salah-satu-akar-dari-2x2-ax-3-0-adalah-3-maka-ni-188",
+            "question": "Jika salah satu akar dari 2x^2 \u2013 ax + 3 = 0 ,\u00a0adalah 3 maka nilai a dan akar yang lain adalah?    a. a=7 akar lain -1/2\r\nb. a =7 akar lain 1/2\r\nc. a= -7 akar lain -1/2\r\nd. a = -7/2 akar lain 1/2\r\ne, a = -7/2 akar lain - 1/2",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]bentuk\\ umum\\ persamaan\\ kuadrat : px^2+qx+c=0 ; p \\neq 0\\\\\nuntuk\\ PK : 2x^2-ax+3=0,\\ p=2,\\ q=-a\\ dan\\ r=3\\\\\nkarena\\ 3\\ merupakan\\ salah\\ satu\\ akar\\ PK\\ tersebut,\\ maka\\\\\n2(3^2)-a(3)+3=0\\\\\n3a=21\\\\\na=7\\\\\n\nsehingga\\ PK\\ tersebut\\ menjadi\\ 2x^2-7x+3=0\\\\\nhasil\\ jumlah\\ akar-akarnya\\ (x_1+x_2)=-\\frac{q}{p}\\\\\nkarena\\ salah\\ satu\\ akarnya\\ adalah\\ 3, maka\\\\\n3+x_2=-\\frac{-7}{2}\\\\\nx_2=\\frac{7}{2}-3\\\\\nx_2=\\frac{1}{2}[/tex]",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

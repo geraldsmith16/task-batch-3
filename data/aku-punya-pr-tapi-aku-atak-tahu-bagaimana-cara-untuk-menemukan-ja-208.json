@@ -1,0 +1,134 @@
+{
+    "question": "Aku punya PR tapi aku atak tahu bagaimana cara untuk menemukan jalan solusinya,    pertanyaannya begini:\r\n\r\nTemukan grafik fungsi kuadrat f(X) = 4x\u00b2 - 8x +\u00a03, dari grafik fungsi kuadrat g(x) = 4x\u00b2 !\r\n\r\nMohon penjelasannya!",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "[tex]f(x)=4x^2-8x+3\\\\\ncari\\ titik\\ potong\\ thdp\\ sb\\ x\\ (y=0)\\\\\n0=4x^2-8x+3\\\\\n(2x-3)(2x-1)=0\\\\\nx=\\frac{3}{2}\\ atau\\ x=\\frac{1}{2}\\\\\ndiperoleh\\ (\\frac{3}{2},0)\\ dan\\ (\\frac{1}{2},0)\\\\\\\\\ncari\\ tipot\\ thdp\\ sb\\ y\\ (x=0)\\\\\nf(x)=y=4x^2-8x+3\\\\\ny=4(0)^2-8(0)+3\\\\\ny=3\\\\\ndiperoleh\\ (0,3)\\\\\\\\\ncari\\ titik\\ puncak\\ P(\\frac{-b}{2a},\\frac{-(b^2-4ac)}{4a})\\\\\nP(\\frac{-(-8)}{2(4)},\\frac{-((-8)^2-4(4)(3))}{4(4)})\\\\\nP(1,-1)\\\\\nletakkan\\ semua\\ titik\\ pada\\ koordinat\\ kartesius\\\\\nlalu\\ gambar\\ grafiknya[/tex]",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "contoh-dari-range-data-tunggal-713",
+            "question": "Contoh dari range data tunggal\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>Range adalah salah satu ukuran statistik yang menunjukan jarak penyebaran data antara nilai terendah (Xmin) dengan nilai\u00a0tertinggi (Xmax). Ukuran ini sudah digunakan pada pembahasan daftar distribusi frekuensi. Adapun rumusnya adalah<br>Contoh :\u00a0<span>Berikut ini nilai ujian semester dari 3 mahasiswa<br>A\u00a0= 60 55 70 65 50 80 40<br>B\u00a0= 50 55 60 65 70 65 55<br>C\u00a0= 60 60 60 60 60 60 60<br></span><span>Dari data diatas dapat diketahui bahwa<br>A\u00a0= memiliki Xmax=80, Xmin= 40 , R = 40 , meanya 60<br>B\u00a0= memiliki Xmax=70, Xmin= 50 , R = 20 , meanya 60<br>C\u00a0= memiliki Xmax=60, Xmin= 60 , R = 0 , meanya 60<br></span><span>Dari contoh di atas dapat disimpulkan bahwa :<br>a. Semakin kecil rangenya maka semakin homogen distribusinya<br>b. Semakin besar rangenya maka semakin heterogen distribusinya<br>c. Semakin kecil rangenya, maka meannya merupakan wakil yang representatif<br>d. Semakin besar rangenya maka meannya semakin kurang representatif</span></span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pada-sebuah-segitiga-klm-dengan-siku-siku-di-l-berlaku-sin-m2-781",
+            "question": "pada sebuah segitiga KLM, dengan siku-siku di L, berlaku sin M=2/3 dan panjang sisi KL=\u221a10 cm, tentukanlah panjang sisi segitiga yang lain.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "KL=LM=\u221a10<br>KM=akar dari <span>\u221a10 x </span><span>\u221a10</span>= akar 100=10<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "m/ sin M = l / sin L<br>\u221a10 \u00f7\u00a02/3 = l\u00a0\u00f7 1<br>l = 3/2 (dikali)\u00a0\u221a10 cm\u00a0= panjang KM<br><br>panjang\u00a0LM = k =\u00a0\u221a(3/2\u00d7\u221a10)\u00b2 - (\u221a10)\u00b2 = 90/4 -10 = (90-40)/4 = 50/4 = 12.5 cm<br><br>maaf jika kurang tetpat",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "hitunglahsudut-antara-vektor-a-dan-b-berikut-ini-a-3i-2j-k-104",
+            "question": "Hitunglahsudut antara vektor A dan B berikut ini,\r\n\r\nA = 3i - 2j + k\r\nB = 4i - 3j +2k",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "A = (3,-2,1); B (4, -3, 2)<br>A.B = 12 + 6 + 2 = 20<br>|A| = akar ( 9 + 4 + 1 ) = akar (14)<br>|B| = akar (16 + 9 + 4 ) = akar (29)<br>cos = 20 / ((akar 14)* (akar 29)) = 0,9925<br>sudut =\u00a0 7 <br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-segitiga-abc-dengan-koordinat-titik-a11-b82-c1-829",
+            "question": "Diketahui segitiga ABC dengan koordinat titik\u00a0 A(1,1) B(8,2) C(11,5), tentukan translasi yang diwakili oleh garis AB",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Secara umum:<br>B(x`,y`) = T(a,b)+ A(x,y)<br>(8,2) = (a,b) + (1,1)<br>(8,2) = (a+1,b+1), sehingga\u00a0 a+1 = 8 , maka a=7 dan b+1=2, maka b=1.<br>jadi translasi T(7 1)<br><br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-akar-akar-persamaan-ax2-5x-12-0-adalah-2-dan-b-maka-4-504",
+            "question": "Jika akar akar persamaan ax\u00b2 + 5x -12 = 0 adalah 2 dan b, maka 4a\u00b2 - 4ab + b\u00b2 = .....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "x=2 &lt;=&gt; ax\u00b2+5x-12=0<br>\u00a0 \u00a0 \u00a0 \u00a0&lt;=&gt; 4a+ 10 - 12=0<br>\u00a0 \u00a0 \u00a0 \u00a0&lt;=&gt; 4a = 2<br>\u00a0 \u00a0 \u00a0 &lt;=&gt; a = 1/2<br>jadi persamannya 1/2 x\u00b2+5x - 12 = 0 semua kalikan 2<br>\u00a0 \u00a0 \u00a0&lt;=&gt; x\u00b2+ 10x - 24 = 0<br>\u00a0 \u00a0 \u00a0&lt;=&gt; ( x - 2) (x + 12) = 0<br>\u00a0 \u00a0 \u00a0&lt;=&gt; x = 2 atau x = - 12 = b<br>jadi 4a\u00b2 - 4ab + b\u00b2 = 1 - 4.. 1/2 . (-12) + 12\u00b2\u00a0<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 1 +24+144 = 169",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "3-bilangan-membentuk-barisan-geometri-jumlah-ke-3-bilangan-terseb-126",
+            "question": "3 bilangan membentuk barisan geometri jumlah ke 3 bilangan tersebut adalah 14, dan hasil kalinya 64. Tentukan ke 3 bilangan tersebut",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Dik : <br>Barisan geometri\u00a0 U\u2081 + U\u2082 + U\u2083 = 14\u00a0 ; U\u2081 x U\u2082 x U\u2083 = 64<br>Dit : <br>U\u2081\u00a0 ;\u00a0  U\u2082\u00a0  dan U\u2083<br>Jawab : <br>U\u2081 x U\u2082 x U\u2083 = 64 ==&gt; a x ar x ar\u00b2 = 64<br>a\u00b3 x r\u00b3 = 64 .... ruas kiri dan kanan diakar pangkat 3<br>ar = 4 ..... pers(1)<br><br>U\u2081 + U\u2082 + U\u2083 = 14 \u00a0 ==&gt;\u00a0 a + ar + ar\u00b2 = 14 \u00a0 ==&gt;\u00a0 a + ar + ar.r = 14 <br>a + 4 + 4r = 14 ==&gt; 4/r + 4 + 4r - 14 = 0\u00a0 \u00a0 ==&gt;\u00a0 4/r + 4r - 10 = 0 <br>4 + 4r\u00b2 - 10r = 0 ==&gt; 4r\u00b2 - 10r + 4 = 0 ==&gt; (4r - 2)(r - 2) = 0 <br>r = 1/2 atau r = 2 <br>untuk r = 1/2 maka a = 4/0,5 = 8 <br>maka bilangan yang dimaksud adalah : 8 , 4 , 2 <br>untuk r = 2, maka a = 4/2 = 2 <br>bilangan yang dimaksud adalah : 2 . 4 , 8 <br><br><br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "U\u2081 x U\u2082 x U\u2083 = 64\u00a0<br><span>sifat barisan geometri : U\u2081 x U\u2083 = U\u2082\u00b2\u00a0</span><br>maka didapat : U\u2082\u00b3 = 64 ----&gt; U\u2082 = 4 dan U\u2081 x U\u2083 = 16 ..... pers (1)<br>U\u2081 + U\u2082 + U\u2083 = 14<br><span>U\u2081 + 4 + U\u2083 = 14 ----&gt; U\u2081 + U\u2083 = 10 ......pers (2)\u00a0</span><br><span>dari pers 1 dan pers 2 didapat bilangan yang hasil kalinya 16 dan hasil jumlahnya 10 adalah 2 dan 8\u00a0</span><br><span>jadi bilangan yang dimaksud adalah 2 , 4 dan 8\u00a0</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "besar-sudut-p-dari-sebuah-segitiga-pqr-adalah-70-selisih-antara-535",
+            "question": "Besar sudut P dari sebuah segitiga PQR adalah 70, selisih antara besar sudut Q dan R adalah 36\u00b0 tentukan besar sudut Q dan R. Perlu diketahui total sudut sebuah segitiga adalah 180\u00b0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]P=70^o\\\\\nQ-R=36^o \\rightarrow Q=36^o+R\\\\\\\\\nP+Q+R=180^o\\\\\n70^o+36^o+R+R=180^o\\\\\n2R=74^o\\\\\nR=37^o\\\\\\\\\nQ=36^o+R\\\\\nQ=36^o+37^o\\\\\nQ=73^o[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukanlah-suku-banyak-px-yang-memenuhi-persamaan-berikut-x2-151",
+            "question": "Tentukanlah suku banyak p(x) yang memenuhi persamaan berikut (x2 - 2x - 5)-p(x) = (3-2x)(5x-4)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "(x\u00b2 - 2x - 5) - p(x) = (3 - 2x) (5x - 4) <br>x\u00b2 - 2x - 5 - p(x) = 15x - 12 -10x\u00b2 + 8x <br>x\u00b2 - 2x - 5 - (15x - 12 - 10x\u00b2 + 8x) = p(x) <br>11x\u00b2 - 25x + 7 = p(x) <br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "maaf-sebelumnya-kali-ini-aku-lagi-ada-masalah-besok-bakal-ada-r-646",
+            "question": "Maaf sebelumnya. kali ini aku lagi ada masalah. besok bakal ada razia jilbab,    jlbab aku masih di loundry dan bukanya siang aku lupa ngambil. gimana caranya biar besok aku bisa sakit (pura-pura sakit) dan ngga ketauan\r\n\r\n\"sekolahku bording school :(",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Pake jilbab orangtua aja , ato minjem temen<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "pukul kepela ke tembok aja kak-_-\" ato pagi2 basahin air ke jidat biar kelihatan berkeringat disangka sakit deh..<br><br>kalau ga pake jilbab gmn emg? jilbab temen yg lain?",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-suku-pertama-beda-dan-u20-jika-u810-dan-u1226-395",
+            "question": "Tentukan suku pertama, beda, dan U20. jika U8=10 dan U12=26",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "beda = 26 - 10 per 12 - 8 = 16 per 4 = 4.<br>suku pertama = 10-4-4-4-4-4-4-4 = -18<br>semoga membantu :))<br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

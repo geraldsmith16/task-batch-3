@@ -1,0 +1,136 @@
+{
+    "question": "2 benda yang berupa bola pejal dan bola berongga dilepaskan dari tempat yang sama pada kemiringan tertentu. bola manakah yang lebih dulu sampai ke dasar?",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "Persamaan gerak sepanjang bidang miring (m.g.sin 0 = 0-f = m.a)<br>jadi tergantung masa dan jarak. dalam kasus ini jarak sama berarti tinggal yang massa bendanya lebih berat jadi bola pejal yang lebih dulu.",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "dua-pegas-dengan-konstanta-pegas-k1-dan-k2-dihubungkan-seri-hitu-566",
+            "question": "Dua pegas dengan konstanta pegas k1 dan k2 dihubungkan seri. hitung konstanta gabungan kedua pegas.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1/k1 + 1/k2.\u00a0<br>k1+k2/k1k2.<br>totalnya: k1k2/k1+k2.<br>(kayak ngitung arus listrik paralel)",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suatu-lensa-bikonveks-jari-jari-kelengkungannya-masing-masing-10-648",
+            "question": "Suatu lensa bikonveks ,jari-jari kelengkungannya masing-masing 10 cm dan 40 cm, indeks bias kacanya nk =1,5 . Kemudian, lensa dimasukkan ke dalam minyak yang indeks biasnya n =1,2. Maka kekuatan lensanya dalam minyak ialah.... dioptri.    a. 3,125 \r\nb. 3,250\r\nc. 4,125\r\nd. 4,250\r\ne. 5,250\r\n\r\njawabnya ,tolong pakek cara,ya!!! Biar ngerti cara ngerjain soalnya juga :D",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "tiga dua lima puluh bukan<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "4-buah-pegas-identik-masingmasing-mempunyai-konstanta-elavasitas-344",
+            "question": "4 buah pegas identik masingmasing mempunyai konstanta elavasitas 1600N.M-1, disusun seri-paralel (lihat gambar)    beban w yang di gantung menyebabkan sistem pegas mengalami pertambahan panjang secara keseluruhan sebesar 5cm. berat beban w adalah",
+            "attachments": [
+                "question-attachments/4-buah-pegas-identik-masingmasing-mempunyai-konstanta-elavasitas-344-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "Ktotal = (4800x1600) : 4800 + 1600 = 1200 N/m<br>w=Fpegas<br>w=kx<br>w= 1200(0.05)<br>\u00a0 =60 n",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "help-me-1-tepat-di-tengah-batang-ditancapkan-paku-masa-bata-439",
+            "question": "HELP ME!!    1)\u00a0Tepat di tengah\u00a0batang ditancapkan paku. Masa batang adalah 0,4 kg. Berapakah kecepatan sudut yg dialami batang jika diputar dari keadaan diam selama 5 menit?\r\n\r\n2)\u00a0Dari keadaan diam sebuah lempeng silinder pejal tipis berdiameter 400 cm menuruni sebuah bidang miring seperti gambar. Berapa kecepatan silinder di titik x?",
+            "attachments": [
+                "question-attachments/help-me-1-tepat-di-tengah-batang-ditancapkan-paku-masa-bata-439-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "yang nomor 2 pakai hukum kekekalan energi .....<br>Em1=Em2 <br>Ep=EK ( Rotasi) + EK ( Translasi )\u00a0 { sudah diajarkan kan persamaan ini????} <br>m.g.h=[tex] \\frac{1}{2} [/tex] m.[tex] v^{2} [/tex] + [tex] \\frac{1}{2} [/tex] I . [tex]w^{2} [/tex]<br>m.g.h= [tex] \\frac{1}{2} [/tex] { m . [tex] v^{2} [/tex] + [tex] \\frac{1}{2} [/tex] m.[tex] r^{2} [/tex] . [tex] \\frac{ v^{2} }{ r^{2} } [/tex] } } <br>\u00a0\u00a0 g.h = [tex] \\frac{1}{2} [/tex] m.[tex] v^{2} [/tex] + [tex] \\frac{1}{4} [/tex] m.[tex] v^{2} [/tex]<br>\u00a0\u00a0 v = [tex] \\sqrt{ \\frac{4}{3}  . gh} [/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "seorang-siswa-menyelidiki-tinggi-sebuah-gedung-dengan-menjatuhkan-601",
+            "question": "seorang siswa menyelidiki tinggi sebuah gedung dengan menjatuhkan benda dari lantai teratas. teman lain mengukur ternyata benda tersebut sampi di tanah dalam waktu 3 sekon. (percepatan gravitasi=10 ms) dapat disimpulkan bahwa tinggi gedung adalah?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "h= 1/2 gt ^2=\u00a045 m<br>\u00a0tinggal di subt saja<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "dik : \u00a0h= benda<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0t\u00a0= 3 s<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0g=10 m/s<br>dit = tinggi gedung....?<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-batu-gerinda-memiliki-massa-4-kg-dan-jari-jari-8-cm-ketik-802",
+            "question": "Sebuah batu gerinda memiliki massa 4 kg dan jari-jari 8 cm. ketika sebuah momen gaya tetap dikerjakan, roda mencapai kecepatan sudut 1200 rpm dalam 15 sekon. anggap roda mulai dari keadaan diam dan batu gerinda berbentuk silinder pejal. tentukan:    a. percepatan sudut\r\nb. resultan momen gaya\r\nc. sudut putaran yang ditempuh dalam 15 sekon",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "(a.)<br>\u00a0\u03c9=at<br>\u00a0(1200/60) (2\u03c0)=\u03b1(15)<br>\u03b1=8\u03c0/3rad/s\u00b2<br>\u00a0(b.) momen inersianya adlh<br>I=1/2 m r\u00b2 <br>momen gaya <br>T=I \u03b1<br>\u00a0=1/2 m r\u00b2 \u03b1<br>\u00a0=1/2 (4) (0.08)\u00b2(8\u03c0/3)<br>\u00a0=0.107233 N.m<br>(c.)<br>\u03b8=1/2 \u03b1 t\u00b2<br>\u03b8=1/2 (8\u03c0/3) (15)\u00b2<br>\u03b8=300\u03c0 rad<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "rangkaian-rl-seri-dihubungkan-dengan-sumber-tegangan-arus-bolak-b-388",
+            "question": "Rangkaian RL seri dihubungkan dengan sumber tegangan arus bolak balik dengan Vm=100v, hambatan R=80 ohm. Arus maksimum pada rangkaian sebesar 1 A .    tentukan :\r\na. impedansi rangkaian\u00a0\r\nb. reaktansi induktif\r\nc. teganagan antara ujung2 induktor\r\n\r\nmohon bantuannya?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "wow jawabannya kalo panjang gapapa tha kak<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-balok-bermassa-m-berada-di-atas-lantai-mendatar-licin-di-d-923",
+            "question": "sebuah balok bermassa m berada di atas lantai mendatar licin di dorong dengan gaya mendatar 21,5 N sehingga mengalami percepatan 2m/s\u00b2.berapakah gaya yang harus diberikan agar percepatan menjadi 4m/s\u00b2??",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "F=m.a<br>21,5=m.2<br>m=10,75 kg<br><br>F=m.a<br>F=10,75.4<br>F=43N<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "kita buat perbandingan aja,karna massanya sama kan :)<br>maka\u00a0<br>F1= 21,5 N<br>a1= 2 m/s^2<br>F2 = ..?<br>a2= 4 m/s^2<br><br>maka ..<br>F1/F2 = a1/a2<br>21,5 N/F2 = 2/4<br>21,5 N/F2 = 1/2<br>21,5 N . 2 = F2<br>43 N = F2 :)",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "seorang-dengan-massa-60-kg-berada-dalam-lift-yang-sedang-bergerak-595",
+            "question": "Seorang dengan massa 60 kg berada dalam lift yang sedang bergerak ke bawah dengan percepatan 2m/s\u00b2. Jika g = 10m/s\u00b2 ,maka gesekan kaki orang pada lantai lift adalah....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kelas : X<br>Mata Pelajaran : Fisika<br>Kategori : Bab Dinamika partikel<br>Kata Kunci : Gerak pada Lift<br><br>Jawaban berupa lampiran<br><br><br><br>",
+                    "attachments": [
+                        "answer-attachments/seorang-dengan-massa-60-kg-berada-dalam-lift-yang-sedang-bergerak-595-1.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-jari-jari-girasi-cakram-pejal-yang-memiliki-jari-jari-r-852",
+            "question": "Tentukan jari-jari girasi cakram pejal yang memiliki jari-jari R bila sumbu berada pada tepi cakram!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "girasi itu apa?<br>dan R itu nama atau jari jari(r)",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,134 @@
+{
+    "question": "berapa gram NaOH\u00a0(mr=40) padat harus dilarutkan dalam air agar diperoleh 800 ml larutan dengan pH=12 ?",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "[tex] \\frac{v}{mr} [/tex] = [tex] \\frac{800}{40}  [/tex] =20<br>",
+            "attachments": []
+        },
+        {
+            "answer": "NaOH pH= 12 berarti pOH= 2 dan konsentrasi NaOH= 0,01 M, sehingga gunakan rumus<br>\u00a0M= g/Mr\u00a0 x\u00a0 1000/mL lar.<br>\u00a0 0,01= g/40\u00a0 x 1000/800 mL<br>g= 0,32 gram ....jadi NaOH yang harus dilarutkan dalam 800 mL air agar diperoleh pH 12 adalah 0,32 gram<br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "hitunglah-kemolalan-larutan-cuka-yang-mengandung-24-massa-ch3-544",
+            "question": "HITUNGLAH KEMOLALAN LARUTAN CUKA YANG MENGANDUNG 24%\r\n\u00a0MASSA CH3 COOOH (H=1 , C=12, O=16)?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<strong>Kelas \u00a0 \u00a0 \u00a0 \u00a0 : XI</strong><br><strong>Pelajaran \u00a0 : Kimia</strong><br><strong>Kategori \u00a0 \u00a0 : Konsentrasi Larutan</strong><br><strong>Kata Kunci : larutan cuka, kadar, konsentrasi, molalitas</strong><br><br><em>Diketahui</em><br>Larutan cuka dengan kadar massa 24%<br>Ar C = 12, H = 1, dan O = 14<br><br><em>Ditanya</em><br>Konsentrasi cuka dalam satuan molalitas<br><br><em>Penyelesaian</em><br><br><strong>Step-1</strong><br><strong>Siapkan Mr cuka (CH\u2083COOH)<br></strong><br>Mr\u00a0CH\u2083COOH = 2(Ar C) + 4(Ar H) + 2(Ar O)<br>Mr\u00a0CH\u2083COOH = 2(12) + 4(1) + 2(16)<br>Mr\u00a0CH\u2083COOH = 60<br><br><strong>Step-2</strong><br><strong>Hitung molalitas</strong><br><br>Misalkan massa larutan 100 gram, sehingga:<br>\u21d2 massa zat terlarut CH\u2083COOH = 24% x 100 gram\u00a0\u21d2 24 gram<br>\u21d2 massa pelarut air = 100 gram - 24 gram\u00a0\u21d2 76 gram<br><br>Molalitas<br><br>\u21d4 m = [massa zat terlarut/Mr] x [1000/massa pelarut]<br><br>\u21d4 m = [\u00b2\u2074/\u2086\u2080] x [\u00b9\u2070\u2070\u2070/\u2087\u2086]<br><br><strong>DIperoleh konsentrasi cuka sebesar 9,87 molal</strong><br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "terdapat-4-struktur-dengan-rumus-molekul-c4h9cl-satu-diantaranya-504",
+            "question": "Terdapat 4 struktur dengan rumus    molekul C4H9Cl, satu diantaranya memiliki bentuk yang optis aktif.\r\n\u00a0a.\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\r\nTanpa menuliskan struktur C4H9Cl yang optis\r\n aktif, tentukan 3 struktur isomer yang lainya.\r\n\r\n\r\nb.\u00a0\u00a0\u00a0\u00a0\u00a0\r\nJika anda mampu menggambarkan struktur molekul\r\n yang optis aktif diantara 3 struktur yang mungkin, gambarkan senyawa optis\r\n aktif tersebut beserta pasangan enansiomernya. \r\n\r\nc.\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\r\nSetiap isomer dari senyawa ini direaksikan\r\n dengan OH- untuk mengeliminasi molekul HCl. Tuliskan nama dan struktur senyawa\r\n hasil reaksi eliminasi tersebut.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a.<br>1-klorobutna<br>2-klorobutana<br>2-koloro-2-metilpropana<br><br>b.isomer optis terjadi pada senyawa yang memiliki atom C kiral (atom C yang mengikat 4 gugus yang berbeda.<br>contoh dari senyawa di atas yang memiliki isomer optis adalah<br>2 - klorobutana<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 CH3<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 I<br>C2H5 - C* - Cl\u00a0 \u00a0  (C* =atom C kiral krna mengikat 4 gugus berbeda H, CH3, C2H5, Cl)<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 I<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 H<br>c.<br>C4H9Cl + OH^-\u00a0 \u00a0 \u00a0 ---&gt; C4H9OH (butanol) + Cl^- <br><br>(^ dibaca pangkat)<br><br><br>semoga dapat membantu :)<br>beri label terbaik ya :D<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebanyak-24-gr-naoh-bereaksi-dengan-319gr-cuso4-menghasilkan-end-772",
+            "question": "Sebanyak 24 gr NaOH bereaksi dengan 31,9gr CuSO4 menghasilkan endapan Cu(OH)2 menurut\u00a0 reaksi :    2NaOH(AQ) + CuSO\u2084 (AQ) --&gt; Cu(OH)\u2082 (s) + Na\u2082 SO\u2084 (AQ)\r\na) berapa gram endapan Cu (OH)\u2082 yang terbentuk?\r\nb) zat apakah yang tersisa dan berapa gram sisanya ?\r\n(dik : Ar Na : 23, O : 16, H : 1, Cu : 63, S:32)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "B Semoga dapat membantu ya\u00a0<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tabung-yang-volume-nya-5liter-berisi-campuran-gas-ch4-dan-c2h2-ya-898",
+            "question": "tabung yang volume nya 5liter berisi campuran gas CH4 dan C2H2 yang dibakar sempurna menurut rreaksi: \u00a0 CH4 + O2 -&gt; CO2 +H2O \u00a0 C2H2 + O2 -&gt; CO2 + H2O \u00a0 jika volume gas CO2 yang dihasilkan pada pembakaran tersebut 8 liter, tentukan volume masing masing gas didalam campuran tersebut... minta bantuannya ya...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "setarakan reaksi.<br>CH\u2084 + 2O\u2082 -&gt; CO\u2082 + 2H\u2082O<br>1 \u00a0 \u00a0 \u00a0 \u00a02 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 1 \u00a0 \u00a0 \u00a0 \u00a0 2<br>C\u2082H\u2082 + \u2075/\u2082O\u2082 -&gt; 2CO\u2082 + H\u2082O<br>1 \u00a0 \u00a0 \u00a0 \u00a0 \u00a05/2 \u00a0 \u00a0 \u00a0 \u00a0 2 \u00a0 \u00a0 \u00a0 \u00a0 1<br><br>pada CH\u2084 tiap 1 liter gas metana tersebut bereaksi hanya menghasilkan 1 liter CO\u2082<br>pada C\u2082H\u2082 tiap 1 liter zat tersebut bereaksi menghasilkan 2 liter CO\u2082<br>bisa diasumsikan begini<br>CH\u2084 anggap x<br>C\u2082H\u2082 anggap y<br>pX + qY = 8<br>X = 1\u00a0<br>Y = 2<br>berapa nilai p dan q supaya hasilnya bisa 8? inisih asumsikan sendiri juga bisa<br>saya anggap nilai p= 2 dan q = 3<br>2(1) + 3(2) = 8 sama<br>berarti campuran gas tersebut adalah 2 liter gas CH\u2084 dan 3 liter gas C\u2082H\u2082<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "larutan-asam-lemah-ha-01-m-setelah-ditetesi-dengan-suatu-indikat-125",
+            "question": "larutan asam lemah HA 0,1 M setelah ditetesi dengan suatu indikator ternyata warnanya sama dengan warna HCl 0,001 M. Tentukan harga Ka asam HA tersebut!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "pH HCl= pH HA<br>0,001=(ka.M)^1/2<br>0,001=(ka.0,1)^1/2<br>10^-6=ka.10^-1<br>ka=10^-5<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apa-itu-asam-dan-basa-611",
+            "question": "Apa itu asam dan basa?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "aam adlah zat yang dalam air melepaskan ion H+, sedangkan basa adalah zat yang dalam air melepaskan ion H-<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "&gt; Asam adalah larutan yang berasa masam, bersifat korosif dan dapat memerahkan kertas lakmus<br><br>&gt;Basa adalah larutan yang berasa pahit, bersifat\u00a0licin/alkalis dan membirukankertas lakmus<br><br>Semoga membantu :)",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "hitunglah-berapa-gram-massa-zat-berikut-a-30-mol-cuso4-b-1-842",
+            "question": "Hitunglah berapa gram massa zat berikut.\r\na. 3,0 mol CuSO\u2084\r\nb. 1,8 mol besi\r\nc. 2,0 mol NaCl",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "gram = mol x Mr<br>a. 3,0 x 65.632 =\u00a065.653 gram<br>b. 1,8 x 56 =\u00a0100,8 gram<br>c. 2,0 x 59 = 118 gram",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apakah-sifat-yang-ditentukan-menggunakan-indikator-kertas-lakmus-577",
+            "question": "apakah sifat yang ditentukan menggunakan indikator kertas lakmus merupakan nilai yang akurat? jelaskan!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Tidak, karena kertas lakmus tidak menunjukkan nilai pH, melainkan hanya mengidentifikasikan apakah suatu zat bersifat asam/basa<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "20-jenis-asam-basa-beserta-rumus-molekulnya-161",
+            "question": "\u00a020 jenis asam basa beserta rumus molekulnya",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span><span><span></span><span></span><span>ASAM:<br>asam hidroklorat:\nHCl<br></span><span>asam asetat:\n<span>CH3COOH</span></span><span><br>asam sulfat:\n<span>H2SO4</span></span><span><br>asam karbonat:\n<span>H2CO3</span></span>\n<br><span>\nasam borat:\n<span>H3BO3</span><br></span><span>asam asetilsalisilat:\n<span>C16H12O6</span>\u00a0</span></span></span><span><span>\n<br><br></span><span>BASA:<br>amonia:\n<span>NH3</span>\n</span><span><br>natrium hidroksida:\nNaOH\n</span><span><br>natrium bikarbonat:\n<span>NaHCO3</span> <br></span>\u00a0<span>magnesium hidroksida:\n<span>Mg(OH)2</span><br></span><span>kalsium karbonat:\n<span>CaCO3</span></span><span><br>aluminium hidroksida:\n<span>Al(OH)3</span></span></span><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apa-pengertian-dari-a-tata-nama-senyawa-anorganik-b-tata-nama-978",
+            "question": "Apa pengertian dari :\r\na. tata nama senyawa anorganik\r\nb. tata nama senyawa sederhana",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a. tata nama senyawa\u00a0anorganik = golongan senyawa yang terdiri atas unsur2 yang tidak mengandung atom karbon organik,senyawa ini relatif sederhana dan dikelompokkan ke senyawa biner dan poliatom :)<br>b. tata nama senyawa organik sederhana = senyawa senyawa karbon dengan sifat sifat terntentu, contoh metana,etanol,dan aseton:)",
+                    "attachments": []
+                },
+                {
+                    "answer": "Tata nama senyawa organik = Senyawa sederhana yang tidak mengandung atom karbon<br>Tata nama senyawa sederhana = Senyawa yang sejenis dengan senyawa organik, namun mengandung karbon. OKay ? @Liwed<br>Maaf kalo salah",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

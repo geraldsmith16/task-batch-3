@@ -1,0 +1,138 @@
+{
+    "question": "seorang anak melemparkan sebuah buku fisika kepada temannya yang berada di lantai 2 setinggi 4 m dari tanah . buku tersebut ditangkap oleh temannya setelah 1,5 s. berapakah kecepatan awal buku tersebu?",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "kecepatan awal =\u00a02,666666667 m/s",
+            "attachments": []
+        },
+        {
+            "answer": "h=vot-1/2gt^2<br>4=vo.1,5-1/2.10.1,5^2<br>4=1,5vo-11,25<br>15,25=1,5vo<br>vo=10,1 m/s<br><br><br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "pemain-bilyar-menyodok-bola-dengan-gaya-50-n-jika-impuls-yang-te-838",
+            "question": "Pemain bilyar menyodok bola dengan gaya 50 N. Jika impuls yang terjadi adalah 25Ns, tentukan lama bola bersentuhan dengan tongkat penyodok. Berserta caranya !",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "I=F\u0394t<br>25 Ns=50 N\u00a0\u00d7\u00a0\u0394t<br>\u0394t=[tex] \\frac{25}{50} [/tex]=[tex] \\frac{1}{2} [/tex]=0,5 sekon<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dua-buah-piringan-memiliki-inersia-i-dan-2i-dipasang-pada-sat-452",
+            "question": "Dua buah piringan memiliki inersia (I) dan (2I) dipasang pada satu poros yang licin dan dapat berputar bersama sebagai satu system. Piringan pertama awalnya di putar dengan kecepatan sudut ( \u03c9 ) dan yg kedua dengan kecepatan sudut (2\u03c9) ( keduanya berputar dalam arah yg sama ) dan kemudian keduanya di satukan dan terus berputar dengan kecepatan sudut \u2126. \u2126 sama dengan\u2026??",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "kecepatan sudut total =\u00a0\u221a\u03c9^2 + 2\u03c9^2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0=\u221a 5\u03c9^2",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sumber-bunyi-a-menghasilkan-taraf-intensitas-10-db-ketika-dibunyi-675",
+            "question": "Sumber bunyi A menghasilkan taraf intensitas 10 dB ketika dibunyikan terpisah, sedangkan sumber bunyi B menghasilkan traf intensitas 20 dB ketika dibunyikan terpisah. Jika dua sumber bunyi tersebut dibunyikan bersama maka intensitas bunyi gabungan dinyatakan dengan intensitas ambang pendengar Io adalah ......",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "jawab.<br>Tl = 10 log l/lo<br>10 db = 10^1<br>20 db = 10^2<br><br>(10+20) db = 10 l/10^-12<br>30 db = 10 log l/10^-12<br>l = 10^3 x 10^-12/10 log<br>\u00a0= 10^-9 W/m^2<br>\u00a0<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-benda-jayuh-bebas-dati-ketinggian-di-atas-tanah-g-10-ms-839",
+            "question": "Sebuah benda jayuh bebas dati ketinggian di atas tanah (g = 10 ms). Kecepatan benda saat berada pada ketinggian 5 meter di atas tanah adalah..    terimakasih ^^",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "v = akar 2 g x h<br>v = akar 2.10.5<br>v = akar 100<br>v = 10<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-sebuah-gaya-tunggal-dengan-besar-10-n-bekerja-pada-benda-ber-728",
+            "question": "1. sebuah gaya tunggal dengan besar 10 N bekerja pada\u00a0benda\u00a0bermassa m. benda bergerak dari keadaan diam waktu 6 sekon. massa benda tersebut adalah...\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "10 N/6 sekon = 1,67\u00a0<br>maaf yah klo kurang benar....<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "diket : gaya ( N) :10 N<br>\u00a0 \u00a0 \u00a0 \u00a0 : perpindahan jarak ( S ) : 6<br>ditanya : massa benda ( M):....?\u00a0<br>dijawab:<br>W = m\u00a0X g\u00a0<br>\u00a0 \u00a0 = 10N\u00a0X\u00a06 sekon\u00a0<br>\u00a0 \u00a0\u00a0= \u00a060\u00a0<br><br>maaf banget klo jwbnya slh ya ,aq ja ngrjainnya lupa rmsnnya klo ndak slh\u00a0<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suatu-pipa-seragam-dengan-panjang-20-m-dan-massa-20-kg-disangga-o-295",
+            "question": "Suatu pipa seragam dengan panjang 20 m dan massa 20 kg disangga oleh penumpu pada salah satu titik di pipa tersebut. Ketika ujung kiri diberi beban 10 kg dan titik tumpu berada pada jarak 2 m dari tengah pipa, massa beban yang harus diberikan pada ujung kanan pipa agar terjadi keseimbangan adalah...........kg",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Ini penumpunya 2 meter disebelah kanan apa kiri dari tengahnya? <br>kalo di sebelah kiri benda di kanan bermassa :<br>20.8=.x.12<br>x=160/12=13,333 kg<br>kalo disebelah kanan<br>20.12=x.8<br>x=240/8=30 kg<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "diket= P pipa= 20m, m1=10kg, s1=12m , s2=8m<br>jawab: m1 . s1 = m2 .s2<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0\u00a0 10 . 12 = m2 . 8<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0  120 = 8m<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 m= 120 : 8<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0  m= 15kg<br>jadi, di ujung kanan harus di beri beban 15kg agar setimbang<br><br>maaf kalo GJ, saya krg paham ama soalnya,.<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-beban-bermassa-m-digantungkan-pada-ujung-bawah-pegas-deng-511",
+            "question": "Sebuah beban bermassa\u00a0m digantungkan pada ujung bawah pegas dengan tetapan pegas\u00a0k=50 N/m. berapa periode osilasi pegas?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "periodenya<br>T = 2\u03c0\u221a[tex] \\frac{m}{50} [/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apakah-semua-jenis-gaya-menyebabkan-pertambahan-panjang-pegas-269",
+            "question": "Apakah semua jenis gaya menyebabkan pertambahan panjang pegas ?\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "semua jenis gaya mungkin bisa <br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bagaimana-cara-menentukan-titik-tangkap-resultan-pada-keseimbanga-991",
+            "question": "bagaimana cara menentukan titik tangkap resultan pada keseimbangan benda tegar yg tersusun dari beberapa gaya yang sejajar berlawanan arah?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "resultan gaya sejajar segaris dan berlawanan arah sama dengan <u>&#039;&#039;selisih kedua gaya&#039;&#039;</u>. jadi rumusnya : R = F1 - F2<br>R : Resultan gaya",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "berapa-kalor-yg-di-butuhkan-es-bersuhu-2c-dengan-massa-4-kg-ag-909",
+            "question": "Berapa kalor yg di butuhkan es bersuhu -2\u00b0c dengan massa 4 kg agar mencapai suhu 5\u00b0c, jika dik.    L es=336.000 J/kg\r\nc es=500 J/kg\u00b0c\r\nc air=4200 J/kg\u00b0c",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "m.c.\u0394t=4\u00d72\u00d7500= 4000j<br>m.L=4\u00d7336000=1344000j<br>m.c.\u0394t=4\u00d75\u00d74200=84000j<br><br>kalor yg dibutuhkan=1432000j=1432kj",
+                    "attachments": []
+                },
+                {
+                    "answer": "Q es 1 = m.Ces.\u0394t<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 4 . 500 .(0- -2)<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0= 400 j<br>Q lebur 2\u00a0= m.L<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 4 . 336.000<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = \u00a01.344.000 j<br>Q cair 3\u00a0= m.Cair.\u0394t<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = \u00a04 . 4200 . (5-0)<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 84.000 j<br>kalor total Q = Q1+Q2+Q3<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 400 + 1.344.000 + 84.000<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 1.428.400 J<br>tolong klik bintang",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

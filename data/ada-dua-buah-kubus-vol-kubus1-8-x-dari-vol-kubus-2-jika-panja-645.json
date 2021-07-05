@@ -1,0 +1,142 @@
+{
+    "question": "Ada dua buah kubus. Vol kubus1 = 8 x dari Vol kubus 2. Jika panjang sisi kubus 1 = y x p kubus 2, maka berapa y ?",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "Dik :<br>V1 = 8 V2<br>p1 = y p2<br><br>Dit : y = ?<br>Jawab :<br>V1 = 8 x V2<br>(p1)pangkat 3 = 8 x (p2)pangkat 3<br>(y x p2)pangkat 3 = 8 x (p2)pangkat 3<br>y pangkat 3 x p2 pangkatt 3 = 8 x p2 pangkat 3<br>y pangkat 3 = 8<br>y = akar pangkat 3 dari 8<br>y = 2<br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "persamaan-garis-yg-melalui-titik-a-15dan-tegak-lurus-garis-y-472",
+            "question": "Persamaan garis yg melalui titik A(-1,5)dan tegak lurus garis y =1/4X-3 adalah ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "y=1/4x-3, 1/4x-y-3=0<br>m= -a/b<br>-1/4/-1= 1/4<br>y-y1= M(x-x1)<br>y+1= 1/4(X-1/4)<br>y+1=1/4x-1/16<br>1/4x-y-1 1/16 (dikali 16)<br>4x-16y-17<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "[tex]y=\\frac{1}{4}x-3 \\rightarrow m_1=\\frac{1}{4}\\\\\nagar\\ tegak\\ lurus\\, maka\\ m_1.m_2=-1\\\\\n\\frac{1}{4}m_2=-1\\\\\nm_2=-4\\\\\npersamaan\\ yg\\ tegak\\ lurus\\ garis\\ y=\\frac{1}{4}x-3\\ dan\\ melalui\\ A(-1,5)\\\\\ny-y_1=m(x-x_1)\\\\\ny-5=(-4)(x-(-1))\\\\\ny=-4x-4+5\\\\\n4x+y=1[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "rumus-penjumlahan-pecahan-biasa-917",
+            "question": "Rumus penjumlahan pecahan biasa",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Perkalian Silang ato penyebut di samakan dengan, lalu baru bisa di jjumlahkan",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dua-bilangan-berselisih-25jika-2-kali-bilangan-yang-besar-dikura-498",
+            "question": "dua bilangan berselisih 25.jika 2 kali bilangan yang besar dikurangi bilangan yang kecil adalah 175,tentukanlah bilangan itu.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a-b=25<br>(2xa)-b=175<br><br>lakukan eliminasi:<br>2a-b=175<br>a-b=25\u00a0 \u00a0 -<br>-------------------<br>a=150<br><br>lakukan substitusi untuk mencari b<br>a-b=25<br>150-b=25<br>b=150-25= 125<br>b=125<br><br>(2x150)-b=175<br>300-b=175<br>b=300-175<br>b=125<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suatu-daerah-area-pertanian-berbentuk-persegi-panjang-dengan-panj-449",
+            "question": "suatu daerah area pertanian berbentuk persegi panjang dengan panjang 7 cm dan lebar 4 cm jika skala yang digunakan 1 : 100.000, berapakah luas sebenarnya area pertanian tersebut?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "L=7x4=28<br>28x100.000=2.800.000cm atau 28km<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Luas=7cm\u00d74cm=28cm<br>Skala=28cm\u00d71/100.000<br>\u00a0\u00a0\u00a0 \u00a0 \u00a0 =28cm\u00d7100.000<br>\u00a0\u00a0 \u00a0 \u00a0\u00a0 =2.800.000cm<br>\u00a0\u00a0 \u00a0\u00a0 \u00a0 =28km<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "perbandingan-2-x-senilaidengan-y-27-dan-yx-16-tentukan-307",
+            "question": "Perbandingan 2 : x senilai,dengan y : 27 dan y/x - 1/6,\u00a0tentukan nilai x dan y",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "y/x = 1/6<br>x = 6y<br><br>2/x = y/27<br>2/6y = y/27<br>6y^2 = 54<br>y^2 = 9<br>y = 3<br>x = 6y<br>\u00a0\u00a0 = 18<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span>y/x = 1/6<br>x = 6y<br><br>2/x = y/27<br>2/6y = y/27<br>6y^2 = 54<br>y^2 = 9<br>y = 3<br>x = 6y<br>\u00a0\u00a0 = 18</span><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-lintasan-lari-berbentuk-lingkaran-memiliki-diameter-56-met-433",
+            "question": "Sebuah lintasan lari berbentuk lingkaran memiliki diameter 56 meter. Untuk menempuh jarak 902 meter, maka banyak putaran yang dilakukan pelari adalah?    a. 5 3/4 putaran\r\nb. 5 1/2 putaran\r\nc. 5 1/4 putaran\r\nd. 5 1/8 putaran\r\nJelaskan juga caranya :)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "cara mencari diameter dr pertanyaan tsb: 56<u></u><u></u>\u00f72=28<br>jd 22/7 \u00d7 28\u00d728=2464 m lingkaran tsb<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-nilai-ab-dan-c-jika-a-b24-ab52-dan-c17-ab-781",
+            "question": "Tentukan nilai a,b, dan c jika a-b=24; a:b=5:2; dan c=1/7 (a+b)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]a-b=24 \\\\  \\frac{a}{b}= \\frac{5}{2}   \\\\ 5-2=3 \\\\ a= \\frac{5}{3}.24=40 \\\\ b= \\frac{2}{3}.24=16 \\\\ c= \\frac{1}{7}.(a+b) \\\\ c=   \\frac{1}{7}.(40+16)=8[/tex]",
+                    "attachments": []
+                },
+                {
+                    "answer": "a-b = 24<br>a:b = 5:2<br>maka :<br>5x - 2x = 24<br>3x = 24<br>x = 8<br><br>maka a= 5x=5.8 = 40<br>dan b = 2x=2.8 = 16<br><br>c= 1/7 .(a+b) = 1/7 . (40+16) = 1/7 . 56 = 8 :)<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1ubahlah-bentuk-akar-berikut-menjadi-bilangan-pangkat-pecahan-226",
+            "question": "1.ubahlah bentuk akar berikut menjadi bilangan pangkat pecahan !    a.\r\nb.\r\nc.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a. [tex] 15^{ \\frac{1}{3} } [/tex]<br><br>b. [tex] \\sqrt[5]{ 2^{5 x 2} } [/tex] = [tex] \\sqrt[5]{ 2^{10} } [/tex]<br>\u00a0\u00a0  = [tex] 2^{ \\frac{10}{5}} [/tex]<br>\u00a0 = 2\u00b2 = 4<br><br>c. [tex] 17^{ \\frac{5}{3} } [/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-ya-ni-tugas-numpuk-tolong-a-12x-583",
+            "question": "Tolong ya..... ni tugas numpuk tolong    \u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 a. 1/2x + 5 &gt; 15\r\n\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 b. 2 - (4+x) \u2265 - 22\r\n\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 c. 2/3p + 4 \u2264 8\r\n\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 d. 2x _4 &gt;3X + 9\r\n\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 e. 2y - 7/2\u2264 3\r\nnote. / adalah PER\r\n\u00a0\u00a0 makasih bantu ya...:)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a. <u>1 </u>x\u00a0 +\u00a0 5 &gt; 15<br>\u00a0\u00a0\u00a0 2<br><u>x\u00a0</u> &gt;\u00a0 15 - 5<br>2<br><u>x </u>&gt; 10<br>2<br>x &gt; 20<br><br>b. 2 - ( 4 + x ) \u2265 - 22<br>\u00a0\u00a0 2 - 4 - x \u2265 - 22<br>\u00a0- 2 - x \u2265 - 22<br>\u00a0- x \u2265 - 20<br>\u00a0x \u2264 20<br><br>c.<u> 2\u00a0</u> p\u00a0 + 4 \u2264 8<br>\u00a0\u00a0 3<br>\u00a0<u>2p</u>\u00a0 \u2264 8 - 4<br>\u00a03<br><u>2p</u> \u2264 4<br>3<br>2p \u2264 12<br>p \u2264 6<br><br>d. 2x - 4 &gt; 3x + 9<br>\u00a0 -3x + 2x &gt; 9 + 4<br>\u00a0 -x &gt; 13<br>\u00a0 x &lt; - 13 <br><br>e. 2y - <u>7</u> \u2264 3\u00a0 \u00a0 \u00a0 (kedua ruas dikalikan 2)<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0\u00a0 2<br>\u00a0\u00a0 4y - 7 \u2264 6<br>\u00a0\u00a0 4y \u2264 13<br>\u00a0\u00a0 y\u00a0  \u2264 <u>13</u><br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 4<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bentuk-paling-sederhana-dari-5x2y-3xy2-7x2y-6xy2-adalah-331",
+            "question": "Bentuk paling sederhana dari 5x2y - 3xy2 -7x2y + 6xy2 adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "disamain dlu sukunya ,,,,, 5x2y - 3xy2 - 7x2y + 6xy2 jadi 5x2y - 7x2y -3xy2 + 6xy2<br>klo udh baru dihitung ,,,,, <br>jwaban.a -2x + 3xy<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "[tex]5x^2y-3xy^2-7x^2y+6xy^2\\\\=5x^2y-7x^2y-3xy^2+6xy^2\\\\=-2x^2y+3xy^2[/tex]",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

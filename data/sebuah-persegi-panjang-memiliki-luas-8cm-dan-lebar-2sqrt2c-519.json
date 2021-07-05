@@ -1,0 +1,140 @@
+{
+    "question": "sebuah persegi panjang memiliki luas 8cm, dan lebar (2+\\sqrt{2})cm. ditanya: a.panjang? b.keliling?",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "L =\u00a0 p \u00d7 l<br>8 = p \u00d7 (2 +\u221a2)<br><u>\u00a0\u00a0\u00a0 8\u00a0\u00a0\u00a0 </u>\u00a0 = p<br>2 + \u221a2<br><u>\u00a0\u00a0 \u00a0 8 (2 - \u221a2) \u00a0 \u00a0 </u>\u00a0 = p \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 <br>(2 + \u221a2) (2 - \u221a2)<br><u>16 - 8\u221a2\u00a0</u>  = p<br>\u00a0\u00a0 4 - 2<br>8 - 4\u221a2 = p<br><br>K = 2 ( p + l )<br>K = 2 ( (8 - 4\u221a2) + (2 + \u221a2))<br>K = 2 ( 10 - 2\u221a2)<br>K = 20 - 4\u221a2",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "yang-bukan-triple-phytagoras-a-6-8-10-b-9-12-15-c-7-24-30-d-115",
+            "question": "Yang bukan triple phytagoras\u00a0\r\na. 6 8 10\r\nb. 9 12 15\r\nc. 7 24 30\r\nd. 8 15 17",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "kayaknya c. 7, 24, 30",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span><strong><em>yang bukan triple phytagoras :</em></strong><br></span><span>c. 7, 24, 30</span><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sederhanakanlah-bentuk-aljabar-berikut-ini-15-3-x-2-152",
+            "question": "Sederhanakanlah bentuk aljabar berikut ini \r\n15 + 3 (x - 2)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "15 + 3 (x - 2) = 18 (x - 2)<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 18x - 36<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "mina-mengukur-keliling-kolam-ikan-yang-berbentuk-lingkaran-dengan-285",
+            "question": "Mina mengukur keliling kolam ikan yang berbentuk lingkaran dengan tali. Setelah diukur, ternyata panjang tali sama dengan 15,4 m. Berapakah panjang lintasan yang ditempuh?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "744,6824<br>itu jawabnnya :)<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-jajargenjang-pqrs-besar-ltp-2x-10-ltq-80-444",
+            "question": "diketahui jajargenjang PQRS, besar &lt;P = (2x + 10), &lt;Q = 80, dan &lt;R=5y. Tentukan nilai x dan y.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "PQRS itu yang di bawah PQ atau RS?",
+                    "attachments": []
+                },
+                {
+                    "answer": "PQRS berturut\".. Q 80 drj..brrti S juga...trus kalo gitu P=R ...P+R= 360-Q+S<br>P+R=200 ...P=R brrti P=100 R=100..<br>2x+10=100 ...x=45....5y=100...y=20",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-yg-tw-gw-kasih-poin-banyak-787",
+            "question": "Tolong yg tw gw kasih poin banyak :)",
+            "attachments": [
+                "question-attachments/tolong-yg-tw-gw-kasih-poin-banyak-787-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "4. jumlah siswa 40<br>30 gemar mat, 26 gemar fisika, 2 org tidak gemar keduanya, yang gemar keduanya dianggap x<br>maka :<br>40 = (30 - x) + x + (26 - x) +2<br>40 = 58 - x<br>x = 18<br><br>5. 23 gemar bakso dan mie, 45 gemar bakso, 34 gemar mie, 6 org tidak kedua nya, jumlah dianggp x maka :<br>x = 23 + (45 - 23) + (34 - 23) + 6<br>x = 62<br><br>1. jumlah smua 60, gemar basket 50, bulu tangkis 40, 35 gemar keduanya<br>maka :<br>60 = (50 - 35) + (40 - 35) + 35 + x<br>60 = 55 + x<br>5 = x<br><br>2. jumlah 38, menjahit 27, lukis 23, kedua nya 15, ketidak 2\" nya dianggap x<br>maka :<br>38 = (27 - 15) + (23 - 15) + 15 + x<br>38 = 35 + x<br>3 = x<br><br>3. jumlah 30, gemar bacca 25, nyanyi 20, 4 tidak keduanya, gemar keduanya dianggap x<br>maka :<br>30 = (25 - x) + (20 - x) + x + 4<br>30 = 49 - x<br>x = 19<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-f-x-5x8-tentukan-nilai-fapabila-x-4-205",
+            "question": "Jika F (x) =5x+8 tentukan nilai f.apabila x=-4",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "F(x) = 5x + 8<br>jika x = - 4<br><br>maka:<br>F (-4) = 5 (-4) + 8<br>F(-4) = -20 +8<br>F(-4) = -12<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "f ( -4 ) = 5 (-4) + 8<br>f (-4) = -20 + 8<br>f (-4) = -12<br>f\u00a0 \u00a0 \u00a0 \u00a0 = -12/-4<br>f\u00a0 = 3<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "6-pangkat-3-8-pangkat-4-9-pangkat-2-3-pangkat-5-4-pan-677",
+            "question": "6 pangkat 3 \u00d7 8 pangkat 4 \u00d7 9 pangkat 2 \u00f7 3 pangkat 5 \u00d7 4 pangkat 4 \u00d7 2 pangkat 2",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "(6^3 \u00d7 8^4 \u00d7 9^2) \u00f7 (3^5 \u00d7 4^4 \u00d7 2<span>^2)<br>=<br></span>((2x3)^3 \u00d7 (2x4)^4 \u00d7 (3x3)^2) \u00f7 (3^5 \u00d7 4^4 \u00d7 2<span>^2)<br></span>=<br>(2^3 x 3^3 \u00d7 2^4 x 4^4 \u00d7 3^2x3^2) \u00f7 (3^5 \u00d7 4^4 \u00d7 2<span>^2)<br></span>=<br>(2^7 x 3^7 x 4^4) \u00f7 (3^5 \u00d7 4^4 \u00d7 2^2)<br>=<br>3^2 x 2^5<br>=<br>9 x 32<br>=<br>288<br><br>ingat setelah simbol \u00f7 angkanya dibawah per...<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "gimana-sih-cara-mudah-menghitung-pemfaktoran-934",
+            "question": "Gimana sih cara mudah menghitung pemfaktoran?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "pemfaktoran aljabar, bentuk kuadrat, atau yang lain???<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "kalo saya, lebih gampang pake rumus abc, yang<br>(-b\u00b1\u221a(b^2-4ac))/2a<br><br>soalnya,\u00a0tinggal dimasuk-masukin doang angkanya orz.",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diket-skala-110000000-jarak-pda-pta-kota-jambi-palembang-2-945",
+            "question": "Diket : skala 1:10.000.000    jarak pda pta kota Jambi - Palembang 2,4 cm\r\nsopir bis mengendarai bis dari jambi-palembag dgn kec 80km/jam\r\nsopir bis istirahat 30 menit\r\ntiba di kota palembang pukul 10.30\r\n\r\na.berapa jam bis itu di perjalanan ?\r\nb.pukul brp sopir bis berangkat dri kota jambi ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a. w = JS =1:10.000.000 x 2.4 =24000.000 cm = 240 km<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 240 / 80 = 3\u00a0 jam ( tidak dgn waktu istirahat )<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 3 jam + 30 menit = 3.30 (dgn waktu istirahat ) \u00a0  <br>\u00a0\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 <br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 <br>b.\u00a0 10.30 - 3.30<br>\u00a0\u00a0 \u00a0 pukul 7<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "himpunan-semesta-yang-mungkin-dari-balok-kubus-adalah-948",
+            "question": "Himpunan semesta yang mungkin dari ( balok, kubus ) adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "himpunan yang memungkinkan<br>- { himpunan bangun ruang }<br>- { himpunan bangun ruang segi 4 }<br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

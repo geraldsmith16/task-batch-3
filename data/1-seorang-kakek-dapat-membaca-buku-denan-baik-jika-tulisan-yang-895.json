@@ -1,0 +1,134 @@
+{
+    "question": "1. seorang kakek dapat membaca buku denan baik jika tulisan yang dibaca terletak pada jarak 40 cm . setelah memakai kacamata, ia dapat membaca dengan baik pada jarak 25 cm. jarak fokus lensa kacamata yang dipakai adalah ... cm    options :\r\n40/3\u00a0 \u00a0 \u00a0 3/25\u00a0 \u00a0 \u00a0 25/40\u00a0 \u00a0 \u00a0 \u00a0 200/3\u00a0 \u00a0 \u00a0 100/3\r\n2. sebuah teropong pantul memiliki jari-jari keelengkungan cermin objektif sebesar 6 m . jika jarak fokus lensa okuler 3 cm, perbesaran angulernya ... kali\r\noptions :\r\n100\u00a0 \u00a0 200\u00a0 \u00a0 50\u00a0 \u00a0 40\u00a0 \u00a0 \u00a0 20\r\n3. sebuah lup mempunyai jarak fokus 5 cm, digunakan seseorang bermata normal untuk melihat sebuah benda kecil yang berjarak 5 cm dari lup jika mata pengguna tidak berakomodasi , perbesarannnya ... kali\r\noptions :\r\n2\u00a0 \u00a0 4\u00a0 \u00a0 4,5\u00a0 \u00a0 5\u00a0 \u00a0 6,25",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "dik : f= 5 cm<br>\u00a0 \u00a0 \u00a0 \u00a0s = 5 cm<br>dit :M<br>\u00a0 \u00a0Jawab :\u00a0<br>karena titik dekat mata normal itu 25cm maka Sn = 25 cm<br>M = 25/5 = 5 kali<br><strong></strong> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0<br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "rumus-reaksi-sempurna-kimia-apa-ya-374",
+            "question": "Rumus reaksi sempurna kimia apa ya?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>C8H18 (l) +12 \u00bd O2 (g) \u2013&gt; 8 CO2 (g) + 9 H2O (g) \u0394H = -5460 kJ</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-baterai-dihubungkan-dengan-sebuah-resistor-akan-menghasilk-862",
+            "question": "Sebuah baterai dihubungkan dengan sebuah resistor akan menghasilkan arus 0,6 ampere. Jika pada rangkaian tersebut ditambahkan sebuah resistor 4,0 ohm yang dihubungkan seri dengan resistor pertama maka arus akan turun menjadi 0,5 ampere. Gaya gerak listrik (ggl) baterai (dalam volt) adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "v=I.R (sebelum ditambah resistor) <br>v=0.6R1 <br>v=I total ( R1 + R2 ) (setelah ditambah resistor ) <br>nah lalu substitusi <br>I R1 = I total . (R1+R2)<br>0.6R1=0.5 . ( R1 + 4) <br>0.6R1 - 0.5R1 =2<br>0.1R1=2 <br>R1=20ohm ==&gt; V=IR <br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 V=0.6x20 = 12volt <br>maaf kalau ada salah <br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-bola-pejal-yang-massanya-10-kg-dan-jari-jarinya-20-cm-meng-777",
+            "question": "sebuah bola pejal yang massanya 10 kg dan jari-jarinya 20 cm menggelinding dengan kecepatan 8 m/s . berapakah energi kinetiknya?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "ek = 1/2 . mv^2 = 1/2 . 10 kg . 8^2 = 1/2 . 10. 64 = 320 joule<br>ingat ya m= 10 kg<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 v = 8 m/s<br>jika m dan v sudah diketahui kita uda bisa ngerjain energi kinetiknya :)",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suatu-penghantar-dililitkan-melingkar-3x-dengan-jari-jari-25cm-p-309",
+            "question": "suatu penghantar dililitkan melingkar 3x dengan jari-jari 25cm, pada penghantar dialirkan arus listrik 12A. hitung induksi magnet pada pusat lingkaran!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "5cm x 25cm sama dengan 125 cm pangkat dua<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-batu-bata-dengan-massa-3-kg-jatuh-dari-ketinggian-20-meter-ma-863",
+            "question": "1. Batu bata dengan massa 3 kg jatuh dari ketinggian 20 meter, maka kecepatan batu bata sesaat sebelum menyentuh tanah ?    2. Pegas panjang 20 cm digantungkan beban 200 gram sehingga panjang pegas menjadi 25 cm. untuk menarik pegas 2 cm dari titik seimbang hingga 8 cm dari titik seimbang diperlukan usaha sebesar ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1. Kecepatan sebuah benda jatuh bebas dapat dicari menggunakan\u00a0\u221a2gh sehingga V=\u00a0\u221a2.10.20=\u221a400\u2261\u00a020 m/s<br>2. Sebelum mencari besar usaha kita harus mencari koefisien elastisitas pegas terlebih\u00a0dahulu dari F = k.\u0394x sehingga k = F/\u0394x = 0,2.10/0,05 = 40 N/m<br>Kemudian Usaha untuk menarik pegas W = 1/2kx\u00b2\u00a0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebutkan-dan-jelaskan-bagian-alat-optik-teropong-bintang-315",
+            "question": "Sebutkan dan jelaskan bagian alat optik teropong bintang!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "tripod = berfungsi untuk menegakan teropong<br>accessory tray = berfungsi untuk\u00a0penompang teropong<br>focusing knop = berfungsi sebagai tompol fokus kepada benda dilihat<br>eyepiece = mata lensa<br>diagonal mirror = kaca pendukung focussing knop<br>spotterscop = pencari gambar<br>tube = tabung<br>lensa shade = warna lensa",
+                    "attachments": []
+                },
+                {
+                    "answer": "1. lensa pembidik : berfungsi untuk membidik bayangan<br>2. lensa okuler : lensa yg di tempatkan dekat dengan mata ketika melihat teropong bintang<br>3. lensa objectif : lensa yg di ttujukan pada benda2 di luar angkasa<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suspensi-truk-sering-memiliki-pegas-pembantuyang-bekerja-ketik-784",
+            "question": "Suspensi truk (sering memiliki \"pegas pembantu\"yang bekerja ketika beban truk sangat besar. pegas ayun\u00a0 dengan pegas pembantu berupa pegaskoil dipasang ditengah-tengahnya. Pegas pembantu akan bekerja ketika pegas ayun tertekan sejauh",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "sejauh pembatas yang ada pada mobil truk dan sesuai dengan kemampuan pegas ayun yang akan menekannya",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "coba-jelasin-bagaimana-transformasi-lorentz-itu-soalnya-masih-921",
+            "question": "Coba jelasin bagaimana transformasi lorentz itu? \u00a0soalnya masih kurang ngerti aku. Thx:)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Transformasi Lorenz menyatakan transformasi ruang-waktu yang melandasi \nteori relativitas khusus antara dua pengamat yang bergerak dengan \nkecepatan konstan.<br>Transformasi Lorentz hanya berlaku untuk kerangka acuan yang bergerak \nseragam (tanpa percepatan) terhadap kerangka acuan lain. Pada \nkenyataannya kehadiran percepatan tidak dapat dipungkiri dalam kehidupan\n sehari-hari. Contohnya adalah: jika penumpang keretaapi tadi menarik \nrem darurat tiba-tiba, maka ia akan merasakan percepatan ke arah \nlokomotif, atau keretaapi mengalami perlambatan. Jika hanya bermodalkan \nTRK, maka keraguan terhadap prinsip relativitas akan merasuki kita untuk\n kasus ini. Namun Einstein berusaha mencari pemecahannya dengan motivasi\n bahwa hukum alam tetap sama untuk kerangka acuan jenis apapun.         \n <br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span>\u00a0transformasi Lorentz ditemukan pengabaian fundamental pada arah sebaran cahaya dari objek kepada pengamat yang mengakibatkan tidak terpenuhinya kondisi tertentu dalam konsep koordinat ruang dan waktu.</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dua-pegas-yang-sama-jenis-dan-ukurannya-mula-mula-disusun-secara-648",
+            "question": "Dua pegas yang sama jenis dan ukurannya mula-mula disusun secara paralel dan diberi beban bermassa mp hingga mengalami pertambahan panjang sebesar x. selanjutnya kedua pegas disusun secara seri dan diberi beban bermassa ms. agar pertambahan panjang pegas pada susunan seri ini sama dengan x juga, maka nilai mp : ms adalah..    fisika 1A bagus raharja",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "k paralel = 2k <br>k seri = k/2 = 0,5 k<br>F = k .x <br>karena x nya sama maka diperoleh <br>F1/k1 = F1/k2<br>mp . g / 2k = ms . g / 0,5 k\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 g dan k nya bisa dicoret shg didapat <br>mp/2 = ms/0,5 <br>mp : ms = 2 : 0,5 <br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 = 4 : 1\u00a0 <br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pa-saya-mau-nanya-ada-sebuah-mobil-mainan-dgn-masa-2kg-melaju-dgn-651",
+            "question": "pa saya mau nanya ada sebuah mobil mainan dgn masa 2kg melaju dgn kecepatan 6m2/s berapakah energi mobil kinetik itu???",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1/2 kali 2 kali 12 = 12 joule<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "klo gx salah sih<br>kan rumus nya<br>1/2.m.v= 1/2. 2kg. 6km/s<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a01/2. 2kg. 6km/s<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 =1/2. 12 {12tu dibagi 2 dan dapat 12 dari 6km/s dikali 2kg<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0=6j<br>jadi energi kinetik nya yaitu 6j<br>maaf klu salh",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

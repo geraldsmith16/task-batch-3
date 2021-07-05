@@ -1,0 +1,150 @@
+{
+    "question": "Usaha yg dilakukan seorang pekerja untuk menarik benda 200\u00a0N adalah 1000 J. Brpkah jarak benda trsebut brpindah?",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "dik : F = 200 N , W = 1000 joule , s..?<br><br>jwb = W = F.s\u00a0<br>1000 joule = 200 N .s<br>1000/200 = s<br>5 m = s",
+            "attachments": []
+        },
+        {
+            "answer": "Dik: W = F x s<br>s = W/F<br>jadii Jarak benda tersebut berpindah adalah 1000J/200N = 5 m<br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "penghantar-berarus-listrik-jika-dilewatkan-medan-magnet-secara-te-427",
+            "question": "Penghantar berarus listrik jika dilewatkan medan magnet secara tegak lurus",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Gejala ini pertama kali dikaji oleh Hans \nChristian Oersted. Melalui percobaan, ia berhasil mengungkap hubungan \nantara listrik dan magnet. Ia berhasil membuktikan bahwa penghantar yang\n berarus listrik dapat menghasilkan medan magnetik.\nKumparan kawat berinti besi yang dialiri \nlistrik dapat menarik besi dan baja. Hal ini menunjukkan bahwa kumparan \nkawat berarus listrik dapat menghasilkan medan magnet. Medan magnet juga\n dapat ditimbulkan oleh kawat penghantar lurus yang dialiri listrik. \nBerdasarkan hasil percobaan tersebut terbukti bahwa arus listrik yang \nmengaliri dalam kawat penghantar ini menghasilkan medan magnetik, atau \ndisekitar kawat berarus listrik terdapat medan magnetik.\n<span>Pada saat arus listrik yang mengalir \ndalam penghantar diperbesar, ternyata kutub utara jarum kompas \nmenyimpang lebih jauh. Hal ini berarti semakin besar arus listrik yang \ndigunakan semakin besar medan magnetik yang dihasilkan.</span><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-balok-dengan-ukuran-10-dm-x-5-dm-x-4dm-memiliki-massa-25-685",
+            "question": "Sebuah balok dengan ukuran 10 dm x 5 dm x 4dm memiliki massa 2,5 kg. jika percepetan gravitasi di tempat tersbeut 10 m/s\u00b2, hitunglah:    a. volume balok, b. berat balok, c. berat jenis balok",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a.[tex]v=p.l.t \\\\=10.5.4 \\\\=200 dm^{3} [/tex]<br><br>b.[tex]w=m.g \\\\ =2,5.10 \\\\=25[/tex]",
+                    "attachments": []
+                },
+                {
+                    "answer": "mau dalam satuan apa?<br>a.\u00a0[tex]V = p.l.t = 10 .5.4=200 dm^{3} [/tex]<br>atau\u00a0[tex]0,2  m^{3} [/tex]<br><br>b. berat = w = m.g = 2,5 . 10 = 25 Newton<br><br>c. massa jenis =\u00a0[tex] \\frac{massa}{volume} = \\frac{2,5}{0,2} = 12,5kg/m^{3}[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-benda-mempunyai-massa-3-kg-berada-pada-ketinggian-5-m-295",
+            "question": "Sebuah benda mempunyai massa 3 kg. Berada\u00a0pada\u00a0ketinggian 5 m. Jika percepatan gravitasi 9,8 m/s\u00b2. Berapakah energi potensial tersebut?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Ep = m.g.h\u00a0<br>\u00a0 \u00a0 \u00a0= 3 x 9,8 x 5\u00a0<br>\u00a0 \u00a0 \u00a0=\u00a0147 Joule",
+                    "attachments": []
+                },
+                {
+                    "answer": "[tex]ep=m.g.h \\\\=3.9,8.5 \\\\=3.49 \\\\=147 J[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apakah-energi-ekanik-berkaitan-dengan-hukum-kekekalan-energi-jel-456",
+            "question": "Apakah energi ekanik berkaitan dengan hukum kekekalan energi? jelaskan!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Energi tidak dapat dibuat atau dimusnahkan tetapi dapat berubah ke energi lain<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "mungkin karna hukum kekelan energi bberbunyi<br>: energi tdk dapat di ciptaa atau di musnahkan tapi dapat di ubah dari bentuk yg satu ke bentuk yg lain",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "massa-sebuah-batu-dibumi-10-kg-jika-percepatan-gravitasi-bumi-9-535",
+            "question": "massa sebuah batu dibumi 10 kg. jika percepatan gravitasi bumi 9,8 N/kg dan percepatan gravitasi bulan seperenam percepatan gravi bumi. berapakah berat batu yang hilang ketika dibawa ke bulan? #dengan cara",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Berat benda di bulan adalah 49/3 kalau berat benda yg hilang kurangi aja 98-49/3",
+                    "attachments": []
+                },
+                {
+                    "answer": "berat di bumi = 9,8 x 10.\nberat di bln = 9,8 : 6 x 10\nhasilnya dikurangkan",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bagaimna-hubungan-antara-beda-potensial-dan-kuat-arus-listrik-587",
+            "question": "Bagaimna hubungan antara beda potensial dan kuat arus listrik",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Besarnya arus yang mengalir pada kawat penghantar<br>\ntidak hanya bergantung pada tegangan, tetapi juga pada<br>\nhambatan yang  dimiliki kawat terhadap aliran elektron.<br>\nKuat arus listrik berbanding terbalik  dengan hambatan:<br>\nI  \u221d 1/R<br>\n. Aliran elektron pada kawat penghantar diperlambat<br>\nkarena adanya interaksi dengan atom-atom kawat. Makin<br>\nbesar hambatan ini, makin kecil arus untuk suatu tegangan<br>\nV. Dengan  demikian, arus  I yang mengalir berbanding<br>\nlurus  dengan beda potensial antara ujung-ujung  peng-<br>\nhantar  dan berbanding terbalik  dengan hambatannya.<br>\nPernyataan ini dikenal dengan Hukum Ohm, dan dinyatakan<br>\ndengan persamaan:<br>\n     I = V/R<br>\nDengan R adalah hambatan kawat atau suatu alat lainnya,<br>\nV adalah beda potensial antara kedua ujung penghantar,<br>\ndan I adalah arus yang mengalir. Hubungan ini sering dituliskan<br>\n   V = I . R ........................................\u2026<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apakah-perbedaan-antara-kutub-utara-dan-kutub-selatan-magnet-689",
+            "question": "Apakah perbedaan antara kutub utara dan kutub selatan magnet?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>\n\t1.<span>Ladang Magnet dan Kandungan Mineral<br></span></span><span>\n\t2.<span>Polar Vortex<br>kutub selatan merah dan utara gelap</span></span>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Kutub utara magnet (U): <br>\n- biasanya digambarkan dengan warna lebih gelap <br>\n- arah garis gaya magnet (khayal) digambarkan keluar meninggalkan kutub utara <br>- kutub utara magnet dalam kondisi tergantung bebas akan menunjukkan arah selatan<br><br>\nKutub selatan magnet (S): <br>\n - biasanya digambarkan dengan warna lebih terang <br>\n- arah garis gaya magnet (khayal) digambarkan masuk menuju kutub selatan  <br>- kutub selatan magnet dalam kondisi tergantung bebas akan menunjukkan arah utara<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "berikan-contoh-menyublim2-saja-kecuali-kamper-987",
+            "question": "Berikan contoh menyublim,2 saja kecuali kamper!!!!!!!!!!!!!!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "dry ice mengalami sublimasi di udara,",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bagaimana-cara-menyaring-air-kotor-173",
+            "question": "Bagaimana cara menyaring air kotor",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "bahan2: arang, ijuk, pasir halus, kapas, jerami, kerikil besar, kerikil kecil<br>cara : siapkan botol air minm yang besar, kemudian lubangi yg bsar pda bwahnya, llu beri jerami di atasnya beri kapas sebagai pembatas di atasnya lagi beri pasir di atasnya di beri kapas di atasnya beri ijuk, kmeudian di atasnya beri kapas lagi dan diatasnya beri kerikil besar dan kapas di atanya beri pasir, dan kaps di atasnya beri kerikil besar kapas dan arang.<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "BAHAN DAN PERALATAN<br>2 (dua) drum ijuk<br> pipa PVC dengan diameter \u00be inci<br> kran air<br> pasir<br> kerikil<br> potongan bata \u2013 cat<br> gergaji<br> parang<br> besi<br> bor<br> kuas<br> ember<br> cangkul<br> PEMBUATAN<br> Membuat pipa penyaringan lihat Gambar 1. :<br> Ambil 2 pipa PVC diameter 0,75 inci dengan panjang \n                        35 cm.<br> Pipa PVC dilubangi teratur sepanjang 20 cm.<br> Bagian dari pipa yang dilubangi dibalut dengan ijuk \n                        kemudian ijuk diikat dengan tali plastik<br> Salah satu ujung pipa dibuat ulir.<br>\u00a0\n                        Gambar 1. Pipa Penyaring<br> Pemasangan pipa penyaring (lihat Gambar 2.).<br>\n                    Pipa penyaring dipasang pada drum pengendapan dan penyaringan \n                    dengan jarak 10 cm dari dasar drum.<br> Membuat drum pengendapan (lihat Gambar 2 dan 3)<br> Buat lubang dengan bor besi 10 cm dari dasar pada dinding \n                        drum untuk pipa penyaring.<br> Pasang pipa penyaring yang sudah dibalut pada soket \n                        yang sudah tersedia (lihat keterangan No. 2)<br> Pasang kran<br> Buat lubang pada dasar drum dengan tutup.<br>\u00a0\n                        <br>\n                        Gambar 2. Pemasangan Pipa Penyaring<br> Membuat drum penyaring (lihat Gambar 2 dan 3)<br> Buat lubang untuk pemasangan pipa penyaring dengan \n                        jarak 10 cm dari dasar drum.<br> Isi drum berturut-turut dengan krikil setebal 20 cm, \n                        ijuk 5 cm, arang 10 cm, ijuk 10 cm dan potongan bata 10 \n                        cm.<br> Penyusunan drum endapan dan penyaringan (lihat Gambar 3)<br> Drum pengendapan dan penyaringan disusun bertingkat.<br> Kran-kran ditutup dan air diisikan ke dalam drum pengendapan<br> Setelah 30 menit air dari drum pengendapan dialirkan \n                        ke dalam drum penyaringan.<br> Aliran air yang keluar dari drum penyaringan disesuaikan \n                        dengan masukan dari drum pengendapan.<br>\u00a0\n                        <br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-mobil-balap-memiliki-gaya-10000n-yang-dikerjakan-oleh-mes-658",
+            "question": "sebuah mobil balap memiliki gaya 10.000N yang dikerjakan oleh mesinnya dan total hambatan oleh gesekan angin dan jalan adalah 2.000N. Jika percepatan mobil adalah 2m/s2, hitung massa mobil balap itu (dalam kg)!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "F = m.a<br>(10.000 -2000 N) = m . 2m/s^2<br>8000 N = m . 2m/s^2<br>4000 N = m :)",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

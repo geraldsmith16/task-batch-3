@@ -1,0 +1,124 @@
+{
+    "question": "jika A,B, dan C adl sudut2 pda sebuah segtiga dan nilai dari tan A = 4, tan B = 3, maka nilai dari tan C=.......?",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "[tex]A,\\ B\\ dan\\ C\\ merupakan\\ sudut2\\ dlm\\ segitiga,\\ maka\\\\\nA+B+C=180^{o}\\\\\nA+B=180^{o}-C\\\\\nTan(A+B)=Tan(180^{o}-C)\\\\\n\\frac{Tan A+Tan B}{1-TanATanB}=-TanC\\\\\n\\frac{4+3}{1-4(3)}=-TanC\\\\\n\\frac{7}{-11}=-TanC\\\\\nTanC=\\frac{7}{11}\n[/tex]",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "persaman-m-14x2m0-mempunyai-akar-real-tentukan-m-yang-memen-534",
+            "question": "Persaman (m-1)+4x+2m=0 mempunyai akar real. Tentukan m yang memenuhi",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>(m-1)+4x+2m=0<br></span><br><span>m-1+4x+2m=0<br>3m</span><span>+4x=1<br>3m=1-4x<br>m=(1-4x)/3<br>m=(1/3)-(4x/3)<br>maybe :D<br></span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-a2-a-3-0-maka-nilai-terbesar-yang-mungkin-dari-a3-444",
+            "question": "Jika \u00a0a\u00b2 + a - 3 = 0, maka nilai terbesar yang mungkin dari a\u00b3 + 4a\u00b2 + 9988 adalah ..    dibantu yaahh .. :(",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a\u00b2+a-3 = 0<br>persamaan a\u00b2=3-a<br>persamaan a\u00b3=3a-a\u00b2<br><br>=a\u00b3+4a\u00b2+9988<br>=3a-a\u00b2+4(3-a)+9988<br>=3a-a\u00b2+12-4a+9988<br>=-a-a\u00b2+10000<br>=-a-(3-a)+10000<br>=-a-3+a+10000<br>=-3+10000<br>=9997 <br><br><br>voila dapat hasilnya :D<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jumlah-suku-4-dan-suku-ke-7-barisan-aritmatika-sama-dengan-67-sed-879",
+            "question": "Jumlah suku 4 dan suku ke 7 barisan aritmatika sama dengan 67 sedangkan suku ke 10 adalah 65 tentukan a.suku ke n    \u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 b.suku ke 20",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "U\u2084 + U\u2087 = 67 ---&gt; a + 3b + a + 6b = 67 ---&gt; 2a + 9b = 67 ......pers(1) <br>U\u2081\u2080 = 65 ----&gt; a + 9b = 65 ---&gt; 2a + 18b = 130 ........ pers (2) <br>(1) dan (2) ieliminasi <br>2a + 18b = 130<br>2a +\u00a0 9b = 67 <br>--------------------------- -<br>\u00a0 \u00a0 \u00a0 \u00a0 9b = 63 --------&gt; b = 7 , a = 2 <br>a. Un = a + (n - 1)b<br>\u00a0\u00a0  \u00a0 \u00a0\u00a0  = 2 + (n - 1)7<br>\u00a0\u00a0 \u00a0\u00a0 \u00a0 = 2 + 7n - 7 <br>\u00a0\u00a0 \u00a0\u00a0  \u00a0 = 7n - 5 <br>b. U\u2082\u2080 = 7(20) - 5 <br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 140 - 5 = 135 <br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-akar-akar-persamaan-ax2-5x-12-0-adalah-2-dan-b-maka-4-504",
+            "question": "Jika akar akar persamaan ax\u00b2 + 5x -12 = 0 adalah 2 dan b, maka 4a\u00b2 - 4ab + b\u00b2 = .....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "x=2 &lt;=&gt; ax\u00b2+5x-12=0<br>\u00a0 \u00a0 \u00a0 \u00a0&lt;=&gt; 4a+ 10 - 12=0<br>\u00a0 \u00a0 \u00a0 \u00a0&lt;=&gt; 4a = 2<br>\u00a0 \u00a0 \u00a0 &lt;=&gt; a = 1/2<br>jadi persamannya 1/2 x\u00b2+5x - 12 = 0 semua kalikan 2<br>\u00a0 \u00a0 \u00a0&lt;=&gt; x\u00b2+ 10x - 24 = 0<br>\u00a0 \u00a0 \u00a0&lt;=&gt; ( x - 2) (x + 12) = 0<br>\u00a0 \u00a0 \u00a0&lt;=&gt; x = 2 atau x = - 12 = b<br>jadi 4a\u00b2 - 4ab + b\u00b2 = 1 - 4.. 1/2 . (-12) + 12\u00b2\u00a0<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 1 +24+144 = 169",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "fx-12-x2-2-gx-x10-f-komposisi-g-x-318",
+            "question": "F(x) = 1/2 x^2 + 2 \r\ng(x) = x+10\r\n(f komposisi g) (x) =...... ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "fog = 1/2(x+10)^2 + 2<br>\u00a0\u00a0 \u00a0  = x^2/2 + 10x + 52<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "temukan-grafik-fungsi-kuadrat-fx-4x2-8x3-dari-grafik-fung-281",
+            "question": "Temukan grafik fungsi kuadrat f(x) = 4x^{2}-8x+3 dari grafik fungsi kuadrat g(x) = 4x^{2} (dalam 1 grafik)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "ini gambarnya, silakan dipelajari",
+                    "attachments": [
+                        "answer-attachments/temukan-grafik-fungsi-kuadrat-fx-4x2-8x3-dari-grafik-fung-281-1.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "bagaimana-cara-menampilkan-bilangan-fibonaci-dengan-assembler-193",
+            "question": "Bagaimana cara menampilkan bilangan fibonaci dengan assembler,??",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "barisan bilangan Fibonaccci yang pertama adalah:\n0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, 233, 377, 610, 987, 1597, 2584, 4181, 6765, 10946\u2026\nBarisan bilangan Fibonacci dapat dinyatakan sebagai berikut: Fn = (x1^n \u2013 x2^n)/ sqrt(5) dengan\nFn adalah bilangan Fibonacci ke-nx1 dan x2 adalah penyelesaian persamaan x^2-x-1=0<span>Perbandingan antara Fn+1 dengan Fn hampir selalu sama untuk sebarang \nnilai n dan mulai nilai n tertentu, perbandingan ini nilainya tetap. \nPerbandingan itu disebut Golden Ratio yang nilainya mendekati 1,618.</span><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "selidiki-persamaan-kuadrat-berikut-a-x2-2x10-b2x2-2x0-c3-574",
+            "question": "Selidiki persamaan kuadrat berikut:    a) x\u00b2-2x+1=0\r\nb)2x\u00b2-2x=0\r\nc)3x\u00b2-2x+10=0\r\nd)x\u00b2-10=0\r\nberikan jawabannya dengan cara jalannya\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1). (x-1).(x-1)<br>2). (2x-2).(x-0)<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "untuk-membangun-2-ruang-kelas-butuh-15-orang-pekerja-dalam-waktu-370",
+            "question": "Untuk membangun 2 ruang kelas\u00a0butuh 15 orang pekerja dalam waktu 50 hari, setelah 20 hari\u00a0berjalan terhenti karena suatu sebab selama 5 hari. berapa tambahan pekerja agar tetap selesai dalam waktu 50 hari ?    hayo siapa yang bisa,\u00a0tolong ya teman-teman saya lupa maaf nih..",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "50 hari = 15 pekerja<br><br>setellah bekerja 20 hari,sisa<br>30 hari = 15 pekerja yang selesaikan<br><br>libur 5 hari<br>25 hari = x orang<br><br>jawab:<br>30 / 25 = x / 15<br>30 \u00d7 15 = 25x<br>450 = 25x<br>18 orang = x<br><br>jumlah yang harus ditambah:<br>18 - 15 = 3 orang<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-rumus-untuk-f-1x-jika-diketahui-fx-x-13-6-983",
+            "question": "Tentukan rumus untuk F-1(x), \u00a0jika diketahui F(x) =(X-1)\u00b3-6",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>F(x) =(X-1)\u00b3<span>-6<br>y=</span></span><span>(X-1)\u00b3-6</span><br>y+6=<span>(X-1)\u00b3<br>[tex] \\sqrt[8]{y+6} [/tex]=x-1<br>1+ </span>[tex] \\sqrt[8]{y+6} [/tex]=x<br><br>F invers(x)= 1+ <span>[tex] \\sqrt[8]{x+6} [/tex]</span><br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

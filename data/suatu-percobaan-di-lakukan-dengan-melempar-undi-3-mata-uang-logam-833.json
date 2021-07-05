@@ -1,0 +1,144 @@
+{
+    "question": "Suatu percobaan di lakukan dengan melempar undi 3 mata uang logam secara bersamaan sebanyak 64 kali frekuensi harapan munculnya sisi gambar lebih dari satu adalah.....    a.8 \u00a0 b.24 \u00a0 c.32 \u00a0 d.40 \u00a0 e.48\r\n\r\ntolong yang dengan cara kerjanya kalau bisa dengan rumusnya :)",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "P (A) = n (A) / n (S) = 4/8<br>maka Fh (A) = P (A) X n<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 4/8 X 64<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 32 (c)<br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "nilai-dari-log-16-log-4-log-2-390",
+            "question": "Nilai dari log 16 - log 4 /log 2",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex] \\frac{log16-log 4}{log 2} \\\\   \\frac{log (16/4)}{log2} \\\\   \\frac{log4}{log2}  \\\\   2log2  ^{2}   \\\\ 2[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pada-fungsi-kuadrat-apa-yang-terjadi-jika-a-gt-0-dan-apa-yang-847",
+            "question": "Pada fungsi kuadrat, apa yang terjadi jika a &gt; 0 dan apa yang terjadi jika a &lt; 0 ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Jika nilai a &gt; 0 maka parabola terbuka ke atas dan mempunyai nilai ekstrem minimum<br><br>\nJika nilai a &lt; 0 maka parabola terbuka ke bawah dan mempunyai nilai ekstrem maksimum<br><br><br><br>",
+                    "attachments": [
+                        "answer-attachments/pada-fungsi-kuadrat-apa-yang-terjadi-jika-a-gt-0-dan-apa-yang-847-1.jpg"
+                    ]
+                },
+                {
+                    "answer": "untuk a\u00a0&gt;\u00a00, grafik/kurvanya menghadap ke atas, dan memiliki nilai minimum (puncaknya ada di bawah)<br><br>untuk a\u00a0&lt;\u00a00, grafik/kurvanya menghadap ke bawah, dan memiliki nilai maksimum\u00a0(puncaknya ada di atas)<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "x22x-150-carlah-x1-dan-x2-denan-menggunakan-rumus-abc-505",
+            "question": "X\u00b2+2x-15=0\r\ncarlah x\u2081 dan x\u2082\r\ndenan menggunakan rumus abc",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "kalo itu akar\"nya\u00a0<br>(x-3)(x+5)<br>yg rumus abc itu apa pakek yang ini ??<br>x1,2 = -b +-\u00a0\u221ab\u00b2 - 4ac / 2a",
+                    "attachments": []
+                },
+                {
+                    "answer": "rumus D = b^2 - 4ac<br>(2x)^2-4(1)(-15)=0<br>4x^2-4+60=0<br>4x^2+56=0<br>4x^2 = -56<br>x^2 = \u00a0-14<br>x =\u00a0\u221a14<br>jadi nilai x = positif negarif\u00a0\u221a14",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "hitung-jumlah-bilangan-yg-habis-dibagi-3-tapi-tidak-habis-dibagi-361",
+            "question": "Hitung jumlah bilangan yg habis dibagi 3 tapi tidak habis dibagi 5. Dari 1-75\r\ntolong bantuuu u.u",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "3,6,9,12,18,21,24,27,33,36,39,42,48,51,54,57,63,66,69,72<br>berarti jumlah ada 20 bilangan yang habis dibagi 3 dan tidak habis dibagi 5",
+                    "attachments": []
+                },
+                {
+                    "answer": "3, 6.9.12,18,21,24,27,33,36,39,42,48,51,54,57,63,66,69,72<br><br>jadi ada 20",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-persamaan-bidang-yang-melalui-titik-titik-p-321-557",
+            "question": "Tentukan persamaan bidang yang melalui\u00a0titik- titik\u00a0P ( 3,2,1,); Q ( 4,1,5 ); R ( 2,4,3 )",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "3x + 2y + z = 0\u00a0 \u00a0 <br>4x + y + 5z = 0<br>2x + 4y + 3z = 0<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-nilaim-yang-memenuhi-a-fx-mx2-m1-x-8-b-f-910",
+            "question": "Tentukan nilai\"m\" yang memenuhi :    a. f(x) = mx2 - (m+1) x-8\r\nb. f(x) = mx2 + 12x + 9m\r\njika 1 memotong sumbu x\r\njika 1 menyinggung sumbu x\r\njika 1 tidak memotong/menyinggung sumbu x",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a. <br><span><br>b. </span><br><span><br><br>i&#039;m sorry if the fals answer..<br></span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jumlah-suku-4-dan-suku-ke-7-barisan-aritmatika-sama-dengan-67-sed-879",
+            "question": "Jumlah suku 4 dan suku ke 7 barisan aritmatika sama dengan 67 sedangkan suku ke 10 adalah 65 tentukan a.suku ke n    \u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 b.suku ke 20",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "U\u2084 + U\u2087 = 67 ---&gt; a + 3b + a + 6b = 67 ---&gt; 2a + 9b = 67 ......pers(1) <br>U\u2081\u2080 = 65 ----&gt; a + 9b = 65 ---&gt; 2a + 18b = 130 ........ pers (2) <br>(1) dan (2) ieliminasi <br>2a + 18b = 130<br>2a +\u00a0 9b = 67 <br>--------------------------- -<br>\u00a0 \u00a0 \u00a0 \u00a0 9b = 63 --------&gt; b = 7 , a = 2 <br>a. Un = a + (n - 1)b<br>\u00a0\u00a0  \u00a0 \u00a0\u00a0  = 2 + (n - 1)7<br>\u00a0\u00a0 \u00a0\u00a0 \u00a0 = 2 + 7n - 7 <br>\u00a0\u00a0 \u00a0\u00a0  \u00a0 = 7n - 5 <br>b. U\u2082\u2080 = 7(20) - 5 <br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 140 - 5 = 135 <br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-selidiki-bahwa-detan-det-an-untuk-a-2-1-673",
+            "question": "1. Selidiki bahwa det(A^n) = (det A)^n untuk    A = \u00a0\u00a0 2\u00a0 \u00a0 -1\u00a0 \u00a0 3\r\n\u00a0\u00a0 \u00a0 \u00a0 \u00a0 1\u00a0 \u00a0\u00a0 2\u00a0 \u00a0\u00a0 4\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 dengan n = 3\r\n\r\n\u00a0\u00a0 \u00a0 \u00a0 \u00a0 5\u00a0 \u00a0\u00a0 -3\u00a0 \u00a0 6\u00a0 \u00a0 \u00a0 \r\n2. Tentukanlah z yang memenuhi persamaan berikut !\r\n\u00a0 \u00a0 z \u00a0 \u00a0 \u00a0 5 \u00a0 \u00a0 \u00a0 7\r\n\u00a0 \u00a0 0 \u00a0 \u00a0 z+1 \u00a0 \u00a0 6\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 = 0\r\n\u00a0 \u00a0 0 \u00a0 \u00a0 \u00a0 0 \u00a0 \u00a0 \u00a0 2z-1 \u00a0 \u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "buat nomor 2. <br>pokoknya tambah 2 baris ke kanan, jadinya persamaan<br>z(z+1)(2z-1)+0+0-(0+0)=0<br>z(z+1)(2z-1)=0<br>maka:<br>z1= 0<br>z2=-1<br>z3=1/2<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Jawaban\u00a0dari\u00a0soal\u00a0diatas:<br>1.57<br>2.28",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-jumlah-n-suku-pertama-suatu-deret-aritmatika-dirumuskan-492",
+            "question": "Diketahui jumlah n suku pertama suatu deret aritmatika dirumuskan Sn=4n\u00b2-3n. Tentukan suku ke-2n deret aritmatika tersebut!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>Dik : Sn=4n\u00b2-3n<br>Dit : U2 =.. ?<br>Jawab :</span><br><span><span>a = U1 = S1 = 4(1)\u00b2-3(1)</span> = 4 - 3 = 1</span><br><span>S2 = 4(2)\u00b2-3(2) = 16 - 6 = 10<br><br>S2 = U1 + U2<br>10 = 1 + U2<br>U2 = 10 - 1<br>U2 = 9<br></span><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "umur-abc-235-jumlah-umur-b-dan-c-adalah-24-tahun-maka-umur-497",
+            "question": "Umur a:b:c = 2:3:5 jumlah umur b dan c adalah 24 tahun maka umur a adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "umur b ditambah c = 24<br>\u00a0pebandingan umur b ditambah c = 8<br><br>2/8 dikali 24 = 6<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Dik: a:b:c = 2:3:5<br>b+c =\u00a024<br>Dit: a?<br>Jawab:<br><br>b:c = 3:5<br>b+c = 24<br>b =\u00a0[tex] \\frac{3}{8} [/tex]\u00d724 = 9 tahun<br>c =\u00a0[tex] \\frac{5}{8} [/tex]\u00d724 = 15 tahun<br><br>a:b:c = 2:3:5 = a:9:15<br>a = 6 tahun<br><br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

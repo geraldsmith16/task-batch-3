@@ -1,0 +1,134 @@
+{
+    "question": "P = {1,3,5,7,9}. Tuliskan semua himpunan bagian yang mungkin dari P dan hitung banyaknya!",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "\u00a0P={11 13 15 17 19 21 23 25 27 29 31 33 35 37 39 41}<br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "1dari-42-siswa-12-siswa-menyukai-atletik-20-menyukai-senam-da-331",
+            "question": "1.dari 42 siswa ,12 siswa menyukai atletik ,20 menyukai senam ,dan 8 menyukai keduanya . banyak siswa yang\u00a0tidak menyukai atletik dan senam adalah ........    2. terdapat 30 pengendara speda motor yang trkena tilang . pengendara yang yidak membawa sim ada 15 orang , 17 tidak membawa stnk dan 5 pengendara melakukan pelanggaran lain. banyaknya pengendara yang terkena tilang, tidak membawa sim , dan stnk adalah ......\r\n\r\ntolong bantu pakai caranya jga ea.......",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1.42-12-20-8= 2 orang<br><br>2. tdk jelas",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-harga-sepasang-sepatu-dua-kali-harga-sandal-seorang-pe-782",
+            "question": "diketahui harga sepasang sepatu dua kali harga sandal. seorang pedagang membeli 4 pasang sepatu dan 3 pasang sandal.pedagang tersebut harus membayar Rp.275.000,00. A.buat model matematika? B.tentukan harga 3 pasang sepatu dan 5 pasang sandal! tolong di bantu....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "A. Harga sepatu = x<br>\u00a0\u00a0 \u00a0  harga sandal = y<br>x=2y<br>4x+3y=275000<br>B. 3x+5y= 3.2y+5y<br>\u00a0\u00a0 \u00a0 \u00a0 =11y<br>=11.53000=\u00a0 hitung sendiri<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-segitiga-sama-kaki-memiliki-panjang-sisi-yang-sama-dengan-835",
+            "question": "Sebuah segitiga sama kaki memiliki panjang sisi yang sama dengan 5 kali panjang sisi lainnya. Agar keliling segitiga tersebut lebih besar dari 50 m, berapakah panjang masing-masing sisi segitiga tersebut?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "5x+x+x&gt;50<br>7x&gt;50<br>x&gt;50/7 sisi(1) dan (2)<br>x&gt;250/7 sisi alas (3)<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "misalnya-sebuah-lingkaran-mimpunyai-sudut-aob-120-derajat-sudut-729",
+            "question": "misalnya sebuah lingkaran mimpunyai sudut AOB 120 derajat, sudut BOC 150 derajat, dan sudut COA 90 derajat.pertanyaannya berapa luas juring BOC?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "ga diketahui jari\"nya gitu gan ? kyny ga bs dijawab deh<br>soalnya perbandingannya sudut / 360\u00b0 = luas juring / luas lingkaran atau<br>sudut x / sudut y = luas juring x / luas juring y",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "help-berapakah-x-280",
+            "question": "[HELP]\u00a0 berapakah x?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "2^{x-5} = 4^{x+3}<br>2^{x-5} = 2^{2(x+3)}<br>x-5 = 2(x+3)<br>x-5 = 2x+6<br>x-2x = 6+5<br>-x = 11<br>x = -11",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-nilai-ab-dan-c-jika-a-b24-ab52-dan-c17-ab-781",
+            "question": "Tentukan nilai a,b, dan c jika a-b=24; a:b=5:2; dan c=1/7 (a+b)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]a-b=24 \\\\  \\frac{a}{b}= \\frac{5}{2}   \\\\ 5-2=3 \\\\ a= \\frac{5}{3}.24=40 \\\\ b= \\frac{2}{3}.24=16 \\\\ c= \\frac{1}{7}.(a+b) \\\\ c=   \\frac{1}{7}.(40+16)=8[/tex]",
+                    "attachments": []
+                },
+                {
+                    "answer": "a-b = 24<br>a:b = 5:2<br>maka :<br>5x - 2x = 24<br>3x = 24<br>x = 8<br><br>maka a= 5x=5.8 = 40<br>dan b = 2x=2.8 = 16<br><br>c= 1/7 .(a+b) = 1/7 . (40+16) = 1/7 . 56 = 8 :)<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "4x23-2x126x34-jawab-310",
+            "question": "4x+2/3-2x+1/2=6x+3/4 \r\njawab;",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "4x + 2/3 - 2x + 1/2 = 6x + 3/4<br>4x - 2x - 6x\u00a0 = 3/4 - 2/3 - 1/2<br>-4x\u00a0 = -5/12<br>x = -5/12/4<br>x = -5/12 x 1/4<br>x = -5/48<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "648",
+            "question": "",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]3a^{4} + (6a^{2})^{2} - (3a^{4}) [/tex]maka<br>[tex] 3a^{4} [/tex][tex]+ 36a^{4} [/tex]-[tex] 3a^{4} [/tex]=<br><strong>[tex] 39a^{4} [/tex]<br></strong><br>:)",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "seorang-pedagang-mainan-anak-anak-menjual-25-buah-boneka-dengan-h-266",
+            "question": "seorang pedagang mainan anak anak menjual 25 buah boneka dengan hasil penjualan Rp312.500,00.ternyata pedagang memperoleh untung Rp55.000,00.maka pembelian tiap boneka adalah...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "B = Jual - Untung <br>= 312.500 - 55.000<br>= 257.500 (harga beli seluruh boneka)<br><br>1 boneka: 257.500 : 25 = 10.300<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "RP.312.500,00-RP.55.000,00 : 25 = RP.10.300,000",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "56-siswa-dalam-sebuah-desa-43-anak-suka-nasi-goreng-37-anak-suka-646",
+            "question": "56 siswa dalam sebuah desa    43 anak suka nasi goreng\r\n37 anak suka mie goreng\r\n22 anak tidak suka keduanya\r\npertanyaan :\r\n1.berapa anak yang suka keduanya ???",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "56 = (43 - x) + (37 - x) + x + 22<br>56 = 102 + x<br>x = 46<br><br>jadi yang gemar keduanya adalah 46 anak...<br>semoga berguna:)",
+                    "attachments": []
+                },
+                {
+                    "answer": "[tex]S+I=L \\\\ 56+1=43+37+22 \\\\ 56+I=102 \\\\ I=102-56 \\\\I=46[/tex]<br><br>Keterangan:<br>S=seluruh\u00a0<br>I=Suka keduanya<br>L=Lain2nya",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

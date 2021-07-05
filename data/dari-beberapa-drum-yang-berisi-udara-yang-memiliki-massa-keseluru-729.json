@@ -1,0 +1,136 @@
+{
+    "question": "dari beberapa drum yang berisi udara yang memiliki massa keseluruhan 30 kg dan volum rata-rata 2,5 m\u00b3, digunakan untuk membuat jembatan ponton yang terapung di atas permukaan air. Berapa berat beban maksimum yang dapat ditahan oleh drum tersebut?",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "kalau berat maksimum berarti w=F(archimedes) <br>w=Fa\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 w= \u03c1(rho air) . V(benda dalam fluida) . g <br>w=1000 . 2.5 .10 = 25000N <br>semoga membantu , kalau ada yg tidak paham tanya aja<br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "bagaimana-cara-menguraikan-gaya-pada-bidang-miring-511",
+            "question": "Bagaimana cara menguraikan gaya pada bidang miring ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kalau kita menguraikan gaya pada bidang miring, ada gaya normal yang tegak lurus dengan bidang. dan gaya berat yang selalu menuju pusat grafitasi. Kalau kita uraikan lebih detail kembali terdapat gaya Nx (gaya normal pada bidang x) dan gaya Ny( gaya bidang y), sedangkan pada W terdapat gaya Wx (gaya berat terhadap bidang x) dan gaya Wy(gaya berat terhadap bidang Y)",
+                    "attachments": []
+                },
+                {
+                    "answer": "dengan mengurangi ketinggian bidang miring dan menambah kepanjangan bidang nmiringnya",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apakah-semua-jenis-gaya-menyebabkan-pertambahan-panjang-pegas-177",
+            "question": "Apakah semua jenis gaya menyebabkan pertambahan panjang pegas ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "belum tentu, liat massa jga kk...<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "semua gaya mempengaruhi pegas<br>tetapi gaya tarik menyebabkan pertambahan panjang,sedangkan gaya dorong atau tekan menyebabkan pemendekann pada pegas :)",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bola-05-kg-dijatuhkan-diatas-pegas-dari-ketinggian-2-m-ketika-t-576",
+            "question": "bola 0,5 kg dijatuhkan diatas pegas dari ketinggian 2 m. ketika tertimpa bola, pegas tersebut mampat sejauh 20cm. tentukan konstanta pegas tsb.. (g=10m/s^2)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "mgh=1/2 k \u0394x\u00b2<br>k=\u00a0[tex] \\frac{2mgh}{\u0394x\u00b2} [/tex]<br>tinggal masukin angkanya ntr dapet k=500 N/m.<br>jangan lupa 20 cm nya rubah dulu ke m",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-gaya-yang-bergantung-pada-waktu-498",
+            "question": "Sebuah gaya yang bergantung pada waktu",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "gaya potensial, gaya kinetik, gaya apung, setau saya itu",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "seutas-kawat-sepanjang-10-m-dengan-luas-penampangnya-01-cm2-dib-512",
+            "question": "seutas kawat sepanjang 10 m dengan luas penampangnya 0,1 cm\u00b2 diberi beban 100 kg sehingga panjangnya bertambah 13mm. modulus elastisitasnya adalah....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "modulus elastis = tegangan : regangan<br>= 100000000 : 0,00013<br>769230770000 n/m^2",
+                    "attachments": []
+                },
+                {
+                    "answer": "Elastisitas dan gerak harmonis<br>Dik l0 = 10 m<br>\u00a0 \u00a0 \u00a0\u00a0A\u00a0= 0,1 cm^2 = 0,0001 m^2<br>\u00a0 \u00a0 \u00a0 m = 100 kg\u00a0<br>\u00a0 \u00a0 \u00a0\u0394l = 13 mm = 0,013 m<br>Dit\u00a0\u2208 ?<br>jawab.<br><br>F = m.g<br>\u00a0 \u00a0= 100 . 10<br>\u00a0 \u00a0= 1000 N<br><br>E = F.l0\u00a0/ A.\u00a0\u0394l<br>\u00a0 \u00a0= 1000. 10 / 0,0001 . 0,013<br>\u00a0 \u00a0= 10.000 / 13x10^-7\u00a0<br>\u00a0 \u00a0= 13x10^11 Pa\u00a0\u00a0<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-mesin-dibuat-sedemikian-rupa-sehingga-mampu-menghasilkan-g-420",
+            "question": "sebuah mesin dibuat sedemikian rupa sehingga mampu menghasilkan gaya 15000\u00a0N mesin ini di gunakan pada sebuah mobil balap tersebut agar didapatkan akselerasi yg di harapkan bagaimana dengan massa penummpang?perlukah untuk di perhitungkan?jelaskan !",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "menurut saya perlu<br>ingat F = m.a<br>yang mempengaruhi gaya adalah massa dan percepatan(akselerasi)<br>tatkala hasil yg di inginkan adalah akselerasi<br>maka a= F/m<br>tentu saja massa tetap mempengaruhi akselerasi yang tejadi :)",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "seorang-penari-balet-dengan-tangan-terentang-berputar-pada-kecepa-806",
+            "question": "seorang penari balet dengan tangan terentang berputar pada kecepatan sudut diatas lantai mendatar yang licin. jika penari tersebut melipat tangannya, momen inersiannya akan berkurang sebesar 20% dari semula. perbandingan energi kinetik rotasi saat tangan dilipat dengan saat tangan terentang adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kategori: Fisika Bab Energi <br>Kelas: XI SMA IPA <br><br><br><br><br>Perhitungan dapat dilihat pada lampiran",
+                    "attachments": [
+                        "answer-attachments/seorang-penari-balet-dengan-tangan-terentang-berputar-pada-kecepa-806-1.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-balok-terapung-diatas-permukaan-air-volume-balok-yg-muncu-254",
+            "question": "sebuah balok terapung diatas permukaan air. volume balok yg muncul diatas permukaan air 100 cm\u00b3 dan massa jenis balok 0,75g/cm\u00b3 jika p air 1 g/cm\u00b3 hitunglah massa balok seluruhnya...???",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Dik vb=vc\u00a0 = 100 cm^3<br>\u00a0 \u00a0 \u00a0 Rho balok = 0,75 g/cm^3<br>\u00a0 \u00a0 \u00a0 rho cair = 1 g/cm^3<br>dit m balok seluruhnya ?<br>jawab.<br><br>Fa = rho cair.volume cair . g<br>\u00a0 \u00a0 \u00a0= 1 . 100. 10<br>\u00a0 \u00a0 \u00a0= 1000 N<br><br>Fa = wb = mb . g \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 mb2 = rho benda . v<br>\u00a01000 \u00a0= mb . 10 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 0,75 . 100<br>mb1 = 1000 / 10 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 75 gr<br>\u00a0 \u00a0 \u00a0= 100 gr<br>\u00a0<br>m total = 100 + 75 = 175 gr",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "berikan-5-soal-dan-pembahasannya-tentang-optik-259",
+            "question": "Berikan 5 soal dan pembahasannya tentang optik",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1. dimanakan letak mata akan berakomodasi maksimum pada lensa cembung<br>2. berapakah perbesaran dari lensa cembung jika diketahui r = 20\u00a0cm dan jarak benda ke cermin adalah 15 cm<br>3. dimanakah letak mata akan tidak berakomodasi ?<br>4. pada cermin cekung,\u00a0diketahui si adalah 30 cm dengan so adalah 15 cm, jika benda digeser 3 cm lebih jauh\u00a0dari semula, berapakah jarak bayangan sekarang ?<br>5. \u00a0titik jauh seorang penderita miopi adalah 25 cm. agar dapat melihat dengan normal dibutuhkan kacamata berlensa .... dengan .... dioptri<br><br>jawab<br>1. di antara f dengan lensa<br>2. 2 kali<br>3. tepat di f<br>4. 60 cm<br>5. cekung, -4 dioptri",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-mobil-bermassa-500-kg-bergerak-di-jalan-lurus-dengan-kelaj-911",
+            "question": "Sebuah mobil bermassa 500 kg bergerak di jalan lurus dengan kelajuan 72 km/jam. Karena mendekati traffic light yang menyala merah, mobil direm dengan gaya sebesar 10.000 N hingga berhenti. Hitunglah :    a. usaha yang dilakaukan oleh gaya pengereman\r\nb. perpindahan truk dari saat pengereman sampai berhenti.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "72 km/h = 20 m/s<br>W = f.s<br>W = E.K<br>W = 1/2 m.v\u00b2<br>1/2\u00b7500\u00b720\u00b2 = 10.000s<br>100.000 = 10.000s<br>s = 100.000/10.000<br><strong>s = 10 m</strong><br>usaha yang dilakukan gaya pengereman = 100.000 joule",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

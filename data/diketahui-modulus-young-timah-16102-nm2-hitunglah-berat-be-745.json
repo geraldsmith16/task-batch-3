@@ -1,0 +1,134 @@
+{
+    "question": "diketahui modulus young timah 1,6\u00d710\u00b2 N/m\u00b2. hitunglah berat beban maksimum yang boleh digantungkan pada seutas kawat timah yang berdiameter\u00a0\u00a0mm jika regangan yang terjadi tidak boleh lebih dari 0,0001",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "akan lebih dari kapasitas berarti\u00a0<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "tentukan-kelajuan-sebuah-elektron-yang-memiliki-massa-tiga-kali-m-371",
+            "question": "Tentukan kelajuan sebuah elektron yang memiliki massa tiga kali massa diamnya!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "M=3M\u2080<br><br>M=M\u2080/[tex] \\sqrt{1 - V^2/C^2} [/tex]<br>3M\u2080=M\u2080/[tex] \\sqrt{1 - V^2/C^2} [/tex]<br>[tex] \\sqrt{1 - V^2/C^2} [/tex]=1/3<br>1 - V\u00b2/C\u00b2\u00a0= 1/9<br>9/9\u00a0- 1/9 = V\u00b2/C\u00b2<br>8/9C\u00b2 = V\u00b2<br>V = 2[tex] \\sqrt{2} [/tex]/3C",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-jari-jari-girasi-cakram-pejal-yang-memiliki-jari-jari-r-852",
+            "question": "Tentukan jari-jari girasi cakram pejal yang memiliki jari-jari R bila sumbu berada pada tepi cakram!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "girasi itu apa?<br>dan R itu nama atau jari jari(r)",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "perhatikan-gambar-dibawah-ini-berikan-penjelasanya-juga-yaaa-ji-601",
+            "question": "Perhatikan gambar dibawah ini    Berikan penjelasanya juga yaaa..\r\n\r\nJika diketahui\u00a0\r\nI = 1,6 A\r\nI1 = 0,3 A\r\nI1 = I2 \u00a0dan\u00a0I3 =I4\r\nmaka\u00a0I4??\r\n\r\na. 0,3 A\r\nb. 0,5 A\r\nc. 1,3A\r\nd. 7A",
+            "attachments": [
+                "question-attachments/perhatikan-gambar-dibawah-ini-berikan-penjelasanya-juga-yaaa-ji-601-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "sesuai hukum kirchof, jumlah arus yang masuk sama dengan jumlah arus yang kluar,\u00a0<br>maka : I = I1 +I2 + I3 + I4<br>karena I1=I2 , sehingga\u00a0jika I1=0,3, maka I2=0,3<br>juga I3 = I4 \u00a0 \u00a0 (substitusi semua ke pers awal)<br>I = I1 +I2 + I3 + I4<br>1,6= o,3 +0,3+ I3 + I3<br>1,6 = 0,6 +2(I3)<br>2(I3) = 1<br>I3 = 0,5<br>karena I3 = I4, maka I4 = 0,5<br>jawaban b)",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "seorang-penyelam-mampu-berada-pada-kedalaman-40-m-di-bawah-permuk-504",
+            "question": "Seorang penyelam mampu berada pada kedalaman 40 m di bawah permukaan laut. Jikamassa jenis air laut 1,2 g/cm3 dan percepatan gravitasi 10 m/s\u00b2, maka hitunglah besar tekanan hidrostatis yang dialami penyelam!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "rho= 1,2 g/cm\u00b3=1,2\u00d7(10^-3/10^-6)=1,2\u00d710^3=1200<br>Ph=rho\u00d7g\u00d7h=1200\u00d710\u00d740=480000 N/m\u00b2",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apakah-yang-dimaksud-dengan-proyektor-219",
+            "question": "Apakah yang dimaksud dengan proyektor",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>Proyektor LCD adalah suatu jenis proyektor video untuk menampilkan video, gambar atau data komputer di layar atau permukaan datar lainnya. Ini adalah analog modern dari proyektor slide atau proyektor overhead. Untuk menampilkan gambar, LCD (liquid crystal display) Proyektor biasanya mengirim cahaya dari lampu halida logam melalui prisma yang memisahkan cahaya untuk tiga panel silikon poli - masing-masing untuk komponen merah, hijau, dan biru dari sinyal video. Sebagai cahaya terpolarisasi melewati panel (kombinasi polarizer, panel LCD dan analyzer), piksel individu dapat dibuka untuk memungkinkan cahaya untuk lulus atau tertutup untuk memblokir cahaya. Kombinasi piksel terbuka dan tertutup dapat menghasilkan berbagai macam warna dan nuansa pada gambar yang diproyeksikan.</span>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Menurut Saya, : Proyektor merupakan alat optik yg digunakan untuk menampilkan media dalam sebuah layar permukaan yg serupa<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-silinder-tipis-massanya-4-kg-dan-diameternya-20-cm-didoro-509",
+            "question": "sebuah silinder tipis massanya 4 kg dan diameternya 20 cm, didorong dengan sebuah gaya F yang melalui sumbu rotasinya sehingga dapat menggelinding tanpa slip. tentukan besarnya gaya dorong F dan gaya gesek Fb yang memengaruhi benda",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kategori: Fisika Bab Gaya\u00a0<br><span>Kelas: XI SMA IPA\u00a0</span><br><br><br><span>Perhitungan dapat dilihat pada lampiran</span>",
+                    "attachments": [
+                        "answer-attachments/sebuah-silinder-tipis-massanya-4-kg-dan-diameternya-20-cm-didoro-509-1.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-perangkat-hidrolik-memiliki-perbandingan-diameter-kecil-d-361",
+            "question": "sebuah perangkat hidrolik memiliki perbandingan\u00a0diameter kecil dan besar 2:100. tentukanlahgaya yang dihasilkan pada penghisap besar jika beban yang di letakkan pada penghisap kecil 2N?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "F2 =\u00a0[tex] (\\frac{d2}{d1} )^2 . F1[/tex]<br>F2 = 10000/4 . 2<br>\u00a0 \u00a0 \u00a0= 5000 N",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "kenapa-energi-potensial-pada-listrik-statis-skalar-ttapi-medan-da-869",
+            "question": "Kenapa energi potensial pada listrik statis skalar ttapi medan dan gaya listrik vektor?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "karena energi memiliki nilai saja\u00a0tidak memiliki arah maka merupakan\u00a0vektor<br>medan dan gaya listrik memiliki nilai dan\u00a0arah yaitu muatan + ke - sehinnga merupakan besaran skalar",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "seorang-anak-melemparkan-sebuah-buku-fisika-kepada-temannya-yang-255",
+            "question": "seorang anak melemparkan sebuah buku fisika kepada temannya yang berada di lantai 2 setinggi 4 m dari tanah . buku tersebut ditangkap oleh temannya setelah 1,5 s. berapakah kecepatan awal buku tersebu?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "kecepatan awal =\u00a02,666666667 m/s",
+                    "attachments": []
+                },
+                {
+                    "answer": "h=vot-1/2gt^2<br>4=vo.1,5-1/2.10.1,5^2<br>4=1,5vo-11,25<br>15,25=1,5vo<br>vo=10,1 m/s<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "gelombang-elektromagnetik-yang-memiliki-energi-foton-paling-besa-917",
+            "question": "Gelombang elektromagnetik\u00a0yang memiliki energi foton paling besar adalah....    A. Sinar - X\r\nB. Cahaya Merah\r\nC. Cahaya Ungu\r\nD. Gelombang Radio\r\nE. Sinar Gamma",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "c sinar ungu<br>karena memiliki f terbesar dan panjang gelombang terpendek",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

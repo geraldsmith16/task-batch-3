@@ -1,0 +1,134 @@
+{
+    "question": "Sebuah mobil bermassa 500 kg bergerak di jalan lurus dengan kelajuan 72 km/jam. Karena mendekati traffic light yang menyala merah, mobil direm dengan gaya sebesar 10.000 N hingga berhenti. Hitunglah :    a. usaha yang dilakaukan oleh gaya pengereman\r\nb. perpindahan truk dari saat pengereman sampai berhenti.",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "72 km/h = 20 m/s<br>W = f.s<br>W = E.K<br>W = 1/2 m.v\u00b2<br>1/2\u00b7500\u00b720\u00b2 = 10.000s<br>100.000 = 10.000s<br>s = 100.000/10.000<br><strong>s = 10 m</strong><br>usaha yang dilakukan gaya pengereman = 100.000 joule",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "faktor-yang-mempengaruhi-elastisitas-sebuah-benda-479",
+            "question": "Faktor yang mempengaruhi elastisitas sebuah benda",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "sifat fisik yang utama adalah karena dipengaruhi oleh struktur penyusunnya<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "contih-soal-hukum-hooke-570",
+            "question": "Contih soal hukum hooke?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Ketika seseorang yang bermasaa 60kg bergelantungan pada ujung sebuah pegas, pegas bertambah panjang 15 cm. tentukan terapan gaya pegas.",
+                    "attachments": []
+                },
+                {
+                    "answer": "sebuah pegas digantung pd statif, panjang mula mula adlh 40 cm, kemudian pd ujungnya digantungi beban seberat 1 kg ternyata panjang pegas menjadi 45 cm. tentukan besar konstanta pegas tersebut jika \u00a0g = 10 m/s\u00b2",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-elektron-yg-mula-mula-diam-dipercepat-oleh-beda-potensia-806",
+            "question": "sebuah elektron yg mula mula diam dipercepat\u00a0 oleh beda potensial sebesar V sehingga panjang gelombang de Broglie adalah lamda. jika elektron yg mula mula diam tersebut dipercepat dengan beda potensial 4V, maka panjang gelombang de Broglie elektron menjadi . . .",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "panjang gelombang de broglie elektron 4v2<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-kumparan-ketika-dihubungkan-dengan-sumber-arus-searah-150v-824",
+            "question": "Sebuah kumparan ketika dihubungkan dengan sumber arus searah 150v mengalir arus 5 A. sedangkan ketika dihubungkan dengan sumber arus bolak balik juga 150v, mengalir arus 3 A. Reaktansi kumparan sebesar... Ohm    mohon bantuannya?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "R1 = V/l = 150 / 5 = 30<br>R2 = V/l = 150 / 3 = 50<br>R total = R1 + R2 = 30 + 50 = 80<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span>R total = R1 + R2 = 30 + 50 = 80</span><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apa-yang-dimaksud-efek-compton-831",
+            "question": "Apa yang dimaksud efek compton",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>suatu efek yang merupakan bagian interaksi sebuah penyinaran terhadap suatu materi.</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dua-buah-piringan-memiliki-inersia-i-dan-2i-dipasang-pada-sat-452",
+            "question": "Dua buah piringan memiliki inersia (I) dan (2I) dipasang pada satu poros yang licin dan dapat berputar bersama sebagai satu system. Piringan pertama awalnya di putar dengan kecepatan sudut ( \u03c9 ) dan yg kedua dengan kecepatan sudut (2\u03c9) ( keduanya berputar dalam arah yg sama ) dan kemudian keduanya di satukan dan terus berputar dengan kecepatan sudut \u2126. \u2126 sama dengan\u2026??",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "kecepatan sudut total =\u00a0\u221a\u03c9^2 + 2\u03c9^2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0=\u221a 5\u03c9^2",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-bantuin-dong-sebuah-beban-20n-digantungkan-pada-kawat-ya-716",
+            "question": "Tolong bantuin dong..    sebuah beban 20N digantungkan pada kawat yang panjangnya 3,0 m dan luas penampangnya 8\u00a0x 10\u207b\u2077 m\u00b2 hingga menghasilkan pertambahan panjang 0,1 mm. hitunglah:\r\na. tegangan\r\nb. regangan\r\nc. modulus elastis kawat",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "tegangan:44<br>regangan:66<br>modulus 99<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<strong>tegangannya\u00a044</strong><br><strong>regangannya\u00a066</strong><br><span><strong>modulusnya\u00a0 99</strong></span><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-mobil-a-bergerak-dengan-kelajuan-40-kmjam-5-menit-kemudian-m-571",
+            "question": "1. mobil A bergerak    dengan kelajuan 40 km/jam, 5 menit kemudian mobil B bergerak dengan 90 km/jam. Kapan\r\n dan dimana mobil B bisa menyusul A?\r\n\r\n\r\n\r\n2. mobil A dengan\r\n kecepatan 70 km/jam ke barat, mobil B dengan kecepatan 50 km/jam ke timur,\r\n jarak mula mula 10 km. kapan dan dimana mobil A dan B bisa bertemu?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "kita konversi dulu kecepatannya<br>mobil A = 11,1 m/s<br>mobil B = 25 m/s<br>jaraknya 300 s<br>jarak tempuh 1 = jarak tempuh 2<br>11,1 x\u00a0(t+300) = 25 x t<br>11,1t + 3330 = 25t<br>13,9t = 3330<br>t = 239,56835 s<br><br>tempat ketemu\u00a0<br>=25 x 239,56835<br>=5989,2088 meter dari kedudukan awal",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-komedi-putar-berdiameter-3-m-dengan-momen-inersia-100-kgm2-480",
+            "question": "sebuah komedi putar berdiameter 3 m dengan momen inersia 100 kgm2 berotasi dengan kelajuan 1 rps. empat orang anak masing-masing bermassa 30 kg tiba-tiba melompat dan duduk 1 m dari pusat komedi putar. tentukan kecepatan sudut komedi putar sekarang!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<u><em></em></u>[tex] \\left \\{ {{y=2} \\atop {x=2}} \\right. [/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apa-gunanya-kaca-spion-cembung-dan-datar-321",
+            "question": "Apa gunanya kaca spion cembung dan datar",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "kalau kaca spion itu pasti cembung. ga ada lah kalu kaca spion datar. tjuan kaca spion dibuat cermin cembung agar pengendara dapat lebih luas melihat kendaraan di belakang nya. sesuai dengan salah satu prinsip sifat kca cembung yaitu <strong>\"bayangan diperkecil\"</strong><br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,140 @@
+{
+    "question": "Selidiki persamaan kuadrat berikut:    a) x\u00b2-2x+1=0\r\nb)2x\u00b2-2x=0\r\nc)3x\u00b2-2x+10=0\r\nd)x\u00b2-10=0\r\nberikan jawabannya dengan cara jalannya\u00a0",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "1). (x-1).(x-1)<br>2). (2x-2).(x-0)<br><br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "diketahui-suatu-fungsi-kuadrat-yx24-carilah-diskriminannya-643",
+            "question": "Diketahui suatu fungsi kuadrat y=x\u00b2+4 . carilah diskriminannya!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "D = b^2 - 4ac<br>= 0^2 - (4)(1)(4)<br>= 0 - 16<br>= -16<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Diskriminan =<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 =<span>b2 - 4ac<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 0 - (4 x1 x 4)<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 0 - 16<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = -16 + 0<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = -16<br></span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pak-daniel-seorang-karyawan-perusahaan-ia-membeli-sebuah-mobil-513",
+            "question": "pak\u00a0daniel seorang karyawan perusahaan. ia membeli sebuah mobil bekas seharga Rp90.000.000,00.\u00a0dan dikenakan pajak\u00a0penjualan\u00a0sebesar 5%.berapa rupiah uang yang harus dibayar pak daniel untuk pembelian mobilnya?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Rp4500000, karena 90000000 x 5/100",
+                    "attachments": []
+                },
+                {
+                    "answer": "90000000x5/100 = 4500000<br>90000000+4500000=94500000<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-f-r-r-dengan-fx-invers-fungsi-fx-adalah-163",
+            "question": "diketahui f : R\u00a0\u21d2 R dengan f(x) =\u00a0 invers fungsi f(x) adalah  =",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]f(x)=\\frac{x+1}{2x-4}\\\\ (2x-4)(f(x))=x+1\\\\ 2xf(x)-4f(x)=x+1\\\\ 2xf(x)-x=4f(x)+1\\\\ x(2f(x)-1)=4f(x)+1\\\\ x=\\frac{4f(x)+1}{2f(x)-1}\\\\ nyatakan\\ sebagai\\ f^{-1}(x)\\\\ f^{-1}(x)=\\frac{4x+1}{2x-1};syarat:x \\neq \\frac{1}{2}[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "berapa-radian-putaran-sebuah-jarum-panjang-suatu-jam-apabila-berp-617",
+            "question": "Berapa radian putaran sebuah jarum panjang suatu jam apabila berputar selama 54 menit???",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "radian putaran sebuah jarum jam apabila berputar selama 54 menit adalah -22596",
+                    "attachments": []
+                },
+                {
+                    "answer": "radian sama kayak derajat dlm 5 mnt bukan?",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "nilai-x-yang-memenuhi-x-20-lt-0-adalah-pliss-bantu-313",
+            "question": "Nilai x yang memenuhi : \u00a0+ x - 20 &lt; 0 adalah ?\r\npliss bantu......",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "silakan dipelajari dan dipahami",
+                    "attachments": [
+                        "answer-attachments/nilai-x-yang-memenuhi-x-20-lt-0-adalah-pliss-bantu-313-1.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "persamaan-m-1-x2-4x-2m-0-mempunyai-akar-akar-real-te-829",
+            "question": "Persamaan (m - 1)\u00a0x\u00b2 + 4x + 2m = 0 mempunyai akar-akar real. Tentukan nilai m yg memenuhi!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "JAWAB.<br>akar akarnya<br>x= -2 m= 2<br>x= 0 m=0<br>x=1 m= -1<br>x=4 m=0<br><br>nilai m = 1 dan x = -1/2<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "D&gt;0<br>x\u00b2+4x+2m&gt;0<br>b\u00b2-4ac<br>(4)\u00b2-4.1.2m&gt;0<br>16-8m&gt;0<br>-8&gt;-16<br>m&lt;2<br>jadi m nya : 1<br>mungkin begitu, semoga benar :D",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1suku-ke-2-dan-suku-ke-5-dari-barisan-geometri-adalah-12dan-49-617",
+            "question": "1.suku ke-2 dan suku ke-5 dari barisan geometri adalah 12dan 4/9 tentukan rumus suku ke -n besarnya suku ke-4     2.tiga bilangan membentuk barisan geometri jumlah ketiga bilangan tersebut adalah 14 dan hasil kalinya 64 tentukan ketiga bilangan",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "U2=12 &lt;=&gt; ar = 12 \u00a0 \u00a0 ....1<br>U5 = 4/9&lt;=&gt; ar^4= 4/9....2<br>1 dan 2 didapat r\u00b3 = 4/(12x 9 \u00a0= 1/27 jadi r = 1/3 dan a = 36<br>Un = ar^(n-1) = \u00a036 (1/3)^(n-1)",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apakah-persamaan-yang-diberikan-merupakan-persamaan-kuadrat-beri-821",
+            "question": "Apakah persamaan yang diberikan    merupakan persamaan kuadrat?\r\nBerikan alasanmu!\r\na. x2y = 0, y \u2208 R, y \u2260 0.\r\nb. x + 1x= 0, x \u2260 0.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "keduanya bukan karena rumus umum dari persamaan kuadrat adalah ax\u00b2+bx+c dan a\u22600",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "materi-trigonometri-hitunglah-bentuk-berikut-dengan-menggunaka-883",
+            "question": "MATERI ; TRIGONOMETRI.    Hitunglah bentuk berikut dengan menggunakan rumus setengah sudut.\r\n1. tan 22,5 =\r\n2. cos 22,5 =",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "b. cos 22,5 =\u00a01/2 . 45<br>\u221a1+cos 45 : 2<br>\u221a1 + 1/2\u221a2 :2<br>\u221a2+\u221a2 \u00a0: 4<br>1/2\u00a0\u221a2+\u221a2",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-sebuah-deret-geometri-memenuhi-log-u1-log-u2-log-u3-666",
+            "question": "diketahui sebuah deret geometri memenuhi log U1 + log U2 + log U3 + log U4 + log U5 = 15 log 2. jika r =2, tentukan S9.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Deret geometri dg r = 2<br>log U\u2081 + log U\u2082 + log U\u2083 + log U\u2084 + log U\u2085 = 15 log 2 <br>berdasarkan sifat logaritma, maka didapat : <br>log (U\u2081 . U\u2082 . U\u2083 .U\u2084 . U\u2085) = log 2\u00b9\u2075 <br>U\u2081 x U\u2082 x U\u2083 x U\u2084 x U\u2085 = 2\u00b9\u2075 <br>a x ar x ar\u00b2 x ar\u00b3 x ar\u2074 = 2\u00b9\u2075 <br>a\u2075 x r\u00b9\u2070 = 2\u00b9\u2075\u00a0  <br>a x r \u00b2 = 2\u00b3<br>a x 2\u00b2 = 2\u00b3<br>a = 2<br>S\u2089 = a(r\u2079 - 1) : (r - 1)<br>\u00a0\u00a0 \u00a0 = 2(2\u2079 - 1) : (2 - 1) <br>\u00a0\u00a0 \u00a0  = 2(512 - 1) : 1 <br>\u00a0\u00a0 \u00a0 = 2(511) <br>\u00a0\u00a0 \u00a0  = 1022<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

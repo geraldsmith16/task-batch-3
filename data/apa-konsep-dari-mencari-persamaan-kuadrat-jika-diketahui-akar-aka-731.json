@@ -1,0 +1,136 @@
+{
+    "question": "Apa konsep dari mencari persamaan kuadrat jika diketahui akar-akarnya ? Dan tolong berikan contohnya    Tolong dibantu\r\n\r\nTerima kasih",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "rumus nya.. x^2 (alfa+beta)x + alfa.beta...<br><br>alfa &amp; beta itu akar\"nya..jd kita hrs cr dlu alfa+beta dan beta +alfa..<br><br><br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "jika-maka-nilai-yang-mungkin-untuk-adalah-612",
+            "question": "Jika \u00a0maka nilai yang mungkin untuk \u00a0adalah ...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "soal olimpiade kah ini mas?<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-a-x-1-lt-x-lt-20-x-bilangan-prima-b-y-761",
+            "question": "Diketahui :    A = {x\u00a0| 1\u00a0&lt; x &lt; 20, x bilangan prima}\r\nB = {y | 1\u00a0\u2264 y\u00a0\u2264 10, y bilangan ganjil}\r\n\r\nHasil A\u00a0\u03a0 B ..\r\n\r\nA. {3,5,7}\r\nB. {3,5,7,9}\r\nC. {1,3,5,7}\r\nD. {1,3,5,7,9}",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Jawab:<br>A = {2,3,5,7,11,13,17,19)<br>B = {1,3,5,7,9,10)<br>\u00a0A irisan B (A\u00a0\u2227 B) = {2,5,7}<br>jadi, jawabannya adalah A. {3,5,7}<br><br>semoga bisa membantu ^_^,,,<br>maaf kalau ada yang salah ^_^,,,",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tiga-bilangan-positif-membenrik-barisan-geometri-dengan-rasio-rg-198",
+            "question": "Tiga bilangan positif membenrik barisan geometri dengan rasio r&gt;1.jika suku tengah ditambah 4,maka terbentuk sebuah barisan aritmatika yang jumlahnya 30.tentukan hasil kali dari ketiga bilangan tersebut.    Tolong dongg",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a,b,c,nanti saat di barisan aritmatika b+4<br>a+b+c = 30<br>b= a.r^n-1,<br>6=a.r^1 = 6/r = a , c = a.r^n-1= 6/r . r^2 = 6.r<br>maka. a + b + c = 30<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a06/r + 6 + 6r = 30<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 6/r + 6r = 24<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 6r+ 6 = 24<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a06r = 18<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 r = 3<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0<br><br>a= 2<br>b = 6<br>c = 18<br>r= 3<br>jika b +4 = 6+ 4 =10,maka a+b+c= 30 :)<br>sehingga 2 x 6 x18 =156 :)",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-suku-banyak-px-di-bagi-x-2-bersisa-6-dan-dibagi-x-709",
+            "question": "diketahui suku banyak p(x) di bagi (x-2) bersisa -6 dan dibagi (x+2) bersisa 8. tentukan sisa pembagian suku banyak p(x) oleh (x\u00b2-4)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>Dibagi (x-2) sisa -6<br>\ndibagi (x+2) sisa 8</span>\n\n<span><br>Dibagi (x2-4) sisa px+q</span>\n\n<span>(x2-4) = (x-2) (x+2)<br>\u00a0</span><span>(x-2) --&gt;\nf(2)= 2p+q<br>\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 -6 = 2p+q</span>\n\n<br><span>(x+2) --&gt; f(-2)= -2p+q<br>\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 8 = -2p+q</span>\n\n<br>disubtitusikan:\n\n<span>2p+q= -6\u00a0 dengan -2p+q=\n8 mendapat hasil p= -7/2 dan q= 1</span>\n\n<br><span>Jadi sisa pembagian suku banyak p(x) oleh (x2-4)\nadalah px+q= -7/2 <span>x\n+ 1</span></span>\n\n<br><br><br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span><span>Dibagi (x-2) sisa -6<br>\ndibagi (x+2) sisa 8</span>\n\n<span><br>Dibagi (x2-4) sisa px+q</span>\n\n<span>(x2-4) = (x-2) (x+2)<br>\u00a0</span><span>(x-2) --&gt;\nf(2)= 2p+q<br>\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 -6 = 2p+q</span>\n\n<br><span>(x+2) --&gt; f(-2)= -2p+q<br>\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 8 = -2p+q</span>\n\n<br>disubtitusikan:\n\n2p+q= -6\u00a0 dengan -2p+q=\n8 mendapat hasil p= -7/2 dan q= 1\n\n<br><span>\u00a0sisa pembagian suku banyak p(x) oleh (x2-4)\nadalah px+q= -7/2 x\n+ 1</span>\n\n<br></span><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "x-pangkat-2-4-jika-dan-hanya-jika-x2-atau-x-2-x-1-2-jika-dan-817",
+            "question": "x pangkat 2 =4 jika dan hanya jika x=2 atau x=-2? x-1 =2 jika dan hanya jika 2x+1=5? x pangkat 2 &lt; 4 jika dan hanya jika x&lt;2? -2&lt;x&lt;2 jika dan hanya jika x pangkat 2 =4???",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]x^2=4 \\longleftrightarrow x=2\\ atau\\ x=-2\\ (benar)\\\\ x-1=2 \\longleftrightarrow 2x+1=5\\ (salah)\\\\ x^2&lt;4 \\longleftrightarrow x&lt;2\\ (benar)\\\\ -2&lt;x&lt;2 \\longleftrightarrow x^2=4\\ (salah)[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "umur-abc-235-jumlah-umur-b-dan-c-adalah-24-tahun-maka-umur-497",
+            "question": "Umur a:b:c = 2:3:5 jumlah umur b dan c adalah 24 tahun maka umur a adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "umur b ditambah c = 24<br>\u00a0pebandingan umur b ditambah c = 8<br><br>2/8 dikali 24 = 6<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Dik: a:b:c = 2:3:5<br>b+c =\u00a024<br>Dit: a?<br>Jawab:<br><br>b:c = 3:5<br>b+c = 24<br>b =\u00a0[tex] \\frac{3}{8} [/tex]\u00d724 = 9 tahun<br>c =\u00a0[tex] \\frac{5}{8} [/tex]\u00d724 = 15 tahun<br><br>a:b:c = 2:3:5 = a:9:15<br>a = 6 tahun<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "coba-tolong-dilihat-dulu-ada-yang-bisa-bantu-1-2-557",
+            "question": "Coba tolong dilihat dulu, ada yang bisa bantu?    1. \r\n2.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]\\int (4x-3)dx= \\int 4xdx-\\int 3dx\\\\\n\\int (4x-3)dx= 2x^2-3x+C\\\\\\\\\n\\int \\frac{2}{\\sqrt{2}-5}dx=\\frac{2x}{\\sqrt{2}-5}+C[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bagaimana-cara-menampilkan-bilangan-fibonaci-dengan-assembler-193",
+            "question": "Bagaimana cara menampilkan bilangan fibonaci dengan assembler,??",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "barisan bilangan Fibonaccci yang pertama adalah:\n0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, 233, 377, 610, 987, 1597, 2584, 4181, 6765, 10946\u2026\nBarisan bilangan Fibonacci dapat dinyatakan sebagai berikut: Fn = (x1^n \u2013 x2^n)/ sqrt(5) dengan\nFn adalah bilangan Fibonacci ke-nx1 dan x2 adalah penyelesaian persamaan x^2-x-1=0<span>Perbandingan antara Fn+1 dengan Fn hampir selalu sama untuk sebarang \nnilai n dan mulai nilai n tertentu, perbandingan ini nilainya tetap. \nPerbandingan itu disebut Golden Ratio yang nilainya mendekati 1,618.</span><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-suatu-segitiga-siku-siku-dengan-nilai-sinus-salah-satu-124",
+            "question": "diketahui suatu segitiga siku-siku dengan nilai sinus salah satu sudut lancipnya adalah\u221a3/2. tentukanlah nilai cosinus, tangen sudut tersebut.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "cos nya 1/2 <br>tangen nya \u221a3",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span>cos nya 1/2 <br>tangen nya \u221a3</span><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "berapa-luas-daerah-yang-diarsir-168",
+            "question": "Berapa luas daerah yang diarsir..?",
+            "attachments": [
+                "question-attachments/berapa-luas-daerah-yang-diarsir-168-1.docx"
+            ],
+            "answers": [
+                {
+                    "answer": "setengah lingkaran besar<br>\u21d2 1/2 x \u03c0 x r\u00b2<br>\u00a0 = 1/2 x 22/7 x 7/2 x 7/2<br>\u00a0 = 77/4 = 19,25<br>lingkaran kecil<br>\u21d2 \u03c0 x r\u00b2<br>\u00a0 = 22/7 x 1,4 x 1,4<br>\u00a0 = 6,16<br>luas yang diarsir = 19,25 - 6,16 = 13.09<br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

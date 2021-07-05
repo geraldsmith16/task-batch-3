@@ -1,0 +1,138 @@
+{
+    "question": "9/10-4/5=\r\n4 3/4-2 2/5=",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "a .9/10-4/5= 9/10 - 8/10 =1/10<br>b .<span>4 3/4-2 2/5= 4 15/20 -2 8/20 =2 7/20</span><br>",
+            "attachments": []
+        },
+        {
+            "answer": "1. \u00a0 \u00a0  9/10-4/5= 9/10-8/10=1/10<br><br><br><br>2.\u00a0 \u00a0 \u00a0  4 3/4-2 2/5= 4 15/20-2 8/20=2 7/20<br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "rumus-keliling-segitiga-apa-aku-lupa-hehehe-230",
+            "question": "Rumus keliling segitiga apa ? aku lupa hehehe",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "sisi 1 + sisi 2 + sisi 3\u00a0<br>jadi hanya tinggal menjumlahkan ketiga sisinya saja :)",
+                    "attachments": []
+                },
+                {
+                    "answer": "keliling =\u00a0sisi + sisi + sisi",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jumlah-n-suku-pertama-suata-deret-artmetika-adalah-sn12n11-n-918",
+            "question": "Jumlah n suku pertama suata deret artmetika adalah Sn=1/2n(11-n).rumus sukuke-n adalah....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "rumus jumlah suku ke n = n/2(2a+(11-1)b)<br>jadi rumus suku ke n = a+(11-1)b<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sederhanakan-bentuk-logaritma-berikut-a-2log242log-852",
+            "question": "Sederhanakan bentuk logaritma berikut.\r\n\r\na.\u00a0\u00b2log24+\u00b2log",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]^2log24+\\ ^2log\\frac{1}{3}=\\ ^2log(24(\\frac{1}{3}))\\\\\n^2log24+\\ ^2log\\frac{1}{3}=\\ ^2log8\\\\\n^2log24+\\ ^2log\\frac{1}{3}=\\ ^2log2^3\\\\\n^2log24+\\ ^2log\\frac{1}{3}=\\ 3[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "contoh-soal-persamaan-dan-fungsi-kuadrat-585",
+            "question": "Contoh soal persamaan dan fungsi kuadrat ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]tentukan\\ akar-akar\\ dari\\ persamaan\\ kuadrat:x^2-x+1=0\\\\\\\\\ntentukan\\ titik\\ puncak\\ fungsi\\ f(x)=x^2-x+1\\\\[/tex]",
+                    "attachments": []
+                },
+                {
+                    "answer": "Selisih 2 bilangan bulat adalah 9. Jika hasil kali kedua bilangan tersebut adalah 36. Tentukan nilai dari kedua bilangan tersebut..<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-xy-23-adalah-penyelesaian-dari-sistempersamaan-ax-b-844",
+            "question": "Jika (x,y) =(2,3) adalah penyelesaian dari sistempersamaan\r\nax + by=1\r\nay - bx=8",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "substitusikan nilai (x,y) dalam pers.<br><br>a(2) + b(3) = 1<br>a(3) - b(2) = 8<br><br>2a + 3b = 1 .... x3<br>3a - 2b = 8 .... x2<br><br>6a + 9b = 3<br>6a - 4b = 16<br>(dikurang), maka<br>13b = -13<br><strong>b = -1</strong><br><br>subs b ke pers 1.<br><br>2a + 3(-1) = 1<br>2a -3 = 1<br>2a = 4<br><strong>a = 2</strong><br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "menentukan-nilai-fungsi-fx2x-3x-1-tentukan-f-2-326",
+            "question": "Menentukan nilai fungsi f(x):2x - 3x +1 tentukan (f-2)???",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>f(x)=2x - 3x +1<br>f(2)= 2(2) - 3(2) +\u00a01<br>\u00a0 \u00a0 \u00a0= 4 - 6 + 1<br>\u00a0 \u00a0 \u00a0= -1<br>jawabanya -1</span>",
+                    "attachments": []
+                },
+                {
+                    "answer": "f(-2) = 2(-2) - 3(-2) + 1 = -4 + 6 + 1 = 3<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bagaimana-cara-menyelesaikan-soal-seperti-ini-dengan-caranya-9-458",
+            "question": "Bagaimana cara menyelesaikan soal seperti ini? dengan caranya\r\n\u00a09\u221a14 + 6\u221a21\r\n \u00a0 \u00a0 3\u221a42",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<u>\u221a81x14 +\u00a0\u221a36x21\u00a0</u> =\u00a0<u>\u221a1134 +\u00a0\u221a756</u>\u00a0<br>\u00a0 \u00a0 \u00a0 \u00a0\u221a9x42 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u221a378<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0=\u00a0<u>\u221a1134</u> \u00a0 + \u00a0 \u00a0<u>\u221a756</u><br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0<u></u>\u221a378 \u00a0 \u00a0 \u00a0 \u00a0\u00a0\u221a378\u00a0<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 biar akarnya ilang, masing\u00b2 di kuadratkan (dalam teori\u00a0\u221aa x\u00a0\u221aa = a)<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0(\u00a0<u>\u221a1134)</u>\u00b2\u00a0\u00a0 + \u00a0 \u00a0(<u>\u221a756)</u>\u00b2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0(\u00a0<u></u>\u00a0\u221a378 ) \u00a0 \u00a0 \u00a0 \u00a0\u00a0\u00a0(\u221a378)<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 =\u00a0<u>1134 </u>\u00a0 \u00a0 \u00a0 \u00a0+ \u00a0 \u00a0 <u>756<br></u>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 378 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0378\u00a0<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 3 + 2 = 5 .. ;)",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-persamaan-lingkaran-yang-melalui-titik-20-11-3-3-897",
+            "question": "Tentukan persamaan lingkaran yang melalui titik (2,0) (1,1) (3,-3). tolong bantu yaaaa:)))",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "masukan titik\u00a0(2,0) (1,1) (3,-3) ke dalam rumus\u00a0Persamaan lingkaran \u00a0x2 + y2 + ax + by + c = 0, satu persatu dgn menganti nilai x dan y dgn titik tersebut kemudian cari nilai a,b, dan c dgn subtitusi<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "coba-tolong-dilihat-dulu-ada-yang-bisa-bantu-1-2-557",
+            "question": "Coba tolong dilihat dulu, ada yang bisa bantu?    1. \r\n2.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]\\int (4x-3)dx= \\int 4xdx-\\int 3dx\\\\\n\\int (4x-3)dx= 2x^2-3x+C\\\\\\\\\n\\int \\frac{2}{\\sqrt{2}-5}dx=\\frac{2x}{\\sqrt{2}-5}+C[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-nilai-x-yang-memenuhi-bentuk-bentuk-logaritma-berikut-a-895",
+            "question": "Tentukan nilai x yang memenuhi bentuk bentuk logaritma berikut\r\na. 3log 27 = x\r\nb. 5 log 625 =x",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "x = 3 log 27 <br>\u00a0\u00a0 = 3 log 3\u00b3<br>\u00a0\u00a0 = 3<br><br>x = 5 log 625 <br>\u00a0\u00a0 = 5 log 5\u2074<br>\u00a0\u00a0 = 4<br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

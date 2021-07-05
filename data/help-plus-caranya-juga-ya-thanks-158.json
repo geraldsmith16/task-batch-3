@@ -1,0 +1,146 @@
+{
+    "question": "[HELP] plus caranya juga ya, thanks",
+    "attachments": [
+        "question-attachments/help-plus-caranya-juga-ya-thanks-158-1.jpg"
+    ],
+    "answers": [
+        {
+            "answer": "8x^-4/2x^-6<br>= 2x^6/8x^4<br>= 2x^6/2x^3(4)<br>= 2x^6/2x^12<br>= 4x^3/4x^6<br>= 4x^3",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "tentukan-persamaan-linear-a-3s11-28-b-25-4y-6y15-c-64-112",
+            "question": "Tentukan persamaan linear    a). 3s+11=-28\r\nb). 25-4y = 6y+15\r\nc). 6/4 + 2 = 4\r\nd). 6x + 5 = 26-x\r\ne). 2-4x =3\r\npliaa tlng d jawab yah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "3s+11=-28<br>3s=-28-11<br>3s=-39<br>s=-13<br><br>25-4y=6y+15<br>4y+6y=25-15<br>10y=10<br>y=1<br><br>6x+5=26-x<br>6x+x=26-5<br>7x=21<br>x=3<br><br>2-4x=3<br>4x=2-3<br>4x=-1<br>x=-1/4<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-jumlah-dua-bilangan-adalah-100-dan-selisih-nya-adalah-4-818",
+            "question": "Diketahui jumlah dua bilangan adalah 100 dan selisih nya adalah 40. bagaimana nilai dua bilangan tersebut dapat dinyatakan dua linear satu variabel???    (tolong sekalian caranya)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a+b=100<br>a-b=40<br>_________-<br>\u00a0\u00a02b=60<br>\u00a0\u00a0b = 30<br>masukaan b=30 ke persamaan 2<br>a-30=40<br>a=70",
+                    "attachments": []
+                },
+                {
+                    "answer": "a\u208ab=100<br>a\u208ab=40<br>________-<br>2b=60<br>b=30<br>a=30=40<br>a=70<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "berapa-orang-yang-gemar-matematika-maupun-bahasa-ingggris-dari-se-872",
+            "question": "berapa orang yang gemar matematika maupun bahasa ingggris dari sekelompok siswa yang terdiri dari 35 orang, ternyata 18 orang gemar matematika, 22 orang gemar bahasa inggris, dan 7 orang tidak gemar matematika maupun bahasa inggris ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "orang yang gemar keduanya = (yg gemar matematika + yg gemar bahasa inggris + yg tidak gemar keduanya) - jumlah siswa\u00a0 -&gt; ( 18 + 22 + 7 ) - 35 = 47 - 35 = 12<br>jadi yang gemar matematika dan bahasa inggris ada 12 siswa.<br><br>semoga membantu :)<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "S(semua)=35 org<br>Matematika=18<br>b.inggris=22<br>tidak keduanya=7<br><br>Rumus<br>Semua+keduanya=Lainnya<br>35+I=(18+22+7)<br>35+I=47<br>I=47-35<br>I=<strong><em>12</em></strong>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "34-y-38-y-pake-cara-522",
+            "question": "- 3/4 y = -3/8\r\ny=\r\n\u00a0pake cara",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]- \\frac{3y}{4}=  -\\frac{3}{8}  \\\\  \\\\  \\frac{3y}{4}=  \\frac{3}{8}  \\\\  \\\\ 3y.8 = 4.3 \\\\  \\\\ 24y = 12 \\\\  \\\\ y= \\frac{12}{24}  \\\\  \\\\ y= \\frac{1}{2} [/tex]",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span>- 3/4 y = -3/8<br>y = -3/8 : -3/4\u00a0<br>\u00a0 \u00a0= -3/8 x -4/3<br>\u00a0 \u00a0= 12/24<br>\u00a0 \u00a0= 1/2 = 0,5</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "panjang-jari-jari-sebuah-lingkaran-8-cm-jika-panjang-jari-jari-l-264",
+            "question": "Panjang jari-jari sebuah lingkaran 8 cm. Jika panjang jari-jari lingkaran kedua 1 1/2 kali jari-jari lingkaran pertama, hitunglah perbedaan luas kedua lingkaran tersebut dengan phi = 3,14",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "luas lingkaran 1 = phi r*2 = 3,14 x 64= 200,96 \u00a0 \u00a0r lingkaran 2 = 3/2 kali 8 = 12<br>luas lingkaran 2 = 3,14\u00a0x 144 = 452,16<br>jadi perbedaannya = L LINGK 1 - L LINGK 2 =\u00a0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dua-bilangan-berselisih-25jika-2-kali-bilangan-yang-besar-dikura-498",
+            "question": "dua bilangan berselisih 25.jika 2 kali bilangan yang besar dikurangi bilangan yang kecil adalah 175,tentukanlah bilangan itu.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a-b=25<br>(2xa)-b=175<br><br>lakukan eliminasi:<br>2a-b=175<br>a-b=25\u00a0 \u00a0 -<br>-------------------<br>a=150<br><br>lakukan substitusi untuk mencari b<br>a-b=25<br>150-b=25<br>b=150-25= 125<br>b=125<br><br>(2x150)-b=175<br>300-b=175<br>b=300-175<br>b=125<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pada-kegiatan-rallysebuah-mobil-akan-sampai-di-garis-finis-dalam-973",
+            "question": "Pada kegiatan Rally,sebuah mobil akan sampai di garis finis dalam waktu 4,5 jam dengan kecepatan rata-rata 63 km/jam. Setelah 2 jam berjalan, ban mobil biru pecah sehingga terpaksa berhenti mengganti ban selama 15 menit. Berapa kecepatan mobil biru dinaikkan agar tetap sampai di finis tepat waktu?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "4,5 jam --&gt; 63 km/jam<br>2,25 jam --&gt; (63 + x) km/jam<br><br>[tex] \\frac{4,5}{2,25} [/tex] =\u00a0[tex] \\frac{63+x}{63} [/tex]<br>126 = 63+x<br>x\u00a0= 63 km/jam",
+                    "attachments": []
+                },
+                {
+                    "answer": "waktu normal (t1) = 2.5 jam<br>waktu tersisa (t2) = 2.25 jam (waktu normal di kurangi waktu mengganti ban)<br>kecepatan normal (v1) = 63 km/jam<br>kecepatan untuk mencapai finish dengan waktu tersisa\u00a0 (v2)= ...??<br><br>karena jarak yang ditempuh adalah sama maka dapat dibuat persamaan jarak sbb :<br>s1 = s2<br>v1.t1 = v2.t2<br>63 . 2.5 = v2 . 2.25<br><span>v2 = </span><br><br>v2 = 70 km/jam<br><br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-penyelesaian-2y-7-3-661",
+            "question": "Tentukan penyelesaian\u00a0\u00a02y - 7\u00a0 \u00a0\u2264 3\r\n \u00a0\u00a0\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a02",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<u>2y - 7\u00a0</u><span>\u00a0\u00a0\u2264 3</span><u><br></u><span>\u00a0 \u00a0 2<br></span>2y-7\u22643.2<br>2y-7\u22646<br>2y\u226413<br>y\u22646.5",
+                    "attachments": []
+                },
+                {
+                    "answer": "2y-7\u22646<br>2y\u22646+7<br>2y\u226413<br>\u00a0jadi y\u22646,5",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-dinyatakan-dalam-bentuk-akar-561",
+            "question": "Jika dinyatakan dalam bentuk akar.........................................    mohon jawabannya yang tepat :)\r\n\r\npertanyaan nya di DOC",
+            "attachments": [
+                "question-attachments/jika-dinyatakan-dalam-bentuk-akar-561-1.docx"
+            ],
+            "answers": [
+                {
+                    "answer": "[tex]64^{\\frac{3}{2}} *  \\frac{1}{147}^{\\frac{1}{2} } = 2^{6*\\frac{3}{2}} *  \\frac{1}{147}^{\\frac{1}{2}} = 2^9 * \\frac{1}{147^\\frac{1}{2}} = 42.2[/tex]<br><br>kalau dalam bentuk akar\u00a0[tex] \\sqrt{{2 ^{18} } * \\frac{1}{147} }[/tex]<br><br>[tex]\\sqrt{{2 ^{18} } * \\frac{1}{7^{3}} } [/tex]<br><br>coba bilang dari tadi ada pilihan gandanya<br><br>[tex]64^{\\frac{3}{2}} * \\frac{1}{7}^{\\frac{3}{2} }\u00a0<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "kenapa-nilai-phi-314-817",
+            "question": "Kenapa nilai phi 3,14?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "karena nilai phi itu diperoleh dari keliling lingkaran dibagi diameter",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

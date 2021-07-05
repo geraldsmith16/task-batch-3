@@ -1,0 +1,136 @@
+{
+    "question": "4 buah pegas identik masingmasing mempunyai konstanta elavasitas 1600N.M-1, disusun seri-paralel (lihat gambar)    beban w yang di gantung menyebabkan sistem pegas mengalami pertambahan panjang secara keseluruhan sebesar 5cm. berat beban w adalah",
+    "attachments": [
+        "question-attachments/4-buah-pegas-identik-masingmasing-mempunyai-konstanta-elavasitas-344-1.jpg"
+    ],
+    "answers": [
+        {
+            "answer": "Ktotal = (4800x1600) : 4800 + 1600 = 1200 N/m<br>w=Fpegas<br>w=kx<br>w= 1200(0.05)<br>\u00a0 =60 n",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "bagaimanakah-momentum-benda-sebelum-dan-sesudah-tumbukan-218",
+            "question": "Bagaimanakah momentum benda sebelum dan sesudah tumbukan ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Berdasarkan hukum kekekalan momentum,\"jika tidak ada gaya luar yang bekerja pada benda,maka jumlah momentum sebelum tumbukan = jumlah momentum setelah tumbukan\"",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pada-titik-titik-sudut-abc-dan-d-sebuah-persegi-abcd-dengan-pan-854",
+            "question": "Pada titik-titik sudut A,B,C dan D sebuah persegi ABCD dengan panjang a ditempatkan muatan berturut-turut +q, -q, -q, dan -q. akibatnya muatan +q mengalami resultan gaya dari muatan lain sebesar ( q^/ (4\u03c0    a^2) x. nilai x adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "benda mengalami resultan gaya istrik bersudut 90 derajat. Sehingga mendapatkan rumus F=\u221a(Fab\u00b2 tambah Fad\u00b2)<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 =\u221a((k.q.q/r\u00b2)\u00b2 ditambah\u00a0(k.q.q/r\u00b2)\u00b2)<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 =\u221a2.(k.q.q/r\u00b2)\u00b2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 =k.q.q/r\u00b2.\u221a2<br><br>(q kuadrat per 4 phi epsilon a kuadrat)x=k.q\u00b2/a\u00b2.\u221a2<br>sehingga nilai x adalah \u00a0\u221a2 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-pada-magnet-bentuk-keping-lingkaran-bagaimana-letak-kutubnya-570",
+            "question": "Jika pada magnet bentuk keping lingkaran bagaimana letak kutubnya",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Tadi sudah dijawab di pertanyaan satunya, bagian setengah lingkaran atas merupakan kutub utara, dan bagian setengah lingkaran bawah merupakan kutub selatan. Okay ? @Liwed",
+                    "attachments": []
+                },
+                {
+                    "answer": "Di setengah bagian lingkaran atas kutub selatan dan di setengah bagian lingkaran di bawah kutub utara<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suatu-vektor-gaya-dengan-persamaan-f-5i3j-n-bekerja-pada-suat-157",
+            "question": "suatu vektor gaya dengan persamaan F=(-5i+3j) N Bekerja pada suatu titik poros yang memiliki vektor posisi r=(4i+3j)m.besar torsi nya adalah?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "\u03c4 = r x F <br><br>\n\u03c4 = {4,3,0} x {-5,3,0} <br><br>\n\u03c4 = {0, 0, 27} <br><br>\nbesar torsi adalah <br><br>\n|\u03c4| = 27 Nm  <br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebutkan-macam-macam-benda-plastis-beserta-manfaat-minimal-5-778",
+            "question": "Sebutkan macam -macam benda plastis beserta manfaat minimal 5.. \u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "benda plastis : kayu, kaca ,plastic ,plastisin ,kertas.<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "penjelasan-tentang-momen-inersia-berbagai-benda-tegar-homogen-706",
+            "question": "Penjelasan tentang momen inersia berbagai benda tegar homogen",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Benda tegar tersusun dari banyak partikel yang tersebar di seluruh \nbagian benda. Momen inersia suatu benda tegar merupakan jumlah semua \nmomen inersia masing-masing partikel penyusun benda tegar.<br><br><br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span>Benda tegar tersusun dari banyak partikel yang tersebar di seluruh \nbagian benda. Momen inersia suatu benda tegar merupakan jumlah semua \nmomen inersia masing-masing partikel penyusun benda tegar.<br></span><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bagaimana-bentuk-permukaan-zat-cairsudut-kontak-untuk-air-alko-174",
+            "question": "bagaimana bentuk permukaan zat cair(sudut kontak) untuk air, alkohol dan raksa di dalam pipa kapiler ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "sudut kontak air dengan pipa kapiler adalah 0 derajat &lt; 0 &lt; 90 derajat<br>sudut kontak air raksa dengan pipa kapiler adalah 90 derajat &lt; 0 &lt; 180 derajat",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "rumus-reaksi-sempurna-kimia-apa-ya-374",
+            "question": "Rumus reaksi sempurna kimia apa ya?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>C8H18 (l) +12 \u00bd O2 (g) \u2013&gt; 8 CO2 (g) + 9 H2O (g) \u0394H = -5460 kJ</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "berapa-kalor-yg-di-butuhkan-es-bersuhu-2c-dengan-massa-4-kg-ag-909",
+            "question": "Berapa kalor yg di butuhkan es bersuhu -2\u00b0c dengan massa 4 kg agar mencapai suhu 5\u00b0c, jika dik.    L es=336.000 J/kg\r\nc es=500 J/kg\u00b0c\r\nc air=4200 J/kg\u00b0c",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "m.c.\u0394t=4\u00d72\u00d7500= 4000j<br>m.L=4\u00d7336000=1344000j<br>m.c.\u0394t=4\u00d75\u00d74200=84000j<br><br>kalor yg dibutuhkan=1432000j=1432kj",
+                    "attachments": []
+                },
+                {
+                    "answer": "Q es 1 = m.Ces.\u0394t<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 4 . 500 .(0- -2)<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0= 400 j<br>Q lebur 2\u00a0= m.L<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 4 . 336.000<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = \u00a01.344.000 j<br>Q cair 3\u00a0= m.Cair.\u0394t<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = \u00a04 . 4200 . (5-0)<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 84.000 j<br>kalor total Q = Q1+Q2+Q3<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 400 + 1.344.000 + 84.000<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 1.428.400 J<br>tolong klik bintang",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-pipa-berbentuk-pipa-u-berisi-air-dan-minyak-tinggi-kolom-346",
+            "question": "Sebuah pipa berbentuk pipa U berisi air dan minyak. Tinggi kolom minyak 20 cm dan tinggi kolom air 10 cm. Jika massa jenis air 1.000 kg/m3, maka hitunglah massa jenis minyak!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Massa jenis air = row1<br>massa jenis minyak = row 2<br>Tinggi air = A1<br>Tinggi minyak = A2<br><br>Row 2/A2 = Row 1/A1<br>Row 2/20 cm = 1000kg.m3/10cm<br>Row 2/ 0.2 m = 1000kg.m3/0.1 m<br>Row 2 = 1000kg.m3/0.1 m * 0.2 m<br><br>Row 2 =\u00a0 2000kg.M3<br><br>NB : / itu per<br><br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

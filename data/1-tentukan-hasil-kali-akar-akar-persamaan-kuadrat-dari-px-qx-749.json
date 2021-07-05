@@ -1,0 +1,128 @@
+{
+    "question": "1.\u00a0Tentukan hasil kali akar-akar persamaan kuadrat dari\u00a0px = qx\u00b2    2, jika diketahui persamaan kuadrat 6x\u00b2 - 48x + 90 = 0\r\n\u00a0 tentukan ;\r\n\u00a0 \u00a0a. X1\u00b2 . X2\u00b2 + X2\u00b2 . X1\u00b2\r\n\u00a0 \u00a0",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "1. px = qx2<br>qx2-px=0<br>x(qx-p)=0<br>x1=0 atau qx-p=0<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 x2 = p/q<br>x1.x2= 0.p/q=0<br><br>2. 6x\u00b2-48x+90=0<br>x\u00b2+8x-15=0<br>(x-3) atau (x-5)<br>x1=3 atau x2=5<br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "sederhanakanlah-1-812-43-2-82045-25-3-4-894",
+            "question": "Sederhanakanlah??    1. 8\u221a12-4\u221a3 =\r\n2. 8\u221a20+4\u221a5-2\u221a5 =\r\n3. 4\u221a54+5\u221a216-2\u221a294 =\r\n4. 4\u221a3+6\u221a3 =\r\n\r\nPake caranya....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1.] 8 akar 4 * 3 - 4 akar 3 = 8.2 akar 3 - 4 akar 3 = 16 akar 3 - 4 akar 3 = 12 akar 3<br>2.] 8 akar 20 + 4 akar 5 - 2 akar 5= 8 akar 4 * 5 + 4 akar 5 - 2 akar 5 = 8.2 akar 5 + 4 akar 5 - 2 akar 5 = 16 akar 5 + 4 akar 5 - 2 akar 5 = 20 akar 5 - 2 akar 5 = 18 akar 5<br>3.] 4 akar 54 + 5 akar 216 -\u00a02 akar 294 = 4 akar 6 * 9 + 5 akar 6 * 36 - 2 akar 6 * 49\u00a0\u00a0--&gt; 4.3 akar 6 + 5.6 akar 6 - 2 .7 akar 6 = 12 akar 6 + 30 akar 6 - 14 akar 6 = 42 akar 6 - 14 akar 6 = 28 akar 6<br>4.] 4 akar 3 + 6 akar 3 = 10 akar 3",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "persamaan-lingkaran-xi-sma-tentukan-persamaan-lingkaran-yang-me-878",
+            "question": "PERSAMAAN LINGKARAN - xi sma tentukan persamaan lingkaran yang melalui (0,0) dengan jari2 akar 5 dan titik pusatnya terletak pada garis y= x-1 \u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]misal\\ titik\\ pusatnya\\ (a,b)\\\\\n(x-a)^2+(y-b)^2=r^2\\ melalui\\ titik\\ (0,0)\\\\\n(0-a)^2+(0-b)^2=(\\sqrt{5})^2\\\\\na^2+b^2=5\\\\\nkarena\\ (a,b)\\ berada\\ pada\\ garis\\ y=x-1,\\ maka\\\\\nb=a-1\\\\\na^2+b^2=5\\\\\na^2+(a-1)^2=5\\\\\n2a^2-2a-4=0\\\\\n(2a+2)(a-2)=0\\\\\na=-1\\ atau\\ a=2\\\\\nutk\\ a=-1,b=-2 \\rightarrow (x+1)^2+(y+2)^2=5\\\\\nutk\\ a=2,b=1 \\rightarrow (x-2)^2+(y-1)^2=5[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "selesaikan-persamaan-kuadrat-berikut-dengan-cara-pemfaktoran-dan-628",
+            "question": "Selesaikan persamaan kuadrat berikut dengan cara pemfaktoran dan rumus ABC.    X\u00b2 -8x + 15 = 0\r\n\r\nYang pemfaktoran udah tinggal yang rumus ABC nya, bagi yang tau jawabanya tolong di bantu",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "itu cara cepet dr guru ku",
+                    "attachments": [
+                        "answer-attachments/selesaikan-persamaan-kuadrat-berikut-dengan-cara-pemfaktoran-dan-628-1.docx"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-suatu-barisan-aritmetika-136-131-75-127-5-jik-991",
+            "question": "Diketahui suatu barisan aritmetika : 136; 131, 75; 127, 5;... Jika suku ke-n barisan tersebut bernilai nol, n = ...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a= 136<br>b= 131-136= -5<br>Un = a+(n-1)b<br>\u00a00\u00a0 = 136+(n-1)-5<br>\u00a00\u00a0 = 136-5n+5<br>\u00a00\u00a0 =\u00a0 141-5n<br>\u00a05n = 141-0<br>\u00a0 n = 141\u00f75 = 28<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dik-fx12-x22-dan-gx-x10-fungsi-komposisi-f-lingkaran-199",
+            "question": "Dik: f(x)=1/2 x2+2 dan g(x) = x+10 fungsi komposisi (f lingkaran g) (x)=..........................",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]f o g(x) =  \\frac{1}{2} ( x^{2} +20x+100)+2=   \\frac{1}{2}x^{2} +10x+50+2 \\\\  \\\\ \\frac{1}{2}x^{2} +10x+52[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "penyelesaian-34x-5lt11-444",
+            "question": "Penyelesaian 3\u2264(4x-5)&lt;11",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>3\u2264(4x-5)&lt;11=<br></span>2 \u2264x&lt;4 sorry, if the fals answer<br><br><br><br><br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "[tex]3  \\leq  4x-5&lt;11\\\\\n 3+5 \\leq 4x-5+5&lt;11+5\\\\\n8 \\leq 4x&lt;16\\\\\n\\frac{8}{4} \\leq \\frac{4x}{4}&lt;\\frac{16}{4}\\\\\n2 \\leq x&lt;4[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-maka-nilai-yang-mungkin-untuk-adalah-612",
+            "question": "Jika \u00a0maka nilai yang mungkin untuk \u00a0adalah ...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "soal olimpiade kah ini mas?<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-kain-songket-dengan-ukuran-panjang-9-per-4-m-dan-lebar-510",
+            "question": "sebuah kain songket dengan ukuran panjang \u00a09 per 4\u00a0m dan lebar \u00a03 per 4m\u00a0. di bagian tengah terdapat 5 bagian daerah yg seluruhnya \u00a0451 per 400\u00a0m. 1. tentukan ukuran bagian kain songket yg berwarna merah dan daerah berambu benang. 2. bagaimana kamu menentukan luas daerah tersebut? 3. apakah ada keterkaitan konsep dan prinsip persamaan kuadrat untuk menentukan ukuran daerah bagian dalam kain songket?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "mav, soalnya itu ada gb.nya nggak?<br>songket warna merahnya dmn?<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-jumlah-dan-hasil-kali-akar-akar-persamaan-kuadrat-beriku-220",
+            "question": "Tentukan jumlah dan hasil kali akar-akar persamaan kuadrat berikut    p\u00a0x^{2}\u00a0 - (5p + 1)x + (3p - 8) = 0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]px^2-(5p+1)x+(3p-8)=0\\\\\nx_1+x_2=\\frac{-(-5p-1)}{p}\\\\\nx_1+x_2=\\frac{5p+1)}{p}\\\\\\\\\nx_1x_2=\\frac{3p-8}{p}[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-lengkapilah-tabel-berikut-p-p-q-q-pltgtq-p-415",
+            "question": "Tolong lengkapilah tabel berikut    p , ~p, q , ~q, p&lt;=&gt;q, ~(p&lt;=&gt;q), p^~q, ~p^q, (p^~q) v (~p^q)\r\nB \u00a0 \u00a0S \u00a0B \u00a0 S \u00a0 \u00a0 \u00a0B \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 S \u00a0 \u00a0 S\r\nB \u00a0 \u00a0S \u00a0S \u00a0 B \u00a0 \u00a0 \u00a0S \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 B \u00a0 \u00a0 S\r\nS \u00a0 \u00a0B \u00a0B \u00a0 S \u00a0 \u00a0\u00a0 S \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 S \u00a0 \u00a0 B\r\nS \u00a0 \u00a0B \u00a0S \u00a0 B \u00a0 \u00a0 \u00a0B \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 S \u00a0 \u00a0 S\r\n\r\ntolong lengkapi yang kosong itu ya, saya mohon karena ini penting",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>p , ~p, q , ~q, p&lt;=&gt;q, ~(p&lt;=&gt;q), p^~q, ~p^q, (p^~q) v (~p^q)<br>B \u00a0 \u00a0S \u00a0B \u00a0 S \u00a0 \u00a0 \u00a0B \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0S \u00a0 \u00a0 \u00a0 \u00a0 S \u00a0 \u00a0 S \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 S<br>B \u00a0 \u00a0S \u00a0S \u00a0 B \u00a0 \u00a0 \u00a0S \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0B \u00a0 \u00a0 \u00a0 \u00a0B \u00a0 \u00a0 S \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0B<br>S \u00a0 \u00a0B \u00a0B \u00a0 S \u00a0 \u00a0\u00a0 S \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 B \u00a0 \u00a0 \u00a0 \u00a0 \u00a0S \u00a0 \u00a0 B \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 B<br>S \u00a0 \u00a0B \u00a0S \u00a0 B \u00a0 \u00a0 \u00a0B \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 S \u00a0 \u00a0 \u00a0 \u00a0 \u00a0S \u00a0 \u00a0 S \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 S</span>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

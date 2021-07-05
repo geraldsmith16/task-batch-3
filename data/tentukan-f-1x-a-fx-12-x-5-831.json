@@ -1,0 +1,142 @@
+{
+    "question": "Tentukan f-1(x)\r\n\r\n\r\na. f(x) = 1/2 (x + 5 )",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "[tex]ini\\ langkahnya\\ dek\\\\\n\\\\\nf(x)=\\frac{x+5}{2}\\\\\\\\\nkalikan\\ dengan\\ 2\\\\\\\\\n2f(x)=x+5\\\\\\\\\nkedua\\ ruas\\ dikurang\\ dengan\\ 5\\\\\\\\\n2f(x)-5=x+5-5\\\\\\\\\n2f(x)-5=x\\\\\\\\\nnyatakan\\ bentuk\\ di atas\\ sebagai\\ f^{-1}(x)\\\\\\\\\nf^{-1}(x)=2f(x)-5[/tex]",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "diketahui-k-123456-f-fungsi-dari-k-ke-k-dengan-aturan-684",
+            "question": "Diketahui k : {1,2,3,4,5,6} f fungsi dari k ke k dengan aturan : f(n) : \u00a01 jika n ganjil &amp; 1/2 jika n genap    a) tulislah peta dari 1,2,3,4,5,6\r\nb) nyatakan sebagai himpunan pasangan berurutan\r\nc) tentukan domain, kodomain, dan range dari f",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]mohon\\ dikoreksi\\ apabila\\ terdapat\\ kesalahan\\\\\n\\\\\nf(n)=\\{1,\\frac{1}{2}\\}\\\\\\\\\n\\{(1,1),(2,\\frac{1}{2}),(3,1),(4,\\frac{1}{2}),(5,1),(6,\\frac{1}{2})\\}\\\\\\\\\ndomain:\\ 1&lt;=n&lt;=6\\\\\nkodomain:\\ x=1\\ dan\\ x=\\frac{1}{2}\\\\[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apakah-persamaan-yang-diberikan-merupakan-persamaan-kuadrat-beri-821",
+            "question": "Apakah persamaan yang diberikan    merupakan persamaan kuadrat?\r\nBerikan alasanmu!\r\na. x2y = 0, y \u2208 R, y \u2260 0.\r\nb. x + 1x= 0, x \u2260 0.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "keduanya bukan karena rumus umum dari persamaan kuadrat adalah ax\u00b2+bx+c dan a\u22600",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-titik-a-1-2-8-titik-b-3-4-0-jika-vektor-ab-960",
+            "question": "diketahui titik a= 1, -2, -8 titik b= 3, -4, 0. jika vektor AB= -3 vektor PB dan P terletak pada perpanjangan AB, maka tentukan vektor P.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "-8,3,0 klo gk slah sih kaya gitu",
+                    "attachments": []
+                },
+                {
+                    "answer": "Vektor P = -8, 0 , 3<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-vektor-p-dan-q-20-dan-1-vektor-p-dan-r-11-dan-2-j-434",
+            "question": "diketahui vektor p dan q 2,0, dan 1. vektor p dan r 1,1, dan 2. jika vektor p dan s 1/2 vektor p dan q maka tentukan vektor r dan s?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "vektor 2,1 jika s 1 per 2 2,0 cx :D<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span>Jika vektor p dan q 2,0, dan 1. vektor p dan r 1,1, dan 2.</span><br>maka Vektor S =\u00a0<span> 1 per 22</span><br><br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-akar-akar-persamaan-kuadrat-jika-23y252y1-yang-bisa-758",
+            "question": "Tentukan akar akar persamaan kuadrat jika 2/3y2+5/2y=1 ,yang bisa jawab jawab ya",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]\\frac{2}{3}y^2+\\frac{5}{2}y=1\\ kalikan\\ kedua\\ ruas\\ dengan\\ 6\\\\\n4y^2+15y-6=0\\\\\ny_{1,2}=\\frac{-b \\underline{+} \\sqrt{b^2-4ac}}{2a}\\\\\ny_{1,2}=\\frac{-15 \\underline{+} \\sqrt{15^2-4(4)(-6)}}{2(4)}\\\\\ny_{1,2}=\\frac{-15 \\underline{+} \\sqrt{225+96}}{8}\\\\\ny_{1,2}=\\frac{-15 \\underline{+} \\sqrt{321}}{8}\\\\[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "buatlah-sketsa-grafik-fungsi-kuadrat-y-x2-4x-12-langkah2-699",
+            "question": "Buatlah sketsa grafik fungsi kuadrat\u00a0    y= -x\u00b2 - 4x + 12\r\nlangkah2 langkah mencari titik potong dan titik puncak\u00a0saja..nanti saya yang mengambar..minta tolong plissss^^",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1. nyari titik puncak, <br><span>y= -x\u00b2 - 4x + 12<br>untuk mencari titik puncak maka, y&#039;=0<br>y&#039;=</span><span> -2x - 4<br>-2x - 4=0<br>x= -2<br>(-2,16) titik puncak<br><br>2. mencari titik potong</span><br><span>y= -x\u00b2 - 4x + 12</span><br>(x + 6)(-x + 2)<br>x=-6 V x=-2<br><br>3. membuat tabel titik perpotongan<br>x -6 -5\u00a0 -4\u00a0\u00a0 -3\u00a0\u00a0\u00a0 -2\u00a0\u00a0 -1\u00a0\u00a0\u00a0 0\u00a0\u00a0 1\u00a0 2<br>y\u00a0 0\u00a0 7\u00a0 12\u00a0 15\u00a0\u00a0 16\u00a0 -15\u00a0 12\u00a0 7\u00a0 0<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "kalo titik puncak bukannya tinggal ( Xp , Yp ) = ( -b / 2a , D / -4a ) ?<br>dengan D = b kuadrat - 4ac = (-4)^2 - 4 (-1) 12 = 16+48 = 64<br>jadi puncak ( -2, 16 )<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-f2x-3-4x-7-maka-nilai-dari-f17-f7-adalah-379",
+            "question": "Diketahui f(2x-3) = 4x - 7, maka nilai dari f(17) - f(7) adalah...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "f(2x-3)=4x-7<br>=(2x-3)+2x-4<br>=(2x-3)+(2x-3)-1<br>maka<br>f(x)= x+x-1<br>=2x-1<br><br>f(17)=2.17-1=33<br>f(7)=2.7-1=13<br>f(17)-f(7)=33-13=20<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "f(x) = 4(2x - 3) - 7<br>f(x) = 8x - 12 - 7<br>f(x) = 8x - 19<br>f(17) = 8(17) -19<br>\u00a0\u00a0 \u00a0 \u00a0 = 136 - 19\u00a0<br>\u00a0\u00a0 \u00a0 \u00a0 117<br>f(7) = 8(7) - 19<br>\u00a0\u00a0 \u00a0 = 56 - 19<br>\u00a0\u00a0 \u00a0 =37<br>jadi f(17) - f(7) = 117 - 37 = 80<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-persamaan-lingkaran-yang-melalui-titik-20-11-3-3-897",
+            "question": "Tentukan persamaan lingkaran yang melalui titik (2,0) (1,1) (3,-3). tolong bantu yaaaa:)))",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "masukan titik\u00a0(2,0) (1,1) (3,-3) ke dalam rumus\u00a0Persamaan lingkaran \u00a0x2 + y2 + ax + by + c = 0, satu persatu dgn menganti nilai x dan y dgn titik tersebut kemudian cari nilai a,b, dan c dgn subtitusi<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-suatu-fungsi-kuadrat-yx24-carilah-diskriminannya-643",
+            "question": "Diketahui suatu fungsi kuadrat y=x\u00b2+4 . carilah diskriminannya!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "D = b^2 - 4ac<br>= 0^2 - (4)(1)(4)<br>= 0 - 16<br>= -16<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Diskriminan =<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 =<span>b2 - 4ac<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 0 - (4 x1 x 4)<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 0 - 16<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = -16 + 0<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = -16<br></span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pemecahan-masalah-berkaitan-dengan-persaman-kuadrat-soal-misalk-217",
+            "question": "Pemecahan masalah berkaitan dengan persaman kuadrat. Soal: misalkan anda berencana memagari taman berbentuk persegi panjang disamping tembok rumahmu,dgn menggunakan pagar ketiga sisinya. Anggap anda mempunyai pagar sepanjang 48m dan ingin menciptakan sebuah kamar seluas 160m2.    A) tulislah suatu pernyataan untuk panjang taman\r\n B) buatlah model matematika yg terkait dgn persamaan kuadrat,kemudian selesaikanlah.\r\n C) berapa ukuran taman ini seharusnya?\r\n Tolong dijabarkan ya:)terimakasih..",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "panjang,agak lama gak papa?<br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

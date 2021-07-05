@@ -1,0 +1,146 @@
+{
+    "question": "Bagaimana cara menyederhanakan rumus aritmatika\u00a0 ( t=1/2 (n+1) menjadi rumus ( n=2t-1)    tolong buat kan jalannnya ,trimakasih . . .",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "t=1/2 (n+1)<br>2t=n+1<br>n=2t-1",
+            "attachments": []
+        },
+        {
+            "answer": "t = 1/2 (n + 1)<br>t = n/2 + 1/2<br>n/2 = t - 1/2<br>n = (t.2) - (1/2.2)<br>n = 2t -1<br><br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "luas-jajargenjang-pqrs-adalah-72cm-pq12cm-dan-su8cm-tentukan-575",
+            "question": "Luas jajargenjang PQRS adalah 72cm, PQ=12cm, dan SU=8cm. tentukan keliling PQRS!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "12x2= 24<br>8x2=16<br>24+16= 40",
+                    "attachments": []
+                },
+                {
+                    "answer": "12x2= 24<br>8x2=16<br><span>24+16= 40<br>semoga btul</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "selesaikan-persamaan-kuadrat-berikut-dengan-cara-pemfaktoran-dan-628",
+            "question": "Selesaikan persamaan kuadrat berikut dengan cara pemfaktoran dan rumus ABC.    X\u00b2 -8x + 15 = 0\r\n\r\nYang pemfaktoran udah tinggal yang rumus ABC nya, bagi yang tau jawabanya tolong di bantu",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "itu cara cepet dr guru ku",
+                    "attachments": [
+                        "answer-attachments/selesaikan-persamaan-kuadrat-berikut-dengan-cara-pemfaktoran-dan-628-1.docx"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-bilangan-enam-angka-n-yang-memenuhi-i-n-adalah-bilanga-617",
+            "question": "Tentukan bilangan enam angka n yang memenuhi (i) n adalah bilangan kuadrat sempurna, (ii) bilangan dibentuk dengan tiga angka terakhir n lebih satu dari tiga angka pertama n. (Sebagai ilustrasi n terlihat seperti 123124 tetapi itu bukan bilangan kuadrat)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span><span>Gini,,,<br><br>Misalkan tiga angka pertama n adalah a, maka n = 1000a + a + 1 = m^<br>m^ \u2212 1 = 1001a = 7 \u22c5 11 \u22c5 13 \u22c5 a<br>100000 \u2264 m^ \u2264 999999<br>316 &lt; m &lt; 1000<br>(m + 1) (m \u2212 1) = 7 \u22c5 11 \u22c5 13 \u22c5 a<br><br>\u2022 Jika m + 1 = 143b dan m \u2212 1 = 7c dengan bc = a<br>Karena 317 &lt; m + 1 &lt; 1001 maka 2 &lt; b &lt; 7.<br>Karena m \u2212 1 = 7c maka m \u2212 1 \u2261 0 (mod 7) ----&gt; m \u2261 1 (mod 7)<br>m + 1 \u2261 2 (mod 7) ----&gt; 143b \u2261 2 (mod 7)<br>143b = 7 \u22c5 20b + 3b<br>3b \u2261 2 (mod 7)<br>Karena 2 &lt; b &lt; 7 maka nilai b yang memenuhi hanya b = 3<br>Jika b = 3 maka m = 143 \u22c5 3 \u2212 1 = 428 ----&gt; 428 \u2212 1 = 7c ----&gt; c = 61<br>a = bc = 183 ----&gt; n = 183184 = 428^<br><br>\u2022 Jika m \u2212 1 = 143b dan m + 1 = 7c dengan bc = a<br>Karena 315 &lt; m \u2212 1 &lt; 999 maka 2 &lt; b &lt; 7.<br>Karena m + 1 = 7c maka m + 1 \u2261 0 (mod 7) ----&gt; m \u2261 \u22121 (mod 7)<br>m \u2212 1 \u2261 \u22122 (mod 7) ----&gt; 143b \u2261 \u22122 (mod 7)<br>143b = 7 \u22c5 20b + 3b<br>3b \u2261 \u22122 (mod 7) ----&gt; 3b \u2261 5 (mod 7)<br>Karena 2 &lt; b &lt; 7 maka nilai b yang memenuhi hanya b = 4<br>Jika b = 4 maka m = 143 \u22c5 4 + 1 = 573",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentang-konjungsi-dik-pxx3-x0-qx-8-9lt0-dit-tentu-592",
+            "question": "Tentang konjungsi    dik : p(x)=x\u00b3-x=0 ; q(x)= 8-9&lt;0\r\ndit : tentukan nilai x agar p\u2227q bernilai benar dan bernilai salah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "di cari dulu persamaannnya mbak \"D<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-2x-5-adalah-faktor-dari-2x3-13x2px-5-tentukan-nilai-p-d-441",
+            "question": "Jika (2x-5) adalah faktor dari 2x\u00b3-13x\u00b2+px-5 tentukan nilai p dan kemudian faktorkan",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "2x-5 = 0<br>x = 5/2<br><br>masukkan nilai X ke dalam persamaan.\u00a0 <br><br><span> 2x\u00b3-13x\u00b2+px-5<br>2(5/2)\u00b3 - 13(5/2) + p(5/2)-5 = 0<br>2 (125/8) - 65/2 + 5p/2 - 5 = 0<br>62,5 - 32,5 + 2,5P - 5 = 0<br>25 + 2,5P = 0<br>2,5P = -25<br>P = -25/2,5<br>P = -10<br><br><br>Semoga membantu.<br></span><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "[tex]f(x)=2x^3-13x^2+px-5\\\\\nkarena\\ (2x-5)\\ merupakan\\ faktor\\ dari\\ f(x), maka\\\\\nf(\\frac{5}{2})=0\\\\\n2(\\frac{5}{2})^3-13(\\frac{5}{2})^2+p(\\frac{5}{2})-5=0\\\\\n\\frac{125}{4}-\\frac{325}{4}+\\frac{5p}{2}-5=0\\\\\n\\frac{125-325+10p-20}{4}=0\\\\\n-220+10p=0\\\\\np=22\\\\\\\\\nf(x)=2x^3-13x^2+22x-5\\\\\n2x^3-13x^2+22x-5=(2x-5)(2x^2-8x+2)[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "faktor-dari-688",
+            "question": "Faktor dari\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex] x^{2} +2x-48\n[/tex]<br>(x+8)(x-6)<br>x=-8 x=6<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "(X+8)(X-6)+0..<br>tu dia ....<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-sebuah-talang-air-dari-lembaran-seng-yang-lebarnya-30-c-350",
+            "question": "Diketahui sebuah talang air dari lembaran seng yang lebarnya 30 cm dengan melipat lebarnya atas 3 bagian, seperti gambar dibawah    ditanyakan : a. ukuran x ?\r\n\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0b. volume air maks yg dapat ditampung ?",
+            "attachments": [
+                "question-attachments/diketahui-sebuah-talang-air-dari-lembaran-seng-yang-lebarnya-30-c-350-1.png"
+            ],
+            "answers": [
+                {
+                    "answer": "X= 10\u00a0<br>V=\u00a0[tex] 10^{3} [/tex]=1000cm3",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-bantu-saya-ya-suku-suku-barisan-geometri-tak-hingga-ada-754",
+            "question": "Tolong bantu saya ya :)    suku-suku barisan geometri tak hingga adalah positif, jumlah u1+u2=60, dan u3+u4=15,\r\ntentukan jumlah suku barisan itu!\r\nterimakasih (pakai cara ya sobat)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]a+ar=60 \\rightarrow a(1+r)=60\\\\\nar^2+ar^3=15 \\rightarrow ar^2(1+r)=15\\\\\nr^2(a(1+r))=15\\\\\nr^2(60)=15\\\\\nr^2=\\frac{15}{60}\\\\\nr^2=\\frac{1}{4}\\\\\nr=\\frac{1}{2}\\ atau\\ r=-\\frac{1}{2}(TM,\\ karena\\ suku-sukunya\\ positif)\\\\\na(1+r)=60\\\\\na(1+\\frac{1}{2})=60\\\\\na=\\frac{60}{\\frac{3}{2}}\\\\\na=40\\\\\nS_{\\infty}=\\frac{a}{1-r}\\\\\nS_{\\infty}=\\frac{40}{1-\\frac{1}{4}}\\\\\nS_{\\infty}=\\frac{160}{3}[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-ya-disamping-adalah-denah-pekarangan-dengan-skala-1600-892",
+            "question": "Tolong ya...    disamping adalah denah pekarangan dengan skala 1:600\r\np:7cm L:3cm\r\n\r\na. brp panjang sebenarnya\r\nb.berapa lebar sebenarnya\r\nc.luas\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a.\u00a0600 x 7 = 4200 cm (0,042 km)<br>b. 600 x 2 = 1800 cm (0,018 km)<br>c. 7 x 3 = 21",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "rumus-keliling-segitiga-apa-aku-lupa-hehehe-230",
+            "question": "Rumus keliling segitiga apa ? aku lupa hehehe",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "sisi 1 + sisi 2 + sisi 3\u00a0<br>jadi hanya tinggal menjumlahkan ketiga sisinya saja :)",
+                    "attachments": []
+                },
+                {
+                    "answer": "keliling =\u00a0sisi + sisi + sisi",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

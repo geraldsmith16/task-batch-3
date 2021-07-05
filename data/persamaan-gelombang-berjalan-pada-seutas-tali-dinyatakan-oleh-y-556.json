@@ -1,0 +1,130 @@
+{
+    "question": "Persamaan gelombang berjalan pada seutas tali dinyatakan oleh y = 12 sin 5\u00a0\\pi (4x + 2t) dengan x dan y dalam cm dan t dalam sekon. tentukan :    a. arah rambat gelombang disertai dengan gambarnya\r\nb. amplitudo\r\nc. frequensi\r\nd. bilangan gelombang\r\ne.\u00a0panjang gelombang\r\nf. kecepatan gelombang",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "y =A sin (\u03c9t - kx)<br>y = A ampitudo = 12<br><br>k = 2\u03c0/lamda<br>lamda = 2\u03c0/10/\u03c0 = \u03c0^2/5 m<br><br><br>\u03c9 = 2\u03c0f<br>20/\u03c0 = 2\u03c0f<br>f = 20/ \u03c0 / 2\u03c0 = 40 /\u03c0^2 Hz<br><br>v = t/x = 20/\u03c0/10/\u03c0 = 2 m/s<br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "kecepatan-pada-ayunan-524",
+            "question": "Kecepatan pada ayunan",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "V = A w cos wt<br>V = A 2phif cos 2phif t<br>V = A 2phi f : t cos 2phi :t t",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suatu-lensa-bikonveks-jari-jari-kelengkungannya-masing-masing-10-648",
+            "question": "Suatu lensa bikonveks ,jari-jari kelengkungannya masing-masing 10 cm dan 40 cm, indeks bias kacanya nk =1,5 . Kemudian, lensa dimasukkan ke dalam minyak yang indeks biasnya n =1,2. Maka kekuatan lensanya dalam minyak ialah.... dioptri.    a. 3,125 \r\nb. 3,250\r\nc. 4,125\r\nd. 4,250\r\ne. 5,250\r\n\r\njawabnya ,tolong pakek cara,ya!!! Biar ngerti cara ngerjain soalnya juga :D",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "tiga dua lima puluh bukan<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apakah-kekekalan-momentum-linear-konsisten-dengan-hukum-kedua-dan-871",
+            "question": "Apakah kekekalan momentum linear konsisten dengan hukum kedua\r\n dan ketiga Newton?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Hukum Kedua: sebuah benda dengan massa M mengalami gaya resultan sebesar\n F akan mengalami percepatan a yang arahnya sama dengan arah gaya, dan \nbesarnya berbanding lurus terhadap F dan berbanding terbalik terhadap M.\n atau F=Ma. Bisa juga diartikan resultan gaya yang bekerja pada suatu \nbenda sama dengan turunan dari momentum linear benda tersebut terhadap \nwaktu.<br>\u00a0 <br>Hukum Ketiga: gaya aksi dan reaksi dari dua benda memiliki besar yang sama, dengan arah terbalik, dan segaris.<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-benda-panjangnya-2-meter-setelah-ditarik-oleh-gaya-30n-pan-113",
+            "question": "sebuah benda panjangnya 2 meter setelah ditarik oleh gaya 30N panjangnya menjadi 2,02 meter. Besar konstanta pegas benda tersebut adalah..",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "dik<br>panjang awal = 2 m<br>panjang akhir = 2,02 m<br>F = 30 N<br>dit :<br>k..?<br>jwb ..<br>x= panjang akhir - panjang awal = 2,02 - 2 m = 0,02 m<br><br>maka k = F/x = 30 N / 0,02 m = 1500 N/m",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pada-rangkaian-seri-pegas-k130nm-dan-k220nm-massanya-3kg-b-674",
+            "question": "Pada rangkaian seri pegas, k1=30N/m dan k2=20N/m, massanya 3kg. Berapa ktotal?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1/Ks=1/K1+1/K2<br>\u00a0\u00a0 \u00a0 \u00a0 =1/30 + 1/20<br>\u00a01/Ks=10/120<br>\u00a0\u00a0 \u00a0 Ks=120/10=12<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "kenapa-energi-potensial-pada-listrik-statis-skalar-ttapi-medan-da-869",
+            "question": "Kenapa energi potensial pada listrik statis skalar ttapi medan dan gaya listrik vektor?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "karena energi memiliki nilai saja\u00a0tidak memiliki arah maka merupakan\u00a0vektor<br>medan dan gaya listrik memiliki nilai dan\u00a0arah yaitu muatan + ke - sehinnga merupakan besaran skalar",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-truk-bermassa-7500-kg-yang-bergerak-dengan-kecepatan-5-ms-402",
+            "question": "sebuah truk bermassa 7500 kg yang bergerak dengan kecepatan 5 m/s ditabrak mobil lain yang bermassa 15000 kg dengan keceptan 20 m/s.kedua kendaraan rjusak berat dan menjadi satu. kelajuan kedua mobil rusak itu adalah........",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "m1.v1 + m2.v2 = (m1+m2) V<br>7500.5 + 15000.20 = (7500+15000) V<br>37500 + 300000 = 22500 V<br>337500 = 22500 V<br>V= 337500 : 22500<br>V= 15 m/s<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "besarnya-tegangan-yang-dilakukan-pada-sebuah-batang-adalah-2x106-688",
+            "question": "Besarnya tegangan yang dilakukan pada sebuah batang adalah 2x10^6 N/m^2. jika panjang batang adalah 4 meter dan modulus young elastisitasnya 2,5x10^8 N/m^2, maka pertambahan panjang batang adalah.... A. 0,8 cm B. 1,6 cm C. 3,2 cm D. 5,0 cm E. 6,4 cm \u00a0 dengan pembahasannya \u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "modulus young = stres /strain<br>2,5 . 10 ^8 N/m^2 = 2 . 10^6 N/m^2 . strain<br>2,5 . 10^ 8 N/m^2 / 2. 10^6 N/m^2 = strain<br>1,25 . 10^2 = strain<br><br>strain = pertambhan panjang / panjang awal<br>1,25 . 10^2 = pertambahn panjang / 4<br>1,25 .10^2 / 4 = pertambahn panjang<br>125 /4 = pertambahan panjang<br>31,25 m = pertambahn panjang<br>saya dapatnya gitu &gt;_&lt;",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-momen-gaya-1-nm-dikerjakan-pada-roda-yang-mula-mula-diam-667",
+            "question": "Sebuah momen gaya 1 Nm dikerjakan pada roda yang mula-mula diam. momentum sudut roda setelah 2 sekon?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1 new nton dikali 2 =3/5<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span>1 new nton dikali 2 =3/5</span><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-pada-magnet-bentuk-keping-lingkaran-bagaimana-letak-kutubnya-189",
+            "question": "Jika pada magnet bentuk keping lingkaran bagaimana letak kutubnya? \u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Sama saja. Kan bentuknya lingkaran, berarti lingkaran itu dibagi dua sisi. Menjadi dua bangun setengah lingkaran. Yang atasnya kutub utara dan yang bawahnya kutub selatan. Okay ? @Liwed",
+                    "attachments": []
+                },
+                {
+                    "answer": "setau aku g beda dah.. sma aj..?",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

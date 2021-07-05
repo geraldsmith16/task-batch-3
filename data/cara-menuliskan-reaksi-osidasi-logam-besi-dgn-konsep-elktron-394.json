@@ -1,0 +1,138 @@
+{
+    "question": "Cara menuliskan reaksi osidasi logam besi dgn konsep elktron",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "caranya kalo oksidasi itu adalah bertambahnya elektron dalam suatu reaksi contohnya fe2+ jadi fe3+<br>",
+            "attachments": []
+        },
+        {
+            "answer": "begini,<br>oksidasi menurut konsep elektron itu adalah dengan melepas elektron,<br>cara paling mudah mengingat reaksi oksidasi/reduksi menurut konsep elektron\u00a0 adalah<br>reaksi oksidasi = elektron ada di kanan tanda panah<br>reaksi reduksi = elektron ada di kiri tanda panah<br><br>untuk reaksi oksidasi besi ada 2 (karena besi memilki 2 biloks)<br>Fe\u00a0 ---&gt; Fe^3+\u00a0  +\u00a0  3e<br>Fe\u00a0 ---&gt; Fe^2+\u00a0  +\u00a0 2e<br><br>^ dibaca pangkat :)<br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "50-ml-larutan-koh-00025-ditambahkan-air-hingga-voulme-larutan-20-821",
+            "question": "50 ml larutan KOH 0,0025 ditambahkan air hingga voulme larutan 200 mL tentukan pH setelah diencerkan",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "identifikasikan zatnya asam atau basa ,kuat atau lemah?<br>disini KOH termasuk basa kuat dengan valensi basa (Vb) = 1<br>50 ml adalah V1 jika ditambah 200 ml air maka V2 = 250 mL<br><br>nah gunakan <br>M1 V1 = M2 V2<br>0,025 x 50 = M2 x 250<br>M2 = 5 x 10^-3\u00a0 ....................... ^ dibaca pangkat ya :)<br><br>setelah ketemu M2 kita cari OH- nya<br>[OH-] = Mb x Vb = 5 x 10^-3 x 1 = 5 x 10^-3<br><br>pOH = - log 5 x 10^-3 = 3 - log5<br>pH = 14 - (3-log5) = 11 + log 5<br><br>tandai sebagai jawab terbaik jika iya :)<br>semoga bermanfaat :)<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "50 ml . 0,0025 = 200 ml . M2<br>M2 = 200. 0,0025 / 50 = 5/50 = 0,1<br><br>maka ph nya\u00a0<br>[OH-] = M.n = 0,1 .1 = 0,1<br>p[OH-] = - log 1. 10 ^-1 = 1<br>ph = 14 -1 = 13 :)",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "terdapat-4-struktur-dengan-rumus-molekul-c4h9cl-satu-diantaranya-504",
+            "question": "Terdapat 4 struktur dengan rumus    molekul C4H9Cl, satu diantaranya memiliki bentuk yang optis aktif.\r\n\u00a0a.\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\r\nTanpa menuliskan struktur C4H9Cl yang optis\r\n aktif, tentukan 3 struktur isomer yang lainya.\r\n\r\n\r\nb.\u00a0\u00a0\u00a0\u00a0\u00a0\r\nJika anda mampu menggambarkan struktur molekul\r\n yang optis aktif diantara 3 struktur yang mungkin, gambarkan senyawa optis\r\n aktif tersebut beserta pasangan enansiomernya. \r\n\r\nc.\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\r\nSetiap isomer dari senyawa ini direaksikan\r\n dengan OH- untuk mengeliminasi molekul HCl. Tuliskan nama dan struktur senyawa\r\n hasil reaksi eliminasi tersebut.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a.<br>1-klorobutna<br>2-klorobutana<br>2-koloro-2-metilpropana<br><br>b.isomer optis terjadi pada senyawa yang memiliki atom C kiral (atom C yang mengikat 4 gugus yang berbeda.<br>contoh dari senyawa di atas yang memiliki isomer optis adalah<br>2 - klorobutana<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 CH3<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 I<br>C2H5 - C* - Cl\u00a0 \u00a0  (C* =atom C kiral krna mengikat 4 gugus berbeda H, CH3, C2H5, Cl)<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 I<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 H<br>c.<br>C4H9Cl + OH^-\u00a0 \u00a0 \u00a0 ---&gt; C4H9OH (butanol) + Cl^- <br><br>(^ dibaca pangkat)<br><br><br>semoga dapat membantu :)<br>beri label terbaik ya :D<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "hitunglah-ph-berikut-larutan-500-ml-amonia-01-m-kb-410min5-248",
+            "question": "Hitunglah pH berikut :\r\n Larutan 500 mL amonia 0,1 M (kb = 4.10min5)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "amonia merupakan basa lemah <br>[OH\u207b] = \u221a(Kb . M) <br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 = \u221a(4 . 10\u207b\u2075 . 0,1) = 2 . 10\u207b\u00b3 <br>pOH = - log (2.10\u207b\u00b3)<br>\u00a0\u00a0 \u00a0 \u00a0 = 3 - log 2<br>pH = 14 - pOH <br>pH = 14 - (3 - log2) <br>pH = 11 + log2 <br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pada-suhup-dan-tekanant-40-cm3-gs-p2-tetap-habis-bereaksi-100-611",
+            "question": "pada suhu(P) dan tekanan(T) 40 cm3 gs P2 tetap habis bereaksi 100 cm3 gas O2 menghasilkan 40 cm3 gas PxOy , maka tentukan harga X dan Y dan tentukan rumus molekul dan namanya ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "sama dengan soal unsur Nitrogen dan Oksigen yang sebelumnya kamu tanyakan<br>\"perbandingan volume = perbandingan koefisien\"<br>P2\u00a0  +\u00a0  O2\u00a0  ----&gt; PxOy<br>40......100........40<br>2.........5............2<br>\u00a0<br>maka reaksi di atas menjadi<br>2P2\u00a0 +\u00a0 5O2\u00a0 ---&gt; 2PxOy<br>jumlah atom pada ruas kanan harus sama dengan jumlah atom pada ruas kiri<br>P<br>4 = 2x maka x = 2<br>O<br>10 = 2y maka y = 5<br><br>jadi rumus posfor oksida di atas adalah P2O5 :)<br><br>jika jawaban saya terbaik kasih label terbaik ya :)<br>makasih :)<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "hitunglah-massa-zat-terlarut-yang-harus-di-timbang-untuk-membuat-697",
+            "question": "Hitunglah massa zat terlarut yang harus di timbang untuk membuat    a.\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\r\n650 ml NH4NO3 0,35\r\n M",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>ini sama dengan yang BaCl2 1,2 M pada pertanyaanmu tadi :)<br>tetap gunakan rumus<br>M= gram/ Mr x 1000/ Volume (mL)<br><br>M NH4NO3\u00a0 0,35 M<br>Mr NH4NO3 = 80<br>Volume = 650 ML<br><br>maka<br><br>0,35 = gram/80\u00a0 x 1000/650<br>gram = 18,2 gram<br><br>semoga bisa membantu :)<br>beri label terbaik ya :D</span><br><br>tadi dari moderator kan sudah memberika solusi, apabila memberikan label jawaban terbaik 25% poin akan dikembalikan ke anda :)<br>mohon bantuannya bro :)<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span>Rumus = gram x 1000/volume<br><br>*gram NH4NO3\u00a0 0,35 M &amp; 80<br>*Volume = 650 ML<br><br>0,35 = gram/80\u00a0 x 1000/650<br>gram = 0,35/80 x 1000/650<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 =18,2 gram</span><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "hitunglah-ph-campuran-dari-100-ml-larutan-koh-03-m-dengan-100-ml-874",
+            "question": "Hitunglah pH campuran dari 100 mL larutan KOH 0,3 M dengan 100 mL larutan HI 0,2 M\u00a0!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<u></u>M =\u00a0mol\u00a0<u></u>: Volume ( Satuan tidak perlu diganti karena ini perbandingan )<br>M = 10 mmol : 200 ml = 0,05 M.<br>Konsentrasi asam = a x M ( a adalah valensi asam )<br>\u21d4 1 X 0,05 = 0,05<br>PH \u00a0= \u00a0-\u00a0Log Konsentrasi Asam<br>PH \u00a0= - Log 0,05<br>PH \u00a0= 2 - log 5",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "hitunglah-massa-zat-terlarut-yang-harus-di-timbang-untuk-membuat-139",
+            "question": "Hitunglah massa zat terlarut yang harus di timbang untuk    membuat\r\na.\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\r\n 350 ml CuSO4 0,4\r\n M",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "ini sama dengan yang BaCl2 1,2 M pada pertanyaanmu tadi :)<br>tetap gunakan rumus<br>M= gram/ Mr x 1000/ Volume (mL)<br><br>M CuSO4\u00a0 0,4 M<br>Mr CuSO4 = 159,5<br>Volume =350 ML<br><br>maka<br><br>0,4 = gram/159,5\u00a0 x 1000/350<br>gram = 22,33 gram<br><br>semoga bisa membantu :)<br>beri label terbaik ya :D<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "fenol-merupakan-suatu-senyawa-organik-yang-bersifat-asam-namun-t-302",
+            "question": "Fenol merupakan suatu senyawa    organik yang bersifat asam, namun tidak larut dalam air. Kelarutan yang kecil\r\n ini dapat dijelaskan menggunakan penjelasan molekuler yang merujuk dari\r\n struktur molekulnya. Untuk membuat fenol dari benzena diperlukan berbagai\r\n tahapan yang sangat sederhana. Pertama, benzena dinitrasi menggunakan HNO3\r\n yang terlarut dalam H2SO4. Berikutnya ialah\r\n meredukasi nitrobenzena (X) yang terbentuk sehingga diperoleh anilina (Y). Baru\r\n tahap akhir melibatkan reaksi pembentukan benzenadiazonium (Z). Kettika Z\r\n direaksikan dengan suatu asam mineral encer, maka akan diperoleh fenol. Tuliskan\r\n struktur X, Y, dan Z dalam skema reaksi pembentukan fenol tersebut",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "silahkan liat gambar berikut<br><br>",
+                    "attachments": [
+                        "answer-attachments/fenol-merupakan-suatu-senyawa-organik-yang-bersifat-asam-namun-t-302-1.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "1-berapa-gram-massa-dan-banyaknya-atommolekul-dalam-zat-zat-140",
+            "question": "1.) Berapa gram massa dan banyaknya atom/molekul dalam zat-zat :    \u00a00,1 mol MgSO\u2084.7H\u2082O\r\n\r\n2.) 3,612 x 10\u00b2\u00b9 molekul HCIO\u2084 = ... mol\u00a0HCIO\u2084 = ... g\u00a0HCIO\u2084",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>1.) Berapa gram massa dan banyaknya atom/molekul dalam zat-zat :<br>\u00a00,1 mol MgSO\u2084.7H\u2082O<br>cari Mr -nya = 24 + 32 + 16x4 + 7 x18 = 246<br>massa = mol x Mr = 0,1 x 246 = 24,6 gram<br>banyak molekul = mol x ketetapan avogadro = 0,1 x 6,02 x 10^23 = 6,02 x 10^22 molekul<br><br><br>2.) 3,612 x 10\u00b2\u00b9 molekul HCIO\u2084 <br>mol\u00a0HCIO\u2084 = banyak molekul / ketetapan avogadro <br>= 3,612 x 10^21 / 6,02 x 10^23<br>= 0,6 x 10^-2<br>=0,006 mol<br><br>g\u00a0HCIO\u2084</span> = mol x Mr<br>=0,006 x (1 + 35,5 + 64)<br>=0,603 gram<br><br><br>semoga bisa membantu :)<br>berika label terbaik ya :)<br>25 % poin kamu akan kembali :D<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-struktur-lewis-so2-oh-tolong-dibuat-gambar-serta-424",
+            "question": "Tentukan struktur lewis SO2 + OH- ??? tolong dibuat gambar serta penjelasan tolong ya\u00a0 ???",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "SO2 +\u00a0 OH^-<br>\u00a0<br>S punya nomor atom 16 berarti elektron valensi 6 dan O punya nomor atom 8 dan elektron valensi juga enam. sehingga kedua unsur antara S dan O sama membutuhkan 2 elektron lagi. sedangkan untuk H punya elektron valensi 1 maka butuh 1 elektron lagi. berikut struktur Lewisnya<br><br><br><br><br>\u00a0\u00a0 \u00a0 \u00a0 <br><br>",
+                    "attachments": [
+                        "answer-attachments/tentukan-struktur-lewis-so2-oh-tolong-dibuat-gambar-serta-424-1.docx"
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,144 @@
+{
+    "question": "Penerapan sudut pada bidang fisika dan masalah nyata",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "<span>kecepatan rata rata\u00a0<br>kecepatan sesaat. . . . \u00a0. <br></span><br>",
+            "attachments": []
+        },
+        {
+            "answer": "kecepatan rata-rata, <br>kecepatan sesaat",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "b-x-x-lt-10-x-eur-bilangan-prima-837",
+            "question": "B = { x | x &lt; 10 ; x \u20ac bilangan prima }",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "2,3,5,7<br>itu adalah angka prima yang kurang dari 10",
+                    "attachments": []
+                },
+                {
+                    "answer": "B = {x l x &lt; 10 , x elemen bilangan prima}<br>Jawab :<br>B = { 2,3,5,7}<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apabila-p42-dan-a-sudut-yang-dibentuk-oleh-sisi-op-dengan-su-434",
+            "question": "apabila P(4,2) dan\u00a0\u03b1 sudut yang dibentuk oleh sisi OP dengan sumbu Y, tentukan nilai dari sin\u03b1, cos\u03b1, tan\u03b1, sec\u03b1,cosec\u03b1 !",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "harap dikoreksi apabila terdapat kesalahan<br>silakan dipelajari",
+                    "attachments": [
+                        "answer-attachments/apabila-p42-dan-a-sudut-yang-dibentuk-oleh-sisi-op-dengan-su-434-1.png"
+                    ]
+                },
+                {
+                    "answer": "diket = OP (4,2) dengan a=4 dan b = 2. cari c/sisi miringnya = \u221a16 + \u221a4 = \u221a20 = 2\u221a5.<br>sin \u03b1 = b/c = 2/2\u221a5 = 4\u221a5/20= 1/5 \u221a5<br>cos \u03b1 =\u00a0 a/c = 4/2\u221a5= 8\u221a5/20=2\u221a5/5<br>tan= b/ a = 2/4 = 1/2<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apa-konsep-dari-mencari-persamaan-kuadrat-jika-diketahui-akar-aka-731",
+            "question": "Apa konsep dari mencari persamaan kuadrat jika diketahui akar-akarnya ? Dan tolong berikan contohnya    Tolong dibantu\r\n\r\nTerima kasih",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "rumus nya.. x^2 (alfa+beta)x + alfa.beta...<br><br>alfa &amp; beta itu akar\"nya..jd kita hrs cr dlu alfa+beta dan beta +alfa..<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-b-dan-c-dan-determinan-dari-matriks-bc-adalah-k-885",
+            "question": "diketahui B =\u00a0, dan C = dan determinan dari matriks B.C adalah K. jika garis 2x - y = 5 dan x + y = 1 berpotongan di titik A, maka persamaan garis melalui A dan bergradien K adalah...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "det B = -2<br>det C = -6<br>K = det B . det C = -2 . -6 = 12<br><br>eliminasi y<br><span>2x - y = 5<br>x + y = 1<br></span>3x = 6<br>x = 2<br><br>subs ke x + y = 1<br>2 + y = 1<br>y = -1<br><br>(x, y) = (2, -1)<br>persamaan baru dengan gradien 12<br>y = 12x - 25",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "gradien-garis-dri-persamaan-3x-6y-5-yaitu-133",
+            "question": "Gradien garis dri persamaan 3x-6y=-5 yaitu ....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kelas : 8<br>Mapel : Matematika<br>Kategori :\u00a0Bab 3 - Persamaan Garis<br>Kata Kunci : persamaan garis, gradien<br>Kode : 8.2.3 [Kelas 8 Matematika Bab 3 - Persamaan Garis]<br><br>Pembahasan :<br><p>Persamaan garis lurus adalah persamaan berbentuk\u00a0<br>ax + by = c<br>dengan a, b, dan c merupakan bilangan-bilangan real, a\u00a0\u2260 0 atau b\u00a0\u2260 0.</p><br>Gradien adalah nilai yang menyatakan kecondongan suatu garis yang dinotasikan dengan m.<br><br>Garis dengan persamaan ax + by = c memiliki gradien\u00a0<br>m =\u00a0[tex]- \\frac{a}{b} [/tex]<br><br>Garis yang melalui titik P(x\u2081, y\u2081) dan Q(x\u2082, y\u2082) memiliki gradien\u00a0<br>m =\u00a0[tex] \\frac{y_2-y_1}{x_2-x_1} [/tex]<br><br>Mari kita lihat soal tersebut.<br>Tentukan gradien garis dengan persamaan 3x - 6y = -5!<br><br>Jawab :<br>Diketahui persamaan<br>3x - 6y = -5<br>\u21d4 -6y = -5 - 3x<br>\u21d4 y =\u00a0[tex] \\frac{5}{-6} [/tex] -\u00a0[tex] \\frac{3}{-6} [/tex]x<br>\u21d4 y = -[tex] \\frac{5}{6} [/tex] + [tex] \\frac{3}{6} [/tex]x<br>\u21d4 y = -[tex] \\frac{5}{6} [/tex] + [tex] \\frac{1}{2} [/tex]x<br>\u21d4 m = [tex] \\frac{1}{2} [/tex]<br><br>Jadi, persamaan 3x - 6y = -5 memiliki gradien [tex] \\frac{1}{2} [/tex].<br><br>Soal lain untuk belajar :\u00a0<br>1.\u00a0https://brainly.co.id/tugas/12602883<br>2.\u00a0https://brainly.co.id/tugas/1686609<br>3.\u00a0https://brainly.co.id/tugas/130401<br>4.\u00a0https://brainly.co.id/tugas/1398763<br>5.\u00a0https://brainly.co.id/tugas/3136258<br>6.\u00a0https://brainly.co.id/tugas/12689804<br><br>Semangat!<br><br>Stop Copy Paste!",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "berapa-hasil-dari-557",
+            "question": "Berapa hasil dari\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]2^{2014}.2^{15}=2^{2014+15}=2^{2029}[/tex]",
+                    "attachments": []
+                },
+                {
+                    "answer": "[tex] 2^{2014+15} =  2^{2029} [/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-persamaan-bidang-yang-melalui-titik-titik-p-321-557",
+            "question": "Tentukan persamaan bidang yang melalui\u00a0titik- titik\u00a0P ( 3,2,1,); Q ( 4,1,5 ); R ( 2,4,3 )",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "3x + 2y + z = 0\u00a0 \u00a0 <br>4x + y + 5z = 0<br>2x + 4y + 3z = 0<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-diketahui-gxx2-6x-hx7-3x-a-g0hx-b-h0g-254",
+            "question": "Jika diketahui g(x)=x\u00b2-6x, h(x)=7-3x\r\na. (g\u2080h)(x) =\r\nb. (h\u2080g)(x) =",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "g\u00a0o\u00a0h(x) = 49 - 42x +9x^2 - 6(7 - 3x)<br>=\u00a049 - 42x +9x^2 - 42 + 18x<br>=\u00a09x^2 - 24x + 7<br><br>h o g(x) = 7 - 3(x^2 - 6x)<br>= 7 - 3x^2 + 18x<br>= -3x^2 +18x +7",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span>g o h(x)<br>g (7-3x)<br>(7 - 3x)^2 - 6(7-3x)<br>49 - 42 + 9x^2 - 42 + 18x<br>9x^2 - 24x +7</span>\n    <span>\n                    \n                                    l<br></span> <span>h o g(x)<br>h (x^2 - 6x)<br>7 - 3(x^2 - 6x)<br>7 - 3x^2 + 18x<br>-3x^2 + 18x + 7</span><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "faktor2-linear-lain-dari-px-x4-4x3-9x216x20-429",
+            "question": "Faktor2 linear lain dari p(x) =\u00a0x^{4}-4x^{3}-9x^{2}+16x+20",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "dengan menggunakan cara horner diperoleh :<br>(x+1)(x+2)(x-2)(x-5)",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "3-bil-membentuk-barisan-aritmatika-jika-suku-ke-3-ditambah-3-dan-922",
+            "question": "3 bil membentuk barisan aritmatika jika suku ke 3 ditambah 3 dan suku ke 2 dikurangi 1, diperoleh barisan geometri, jika suku ke 3 barisan aritmatika ditambah 8 maka hasilnya menjadi 5 kali suku pertama. tentukan beda dari barisan aritmatika tersebut",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a-b,a,a+b ...... \u00a0 BA<br>a-b,a-1,a+b+3 ........ \u00a0 \u00a0BG \u00a0 \u00a0\u00a0 maka (a-1)^2= (a-b)(a+b+8) \u00a0 \u00a0persamaan 1<br>a+b+8=5(a-b)&lt;=&gt; 8= 4a - 6b &lt;=&gt; 4 = 2a - 3b...pers 2<br>pers 1 dan 2 \u00a0didapat 4a^2-43a-11=0 didapat a= - 1/4 atau a= 11<br>a= 11 maka b = 6<br>a = - 1/4 maka b = - 3/2",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,138 @@
+{
+    "question": "Torsi yang bekerja pada silinder pejal yang massanya 0,5 kg dengan jari-jari 12 cm adalah 3,6 x 10-2. Tentukan percepatan sudut yang dialami silinder tersebut?",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "silinder pejal (I =[tex] \\frac{1}{2} [/tex] m.r\u00b2 )<br>m = 0,5 kg<br>r= 12cm =&gt; 0,12 m<br>I = 1/2 x 0,5 x (0,12)\u00b2<br>=3,6x10\u207b\u00b3<br>torsi = 3,6x10\u207b\u00b2<br>Torsi = I.\u03b1<br>\u03b1 = torsi\u00f7I<br>= 3,6x10\u207b\u00b2\u00f73,6x10\u207b\u00b3<br><strong>= 10 rad/s\u00b2</strong>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "sebuah-transformator-digunakan-untuk-menurunkan-tegangan-dari-220-887",
+            "question": "sebuah transformator digunakan untuk menurunkan tegangan dari 220V menjadi 11V.jika arus yang mengalir pada lilitan primer adalah 0,4 A dan tidak ada daya yang hilang,maka arus yang mengalir pada lilitan sekunder adalah,,",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Dik. Vp=220, Vs=11, Ip= 0,4<br>dit. Ip=...?<br>Vp/Vs = Is/Ip<br>Is=Vp . Ip /Vs<br>Is= 220 . (0,4) / 11<br>Is= 8 A<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bentuk-energi-dan-sumbernya-771",
+            "question": "Bentuk energi dan sumbernya",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "cahaya: matahari, api<br>panas: matahari, api<br>energi kinetik: gaya gravitasi bumi<br>listrik: air, angin, uap<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "sumbernya= sumber energi terbarukan dan tak terbarukan",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "seorang-guru-fisika-memberikan-suatu-teka-teki-terhadap-siswanya-447",
+            "question": "seorang guru fisika memberikan suatu teka-teki terhadap siswanya dengan cara meletakkan sebuah koiin di atas selembar kertas pada sebuah gelas. bagaimanakah cara memasukkan koin ke dlam gelas dengan sekali langkah? konsep fisika apa yang sesuai dengan cara kamu pakai?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "dengan rumus newton 1<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Seperinya menggunakan \" rumus newton 1 \"\u00a0 \u00a0 ....<br><br>mungkin\u00a0 (??)<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "massa-seorang-astronot-dibumi-60kg-berat-astronot-tersebut-dibul-842",
+            "question": "Massa seorang astronot dibumi 60kg.    Berat astronot tersebut dibulan adalaah......\r\n Kasihtau caranya juga yaa :D rumusrumusnyaa",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "w\u00a0=\u00a0m\u00a0x\u00a0g<br>\u00a0 \u00a0= 60kg x 10m/[tex] s^{2}[/tex]<br>\u00a0 \u00a0= 600N",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "mengapa-kita-sulit-mendapatkan-gerak-benda-disekitar-kita-berdasa-262",
+            "question": "Mengapa kita sulit mendapatkan gerak benda disekitar kita berdasar hukum 1 newton?\r\n \u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "pada hukum newton satu dikatakan tiap benda akan memiliki kecepatan konstan atau percepatan konstan ,jika tidak ada gaya yang nilainya tidak 0 yg\u00a0bekerja pada benda itu,<br>sehingga benda di sekitar kita tidak aka dpt bergerak sendiri dong :)<br>harus ada gaya yang menggerak kannya :)<br>dimana pergerakan benda juga dipengaruhi oleh massa benda dan gaya yang diberikan :)",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-mengapa-kolam-renang-berwarna-biru-2-mengapa-bulan-ke-541",
+            "question": "1. mengapa kolam renang berwarna\u00a0biru???????    2. mengapa bulan ketika kita berjalan ikut berjalan dan kita berhenti ikut berhenti?????",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1. karena adannya peristiwa pemantulan cahaya di dalam air sehingga warna kolam terlihat biru berbeda halnya saat kita melihat kolam renang pada saat malam hari tanpa cahaya maka kolam tidak akan nampak berwarna biru<br>2. karena adanya relativitas Albert Einsten\u00a0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "perkiraan-metode-pemisahan-campuran-yang-dapat-dilakukan-untuk-me-895",
+            "question": "perkiraan metode pemisahan campuran yang dapat dilakukan untuk memperoleh kembali silikon murni yang telah dibuat menjadi chip komputer\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Dengan cara Ekstraksi pemberian silikon murni encer",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "saya-ingin-bertanya-kalo-merumuskan-kalor-apa-y-yang-lengkap-nya-627",
+            "question": "Saya ingin bertanya kalo merumuskan kalor apa y yang lengkap nya\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "tergantung kalornya dibentuk dari proses apa\u00a0dulu<br>kalau proses peleburan<br>Q = m.l<br>kalau dalam proses yg ada perubahan suhunya<br>Q = m.c.\u0394t<br>kalau proses penguapan<br>Q = m.u<br><br>Ket:<br>Q = jumlah kalor<br>m = massa benda<br>l = kalor lebur<br>c = jenis kalor<br>\u0394t = perubahan suhu (T2-T1)<br>u = kalor uap",
+                    "attachments": []
+                },
+                {
+                    "answer": "jika yang\u00a0terjadi perubahan wujud.\u00a0<br>Q = m . L<br><br>m = massa<br>L = Kalor laten\u00a0<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebatang-logam-besi-panjangnya-5000-cm-pada-suhu-10-celsius-dan-882",
+            "question": "sebatang logam besi panjangnya 50,00 cm pada suhu 10 Celsius dan 50,05 cm pada suhu 110 Celcius. Maka koefisien muai panjang baja itu adalah...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "\u0394L = Lo x \u03b1 x \u0394T<br>(50,05 - 50) cm = 50 cm x \u03b1 x (110 - 10)<br>0,05 = 50 x \u03b1 x 100<br>0,05 = 5000 x \u03b1<br>0,00001 = \u03b1",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-mangga-dengan-massa-1-kg-pada-ketinggian-8-meter-di-atas-t-834",
+            "question": "sebuah mangga dengan massa 1 kg pada ketinggian 8 meter di atas tanah dgn gravitasi 10m/s kuadrat\u00a0kemudian mangga itu jatuh ke tanah,\u00a0berapa energi potensial mangga setelah sampai ke tanah?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Ep = m.g.h<br>Ep = 1kg.10m/s2.8m<br>\u00a0 \u00a0 = 80 joule (kg.m/s2)",
+                    "attachments": []
+                },
+                {
+                    "answer": "ep=mgh \u00a0m=1kg,h=8m,g=10m/skuadrat<br>ep=1kg*8m*10m/s<br>=80 joule\u00a0",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

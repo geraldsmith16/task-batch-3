@@ -1,0 +1,134 @@
+{
+    "question": "6 pangkat 3 \u00d7 8 pangkat 4 \u00d7 9 pangkat 2 \u00f7 3 pangkat 5 \u00d7 4 pangkat 4 \u00d7 2 pangkat 2",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "(6^3 \u00d7 8^4 \u00d7 9^2) \u00f7 (3^5 \u00d7 4^4 \u00d7 2<span>^2)<br>=<br></span>((2x3)^3 \u00d7 (2x4)^4 \u00d7 (3x3)^2) \u00f7 (3^5 \u00d7 4^4 \u00d7 2<span>^2)<br></span>=<br>(2^3 x 3^3 \u00d7 2^4 x 4^4 \u00d7 3^2x3^2) \u00f7 (3^5 \u00d7 4^4 \u00d7 2<span>^2)<br></span>=<br>(2^7 x 3^7 x 4^4) \u00f7 (3^5 \u00d7 4^4 \u00d7 2^2)<br>=<br>3^2 x 2^5<br>=<br>9 x 32<br>=<br>288<br><br>ingat setelah simbol \u00f7 angkanya dibawah per...<br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "contoh-cotoh-himpunan-sama-dan-contoh-contoh-himpuna-ekuivalen-905",
+            "question": "Contoh cotoh himpunan sama dan contoh contoh himpuna ekuivalen",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Dua himpunan dikatakan Ekuivalen apabila jumlah anggota kedua himpunan itu sama tetapi bendanya ada yang tidak sama<br>Contoh : P = { a, I, u, e, o } ; Q = { 1, 2, 3, 4, 5 }<br>Kedua\n himpunan P dan <br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bisa-bantuin-saya-mencari-rumus-mencari-sudut-dalam-jarum-jam-863",
+            "question": "Bisa bantuin saya mencari rumus mencari sudut dalam jarum jam",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>am panjang pada jam.<br>\nCoba perhatikan penjelasan berikut :<br>\n1. Dalam 1 jam pergerakan jarum jam pendek adalah :<br>\n360 derajat : 12 = 30 derajat per jam<br>\n2. Dalam 1 jam atau 60 menit pergerakan jarum jam panjang adalah :<br>\n360 derjat : 60 = 6 derajat</span>\n<span>Sehingga sudut yang dibentuk antara jarum pendek dan jarum panjang pada pukul 02.30<br><br></span><span>1. Pergerakan jarum Pendek :<br>\n2.30/60 jam x 30 derajat = (2\u00d730) derajat + (30/60 x 60 ) derajat<br>\n= (60 + 15) derajat = 75 derajat<br>\n2. Pergerakan jarum panjang :<br>\n30 x 6 derajat = 180 derajat</span>\n<span>Jadi sudut yang dibentuk adalah = ( sudut terbesar dikurangi sudut terkecil)<br>\n= (180 \u2013 75) derajat = 105 derajat</span>",
+                    "attachments": []
+                },
+                {
+                    "answer": "kalau saya: setiap bertambah 5 menit itu sama dengan bertambah 30 derajat<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1sebuah-kapal-berlayar-dari-pelabuhan-a-dengan-arah-50-sejauh-872",
+            "question": "1.Sebuah kapal berlayar dari pelabuhan A dengan arah 50\u00b0 sejauh 40 mil ke tempat B.Dari tempat B kapal tersebut berlayar ke arah 140\u00b0 sejauh 9 mil ke pelabuhan C.Tentukan Jarak anatara pelabuhan A dan pelabuhan C.?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "gambar segitiganya<br>nanti siku-siku di B<br><br>jadi<br>[tex]AC^2=AB^2+BC^2\\\\\nAC^2=40^2+9^2\\\\\nAC^2=1600+81\\\\\nAC^2=1681\\\\\nAC= \\sqrt{1681}\\\\\nAC=41 [/tex]<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-nilai-x-jika-2x-1-2x-2-2x-32x-5-961",
+            "question": "Tentukan nilai x, jika (2x + 1) + (2x + 2) + (2x + 3)+...+(2x + 50) = 4275. Tolong dijawab yaa, pleaseee",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "jawabannya 30<br><br>Sn = n/2 { a +Un } = 4275<br>&gt; 50/2 { (2x+1) + (2x+50) } = 4275<br>&gt; 25 { 4x + 51 } = 4275<br>&gt; 100x + 1275 = 4275<br>&gt;100x = 4275 - 1275<br>&gt;100x = 3000<br>&gt;x = 30<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1toko-buku-sedang-memberikan-diskon-untuk-para-pelanggan-nyahar-359",
+            "question": "1.toko buku sedang memberikan diskon untuk para pelanggan nya.harga buku A adalah rp.20.000,00/buah dan buku B adalah rp.15.000,00/buah .jika setiap buku Adi berikan diskon 5% dan buku B sebesar 20%,maka berapa uang yg harus di keluarkan jika membeli 3 uku A dan 2 buku B..??    2.Masayu membeli baju seharga rp.84.000,00 dan celana panjang seharga rp.120.000,00.jika dia mendapat diskon 5% untuk bajunya dan 18% untuk celana panjang nya,maka berapa uang yang harus dikeluarkan masayu...??\r\ntolong dengan cara menjawab yaa",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1. A = 85/100 x 60.000 = 51.000<br>B = 60/100 x 30.000 = 18.000<br>Total : 51.000<br><br>2. Baju = 95/100 x 84.000 = 79.800<br>Celana = 82/100 x 120.000 = 98.400<br>Total : Rp178.200,00<br><br>Sorry kalo salah<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "1. buku A = 20.000*3=60.000<br>\u00a0 \u00a0 60.000*5% =3000<br>\u00a0 \u00a0 harga setelah di diskon 60.000-3000=57.000<br>\u00a0 \u00a0 buku B=15.000*2=30.000<br>\u00a0 \u00a0 30.000*20%=6000<br>\u00a0 \u00a0 harga setelah didiskon 30000-6000= 24000<br><br><br>klo tdk slah",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-kakak-kakak-ya-makasih-tolong-num-108",
+            "question": "Tolong.... :)\u00a0 \u00a0 kakak - kakak ya.... makasih.... tolong :) numpuk tuggas    \u00a0\u00a0 \u00a0 1.sebuah segitiga sama kaki memiliki panjang sisi yang sama dengan 5 kali panjang sisi lainnya. agar keliling segitiga tersebut lebih besar dari 50m, berapakah panjang masing-masing segitiga tersebut ?\r\n\u00a0\u00a0 \u00a0 2.pak ketut membangun rumah di atas sebidang tanah berbentuk persegi panjang yang panjangnya 30m dan lebarnya (2y + 1)m. jika luas tanah paketut tidak lebih luas dari 150m\u00b2.\r\n\u00a0\u00a0 \u00a0 \u00a0 a.berapakah lebar tanah pak ketut yang paling besar ?\r\n\u00a0\u00a0 \u00a0 \u00a0 b.biaya untuk membangun 1m\u00b2 dibutuhkan uang empat setengah juta rupiah,berapakah biaya maksimal yang harus di sediakan pak ketut jika seluruh tanahnya di bangun ?\r\n\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 TERIMAKASIH",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1. diketahui = sisi segitiga sama kaki 5 kali lebih besar dari sisi lainnya<br>\u00a0 \u00a0 ditanya \u00a0 \u00a0= agar kelilingnya lebih besar dari 50, berapakah sisinya?<br>jawab = sisi = 5a + 5a + a &gt; 50<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a011a &gt; 50<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 11a : 11 &gt; 50 : 11<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 a = 4,6 cm<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 sisi = a = 4,6 cm<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 5a = 5 x 4,6 = 23 cm<br><br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-penyelesaian-dari-persamaan-berikut-124q-5-q51-638",
+            "question": "Tentukan penyelesaian dari persamaan berikut!!!\r\n1/2(4q-5) = q+51/4 bagaimana caranya???...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1/2(4q-5) = q+51/4<br>2q-5/2 = q+51/4<br>2q-q = 51/4 + 5/2<br>q = 51/4 +10/4<br>q = 61/4",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-partikel-berbentuk-bola-berjari-jadi-120-mm-tentukan-vo-431",
+            "question": "sebuah partikel berbentuk bola, berjari-jadi 1/20 mm. Tentukan Volume partikel tersebut dan tuliskan dalam bentuk baku",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]r=\\frac{1}{20}\\\\\nV=\\frac{4}{3} \\pi r^3\\\\\nV=\\frac{4}{3} \\pi (\\frac{1}{20})^3\\\\\nV=\\frac{4}{3} \\pi (\\frac{1}{800})\\\\\nV=\\frac{ \\pi }{600}\\\\[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "penderita-kanker-dan-jantung-dirumah-sakit-sebanyak-86-orang-kan-935",
+            "question": "Penderita kanker dan jantung dirumah sakit sebanyak 86 orang.    kanker 35 orang.\r\n15 orang menderita kanker dan jantung\r\npertanyaan:\r\n1.banyak penderita yang sakit jantung ada berapa orang ???",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]S=86 \\\\ K=35-15=20 \\\\ keduanya=15 \\\\ Jantung=86-(20+15) \\\\ =86-35 \\\\ =51[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apakah-yang-dimaksud-dengan-linear-satu-variabel-174",
+            "question": "Apakah yang dimaksud dengan linear satu variabel?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Persamaan linear satu variabel<span>\u00a0<br>adalah persamaan yang terdiri dari satu variabel dan pangkat terbesar dari variabel tersebut adalah satu.</span>",
+                    "attachments": []
+                },
+                {
+                    "answer": "kalimat terbuka yang di hubungkan dengan tanda (=) dan hanya mempunyai 1 variabel pangkat 1",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

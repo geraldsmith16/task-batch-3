@@ -1,0 +1,134 @@
+{
+    "question": "Hy semuanya pliss bantu saya mngerjkan soal ini ya....:) soallnx aku gk ngerti    Volume sebuah kerucut dinyatakan dengan rumus V=1per3  rpangkat2 t, dengan r=jari-jari alas keruct dan t=tinggi kerucut.\r\njika r= 1per2 d, dalam hal ini d=diameter alas kerucut, dinyatakan:\r\nA. V dalam , d, dan t;\r\nB.\u00a0\u00a0 t dalam V,, dan r\r\nc. d dalam , v,dan t\r\nd. t dalam  ,v, dan d",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "kalau menurut kakak sih A. V dalam phi, d, dan t<br>karena di dalam soal itu disebutkan jika r = 1/2 d, artinya kan sama dengan r pangkat 2 diameter nya.<br><br>semoga bisa membantu ^_^,,,<br>maaf kalau ada yang salah ^_^,,,",
+            "attachments": []
+        },
+        {
+            "answer": "[tex]V=\\frac{1}{3} \\pi r^2t\\\\\na.\\ V=\\frac{1}{3} \\pi (\\frac{1}{2}d)^2t\\\\\nV=\\frac{1}{12} \\pi d^2t\\\\\\\\\nb.\\ V=\\frac{1}{3} \\pi r^2t\\\\\nt=\\frac{V}{\\frac{1}{3} \\pi r^2}\\\\\nt=\\frac{3V}{\\pi r^2}\\\\\\\\\nc.\\ V=\\frac{1}{12} \\pi d^2t\\\\\nd^2=\\frac{V}{\\frac{1}{12} \\pi t}\\\\\nd=\\sqrt{\\frac{12V}{\\pi t}}\\\\\\\\\nd.\\ V=\\frac{1}{12} \\pi d^2t\\\\\nt=\\frac{V}{\\frac{1}{12} \\pi d^2}\\\\\nt=\\frac{12V}{\\pi d^2}\\\\[/tex]",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "1-jika-diameter-27-berapakah-kelilingnya-2-jika-diameter-23-476",
+            "question": "1 . Jika Diameter 27 Berapakah Kelilingnya ?    2. Jika Diameter 23 Berapakah Kelilingnya ?\r\n\r\n\r\nPOIN MAKSUDNYA APA ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1.\u00a0 k =\u00a0[tex] \\pi [/tex]\u00a0\u00d7 diameter<br>\u00a0 \u00a0 \u00a0 \u00a0= \u00a0[tex] \\frac{22}{7} [/tex] x 27<br>\u00a0 \u00a0 \u00a0 \u00a0= \u00a085<br>2. \u00a0k =\u00a0[tex] \\pi [/tex]\u00a0\u00d7 diameter<br>\u00a0 \u00a0 \u00a0 \u00a0= \u00a0[tex] \\frac{22}{7} [/tex] x 23<br>\u00a0 \u00a0 \u00a0 \u00a0= 72<br><br>itu hasil pembulatan :)",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diket-skala-110000000-jarak-pda-pta-kota-jambi-palembang-2-945",
+            "question": "Diket : skala 1:10.000.000    jarak pda pta kota Jambi - Palembang 2,4 cm\r\nsopir bis mengendarai bis dari jambi-palembag dgn kec 80km/jam\r\nsopir bis istirahat 30 menit\r\ntiba di kota palembang pukul 10.30\r\n\r\na.berapa jam bis itu di perjalanan ?\r\nb.pukul brp sopir bis berangkat dri kota jambi ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a. w = JS =1:10.000.000 x 2.4 =24000.000 cm = 240 km<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 240 / 80 = 3\u00a0 jam ( tidak dgn waktu istirahat )<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 3 jam + 30 menit = 3.30 (dgn waktu istirahat ) \u00a0  <br>\u00a0\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 <br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 <br>b.\u00a0 10.30 - 3.30<br>\u00a0\u00a0 \u00a0 pukul 7<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-u1152-dan-u1363-maka-nilai-ab-462",
+            "question": "Jika U11=52 dan U13=63, maka nilai a+b=",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "u13=u11+2b<br>63=52+2b<br>63-52=2b<br>11=2b<br>b=11/2 atau 5,5<br><br>u11=a+10b<br>52=a+10(5,5)<br>52=a+55<br>52-55=a<br>a=-3<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "rumus:\u00a0Un=a+(n-1)b<br>U11=a+(11-1)b<br>U11=a+10b<br>U13=a+(13-1)b<br>U13=a+12b<br><br>rumus eliminasi<br>a+10b=52<br><u>a+12b=63</u>\u00a0-<br>\u00a0 \u00a0 -2b=-11<br>\u00a0 \u00a0 \u00a0b=5,5<br>a+10b=52<br>a+10.5,5=52<br>a+55=52<br>a=52-55<br>a=-3<br><br>a+b<br>-3+5,5=2,5",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-mobil-memerlukan-bahan-bakar-12-liter-untuk-menempuh-jarak-612",
+            "question": "sebuah mobil memerlukan bahan bakar 12 liter untuk menempuh jarak 120 km dengan kondisi mendatar 84 km dan sisanya menanjak. pada saat menanjak bahan bakar yang diperlukan 2 kali lipat\u00a0daripada jalan mendatar. jika suatu ketika mobil tersebut menempuh jarak 312 km dengan kondisi jalan mendatar saja,maka\u00a0banyak bahan bakar yang diperlukan?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "12 L\u00a0 untuk 120 km<br>bahan bakar utk 312 km ?<br><br><u>12</u> = <u>120</u><br>x\u00a0\u00a0 = 312<br><br>120 x = 312 x 12<br>120 x = 3744<br>x = 3744 \u00f7 120<br>x = 31,2<br>maka bahan bakar yang dibutuhkan 31,2 L<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jumlah-uang-kk-dan-adik-rp180ribu-jika-uang-kk-3kali-uang-adik-t-326",
+            "question": "Jumlah uang kk dan adik rp.180ribu    jika uang kk 3kali uang adik\r\n\r\n tentukan perbandingan uang kk dan adik",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "perbandingan uang kakak dan adik = 3 : 1",
+                    "attachments": []
+                },
+                {
+                    "answer": "uang kk : uang adik = 3:1 :)",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "2a-7-gt-5-merupakan-contoh-ptlsv-mengapa-981",
+            "question": "2a + 7 &gt;_ 5, merupakan contoh PTLSV mengapa",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Ada tiga alasan. Yaitu karena memiliki satu variabel. Dihubungkan dengan relasi lebih dari. Dan variabelnya berpangkat satu.<br><br>Btw, ini pelajaran kelas 7 SMP, pas banget aku juga lagi diajarin PLSV dan PTLSV sama guruku. Semoga bisa membantu ya :)<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "hasil-dari-1-5p-x-12q-215r-35t-itu-pangkat-nol-ya-157",
+            "question": "Hasil dari\r\n1. 5p\u00b0 x 12q\u00b0\r\n2.15r\u00b0\r\n\u00a0 35\u00b0t\u00b0\r\n(itu pangkat nol yaa) please jawab",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1. 5. 12= 60<br>2. 15/1 = 15<br>udah gitu aja..... kalo itu pangkat 0<br>karna semua yg dipangkatkan 0, hasilnya 1",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-ya-ni-tugas-numpuk-tolong-a-12x-583",
+            "question": "Tolong ya..... ni tugas numpuk tolong    \u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 a. 1/2x + 5 &gt; 15\r\n\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 b. 2 - (4+x) \u2265 - 22\r\n\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 c. 2/3p + 4 \u2264 8\r\n\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 d. 2x _4 &gt;3X + 9\r\n\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 e. 2y - 7/2\u2264 3\r\nnote. / adalah PER\r\n\u00a0\u00a0 makasih bantu ya...:)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a. <u>1 </u>x\u00a0 +\u00a0 5 &gt; 15<br>\u00a0\u00a0\u00a0 2<br><u>x\u00a0</u> &gt;\u00a0 15 - 5<br>2<br><u>x </u>&gt; 10<br>2<br>x &gt; 20<br><br>b. 2 - ( 4 + x ) \u2265 - 22<br>\u00a0\u00a0 2 - 4 - x \u2265 - 22<br>\u00a0- 2 - x \u2265 - 22<br>\u00a0- x \u2265 - 20<br>\u00a0x \u2264 20<br><br>c.<u> 2\u00a0</u> p\u00a0 + 4 \u2264 8<br>\u00a0\u00a0 3<br>\u00a0<u>2p</u>\u00a0 \u2264 8 - 4<br>\u00a03<br><u>2p</u> \u2264 4<br>3<br>2p \u2264 12<br>p \u2264 6<br><br>d. 2x - 4 &gt; 3x + 9<br>\u00a0 -3x + 2x &gt; 9 + 4<br>\u00a0 -x &gt; 13<br>\u00a0 x &lt; - 13 <br><br>e. 2y - <u>7</u> \u2264 3\u00a0 \u00a0 \u00a0 (kedua ruas dikalikan 2)<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0\u00a0 2<br>\u00a0\u00a0 4y - 7 \u2264 6<br>\u00a0\u00a0 4y \u2264 13<br>\u00a0\u00a0 y\u00a0  \u2264 <u>13</u><br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 4<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "gradien-yang-melalui-titik-23-dan-35-adalah-440",
+            "question": "Gradien yang melalui titik (2,3) dan (3,5) adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]m =   \\frac{ y_{2} - y_{1} }{ x_{2} - x_{1} } = \\frac{ 5 - 3 }{ 3 - 2 }= \\frac{2}{1} =2[/tex]<br><br>kalau sekalian mau pers.nya<br><br>y = 2x - 1",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "besar-sudut-yang-dibentuk-dari-pukul-1020-dan-0745-338",
+            "question": "Besar sudut yang dibentuk dari pukul 10.20 dan 07.45",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "10.20 : Sudut Tumpul<br>07.45 : Sudur Lancip",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

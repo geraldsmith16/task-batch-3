@@ -1,0 +1,134 @@
+{
+    "question": "Contoh cotoh himpunan sama dan contoh contoh himpuna ekuivalen",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "Dua himpunan dikatakan Ekuivalen apabila jumlah anggota kedua himpunan itu sama tetapi bendanya ada yang tidak sama<br>Contoh : P = { a, I, u, e, o } ; Q = { 1, 2, 3, 4, 5 }<br>Kedua\n himpunan P dan <br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "kalo-bisa-dengan-caranya-yah-dua-buah-tiang-berdampingan-jarakny-600",
+            "question": "kalo bisa dengan caranya yah. dua buah tiang berdampingan jaraknya 24 m. jika tiang a=22m dan tiang b=12m. hitunglah kawat penghubung kedua tiang tersebut.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "^<br>^ \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0\u00a0 \u00a0 \u00a0 \u00a0 ^<br>^ \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0\u00a0 \u00a0 \u00a0 ^<br>^ \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0^<br>^ \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 ^<br>22 m \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 12 m<br>&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt; \u00a0 24 m<br><br>22 - 12 m = 10 m<br><br>terus di pitagoraskan<br><br>jarak kabel = \u221a10\u00b2+24\u00b2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0=\u00a0\u221a100 + 576<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0=\u00a0\u221a676<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 26 m",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "untuk-1-hari-1-malam-24-jam-ada-berapa-kali-putaran-jam-menent-746",
+            "question": "Untuk 1 hari 1 malam (24 jam), ada berapa kali putaran jam menentukan ukuran sudut terbesar dari :    a. 90\u00b0\r\nb. 150\u00b0\r\nc. 180\u00b0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a. 48x<br>b. 48x<br>c.24x<br>a dan b : 1 jam 2x putaran<br>c : 1 jam 1x putaran.<br>jadi, a dan b : 2x24 = 48<br>c : 1x24 = 24<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "matematika-difference-itu-gimana-sih-terus-bedanya-irisan-sa-891",
+            "question": "matematika difference itu gimana sih ? terus, bedanya\u00a0 irisan sama gabungan apa ? minta contohnya yaa^^",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "irisan lambangnya\u00a0 \"n\" dan kalau gabungan lambangnya \"u\"<br>contoh<br>A={123456)<br>B={456789}<br>AUB={123456789)<br>AnB={456}<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukanlah-penyelesaian-dari-pertidaksamaan-berikut-a-12x-292",
+            "question": "Tentukanlah penyelesaian dari pertidaksamaan berikut :    a.\u00a01/2x + 5\u00a0&gt; 15\r\nb. 2 - (4 + x)\u00a0\u2265 - 22",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a. 1/2x + 5 &gt; 15<br>x + 10 &gt;30<br>x &gt; 20<br><br>b. 2-(4+x) <span>\u2265 -22<br>2 - 4 - x \u2265 -22<br>-2 - x \u2265 - 22<br>-x \u2265 -22<br>x \u2264 22</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jari-jari-lingkaran-20cm-carilah-luas-lingkaran-berjari-jari-20c-826",
+            "question": "Jari-jari lingkaran 20cm. carilah luas lingkaran berjari-jari 20cm . jwabn apa ya ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "luas :<br>3,14 x 20x20 =1256<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "L = 3,14 x 20 x 20<br>\u00a0\u00a0 = 3,14 x 400<br>\u00a0\u00a0 =1256<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "harga-1-kg-alpukat-satu-bulan-yg-lalu-rp-6000-karena-sekaran-911",
+            "question": "Harga 1 kg Alpukat satu bulan yg lalu Rp 6.000,- . Karena sekarang sedang musim Alpukat , harga turun menjadi Rp 2.000/ kg. Coba tentukan harga penurunan alpukat dengan penjumlahan bilangan bulat!    Please bantu jawab, makasih :)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "jadi, harga penurunan alpukat dapat dihitung dengan mengurangkan harga alpukat bulanlalu dengan sekarang yaitu : 6.000 - 2.000 = 4.000",
+                    "attachments": []
+                },
+                {
+                    "answer": "6000-2000= 4000 jadi harga alpukat turun 4000 rupiah",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bisa-bantuin-saya-mencari-rumus-mencari-sudut-dalam-jarum-jam-863",
+            "question": "Bisa bantuin saya mencari rumus mencari sudut dalam jarum jam",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>am panjang pada jam.<br>\nCoba perhatikan penjelasan berikut :<br>\n1. Dalam 1 jam pergerakan jarum jam pendek adalah :<br>\n360 derajat : 12 = 30 derajat per jam<br>\n2. Dalam 1 jam atau 60 menit pergerakan jarum jam panjang adalah :<br>\n360 derjat : 60 = 6 derajat</span>\n<span>Sehingga sudut yang dibentuk antara jarum pendek dan jarum panjang pada pukul 02.30<br><br></span><span>1. Pergerakan jarum Pendek :<br>\n2.30/60 jam x 30 derajat = (2\u00d730) derajat + (30/60 x 60 ) derajat<br>\n= (60 + 15) derajat = 75 derajat<br>\n2. Pergerakan jarum panjang :<br>\n30 x 6 derajat = 180 derajat</span>\n<span>Jadi sudut yang dibentuk adalah = ( sudut terbesar dikurangi sudut terkecil)<br>\n= (180 \u2013 75) derajat = 105 derajat</span>",
+                    "attachments": []
+                },
+                {
+                    "answer": "kalau saya: setiap bertambah 5 menit itu sama dengan bertambah 30 derajat<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1gaji-ayah-rp2500000jika-tiap-bulan-ayah-harus-membayar-paja-102",
+            "question": "1.gaji ayah rp.2.500.000.jika tiap bulan ayah harus membayar pajak sebesar 2,5% dari gaji nya ,maka tentukanlah gaji bersih yg di terima ayah..??\\    2.hitunglah bunga tunggal\u00a0 pada modal awal Rp.550.000 dengan suku bunga 5% tiap tahun selama satu tahun 5 bulan !\r\n3.harga penjualan sebuah pesawat tv adalah Rp.552.000 jika keuntungan yg diperoleh 15%,maka tentukan harga pembeliannya..??\r\nbeserta caranya yhaa\r\nthank sblm'a",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1\u00a0.2,5/100x 2.500.000 =62.500<br>\u00a02.500.000-62.500=.........<br>3.15/100 x\u00a0552000=82.800<br>harga pembelian 552000-82800=......",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1dari-sekelompok-siswa-yang-terdiri-dari-35-orang-ternyata-18-o-400",
+            "question": "1.)Dari Sekelompok Siswa Yang Terdiri Dari 35 Orang Ternyata 18 Orang Gemar Matematika 22 Orang Gemar B Inggris, Dan 7 Orang Tidak Gemar Matematika Maupun B Inggris.    a) Buatlah Diagram Venn Berdasarkan Keterangan Diatas!\r\nB) Berapa Orang Yang Gemar Matematika Maupun B.Inggris\u00a0\r\n\r\n2.)Tuliskan semua himpunan bagian dari {xl-10&lt;x&lt;10,x\u2208\u00a0bilangan bulat yg habis dibagi 3} yg mempunyai 3 anggota\r\n\r\n3.) Diketahui n(A) =35,n(B)=29,dan n(AUB)=50\r\n\u00a0\u00a0 \u00a0Dketahuin(p)=28,n(Q)=27,dan (PNQ)={}\r\n\u00a0\u00a0 \u00a0Diketahuin(k)=59,n(LNK)=13,DAN n(kUl=110\r\n\u00a0\u00a0 \u00a0Tentukan n(L)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "kalo buat diagram venn disini caranya gimana?<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-12x5-gt15y-2-23p48-2-2-4x-22-470",
+            "question": "1. 1/2x+5\u00a0&gt;15y\r\n2. 2/3p+4\u22648\r\n2.\u00a02-(4+x)\u2265-22",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1. 1/2x + 5 &gt; 15y<br>\u00a0\u00a0\u00a0 x + 5 &gt; 30 y<br>\u00a0\u00a0 x/y &gt; 30 - 5<br>\u00a0\u00a0 x/y &gt; 25<br>\u00a0 x &gt; 25y<br><br>2. 2/3p + 4 \u2264 8<br>\u00a0\u00a0 2/3p \u2264 8 - 4<br>\u00a0\u00a0 2/3p \u2264 4<br>\u00a0\u00a0 p \u2264 4 x 3/2<br>\u00a0\u00a0 p \u2264 6<br><br>2. 2 - (4 +x) \u2265 - 22<br>\u00a0\u00a0 2 (-4-x) \u2265 -22<br>\u00a0\u00a0 -8 - 2x \u2265 - 22<br>\u00a0\u00a0 -8 + 22 \u2265 2x<br>\u00a0\u00a0 14 \u2265 2x<br>\u00a0\u00a0 x \u2265 7<br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

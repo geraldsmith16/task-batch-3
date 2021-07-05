@@ -1,0 +1,142 @@
+{
+    "question": "1.mobil ketika mesinnya di hidupkan,dapat melaju dengan kecepatan tertentu.setelah beberapa saat,mobil tersebut di rem sehingga jalannya menadi lambat da ber lahan-lahan berhenti.    \u00a0a) Adakah dorongan atau tarikan yang mempengaruhi bendah tersebut?apakah itu?\r\n\u00a0b)Ketika melaju,gaya apakah yang bekerja pada mobil?\r\n\u00a0c)Pada saat mobil ber lahan-lahan berhenti,gaya apakah yang bekarja pada mobil tersebut?\r\n\r\n2.Apakah yang akan terjadi jika :\r\n\u00a0a. pegas di tarik\r\n\u00a0b. Roti di tekan\r\n\u00a0c.Sepeda di kayuh,dan\r\n\u00a0d. bola di tendang?",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "1c. gaya gesek<br>2a. memantul<br>2b. mengempes<br>2c. berjalan<br>2d. berjalan lurus kearah tendangan tersebut<br>",
+            "attachments": []
+        },
+        {
+            "answer": "1A = Ada, yakni gaya dari mesin mobil<br>1B = Gaya gesek pula<br>1C = Gaya gesek<br>2A = Jika ada bendanya, akan melempar benda itu. Bila tidak ada, cuman memantul.<br>2B = Hancur atau mengempis<br>2C = Sepeda akan bergerak dan menghadapi gaya gesek<br>2D = Terlempar tergantung pada gerakan kakinya, tidak mesti lurus dengan tendangan<br>Okay ? @Liwed Maaf kalo salah",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "sebuah-skala-pada-peta-1700000-dengan-garis-koordinat-peta-beru-761",
+            "question": "sebuah skala pada peta 1:700.000 dengan garis koordinat peta berukuran 2x2 cm. jika koordinat diubah menjadi ukuran 8x8 cm, maka skala petanya berubah menjadi.......",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "2 x 2 ====&gt; 1 : 700.000<br>8 x 8 ====&gt; 1 : ?<br><br>jika koordinat menjadi lebih besar, berarti skala menjadi lebih kecil, berarti ini merupakan perbandingan terbalik, persamaannya menjadi:<br><br>2 / 8 = ? / 700.000<br>? = ( 2 / 8 ) * 700.000<br>? = 175.000<br><br>sehingga skalanya menjadi 1 : 175.000<br><br>semoga membantu :)<br>@mr_m_satrio<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Jika gambar suatu peta diperbesar, maka skalanya mengecil.<br>syaratnya panjang dan lebarnya harus sama-sama dikalikan bilangan yang sama.<br><br>nah, disoalnya kan dari (2x2) menjadi (8x8)<br>maka nilai perbesaran = 4<br><br>karena berbanding terbalik maka, skala yang baru<br>700.000/4 = 175.000<br><br><strong>1:175.000</strong><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bagamana-cara-mencari-a-panjang-busur-ac-b-luas-juring-aoc-jik-238",
+            "question": "Bagamana cara mencari:    a. panjang busur AC\r\nb. luas juring AOC\r\njika lingkaran berdiameter 30cm dan sudut AOC=60 derajat",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a. 60/360 . 3,14 . 30 = 15,7<br>b. 60/360 . 3,14 .15 .15 = 117,75",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apakah-rumus-energi-potensial-690",
+            "question": "Apakah rumus energi potensial",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Ep = m . g . h<br>m = massa (kg)<br>g = percepatan gravitasi ( 10 m/s\u00b2 atau 9,8 m/s\u00b2)<br>h = ketinggian ( m )",
+                    "attachments": []
+                },
+                {
+                    "answer": "Energi potensial itu banyak jenisnya.<br>rumus dasarnya<br><br><strong>Ep = m . g . h<br></strong><br>Ep = energi potensial (Joule)<strong><br></strong><strong></strong>m = massa (kg)<br>g = percepatan gravitasi (m/s^2)<br>h = ketinggian (m)",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-naik-bentor-dheni-akan-sampai-di-sekolah-dalam-waktu-45-men-905",
+            "question": "jika naik bentor, dheni akan sampai di sekolah dalam waktu 45 menit dengan kecepatan rata-rata bentor 20 km/jam. berapa kecepatan rata-rata bentor agar dheni sampai di sekolah dalam waktu 30 menit?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "kecepatannya menjadi 30 km / jam<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "carilah-rumus-suku-ke-n-untuk-setiap-barisan-berikut-1-24-386",
+            "question": "Carilah rumus suku ke-n untuk setiap barisan berikut !    1.\u00a0 -2,4,-8,16\r\ntentukan 4 suku pertama dari barisan dg rumus suku ke-n berikut ini !\r\n1. Un=n\u00b2\r\n2. Un= 1 per 2n-1\r\n3. Un= (-1) pangkat n",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "jawaban no.1 <br>a = (-2)<br>r = (-2)<br>Un = [tex] ar^{n-1} [/tex]<br>Un = [tex] (-2).(-2)^{n-1} [/tex]<br><br><span>tentukan 4 suku pertama dari barisan dg rumus suku ke-n berikut ini !<br>1. Un=n\u00b2<br>jawab :<br>U1 = </span>[tex] 1^{2} [/tex] = 1<br>U2 = [tex] 2^{2} [/tex] = 4<br>U3 = [tex]3^{2} [/tex] = 9<br>U4 = [tex] 4^{2} [/tex] = 16<br><br><span>2. Un= 1 per 2n-1<br>jawab :<br>U1 = </span>[tex] \\frac{1}{2(1)-1} [/tex]<span> = 1<br>U2 = </span><span>[tex] \\frac{1}{2(2)-1} [/tex] = </span>[tex] \\frac{1}{3} [/tex]<br>U3 =<span> [tex] \\frac{1}{2(3)-1} [/tex] = </span>[tex] \\frac{1}{5} [/tex]<br><span><span>U4 =<span> [tex] \\frac{1}{2(4)-1} [/tex] = </span>[tex] \\frac{1}{7} [/tex]<br><br></span>3. Un= (-1) pangkat n</span><br>jawab :<br>U1 = [tex](-1)^{1} [/tex] = -1<br>U2 = [tex](-1)^{2} [/tex] = 1<br>U3 = [tex](-1)^{3} [/tex] = -1<br>U4 = [tex](-1)^{4} [/tex] = 1<br><br><br><br><br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "mungkinkah-sebuah-persegi-memiliki-keliling-yang-sama-dengan-sebu-368",
+            "question": "mungkinkah sebuah persegi memiliki keliling yang sama dengan sebuah persegipanjang?jika mungkin,tentukan ukuran persegi dan persegipanjang tersebut..! \u00a0 \u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "persegi 4x4<br>persegi panjang 2x6",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "ditentukan-h-abcdef-atulislah-semua-himpunan-bagian-da-694",
+            "question": "Ditentukan H = {a,b,c,d,e,f}.    a.tulislah semua himpunan bagian dari H yang mempunyai 3 anggota !\r\nb.tulislah semua himpunan bagian dari H yang mempunyai 5 anggota !",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]H=\\{a,b,c,d,e,f\\}\\\\\na)\\ \\{a,b,c\\},\\{a,b,d\\},\\{a,b,e\\},\\{a,b,f\\},\\{a,c,d\\},\\{a,c,e\\},\\{a,c,f\\},\\\\\n\\{a,d,e\\},\\{a,d,f\\},\\{a,e,f\\},\\{b,c,d\\},\\{b,c,e\\},\\{b,c,f\\},\\{b,d,e\\},\\{b,d,f\\},\\\\\n\\{b,e,f\\},\\{c,d,e\\},\\{c,d,f\\},\\{c,e,f\\}\\\\\\\\\nb) \\{a,b,c,d,e\\},\\{a,b,c,d,f\\},\\{b,c,d,e,f\\},[/tex]",
+                    "attachments": []
+                },
+                {
+                    "answer": "a. h = { ( abc) (bcd) (cde) (bcd) (dec) (def) (efc) (cdf) }<br>b. h= { ( abcde) (bcdef) (acdef) (abcef) (abcdf)<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bagaimana-cara-mencari-a-panjang-busur-ac-b-luas-juring-aoc-ji-445",
+            "question": "Bagaimana cara mencari:    a. panjang busur AC\r\nb. luas juring AOC\r\njika lingkaran tsb berdiameter 30 cm dan sudut AOC=90 derajat",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a. 90/360 . 3,14 . 30 = 23,55<br>b. 90/360 . 3,14 . 15 .15 = 176,625",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dalam-waktu-10-hari20-orang-dapat-menyelesaikan-5-gedungbutuh-b-454",
+            "question": "dalam waktu 10 hari,20 orang dapat menyelesaikan 5 gedung.Butuh berapa orang untuk menyelesaikan 6 gedung?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "20/10 x 5 = 40 orang.. kayanya seperti itu.. :)<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "40 mungkin yaa, gatau lagi :/<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-k-235711-tentukan-ahimpunan-bagian-k-yang-mem-547",
+            "question": "diketahui K = { 2,3,5,7,11} tentukan a.himpunan bagian K yang mempunyai dua anggota b.himpunan bagian K yang mempunyai tiga anggota c.himpunan bagian K yang mempunyai empat anggota",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a.) (2,3);(2,5);(2,7);(2,11);(3,5);(3,7);(3,11);(5,7);(5,11);(7,11)<br>b.)(2,3,5);(2,3,7);(2,3,11),(2,5,7);(2,5,11);(2,7,11);(3,5,7);(3,7,11);(5,7,11)<br>c.)(2,3,5,7);(2,3,5,11);(2,5,7,11);(3,5,7,11)<br>Maaf kalau kurang lengkap?!",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

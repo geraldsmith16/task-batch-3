@@ -1,0 +1,126 @@
+{
+    "question": "3 bil membentuk barisan aritmatika jika suku ke 3 ditambah 3 dan suku ke 2 dikurangi 1, diperoleh barisan geometri, jika suku ke 3 barisan aritmatika ditambah 8 maka hasilnya menjadi 5 kali suku pertama. tentukan beda dari barisan aritmatika tersebut",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "a-b,a,a+b ...... \u00a0 BA<br>a-b,a-1,a+b+3 ........ \u00a0 \u00a0BG \u00a0 \u00a0\u00a0 maka (a-1)^2= (a-b)(a+b+8) \u00a0 \u00a0persamaan 1<br>a+b+8=5(a-b)&lt;=&gt; 8= 4a - 6b &lt;=&gt; 4 = 2a - 3b...pers 2<br>pers 1 dan 2 \u00a0didapat 4a^2-43a-11=0 didapat a= - 1/4 atau a= 11<br>a= 11 maka b = 6<br>a = - 1/4 maka b = - 3/2",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "pak-daniel-seorang-karyawan-perusahaan-ia-membeli-sebuah-mobil-513",
+            "question": "pak\u00a0daniel seorang karyawan perusahaan. ia membeli sebuah mobil bekas seharga Rp90.000.000,00.\u00a0dan dikenakan pajak\u00a0penjualan\u00a0sebesar 5%.berapa rupiah uang yang harus dibayar pak daniel untuk pembelian mobilnya?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Rp4500000, karena 90000000 x 5/100",
+                    "attachments": []
+                },
+                {
+                    "answer": "90000000x5/100 = 4500000<br>90000000+4500000=94500000<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-kasih-tau-jawaban-dan-penyelesaiannya-juga-dong-banyak-369",
+            "question": "Tolong kasih tau jawaban dan penyelesaiannya juga dong :)    Banyak bilangan antara 2000 dan 6000 yang dapat disusun dari angka 0,1,2,3,4,5,6,7 dan tidak ada angka yang sama adalah...\r\nTerimah kasih sebelumnya yaa :)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "buat 4 kotak\u00a0 |ribuan|ratusan|puluhan|satuan|<br>|5|7|6|5| = 5 x 7 x 6 x 5 = 1050.<br><br>nb:<br>kotak pertama = dari 0 - 7 yang memenuhi tempat ribuan ada 5 (2, 3, 4, 5, 6)<br>kotak kedua\u00a0 \u00a0  = dari 0 - 7 yang memenuhi tempat ratusan ada 7<br>(jika syaratnya tidak ada angka yang sama, peluang setiap kotaknya di kurang 1, kemudian setiap angka dikalikan, dan itulah hasilnya)<br>dst..<br>:D<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "deret-aritmetika-dengan-jumlah-n-suku-pertama-snn2-3ntentuka-475",
+            "question": "Deret aritmetika dengan jumlah n suku pertama Sn=n\u00b2 + 3n.tentukan suku ke-5!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]S _{1} = U _{1}= 4 \\\\ S_{2} = U_{1} + U_{2} = 10 \\\\ U_{2}= 6 \\\\ b = U_{2}-U_{1} = 2 \\\\ U_{n} = a + (n-1)b = 4 + (n-1)2 = 2n + 2 \\\\ U_{5} = 12[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "selidiki-persamaan-kuadrat-berikut-a-x2-2x10-b2x2-2x0-c3-574",
+            "question": "Selidiki persamaan kuadrat berikut:    a) x\u00b2-2x+1=0\r\nb)2x\u00b2-2x=0\r\nc)3x\u00b2-2x+10=0\r\nd)x\u00b2-10=0\r\nberikan jawabannya dengan cara jalannya\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1). (x-1).(x-1)<br>2). (2x-2).(x-0)<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-mesin-bor-di-rancang-memiliki-6-kecepatan-mulai-dari-50-p-723",
+            "question": "sebuah mesin bor di rancang memiliki 6 kecepatan. mulai dari 50 putaran/menit hingga 750 putaran / menit. jika kecepatan ini membentuk geometri, tentukan lah nilai nilai, masing masing benar hingga bilangan bulat terdekat",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "tolong ditulis caranya ya",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "koordinat-titik-puncak-grafik-fungsi-kuadrat-adalah25-jika-gra-477",
+            "question": "koordinat titik puncak grafik fungsi kuadrat adalah(2,5) jika grafik fungsi kuadrat melalui titik (-1,23) maka tentukan rumus fungsi kuadrat ! tolong bantu yah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "hasilnya nti jadi 18x-3y-51=0<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "x-a-nilai-dari-x2-455",
+            "question": "\u00a0 \u00a0 \u00a0 \u00a0x \u00a0 \u00a0\u00a0 \u00a0\u00a0 = a, nilai dari \u00a0\u00a0 \u00a0\u00a0 \u00a0 \u00a0 x\u00b2 \u00a0 \u00a0\u00a0 \u00a0\u00a0\u00a0 \u00a0= ...    \u00a0\u00a0x\u00b2+3x+1 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0x\u00b2\u00b7\u00b2+3x\u00b2+1",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "coba substitusikan x dengan ax\u00b2+3ax+a<br><br>semoga ketemu<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-nilai-kebenaran-implikasi-berikut-ajika-x4-maka-x2-328",
+            "question": "Tentukan nilai kebenaran implikasi berikut !    a.Jika x=4 maka x\u00b2=16\r\nb.Jika 0\u00a0\u2264 x\u00a0\u2264 2 maka x\u00b2\u00a0-\u00a0x\u00a0-\u00a06\u00a0\u2264 10 dengan x\u00a0\u2208 {Bil.Bulat}\r\nc.Jika x\u00b2 = 9 maka x\u00a0\u2265 3",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a. benar<br>b. benar<br>c. salah, karena nilai x di bolehkan lebih dari 3<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suatu-persegi-panjang-dengan-panjang-2x4cm-dan-lebar-4-xcm-778",
+            "question": "suatu persegi panjang dengan panjang (2x+4)cm dan lebar (4-x)cm, agar luas persegi panjang maksimum, ukuran panjang adalah...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Luas persegi=p*l<br>(2x+4)*(4-x)=8x-2x^2+16-4x<br>=4x-2x^2+16=2x-x^2+8=x^2-2x+8<br>Luas maksimum= -b^2-4ac : 4a<br>=4-4(1)(8) : 4*1<br>=4-32 : 4=-28 : 4<br>-(-28:4)=28:4=7<br>Soal panjangnya saya kurang ngerti,soriii",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "hitunglah-jumlah-25-suku-pertama-bilangan-ganjil-yang-pertama-dar-552",
+            "question": "Hitunglah jumlah 25 suku pertama bilangan ganjil yang pertama dari bilangan asli?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1,3,5.......... ampe yg ke 47, 49<br>U13= 25<br><br>total nya adalah<br><br><br>=(49+1)/2 x 12+25<br>=25x12+25<br>=325<br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

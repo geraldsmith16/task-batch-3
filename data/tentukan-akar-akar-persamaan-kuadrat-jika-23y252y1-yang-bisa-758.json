@@ -1,0 +1,130 @@
+{
+    "question": "Tentukan akar akar persamaan kuadrat jika 2/3y2+5/2y=1 ,yang bisa jawab jawab ya",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "[tex]\\frac{2}{3}y^2+\\frac{5}{2}y=1\\ kalikan\\ kedua\\ ruas\\ dengan\\ 6\\\\\n4y^2+15y-6=0\\\\\ny_{1,2}=\\frac{-b \\underline{+} \\sqrt{b^2-4ac}}{2a}\\\\\ny_{1,2}=\\frac{-15 \\underline{+} \\sqrt{15^2-4(4)(-6)}}{2(4)}\\\\\ny_{1,2}=\\frac{-15 \\underline{+} \\sqrt{225+96}}{8}\\\\\ny_{1,2}=\\frac{-15 \\underline{+} \\sqrt{321}}{8}\\\\[/tex]",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "gimana-cara-faktorin-persamaan-pangkat-3-548",
+            "question": "gimana cara faktorin persamaan pangkat 3?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "pake cara horner <br>3 | 1\u00a0 \u00a0\u00a0 -6 \u00a0 \u00a0 \u00a0 -9 \u00a0\u00a0 \u00a0  54 <br>\u00a0\u00a0 |_____3____-9___-54____ <br>\u00a0\u00a0 \u00a0 1\u00a0 \u00a0  -3\u00a0 \u00a0 \u00a0 \u00a0 -18\u00a0 \u00a0  0 <br>\u00a0\u00a0 \u00a0 x\u00b2 -3x - 18 = (x - 6) (x + 3) <br>jadi didapat faktornya adalah <br>(x - 3) (x + 3) (x - 6) <br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-nilai-x-yang-memenuhi-pertidaksamaan-irasional-berikut-384",
+            "question": "Tentukan nilai x yang memenuhi pertidaksamaan irasional berikut\r\n\u221ax\u00b2-x+2 per \u221ax+5 \u2265 1",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex] \\frac{ \\sqrt{ x^{2} -x+2} }{ \\sqrt{x+5} }  \\geq 1[/tex]<br><br>kalikan penyebut ke 1<br><br>[tex] \\sqrt{ x^{2}-x+2}  \\geq  \\sqrt{x+5} [/tex]<br><br>kuadratkan kedua ruas<br><br>[tex] x^{2} -x+2-(x+5)  \\geq 0[/tex]<br><br>[tex] x^{2} -2x+3 \\geq 0[/tex]<br><br>(x+1)(x-3)\u00a0[tex] \\geq 0[/tex]..........(1)<br><br>buat grafik koordinat garis x pada -1 dan 3 sehingga didapat nilai di antara -1 dan 3 misal 2 dimasukkan ke pers 1 dapet minus, padahal nilai yg diharapkan\u00a0[tex] \\geq 0[/tex] maka kedua nilai disebelah kanan dan kiri merupakan plus dg melakukan pembuktian yang sama, dapet x[tex] \\leq -1[/tex] atau x[tex] \\geq 3[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "panjang-busur-lingkaran-dengan-sudut-pusat-120-dan-panjang-diam-570",
+            "question": "Panjang busur lingkaran dengan sudut pusat 120\u00b0 dan panjang diameter 21 cm adalah..",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "21.98 jadi 22<br>cari keliling dulu, trs 120/360.kliling lingkaran",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "barisan-geometri-u3-12-dan-u696-s4-350",
+            "question": "Barisan Geometri. U3= 12, dan U6=96. S4. . . ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "u6 = 96 = rumus\u00a0 ar^n-1<br>u3 = 12 <br>s4 ?<br><br>u6 = ar^5\u00a0 u3 = ar^2<br>96 = ar^5\u00a0 12 = ar^2<br><br>r = 6-3\u221a96/12 = \u221b8 = 2<br>S4 = u3 x r<br>\u00a0\u00a0 \u00a0 = 12 x 2 = 24<br>S4 = 3 + 6 + 12 + 24 = 45<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "U3 = 12<br>U6 = 96<br>dit : S4<br><br>U6 = U3 . rrr<br>96 = 12 . rrr<br>rrr = 8<br>r = 2<br><br>S4 = 3 + 6 + 12 + 24 = 45",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "910-45-4-34-2-25-755",
+            "question": "9/10-4/5=\r\n4 3/4-2 2/5=",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a .9/10-4/5= 9/10 - 8/10 =1/10<br>b .<span>4 3/4-2 2/5= 4 15/20 -2 8/20 =2 7/20</span><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "1. \u00a0 \u00a0  9/10-4/5= 9/10-8/10=1/10<br><br><br><br>2.\u00a0 \u00a0 \u00a0  4 3/4-2 2/5= 4 15/20-2 8/20=2 7/20<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "materi-trigonometri-hitunglah-bentuk-berikut-dengan-menggunaka-883",
+            "question": "MATERI ; TRIGONOMETRI.    Hitunglah bentuk berikut dengan menggunakan rumus setengah sudut.\r\n1. tan 22,5 =\r\n2. cos 22,5 =",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "b. cos 22,5 =\u00a01/2 . 45<br>\u221a1+cos 45 : 2<br>\u221a1 + 1/2\u221a2 :2<br>\u221a2+\u221a2 \u00a0: 4<br>1/2\u00a0\u221a2+\u221a2",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-xy-23-adalah-penyelesaian-dari-sistempersamaan-ax-b-844",
+            "question": "Jika (x,y) =(2,3) adalah penyelesaian dari sistempersamaan\r\nax + by=1\r\nay - bx=8",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "substitusikan nilai (x,y) dalam pers.<br><br>a(2) + b(3) = 1<br>a(3) - b(2) = 8<br><br>2a + 3b = 1 .... x3<br>3a - 2b = 8 .... x2<br><br>6a + 9b = 3<br>6a - 4b = 16<br>(dikurang), maka<br>13b = -13<br><strong>b = -1</strong><br><br>subs b ke pers 1.<br><br>2a + 3(-1) = 1<br>2a -3 = 1<br>2a = 4<br><strong>a = 2</strong><br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-barisan-bilangan-dituliskan-sebagai-berikut-123456789101-164",
+            "question": "Sebuah barisan bilangan dituliskan sebagai berikut : 123456789101112131415161718192021222324252627..............dst. Sehingga suku ke-10 = 1, suku ke-11 = 0, suku ke-12 = 1, dan\u00a0seterusnya. Dapatkah Anda temukan bilangan yang menempati suku ke-10.000?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>Un\u00a0\n= a + ( n \u2013 1 )b</span><br>U11 = a + 10b= 0<br>U10 = a + 9b = 1<br><br>\u00a0\u00a0  <br>\u00a0\u00a0 \u00a0 \u00a0  1b = 1 b= 1<br>a + 1b = 0 \u2192 a + 10.1 =0 \u2192 a + 10 = 0\u2192 a\u00a0 =10<br><br>U10.000 = a (n-1) b<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0  = 10 (10.000-1) 1<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0  = 10 . 99000 .1<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0  = 990000<br>\u00a0<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "akar-akar-pk-2x2-2x-1-0-adalah-alfa-dan-beta-hitunglah-310",
+            "question": "Akar - akar PK 2x^2 + 2x + 1 = 0 adalah alfa dan beta.\r\nhitunglah : 1/alfa^2 + 1/beta^2",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]2x^2+2x+1=0\\\\\n\\frac{1}{ \\alpha ^2}+\\frac{1}{ \\beta ^2}=\\frac{\\beta ^2+\\alpha ^2}{ \\alpha ^2\\beta ^2}\\\\\n\\frac{1}{ \\alpha ^2}+\\frac{1}{ \\beta ^2}=\\frac{(\\alpha +\\beta )^2-2\\alpha \\beta}{ (\\alpha \\beta )^2}\\\\\n\\frac{1}{ \\alpha ^2}+\\frac{1}{ \\beta ^2}=\\frac{(-\\frac{2}{2} )^2-2(\\frac{1}{2})}{ (\\frac{1}{2})^2}\\\\\n\\frac{1}{ \\alpha ^2}+\\frac{1}{ \\beta ^2}=\\frac{1-1}{\\frac{1}{4}}\\\\\n\\frac{1}{ \\alpha ^2}+\\frac{1}{ \\beta ^2}=0[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-nilai-x-yang-memenuhi-bentuk-bentuk-logaritma-berikut-a-895",
+            "question": "Tentukan nilai x yang memenuhi bentuk bentuk logaritma berikut\r\na. 3log 27 = x\r\nb. 5 log 625 =x",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "x = 3 log 27 <br>\u00a0\u00a0 = 3 log 3\u00b3<br>\u00a0\u00a0 = 3<br><br>x = 5 log 625 <br>\u00a0\u00a0 = 5 log 5\u2074<br>\u00a0\u00a0 = 4<br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

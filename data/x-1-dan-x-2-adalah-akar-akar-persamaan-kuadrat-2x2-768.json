@@ -1,0 +1,138 @@
+{
+    "question": "\u00a0x_{1}\u00a0dan\u00a0\u00a0x_{2} adalah akar akar persamaan kuadrat 2x^{2} + 3x -6 = 0.Tentukan 2x1x2^{2} + 2 x1^{2}x2",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "[tex]2x_1x^2_2+2x^2_1x_2=2x_1x_2(x_1+x_2)\\\\\\\\\n2x_1x^2_2+2x^2_1x_2=2(\\frac{-6}{2})(-\\frac{3}{2})\\\\\\\\\n2x_1x^2_2+2x^2_1x_2=9[/tex]",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "tentukan-persamaan-kuadrat-yang-akarnya-2-dan-2-468",
+            "question": "Tentukan persamaan kuadrat yang akarnya 2- dan 2+",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]PK\\ baru : x^2-(x_1+x_2)x+(x_1x_2)=0\\\\\nx_1+x_2=(2-\\sqrt{3})+(2+\\sqrt{3})\\\\\nx_1+x_2=4\\\\\n\\\\\nx_1x_2=(2-\\sqrt{3})(2+\\sqrt{3})\\\\\nx_1x_2=4-3=1\\\\\n\\\\\nPK\\ baru : x^2-4x+1=0\\\\[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-jumlah-dan-hasil-kali-akar-akar-persamaan-berikut-a-x-229",
+            "question": "Tentukan jumlah dan hasil kali akar-akar persamaan berikut !    a. x\u00b2-5x+7=0\r\nb. 2x\u00b2-7=0\r\nc. bx\u00b2+ax+c=0\r\nminta tolong yah di jawabnya skrang soalnya bsok mau di periksa sama guru, minta tlong juga jawabnya pkai cara kerja, biar jelas dan bisa ku mengerti juga..\r\nMakasihh..",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "ingat, <br>[tex]x1.x2= \\frac{c}{a}  \\\\ x1+x2 = \\frac{-b}{a} [/tex]<br>tinggal masukkan aja ke dalam rumus<br><br>a. <br>x1.x2=7/1<br>x1.x2=7<br><br>x1+x2=5/1<br>x1+x2=5<br><br>b.<br>x1.x2=-7/2<br><br>x1+x2=0/2<br>x1+x2=0<br><br>c.<br>x1.x2=c/b<br><br>x1+x2= -a/b<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "transpos-matriks-m-adalah-tolong-dijelaskan-230",
+            "question": "Transpos matriks M adalah ...\r\ntolong dijelaskan..",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "gol indonesia menang 3gol dari ac milan<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-bantu-saya-kerjakan-dik-f2x-34x-7maka-nilai-dari-852",
+            "question": "Tolong Bantu saya kerjakan\u00a0 \r\nDIK=\u00a0 f(2x-3)=4x-7,maka nilai dari F(17)-F(7) adalah...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "f(17) = 117\u00a0<br>f(7) = 37\u00a0<br>jadi hasilnya 80. kalo enggak salah yaaa",
+                    "attachments": []
+                },
+                {
+                    "answer": "f = 4(2x-3) - 7<br>\u00a0= 8x - 12 - 7<br>\u00a0= 8x - 19<br>f 17 = 8(17) - 19 = 117<br>f 7 = 8 (7) - 19 = 37<br><br>nilai f17-f7 = 117 - 37 = 80<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "hasil-kali-dari-x-x1-x-x2-tolong-dijelaskan-secara-rinc-163",
+            "question": "Hasil kali dari (X - X1) (X- X2) ?? Tolong dijelaskan secara rinci :)\r\nthnks~ ;)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "dikali satu satu ruas kiri ke kanan =\u00a0<br>X^2-2X-X1X2",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span> (X-X1) (X-X2) = </span>[(X-X1)X + (X-X1)(-X2)<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 = X\u00b2-X1X+(-XX2)+X2X1)<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 X\u00b2-X1X-XX2+X2X1<br><br><br>Semoga membantu.<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "banyak-anggota-matriks-adalah-170",
+            "question": "Banyak anggota matriks\u00a0 adalah....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "antara 12 dan\u00a0tidak ada........................",
+                    "attachments": []
+                },
+                {
+                    "answer": "jelaskan awal mula berdirinya kerajaan singhasari<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "persaman-m-14x2m0-mempunyai-akar-real-tentukan-m-yang-memen-534",
+            "question": "Persaman (m-1)+4x+2m=0 mempunyai akar real. Tentukan m yang memenuhi",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>(m-1)+4x+2m=0<br></span><br><span>m-1+4x+2m=0<br>3m</span><span>+4x=1<br>3m=1-4x<br>m=(1-4x)/3<br>m=(1/3)-(4x/3)<br>maybe :D<br></span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "buktikan-identitas-berikut-1-sin-atan-a-cosa-1cosa-480",
+            "question": "Buktikan identitas berikut!\r\n\r\n1. sin \u03b1tan \u03b1 + cos\u03b1 = 1/cos\u03b1",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "sin\u03b1 tan\u03b1 + cos\u03b1 = 1/cos\u03b1<br>ruas kiri kita rubah menjadi :<br>sin\u03b1.sin\u03b1/cos\u03b1 + cos\u03b1 <br>&lt;=&gt; sin\u00b2\u03b1 /cos\u03b1 + cos\u00b2\u03b1 / cos\u03b1 karena sin\u00b2\u03b1 + cos\u00b2\u03b1 = 1<br>&lt;=&gt; 1/cos\u03b1<br>terbuktikan?<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pertidaksamaan-x2-9lt4-849",
+            "question": "Pertidaksamaan (\u221ax\u00b2-9)&lt;4",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "(\u221ax\u00b2 - 9) &lt; 4<br>x-3 &lt; 4<br>x &lt; 4+3<br>x&lt;7",
+                    "attachments": []
+                },
+                {
+                    "answer": "(x pangkat 2) &lt; 4<br><br>x pangkat 2 itu bisa dihilangkan pangkatnya yang penting akarnya juga dihilangkan sehingga didapat :<br>= x-9 &lt; 4<br>= x \u00a0 \u00a0 &lt; 4+9<br>= x \u00a0 \u00a0 \u00a0 &lt; 13<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dik-fx-x2-dan-g-lingkaran-f-x-x23x2-fungsi-gx-900",
+            "question": "Dik: f(x) =x+2 dan (g lingkaran f ) (x)= x2+3x+2, fungsi g(x).................",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]gof(x)=x^2+3x+2\\\\\ng(f(x))=x^2+3x+2\\\\\ng(x+2)=x^2+3x+2\\\\\ng(x+2)=x^2+4x+4-x-2\\\\\ng(x+2)=(x+2)^2-(x+2)\\\\\ng(x)=x^2-x[/tex]",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

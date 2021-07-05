@@ -1,0 +1,134 @@
+{
+    "question": "Hitunglah jumlah 25 suku pertama bilangan ganjil yang pertama dari bilangan asli?",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "1,3,5.......... ampe yg ke 47, 49<br>U13= 25<br><br>total nya adalah<br><br><br>=(49+1)/2 x 12+25<br>=25x12+25<br>=325<br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "pada-kubus-abcd-diketahui-panjang-sisi-be48cmtentukan-panjan-128",
+            "question": "Pada kubus ABCD diketahui panjang sisi BE=\u221a48cm.tentukan panjang AB",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]perhatikan\\ segitga\\ ABE\\\\\nmisal\\ panjang\\ AB=AE=s\\\\\ngunakan\\ teorema\\ pythagoras\\\\\nAB^2+AE^2=BE^2\\\\\ns^2+s^2=(\\sqrt{48})^2\\\\\n2s^2=48\\\\\ns^2=24\\\\\ns=AB=\\sqrt{24}\\ atau\\ s=-\\sqrt{24}\\ (TM)[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-selidiki-bahwa-detan-det-an-untuk-a-2-1-673",
+            "question": "1. Selidiki bahwa det(A^n) = (det A)^n untuk    A = \u00a0\u00a0 2\u00a0 \u00a0 -1\u00a0 \u00a0 3\r\n\u00a0\u00a0 \u00a0 \u00a0 \u00a0 1\u00a0 \u00a0\u00a0 2\u00a0 \u00a0\u00a0 4\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 dengan n = 3\r\n\r\n\u00a0\u00a0 \u00a0 \u00a0 \u00a0 5\u00a0 \u00a0\u00a0 -3\u00a0 \u00a0 6\u00a0 \u00a0 \u00a0 \r\n2. Tentukanlah z yang memenuhi persamaan berikut !\r\n\u00a0 \u00a0 z \u00a0 \u00a0 \u00a0 5 \u00a0 \u00a0 \u00a0 7\r\n\u00a0 \u00a0 0 \u00a0 \u00a0 z+1 \u00a0 \u00a0 6\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 = 0\r\n\u00a0 \u00a0 0 \u00a0 \u00a0 \u00a0 0 \u00a0 \u00a0 \u00a0 2z-1 \u00a0 \u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "buat nomor 2. <br>pokoknya tambah 2 baris ke kanan, jadinya persamaan<br>z(z+1)(2z-1)+0+0-(0+0)=0<br>z(z+1)(2z-1)=0<br>maka:<br>z1= 0<br>z2=-1<br>z3=1/2<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Jawaban\u00a0dari\u00a0soal\u00a0diatas:<br>1.57<br>2.28",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-peta-berskala-110000000-jarak-kota-jambi-dan-palembang-p-299",
+            "question": "sebuah peta berskala 1:10000000. jarak kota jambi dan palembang pada peta jaraknya 2,4 cm. seorang supir bus berangkat dari kota jambi menuju kota palembang dengan kecepatan rata rata 80 km per jam. selama perjalanannya, ia berhenti istirahat sebanyak 1 kali selama 30 menit. ia tiba di kota palembang pukul 10.30 wib . \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 pertanyaannya: berapa jam bis tu di perjalanan? \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 jawabannya di berikan cara penyelesaiannya",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Jarak = skala \u00d7 jarak pd peta<br>Jarak = 100 \u00d7 2,4<br>Jarak = 240 km<br><br>Waktu = Jarak \u00f7 Kecepatan<br>Waktu = 240 \u00f7 80<br>Waktu = 3 jam<br><br>waktu perjalanan = 3 jam - 30 menit = 2 jam 30 menit<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "deret-4-10-16-k-374-jadi-tentukan-nilai-k-adalah-338",
+            "question": "Deret 4 + 10 +16 +.....+k = 374. Jadi tentukan nilai K adalah...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]a=4,b=4,U_n=k\\\\\nU_n=a+(n-1)b\\\\\nk=4+(n-1)6\\\\\n\\frac{k-4}{6}+1=n\\\\\n\\frac{k-4+6}{6}=n\\\\\n\\frac{k+2}{6}=n\\\\\n\nS_n=\\frac{n}{2}(a+U_n)\\\\\n374=\\frac{\\frac{k+2}{6}}{2}(4+k)\\\\\n374=\\frac{k+2}{12}(4+k)\\\\\n4488=(k+2)(k+4)\\\\\nk^2+6k+8=4488\\\\\nk^2+6k-4480=0\\\\\nk_{1,2}=\\frac{-6 \\underline{+}\\sqrt{6^2-4(1)(-4480)}}{2}\\\\\nk_{1,2}=\\frac{-6 \\underline{+}\\sqrt{17956}}{2}\\\\\nk_{1,2}=\\frac{-6 \\underline{+}134}{2}\\\\\nk_{1,2}=-3 \\underline{+}67\\\\k_1=-3+67=64\\\\k_2=-3-67=-70(tidak memenuhi)[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-nilaim-yang-memenuhi-a-fx-mx2-m1-x-8-b-f-910",
+            "question": "Tentukan nilai\"m\" yang memenuhi :    a. f(x) = mx2 - (m+1) x-8\r\nb. f(x) = mx2 + 12x + 9m\r\njika 1 memotong sumbu x\r\njika 1 menyinggung sumbu x\r\njika 1 tidak memotong/menyinggung sumbu x",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a. <br><span><br>b. </span><br><span><br><br>i&#039;m sorry if the fals answer..<br></span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "carilah-persamaan-lingkaran-yang-melengkapi-segitiga-siku-siku-ya-417",
+            "question": "carilah persamaan lingkaran yang melengkapi segitiga siku-siku yang titik-titik sudutnya adalah(0,0)(8,0)(0,6) ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "8x+6y klo gak salah\u00a0<br>harap dimaklumi\u00a0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "hitung-jumlah-bilangan-yg-habis-dibagi-3-tapi-tidak-habis-dibagi-361",
+            "question": "Hitung jumlah bilangan yg habis dibagi 3 tapi tidak habis dibagi 5. Dari 1-75\r\ntolong bantuuu u.u",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "3,6,9,12,18,21,24,27,33,36,39,42,48,51,54,57,63,66,69,72<br>berarti jumlah ada 20 bilangan yang habis dibagi 3 dan tidak habis dibagi 5",
+                    "attachments": []
+                },
+                {
+                    "answer": "3, 6.9.12,18,21,24,27,33,36,39,42,48,51,54,57,63,66,69,72<br><br>jadi ada 20",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sederhanakan-bentuk-logaritma-berikut-a-2log242log-852",
+            "question": "Sederhanakan bentuk logaritma berikut.\r\n\r\na.\u00a0\u00b2log24+\u00b2log",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]^2log24+\\ ^2log\\frac{1}{3}=\\ ^2log(24(\\frac{1}{3}))\\\\\n^2log24+\\ ^2log\\frac{1}{3}=\\ ^2log8\\\\\n^2log24+\\ ^2log\\frac{1}{3}=\\ ^2log2^3\\\\\n^2log24+\\ ^2log\\frac{1}{3}=\\ 3[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "temukan-fungsi-fx-pada-r-a-f2-3x-3x-4-b-fx-2-x-663",
+            "question": "Temukan fungsi f(x) pada R : \r\na.\u00a0f(2-3x) = 3x + 4\r\nb. f(x + 2) = x2 + 4x",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "2-3x = 3x+4<br>-6x = 2<br>x \u00a0 = -2/6<br>x \u00a0= -1/3<br><br>x+2= x2 +4x<br>-x2 - 3x + 2 = 0 dikali -1 agar -x2 menjadi positif<br>x2 + 3x - 2 = 0<br>\u00a0tidak ketemu jawabannya<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "f(2-3x) = 3x + 4<br>f(2-3x) = -(-3x+2)+6<br>f(2-3x) = -(2-3x)+6<br>f(x) = -x+6<br><br>f(x+2) = x^2 + 4x<br>f(x+2) = x^2 + 4x + 4 - 4<br>f(x+2) = (x+2)^2 -4<br><span>f(x) \u00a0 \u00a0 = x^2 -4<br></span><br>dari kak reanind nih",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-luas-belah-ketupat-abcd-480-cm2-jika-panjang-diagona-923",
+            "question": "Diketahui luas belah ketupat ABCD = 480 cm\u00b2 jika panjang diagonal AC = 20 cm, keliling belah ketupat ABCD adalah....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "d1 . d2 / 2 = 480<br>20 . d2 / 2 = 480<br>d2 = 48 cm<br><br>nanti cari sisi miring dengan phytagoras 10\u00b2 + 24\u00b2 = s\u00b2<br>baru keliling = 4 x sisi miring",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,140 @@
+{
+    "question": "Ada yang tau rumus rumus GERAK MELINGKAR BERATURAN ?",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "<span>v = 2\u03c0R/T \u00a0\u00a0atau \u00a0v = 2\u03c0Rf</span>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "mengapa-gear-sepeda-berbeda-dengan-gear-sepeda-motor-lalu-kenap-474",
+            "question": "mengapa gear sepeda berbeda dengan gear sepeda motor? lalu, kenapa sepeda tidak meniru gear sepeda motor?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Karena gear sepedah di kayuh secara manual oleh manusia yang tenaganya terbatas..<br>sedangkan gear motor tdk dikayuh melainkan dengan mesin..<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "berikan-penjelasan-mengenai-energi-kinetik-rotasi-dan-contohnya-892",
+            "question": "Berikan penjelasan mengenai energi kinetik rotasi dan contohnya",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Pengertian Energi kinetik<span>\u00a0\u00a0adalah energi \u00a0gerak yang diperoleh sebagai gerakan dari obyek,\u00a0</span>partikel<span>, atau seperangkat partikel. \u00a0Sebuah obyek yang memiliki gerak, apakah itu gerak vertikal atau horizontal, maka sebuah obyek tersebut berarti memiliki energi kinetik. Faktor yang mempengaruhi energi kinetik adalah semakin berat sebuah obyek tersebut dan semakin cepat pula obyek tersebut bergerak maka energi kinetik yang yang dimiliki obyek tersebut semakin besar. \u00a0<br>Ada banyak bentuk energi kinetik antara lain yaitu : \u00a0getaran (energi karena gerak getaran), rotasi (energi karena gerak rotasi atau berputar), dan translasi (energi karena gerakan perpindahan dari satu lokasi ke lokasi lain).</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apa-itu-sebenarnya-momentum-311",
+            "question": "Apa itu sebenarnya momentum?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "momentum adalah saat yang menentukan<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Dalam\u00a0fisika<span>,\u00a0</span>momentum<span>\u00a0atau\u00a0</span>pusa<span>\u00a0adalah besaran yang berhubungan dengan\u00a0</span>kecepatan<span>\u00a0dan\u00a0</span>massa<span>\u00a0suatu benda.</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-pada-magnet-bentuk-keping-lingkaran-bagaimana-letak-kutubnya-189",
+            "question": "Jika pada magnet bentuk keping lingkaran bagaimana letak kutubnya? \u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Sama saja. Kan bentuknya lingkaran, berarti lingkaran itu dibagi dua sisi. Menjadi dua bangun setengah lingkaran. Yang atasnya kutub utara dan yang bawahnya kutub selatan. Okay ? @Liwed",
+                    "attachments": []
+                },
+                {
+                    "answer": "setau aku g beda dah.. sma aj..?",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebatang-tembaga-dipanaskan-sampai-3000-c-lalu-dijepit-dengan-560",
+            "question": "Sebatang tembaga dipanaskan sampai 300^{0} C, lalu dijepit dengan kuat, sehingga tidak dapat menyusut ketika suhunya turun. Jika tegangan patahnya 220 x 10^{6} N/m^{2}, pada suhu berapakah batang akan mulai putus saat suhunya diturunkan? Diketahui modulus Young tembaga 110 x 10^{9} N/m^{2} dan koefisien muai panjang 15 x ^{-6} K.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "menurut Teori elastisitas, <br><br>\ntegangan = modulus Elastisitas *  regangan <br><br>\n\u03c3 = E \u03b5 <br><br>\n\u03c3 = E \u0394L/L <br><br>\n\u03c3 = E \u03b1 \u0394T <br><br>\n220 * 10^6 = (110 * 10^9)(15 * 10^-6)(300 - t) <br><br>\nt = 166.67 \u00b0C  <br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-balok-dengan-massa-15-kg-berada-pada-bidang-datarkemudian-973",
+            "question": "sebuah balok dengan massa 15 kg berada pada bidang datar,kemudian didorongoleh dua gaya 20 N dan 10N dalam arah yg sama .jika kondisi bidang datar dalam keadaan licin,tentukan percepatan yg dialamo balok tersebut ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "m=15kg<br>F= 20N + 10N = 30N<br>a?<br>F=m a<br>30=15a<br>a=2",
+                    "attachments": []
+                },
+                {
+                    "answer": "m = 15 kg<br>F = 20 N + 10 N = 30 N<br>gaya gesek tidak ada karna lantai licin<br><br>maka a..?<br>ingat F = m.a<br>30 N = 15 kg .a<br>30 N/15 kg =a<br>2 m/s^2 = a :)",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "titik-berat-pelat-yang-bentuknya-seperti-gambar-dibawwah-adalah-632",
+            "question": "Titik berat pelat yang bentuknya seperti gambar dibawwah adalah",
+            "attachments": [
+                "question-attachments/titik-berat-pelat-yang-bentuknya-seperti-gambar-dibawwah-adalah-632-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "mav, hehe, fisika pa mm, saya coba ea, btul pa salah<br>-jk ttik brat thd sumbu x maka:<br>\u00a0\u00a0 -1.12+1.4+1.4 / -12+4+4 = y<br>\u00a0\u00a0 -12+4+4 / 20 = y<br>\u00a0\u00a0 y = -4/20<br>\u00a0\u00a0 y= -1/5<br><br>-jk ttik berat thd sumbu y<br>\u00a0 3.12+1.4+5.4 / 12+4+4 = x<br>\u00a0 36+4+20 / 20 = x<br>\u00a0 x= 60/20<br>\u00a0 x= 3<br><br>hehe, mav kalo GJ, pengawuran mode ON<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-sebuah-katrol-berbentuk-silinder-homogen-dengan-massa-2-241",
+            "question": "Diketahui sebuah katrol berbentuk silinder homogen dengan massa 2 kg,jari jari 20 cm,dan F=10 N.tentukan    a.momen gaya yang dikerjakan F pada katrol\r\n b.momen inersia katrol\r\n c.percepatan sudut katrol",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a.) momen gaya= F . r = 10 . 0,2 = 2 Nm\u00a0<br>b.) I = MR\u00b2 / 2 = 2 . 0,2\u00b2 = 0,08 kgm\u00b2\u00a0<br>c.) momen gaya = I .\u00a0\u03b1\u00a0\u21d4\u00a0\u03b1 = momen gaya / I = 2 / 0,08 = 25 rad/s\u00b2\u00a0<br>maaf kalau salah\u00a0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-benda-bermassa-100-kg-yg-mula-diam-didorong-sedemikian-ru-743",
+            "question": "sebuah benda bermassa 100 kg yg mula\" diam didorong sedemikian rupa sehingga persepatan 0,2 m/s2 (kuadrat).berapa besar gaya yg bekerja pada benda tersebut ?\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "dik = m = 100 kg<br>\u00a0 \u00a0 \u00a0 \u00a0 a = 0,2 m/s^2<br>F..?<br>ingat F = m.a\u00a0<br>sehingga, F = 100 kg . 0,2 m/s^2 = 20 N :)",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span>dik = m = 100 kg<br>\u00a0 \u00a0 \u00a0 \u00a0 a = 0,2 m/s^2<br>F..?<br>ingat F = m.a\u00a0<br>sehingga, F = 100 kg . 0,2 m/s^2 = 20</span><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-silender-pejal-diletakan-di-atas-puncak-bidang-miring-kasa-728",
+            "question": "sebuah silender pejal diletakan di atas puncak bidang miring kasar dengan ketinggian h.kecepatan silinder di kaki bidang miring adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "karena ga dikasih tau angkanya, saya kasih tau caranya<br>hitung I silinder pejal = 1/2 mr\u00b2<br>hitung torsi = I x\u00a0\u03b1<br>I = mr\u00b2<br>ingat, torsi adalah F.r<br>\u03a3F = m . a<br>F-fg (permukaan kasar, ada gaya gesek) = m .a<br>\u03b1 = a/r<br><br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

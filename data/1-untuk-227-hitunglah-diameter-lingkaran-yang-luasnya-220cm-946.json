@@ -1,0 +1,150 @@
+{
+    "question": "1. Untuk\u00a0 = 22/7 hitunglah diameter lingkaran yang luasnya 220cm\u00b2    2. Jika keliling suatu kebun yang berbentuk lingkaran adalah 176 m, berapakah luas kebun tersebut?\r\n\r\n3. Hitunglah luas daerah yang diarsir! (Lihat di gambar)",
+    "attachments": [
+        "question-attachments/1-untuk-227-hitunglah-diameter-lingkaran-yang-luasnya-220cm-946-1.png"
+    ],
+    "answers": [
+        {
+            "answer": "a. L = \u03c0 r\u00b2<br>220 = <u>22</u>\u00a0 \u00d7 r\u00b2<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0\u00a0 7<br>220 \u00d7<u>\u00a0 7\u00a0</u> = r\u00b2<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0\u00a0 22<br>\u221a70 = r<br><br>b. K = \u03c0 d<br>176 = <u>22</u> \u00d7 d<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0\u00a0 7<br>176 \u00d7\u00a0<u> 7\u00a0</u> = d<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 22<br>56 = d<br>28 = r<br><br>L = \u03c0 x r\u00b2<br>\u00a0\u00a0 = <u>22</u> \u00d7 28 \u00d7 28<br>\u00a0\u00a0 \u00a0 \u00a0 7<br>\u00a0\u00a0  = 2464 cm\u00b2<br><br>c. L arsir = L persegi - L 1/2 lingkaran<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0  = 14 \u00d7 14\u00a0 -\u00a0 <u>1 </u>\u00d7 <u>22</u> \u00d7 7 \u00d7 7<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 2 \u00a0\u00a0 7 \u00a0 \u00a0 <br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 196 - 77<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 119 cm\u00b2",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "tentukan-nilai-x-jika-2x12x22x32x504275-893",
+            "question": "Tentukan nilai X, jika (2x+1)+(2x+2)+(2x+3)+...+(2x+50)=4275",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]Sn= \\frac{n}{2} (U1+Ut)[/tex]<br>u1 adalah suku pertama =(2x+1)<br>ut adalah suku terakhir=(2x+50)<br>banyak nya n suku tsb adalah 50 atau n = 50<br>[tex]Sn= \\frac{n}{2} (U1+Ut)[/tex]<br>4275=[tex] \\frac{50}{2} ( (2x+1)+(2x+50))[/tex]<br>4275=[tex]25(4x+51)[/tex]<br>[tex] \\frac{4275}{25} =4x+51[/tex]<br>171=4x+51<br>120=4x<br>x=3",
+                    "attachments": []
+                },
+                {
+                    "answer": "Dik : a = 2x+1<br>\u00a0\u00a0 \u00a0 \u00a0  n = 50\u00a0 , b = 1<br>\u00a0\u00a0 \u00a0 \u00a0 S50 = 4275<br>Dit : x , untuk mencari x maka harus tau nilai a<br>Jawab :<br>Sn = 1/2 n (2a + (n-1) b)<br>4275 = 1/2 (50) (2a + (50-1)(1))<br>4275 = 25 (2a + 49)<br>171 = 2a + 49<br>171 - 49 = 2a<br>122 = 2a<br>a = 61<br><br>a = 2x+1<br>61 = 2x + 1<br>61-1 = 2x<br>60 = 2x<br>x = 30<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "untuk-membangun-ruang-kelas-baru-sebanyak-2-kelas-akan-selesai-da-253",
+            "question": "untuk membangun ruang kelas baru sebanyak 2 kelas akan selesai dalam waktu 50 hari jika dikerjakan oleh 15 orang tukang. setelah 20 hari bekerja bahan habis, pekerjaan terhenti 5 hari. berapa orang tukang ditambah agar ruang kelas itu tetap selesai tepat waktu?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<strong><em>Target selesai</em></strong>=50 hari<br><strong><em>Byk pekerja awal</em></strong>=15 org<br><strong><em>Libur</em></strong>=5 hr<br><strong><em>Sisa hari</em></strong>=50-(20+5)=25 hari<br><br><strong><em>Pekerja tambahan=byk pekerja awalxlibur/sisa hari</em></strong><br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0=[tex] \\frac{15.5}{25} \\\\  \\\\ 3 org [/tex]<br><br>Jadi <strong><em>tambaan pkerja 3 orang</em></strong> dan jumlah pekerja mnjadi 18 orang",
+                    "attachments": []
+                },
+                {
+                    "answer": "akan bertambah 17 tukang<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "3a-5b-a-4b-bentuk-sederhana-adalah-572",
+            "question": "3a - 5b -a -4b bentuk sederhana adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "samain dlu sukunya\u00a0 3a - 5b - a - 4b ,,,,, jadi\u00a0 3a - a - 5b - 4b<br>baru dijawab ,,,, jwaban.a 2a - b<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Jawabnya adalah 2a-9b :))",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "ini-caranya-bagaimana-625",
+            "question": "Ini caranya bagaimana?",
+            "attachments": [
+                "question-attachments/ini-caranya-bagaimana-625-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "Caranya : Luas persegi panjang - Luas bagian yang tidak diarsir<br><br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "L. arsir = (35 x 15) - L.setengah lingkaran - L.persegi<br>= 525 - 77 - 36<br>= 412 cm^2",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "untuk-1-hari-1-malam-24-jam-ada-berapa-kali-putaran-jam-menent-746",
+            "question": "Untuk 1 hari 1 malam (24 jam), ada berapa kali putaran jam menentukan ukuran sudut terbesar dari :    a. 90\u00b0\r\nb. 150\u00b0\r\nc. 180\u00b0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a. 48x<br>b. 48x<br>c.24x<br>a dan b : 1 jam 2x putaran<br>c : 1 jam 1x putaran.<br>jadi, a dan b : 2x24 = 48<br>c : 1x24 = 24<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "help-me-5ab-pp-ab-x-a-370",
+            "question": "Help me :(\r\n-. \u2074\u221a5a\u00b3b\u00b2\r\n-. (-p\u00b2\u221ap\u00b2)\u2075\r\n-. ab\u207b\u00b2 x a\u207b\u00b2.b\u207b\u00b3",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex] \\sqrt[4]{5} [/tex]\u00a0a^3/4b^1/2<br>-p^10 . p^5 = p^15<br>a^-1 . a^-5<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "romus-keliling-pythagoras-798",
+            "question": "Romus keliling pythagoras",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<strong>untuk segitiga siku-siku di titik A, berlaku</strong><br><strong>AB\u00b2 + AC\u00b2 = BC\u00b2</strong>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "penderita-kanker-dan-jantung-dirumah-sakit-sebanyak-86-orang-kan-935",
+            "question": "Penderita kanker dan jantung dirumah sakit sebanyak 86 orang.    kanker 35 orang.\r\n15 orang menderita kanker dan jantung\r\npertanyaan:\r\n1.banyak penderita yang sakit jantung ada berapa orang ???",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]S=86 \\\\ K=35-15=20 \\\\ keduanya=15 \\\\ Jantung=86-(20+15) \\\\ =86-35 \\\\ =51[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1toko-buku-sedang-memberikan-diskon-untuk-para-pelanggan-nyahar-359",
+            "question": "1.toko buku sedang memberikan diskon untuk para pelanggan nya.harga buku A adalah rp.20.000,00/buah dan buku B adalah rp.15.000,00/buah .jika setiap buku Adi berikan diskon 5% dan buku B sebesar 20%,maka berapa uang yg harus di keluarkan jika membeli 3 uku A dan 2 buku B..??    2.Masayu membeli baju seharga rp.84.000,00 dan celana panjang seharga rp.120.000,00.jika dia mendapat diskon 5% untuk bajunya dan 18% untuk celana panjang nya,maka berapa uang yang harus dikeluarkan masayu...??\r\ntolong dengan cara menjawab yaa",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1. A = 85/100 x 60.000 = 51.000<br>B = 60/100 x 30.000 = 18.000<br>Total : 51.000<br><br>2. Baju = 95/100 x 84.000 = 79.800<br>Celana = 82/100 x 120.000 = 98.400<br>Total : Rp178.200,00<br><br>Sorry kalo salah<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "1. buku A = 20.000*3=60.000<br>\u00a0 \u00a0 60.000*5% =3000<br>\u00a0 \u00a0 harga setelah di diskon 60.000-3000=57.000<br>\u00a0 \u00a0 buku B=15.000*2=30.000<br>\u00a0 \u00a0 30.000*20%=6000<br>\u00a0 \u00a0 harga setelah didiskon 30000-6000= 24000<br><br><br>klo tdk slah",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "mau-tanya-setelah-9-bulan-tabungan-ali-menjadi-rp3815000ji-605",
+            "question": "Mau tanya,,,    setelah 9 bulan tabungan ali menjadi Rp.3.815.000.jika jasa yg dterima 12%/tahun mk tabungan awal ali adalah...??\r\nmohon jawaaabannyaa,,,,",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex] \\frac{100}{112} [/tex]\u00a0\u00d7 3.815.000 = 3.406.250",
+                    "attachments": []
+                },
+                {
+                    "answer": "Rp.3.500.000\u00a0<br>pokoknya itu hasilnya terlalu panjang \u00a0caranya\u00a0",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

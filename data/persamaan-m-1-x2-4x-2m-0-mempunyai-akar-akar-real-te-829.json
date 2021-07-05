@@ -1,0 +1,138 @@
+{
+    "question": "Persamaan (m - 1)\u00a0x\u00b2 + 4x + 2m = 0 mempunyai akar-akar real. Tentukan nilai m yg memenuhi!",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "JAWAB.<br>akar akarnya<br>x= -2 m= 2<br>x= 0 m=0<br>x=1 m= -1<br>x=4 m=0<br><br>nilai m = 1 dan x = -1/2<br>",
+            "attachments": []
+        },
+        {
+            "answer": "D&gt;0<br>x\u00b2+4x+2m&gt;0<br>b\u00b2-4ac<br>(4)\u00b2-4.1.2m&gt;0<br>16-8m&gt;0<br>-8&gt;-16<br>m&lt;2<br>jadi m nya : 1<br>mungkin begitu, semoga benar :D",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "5-sin-a-cos-a-4-sin-a-3-cos-a-tentukan-nilai-a-dengan-kis-323",
+            "question": "5 (sin A - cos A) = 4 sin A - 3 cos A\r\n\r\nTentukan nilai A dengan kisaran 0-360 derajat",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "5(sin A - cos A) = 4 sin A -3 cos A<br>5 sin A - 5 cos A = 4 sin A - 3 cos A<br>2 cos A = sin A<br>A = 2 (\u03c0n + tan^-1(1/2(-1-\u221a5)))<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-bantu-saya-kerjakan-dik-f2x-34x-7maka-nilai-dari-852",
+            "question": "Tolong Bantu saya kerjakan\u00a0 \r\nDIK=\u00a0 f(2x-3)=4x-7,maka nilai dari F(17)-F(7) adalah...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "f(17) = 117\u00a0<br>f(7) = 37\u00a0<br>jadi hasilnya 80. kalo enggak salah yaaa",
+                    "attachments": []
+                },
+                {
+                    "answer": "f = 4(2x-3) - 7<br>\u00a0= 8x - 12 - 7<br>\u00a0= 8x - 19<br>f 17 = 8(17) - 19 = 117<br>f 7 = 8 (7) - 19 = 37<br><br>nilai f17-f7 = 117 - 37 = 80<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-dua-barisan-aritmetika-pada-barisan-pertama-berlaku-u2-357",
+            "question": "diketahui dua barisan aritmetika. pada barisan pertama berlaku U2+U4+U6+U8=32 dengan beda barisan 5. pada barisan kedua berlaku V2+V4+V6+V8=52 dengan beda barisan 4 nilai dari(U1+U3+U5)-(V1+V3+V5)=.....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "U2 + U4 + U6 + U8\u00a0 = 32 (beda = 5)<br>V2 + V4 + V6 + V8 = 52 (beda = 4)<br><br>(a + 5) + (a + 15) + (a + 25) + (a + 35) = 32<br>4a + 80 = 32<br>4a = -48<br>a = -12<br><br>(a + 4) + (a + 12) + (a + 20) + (a + 28) = 52<br>4a + 64 = 52<br>4a = 12<br>a = 3<br><br><span>(U1+U3+U5)-(V1+V3+V5) = (-12 + (-2) + 8) - (3 + 11 + 19) = -39 </span><br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "U1 + U3 + U5 = U2 + U4 + U6 + U8 - 4b -\u00a0<br><br>U2 + U4 + U6 + U8 = 4U1 + (1+3+5+7)b = 32<br>4U1 + 16.5 = 32<br>4U1 = 32-80<br>U1 = -48/4<br>U1 = -12<br><br><span>V2\u00a0+\u00a0V4\u00a0+\u00a0V6\u00a0+\u00a0V8\u00a0=\u00a052<br></span>4V1 + 16.b = 52<br>4V1 + 16.4 = 52<br>4V1 = 52-64<br>V1 = -12/4<br>V1 = -3<br><br>jadi jawabannya<br>(-12 -\u00a07 - 2) - (-3 + 1 + 5) = -21 - 3 = <strong>-18</strong>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pak-daniel-seorang-karyawan-perusahaan-ia-membeli-sebuah-mobil-513",
+            "question": "pak\u00a0daniel seorang karyawan perusahaan. ia membeli sebuah mobil bekas seharga Rp90.000.000,00.\u00a0dan dikenakan pajak\u00a0penjualan\u00a0sebesar 5%.berapa rupiah uang yang harus dibayar pak daniel untuk pembelian mobilnya?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Rp4500000, karena 90000000 x 5/100",
+                    "attachments": []
+                },
+                {
+                    "answer": "90000000x5/100 = 4500000<br>90000000+4500000=94500000<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-jumlah-10-suku-pertama-barisan-aritmatika-adalah-1255-473",
+            "question": "diketahui jumlah 10 suku pertama barisan aritmatika adalah 1255, jika bedanya 6. tentukanlah suku pertama dan rumus suku ke-n?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "U1 + U2 +..... + U10 = 10U1 + (1\u00a0+\u00a02\u00a0+ 3 + 4 + 5 + 6 + 7 + 8 + 9)b =1225<br><br>10U1 + 45.6 = 1255<br>10U1 +\u00a0270 = 1255<br>10U1 = 985<br>U1 = 98,5<br><br>Un = U1 + (n-1)b<br>Un = 98,5 + (n-1)6<br>Un = 98,5 + 6n -\u00a06<br>Un = 6n + 92,5",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "hitunglah-jumlah-25-suku-pertama-bilangan-ganjil-yang-pertama-dar-552",
+            "question": "Hitunglah jumlah 25 suku pertama bilangan ganjil yang pertama dari bilangan asli?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1,3,5.......... ampe yg ke 47, 49<br>U13= 25<br><br>total nya adalah<br><br><br>=(49+1)/2 x 12+25<br>=25x12+25<br>=325<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-kotak-berisi-10-kelereng-biru8-kelereng-kuningdan-2-kele-236",
+            "question": "sebuah kotak berisi 10 kelereng biru,8 kelereng kuning,dan 2 kelereng merah.jika diambil dua kelereng sekaligus,peluang terambil keduanya kelereng biru atau keduanya kelereng kuning adalah...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Biru = 10<br>Kuning = 8<br>Merah = 2<br>Total kelereng = 20<br><br>Peluang terambil keduanya kelereng biru = 10C2 = 10!/((10 - 2)! * 2!) = (9 * 10)/(2) = 45<br>Peluang terambil keduanya kelereng kuning = 8C2 = 8!/((8 - 2)! * 2!) = (7 * 8)/(2) = 28<br>Peluang terambil keduanya dari total = 20C2 = 19 * 20 / 2 = 190<br><br>Peluang keduanya biru = 45/190 <br>Keduanya merah = 28/190<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-b-dan-c-dan-determinan-dari-matriks-bc-adalah-k-885",
+            "question": "diketahui B =\u00a0, dan C = dan determinan dari matriks B.C adalah K. jika garis 2x - y = 5 dan x + y = 1 berpotongan di titik A, maka persamaan garis melalui A dan bergradien K adalah...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "det B = -2<br>det C = -6<br>K = det B . det C = -2 . -6 = 12<br><br>eliminasi y<br><span>2x - y = 5<br>x + y = 1<br></span>3x = 6<br>x = 2<br><br>subs ke x + y = 1<br>2 + y = 1<br>y = -1<br><br>(x, y) = (2, -1)<br>persamaan baru dengan gradien 12<br>y = 12x - 25",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "gradien-garis-dri-persamaan-3x-6y-5-yaitu-133",
+            "question": "Gradien garis dri persamaan 3x-6y=-5 yaitu ....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kelas : 8<br>Mapel : Matematika<br>Kategori :\u00a0Bab 3 - Persamaan Garis<br>Kata Kunci : persamaan garis, gradien<br>Kode : 8.2.3 [Kelas 8 Matematika Bab 3 - Persamaan Garis]<br><br>Pembahasan :<br><p>Persamaan garis lurus adalah persamaan berbentuk\u00a0<br>ax + by = c<br>dengan a, b, dan c merupakan bilangan-bilangan real, a\u00a0\u2260 0 atau b\u00a0\u2260 0.</p><br>Gradien adalah nilai yang menyatakan kecondongan suatu garis yang dinotasikan dengan m.<br><br>Garis dengan persamaan ax + by = c memiliki gradien\u00a0<br>m =\u00a0[tex]- \\frac{a}{b} [/tex]<br><br>Garis yang melalui titik P(x\u2081, y\u2081) dan Q(x\u2082, y\u2082) memiliki gradien\u00a0<br>m =\u00a0[tex] \\frac{y_2-y_1}{x_2-x_1} [/tex]<br><br>Mari kita lihat soal tersebut.<br>Tentukan gradien garis dengan persamaan 3x - 6y = -5!<br><br>Jawab :<br>Diketahui persamaan<br>3x - 6y = -5<br>\u21d4 -6y = -5 - 3x<br>\u21d4 y =\u00a0[tex] \\frac{5}{-6} [/tex] -\u00a0[tex] \\frac{3}{-6} [/tex]x<br>\u21d4 y = -[tex] \\frac{5}{6} [/tex] + [tex] \\frac{3}{6} [/tex]x<br>\u21d4 y = -[tex] \\frac{5}{6} [/tex] + [tex] \\frac{1}{2} [/tex]x<br>\u21d4 m = [tex] \\frac{1}{2} [/tex]<br><br>Jadi, persamaan 3x - 6y = -5 memiliki gradien [tex] \\frac{1}{2} [/tex].<br><br>Soal lain untuk belajar :\u00a0<br>1.\u00a0https://brainly.co.id/tugas/12602883<br>2.\u00a0https://brainly.co.id/tugas/1686609<br>3.\u00a0https://brainly.co.id/tugas/130401<br>4.\u00a0https://brainly.co.id/tugas/1398763<br>5.\u00a0https://brainly.co.id/tugas/3136258<br>6.\u00a0https://brainly.co.id/tugas/12689804<br><br>Semangat!<br><br>Stop Copy Paste!",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "contoh-soal-pernyataan-majemuk-dan-pernyataan-berkuantor-logika-m-485",
+            "question": "Contoh soal pernyataan majemuk dan pernyataan berkuantor logika matematika",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "soal ini masih misteri... :D<br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

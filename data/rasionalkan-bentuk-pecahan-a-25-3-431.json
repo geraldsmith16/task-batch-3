@@ -1,0 +1,144 @@
+{
+    "question": "Rasionalkan bentuk pecahan\u00a0    a.\u00a0 \u00a0 2\u221a5 \u00a0 \u00a0\r\n \u00a0 \u00a0\u221a3 +\u00a0\u221a5\r\n\r\nBeri penjelasannya yaa. Dan LENGKAP Juga :)\r\nyang Lengkap\u00a0bintang 5.",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "ini namnya persekutuan sekawanan.Jadi kalo ypenyebut minus,ntar dikalikan dengan yang plus.Dan sebaliknya<br><br>2\u221a5 per(/) \u221a3+\u221a5 dikali(*)\u221a3-\u221a5 per(/) \u221a3-\u221a5 = 2\u221a15-2\u221a25 per(/) 3-5=2\u221a15-2\u221a25 per(/) -2<br><br>",
+            "attachments": []
+        },
+        {
+            "answer": "\\frac{2V5}{V3+V5} = \\frac{2V5}{V3+V5} \\frac{V3-V5}{V3-V5 }=\n \\frac{2V5(V3-V5)}{3-5}  =\u00a0V5(V3-V5)",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "diketahui-barisan-aritmatika-dengan-suku-ke-9-51-dan-suku-ke-1-466",
+            "question": "Diketahui barisan aritmatika dengan suku ke-9 = 51, dan suku ke-13= 79. suku ke 6 adalah...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "13-9 = 4<br>Jadi jarak antar kedua suku adalah 4<br>79-51= 28<br>Jadi selisih kedua suku adalah 28<br>4 = 28<br>1= 7<br>Jadi, beda antar suku adalah 7<br>Jadi, barisan aritmatikanya adalah<br>-5,2,9,16,23,30,37,44,51<br>Suku ke 6 adalah 30 ^^<br>semoga betul kak :D",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "inilah-triple-phytagoras-tadi-ada-yg-request-271",
+            "question": "Inilah \"TRIPLE PHYTAGORAS\"..\r\n#tadi ada yg request",
+            "attachments": [
+                "question-attachments/inilah-triple-phytagoras-tadi-ada-yg-request-271-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "tq bro...........................<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pak-daniel-seorang-karyawan-perusahaan-ia-membeli-sebuah-mobil-513",
+            "question": "pak\u00a0daniel seorang karyawan perusahaan. ia membeli sebuah mobil bekas seharga Rp90.000.000,00.\u00a0dan dikenakan pajak\u00a0penjualan\u00a0sebesar 5%.berapa rupiah uang yang harus dibayar pak daniel untuk pembelian mobilnya?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Rp4500000, karena 90000000 x 5/100",
+                    "attachments": []
+                },
+                {
+                    "answer": "90000000x5/100 = 4500000<br>90000000+4500000=94500000<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sekeping-uang-logam-dilempar-10-kali-berapa-frekuensi-harapan-mu-577",
+            "question": "Sekeping uang logam dilempar 10 kali. berapa frekuensi harapan munculnya sisi gambar?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "kesempatan msg\" sisi = 1/2<br>1/2 x 10 = 5<br>:D",
+                    "attachments": []
+                },
+                {
+                    "answer": "peluang gambar = 1/2<br><br>frekuansi harapan = peluang x banyak pelemparan = (1/2) x 10<br>frekuensi harapan sisi gambar = 5",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suatu-suku-banyak-fx-jika-dibagi-x4x-5-mempunyai-sisa-8x-11-d-349",
+            "question": "suatu suku banyak f(x) jika dibagi x^+4x-5 mempunyai sisa 8x-11 dan jika dibagi x^-x-6 mempunyai sisa 5x+6. Hitunglah sisanya jika dibagi x^+2x-15!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]x^2+4x-5=(x+5)(x-1)\\\\\nf(-5)=8(-5)-11=-51\\\\\\\\\nx^2-x-6=(x-3)(x+2)\\\\\nf(3)=5(3)+6=21\\\\\\\\\nx^2+2x-15=(x+5)(x-3)\\\\\nS(x)=mx+n\\\\\nS(-5)=-5m+n=-51\\\\\nS(3)=3m+n=21\\\\\neliminasi\\ kedua\\ pers\\ tsb\\\\\n-8m=-72 \\rightarrow m=9\n3m+n=21 \\rightarrow 3(9)+n=21 \\rightarrow n=-6\\\\\njadi, S(x)=9x-6[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "temukan-grafik-fungsi-kuadrat-fx-4x2-8x3-dari-grafik-fung-281",
+            "question": "Temukan grafik fungsi kuadrat f(x) = 4x^{2}-8x+3 dari grafik fungsi kuadrat g(x) = 4x^{2} (dalam 1 grafik)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "ini gambarnya, silakan dipelajari",
+                    "attachments": [
+                        "answer-attachments/temukan-grafik-fungsi-kuadrat-fx-4x2-8x3-dari-grafik-fung-281-1.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-himp-selesaian-dari-2x25xlt3-xr-285",
+            "question": "Tentukan himp. selesaian dari 2x\u00b2+5x&lt;3, x\u2208R",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span> 2x\u00b2+5x&lt;3, x\u2208R<br></span><br><span>2x\u00b2 + 5x - 3 &lt; 0<br>(2x -1) (x+3) &lt; 0<br>2x = 1\u00a0 \u00a0 atau x = -3<br>x = 1/2<br>hp = {x|-3&lt;x&lt;1/2, </span><span><span>x\u2208R</span>}<br></span><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tuliskan-persamaan-x-y3-258",
+            "question": "Tuliskan persamaan {x-y=3}    \u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 {3x-2y=16} dalam bentukan matriks , lalu tentukan nilai 2x+5y",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "x - y = 3<br>3x -2y = 16<br><br>2x - 2y = 6<br><u>3x - 2y = 16</u> _<br><u></u>-x\u00a0 \u00a0 \u00a0 \u00a0 = -10<br><br>10 - y = 3<br>\u00a0\u00a0 \u00a0\u00a0 y = 7<br><br>2x +5y =<br>2*10 + 5*7 = 55<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "mohon-penjelasan-cara-mengerjakan-nya-terimakasih-482",
+            "question": "Mohon penjelasan cara mengerjakan nya, terimakasih",
+            "attachments": [
+                "question-attachments/mohon-penjelasan-cara-mengerjakan-nya-terimakasih-482-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "insyaallah<br>tapi man soalnya?",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-f2x-3-4x-7-maka-nilai-dari-f17-f7-adalah-379",
+            "question": "Diketahui f(2x-3) = 4x - 7, maka nilai dari f(17) - f(7) adalah...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "f(2x-3)=4x-7<br>=(2x-3)+2x-4<br>=(2x-3)+(2x-3)-1<br>maka<br>f(x)= x+x-1<br>=2x-1<br><br>f(17)=2.17-1=33<br>f(7)=2.7-1=13<br>f(17)-f(7)=33-13=20<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "f(x) = 4(2x - 3) - 7<br>f(x) = 8x - 12 - 7<br>f(x) = 8x - 19<br>f(17) = 8(17) -19<br>\u00a0\u00a0 \u00a0 \u00a0 = 136 - 19\u00a0<br>\u00a0\u00a0 \u00a0 \u00a0 117<br>f(7) = 8(7) - 19<br>\u00a0\u00a0 \u00a0 = 56 - 19<br>\u00a0\u00a0 \u00a0 =37<br>jadi f(17) - f(7) = 117 - 37 = 80<br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

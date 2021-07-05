@@ -1,0 +1,122 @@
+{
+    "question": "Diketahui dua fungsi f(x)=x-5 dan g(x)=x\u00b2+x+2, jika f(x\u00b2-1)= g(x-1) maka x=",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "[tex]f(x^2-1)=g(x-1)\\\\\n(x^2-1)-5=(x-1)^2+(x-1)+2\\\\\nx^2-6=x^2-2x+1+x+1\\\\\nx=8[/tex]",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "jika-maka-nilai-yang-mungkin-untuk-adalah-612",
+            "question": "Jika \u00a0maka nilai yang mungkin untuk \u00a0adalah ...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "soal olimpiade kah ini mas?<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bantuin-dong-ixx-fx2x5-dan-gx2x2-6x5-tentukan-a-851",
+            "question": "Bantuin dong..    I(x)=x, f(x)=2x+5, dan g(x)=2x\u00b2-6x+5 tentukan:\r\na. Iof(x)\r\nb. foI(x)\r\nc. Iog(x)\r\nd. goI(x)\r\ntrm ksih bagi yg bs jwb :) dtunggu scpatnya",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "I o f(x)<br>I (2x + 5)<br>2x +5<br><br>f o I(x)<br>f (x)<br>2x + 5<br><br>l o g(x)<br>l (2x\u00b2 - 6x + 5)<br>2x\u00b2 - 6x + 5<br><br>g o l(x)<br>g (x)<br>2x\u00b2 - 6x + 5<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-barisan-5-8-11125-punya-suku-tengah-ut-maka-t-ut-310",
+            "question": "Jika barisan 5, 8, 11........125 punya suku tengah Ut maka t + Ut adalah    mnta tolong yha kl ada yg bsa bntuin\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a= 1, Un=131<br>\u00a0Ut= 1/2(a+ Un)<br>\u00a0\u00a0\u00a0 =1/2(5+131)<br>\u00a0\u00a0\u00a0 =1/2(136)<br>\u00a0\u00a0\u00a0 = 68<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-x1-dan-x2-merupakan-akar-dari-persamaan-kuadrat-2x2-6x-430",
+            "question": "\u00a0    Jika x1 dan x2 merupakan akar dari\r\n persamaan kuadrat 2x2- 6x \u2013 8 = 0, nilai dari (x1 + x2)2\r\n \u2013 2x1. X2 adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]2x^2-6x-8=0\\\\\nx_1+x_2=\\frac{-b}{a}\\\\\nx_1+x_2=\\frac{-(-6)}{2}\\\\\nx_1+x_2=3\\\\\\\\\nx_1.x_2=\\frac{c}{a}\\\\\nx_1.x_2=\\frac{-8}{2}\\\\\nx_1.x_2=-4\\\\\\\\\n(x_1+x_2)^2-2(x_1.x_2)=(3)^2-2(-4)\\\\\n(x_1+x_2)^2-2(x_1.x_2)=17\\\\[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "gradien-garis-dri-persamaan-3x-6y-5-yaitu-133",
+            "question": "Gradien garis dri persamaan 3x-6y=-5 yaitu ....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kelas : 8<br>Mapel : Matematika<br>Kategori :\u00a0Bab 3 - Persamaan Garis<br>Kata Kunci : persamaan garis, gradien<br>Kode : 8.2.3 [Kelas 8 Matematika Bab 3 - Persamaan Garis]<br><br>Pembahasan :<br><p>Persamaan garis lurus adalah persamaan berbentuk\u00a0<br>ax + by = c<br>dengan a, b, dan c merupakan bilangan-bilangan real, a\u00a0\u2260 0 atau b\u00a0\u2260 0.</p><br>Gradien adalah nilai yang menyatakan kecondongan suatu garis yang dinotasikan dengan m.<br><br>Garis dengan persamaan ax + by = c memiliki gradien\u00a0<br>m =\u00a0[tex]- \\frac{a}{b} [/tex]<br><br>Garis yang melalui titik P(x\u2081, y\u2081) dan Q(x\u2082, y\u2082) memiliki gradien\u00a0<br>m =\u00a0[tex] \\frac{y_2-y_1}{x_2-x_1} [/tex]<br><br>Mari kita lihat soal tersebut.<br>Tentukan gradien garis dengan persamaan 3x - 6y = -5!<br><br>Jawab :<br>Diketahui persamaan<br>3x - 6y = -5<br>\u21d4 -6y = -5 - 3x<br>\u21d4 y =\u00a0[tex] \\frac{5}{-6} [/tex] -\u00a0[tex] \\frac{3}{-6} [/tex]x<br>\u21d4 y = -[tex] \\frac{5}{6} [/tex] + [tex] \\frac{3}{6} [/tex]x<br>\u21d4 y = -[tex] \\frac{5}{6} [/tex] + [tex] \\frac{1}{2} [/tex]x<br>\u21d4 m = [tex] \\frac{1}{2} [/tex]<br><br>Jadi, persamaan 3x - 6y = -5 memiliki gradien [tex] \\frac{1}{2} [/tex].<br><br>Soal lain untuk belajar :\u00a0<br>1.\u00a0https://brainly.co.id/tugas/12602883<br>2.\u00a0https://brainly.co.id/tugas/1686609<br>3.\u00a0https://brainly.co.id/tugas/130401<br>4.\u00a0https://brainly.co.id/tugas/1398763<br>5.\u00a0https://brainly.co.id/tugas/3136258<br>6.\u00a0https://brainly.co.id/tugas/12689804<br><br>Semangat!<br><br>Stop Copy Paste!",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-segitiga-pqr-dengan-pq8-qr6-pr5-tentukan-sudut-p-230",
+            "question": "Diketahui segitiga PQR, dengan PQ=8, QR=6, PR=5.    Tentukan sudut P, Q, dan R.\r\ndiketahui segitiga ABC, AB=3, BC=4, sudut B=135 derajat, panjang AC=?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "p=50,q=40,r=90<br>ac=6,5cm<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1aisyah-memiliki-sebuah-kain-yang-berbentuk-persegipanjang-ia-b-910",
+            "question": "1.Aisyah memiliki sebuah kain yang berbentuk persegipanjang. Ia berencana menghias sekeliling kain tersebut dengan renda. Jika ternyata renda yang diperlukan Aisyah paling sedikit 450 cm, perkirakan ukuran kain yang dimiliki Aisyah!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "sisi 2. panjang\u00a0 + 2. lebar .. menurut ku sisi yang panjang = 150.2= 300 dan lebarnya 75.2=150 sehingga kelilingnya = 300+150=450<br><br>lalu luasnya adalah panjang.lebar = 150.75=11.250<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-fungsi-kuadrat-mempunyai-nilai-maksimum-3-pada-saat-x-2-852",
+            "question": "sebuah fungsi kuadrat mempunyai nilai maksimum -3 pada saat x = 2, sedangkan untuk x = -2 fungsi bernilai -11. Tentukan fungsi kuadrat tersebut.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "f(x) = 2xkuadrat + 2x - 15",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "deskripsi-tentang-konsep-dasar-sudut-347",
+            "question": "Deskripsi tentang konsep dasar sudut?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "sudut adalah titik yang dibentuk oleh 2 garis yang bersinggungan atau berpotongan",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diket-x1-dan-x2-akar-akar-persamaan-kuadrat-2-x-4-0-susun-552",
+            "question": "diket x1 dan x2 akar akar persamaan kuadrat 2\u00a0- x + 4 = 0. susunlah persamaan kuadrat baru yg akar akarnya x1 . x2 dan x1 + x2",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "jika pers x\u00b2-x+4=0 maka x1 + x2 = 1 dan x1x2= 4<br>mis\u00a0\u03b1 dan\u03b2 akar2 pk baru maka<br>\u03b1+\u03b2=x1x2 +(x1+x2) = 5 dan\u00a0\u03b1\u03b2= x1x2.(x1+x2)=4<br>jadi pk baru x\u00b2-( jumlah akar)x + hasil kali akar = 0<br>\u00a0 \u00a0x\u00b2- 5)x + 4r = 0",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,146 @@
+{
+    "question": "5 (sin A - cos A) = 4 sin A - 3 cos A\r\n\r\nTentukan nilai A dengan kisaran 0-360 derajat",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "5(sin A - cos A) = 4 sin A -3 cos A<br>5 sin A - 5 cos A = 4 sin A - 3 cos A<br>2 cos A = sin A<br>A = 2 (\u03c0n + tan^-1(1/2(-1-\u221a5)))<br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "mencari-simbol-o-1-62-362-2-55-1-486",
+            "question": "Mencari simbol o !    1. 6\u00b0\u207a\u00b2 = (36)\u00b0\u207a\u00b2\r\n\r\n2. \u221a5\u00b0\u207b\u2075 = 1\r\n\r\n\r\n3. (\u221a10)\u00b0\u207b\u00b2 = 0,1\r\n\r\n\r\n\r\n4. \u221a2\u00b0\u207a\u00b3 = (1/4)\u00b0\u207a\u2074",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "ganti jadi huruf p ya<br><br>1.<br>basisnya beda (6 dan 36)<br>pangkatnya sama (p+2)<br>jadi hanya ada 1 solusi pada saat p+2=0<br>atau p=-2<br><br>2.<br>supaya hasilnya 1, maka pangkatnya harus nol<br>p-5=0<br>p=5<br><br>3.<br>[tex] (\\sqrt{10} )^{p-2}=0,1\\\\\n (10^{1/2} )^{p-2}=10^{-1}\\\\\n (10)^{(p-2)/2}=10^{-1}\\\\\n\\frac{p-2}{2}=-1\\\\\np=0\n[/tex]<br><br>4.<br>[tex] \\sqrt{2^{p+3}}=( \\frac{1}{4})^{p+4}  \\\\\\\\\n 2^{\\frac{p+3}{2}}=(2^{-2})^{p+4}  \\\\\\\\\n 2^{\\frac{p+3}{2}}=2^{-2p-8}  \\\\\\\\\n\\frac{p+3}{2}}={-2p-8}  \\\\\\\\\np+3=-4p-16\\\\\np= -\\frac{19}{5} [/tex]<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "buatlah-sketsa-grafik-fungsi-kuadrat-y-x2-4x-12-langkah2-699",
+            "question": "Buatlah sketsa grafik fungsi kuadrat\u00a0    y= -x\u00b2 - 4x + 12\r\nlangkah2 langkah mencari titik potong dan titik puncak\u00a0saja..nanti saya yang mengambar..minta tolong plissss^^",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1. nyari titik puncak, <br><span>y= -x\u00b2 - 4x + 12<br>untuk mencari titik puncak maka, y&#039;=0<br>y&#039;=</span><span> -2x - 4<br>-2x - 4=0<br>x= -2<br>(-2,16) titik puncak<br><br>2. mencari titik potong</span><br><span>y= -x\u00b2 - 4x + 12</span><br>(x + 6)(-x + 2)<br>x=-6 V x=-2<br><br>3. membuat tabel titik perpotongan<br>x -6 -5\u00a0 -4\u00a0\u00a0 -3\u00a0\u00a0\u00a0 -2\u00a0\u00a0 -1\u00a0\u00a0\u00a0 0\u00a0\u00a0 1\u00a0 2<br>y\u00a0 0\u00a0 7\u00a0 12\u00a0 15\u00a0\u00a0 16\u00a0 -15\u00a0 12\u00a0 7\u00a0 0<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "kalo titik puncak bukannya tinggal ( Xp , Yp ) = ( -b / 2a , D / -4a ) ?<br>dengan D = b kuadrat - 4ac = (-4)^2 - 4 (-1) 12 = 16+48 = 64<br>jadi puncak ( -2, 16 )<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bagaimana-cara-menentukan-akar-akar-persamaan-kuadrat-baru-yang-a-112",
+            "question": "Bagaimana cara menentukan akar-akar persamaan kuadrat baru yang akar-akarnya berlawanan dan berkebalikan ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "persamaan kuadrat baru yang akar-akarnya berkebalikan<br>1.menghitung variabel baru berdasarkan rumus x1+x2=-b/a dan x1.x2=c/a<br>2.masukkan kerumus ax^2-bx+c<br>persamaan kuadrat baru yang akar-akarnya\u00a0 berlawanan<br>ubah tanda koefisien b<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "carilah-nilai-abc-dan-d-yang-memenuhi-persamaan-berikut-a-a-316",
+            "question": "Carilah nilai a,b,c, dan d yang memenuhi persamaan berikut.    a. [a\u00a0 b\u00a0 c] + [-5\u00a0 6\u00a0 7] = [3\u00a0\u00a0 2\u00a0 -1]\r\nb. \r\n\r\n+",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a - 5 = 3<br>a = 3 + 5<br>a = 8<br><br>b + 6 = 2<br>b = 2 - 6<br>b = -4<br><br>c + 7 = -1<br>c = -1 -\u00a07<br>c = -8",
+                    "attachments": []
+                },
+                {
+                    "answer": "nilai yang memenuhi pertidak samaan tersebut<br>a - 5 = 3\u00a0  menjadi a = 3 + 5 = 8<br>b + 6 = 2 menjadi b = 2 - 6 = - 4<br>c + 7 = -1 menjadi c = -1 - 7 = -8<br><br>jadi nilai a = 8\u00a0 \u00a0 b = -4\u00a0 c = -8<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "75x25x05-hasil-pangkat-56-adalah-301",
+            "question": "75x25x0+5=\r\nhasil pangkat 56 adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "72 . 25 . 0 + 5 = hasil pangkat 56<br>0+5 = hasil pangkat 56<br>hasil sama dengan 5<br>kalau soalnya hasilnya harus di pangkat 56 lagi maka<br>hasil akhir = 5 pangkat 56\u00a0<br><br>tapi kalo maskudnya bukan seperti itu,maka hasilnya tetap 5 :)<br>karna tidak ada variabel disana yang harus dicari nilainya :)",
+                    "attachments": []
+                },
+                {
+                    "answer": "Maaf mungkin bisa di cek lagi soalnya,,karena hasil penghitungan 75x25x0+5 itu kalo dalam matematika bisa di tafsirkan (75x25x0)+5=5,,atau mungkin 75x25x(0+5)=9375<br>mungkin perlu di perjelas lagi cara penulisannya,,terima kasih<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-akar-persamaan-kuadrat-dari-6x2-48x-90-tentukan-n-397",
+            "question": "Diketahui akar persamaan kuadrat dari 6x\u00b2 - 48x + 90. tentukan nilai (x1/x2+1) + (x2/ X1+1)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "6x\u00b2-48x+90 = x\u00b2-8x+15<br>=(x-3) (x-5)=0<br>x1 = 3 x2= 5<br><br>silahkan substitusikan sisanya",
+                    "attachments": []
+                },
+                {
+                    "answer": "6x2-48x+90<br>(x-3)(x-5)<br>x1=3 \u00a0x2=5<br><br>(x1/x2+1) + (x2/x1+1)<br>(3/5+1) +(5/3+1)<br>8/5 + 8/3 = 64/15 gitu?\u00a0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-bola-menggelinding-sepanjang-bidang-miringjarak-yang-dite-483",
+            "question": "Sebuah bola menggelinding sepanjang bidang miring,jarak yang ditempuh S dari titik asal selama t detik dinyatakan dengan rumus s=3/2t\u00b2+0,6t ( s dalam satuan meter dan t dalam detik)    a)tentukan ds/dt\r\nb)tentukan kecepatan sesaat pda saat t=0,3 detik\r\nc)carilah waktu yg diperlukan shg kecepatan sesaat mencapai 6,6m/detik",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a. 3t + 0,6<br>b. kecepatan itu turunan dari jarak (s) jadi persamaan pada s diturunkan\u00a0<br>\u00a0 \u00a0 \u00a0v= 3t+ 0,6<br>\u00a0 \u00a0 t(0,30 = 3 (0,3) + 0,6<br>\u00a0 \u00a0 \u00a0V = 0,9 + 0,6<br>\u00a0 \u00a0 \u00a0V = 1,5 m/s<br>c. v = 3t +0,6<br>\u00a0 \u00a0 \u00a06,6 = 3t + 0,6<br>\u00a0 \u00a0 \u00a06,6 - 0,6 = 3t<br>\u00a0 \u00a0 \u00a06 = 3t\u00a0<br>\u00a0 \u00a0 \u00a0t = 2\u00a0<br>inysaAllah gt :)",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-sebuah-talang-air-dari-lembaran-seng-yang-lebarnya-30-c-350",
+            "question": "Diketahui sebuah talang air dari lembaran seng yang lebarnya 30 cm dengan melipat lebarnya atas 3 bagian, seperti gambar dibawah    ditanyakan : a. ukuran x ?\r\n\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0b. volume air maks yg dapat ditampung ?",
+            "attachments": [
+                "question-attachments/diketahui-sebuah-talang-air-dari-lembaran-seng-yang-lebarnya-30-c-350-1.png"
+            ],
+            "answers": [
+                {
+                    "answer": "X= 10\u00a0<br>V=\u00a0[tex] 10^{3} [/tex]=1000cm3",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "temukan-grafik-fungsi-kuadrat-fx-4x2-8x3-dari-grafik-fung-281",
+            "question": "Temukan grafik fungsi kuadrat f(x) = 4x^{2}-8x+3 dari grafik fungsi kuadrat g(x) = 4x^{2} (dalam 1 grafik)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "ini gambarnya, silakan dipelajari",
+                    "attachments": [
+                        "answer-attachments/temukan-grafik-fungsi-kuadrat-fx-4x2-8x3-dari-grafik-fung-281-1.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "bagaimana-cara-menjelaskan-bahwa-5-kuadrat-sama-dengan-25-490",
+            "question": "Bagaimana cara menjelaskan bahwa 5 kuadrat sama dengan 25.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "5\u00b2 artinya 5 \u00d7 5 .<br>5\u00d75 =25<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "5x5=25<br>25 : 5 = 5<br>akar kuadrat dari bilangan x sama dengan bilangan r sedemikian sehingga r2 = x, atau, di dalam perkataan lain, bilangan r yang bila di\u00a0  kuadratkan sama dengan x.<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

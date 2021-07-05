@@ -1,0 +1,134 @@
+{
+    "question": "sebuah kotak berisi 10 kelereng biru,8 kelereng kuning,dan 2 kelereng merah.jika diambil dua kelereng sekaligus,peluang terambil keduanya kelereng biru atau keduanya kelereng kuning adalah...",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "Biru = 10<br>Kuning = 8<br>Merah = 2<br>Total kelereng = 20<br><br>Peluang terambil keduanya kelereng biru = 10C2 = 10!/((10 - 2)! * 2!) = (9 * 10)/(2) = 45<br>Peluang terambil keduanya kelereng kuning = 8C2 = 8!/((8 - 2)! * 2!) = (7 * 8)/(2) = 28<br>Peluang terambil keduanya dari total = 20C2 = 19 * 20 / 2 = 190<br><br>Peluang keduanya biru = 45/190 <br>Keduanya merah = 28/190<br><br><br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "salah-satu-akar-dari-x2-9x7r-10-adalah-tiga-kurangnya-dari-du-173",
+            "question": "salah satu akar dari x2-9x+(7r-1)=0 adalah tiga kurangnya dari dua kali akar yang lain . tentukan nilai r !\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]x^2-9x+(7r-1)=0;misal\\ akar-akarnya\\ x_1\\ dan\\ x_2\\\\\nx_1=2x_2-3\\\\\nx_1+x_2=\\frac{-(-9)}{1}=9\\\\\n2x_2-3+x_2=9\\\\\n3x_2=12\\\\\nx_2=4\\\\\\\\\nx_1x_2=\\frac{7r-1}{1}\\\\\n(2x_2-3)x_2=7r-1\\\\\n(2(4)-3)(4)=7r-1\\\\\n20=7r-1\\\\\n7r=21\\\\\nr=3[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-tan-3-p-maka-tan-228-adalah-574",
+            "question": "Jika tan 3 = p maka tan 228 adalah....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "tan 3=p maka tan 6 = 2 tan 3/(1-tan\u00b23p) = 2p/1-p\u00b2<br>tan 12= tan 2.6<br>tan 24 = tan 2 12<br>dan tan 48 = tan 2 24<br>tan 228 = tan ( 180+48)= tan \u00a048",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-125-x-30-15-2-16-64-16-618",
+            "question": "1. 125 X 30 : 15 =\r\n2. (-16 ) + 64 : (-16) =",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1. 125 x 30 : 15 = 250\u00a0<br>2. (-16) + 64 : (-16) = -20<br>bener nggak ya",
+                    "attachments": []
+                },
+                {
+                    "answer": "1. 250<br>2.48:(-16)= -3",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "penerapan-sudut-pada-bidang-fisika-dan-masalah-nyata-212",
+            "question": "Penerapan sudut pada bidang fisika dan masalah nyata",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>kecepatan rata rata\u00a0<br>kecepatan sesaat. . . . \u00a0. <br></span><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "kecepatan rata-rata, <br>kecepatan sesaat",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-percobaan-mengundi-uang-logam-rp-10000-sebanyak-2-kali-208",
+            "question": "Tentukan Percobaan mengundi uang logam Rp. 100,00 sebanyak 2 kali",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "ruang sampel = gambar (G) dan angka (A)<br>pengundian uang logam 100 sebanyak dua kali --&gt; masing-masing sisi punya peluang 2/4 atau 1/2 <br>P(A)=2/4<br>P(G)=2/4<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "koordinat-titik-puncak-grafik-fungsi-kuadrat-adalah25-jika-gra-477",
+            "question": "koordinat titik puncak grafik fungsi kuadrat adalah(2,5) jika grafik fungsi kuadrat melalui titik (-1,23) maka tentukan rumus fungsi kuadrat ! tolong bantu yah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "hasilnya nti jadi 18x-3y-51=0<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-persamaan-kuadrat-yang-akarnya-2-dan-2-468",
+            "question": "Tentukan persamaan kuadrat yang akarnya 2- dan 2+",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]PK\\ baru : x^2-(x_1+x_2)x+(x_1x_2)=0\\\\\nx_1+x_2=(2-\\sqrt{3})+(2+\\sqrt{3})\\\\\nx_1+x_2=4\\\\\n\\\\\nx_1x_2=(2-\\sqrt{3})(2+\\sqrt{3})\\\\\nx_1x_2=4-3=1\\\\\n\\\\\nPK\\ baru : x^2-4x+1=0\\\\[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-selidiki-bahwa-detan-det-an-untuk-a-2-1-673",
+            "question": "1. Selidiki bahwa det(A^n) = (det A)^n untuk    A = \u00a0\u00a0 2\u00a0 \u00a0 -1\u00a0 \u00a0 3\r\n\u00a0\u00a0 \u00a0 \u00a0 \u00a0 1\u00a0 \u00a0\u00a0 2\u00a0 \u00a0\u00a0 4\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 dengan n = 3\r\n\r\n\u00a0\u00a0 \u00a0 \u00a0 \u00a0 5\u00a0 \u00a0\u00a0 -3\u00a0 \u00a0 6\u00a0 \u00a0 \u00a0 \r\n2. Tentukanlah z yang memenuhi persamaan berikut !\r\n\u00a0 \u00a0 z \u00a0 \u00a0 \u00a0 5 \u00a0 \u00a0 \u00a0 7\r\n\u00a0 \u00a0 0 \u00a0 \u00a0 z+1 \u00a0 \u00a0 6\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 = 0\r\n\u00a0 \u00a0 0 \u00a0 \u00a0 \u00a0 0 \u00a0 \u00a0 \u00a0 2z-1 \u00a0 \u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "buat nomor 2. <br>pokoknya tambah 2 baris ke kanan, jadinya persamaan<br>z(z+1)(2z-1)+0+0-(0+0)=0<br>z(z+1)(2z-1)=0<br>maka:<br>z1= 0<br>z2=-1<br>z3=1/2<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Jawaban\u00a0dari\u00a0soal\u00a0diatas:<br>1.57<br>2.28",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-3log-2-x-dan-2log-5y-nilai-5log-15-beserta-car-876",
+            "question": "Diketahui\u00a03log 2 = x dan\u00a0\r\n 2log 5=y. Nilai 5log 15 =\r\n\r\n\r\nBeserta caranya ya",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "3log2= x , diubah jadi 2log3=1/x<br>2log5=y<br><br>5log15 = 2log15 / 2log5<br>= 2log 3 x 2log5 / 2log5<br>= 1/x + y / y<br>= ( y + xy /xy) / y<br>= y + xy / y(xy)<br>= y + xy / xy^2<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "hitunglah-jumlah-25-suku-pertama-bilangan-ganjil-yang-pertama-dar-552",
+            "question": "Hitunglah jumlah 25 suku pertama bilangan ganjil yang pertama dari bilangan asli?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1,3,5.......... ampe yg ke 47, 49<br>U13= 25<br><br>total nya adalah<br><br><br>=(49+1)/2 x 12+25<br>=25x12+25<br>=325<br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

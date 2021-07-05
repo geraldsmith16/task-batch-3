@@ -1,0 +1,138 @@
+{
+    "question": "seorang siswa menyelidiki tinggi sebuah gedung dengan menjatuhkan benda dari lantai teratas. teman lain mengukur ternyata benda tersebut sampi di tanah dalam waktu 3 sekon. (percepatan gravitasi=10 ms) dapat disimpulkan bahwa tinggi gedung adalah?",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "h= 1/2 gt ^2=\u00a045 m<br>\u00a0tinggal di subt saja<br><br>",
+            "attachments": []
+        },
+        {
+            "answer": "dik : \u00a0h= benda<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0t\u00a0= 3 s<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0g=10 m/s<br>dit = tinggi gedung....?<br><br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "berapa-kalor-yg-di-butuhkan-es-bersuhu-2c-dengan-massa-4-kg-ag-479",
+            "question": "Berapa kalor yg di butuhkan es bersuhu -2\u00b0c dengan massa 4 kg agar mencapai suhu 5\u00b0c, jika dik.    L es=336.000 J/kg\r\nc es=500 J/kg\u00b0c\r\nc air=4200 J/kg\u00b0c",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "m= 4 kg<br>delta t = 3<br>c = 4700<br>= 2x4700x3<br>= 28200<br>= 28,2<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "2-benda-yang-berupa-bola-pejal-dan-bola-berongga-dilepaskan-dari-462",
+            "question": "2 benda yang berupa bola pejal dan bola berongga dilepaskan dari tempat yang sama pada kemiringan tertentu. bola manakah yang lebih dulu sampai ke dasar?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Persamaan gerak sepanjang bidang miring (m.g.sin 0 = 0-f = m.a)<br>jadi tergantung masa dan jarak. dalam kasus ini jarak sama berarti tinggal yang massa bendanya lebih berat jadi bola pejal yang lebih dulu.",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-tali-dengan-panjang-08-m-dapat-mengerjakan-gaya-sebesar-4-345",
+            "question": "sebuah tali dengan panjang 0,8 m dapat mengerjakan gaya sebesar 4 N tanpa putus. tali itu digunakan untuk mengayunkan suatu benda bermassa 0,5 kg dalam suaru lingkaran horizontal. tentukan periode minimum agar benda dapat diayun tanpa menyebabkan tali putus.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "F= 4 N<br>r= 0,8m<br>m= 0,5 kg<br><br>T=F=mv^2/r<br>v^2 = F . r/m<br>v^2 = 4 . 8/5 =32/5 = 6,4<br><br>v= omega . r<br>v^2= omega^2 . r^2<br>6,4 = omega^2 . 0,8^2<br>omega^2= 6,4/0,64<br>omega^2 = 10<br>omega =\u221a10<br><br>omega= 2 phi /T<br>T= 2 phi / omega<br>T = 2 phi/ \u221a10<br><br>(maaf kalo salah, mata ane udah tinggal 5 watt)<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "rangkaian-rl-seri-dihubungkan-dengan-sumber-tegangan-arus-bolak-b-388",
+            "question": "Rangkaian RL seri dihubungkan dengan sumber tegangan arus bolak balik dengan Vm=100v, hambatan R=80 ohm. Arus maksimum pada rangkaian sebesar 1 A .    tentukan :\r\na. impedansi rangkaian\u00a0\r\nb. reaktansi induktif\r\nc. teganagan antara ujung2 induktor\r\n\r\nmohon bantuannya?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "wow jawabannya kalo panjang gapapa tha kak<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apakah-semua-jenis-gaya-menyebabkan-pertambahan-panjang-pegas-177",
+            "question": "Apakah semua jenis gaya menyebabkan pertambahan panjang pegas ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "belum tentu, liat massa jga kk...<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "semua gaya mempengaruhi pegas<br>tetapi gaya tarik menyebabkan pertambahan panjang,sedangkan gaya dorong atau tekan menyebabkan pemendekann pada pegas :)",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jarak-yang-di-tempuh-sebuah-mobil-adalah-sebagai-berikut-5-meni-424",
+            "question": "Jarak yang di tempuh sebuah mobil adalah sebagai berikut :    5 menit pertama menempuh jarak 3,0 km \r\n10 menit kedua menempuh jarak 8,0 km \r\n15 menit ketiga menempuh jarak 20 km \r\nkelajuan rata-rata mobil tersebut adalah ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "waktunya 30 mnt<br>jaraknya 31 km<br>kecepatan rata ratanya 62 km/jam",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-roda-pejal-massanya-45-kg-dengan-jari-jari-15-m-berada-p-988",
+            "question": "sebuah roda pejal massanya 4,5 kg dengan jari-jari 1,5 m berada pada lantai kasar melalui sumbunya roda tersebut ditarik dengan gaya 20N, sehingga roda menggelinding pada arah mendatar pada saat 15s tentukan energi kinetik totalnya?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "900 kah jawabnnya ???",
+                    "attachments": []
+                },
+                {
+                    "answer": "energi kinetik total dari sebuah roda pejal yaitu 900",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-bus-bergerak-dengan-kecepatan-60-kmjam-seorang-pedagang-396",
+            "question": "sebuah bus bergerak dengan kecepatan 60 km/jam. seorang pedagang asongan di dalam bus berjalan dari depan ke belakang dengan kecepatan 1 km/jam. kecepatan pedagang asongan menurut pengamat yang diam ditepi jalan ..... km/jam",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "kecepatan\u00a0pejualan asongan\u00a0 3m/sec menurut pejalan kaki",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "hitunglah-momen-inersia-suatu-benda-yang-berotasi-dengan-kecepata-322",
+            "question": "hitunglah momen inersia suatu benda yang berotasi dengan kecepatan sudut 10 rad/sekon dan memiliki energi kinetik 5 joule",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Dik Ek = 5 j<br>\u00a0 \u00a0 \u00a0\u00a0\u03c9 = 10 rad/s<br>Dit i ?<br>jawab.<br>rumus i = mr^2<br><br>Ek = 1/2 m (R.\u03c9)^2<br>5 \u00a0 = 1/2 m (R.10^2)<br>10 \u00a0= mr^2 . m.100\u00a0<br>mr^2 = 10 / 100 m<br>\u00a0 \u00a0 \u00a0 \u00a0 = \u00a00,1 kgm^2 /\u00a0m<br>i = 0,1 kgm<br><br>Klik bintang",
+                    "attachments": []
+                },
+                {
+                    "answer": "Rumus momen inersia (I) adalah\u00a0<br>bila percepatan sudut \u00a010 rad / s =\u00a0\u03b1<br>Energi kinetik = 5 Joule = F<br>[tex]I = mr^2[/tex]\u00a0<br><br>Pertama cari dulu persamaan 1\u00a0<br>[tex]F = m a_{tan} [/tex]<br>\u00a0--&gt;\u00a0Hubungan antara gaya (F), massa (m), dan percepatan tangensial (a tan) partikel\u00a0<br><br>Partikel berotasi sehingga partikel mempunyai percepatan sudut.<br>\u00a0<br>Hubungan antara percepatan tangensial dengan percepatan sudut dinyatakan melalui persamaan :<br>[tex] a_{tan}=r \\alpha  [/tex] Persamaan 2\u00a0<br><br>Subtitusikan atau gantikan percepatan tangensial (a tan) pada persamaan 1\u00a0 dengan percepatan tangensial (a tan) pada persamaan 2.<br><br>[tex]F = \\frac{1}{2}m r \\alpha[/tex]<br>[tex]\\gamma . r = \\frac{1}{2}m r \\alpha[/tex]]<br>[tex]5 = \\frac{1}{2}m . r^2 . 10[/tex]<br>[tex]mr^2 = 1 / 10 = 0.1 [/tex]<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-batu-gerinda-memiliki-massa-4-kg-dan-jari-jari-8-cm-ketik-802",
+            "question": "Sebuah batu gerinda memiliki massa 4 kg dan jari-jari 8 cm. ketika sebuah momen gaya tetap dikerjakan, roda mencapai kecepatan sudut 1200 rpm dalam 15 sekon. anggap roda mulai dari keadaan diam dan batu gerinda berbentuk silinder pejal. tentukan:    a. percepatan sudut\r\nb. resultan momen gaya\r\nc. sudut putaran yang ditempuh dalam 15 sekon",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "(a.)<br>\u00a0\u03c9=at<br>\u00a0(1200/60) (2\u03c0)=\u03b1(15)<br>\u03b1=8\u03c0/3rad/s\u00b2<br>\u00a0(b.) momen inersianya adlh<br>I=1/2 m r\u00b2 <br>momen gaya <br>T=I \u03b1<br>\u00a0=1/2 m r\u00b2 \u03b1<br>\u00a0=1/2 (4) (0.08)\u00b2(8\u03c0/3)<br>\u00a0=0.107233 N.m<br>(c.)<br>\u03b8=1/2 \u03b1 t\u00b2<br>\u03b8=1/2 (8\u03c0/3) (15)\u00b2<br>\u03b8=300\u03c0 rad<br><br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

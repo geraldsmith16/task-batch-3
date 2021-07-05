@@ -1,0 +1,137 @@
+{
+    "question": "1.)Batang logam panjangnya 300cm dipanaskan dari 25derajat C hingga 225derajat C mengalami pertambahan panjang sebesar 0,6cm.Berapa pertambahan batang logam yang sama dengan panjang 200cm dan dipanaskan dari 20derajat hingga suhu 320derajatC    2.)Sekeping alumunium panjangnya 40cm dan lebarnya 30cm dipanaskan dari 40derajat C sampai 140derajat C.Jika koefisien muai panjang aluminium adalah 2,5 x 10pangkat -5/derajat C,berapakah luas keping alumunium setelah dipanaskan\r\n3.)Besi berbentuk kubus pada suhu 20derajat C memiliki panjang rusuk 10cm.Kubus tersebut dipanaskan hingga suhu 220derajat C.berrapa volume kubus pada suhu 220 deraja C jika koefisien muai panjang besi 1,2 x 10pangkat 5 /derajat C",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "1.)Batang logam panjangnya 300cm dipanaskan dari 25derajat C hingga 225derajat C mengalami pertambahan panjang sebesar 0,6cm.Berapa pertambahan batang logam yang sama dengan panjang 200cm dan dipanaskan dari 20derajat hingga suhu 320derajatC<br><br>panjang 1 mpanjang kedua \u00a03,006[tex]\\triangle T = 200[/tex]<br>alfanya [tex]n * 10^{-6}[/tex]\u00a0<br>[tex]L_2=L_1 (1+\\alpha(t_2-t_1))[/tex]<br><br>[tex]\\frac{0.006}{x}= (200)[/tex]<span>alpha = 0.006/200 = 0.00003<br></span><br>panjang besi berikutnya\u00a0<br><br>[tex]L_2=L_1 (1+\\alpha(t_2-t_1))[/tex]<br>[tex]L_2=2(1+0.00003(300))[/tex]<br>201.8 cm<br><br>2.)Sekeping alumunium panjangnya 40cm dan lebarnya 30cm dipanaskan dari 40derajat C sampai 140derajat C.Jika koefisien muai panjang aluminium adalah 2,5 x 10pangkat -5/derajat C,berapakah luas keping alumunium setelah dipanaskan<br><br>[tex]A_2=A_1 (1+\\alpha(t_2-t_1))[/tex]<br>[tex]A_2=1.2 (1+\\0.000025(100))[/tex]<br><br>3.)Besi berbentuk kubus pada suhu 20derajat C memiliki panjang rusuk 10cm.Kubus tersebut dipanaskan hingga suhu 220derajat C.berrapa volume kubus pada suhu 220 deraja C jika koefisien muai panjang besi 1,2 x 10pangkat 5 /derajat C<br><br>[tex]V_2=10 (1+0.000012(200))[/tex]<br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "sebuah-komedi-putar-berdiameter-3-m-dengan-momen-inersia-100-kgm2-480",
+            "question": "sebuah komedi putar berdiameter 3 m dengan momen inersia 100 kgm2 berotasi dengan kelajuan 1 rps. empat orang anak masing-masing bermassa 30 kg tiba-tiba melompat dan duduk 1 m dari pusat komedi putar. tentukan kecepatan sudut komedi putar sekarang!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<u><em></em></u>[tex] \\left \\{ {{y=2} \\atop {x=2}} \\right. [/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-jawab-ini-ya-fisika-kesetimbangan-benda-tegar-kelas-2-sma-182",
+            "question": "Tolong jawab ini ya, fisika kesetimbangan benda tegar kelas 2 sma",
+            "attachments": [
+                "question-attachments/tolong-jawab-ini-ya-fisika-kesetimbangan-benda-tegar-kelas-2-sma-182-1.jpg",
+                "question-attachments/tolong-jawab-ini-ya-fisika-kesetimbangan-benda-tegar-kelas-2-sma-182-2.jpg",
+                "question-attachments/tolong-jawab-ini-ya-fisika-kesetimbangan-benda-tegar-kelas-2-sma-182-3.jpg",
+                "question-attachments/tolong-jawab-ini-ya-fisika-kesetimbangan-benda-tegar-kelas-2-sma-182-4.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "\u00a0\u03a3\u0442=0 (no1)<br>\u04421=\u04422 (sumbu putar di A jadi \u0442a=0 paham ? ) <br>NBxL= w(batang)x[tex] \\frac{1}{2} [/tex] L + w(bola) x [tex] \\frac{3}{4}[/tex]L (semua L dicoret) <br>NB= 200x[tex] \\frac{1}{2} [/tex] + 450 x [tex] \\frac{3}{4}[/tex] <br>NB= 437.5 N <br><br>\u03a3\u0442=0 <br>\u04421=\u04422 ( sumbu putar di B jadi \u0442b=0 ) <br>NAxL= w(batang)x[tex] \\frac{1}{2} [/tex] L + w(bola) x [tex] \\frac{1}{4}[/tex]L (semua L dicoret) <br>NA= 212.5 <br>semoga untuk yang nomor 2 di coba dulu konsepnya sama <br><br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-katrol-bermassa-4kg-dan-jari-jari-10cm-jika-m11kgm23kg-dan-366",
+            "question": "1. katrol bermassa 4kg dan jari-jari 10cm. jika m1=1kg,m2=3kg dan percepatan gravitasi bumi 10m/s. tentukan percepatan sudut balok.    2. sebuah sistem katrol dengan jari-jari 20cm dan 10cm mempunyai momen inersia 4kgm. sistem katrol ditarik oleh dua gaya f1 dan f2, maka ktrol akan mengalami percepatan sudut sebesar",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "dik : mk : 4 kg<br>r : 10<br>m1; 1 = w.g = 1x10 =10<br>m2; 3=w.g = 3x10=30<br>penyelesaian ;\u00a0\u03b1= a[tex]  \\frac{a}{r} [/tex]= 5/0.1 = 50 n<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "cara-mencari-dimensi-modulitas-young-258",
+            "question": "Cara mencari dimensi modulitas young?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "tegangan dibagi regangan",
+                    "attachments": []
+                },
+                {
+                    "answer": "E = tegangan / regangan =\u00a0[tex] \\frac{F . l}{A . delta l} [/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "rumus-reaksi-sempurna-kimia-apa-ya-374",
+            "question": "Rumus reaksi sempurna kimia apa ya?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>C8H18 (l) +12 \u00bd O2 (g) \u2013&gt; 8 CO2 (g) + 9 H2O (g) \u0394H = -5460 kJ</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dimanakah-sebuah-benda-harus-diletakkan-didepan-cermin-cekung-yan-868",
+            "question": "dimanakah sebuah benda harus diletakkan didepan cermin cekung yang R=30cm yang diperbesar 3 kali dan nyata?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "30 X 3 = 90 benda yang akan diletakan di depan cermin adalah 90 cm<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "4-buah-pegas-identik-masingmasing-mempunyai-konstanta-elavasitas-344",
+            "question": "4 buah pegas identik masingmasing mempunyai konstanta elavasitas 1600N.M-1, disusun seri-paralel (lihat gambar)    beban w yang di gantung menyebabkan sistem pegas mengalami pertambahan panjang secara keseluruhan sebesar 5cm. berat beban w adalah",
+            "attachments": [
+                "question-attachments/4-buah-pegas-identik-masingmasing-mempunyai-konstanta-elavasitas-344-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "Ktotal = (4800x1600) : 4800 + 1600 = 1200 N/m<br>w=Fpegas<br>w=kx<br>w= 1200(0.05)<br>\u00a0 =60 n",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "mengapa-gear-sepeda-berbeda-dengan-gear-sepeda-motor-lalu-kenap-474",
+            "question": "mengapa gear sepeda berbeda dengan gear sepeda motor? lalu, kenapa sepeda tidak meniru gear sepeda motor?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Karena gear sepedah di kayuh secara manual oleh manusia yang tenaganya terbatas..<br>sedangkan gear motor tdk dikayuh melainkan dengan mesin..<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-katrol-dengan-memiliki-massa-beban-2kg-massa-ktrol-2-kg-537",
+            "question": "Sebuah katrol dengan memiliki massa beban = 2kg massa ktrol =2 kg jari jari = 0.4 m    hitunglah\u00a0\r\n\r\na. momen inersia katrol\r\nb. momen gaya yang bekerja pada katrol\r\nc. percepatan sudut katrol\u00a0\r\n\r\nmohon segera dijawab karena pagi ini saya ngumpulkan tugas",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1---------------------------------------------<br>I=(1/2)MR\u00b2<br>l=(1/2) x 2 x (0,4)\u00b2<br>l=0,4 x 0,4<br>l=0,16 kgm\u00b2<br><br>2-----------------------------------------------<br>momen gaya = Fd<br><br>ingat.... F = w = m g\u00a0 dan d = r\u00a0 \u00a0  G= 9,8 atau dibulatkan mnjdi 10m/s\u00b2<br><br>momen gaya = (mg)r<br>momen gaya = (2 x 10) 0,4<br>momen gaya = 20 x 0,4<br>momen gaya = 20 x 0,4r<br>momen gaya = 8\u00a0 Nm<br><br>3------------------------------------------------<br>\u03b1=momen gaya : momen inersia<br>\u03b1= 8/0,16<br>\u03b1= 50 rad/s\u00b2<br><br>jadikan jwbn terbaik :D<br><br><br><br><br><br><br><br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apakah-betul-jawaban-saya-seorang-pelari-menempuh-2-km-dalam-5-me-217",
+            "question": "APAKAH BETUL JAWABAN SAYA    seorang pelari\r\n menempuh 2 km dalam 5 menit dan kemudian membutuhkan 10 menit untuk berjalan\r\n kembali ketitik awal. a) berapakah kecepatan rata-rata untuk 5 menit pertama?\r\n (b) berapakah kecepatan rata-rata selama waktu yang dipakai berjalan? (c)\r\n berapakah kecepatan rata-rata untuk total perjalanan? (d) berapakah kelajuan\r\n rata-rata untuk total perjalanan?\r\n\r\n JAWABAN\r\n\r\na)\u00a0dikt :s = 2 km\u00a0\u21d2\u00a02000 m,\u00a0t= 5 menit\u00a0\u21d2\u00a0300 sekon,\r\n\r\n v = s/t = 2000/300 = 6,66 m/s\r\n\r\nb)\u00a0dikt :\u00a0s = 2 km\u00a0\u21d2\u00a02000 m,\r\n\r\n\r\n\r\nt = 10 menit\u00a0\u21d2\u00a0600 sekon,\r\n\r\n v = s/t = 2000/600 = 3,33 m/s\r\n\r\nP1 + P2\r\n\r\n 6,66 + 3,33 = 9,99 m/s,\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "iya ,betul betul betul<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "setau saya kecepatan rata2nya nol karena tidak ada perpindahan tetapi kalau lajunya pakai rumus ==&gt; laju rata2 = jarak tempuh / total waktu <br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = (2000 + 2000) / 900 = [tex] \\frac{40}{9} [/tex] m/s<br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

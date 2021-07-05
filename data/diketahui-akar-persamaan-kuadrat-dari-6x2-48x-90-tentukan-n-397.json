@@ -1,0 +1,140 @@
+{
+    "question": "Diketahui akar persamaan kuadrat dari 6x\u00b2 - 48x + 90. tentukan nilai (x1/x2+1) + (x2/ X1+1)",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "6x\u00b2-48x+90 = x\u00b2-8x+15<br>=(x-3) (x-5)=0<br>x1 = 3 x2= 5<br><br>silahkan substitusikan sisanya",
+            "attachments": []
+        },
+        {
+            "answer": "6x2-48x+90<br>(x-3)(x-5)<br>x1=3 \u00a0x2=5<br><br>(x1/x2+1) + (x2/x1+1)<br>(3/5+1) +(5/3+1)<br>8/5 + 8/3 = 64/15 gitu?\u00a0",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "deret-4-10-16-k-374-jadi-tentukan-nilai-k-adalah-338",
+            "question": "Deret 4 + 10 +16 +.....+k = 374. Jadi tentukan nilai K adalah...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]a=4,b=4,U_n=k\\\\\nU_n=a+(n-1)b\\\\\nk=4+(n-1)6\\\\\n\\frac{k-4}{6}+1=n\\\\\n\\frac{k-4+6}{6}=n\\\\\n\\frac{k+2}{6}=n\\\\\n\nS_n=\\frac{n}{2}(a+U_n)\\\\\n374=\\frac{\\frac{k+2}{6}}{2}(4+k)\\\\\n374=\\frac{k+2}{12}(4+k)\\\\\n4488=(k+2)(k+4)\\\\\nk^2+6k+8=4488\\\\\nk^2+6k-4480=0\\\\\nk_{1,2}=\\frac{-6 \\underline{+}\\sqrt{6^2-4(1)(-4480)}}{2}\\\\\nk_{1,2}=\\frac{-6 \\underline{+}\\sqrt{17956}}{2}\\\\\nk_{1,2}=\\frac{-6 \\underline{+}134}{2}\\\\\nk_{1,2}=-3 \\underline{+}67\\\\k_1=-3+67=64\\\\k_2=-3-67=-70(tidak memenuhi)[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "3-310-710-34-13-45-34-407",
+            "question": "3 3/10- 7/10=\r\n3/4-1/3=\r\n4/5-3/4=",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "3\u00a0 3/10 - 7/4 = 26/10 = 2\u00a0 6/10 = 2\u00a0 3/5<br>3/4 - 1/3 = 5/12<br>4/5 - 3/4 = 1/20<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suatu-percobaan-di-lakukan-dengan-melempar-undi-3-mata-uang-logam-833",
+            "question": "Suatu percobaan di lakukan dengan melempar undi 3 mata uang logam secara bersamaan sebanyak 64 kali frekuensi harapan munculnya sisi gambar lebih dari satu adalah.....    a.8 \u00a0 b.24 \u00a0 c.32 \u00a0 d.40 \u00a0 e.48\r\n\r\ntolong yang dengan cara kerjanya kalau bisa dengan rumusnya :)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "P (A) = n (A) / n (S) = 4/8<br>maka Fh (A) = P (A) X n<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 4/8 X 64<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 32 (c)<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "penerapan-sudut-pada-bidang-fisika-dan-masalah-nyata-212",
+            "question": "Penerapan sudut pada bidang fisika dan masalah nyata",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>kecepatan rata rata\u00a0<br>kecepatan sesaat. . . . \u00a0. <br></span><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "kecepatan rata-rata, <br>kecepatan sesaat",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-tentukan-hasil-kali-akar-akar-persamaan-kuadrat-dari-px-qx-749",
+            "question": "1.\u00a0Tentukan hasil kali akar-akar persamaan kuadrat dari\u00a0px = qx\u00b2    2, jika diketahui persamaan kuadrat 6x\u00b2 - 48x + 90 = 0\r\n\u00a0 tentukan ;\r\n\u00a0 \u00a0a. X1\u00b2 . X2\u00b2 + X2\u00b2 . X1\u00b2\r\n\u00a0 \u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1. px = qx2<br>qx2-px=0<br>x(qx-p)=0<br>x1=0 atau qx-p=0<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 x2 = p/q<br>x1.x2= 0.p/q=0<br><br>2. 6x\u00b2-48x+90=0<br>x\u00b2+8x-15=0<br>(x-3) atau (x-5)<br>x1=3 atau x2=5<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-y-2-cos-x-1-dari-030609012015018021024-743",
+            "question": "Tentukan\u00a0\r\ny = 2 cos x + 1\u00a0\r\ndari : 0,30,60,90,120,150,180,210,240,270,300,330,360 \u00a0(derajat)\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "2 cos x+1=0<br>2cos x=-1<br>cos x = - 1/2<br>cos yang bernilai 1/2 adalah 60 secara umum<br>diketahui dari soal nilainya minus berarti di kuadran 2 dan 3<br><br>yaitu 120 dan 240",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "hasil-penjumlahan-suku-ke-4-dan-suku-ke-8-sebuah-barisan-aritmeti-975",
+            "question": "Hasil penjumlahan suku ke 4 dan suku ke 8 sebuah barisan aritmetika adalah -46. Suku terakhir barisan tersebut adalah 47. Tentukan : A.suku ke 6...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Un = a + (n-1)b<br><br>U\u2084 + U\u2088 = -46<br>(a + 3b) + (a + 7b) = -46<br><strong>2a + 10b = -46 \u00a0</strong>dibagi 2 \u00a0=\u00a0<strong>a + 5b = -23<br><br><br>a+ 5b =\u00a0U</strong>\u2086 = -23<strong><br><br></strong>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "nilai-x-yang-memenuhi-x-20-lt-0-adalah-pliss-bantu-313",
+            "question": "Nilai x yang memenuhi : \u00a0+ x - 20 &lt; 0 adalah ?\r\npliss bantu......",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "silakan dipelajari dan dipahami",
+                    "attachments": [
+                        "answer-attachments/nilai-x-yang-memenuhi-x-20-lt-0-adalah-pliss-bantu-313-1.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "berapa-radian-putaran-sebuah-jarum-panjang-suatu-jam-apabila-berp-617",
+            "question": "Berapa radian putaran sebuah jarum panjang suatu jam apabila berputar selama 54 menit???",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "radian putaran sebuah jarum jam apabila berputar selama 54 menit adalah -22596",
+                    "attachments": []
+                },
+                {
+                    "answer": "radian sama kayak derajat dlm 5 mnt bukan?",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-penyelesaian-dan-himpunan-penyelesaian-dari-x-8-6-153",
+            "question": "Tentukan penyelesaian dan himpunan penyelesaian dari x + 8 = 6",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "x + 8= 6<br>x= 6-8<br>x=-2<br>maaf hanya ini jawaban a ga tw bener ap ga, semoga aj bener ea<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "x+8= 6<br>x= 6-8<br>\u00a0 = -2<br>Kalau persamaan itu hanya ada satu penyelesaian. Jadi, jawabannya -2.<br><br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,130 @@
+{
+    "question": "Jika tan 3 = p maka tan 228 adalah....",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "tan 3=p maka tan 6 = 2 tan 3/(1-tan\u00b23p) = 2p/1-p\u00b2<br>tan 12= tan 2.6<br>tan 24 = tan 2 12<br>dan tan 48 = tan 2 24<br>tan 228 = tan ( 180+48)= tan \u00a048",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "sebuah-peta-berskala-110000000-jarak-kota-jambi-dan-palembang-p-299",
+            "question": "sebuah peta berskala 1:10000000. jarak kota jambi dan palembang pada peta jaraknya 2,4 cm. seorang supir bus berangkat dari kota jambi menuju kota palembang dengan kecepatan rata rata 80 km per jam. selama perjalanannya, ia berhenti istirahat sebanyak 1 kali selama 30 menit. ia tiba di kota palembang pukul 10.30 wib . \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 pertanyaannya: berapa jam bis tu di perjalanan? \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 jawabannya di berikan cara penyelesaiannya",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Jarak = skala \u00d7 jarak pd peta<br>Jarak = 100 \u00d7 2,4<br>Jarak = 240 km<br><br>Waktu = Jarak \u00f7 Kecepatan<br>Waktu = 240 \u00f7 80<br>Waktu = 3 jam<br><br>waktu perjalanan = 3 jam - 30 menit = 2 jam 30 menit<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "gimana-cara-faktorin-persamaan-pangkat-3-548",
+            "question": "gimana cara faktorin persamaan pangkat 3?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "pake cara horner <br>3 | 1\u00a0 \u00a0\u00a0 -6 \u00a0 \u00a0 \u00a0 -9 \u00a0\u00a0 \u00a0  54 <br>\u00a0\u00a0 |_____3____-9___-54____ <br>\u00a0\u00a0 \u00a0 1\u00a0 \u00a0  -3\u00a0 \u00a0 \u00a0 \u00a0 -18\u00a0 \u00a0  0 <br>\u00a0\u00a0 \u00a0 x\u00b2 -3x - 18 = (x - 6) (x + 3) <br>jadi didapat faktornya adalah <br>(x - 3) (x + 3) (x - 6) <br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "nilai-dari-3log-1255log-1-587",
+            "question": "Nilai dari \u00b3log 125.\u2075log 1\r\n\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 3",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>\u00b3log 125. \u2075 log 1/3</span>\n<br><span>=\u00a0 \u00b3 log 5\u00b3\n. \u2075 log 1/3</span><br>\u00a0<span>= 3. \u00b3 log 5 . \u2075 log 1/3</span>\n<br><span>= 3. \u00b3 log 1/3</span>\n<br><span>= 3. \u00b3 log 3 \u207b\u00b9</span><br>\u00a0<span>= 3. -1. \u00b3 log 3</span><br>\u00a0= 3. -1<br>\u00a0= -3<br><br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "[tex] 3_{log} 125 .  5_{log}   \\frac{1}{3}    \\\\ =  3_{log} 5^{3} . 5_{log}   \\frac{1}{3}  \\\\  = 3. 3_{log} 5 . 5_{log}   \\frac{1}{3} \\\\ = 3. 3_{log}  \\frac{1}{3}  \\\\ = 3. (-1)  \\\\  = -3[/tex]<br><br>maaf kalo salah..",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-di-ketahui-fx-2x5-g-x-4-x-t-551",
+            "question": "1. di ketahui f(x) = 2x+5    \u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 g (x) = 4-x\r\ntentukan a. fog (x)\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 c. gof (x)\r\n\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 b. fog -1 (x)\u00a0 \u00a0 \u00a0 d. gof -1 (x)\r\n\r\ngimana caranya ni aku gx ngerti ka mohon di bantu ya\r\nmakasih",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]f(x)=2x+5\\\\\ng(x)=4-x\\\\\nfog(x)=f(g(x))\\\\\nfog(x)=f(4-x)\\\\\nfog(x)=2(4-x)+5=13-2x\\\\\n\\\\\nfog(x)=13-2x\\\\\nfog(x)-13=-2x\\\\\nx=\\frac{fog(x)-13}{-2}\\\\\nnyatakan\\ sebagai\\ fog^{-1}(x)\\\\\nfog^{-1}(x)=\\frac{13-x}{2}\\\\\\\\\ngof(x)=g(f(x))\\\\\ngof(x)=g(2x+5)=4-(2x+5)\\\\\ngof(x)=-2x-1\\\\\\\\\ngof(x)=-2x-1\\\\\ngof(x)+1=-2x\\\\\nx=\\frac{-gof(x)-1}{2}\\\\\nnyatakan\\ sebagai\\ gof^{-1}(x)\\\\\ngof^{-1}(x)=\\frac{-x-1}{2}\\\\[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "hitunglahsudut-antara-vektor-a-dan-b-berikut-ini-a-3i-2j-k-104",
+            "question": "Hitunglahsudut antara vektor A dan B berikut ini,\r\n\r\nA = 3i - 2j + k\r\nB = 4i - 3j +2k",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "A = (3,-2,1); B (4, -3, 2)<br>A.B = 12 + 6 + 2 = 20<br>|A| = akar ( 9 + 4 + 1 ) = akar (14)<br>|B| = akar (16 + 9 + 4 ) = akar (29)<br>cos = 20 / ((akar 14)* (akar 29)) = 0,9925<br>sudut =\u00a0 7 <br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jumlah-mobil-yang-diproduksi-suatu-pabrik-selama-1-hari-setelah-400",
+            "question": "jumlah mobil yang diproduksi suatu pabrik selama 1 hari setelah\u00a0t jam operasi adalah\u00a0n(t)\u00a0= 200\u00a0t\u00a0- 10t\u00b2, 0\u00a0\u2264\u00a0t\u00a0&lt; 10. jika biaya produksi\u00a0n\u00a0mobil (dalam dolar) adalah\u00a0B\u00a0(n) = 30.000 + 8.000n , tentukan biaya\u00a0B\u00a0sebagai fungsi dari waktu ,\u00a0B (t).\u00a0berapakah biaya memproduksi mobil selama 1 bulan?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "n = 200t-10t^2=0<br>\u00a0 \u00a0= 200 - 20t=0<br>t = 200 / 20 = 10\u00a0<br><br>berarti dalam 1 hari memproduksi 10 mobil dalam 1 bulan = 30 hari<br>B\u00a0= 30.000+8000(10.30)<br>\u00a0 \u00a0= 30 000 + 2.400 000<br>\u00a0 \u00a0= 2 430 000 dolar",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "persamaan-4x2-px250-akar-akarnya-sama-nilai-p-adalah-a-20-424",
+            "question": "Persamaan 4x\u00b2-px+25=0 ,akar-akarnya sama.    Nilai p adalah\r\na. -20 atau 20\r\nb.-10 atau 10\r\nc. -5 atau 5\r\nd. -2 atau 2\r\ne. -1 atau 1\r\n\r\nMohon dibantu dan jangan lupa memberikan pembahasannya\r\n\r\nTerima kasih.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "akar - akar sama -&gt; D = 0<br>[tex] b^{2} [/tex] - 4ac = 0<br>[tex] p^{2} [/tex] - 4 x 4 x 25 = 0<br>[tex] p^{2} [/tex] = 400<br>p = 20 atau -20",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "salah-satu-akar-dari-x2-9x7r-10-adalah-tiga-kurangnya-dari-du-173",
+            "question": "salah satu akar dari x2-9x+(7r-1)=0 adalah tiga kurangnya dari dua kali akar yang lain . tentukan nilai r !\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]x^2-9x+(7r-1)=0;misal\\ akar-akarnya\\ x_1\\ dan\\ x_2\\\\\nx_1=2x_2-3\\\\\nx_1+x_2=\\frac{-(-9)}{1}=9\\\\\n2x_2-3+x_2=9\\\\\n3x_2=12\\\\\nx_2=4\\\\\\\\\nx_1x_2=\\frac{7r-1}{1}\\\\\n(2x_2-3)x_2=7r-1\\\\\n(2(4)-3)(4)=7r-1\\\\\n20=7r-1\\\\\n7r=21\\\\\nr=3[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "selidiki-persamaan-kuadrat-berikut-a-x2-2x10-b2x2-2x0-c3-574",
+            "question": "Selidiki persamaan kuadrat berikut:    a) x\u00b2-2x+1=0\r\nb)2x\u00b2-2x=0\r\nc)3x\u00b2-2x+10=0\r\nd)x\u00b2-10=0\r\nberikan jawabannya dengan cara jalannya\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1). (x-1).(x-1)<br>2). (2x-2).(x-0)<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "ada-3-orang-anak-bernama-yoga-ragil-pengayom-anak-bertiga-it-547",
+            "question": "Ada 3 orang anak bernama , yoga, ragil, pengayom. anak bertiga itu iuran 5000 per orang. jadi semuanya terkumpul 15.000. lalu ketiga anak itu ingin membeli makanan seharga 10.000 dan menyuruh orang lain yang bernama dea. sisa uang tersebut tinggal 5.000. lalu dibagikan kembali 1000 per orang dan yang 2000 diberikan ke dea untuk upah membeli jajan. sama saja ketiga anak itu iuran 4000 kan ? jadi 4000 x 3 = 12000 + 2000 ( uang upah ) = 14.000 . dimana uang 1000 itu ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "kan iuranya 5000!!! kok bisa jadi 4000???<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "uang sisa\u00a01.000 x 3 = 3.000<br>uang dea 2.000<br>=&gt;\u00a03.000 + 2.000 = 5.000<br>membeli makanan 10.000<br><br>10.000 + 5.000 = 15.000<br>berarti jumlah uang mereka memang 15.000, bukan 14.000",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

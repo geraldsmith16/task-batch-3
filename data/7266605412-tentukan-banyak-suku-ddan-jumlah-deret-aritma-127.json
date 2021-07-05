@@ -1,0 +1,128 @@
+{
+    "question": "72+66+60+54+....+12\r\nTentukan banyak suku ddan jumlah deret aritmatika?",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "<em>Diketahui:</em><br>U\u2081 = a = 72<br>Suku terakhir Un = 12<br><br><em>Ditanya:</em><br>(a). Banyak n suku<br>(b). Jumlah n suku (Sn)<br><br><em>Penyelesaian:</em><br><br>(a). Banyak n suku<br>\u21d4 Beda b = U\u2082 - U\u2081<br>\u21d4 b = 66 - 72<br>\u21d4 Diperoleh b = - 6<br>\u21d4 Selanjutnya, Un = a + (n - 1).b<br>\u21d4 12 = 72 + (n - 1).(- 6)<br>\u21d4 - 60 = (n - 1).(- 6)<br>\u21d4 10 = n - 1<br><strong>\u21d4 \u2234 Banyaknya suku adalah\u00a0n = 11</strong><br><br>(b). Gunakan rumus jumlah n suku Sn = n/2.[a + Un]<br>\u21d4 S\u2081\u2081 =\u00a0n/2.[a + U\u2081\u2081]<br>\u21d4 S\u2081\u2081 =\u00a0[11/2] x [72 + 12]\u00a0\u00a0<br>\u21d4 S\u2081\u2081 =\u00a0[11/2] x 84<br>\u21d4 S\u2081\u2081 =\u00a011 x 42<br>\u21d4 S\u2081\u2081 =\u00a0462<br><strong>\u21d4 \u2234 Jumlah 11 suku pertama deret aritmatika tersebut adalah 462</strong><br>",
+            "attachments": []
+        },
+        {
+            "answer": "a = 72<br>b = U\u2082 - u\u2081<br>\u00a0\u00a0  = 66 -72<br>\u00a0\u00a0 = -6<br>Un = 12<br>gunakan rumus Un untuk mencari nilai n <br>Un = a + (n-1) b<br>12\u00a0 = 72 + ( n-1) -6<br>12\u00a0 = 72 - 6n + 6<br>12\u00a0 = 78-6n<br>12-78 = -6n<br>\u00a0-66 = -6n<br>-66/-6 = n<br>\u00a0\u00a0 11\u00a0 \u00a0  = n <br><br>gunakan rumus Sn untuk mencari jumlah suku<br>Sn = n/2 (2a + (n-1) b)<br>\u00a0 \u00a0 \u00a0 = 11/2 ( 2.72 + ( 11-1) -6)<br>\u00a0 \u00a0 \u00a0 = 11/2 ( 144 + (10)(-6))<br>\u00a0 \u00a0 \u00a0 = 11/2 ( 144 - 60)<br>\u00a0 \u00a0 \u00a0 = 11/2 (84)<br>\u00a0 \u00a0 \u00a0 = 11 (42)<br>\u00a0 \u00a0 \u00a0 = 462<br><br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "1aisyah-memiliki-sebuah-kain-yang-berbentuk-persegipanjang-ia-b-910",
+            "question": "1.Aisyah memiliki sebuah kain yang berbentuk persegipanjang. Ia berencana menghias sekeliling kain tersebut dengan renda. Jika ternyata renda yang diperlukan Aisyah paling sedikit 450 cm, perkirakan ukuran kain yang dimiliki Aisyah!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "sisi 2. panjang\u00a0 + 2. lebar .. menurut ku sisi yang panjang = 150.2= 300 dan lebarnya 75.2=150 sehingga kelilingnya = 300+150=450<br><br>lalu luasnya adalah panjang.lebar = 150.75=11.250<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-banyak-bilangan-asli-yang-kurang-dari-999-yang-tidak-hab-872",
+            "question": "Tentukan banyak bilangan asli yang kurang dari 999 yang tidak habis dibagi 3 atau 5.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>3,6,12,15,18,....<br><br>Un=a+(n-1).b<br>996=3+(n-1).3<br>996=3+3n-3<br>996=3n<br>\u00a0\u00a0 n=<u> 996</u> = 332<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 3<br><br>5,10,15,20,...<br><br>Un=a+(n-1).b<br>995=5+(n-1).5<br>995=5+5n-5<br>995=5n<br>\u00a0\u00a0 n= <u>995</u> = 119<br>\u00a0 \u00a0 \u00a0 \u00a0\u00a0 5<u><br><br></u>15,30,45,....990<br><br>Un=a+(n-1).b<br>990=15+(n-1).15<br>990=15+15n-15<br>990=15n<br>\u00a0\u00a0 n=66<br><br>\u00a0 Banyaknya angka yang tidak habis=<br>\u00a0\u00a0 \u00a0 998-(332+199)+66<br>\u00a0\u00a0 \u00a0 998-531+66 = <u><span>533</span></u></span><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tuliskan-persamaan-x-y3-258",
+            "question": "Tuliskan persamaan {x-y=3}    \u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 {3x-2y=16} dalam bentukan matriks , lalu tentukan nilai 2x+5y",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "x - y = 3<br>3x -2y = 16<br><br>2x - 2y = 6<br><u>3x - 2y = 16</u> _<br><u></u>-x\u00a0 \u00a0 \u00a0 \u00a0 = -10<br><br>10 - y = 3<br>\u00a0\u00a0 \u00a0\u00a0 y = 7<br><br>2x +5y =<br>2*10 + 5*7 = 55<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukanlah-suku-banyak-px-yang-memenuhi-persamaan-berikut-x2-151",
+            "question": "Tentukanlah suku banyak p(x) yang memenuhi persamaan berikut (x2 - 2x - 5)-p(x) = (3-2x)(5x-4)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "(x\u00b2 - 2x - 5) - p(x) = (3 - 2x) (5x - 4) <br>x\u00b2 - 2x - 5 - p(x) = 15x - 12 -10x\u00b2 + 8x <br>x\u00b2 - 2x - 5 - (15x - 12 - 10x\u00b2 + 8x) = p(x) <br>11x\u00b2 - 25x + 7 = p(x) <br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jumlah-mobil-yang-diproduksi-suatu-pabrik-selama-1-hari-setelah-400",
+            "question": "jumlah mobil yang diproduksi suatu pabrik selama 1 hari setelah\u00a0t jam operasi adalah\u00a0n(t)\u00a0= 200\u00a0t\u00a0- 10t\u00b2, 0\u00a0\u2264\u00a0t\u00a0&lt; 10. jika biaya produksi\u00a0n\u00a0mobil (dalam dolar) adalah\u00a0B\u00a0(n) = 30.000 + 8.000n , tentukan biaya\u00a0B\u00a0sebagai fungsi dari waktu ,\u00a0B (t).\u00a0berapakah biaya memproduksi mobil selama 1 bulan?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "n = 200t-10t^2=0<br>\u00a0 \u00a0= 200 - 20t=0<br>t = 200 / 20 = 10\u00a0<br><br>berarti dalam 1 hari memproduksi 10 mobil dalam 1 bulan = 30 hari<br>B\u00a0= 30.000+8000(10.30)<br>\u00a0 \u00a0= 30 000 + 2.400 000<br>\u00a0 \u00a0= 2 430 000 dolar",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "temukan-grafik-fungsi-kuadrat-fx-4x2-8x3-dari-grafik-fung-281",
+            "question": "Temukan grafik fungsi kuadrat f(x) = 4x^{2}-8x+3 dari grafik fungsi kuadrat g(x) = 4x^{2} (dalam 1 grafik)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "ini gambarnya, silakan dipelajari",
+                    "attachments": [
+                        "answer-attachments/temukan-grafik-fungsi-kuadrat-fx-4x2-8x3-dari-grafik-fung-281-1.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "seorang-pengusaha-kaya-memiliki-500-botol-jus-tapi-diketahui-ter-402",
+            "question": "Seorang pengusaha kaya memiliki 500 botol jus. Tapi diketahui terdapat 1 botol jus yang beracun di antara 500 botol jus tersebut. Jika terminum bisa menyebabkan kematian dalam waktu kurang lebih 24 jam.    Seorang cendekiawan bernama joko diperintah untuk menemukan 1 botol jus beracun tersebut. joko membuat strategi. Dia akan mengambil sampel jus-jus tersebut dan mencobanya kepada beberapa ekor tikus. Setelah itu tikus-tikus itu dibiarkan dalam 24 jam dalam kurungan untuk melihat reaksinya.\u00a0\r\n\r\nBerapakah tikus minimal yang dibutuhkan joko? Dan bagaimana strateginya?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "sekitar 300 - 500 ekor tikus",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "gimana-nieh-sob-cara-ngerjain-tugas-ini-326",
+            "question": "Gimana nieh sob cara ngerjain tugas ini :\u00a0    \u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]  \\left[\\begin{array}{ccc}-12&amp;33\\\\16&amp;24\\end{array}\\right] [/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "numpang-tanya-lagi-boleh-diket-x1-y4-dit-x23-678",
+            "question": "Numpang tanya lagi boleh,,,????    \u00a0diket : x=1, y=4\r\ndit : (x\u00b2/\u00b3 . y \u207b\u2074/\u00b3)\r\n\u00a0\u00a0 \u00a0 \u00a0 (y\u00b2/\u00b3 . x\u00b2)\r\n\u00a0mohon bantuanya,,, makasih :)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]x=1,y=4\\\\\n\\frac{x^{\\frac{2}{3}}y^{\\frac{-4}{3}}}{y^{\\frac{2}{3}}x^2}\\\\\n=\\frac{(1^{\\frac{2}{3}})(4^{\\frac{-4}{3}})}{(4^{\\frac{2}{3}})(1^2)}\\\\\n=\\frac{4^{\\frac{-4}{3}}}{4^{\\frac{2}{3}}}\\\\\n=4^{\\frac{-4}{3}-\\frac{2}{3}}\\\\\n=4^{\\frac{-6}{3}}\\\\\n=4^{-2}\\\\\n=\\frac{1}{16}[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-nilai-x-yang-memenuhi-bentuk-bentuk-logaritma-berikut-a-895",
+            "question": "Tentukan nilai x yang memenuhi bentuk bentuk logaritma berikut\r\na. 3log 27 = x\r\nb. 5 log 625 =x",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "x = 3 log 27 <br>\u00a0\u00a0 = 3 log 3\u00b3<br>\u00a0\u00a0 = 3<br><br>x = 5 log 625 <br>\u00a0\u00a0 = 5 log 5\u2074<br>\u00a0\u00a0 = 4<br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

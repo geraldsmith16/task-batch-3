@@ -1,0 +1,146 @@
+{
+    "question": "diketahui jumlah dua bilangan adalah 100 dan selisih nya adalah 40 bagaimana nilai dua bilangan tersebut dapat dinatakan dua linear variabel.",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "jawabannya:<br>a+b = 100<br>a-b \u00a0= 40<br>truss lakukan proses eliminasi....<br>2b = 60<br>b = 30<br>substitusikan ke a+b=100<br>a+ 30 = 100<br>a= 70",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "1-keliling-persegi-panjang-205-cm-dan-panjangnya-5cm-lebihnya-d-155",
+            "question": "1. keliling persegi panjang= 205 cm dan panjangnya 5cm lebihnya dari lebarnya. \u00a0 \u00a0a) jika lebarnya = x \u00a0 \u00a0 \u00a0 \u00a0 buatlah kalimat terbuka dalam persamaan \u00a0 \u00a0b)tentukan panjang, lebar, dan luas persegi panjang tersebut \u00a0 2. Dua buah bilangan berselisih 35, jika 2 kali bilangan yang besar dikurangi bilangan yang kecil adalah 185, tentukan kedua bilangan tersebut.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "A=bilangan yang lebih besar, B=bilangan yang lebih kecil<br>2A-B=185<br>A-B=35<br>Dieleminasi<br>maka A=150 dan B=115<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "kenapa-nilai-phi-314-817",
+            "question": "Kenapa nilai phi 3,14?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "karena nilai phi itu diperoleh dari keliling lingkaran dibagi diameter",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "gimana-sih-cara-mudah-menghitung-pemfaktoran-934",
+            "question": "Gimana sih cara mudah menghitung pemfaktoran?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "pemfaktoran aljabar, bentuk kuadrat, atau yang lain???<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "kalo saya, lebih gampang pake rumus abc, yang<br>(-b\u00b1\u221a(b^2-4ac))/2a<br><br>soalnya,\u00a0tinggal dimasuk-masukin doang angkanya orz.",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "panjang-jari2-sbuah-lingkaran-adalah-28-cm-hitunglah-a-panjan-623",
+            "question": "Panjang jari2 sbuah lingkaran adalah 28 cm. Hitunglah :    a. panjang busur dihadapan sudut pusat 45 derajat\r\nb. luas juring yg sudut pusatnya 120 drajat??",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a. keliling=22/7.2.28 = 176<br>\u00a0 \u00a0busur=45/360.176= 22<br><br>b. luas = 22/7.28.28 = 2464<br>\u00a0 \u00a0juring = 120/360.2464 = 821,34",
+                    "attachments": []
+                },
+                {
+                    "answer": "a. panjang busur = phi*d*&lt;/360<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 22/7*56*45/360<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0  = 22<br>b. L juring = phi*r*r*&lt;/360<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0  = 22/7*28*28*120/360<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 821,33<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-penyelesaian-2y-7-3-661",
+            "question": "Tentukan penyelesaian\u00a0\u00a02y - 7\u00a0 \u00a0\u2264 3\r\n \u00a0\u00a0\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a02",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<u>2y - 7\u00a0</u><span>\u00a0\u00a0\u2264 3</span><u><br></u><span>\u00a0 \u00a0 2<br></span>2y-7\u22643.2<br>2y-7\u22646<br>2y\u226413<br>y\u22646.5",
+                    "attachments": []
+                },
+                {
+                    "answer": "2y-7\u22646<br>2y\u22646+7<br>2y\u226413<br>\u00a0jadi y\u22646,5",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "rasionalkan-penyebut-bilangan-brkt-6-2-3-381",
+            "question": "Rasionalkan penyebut bilangan brkt:\r\n \u221a6\u00a0 \u00a0 \r\n2 \u221a3",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span><u>\u221a6\u00a0 \u00a0 <br></u>2 \u221a3<br>=</span><br><u>\u221a6</u><span><u>\u221a3\u00a0 \u00a0 <br></u>2 \u221a3</span><span>\u221a3<br>=<br></span><u>\u221a18</u><span><u>\u00a0 \u00a0 <br></u>2 x 3<br>=<br></span><u>3\u221a2</u><br>6<br>=(1/2)\u221a2<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<u>\u221a6</u> \u00a0\u00a0 \u00d7 \u221a3<br>2 \u221a3\u00a0 \u00d7 \u221a3<br><br><u>\u221a18</u><br>\u00a0 6<br><br><u>\u221a9 \u221a2</u><br>\u00a0\u00a0 6<br><br>maka:<br><u>3 \u221a2</u><br>\u00a0 6<br><br><u>1 </u>\u221a2<br>2<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-himpunanpenyelesaian-dri-persamaan-linear-a-24m-12-b-813",
+            "question": "Tentukan himpunanpenyelesaian dri persamaan linear    a. 24m = 12\r\nb. -4 x-15 = 1- 8r\r\nplis d jawab",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]24m=12 \\rightarrow m=\\frac{12}{24}=\\frac{1}{2}\\\\\nHp=\\{\\frac{1}{2}\\}\\\\\\\\\n(-4)(-15)=1-8r\\\\\n60-1=-8r\\\\\n59=-8r\\\\\nr=-\\frac{59}{8}\\\\\nHp=\\{-\\frac{59}{8}\\}[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-naik-motor-dheni-akan-sampai-ke-sekolah-dalam-waktu-45-me-569",
+            "question": "Jika naik motor, Dheni \u00a0akan sampai ke sekolah dalam waktu 45 menit dengan kecepatan rata-rata 20 km/jam. berapa kecepatan rata - rata bentor agar Dheni sampai di sekolah dalam waktu\u00a030 menit?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Pertama, dicari jaraknya dulu<br>S = v.t<br>S = 20. 3/4<br>S = 15<br>Bila ingin menempuh waktu 30 menit maka dibutuhkan kecepatan..<br>v = S : t<br>v = 15 :1/2<br>v = 30<br>Semoga betul ^^",
+                    "attachments": []
+                },
+                {
+                    "answer": "Pertama, dicari jaraknya dulu<br>S = v.t<br>S = 20. 3/4<br>S = 15<br>Bila ingin menempuh waktu 30 menit maka dibutuhkan kecepatan..<br>v = S : t<br>v = 15 :1/2<br><span>v = 30</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "nilai-t-yang-memenuhi-persamaan-21-2t23-2t-adalah-645",
+            "question": "Nilai t yang memenuhi persamaan 2(1-2t)=23-2t adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "2 (1-2t) =23-2t<br>2-4t=23-2t<br>-4t+2t=23-2<br>-2t=21<br>t=-10,5<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "2 (1-t)=23-2t\n2-4t=23-2t\n-4t+2t=23 -2\n-2t=21\n t= -21/2",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "perbaikan-jalan-akan-selesai-dikerjakan-dalam-waktu-3-bulan-1-b-918",
+            "question": "perbaikan jalan akan selesai dikerjakan dalam waktu 3 bulan ( 1 bulan-30 hari) , jika dikerjakan denga 16 orang tenaga . setiapa minggu ( 1 bulan ada 5 hari minggu ) buruh libur berkeja. berapa orang buruh harus ditambah agar jalan selesai pada waktunya?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "3(30)x16 org = 1440<br>libur 5x3=15 hari tidak berkerja<br>90-15=75 hari<br><br>banyak pekerja = 1440/75=19,2 - 16= 3 orang yang harus di tambah<br><br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

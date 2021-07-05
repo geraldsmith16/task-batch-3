@@ -1,0 +1,130 @@
+{
+    "question": "1.Perhatikan 2 kertas HVS yang berukuran A5 dan F4. Tanpa mengukurnya terlebih dahulu, ketas HVS manakah yang lebih luas permukaannya?",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "lebih luas F4 karena\u00a0<br>A, semakin besar semakin kecil luasnya",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "garis-ymxn-melalui-titik-16-dan-3-2-maka-nilai-m-dan-n-569",
+            "question": "Garis y=mx+n melalui titik (1,6) dan (-3,-2), maka nilai m dan n berturut-turut adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "m=[tex] \\frac{Y2-Y1}{X2-X1} [/tex]<br>m = [tex] \\frac{-2-6}{-3-1} = \\frac{-8}{-4}=2 [/tex]<br>Y - Y1 = m(X-X1) <br>y - 6 = 2 (x-1)<br>y = 2x - 2 + 6<br>y = 2x + 4 <br><br>mudah mudahan membantu ya! dan jangan lupa istirahat he he <br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "&gt;&gt;\u00a0m=\u00a0<br>&gt;&gt;\u00a0<span>m =\u00a0</span><br><span>&gt;&gt; y\u00a0- y1 = m(x-x1)\u00a0 <br>&gt;&gt;\u00a0</span>y - 6 = 2 (x-1)<br>&gt;&gt;\u00a0y = 2x - 2 + 6<br><span>&gt;&gt;\u00a0y = 2x + 4\u00a0<br>maaf kalo ngelantur habis ngantuk sih</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-dua-fungsi-fxx-5-dan-gxx2x2-jika-fx2-1-g-578",
+            "question": "Diketahui dua fungsi f(x)=x-5 dan g(x)=x\u00b2+x+2, jika f(x\u00b2-1)= g(x-1) maka x=",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]f(x^2-1)=g(x-1)\\\\\n(x^2-1)-5=(x-1)^2+(x-1)+2\\\\\nx^2-6=x^2-2x+1+x+1\\\\\nx=8[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "penerapan-sudut-pada-bidang-fisika-dan-masalah-nyata-212",
+            "question": "Penerapan sudut pada bidang fisika dan masalah nyata",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>kecepatan rata rata\u00a0<br>kecepatan sesaat. . . . \u00a0. <br></span><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "kecepatan rata-rata, <br>kecepatan sesaat",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-persamaan-kuadrat-yang-akarnya-2-dan-2-468",
+            "question": "Tentukan persamaan kuadrat yang akarnya 2- dan 2+",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]PK\\ baru : x^2-(x_1+x_2)x+(x_1x_2)=0\\\\\nx_1+x_2=(2-\\sqrt{3})+(2+\\sqrt{3})\\\\\nx_1+x_2=4\\\\\n\\\\\nx_1x_2=(2-\\sqrt{3})(2+\\sqrt{3})\\\\\nx_1x_2=4-3=1\\\\\n\\\\\nPK\\ baru : x^2-4x+1=0\\\\[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-sebuah-bangunan-dikerjakan-oleh-30-orang-akan-selesai-selama-960",
+            "question": "jika sebuah bangunan dikerjakan oleh 30 orang akan selesai selama 15 hari, jika dimnta pekerjaan harus selesai dalam waktu 5 hari berapa pekerja yang harus ditambahkan?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "30 org = 15 hari<br>x org\u00a0 = 5 hari<br><br>jawab:<br><u>x\u00a0</u> \u00a0 =\u00a0 <u>15</u><br>30\u00a0 \u00a0\u00a0 \u00a0 5 <br><br>5x = 30 \u00d7 15<br>x\u00a0 = <u>450</u><br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 5<br>x = 90 orang<br><br>pekerja yang harus ditambah:<br>90 - 30 = 60 orang<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-2-bilangan-4-amp-4-disisipkan-4-buah-sehingga-membentuk-325",
+            "question": "Jika 2 bilangan 4\u00a0&amp; -4 disisipkan 4 buah sehingga membentuk barisan geomatri yang rasionya lebih kecil dari nol    tentukan:\u00a0\r\n1.tentukan rasionya\r\n2.cari rumus umum\r\n3 tentukan suku ke-3",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Deret geometri tersebut adalah<strong><br>4</strong>, -4, 4,\u00a0-4, 4, <strong>-4<br><br></strong>rasio = -1<br><strong><br><u></u></strong>[tex]Un = a (-1)^{n-1} [/tex]<br><br>[tex]U3 = 4 .  (-1)^{3-1} =4 .  (-1)^{2}= 4.1 \\\\ U3=4[/tex]<strong><br></strong>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "koordinat-titik-puncak-grafik-fungsi-kuadrat-adalah25-jika-gra-477",
+            "question": "koordinat titik puncak grafik fungsi kuadrat adalah(2,5) jika grafik fungsi kuadrat melalui titik (-1,23) maka tentukan rumus fungsi kuadrat ! tolong bantu yah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "hasilnya nti jadi 18x-3y-51=0<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "contoh-dari-range-data-tunggal-713",
+            "question": "Contoh dari range data tunggal\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>Range adalah salah satu ukuran statistik yang menunjukan jarak penyebaran data antara nilai terendah (Xmin) dengan nilai\u00a0tertinggi (Xmax). Ukuran ini sudah digunakan pada pembahasan daftar distribusi frekuensi. Adapun rumusnya adalah<br>Contoh :\u00a0<span>Berikut ini nilai ujian semester dari 3 mahasiswa<br>A\u00a0= 60 55 70 65 50 80 40<br>B\u00a0= 50 55 60 65 70 65 55<br>C\u00a0= 60 60 60 60 60 60 60<br></span><span>Dari data diatas dapat diketahui bahwa<br>A\u00a0= memiliki Xmax=80, Xmin= 40 , R = 40 , meanya 60<br>B\u00a0= memiliki Xmax=70, Xmin= 50 , R = 20 , meanya 60<br>C\u00a0= memiliki Xmax=60, Xmin= 60 , R = 0 , meanya 60<br></span><span>Dari contoh di atas dapat disimpulkan bahwa :<br>a. Semakin kecil rangenya maka semakin homogen distribusinya<br>b. Semakin besar rangenya maka semakin heterogen distribusinya<br>c. Semakin kecil rangenya, maka meannya merupakan wakil yang representatif<br>d. Semakin besar rangenya maka meannya semakin kurang representatif</span></span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukanlah-suku-banyak-px-yang-memenuhi-persamaan-berikut-x2-151",
+            "question": "Tentukanlah suku banyak p(x) yang memenuhi persamaan berikut (x2 - 2x - 5)-p(x) = (3-2x)(5x-4)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "(x\u00b2 - 2x - 5) - p(x) = (3 - 2x) (5x - 4) <br>x\u00b2 - 2x - 5 - p(x) = 15x - 12 -10x\u00b2 + 8x <br>x\u00b2 - 2x - 5 - (15x - 12 - 10x\u00b2 + 8x) = p(x) <br>11x\u00b2 - 25x + 7 = p(x) <br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-kasih-tau-jawaban-dan-penyelesaiannya-juga-dong-banyak-369",
+            "question": "Tolong kasih tau jawaban dan penyelesaiannya juga dong :)    Banyak bilangan antara 2000 dan 6000 yang dapat disusun dari angka 0,1,2,3,4,5,6,7 dan tidak ada angka yang sama adalah...\r\nTerimah kasih sebelumnya yaa :)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "buat 4 kotak\u00a0 |ribuan|ratusan|puluhan|satuan|<br>|5|7|6|5| = 5 x 7 x 6 x 5 = 1050.<br><br>nb:<br>kotak pertama = dari 0 - 7 yang memenuhi tempat ribuan ada 5 (2, 3, 4, 5, 6)<br>kotak kedua\u00a0 \u00a0  = dari 0 - 7 yang memenuhi tempat ratusan ada 7<br>(jika syaratnya tidak ada angka yang sama, peluang setiap kotaknya di kurang 1, kemudian setiap angka dikalikan, dan itulah hasilnya)<br>dst..<br>:D<br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

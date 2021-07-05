@@ -1,0 +1,134 @@
+{
+    "question": "Cara menjawab soal pola bilangan yang tidak berurutan seperti soal psikotest itu gimana sih ?",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "Tergantung dengan pola bilangannya juga sih.Tapi menurut pendapat saya, carilah angka yang paling kecil, lalu bandingkan dengan angka terkecil kedua. Okay ? @Liwed",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "sebuah-kotak-berisi-10-kelereng-biru8-kelereng-kuningdan-2-kele-236",
+            "question": "sebuah kotak berisi 10 kelereng biru,8 kelereng kuning,dan 2 kelereng merah.jika diambil dua kelereng sekaligus,peluang terambil keduanya kelereng biru atau keduanya kelereng kuning adalah...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Biru = 10<br>Kuning = 8<br>Merah = 2<br>Total kelereng = 20<br><br>Peluang terambil keduanya kelereng biru = 10C2 = 10!/((10 - 2)! * 2!) = (9 * 10)/(2) = 45<br>Peluang terambil keduanya kelereng kuning = 8C2 = 8!/((8 - 2)! * 2!) = (7 * 8)/(2) = 28<br>Peluang terambil keduanya dari total = 20C2 = 19 * 20 / 2 = 190<br><br>Peluang keduanya biru = 45/190 <br>Keduanya merah = 28/190<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-barisan-geometri-mempunyai-9suku-suku-tengah-ut768-u3-529",
+            "question": "Sebuah barisan geometri mempunyai 9suku, suku tengah (Ut)=768, U3=48,diantara tiap dua suku, disisipkan sebuah suku baru sehingga diperoleh barisan geometri baru. Tentukanlah Rasio,banyaks suku(n) dan U15 dari suku baru tersebut! :)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "tyeryreyjeriyjeriyjerjyierjyieryj<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jawablah-pertanyaan-berikut-ini-dengan-benar-5-tentukan-negasi-d-339",
+            "question": "Jawablah Pertanyaan berikut ini dengan benar    5. Tentukan negasi dari disjungsi- disjungsi berikut.\r\na. Susi Wanita yang cantik atau baik hati.\r\nb. 5 bialngan prima atau habis dibagi 2.\r\nc. 2x + 1 = 5 atau 3 bilangan ganjil.\r\nJawabannya:\r\n\r\ntolong Jawablah secepat mungkin karena ini penting",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a. baik hati<br>b. 2<br>c. 2x + 1 = 5<br>\u00a0\u00a0  2x = 5-1<br>\u00a0\u00a0 2x = 4<br>\u00a0\u00a0 x\u00a0\u00a0\u00a0 = 2<br><br>Itu jawabannya. Balas \"terimakasih\" ya ! :)<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "a. susi wanita yang tidak cantik dan tidak baik hati<br>b. 5 bukan bilangan prima dan tidak habis dibagi 2<br>c. 2x + 1 \u2260 5 dan 3 bukan bilangan ganjil<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-bantu-saya-kerjakan-dik-f2x-34x-7maka-nilai-dari-852",
+            "question": "Tolong Bantu saya kerjakan\u00a0 \r\nDIK=\u00a0 f(2x-3)=4x-7,maka nilai dari F(17)-F(7) adalah...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "f(17) = 117\u00a0<br>f(7) = 37\u00a0<br>jadi hasilnya 80. kalo enggak salah yaaa",
+                    "attachments": []
+                },
+                {
+                    "answer": "f = 4(2x-3) - 7<br>\u00a0= 8x - 12 - 7<br>\u00a0= 8x - 19<br>f 17 = 8(17) - 19 = 117<br>f 7 = 8 (7) - 19 = 37<br><br>nilai f17-f7 = 117 - 37 = 80<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1perhatikan-2-kertas-hvs-yang-berukuran-a5-dan-f4-tanpa-menguku-375",
+            "question": "1.Perhatikan 2 kertas HVS yang berukuran A5 dan F4. Tanpa mengukurnya terlebih dahulu, ketas HVS manakah yang lebih luas permukaannya?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "lebih luas F4 karena\u00a0<br>A, semakin besar semakin kecil luasnya",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "cari-fogx-amp-gofx-jika-1-fxx2-dan-gx-3x1-2-380",
+            "question": "Cari (fog)(x) &amp; (gof)(x)    jika : \r\n 1. f(x)=x+2 dan g(x) = 3x+1 \r\n 2. f(x)=4/x dan g(x) = 1-3x",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1. f(x) = x + 2 dan g(x) = 3x + 1 <br>\u00a0\u00a0  (f\u2080g)(x) = 3x + 1 + 2 = 3x + 3 <br>\u00a0\u00a0 (g\u2080f)(x) = 3(x + 2) + 1 <br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 = 3x + 6 + 1 <br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 = 3x + 7 <br><br>2. f(x) = 4/x dan g(x) = 1 - 3x <br>(f\u2080g)(x) = 4/(1 - 3x) <br>(g\u2080f)(x) = 1 - 3(4/x) <br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 1 - 12/x <br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0  = (x - 12)/x <br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "7266605412-tentukan-banyak-suku-ddan-jumlah-deret-aritma-127",
+            "question": "72+66+60+54+....+12\r\nTentukan banyak suku ddan jumlah deret aritmatika?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<em>Diketahui:</em><br>U\u2081 = a = 72<br>Suku terakhir Un = 12<br><br><em>Ditanya:</em><br>(a). Banyak n suku<br>(b). Jumlah n suku (Sn)<br><br><em>Penyelesaian:</em><br><br>(a). Banyak n suku<br>\u21d4 Beda b = U\u2082 - U\u2081<br>\u21d4 b = 66 - 72<br>\u21d4 Diperoleh b = - 6<br>\u21d4 Selanjutnya, Un = a + (n - 1).b<br>\u21d4 12 = 72 + (n - 1).(- 6)<br>\u21d4 - 60 = (n - 1).(- 6)<br>\u21d4 10 = n - 1<br><strong>\u21d4 \u2234 Banyaknya suku adalah\u00a0n = 11</strong><br><br>(b). Gunakan rumus jumlah n suku Sn = n/2.[a + Un]<br>\u21d4 S\u2081\u2081 =\u00a0n/2.[a + U\u2081\u2081]<br>\u21d4 S\u2081\u2081 =\u00a0[11/2] x [72 + 12]\u00a0\u00a0<br>\u21d4 S\u2081\u2081 =\u00a0[11/2] x 84<br>\u21d4 S\u2081\u2081 =\u00a011 x 42<br>\u21d4 S\u2081\u2081 =\u00a0462<br><strong>\u21d4 \u2234 Jumlah 11 suku pertama deret aritmatika tersebut adalah 462</strong><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "a = 72<br>b = U\u2082 - u\u2081<br>\u00a0\u00a0  = 66 -72<br>\u00a0\u00a0 = -6<br>Un = 12<br>gunakan rumus Un untuk mencari nilai n <br>Un = a + (n-1) b<br>12\u00a0 = 72 + ( n-1) -6<br>12\u00a0 = 72 - 6n + 6<br>12\u00a0 = 78-6n<br>12-78 = -6n<br>\u00a0-66 = -6n<br>-66/-6 = n<br>\u00a0\u00a0 11\u00a0 \u00a0  = n <br><br>gunakan rumus Sn untuk mencari jumlah suku<br>Sn = n/2 (2a + (n-1) b)<br>\u00a0 \u00a0 \u00a0 = 11/2 ( 2.72 + ( 11-1) -6)<br>\u00a0 \u00a0 \u00a0 = 11/2 ( 144 + (10)(-6))<br>\u00a0 \u00a0 \u00a0 = 11/2 ( 144 - 60)<br>\u00a0 \u00a0 \u00a0 = 11/2 (84)<br>\u00a0 \u00a0 \u00a0 = 11 (42)<br>\u00a0 \u00a0 \u00a0 = 462<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentang-konjungsi-dik-pxx3-x0-qx-8-9lt0-dit-tentu-592",
+            "question": "Tentang konjungsi    dik : p(x)=x\u00b3-x=0 ; q(x)= 8-9&lt;0\r\ndit : tentukan nilai x agar p\u2227q bernilai benar dan bernilai salah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "di cari dulu persamaannnya mbak \"D<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-barisan-bilangan-dituliskan-sebagai-berikut-123456789101-164",
+            "question": "Sebuah barisan bilangan dituliskan sebagai berikut : 123456789101112131415161718192021222324252627..............dst. Sehingga suku ke-10 = 1, suku ke-11 = 0, suku ke-12 = 1, dan\u00a0seterusnya. Dapatkah Anda temukan bilangan yang menempati suku ke-10.000?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>Un\u00a0\n= a + ( n \u2013 1 )b</span><br>U11 = a + 10b= 0<br>U10 = a + 9b = 1<br><br>\u00a0\u00a0  <br>\u00a0\u00a0 \u00a0 \u00a0  1b = 1 b= 1<br>a + 1b = 0 \u2192 a + 10.1 =0 \u2192 a + 10 = 0\u2192 a\u00a0 =10<br><br>U10.000 = a (n-1) b<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0  = 10 (10.000-1) 1<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0  = 10 . 99000 .1<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0  = 990000<br>\u00a0<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "hitunglah-nilai-a-jika-x3-ax2-11-x-30-mempunyai-faktor-x3-754",
+            "question": "Hitunglah nilai a jika x3 + ax2 - 11 x + 30 mempunyai faktor (x+3)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "(-4)..............................<br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

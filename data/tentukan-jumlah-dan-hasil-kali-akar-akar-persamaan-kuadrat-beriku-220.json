@@ -1,0 +1,134 @@
+{
+    "question": "Tentukan jumlah dan hasil kali akar-akar persamaan kuadrat berikut    p\u00a0x^{2}\u00a0 - (5p + 1)x + (3p - 8) = 0",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "[tex]px^2-(5p+1)x+(3p-8)=0\\\\\nx_1+x_2=\\frac{-(-5p-1)}{p}\\\\\nx_1+x_2=\\frac{5p+1)}{p}\\\\\\\\\nx_1x_2=\\frac{3p-8}{p}[/tex]",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "diketahui-suatu-segitiga-siku-siku-dengan-nilai-sinus-salah-satu-124",
+            "question": "diketahui suatu segitiga siku-siku dengan nilai sinus salah satu sudut lancipnya adalah\u221a3/2. tentukanlah nilai cosinus, tangen sudut tersebut.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "cos nya 1/2 <br>tangen nya \u221a3",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span>cos nya 1/2 <br>tangen nya \u221a3</span><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dik-fx12-x22-dan-gx-x10-fungsi-komposisi-f-lingkaran-199",
+            "question": "Dik: f(x)=1/2 x2+2 dan g(x) = x+10 fungsi komposisi (f lingkaran g) (x)=..........................",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]f o g(x) =  \\frac{1}{2} ( x^{2} +20x+100)+2=   \\frac{1}{2}x^{2} +10x+50+2 \\\\  \\\\ \\frac{1}{2}x^{2} +10x+52[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-bantu-saya-ya-suku-suku-barisan-geometri-tak-hingga-ada-754",
+            "question": "Tolong bantu saya ya :)    suku-suku barisan geometri tak hingga adalah positif, jumlah u1+u2=60, dan u3+u4=15,\r\ntentukan jumlah suku barisan itu!\r\nterimakasih (pakai cara ya sobat)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]a+ar=60 \\rightarrow a(1+r)=60\\\\\nar^2+ar^3=15 \\rightarrow ar^2(1+r)=15\\\\\nr^2(a(1+r))=15\\\\\nr^2(60)=15\\\\\nr^2=\\frac{15}{60}\\\\\nr^2=\\frac{1}{4}\\\\\nr=\\frac{1}{2}\\ atau\\ r=-\\frac{1}{2}(TM,\\ karena\\ suku-sukunya\\ positif)\\\\\na(1+r)=60\\\\\na(1+\\frac{1}{2})=60\\\\\na=\\frac{60}{\\frac{3}{2}}\\\\\na=40\\\\\nS_{\\infty}=\\frac{a}{1-r}\\\\\nS_{\\infty}=\\frac{40}{1-\\frac{1}{4}}\\\\\nS_{\\infty}=\\frac{160}{3}[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-bantu-saya-kerjakan-dik-f2x-34x-7maka-nilai-dari-852",
+            "question": "Tolong Bantu saya kerjakan\u00a0 \r\nDIK=\u00a0 f(2x-3)=4x-7,maka nilai dari F(17)-F(7) adalah...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "f(17) = 117\u00a0<br>f(7) = 37\u00a0<br>jadi hasilnya 80. kalo enggak salah yaaa",
+                    "attachments": []
+                },
+                {
+                    "answer": "f = 4(2x-3) - 7<br>\u00a0= 8x - 12 - 7<br>\u00a0= 8x - 19<br>f 17 = 8(17) - 19 = 117<br>f 7 = 8 (7) - 19 = 37<br><br>nilai f17-f7 = 117 - 37 = 80<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-tan-3-p-maka-tan-228-adalah-574",
+            "question": "Jika tan 3 = p maka tan 228 adalah....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "tan 3=p maka tan 6 = 2 tan 3/(1-tan\u00b23p) = 2p/1-p\u00b2<br>tan 12= tan 2.6<br>tan 24 = tan 2 12<br>dan tan 48 = tan 2 24<br>tan 228 = tan ( 180+48)= tan \u00a048",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "berapa-luas-daerah-yang-di-arsir-614",
+            "question": "\u00a0 Berapa Luas Daerah Yang di arsir\u00a0 ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "mana gambarnya yg mau di cari luasnya ???",
+                    "attachments": []
+                },
+                {
+                    "answer": "Daerah Mana Yang Dimaksud??<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "nih-ada-pr-mtk-sains-gurunya-blm-nerangin-mohon-di-bantu-yok-c-359",
+            "question": "Nih ada pr mtk sains gurunya blm nerangin :( mohon di bantu yok cekidot nih soalny..    Tentukanlah himpunan penyelesaian dari persamaan trigonometri 2-2sin(2x+15\u00b0)=3 untuk 0\u00b0\u2264x\u2264360\u00b0\r\n\r\n\r\nnah tolong bantuin ngerjain soal di atas oke :) please gan sis",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span> 2-2sin(2x+15\u00b0)=3 <br><br>2sin(2x+15) = -1 <br><br></span><span>sin(2x+15) = -1/2 <br><br></span><span>sin(2x+15) = sin 210 <br><br></span>berarti himpunan penyelesaiannya = { 210 , 330 ) <br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "garis-x-y30-dirotasi-60-berlawanan-dengan-arah-perputaran-jar-398",
+            "question": "Garis x-y+3=0 dirotasi 60\u00b0 berlawanan dengan arah perputaran jarum jam dengan pusat putar O(0,0). Tentukan bayangannya!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "pakai rumus<br>(x) \u00a0 = \u00a0 \u00a0 \u00a0 \u00a0 \u00a0cos a (-sin\u00a0a) \u00a0diinferskan lalu dikali (x&#039;)<br>(y) \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 sin a \u00a0 cos a\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0(y&#039;)<br>setelah hasilnya ketemu nanti dmasukkan ke persamaan yang menjadi soalnya<br><br>maaf tidak bisa membantu banyak, karna keterbatasan penulisan disini jadi saya tdk bisa menjawab hingga tuntas..",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jelaskan-turunan-fungsi-dari-1-2-900",
+            "question": "Jelaskan turunan fungsi dari :\r\n1.\u00a0\r\n2.\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]y=cosec(x)=\\frac{1}{sin(x)}\\\\\ny=(sin(x))^{-1}\\\\\ny&#039;=(-1)(sin(x))^{-1-1}.cos(x).(1)\\\\\ny&#039;=-(sin(x))^{-2}.cos(x)\\\\\ny&#039;=-\\frac{cos(x)}{(sin(x))^2)}\\\\\ny&#039;=-\\frac{cos(x)}{sin(x)}.\\frac{1}{sin(x)}\\\\\ny&#039;=-cot(x).cosec(x)\\\\\\\\\ny=x.sin(3x)\\\\\ny&#039;=(1)sin(3x)+x.cos(3x).(3)\\\\\ny&#039;=sin(3x)+3x.cos(3x)[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bagaimana-cara-menyelesaikan-soal-seperti-ini-dengan-caranya-9-458",
+            "question": "Bagaimana cara menyelesaikan soal seperti ini? dengan caranya\r\n\u00a09\u221a14 + 6\u221a21\r\n \u00a0 \u00a0 3\u221a42",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<u>\u221a81x14 +\u00a0\u221a36x21\u00a0</u> =\u00a0<u>\u221a1134 +\u00a0\u221a756</u>\u00a0<br>\u00a0 \u00a0 \u00a0 \u00a0\u221a9x42 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u221a378<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0=\u00a0<u>\u221a1134</u> \u00a0 + \u00a0 \u00a0<u>\u221a756</u><br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0<u></u>\u221a378 \u00a0 \u00a0 \u00a0 \u00a0\u00a0\u221a378\u00a0<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 biar akarnya ilang, masing\u00b2 di kuadratkan (dalam teori\u00a0\u221aa x\u00a0\u221aa = a)<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0(\u00a0<u>\u221a1134)</u>\u00b2\u00a0\u00a0 + \u00a0 \u00a0(<u>\u221a756)</u>\u00b2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0(\u00a0<u></u>\u00a0\u221a378 ) \u00a0 \u00a0 \u00a0 \u00a0\u00a0\u00a0(\u221a378)<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 =\u00a0<u>1134 </u>\u00a0 \u00a0 \u00a0 \u00a0+ \u00a0 \u00a0 <u>756<br></u>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 378 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0378\u00a0<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 3 + 2 = 5 .. ;)",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,134 @@
+{
+    "question": "diketahui sebuah deret geometri memenuhi log U1 + log U2 + log U3 + log U4 + log U5 = 15 log 2. jika r =2, tentukan S9.",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "Deret geometri dg r = 2<br>log U\u2081 + log U\u2082 + log U\u2083 + log U\u2084 + log U\u2085 = 15 log 2 <br>berdasarkan sifat logaritma, maka didapat : <br>log (U\u2081 . U\u2082 . U\u2083 .U\u2084 . U\u2085) = log 2\u00b9\u2075 <br>U\u2081 x U\u2082 x U\u2083 x U\u2084 x U\u2085 = 2\u00b9\u2075 <br>a x ar x ar\u00b2 x ar\u00b3 x ar\u2074 = 2\u00b9\u2075 <br>a\u2075 x r\u00b9\u2070 = 2\u00b9\u2075\u00a0  <br>a x r \u00b2 = 2\u00b3<br>a x 2\u00b2 = 2\u00b3<br>a = 2<br>S\u2089 = a(r\u2079 - 1) : (r - 1)<br>\u00a0\u00a0 \u00a0 = 2(2\u2079 - 1) : (2 - 1) <br>\u00a0\u00a0 \u00a0  = 2(512 - 1) : 1 <br>\u00a0\u00a0 \u00a0 = 2(511) <br>\u00a0\u00a0 \u00a0  = 1022<br><br><br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "contoh-perhitungan-uji-kenormalan-data-dengan-mengunakan-tabel-go-601",
+            "question": "Contoh perhitungan uji kenormalan data dengan mengunakan tabel goodness of fit",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Ini sepertinya soal per kuliahan ini, goodness of fit adalah uji untuk mengetahui tingkat normalitas dari sebuah data agar dipastikan terhindar dari autokorelasi, heteroskedastisitas, dan multikolininearitas <br><br>Saya kurang tahu apakah di tingkat SMA hal ini sudah diajarkan, tapi karena ditanyakan maka saya berusaha menjawab. <br><br>Untuk uji auto korelasi berfungsi mencari apakah ada gangguan pada data karena data yang digunakan berhubungan dengan data pada periode peridoe sebelumnya yang membuat sampel random menjadi tidak efektif. Rule of thumb nya pake uji durbit watson.<br>Kemudian untuk uji heterokedastisitas adalah menguji apakah ada varian yang besar sehingga membuat standar deviasi melebihi rata ratanya dan membuat bias dalam membaca hasil. Kalau ini bisa menggunakan uji table t.<br>Sedangkan uji multikolineritas adalah mencari apakah hubungan antar variabel independen lebih besar dari dependen kalau ini menggunakan uji F -test.<br><br>Kalau model sudah terbebas dari semua kesalahan ini (3) maka bisa dilihat dari tabel anova apakah adj r square nya besar. Contoh apabila r square nya (50%) maka artinya 50% dari fenomena yang diteliti bisa dicari / direpresentasikan dengan model tersebut.<br><br>Materi ini sudah masuk ke materi ekonometri untuk anak kuliah tingkat akhir, tapi dibahas tidak apa apa karena berkaitan juga dengan matematika.\u00a0 <br><br>Sukses ya<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tiga-bilangan-positif-membenrik-barisan-geometri-dengan-rasio-rg-198",
+            "question": "Tiga bilangan positif membenrik barisan geometri dengan rasio r&gt;1.jika suku tengah ditambah 4,maka terbentuk sebuah barisan aritmatika yang jumlahnya 30.tentukan hasil kali dari ketiga bilangan tersebut.    Tolong dongg",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a,b,c,nanti saat di barisan aritmatika b+4<br>a+b+c = 30<br>b= a.r^n-1,<br>6=a.r^1 = 6/r = a , c = a.r^n-1= 6/r . r^2 = 6.r<br>maka. a + b + c = 30<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a06/r + 6 + 6r = 30<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 6/r + 6r = 24<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 6r+ 6 = 24<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a06r = 18<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 r = 3<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0<br><br>a= 2<br>b = 6<br>c = 18<br>r= 3<br>jika b +4 = 6+ 4 =10,maka a+b+c= 30 :)<br>sehingga 2 x 6 x18 =156 :)",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-125-x-30-15-2-16-64-16-618",
+            "question": "1. 125 X 30 : 15 =\r\n2. (-16 ) + 64 : (-16) =",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1. 125 x 30 : 15 = 250\u00a0<br>2. (-16) + 64 : (-16) = -20<br>bener nggak ya",
+                    "attachments": []
+                },
+                {
+                    "answer": "1. 250<br>2.48:(-16)= -3",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diskiriminan-pk-panjang-suatu-persegi-panjang-adalah-2m-lebih-pan-398",
+            "question": "Diskiriminan pk    panjang suatu persegi panjang adalah 2m lebih panjang dari lebarnya . jika luasnya 960m\u00b2. tentukan panjang persegi tersebut\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]p=2+l\\\\\nL=pl=960\\\\\n(2+l)l=960\\\\\nl^2+2l-960=0\\\\\n(l-30)(l+32)=0\\\\\nl=30\\ atau\\ l=-32(TM)\\\\\np=32[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-segitiga-abc-dengan-koordinat-titik-a11-b82-c1-829",
+            "question": "Diketahui segitiga ABC dengan koordinat titik\u00a0 A(1,1) B(8,2) C(11,5), tentukan translasi yang diwakili oleh garis AB",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Secara umum:<br>B(x`,y`) = T(a,b)+ A(x,y)<br>(8,2) = (a,b) + (1,1)<br>(8,2) = (a+1,b+1), sehingga\u00a0 a+1 = 8 , maka a=7 dan b+1=2, maka b=1.<br>jadi translasi T(7 1)<br><br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dijawab-yah-plis-gtlt-sebuah-fungsi-kuadrat-mempunyai-nilai-m-175",
+            "question": "Dijawab yah plis &gt;&lt;    sebuah fungsi kuadrat mempunyai nilai maksimun\u00a0-3 pada saat\u00a0 = 2, sedangkan untuk\u00a0 = - 2 fungsi bernilai -11. tentukan fungsi kuadrat tersebut !",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "x1=2, x2=-2\nf (x) = a (x- 2)(x+2)\n         =a (x- 2 )(x+2)\ny= a (x- 2)(x-+2)\n-11 = a (\u00d7-2)(\u00d7+2)\n-11 = a (0-2)(0+2)\na = 4/11\n\nNanti tinggal disubstitusi\nDi y = a (\u00d7-2)(\u00d7+2)",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-bola-jatuh-dari-ketinggian-8m-dan-memantul-kembali-dengan-827",
+            "question": "sebuah bola jatuh dari ketinggian 8m dan memantul kembali dengan ketinggian 3/5 kali tinggi sebelumnya. Pemantulan ini berlangsung terus menerus hingga bola berhenti. Berapakah jarak lintasan seluruhnya?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "stidak terhingga=8 per 1-3/5<br>=8 per 2/5<br>=20m<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "n(5+3)/(5-3) = 8(8)/2 = 64/2 = 32m<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-persamaan-kuadrat-12-x2-k3-x-k2-2k-5-0-385",
+            "question": "Diketahui persamaan kuadrat 1/2 x\u00b2 + (k+3) x - k\u00b2 + 2k + 5 = 0    a. tentukan diskriminannya\r\nb. tentukan nilai k agar memiliki akar kembar\r\nc. tentukan akar persamaan untuk nilai k",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]\\frac{1}{2}x^2+(k+3)x-k^2+2k+5=0\\\\\na)\\ D=(k+3)^2-4(\\frac{1}{2})(-k^2+2k+5)\\\\\nD=k^2+6k+9+2k^2-4k-10\\\\\nD=3k^2+2k-1\\\\\\\\\nb)\\ D=0\\\\\n3k^2+2k-1=0\\\\\n(3k-1)(k+1)=0\\\\\nk=\\frac{1}{3}\\ atau\\ k=-1\\\\\\\\\nk=\\frac{1}{3} \\rightarrow \\frac{1}{2}x^2+(\\frac{1}{3}+3)x-(\\frac{1}{3})^2+2(\\frac{1}{3})+5=0\\\\\n\\frac{1}{2}x^2+\\frac{10}{3}x+\\frac{50}{9}=0\\\\\n9x^2+60x+100=0\\\\\n(3x+10)^2=0\\\\\nx=-\\frac{10}{3}\\\\\\\\\nk=-1 \\rightarrow \\frac{1}{2}x^2+(-1+3)x-(-1)^2+2(-1)+5=0\\\\\n\\frac{1}{2}x^2+2x+2=0\\\\\nakarnya\\ imajiner[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "menentukan-nilai-fungsi-fx2x-3x-1-tentukan-f-2-326",
+            "question": "Menentukan nilai fungsi f(x):2x - 3x +1 tentukan (f-2)???",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>f(x)=2x - 3x +1<br>f(2)= 2(2) - 3(2) +\u00a01<br>\u00a0 \u00a0 \u00a0= 4 - 6 + 1<br>\u00a0 \u00a0 \u00a0= -1<br>jawabanya -1</span>",
+                    "attachments": []
+                },
+                {
+                    "answer": "f(-2) = 2(-2) - 3(-2) + 1 = -4 + 6 + 1 = 3<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-nilaim-yang-memenuhi-a-fx-mx2-m1-x-8-b-f-910",
+            "question": "Tentukan nilai\"m\" yang memenuhi :    a. f(x) = mx2 - (m+1) x-8\r\nb. f(x) = mx2 + 12x + 9m\r\njika 1 memotong sumbu x\r\njika 1 menyinggung sumbu x\r\njika 1 tidak memotong/menyinggung sumbu x",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a. <br><span><br>b. </span><br><span><br><br>i&#039;m sorry if the fals answer..<br></span>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

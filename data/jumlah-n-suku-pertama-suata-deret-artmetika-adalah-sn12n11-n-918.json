@@ -1,0 +1,134 @@
+{
+    "question": "Jumlah n suku pertama suata deret artmetika adalah Sn=1/2n(11-n).rumus sukuke-n adalah....",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "rumus jumlah suku ke n = n/2(2a+(11-1)b)<br>jadi rumus suku ke n = a+(11-1)b<br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "suatu-suku-banyak-fx-jika-dibagi-x4x-5-mempunyai-sisa-8x-11-d-349",
+            "question": "suatu suku banyak f(x) jika dibagi x^+4x-5 mempunyai sisa 8x-11 dan jika dibagi x^-x-6 mempunyai sisa 5x+6. Hitunglah sisanya jika dibagi x^+2x-15!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]x^2+4x-5=(x+5)(x-1)\\\\\nf(-5)=8(-5)-11=-51\\\\\\\\\nx^2-x-6=(x-3)(x+2)\\\\\nf(3)=5(3)+6=21\\\\\\\\\nx^2+2x-15=(x+5)(x-3)\\\\\nS(x)=mx+n\\\\\nS(-5)=-5m+n=-51\\\\\nS(3)=3m+n=21\\\\\neliminasi\\ kedua\\ pers\\ tsb\\\\\n-8m=-72 \\rightarrow m=9\n3m+n=21 \\rightarrow 3(9)+n=21 \\rightarrow n=-6\\\\\njadi, S(x)=9x-6[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "menentukan-nilai-fungsi-fx2x-3x-1-tentukan-f-2-326",
+            "question": "Menentukan nilai fungsi f(x):2x - 3x +1 tentukan (f-2)???",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>f(x)=2x - 3x +1<br>f(2)= 2(2) - 3(2) +\u00a01<br>\u00a0 \u00a0 \u00a0= 4 - 6 + 1<br>\u00a0 \u00a0 \u00a0= -1<br>jawabanya -1</span>",
+                    "attachments": []
+                },
+                {
+                    "answer": "f(-2) = 2(-2) - 3(-2) + 1 = -4 + 6 + 1 = 3<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dengan-menggunakan-matriks-persegi-tunjukkan-bahwa-b-1-1b-d-284",
+            "question": "Dengan menggunakan matriks persegi, tunjukkan bahwa (B^-1)^-1=B\r\n dan [B^t]^-1=[B^-1]^t",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a)<br>misalkan matik B = (1 \u00a03)<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0(2 \u00a04)<br><br>(B^-1)^-1 = B<br>B^-1 = 1/-2 (4 \u00a0-3)<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0(-2 \u00a01)<br>\u00a0 \u00a0<br>\u00a0 \u00a0 \u00a0 \u00a0 = (-2 \u00a03/2)<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0(1 \u00a0 -1/2)<br><br>(B^-1)^-1 = -2 ( -1/2 \u00a0 \u00a0-3/2)<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0( -1 \u00a0 \u00a0 \u00a0 \u00a0-2)<br>\u00a0 \u00a0\u00a0<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = (1 \u00a0 \u00a0 3)<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0(2 \u00a0 \u00a0 4)<br><br>terbukti bahwa (b^-1)^-1 = B<br><br>b)<br>B^t = (1 \u00a02)<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0(3 \u00a04)<br>(B^t)^-1 = 1/-2 (4 \u00a0-2)<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 (-3 \u00a01)<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= (-2 \u00a0 \u00a0 \u00a0\u00a01)<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 (3/2 \u00a0-1/2)\u00a0<br><br>(B^-1)^t = (-2 \u00a0 \u00a01)<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 (3/2 \u00a0-1/2)<br><br>terbukti bahwa (B^t)^-1 = (B^-1)^t<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "inilah-triple-phytagoras-tadi-ada-yg-request-271",
+            "question": "Inilah \"TRIPLE PHYTAGORAS\"..\r\n#tadi ada yg request",
+            "attachments": [
+                "question-attachments/inilah-triple-phytagoras-tadi-ada-yg-request-271-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "tq bro...........................<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1suku-ke-2-dan-suku-ke-5-dari-barisan-geometri-adalah-12dan-49-617",
+            "question": "1.suku ke-2 dan suku ke-5 dari barisan geometri adalah 12dan 4/9 tentukan rumus suku ke -n besarnya suku ke-4     2.tiga bilangan membentuk barisan geometri jumlah ketiga bilangan tersebut adalah 14 dan hasil kalinya 64 tentukan ketiga bilangan",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "U2=12 &lt;=&gt; ar = 12 \u00a0 \u00a0 ....1<br>U5 = 4/9&lt;=&gt; ar^4= 4/9....2<br>1 dan 2 didapat r\u00b3 = 4/(12x 9 \u00a0= 1/27 jadi r = 1/3 dan a = 36<br>Un = ar^(n-1) = \u00a036 (1/3)^(n-1)",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "nilai-x-yang-memenuhi-x-20-lt-0-adalah-pliss-bantu-313",
+            "question": "Nilai x yang memenuhi : \u00a0+ x - 20 &lt; 0 adalah ?\r\npliss bantu......",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "silakan dipelajari dan dipahami",
+                    "attachments": [
+                        "answer-attachments/nilai-x-yang-memenuhi-x-20-lt-0-adalah-pliss-bantu-313-1.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "maaf-sebelumnya-kali-ini-aku-lagi-ada-masalah-besok-bakal-ada-r-646",
+            "question": "Maaf sebelumnya. kali ini aku lagi ada masalah. besok bakal ada razia jilbab,    jlbab aku masih di loundry dan bukanya siang aku lupa ngambil. gimana caranya biar besok aku bisa sakit (pura-pura sakit) dan ngga ketauan\r\n\r\n\"sekolahku bording school :(",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Pake jilbab orangtua aja , ato minjem temen<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "pukul kepela ke tembok aja kak-_-\" ato pagi2 basahin air ke jidat biar kelihatan berkeringat disangka sakit deh..<br><br>kalau ga pake jilbab gmn emg? jilbab temen yg lain?",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-keliling-suatu-lingkaran-77-cm-panjang-jari-jari-lingkaran-te-685",
+            "question": "1. Keliling suatu lingkaran 77 cm, panjang jari-jari lingkaran tersebut berapa?    2. Diketahui tali busur AB melalui pusat lingkaran dengan panjang AB = 20 cm, berapakah luas lingkaran?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1. k = 2 phi r<br>77 = 2 . 22/7 . r<br>11 = 44 r<br>r = 0,25<br><br>bagian kedua ntar ya, mau mandi bentar -_-",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-barisan-5-8-11125-punya-suku-tengah-ut-maka-t-ut-310",
+            "question": "Jika barisan 5, 8, 11........125 punya suku tengah Ut maka t + Ut adalah    mnta tolong yha kl ada yg bsa bntuin\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a= 1, Un=131<br>\u00a0Ut= 1/2(a+ Un)<br>\u00a0\u00a0\u00a0 =1/2(5+131)<br>\u00a0\u00a0\u00a0 =1/2(136)<br>\u00a0\u00a0\u00a0 = 68<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-bola-dilempar-vertikal-ke-atas-dgn-kecepatan-awal-vo-39-939",
+            "question": "Sebuah bola dilempar vertikal ke atas dgn kecepatan awal Vo = 39, 2m/s\u00b2 dan tanah dgn g=9,8 m/s\u00b2. Nyatakan dahulu posisi bola, y (dalam meter) setelah t sekon. Kapankah ketinggian y lebih dari 34,3 m?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "kalau saya cari hasil nya 1 sekon lebih agar ketinggian lebih dari 34,3<br><br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

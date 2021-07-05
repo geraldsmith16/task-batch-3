@@ -1,0 +1,156 @@
+{
+    "question": "Suatu pipa seragam dengan panjang 20 m dan massa 20 kg disangga oleh penumpu pada salah satu titik di pipa tersebut. Ketika ujung kiri diberi beban 10 kg dan titik tumpu berada pada jarak 2 m dari tengah pipa, massa beban yang harus diberikan pada ujung kanan pipa agar terjadi keseimbangan adalah...........kg",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "Ini penumpunya 2 meter disebelah kanan apa kiri dari tengahnya? <br>kalo di sebelah kiri benda di kanan bermassa :<br>20.8=.x.12<br>x=160/12=13,333 kg<br>kalo disebelah kanan<br>20.12=x.8<br>x=240/8=30 kg<br>",
+            "attachments": []
+        },
+        {
+            "answer": "diket= P pipa= 20m, m1=10kg, s1=12m , s2=8m<br>jawab: m1 . s1 = m2 .s2<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0\u00a0 10 . 12 = m2 . 8<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0  120 = 8m<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 m= 120 : 8<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0  m= 15kg<br>jadi, di ujung kanan harus di beri beban 15kg agar setimbang<br><br>maaf kalo GJ, saya krg paham ama soalnya,.<br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "berapa-kalor-yg-di-butuhkan-es-bersuhu-2c-dengan-massa-4-kg-ag-909",
+            "question": "Berapa kalor yg di butuhkan es bersuhu -2\u00b0c dengan massa 4 kg agar mencapai suhu 5\u00b0c, jika dik.    L es=336.000 J/kg\r\nc es=500 J/kg\u00b0c\r\nc air=4200 J/kg\u00b0c",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "m.c.\u0394t=4\u00d72\u00d7500= 4000j<br>m.L=4\u00d7336000=1344000j<br>m.c.\u0394t=4\u00d75\u00d74200=84000j<br><br>kalor yg dibutuhkan=1432000j=1432kj",
+                    "attachments": []
+                },
+                {
+                    "answer": "Q es 1 = m.Ces.\u0394t<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 4 . 500 .(0- -2)<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0= 400 j<br>Q lebur 2\u00a0= m.L<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 4 . 336.000<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = \u00a01.344.000 j<br>Q cair 3\u00a0= m.Cair.\u0394t<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = \u00a04 . 4200 . (5-0)<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 84.000 j<br>kalor total Q = Q1+Q2+Q3<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 400 + 1.344.000 + 84.000<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 1.428.400 J<br>tolong klik bintang",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apa-itu-elastisitas-dan-apa-hubunganyaa-dengan-hukum-hooke-677",
+            "question": "Apa itu elastisitas? dan apa hubunganyaa dengan hukum hooke",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "elastisitas\u00a0penambahan panjang",
+                    "attachments": []
+                },
+                {
+                    "answer": "elastisitas adalah kemampuan benda untuk kembali ke bentuk semula<br>hubungannya dengan hukum hooke adalah,\u00a0<span>Pada daerah elastisitas benda, gaya yang bekerja pada benda sebanding dengan pertambahan panjang benda</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apa-yang-dimaksud-benda-tegar-281",
+            "question": "Apa yang dimaksud benda tegar",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "benda yang tidak akan berubah bentuknya setelah diberi suatu gaya pada benda tersebut.",
+                    "attachments": []
+                },
+                {
+                    "answer": "benda tegar adalah istilah dalam fisika terhadap benda yang tidak akan berubah bentuknya setelah diberikan gaya pada benda itu,pada benda tegar titik harus berada pada jarak yang sama,sehinga titik2 lainnya sering sekali berbentuk lingkaran :)",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "rumus-rumus-menurut-teori-atom-planck-yang-benar-adalah-825",
+            "question": "Rumus-rumus menurut teori atom planck yang benar adalah?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "E= h.\u00b7v<br>E= ENEGI<br>H= KONSTANTA<br>V= FREKUENSI RADIASI<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-kelajuan-sebuah-elektron-yang-memiliki-massa-tiga-kali-m-371",
+            "question": "Tentukan kelajuan sebuah elektron yang memiliki massa tiga kali massa diamnya!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "M=3M\u2080<br><br>M=M\u2080/[tex] \\sqrt{1 - V^2/C^2} [/tex]<br>3M\u2080=M\u2080/[tex] \\sqrt{1 - V^2/C^2} [/tex]<br>[tex] \\sqrt{1 - V^2/C^2} [/tex]=1/3<br>1 - V\u00b2/C\u00b2\u00a0= 1/9<br>9/9\u00a0- 1/9 = V\u00b2/C\u00b2<br>8/9C\u00b2 = V\u00b2<br>V = 2[tex] \\sqrt{2} [/tex]/3C",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-elektron-yg-mula-mula-diam-dipercepat-oleh-beda-potensia-806",
+            "question": "sebuah elektron yg mula mula diam dipercepat\u00a0 oleh beda potensial sebesar V sehingga panjang gelombang de Broglie adalah lamda. jika elektron yg mula mula diam tersebut dipercepat dengan beda potensial 4V, maka panjang gelombang de Broglie elektron menjadi . . .",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "panjang gelombang de broglie elektron 4v2<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-bantuin-dong-sebuah-beban-20n-digantungkan-pada-kawat-ya-716",
+            "question": "Tolong bantuin dong..    sebuah beban 20N digantungkan pada kawat yang panjangnya 3,0 m dan luas penampangnya 8\u00a0x 10\u207b\u2077 m\u00b2 hingga menghasilkan pertambahan panjang 0,1 mm. hitunglah:\r\na. tegangan\r\nb. regangan\r\nc. modulus elastis kawat",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "tegangan:44<br>regangan:66<br>modulus 99<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<strong>tegangannya\u00a044</strong><br><strong>regangannya\u00a066</strong><br><span><strong>modulusnya\u00a0 99</strong></span><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apakah-semua-jenis-gaya-menyebabkan-pertambahan-panjang-pegas-177",
+            "question": "Apakah semua jenis gaya menyebabkan pertambahan panjang pegas ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "belum tentu, liat massa jga kk...<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "semua gaya mempengaruhi pegas<br>tetapi gaya tarik menyebabkan pertambahan panjang,sedangkan gaya dorong atau tekan menyebabkan pemendekann pada pegas :)",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tuliskan-5-sumber-energi-listrik-921",
+            "question": "Tuliskan 5 sumber energi listrik?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "sumber energi listrik<br>- Batu baterai<br>- Aki (akumulator)<br>- Dinamo<br>- Generator<br>- Nuklir<br>- Minyak<br>- Angin<br>- Gelombang<br>- Batu bara<br>- Panasbumi\u00a0<br>- Panas matahari (sel surya)<br>- Biomasa<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Baterai,  Aki,  Dinamo,  Nuklir dan Sel Surya (panas matahari)",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "buatlah-masing-masing-3-contoh-soal-dan-jawaban-dari-konduksi-977",
+            "question": "Buatlah masing masing 3 Contoh soal dan jawaban\u00a0\u00a0dari konduksi dan konveksi!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>1. Suhu udara dalam sebuah ruangan sebesar 20\u00b0C, sedangkan suhu permukaan jendela\u00a0padaruangan tersebut 30\u00b0C. Berapa laju kalor yang diterima oleh jendelakaca seluas 1,5 m2<span>,\u00a0jika koefisien konveksi udara saat itu 7,5 X 10<span>J1\u00a0</span>kal/s\u00a0</span>m<span>2\u00a0</span>\u00b0C?</span><br><span>Jawab:</span><br><span><span><span>AT\u00a0</span><span>=\u00a0</span>t2\u2014 t1<span>\u00a0=30\u00b0C-20\u00b0C= 10\u00b0C</span></span><br><span><span>A\u00a0</span><span>=1,5m2</span>\u00a0</span><br><span><span>h\u00a0</span><span>=7,5x10-1kal/sm2\u00b0C</span></span></span><br><span><span><span>H\u00a0<span>=h.A.\u0394T</span></span>\u00a0</span><br><span><span>(7,5 x 10-1kal/sm2\u00b0C) (1,5m2) (10\u00b0C)\u00a0</span>= 11,25kal</span></span><span>Jadi, laju kalor yang diterima oleh jendela kaca 11,25 kal\u00a0<br>contoh lainnya ada di doc \u00a0tinggal download aja semoga membantu</span>",
+                    "attachments": [
+                        "answer-attachments/buatlah-masing-masing-3-contoh-soal-dan-jawaban-dari-konduksi-977-1.docx"
+                    ]
+                },
+                {
+                    "answer": "Sumber utama kehilangan\u00a0 panas dalam ruangan adalah melalui jendela. Misalkan terdapat sebuah jendela yang terbuat dari kaca dengan ukuran 2 m X 1,5 Derajat Celcius, sedangkan suhu di luar ruangan 14 derajat celcius. Hitunglah laju kehilangan panas melalui jendela.<span><br></span>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

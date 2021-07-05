@@ -1,0 +1,139 @@
+{
+    "question": "Permisiii mohon tanya, ada yang tau hasil ini gag ???    \u00a0saya kurang faham niii, mahon bantuannya ya :) \r\n\u00a0(9p\u00b2.q\u207b\u00b3)\u2074(27p\u2074.q\u207b\u00b2)\u207b\u00b3",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "243 p^\u00a0-4 + 9p^8\u00a0q^6 + 243 p^ -12 q^-12 + q^-6 (ket. : ^= pangkat)",
+            "attachments": []
+        },
+        {
+            "answer": "[tex](9p^2q^{-3})^4(27p^4q^{-2})^{-3}\\\\\n=(3^2p^2q^{-3})^4(3^3p^4q^{-2})^{-3}\\\\\n=3^8p^8q^{-12}(3^{-9}p^{-12}q^{6})\\\\\n=3^{8-9}p^{8-12}q^{-12+6}\\\\\n=3^{-1}p^{-4}q^{-6}\\\\\n=\\frac{1}{3p^4q^6}\\\\[/tex]",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "tentukan-persamaan-lingkaran-yang-melalui-titik-20-11-3-3-897",
+            "question": "Tentukan persamaan lingkaran yang melalui titik (2,0) (1,1) (3,-3). tolong bantu yaaaa:)))",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "masukan titik\u00a0(2,0) (1,1) (3,-3) ke dalam rumus\u00a0Persamaan lingkaran \u00a0x2 + y2 + ax + by + c = 0, satu persatu dgn menganti nilai x dan y dgn titik tersebut kemudian cari nilai a,b, dan c dgn subtitusi<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "contoh-soal-persamaan-dan-fungsi-kuadrat-585",
+            "question": "Contoh soal persamaan dan fungsi kuadrat ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]tentukan\\ akar-akar\\ dari\\ persamaan\\ kuadrat:x^2-x+1=0\\\\\\\\\ntentukan\\ titik\\ puncak\\ fungsi\\ f(x)=x^2-x+1\\\\[/tex]",
+                    "attachments": []
+                },
+                {
+                    "answer": "Selisih 2 bilangan bulat adalah 9. Jika hasil kali kedua bilangan tersebut adalah 36. Tentukan nilai dari kedua bilangan tersebut..<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-fungsi-kuadrat-mempunyai-nilai-maksimum-3-pada-saat-x-2-852",
+            "question": "sebuah fungsi kuadrat mempunyai nilai maksimum -3 pada saat x = 2, sedangkan untuk x = -2 fungsi bernilai -11. Tentukan fungsi kuadrat tersebut.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "f(x) = 2xkuadrat + 2x - 15",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apakah-fungsi-y-x2-4-mempunyai-turunan-di-x2-558",
+            "question": "Apakah fungsi y= |x^{2}\u00a0-4|\u00a0mempunyai turunan di x=2 ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "ya karena jika dihitung ada 2hasil yaitu 2 dan -2<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "menurut saya tidak, karena pada x = 2 grafik fungsi modulus\u00a0 f(x)=|x^2-4| diskontinu atau terputus, lihat grafik. semoga membantu<br>",
+                    "attachments": [
+                        "answer-attachments/apakah-fungsi-y-x2-4-mempunyai-turunan-di-x2-558-1.png",
+                        "answer-attachments/apakah-fungsi-y-x2-4-mempunyai-turunan-di-x2-558-2.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "deret-geometri-dengan-u5-dan-u8-masing-masing-48-dan-384-tentuka-109",
+            "question": "Deret geometri dengan U5 dan U8 masing masing 48 dan 384.    Tentukan jumlah 9 suku pertama serta langkah2 nya.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]U_5=ar^4=48\\\\\nU_8=ar^7=384\\\\\\\\\nar^7=384\\\\\nar^4.r^3=384\\\\\n48r^3=384\\\\\nr^3=8\\\\\nr=2\\\\\nar^4=48\\\\\na(2^4)=48\\\\\n16a=48\\\\\na=3\\\\\\\\\nS_n=\\frac{a(r^n-1)}{r-1}\\\\\nS_9=\\frac{3(2^9-1)}{2-1}\\\\\nS_9=3(512-1)\\\\\nS_9=1533[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-k-123456-f-fungsi-dari-k-ke-k-dengan-aturan-684",
+            "question": "Diketahui k : {1,2,3,4,5,6} f fungsi dari k ke k dengan aturan : f(n) : \u00a01 jika n ganjil &amp; 1/2 jika n genap    a) tulislah peta dari 1,2,3,4,5,6\r\nb) nyatakan sebagai himpunan pasangan berurutan\r\nc) tentukan domain, kodomain, dan range dari f",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]mohon\\ dikoreksi\\ apabila\\ terdapat\\ kesalahan\\\\\n\\\\\nf(n)=\\{1,\\frac{1}{2}\\}\\\\\\\\\n\\{(1,1),(2,\\frac{1}{2}),(3,1),(4,\\frac{1}{2}),(5,1),(6,\\frac{1}{2})\\}\\\\\\\\\ndomain:\\ 1&lt;=n&lt;=6\\\\\nkodomain:\\ x=1\\ dan\\ x=\\frac{1}{2}\\\\[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "deret-aritmetika-dengan-jumlah-n-suku-pertama-snn2-3ntentuka-475",
+            "question": "Deret aritmetika dengan jumlah n suku pertama Sn=n\u00b2 + 3n.tentukan suku ke-5!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]S _{1} = U _{1}= 4 \\\\ S_{2} = U_{1} + U_{2} = 10 \\\\ U_{2}= 6 \\\\ b = U_{2}-U_{1} = 2 \\\\ U_{n} = a + (n-1)b = 4 + (n-1)2 = 2n + 2 \\\\ U_{5} = 12[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "selesaikan-persamaan-kuadrat-berikut-dengan-cara-pemfaktoran-dan-628",
+            "question": "Selesaikan persamaan kuadrat berikut dengan cara pemfaktoran dan rumus ABC.    X\u00b2 -8x + 15 = 0\r\n\r\nYang pemfaktoran udah tinggal yang rumus ABC nya, bagi yang tau jawabanya tolong di bantu",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "itu cara cepet dr guru ku",
+                    "attachments": [
+                        "answer-attachments/selesaikan-persamaan-kuadrat-berikut-dengan-cara-pemfaktoran-dan-628-1.docx"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-rumus-untuk-f-1x-jika-diketahui-fx-x-13-6-983",
+            "question": "Tentukan rumus untuk F-1(x), \u00a0jika diketahui F(x) =(X-1)\u00b3-6",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>F(x) =(X-1)\u00b3<span>-6<br>y=</span></span><span>(X-1)\u00b3-6</span><br>y+6=<span>(X-1)\u00b3<br>[tex] \\sqrt[8]{y+6} [/tex]=x-1<br>1+ </span>[tex] \\sqrt[8]{y+6} [/tex]=x<br><br>F invers(x)= 1+ <span>[tex] \\sqrt[8]{x+6} [/tex]</span><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "contoh-perhitungan-uji-kenormalan-data-dengan-mengunakan-tabel-go-601",
+            "question": "Contoh perhitungan uji kenormalan data dengan mengunakan tabel goodness of fit",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Ini sepertinya soal per kuliahan ini, goodness of fit adalah uji untuk mengetahui tingkat normalitas dari sebuah data agar dipastikan terhindar dari autokorelasi, heteroskedastisitas, dan multikolininearitas <br><br>Saya kurang tahu apakah di tingkat SMA hal ini sudah diajarkan, tapi karena ditanyakan maka saya berusaha menjawab. <br><br>Untuk uji auto korelasi berfungsi mencari apakah ada gangguan pada data karena data yang digunakan berhubungan dengan data pada periode peridoe sebelumnya yang membuat sampel random menjadi tidak efektif. Rule of thumb nya pake uji durbit watson.<br>Kemudian untuk uji heterokedastisitas adalah menguji apakah ada varian yang besar sehingga membuat standar deviasi melebihi rata ratanya dan membuat bias dalam membaca hasil. Kalau ini bisa menggunakan uji table t.<br>Sedangkan uji multikolineritas adalah mencari apakah hubungan antar variabel independen lebih besar dari dependen kalau ini menggunakan uji F -test.<br><br>Kalau model sudah terbebas dari semua kesalahan ini (3) maka bisa dilihat dari tabel anova apakah adj r square nya besar. Contoh apabila r square nya (50%) maka artinya 50% dari fenomena yang diteliti bisa dicari / direpresentasikan dengan model tersebut.<br><br>Materi ini sudah masuk ke materi ekonometri untuk anak kuliah tingkat akhir, tapi dibahas tidak apa apa karena berkaitan juga dengan matematika.\u00a0 <br><br>Sukses ya<br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

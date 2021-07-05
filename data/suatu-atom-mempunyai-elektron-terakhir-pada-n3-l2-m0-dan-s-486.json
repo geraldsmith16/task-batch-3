@@ -1,0 +1,140 @@
+{
+    "question": "Suatu atom mempunyai elektron terakhir pada n=3, l=2, m=0, dan s=1/2. maka atom tersebut terletak pada golongan/periode...    \u00a0",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "periode = IIIA dan golongannya aku lupa, soalnya materinya udh lama gk d pelajarin<br>",
+            "attachments": []
+        },
+        {
+            "answer": "n=3, l=2, m=0, s=1/2=\u00a0[tex] 3d^{2} [/tex]<br>Itu elektron satu didepannya apa? pasti ada depannya. Nggak bisa ditentuin golongannya kalau cuma elektron terakhir, kecuali kalau subkulitnya &#039;s&#039; (l=0).<br>Periode elektron tersebut= 3",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "jelaskan-dampak-positif-dan-negatif-penggunaan-hidrokarbon-dalam-113",
+            "question": "Jelaskan dampak positif dan negatif penggunaan HIDROKARBON dalam kehidupan sehari hari!!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "dampak positif : pembuatan papan<br>dampak negatif : asap kendaraan bermotor",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suatu-sampel-kayu-dianalisis-ternyata-1-gram-karbon-pada-kayu-ts-127",
+            "question": "suatu sampel kayu dianalisis, ternyata 1 gram karbon pada kayu tsb mempunyai aktivitas 8,5 disintegrasi, brp umur kayu tsb jika karbon dg no massa 14 sama dg 5770 tahun. dan aktivitas karbon dalam tumbuh-tumbuhan hidup 15,3 disintegrasi per menit?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "sejauh ini saya belum mjarang menemui soal seperti di atas, akan saya coba<br><br><span>t = (1/lamda)(ln (Ao/A))</span>\n <br><br>dengan catatan:\n<br> A\t= aktivitas C-14 saat ditemukan [Ci atau Bq]\n<br>Ao= aktivitas C-14 semula (pada waktu masih hidup) [Ci atau Bq]\n<span><br>lamda= \tKonstanta peluruhan C-14 (12,09 x 10-5 /tahun)</span>\n<br><span>t\t= waktu (umur) yang dicari</span> <br><br>dari soal :<br>A\u00a0 \u00a0 = 8,5 disintegrasi<br>Ao = 15,3 disintegrasi<br>maka <br>t = (1/12,09 x 10^-5/tahun) (ln 15,3/8,5)<br>= 1/12,09 x 10^-5 / 51hun x 0,5877<br>= 60,45 tahun<br><br><br>semoga bisa membantu, maaf jika ada kesalahan :)<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tetapan-ionisais-suatu-asam-adalah-1kali-10-5minberapa-persen-755",
+            "question": "Tetapan ionisais suatu asam adalah 1kali 10 -5(min).berapa persen asam itu mengion dalam laurutan yang konsentrasinya: A.0,1M B.0,01M C.0,001M D.bagimana prngaruh pengeceran terhadap derajat ionisasi",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a. akar ka x M <br>= akar 1.10^-5 x 1.10^-1<br>= akar 1.10^-6<br>=1.10^-3<br>=1.10^-3x100<br>=1.10^-1%<br>=0.1%<br><br>b. akar ka x M <br>=akar 1.10^-5 x 1.10^-2<br>= akar 1.10^-7<br>=1.10^-3.5 <br>= 1.10^-3.5 x 100 <br>= 1.10^-1.5%<br><br>c. akar ka x M<br>=akar 1.10^-5 x 1.10^-3<br>=akar 1.10^-8<br>=1.10^-4<br>= 1.10^-4 x 100<br>= 1.10^-2%<br>= 0.01 %<br><br>d. V1.M1=V2.M2<br><br><br>saya tidak tahu salah atau benar<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bagaimana-larutan-elektrolit-dapat-menghantarkan-arus-listrik-320",
+            "question": "Bagaimana larutan elektrolit dapat menghantarkan arus listrik?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "karena dalam larutan tersebut terdpt ion-ion yang terurai. . .apbla terurai secara sempurna mka lrutan itu elektrolit\n kuat dan jika trurai tdk sempurna maka lrutannya Elektrolit lemah. . . \n <br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Larutan elektrolit dapat menghantarkan arus listrik karena zat elektrolit dalam larutanya terurai menjadi ion - ion bermuatan listrik dan ion tersebut selalu bergerak bebas",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suatu-senyawa-oksida-belerang-tersusun-atas-50-belerang-dan-si-527",
+            "question": "suatu senyawa oksida belerang , tersusun atas 50% belerang dan sisanya oksigen . tentukan rumus empiris senyawa oksida belerang tersebut (Ar S=32 , ArO=16 ). tentukan rumus empiris molekulnya jika Mr senyawa tersebut 64.\u00a0 \u00a0tolong bantuanya .. !!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "dik,suatu senyawa 50 % belerang,dan 50 % oksigen,dengan ar S= 32,dan O=16<br>mr= 64<br>rumus molekul:<br>SO\u2082<br>rumus empiris :<br>(SO\u2082)n<br><br>ingat\u00a0<br>Mr RM = n x Mr RE<br>64 = n x 64<br>64/64 = n<br>1 = n :)",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apakah-sifat-yang-ditentukan-menggunakan-indikator-kertas-lakmus-577",
+            "question": "apakah sifat yang ditentukan menggunakan indikator kertas lakmus merupakan nilai yang akurat? jelaskan!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Tidak, karena kertas lakmus tidak menunjukkan nilai pH, melainkan hanya mengidentifikasikan apakah suatu zat bersifat asam/basa<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tulislah-2-cara-pembuatan-eter-beserta-contohnya-177",
+            "question": "Tulislah 2 cara pembuatan eter beserta contohnya!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a) mereaksikan alkil halida dan senyawa alkoksida (sintesis<span>\u00a0Williamson), (b) mereaksikan alkil halida dan perak oksida, dan (c) dehidrasi\u00a0</span>alkohol<span>.\u00a0</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "senyawa-yang-mengandung-gugus-aldehid-adalah-452",
+            "question": "\u00a0senyawa yang mengandung gugus aldehid adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>Pada aldehid, gugus karbonil memiliki satu atom hidrogen yang terikat\npadanya bersama dengan salah satu dari gugus berikut:</span>\n\n<span><span>\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\n</span>atom hidrogen lain</span>\n\n<span><span>\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\n</span>atau, yang lebih umum, sebuah gugus hidrokarbon\nyang bisa berupa gugus alkil atau gugus yang mengandung sebuah cincin benzen.</span>\n\nPada pembahasan kali ini, kita tidak akan menyinggung tentang aldehid yang\nmengandung cincin benzen.\n\n<br><br><br>",
+                    "attachments": [
+                        "answer-attachments/senyawa-yang-mengandung-gugus-aldehid-adalah-452-1.docx"
+                    ]
+                },
+                {
+                    "answer": "Aldehid sebagai senyawa karbonil. Aldehid senyawa-senyawa sederhana yang mengandung sebuah gugus karbonil - sebuah ikatan rangkap C=O. Aldehid termasuk senyawa yang sederhana jika ditinjau berdasarkan tidak adanya gugus-gugus reaktif yang lain seperti -OH atau -Cl yang terikat langsung pada atom karbon di gugus karbonil - seperti yang bisa ditemukan misalnya pada asam-asam karboksilat yang mengandung gugus -COOH.<br><br>Contoh-contoh aldehid<br><br>Pada aldehid, gugus karbonil memiliki satu atom hidrogen yang terikat padanya bersama dengan salah satu dari gugus berikut:<br>atom hidrogen lainatau, yang lebih umum, sebuah gugus hidrokarbon yang bisa berupa gugus alkil atau gugus yang mengandung sebuah cincin benzen.",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "koh-56-gram-dilarutkan-ke-dalam-200-ml-larutan-ch3cooh-1-m-dan-k-530",
+            "question": "KOH 5,6 gram dilarutkan ke dalam 200 mL larutan CH3COOH 1 M dan Ka CH3COOH= 1,8 X 10\u207b\u2075, maka pH larutan...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Reaksi \u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 CH3COOH + KOH = CH3COOK + H2O<br>Mula-mula \u00a0 \u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 0,2 mol\u00a0 \u00a0\u00a0 0,1 mol<br>Yg Bereaksi\u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 0,1 mol\u00a0 \u00a0\u00a0 0,1 mol\u00a0\u00a0\u00a0 0,1 mol<br>Hasil Reaksi\u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 0,1 mol\u00a0 \u00a0 \u00a0 \u00a0  -\u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 0,1 mol<br><br>[H\u207a] = Ka.[tex][ \\frac{asamlemah}{garam} ][/tex]<br>= 1,8.10\u207b\u2075.[tex][ \\frac{0,1}{0,1} ][/tex]<br>[H\u207a] = 1,8.10\u207b\u2075<br><br>pH = 5 - log 1,8<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pr-ku-ada-40-soalyang-sudah-ku-kerjakan-17-soal-sisa-23-soal-338",
+            "question": "Pr ku ada 40 soal,,,,,yang sudah ku kerjakan 17 soal    sisa 23 soal lagi yang menurut ku teramat susah karna belum pernah di bahas \r\n\r\nsoal :\r\n1. kedalam 1 liter larutan asam asesat 0,2M dimasukan beberapa gram NaOH padat hingga pH larutan menjadi 4,0 . Bila perubahan volume larutan di abaikan serta menggunakan tetapan ionisasi asam asesat Ka = 2 x \r\n\r\n10(pangkat minus 5) maka jumlah NaOH yang dimasukkan adalah . . . .",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "soalnya\u00a0bisa di singkat atau enggak",
+                    "attachments": []
+                },
+                {
+                    "answer": "CH\u2083COOH + NaOH \u21d2 CH\u2083COONa + H\u2082O<br>\u00a0\u00a0  0,2 M<br><br>kalau kasusnya larutan penyangga, <br>maka;<br>[H\u207a] = Ka . [tex][ \\frac{asam lemah}{garam} ][/tex]<br>10\u207b\u2074 = 2.10\u207b\u2075 . [tex] \\frac{0,2}{x} [/tex]<br>x = [tex] \\frac{2.10^{-5} . 0,2 }{ 10^{-4} } [/tex]<br>x = 0,04 M<br><br>mol = 0,04 M/1L<br>mol = 0,04 mol<br>gram NaOH = 0,04 mol x 40<br>= 1,6 gram<br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

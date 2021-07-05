@@ -1,0 +1,142 @@
+{
+    "question": "saya membeli 1 bungkus jelly yang berisi 30 jelly. harga 1 bungkusnya yaitu Rp. 9.250,00. Jika jelly tersebut dijual eceran dengan harga Rp. 500,00 dapat 2 jelly. Maka berapakah keuntungannya?",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "\u00a0kalo keuntungan nya enggak ada gimana ??? <br>jawaban sih gk ada <br>",
+            "attachments": []
+        },
+        {
+            "answer": "1 bungkus Rp.9.250,00 isi 30 butir<br>30 : 2 = 15<br>harga eceran 2 butir Rp.500,00<br>jdi jumlah seluruh rugi<br>harganya menjadi Rp.7.500,00<br>maafkalu salah,\u00a0",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "dalam-suku-deret-aritmatika-diketahui-suku-ke3-9-dan-suku-ke7-878",
+            "question": "Dalam suku deret aritmatika diketahui, suku ke3 = 9 dan suku ke7 = 37. suku ke 30 adalah...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "U3=9 -&gt; a+2b=9\nU7=37-&gt; a+6b = 37\n               ---------- -\n-4b = -28\n   b = 7 -&gt; a +2.7 = 9\n                 a= -5\nNanti tinggal disubsitusi ke\nUn = a+ (n- 1 ) b",
+                    "attachments": []
+                },
+                {
+                    "answer": "U3=9\u00a0<br>U7=37<br>-4b=-28<br>b=-28/-4<br>b=7<br><br>a+2b=9 \u00a0 \u00a0\u00a0a+2.7=9<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 a+14=9<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 a=-5<br><br>U30= a+(n-1)\u00a0b<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0-5+29.7<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0-5+203<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0198",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "contoh-dari-range-data-tunggal-713",
+            "question": "Contoh dari range data tunggal\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>Range adalah salah satu ukuran statistik yang menunjukan jarak penyebaran data antara nilai terendah (Xmin) dengan nilai\u00a0tertinggi (Xmax). Ukuran ini sudah digunakan pada pembahasan daftar distribusi frekuensi. Adapun rumusnya adalah<br>Contoh :\u00a0<span>Berikut ini nilai ujian semester dari 3 mahasiswa<br>A\u00a0= 60 55 70 65 50 80 40<br>B\u00a0= 50 55 60 65 70 65 55<br>C\u00a0= 60 60 60 60 60 60 60<br></span><span>Dari data diatas dapat diketahui bahwa<br>A\u00a0= memiliki Xmax=80, Xmin= 40 , R = 40 , meanya 60<br>B\u00a0= memiliki Xmax=70, Xmin= 50 , R = 20 , meanya 60<br>C\u00a0= memiliki Xmax=60, Xmin= 60 , R = 0 , meanya 60<br></span><span>Dari contoh di atas dapat disimpulkan bahwa :<br>a. Semakin kecil rangenya maka semakin homogen distribusinya<br>b. Semakin besar rangenya maka semakin heterogen distribusinya<br>c. Semakin kecil rangenya, maka meannya merupakan wakil yang representatif<br>d. Semakin besar rangenya maka meannya semakin kurang representatif</span></span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sekeping-uang-logam-dilempar-10-kali-berapa-frekuensi-harapan-mu-577",
+            "question": "Sekeping uang logam dilempar 10 kali. berapa frekuensi harapan munculnya sisi gambar?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "kesempatan msg\" sisi = 1/2<br>1/2 x 10 = 5<br>:D",
+                    "attachments": []
+                },
+                {
+                    "answer": "peluang gambar = 1/2<br><br>frekuansi harapan = peluang x banyak pelemparan = (1/2) x 10<br>frekuensi harapan sisi gambar = 5",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-persamaan-bidang-yang-melalui-titik-titik-p-321-557",
+            "question": "Tentukan persamaan bidang yang melalui\u00a0titik- titik\u00a0P ( 3,2,1,); Q ( 4,1,5 ); R ( 2,4,3 )",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "3x + 2y + z = 0\u00a0 \u00a0 <br>4x + y + 5z = 0<br>2x + 4y + 3z = 0<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "luas-sebidang-tanah-yang-berbentuk-persegi-panjang-adalah-96-m2-968",
+            "question": "luas sebidang tanah yang berbentuk persegi panjang adalah 96 m2. panjang tanah adalah 6 kali lebarnya. tentukan panjang dan lebar tanah tersebut",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "panjang = 6a<br>lebar = a<br>96 = 6a X a<br>96 = 6a\u00b2<br>a\u00b2 = 96/6<br>a\u00b2 = 16<br>a = 4<br>panjang = 6a = 6x4 = 24 cm<br>lebar = a = 4",
+                    "attachments": []
+                },
+                {
+                    "answer": "Dik : L = 96 m2<br>\u00a0\u00a0 \u00a0 \u00a0  p = 6 l<br><br>Dit : p , l .. ?<br>Jwb :<br>L = p x l<br>96 = 6l x l<br>96 = 6 l(kuadrat)<br>96/6 = l kuadrat<br>l = <em><u></u></em>[tex] \\sqrt{16} [/tex]<br>l = 4 m<br><br>p = 6 l<br>p = 6 (4)<br>p = 24 m<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bagaimana-cara-mencari-hasil-sisa-pembagian-suku-banyak-yg-pembag-975",
+            "question": "Bagaimana cara mencari hasil sisa pembagian suku banyak\r\nyg pembaginya berjumlah 3",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "dikali dengan 3<br>maaf hanya ini yang dapat saya jawab",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "di-berikan-titik-titik-p6-4-q-1-6-r8-1-s42-tentu-623",
+            "question": "Di berikan titik - titik P(6,-4), Q(-1,-6), R(8,-1), S(4,2) Tentukan :    a. garis yang tegak lurus PR dan Melewati titik Q\r\nb. garis lain yang sejajar RS dan melewati titik P dan hitung keliling segitiga PRS\r\nc. Gradient PQ dan RS",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]gradien\\ PR=\\frac{-1-(-4)}{8-6}=\\frac{3}{2}\\\\ garis\\ yg\\ tegak\\ lurus\\ PR,\\ m_2.m_{PR}=-1\\\\ m_2.\\frac{3}{2}=-1\\\\ m_2=-\\frac{2}{3}\\\\ persamaan\\ garis\\ yg\\ melalui\\ Q(-1,-6) dan\\ tegak\\ lurus\\ PR :\\\\ y-(-6)=-\\frac{2}{3}(x-(-1))\\\\ 3y+18=-2x-2\\\\ 2x+3y+20=0\\\\\n\\\\\ngradien\\ RS=\\frac{2-(-1)}{4-8}=-\\frac{3}{4}\\\\\npersamaan\\ garis\\ melalui\\ P(6,-4)\\ dan\\ sejajar\\ RS:\\\\\ny-(-4)=-\\frac{3}{4}(x-6)\\\\\n4y+16=-3x+18\\\\\n3x+4y=2\\\\[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-persamaan-kuadrat-12-x2-k3-x-k2-2k-5-0-385",
+            "question": "Diketahui persamaan kuadrat 1/2 x\u00b2 + (k+3) x - k\u00b2 + 2k + 5 = 0    a. tentukan diskriminannya\r\nb. tentukan nilai k agar memiliki akar kembar\r\nc. tentukan akar persamaan untuk nilai k",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]\\frac{1}{2}x^2+(k+3)x-k^2+2k+5=0\\\\\na)\\ D=(k+3)^2-4(\\frac{1}{2})(-k^2+2k+5)\\\\\nD=k^2+6k+9+2k^2-4k-10\\\\\nD=3k^2+2k-1\\\\\\\\\nb)\\ D=0\\\\\n3k^2+2k-1=0\\\\\n(3k-1)(k+1)=0\\\\\nk=\\frac{1}{3}\\ atau\\ k=-1\\\\\\\\\nk=\\frac{1}{3} \\rightarrow \\frac{1}{2}x^2+(\\frac{1}{3}+3)x-(\\frac{1}{3})^2+2(\\frac{1}{3})+5=0\\\\\n\\frac{1}{2}x^2+\\frac{10}{3}x+\\frac{50}{9}=0\\\\\n9x^2+60x+100=0\\\\\n(3x+10)^2=0\\\\\nx=-\\frac{10}{3}\\\\\\\\\nk=-1 \\rightarrow \\frac{1}{2}x^2+(-1+3)x-(-1)^2+2(-1)+5=0\\\\\n\\frac{1}{2}x^2+2x+2=0\\\\\nakarnya\\ imajiner[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suku-ke-5-amp-10-dari-aritmatika-adalah-21-amp-41-tentukan-ju-875",
+            "question": "Suku ke 5 &amp; 10 dari aritmatika adalah 21 &amp; 41 tentukan jumlah 20 suku pertama",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "dik :<br>u5 = 21<br>u10 = 41<br>s20 ?<br><br>u10-u5=41-21=20<br>a+9b-a+4b=20<br>5b=20<br>b= 4<br><br>masukkan ke persamaan :<br>u10 = 41<br>a+9b=41<br>a+9.4=41<br>a+36=41<br>a=41-36<br>a=5<br><br>maka ...<br>s20 = 1/2 n . (2a+(n-1)b)<br>\u00a0 \u00a0 \u00a0 =1/2.20 . (2.5 + (20-1)4)<br>\u00a0 \u00a0 \u00a0 =10 .(10 + (19)4)<br>\u00a0 \u00a0 \u00a0 = 10. ( 10 + 76)<br>\u00a0 \u00a0 \u00a0 =10 . 86 = 860 :)",
+                    "attachments": []
+                },
+                {
+                    "answer": "U5 = 21<br>21=a+ (5-1)b =&gt; 21=a+4b /9 \u00a0=&gt; \u00a0 189=9a+36b<br>U10= 41<br>41=a+ (10-1)b=&gt;41=a+9b/4 \u00a0 =&gt; \u00a0 164=4a+36b<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 --------------------- \u00a0---<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a025=5a<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a05 \u00a0 =a \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a021=5+4b<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a04=b<br>U1 = a+(1-1)b<br>\u00a0 \u00a0 \u00a0 \u00a05+ 0.4 = 5<br>U2 = 5+ (2-1)b<br>\u00a0 \u00a0 \u00a0 \u00a05 + 4 \u00a0 = 9<br>u3 = 5+ (3-1)b<br>\u00a0 \u00a0 \u00a0 \u00a05+8 \u00a0 \u00a0= 13<br>jumlah 20 suku pertama : sn = n/2 (2a+(n-1)b)<br><br>a = 5<br>b = u2-u1 = 9-5 = 4<br><br>s20 = 20/2 (10+76)<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a010(86)<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 860<br>semoga benar ya",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "deret-geometri-dengan-u5-dan-u8-masing-masing-48-dan-384-tentuka-109",
+            "question": "Deret geometri dengan U5 dan U8 masing masing 48 dan 384.    Tentukan jumlah 9 suku pertama serta langkah2 nya.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]U_5=ar^4=48\\\\\nU_8=ar^7=384\\\\\\\\\nar^7=384\\\\\nar^4.r^3=384\\\\\n48r^3=384\\\\\nr^3=8\\\\\nr=2\\\\\nar^4=48\\\\\na(2^4)=48\\\\\n16a=48\\\\\na=3\\\\\\\\\nS_n=\\frac{a(r^n-1)}{r-1}\\\\\nS_9=\\frac{3(2^9-1)}{2-1}\\\\\nS_9=3(512-1)\\\\\nS_9=1533[/tex]",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

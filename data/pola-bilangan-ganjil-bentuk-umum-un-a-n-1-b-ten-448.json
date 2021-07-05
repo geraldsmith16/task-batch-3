@@ -1,0 +1,136 @@
+{
+    "question": "Pola bilangan ganjil \u00a0    bentuk umum Un = a + ( n-1) b \u00a0 \u00a0\u00a0\r\n\r\ntentukan suku n \u00a0=\r\n\r\n1) 7,13,,19,25,31,...\r\n2) 50,41,38,32,...\r\n3)\u00a012,7,2,-3,-8,...\r\n\r\n*jwbnnya pakai rumus dan cara ya?",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "1.) a = 7<br>b = 6<br>Un<span> = a + ( n-1) b <br></span><span>Un = 7+ (n-1)6<br></span><span><span>Un = </span>7+6n-6<br></span><span>Un =6n+1<br>3.) a= 12<br>b= -5</span><br>Un = a + ( n-1) b <br>Un<span> =</span> 12+ (n-1)-5<br>Un= 12 - 5n + 5<br>Un= 17-5n<br><br><br><br><br><br><br><br><br><br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "persamaan-2x-1-5-adalah-kalimat-benar-himpunan-penyelesaia-268",
+            "question": "Persamaan 2x\u00a0- 1 = 5 adalah kalimat benar . himpunan penyelesaiannya adalah ...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "2X-1=5<br>2X=5+1<br>2X=6<br>X=6/2<br>X=3<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "himpunan penyelesaian itu utk pertidaksamaan kalau utk persamaaan mungkin ini :<br>2x-1=5<br>2x=4<br>x=2",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "rasionalkan-penyebut-bilangan-brkt-37-53-256",
+            "question": "Rasionalkan penyebut bilangan brkt :\r\n3\u221a7 \r\n5\u221a3",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span><u>3\u221a7</u> <br>5\u221a3<br>= </span><br><u>3\u221a7</u><span><u>\u221a3</u> <br>5\u221a3</span><span>\u221a3<br>=<br></span><u>3\u221a21</u><span> <br>5 x 3<br>=</span><br><u>\u221a21</u><span> <br>5<br></span><br><br><br><br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<u>3\u221a7</u>\u00a0 x\u00a0 5\u221a3<br>5\u221a3\u00a0 x\u00a0 5\u221a3<br><br><u>15\u221a21</u><br>25 \u00d7 3<br><br><u>\u221a21</u><br>\u00a0 5<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-tenda-yang-terbuat-dari-kain-parasut-berbentuk-limas-denga-831",
+            "question": "Sebuah tenda yang terbuat dari kain parasut berbentuk limas dengan alas persegi jika panjang sisi alas nya 100 cm dan tinggi limas 120 cm maka hitunglah\u00a0    a.luas kain yang diperlukan utk membuat 1 tenda\r\nb.besar biaya yg di perlukan membuat 3 tenda yg sama jika harga 1 m2 kain adlah Rp.50.000\r\ntolong plise",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]<br>a.\\ L_{permukaan\\ limas}=L_{alas}+4L_{sisi\\ tegak}\\\\<br>L_{permukaan\\ limas}=100(100)+4\\frac{(100)(130)}{2}\\\\<br>L_{permukaan\\ limas}=10000+26000\\\\<br>L_{permukaan\\ limas}=36000\\ cm^2\\\\<br>L_{permukaan\\ limas}=3,6\\ m^2\\\\<br><br>b.\\ 3(3,6)(Rp50.000)=Rp140.000,00<br>[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "3z11-28-itu-gimana-caranya-yah-506",
+            "question": "3z+11=-28 itu gimana caranya yah?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "3z+11=-28<br>3z=-28-11<br>3z=-39<br>z=-12",
+                    "attachments": []
+                },
+                {
+                    "answer": "3z +11 = -28<br>3z = -28 - 11<br>3z = -33<br>z = -11",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "panjang-hipotenusa-siku-siku-sama-kaki-adalah-8cm-jika-panjang-k-126",
+            "question": "Panjang hipotenusa siku-siku sama kaki adalah 8cm, jika panjang kaki-kakinya sama dengan x cm. berapakah nilai x?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "\u221a(x\u00b2+x\u00b2)=8<br>x\u00b2+x\u00b2=8\u00b2<br>2x\u00b2=8\u00b2<br>\u221a2 . x =8<br>x=8/\u221a2<br>x=4\u221a2",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bu-aminah-menyimpan-uang-modal-di-koperasi-makmur-sebesar-rp-200-733",
+            "question": "bu aminah menyimpan uang modal di koperasi makmur sebesar rp 2.000.000.00 setelah 9 bulan modalnya bertambah menjadi rp 2.090.000.00 persentase bunga per tahun yang di berikan oleh koperasi makmur adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "9/12 x 90.000/2.000.000 x 100%<br>= 4.5%<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "persamaan-garis-yang-melali-titik-33-sejajar-dengan-garis-y2x-688",
+            "question": "Persamaan garis yang melali titik (3,3) sejajar dengan garis y=2x-4",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "sejajar berarti gradien sama<br>maka gradien garis tersebut adalah 2<br>(3,3) adalah titik (x1,y1)<br><br>y - y1 = m ( x - x1)<br>y - 3 = 2 ( x - 3)<br>y - 3 = 2x - 6<br>y = 2x - 6 + 3<br><strong>y = 2x - 3</strong><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "setelah-9-bulan-uang-tabungan-susi-di-koperasi-berjumlah-rp3815-734",
+            "question": "Setelah 9 bulan uang tabungan Susi di koperasi berjumlah Rp3.815.000,00. Koperasi memberi jasa simpanan berupa bungan 12% per tahun. Tabungan awal Susi di Koperasi adalah ..    Maaf , kalo tidak keberatan tulis caranya ya :D",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex] \\frac{12}{100} [/tex] x \u00a0[tex] \\frac{9}{12} [/tex] x a + a\u00a0= 3.815.000<br>[tex] \\frac{9}{100} [/tex] x a + a = 3.815.000<br>a = 3.815.000 -\u00a0[tex] \\frac{9}{100} [/tex] x a<br><span>381.500.000\u00a0-\u00a09a\u00a0=100a<br></span>381.500.000 = 109a<br>a = 381.500.000 : 109<br>\u00a0 = 3.500.000",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-nilai-x-1-2-3-1-4-5-261",
+            "question": "Tentukan nilai x    1.\r\n2.\r\n3. = 1\r\n4.\r\n5.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Jawaban di word..<br>silahkan liat sndiri, kalau ada yg salah, boleh di kmentarin..<br><br><br><br><br>",
+                    "attachments": [
+                        "answer-attachments/tentukan-nilai-x-1-2-3-1-4-5-261-1.docx"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "8y-52y-3-4-y-3-18-y-pake-cara-225",
+            "question": "8y - 5(2y - 3) = 4 (y-3) + 18\r\ny=\r\npake cara",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>8y - 5(2y - 3) = 4 (y-3) + 18<br></span>8y - 10y + 15 = 4y - 12 + 18<br>-2y +\u00a015 = 4y + 6<br>-6y = -9<br>y = 9/6 = 3/2",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

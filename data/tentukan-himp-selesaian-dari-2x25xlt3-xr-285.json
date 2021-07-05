@@ -1,0 +1,143 @@
+{
+    "question": "Tentukan himp. selesaian dari 2x\u00b2+5x&lt;3, x\u2208R",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "<span> 2x\u00b2+5x&lt;3, x\u2208R<br></span><br><span>2x\u00b2 + 5x - 3 &lt; 0<br>(2x -1) (x+3) &lt; 0<br>2x = 1\u00a0 \u00a0 atau x = -3<br>x = 1/2<br>hp = {x|-3&lt;x&lt;1/2, </span><span><span>x\u2208R</span>}<br></span><br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "apa-pengertian-algoritma-557",
+            "question": "Apa pengertian algoritma",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "algoritma (matematika)\u00a0adalah prosedur atau cara kerja atau proses yang dilakukan untuk menyelesaikan suatu permasalahan\u00a0(dalam\u00a0matematika)",
+                    "attachments": []
+                },
+                {
+                    "answer": "operasi matematika yang merupakan kebalikan dari eksponen \u00a0atau pemangkatan",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "nilai-x-yang-memenuhi-x-20-lt-0-adalah-pliss-bantu-313",
+            "question": "Nilai x yang memenuhi : \u00a0+ x - 20 &lt; 0 adalah ?\r\npliss bantu......",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "silakan dipelajari dan dipahami",
+                    "attachments": [
+                        "answer-attachments/nilai-x-yang-memenuhi-x-20-lt-0-adalah-pliss-bantu-313-1.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "rasionalkan-bentuk-pecahan-a-25-3-431",
+            "question": "Rasionalkan bentuk pecahan\u00a0    a.\u00a0 \u00a0 2\u221a5 \u00a0 \u00a0\r\n \u00a0 \u00a0\u221a3 +\u00a0\u221a5\r\n\r\nBeri penjelasannya yaa. Dan LENGKAP Juga :)\r\nyang Lengkap\u00a0bintang 5.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "ini namnya persekutuan sekawanan.Jadi kalo ypenyebut minus,ntar dikalikan dengan yang plus.Dan sebaliknya<br><br>2\u221a5 per(/) \u221a3+\u221a5 dikali(*)\u221a3-\u221a5 per(/) \u221a3-\u221a5 = 2\u221a15-2\u221a25 per(/) 3-5=2\u221a15-2\u221a25 per(/) -2<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "\\frac{2V5}{V3+V5} = \\frac{2V5}{V3+V5} \\frac{V3-V5}{V3-V5 }=\n \\frac{2V5(V3-V5)}{3-5}  =\u00a0V5(V3-V5)",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "cara-menjawab-soal-pola-bilangan-yang-tidak-berurutan-seperti-soa-325",
+            "question": "Cara menjawab soal pola bilangan yang tidak berurutan seperti soal psikotest itu gimana sih ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Tergantung dengan pola bilangannya juga sih.Tapi menurut pendapat saya, carilah angka yang paling kecil, lalu bandingkan dengan angka terkecil kedua. Okay ? @Liwed",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apakah-fungsi-y-x2-4-mempunyai-turunan-di-x2-558",
+            "question": "Apakah fungsi y= |x^{2}\u00a0-4|\u00a0mempunyai turunan di x=2 ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "ya karena jika dihitung ada 2hasil yaitu 2 dan -2<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "menurut saya tidak, karena pada x = 2 grafik fungsi modulus\u00a0 f(x)=|x^2-4| diskontinu atau terputus, lihat grafik. semoga membantu<br>",
+                    "attachments": [
+                        "answer-attachments/apakah-fungsi-y-x2-4-mempunyai-turunan-di-x2-558-1.png",
+                        "answer-attachments/apakah-fungsi-y-x2-4-mempunyai-turunan-di-x2-558-2.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "numpang-tanya-lagi-boleh-diket-x1-y4-dit-x23-678",
+            "question": "Numpang tanya lagi boleh,,,????    \u00a0diket : x=1, y=4\r\ndit : (x\u00b2/\u00b3 . y \u207b\u2074/\u00b3)\r\n\u00a0\u00a0 \u00a0 \u00a0 (y\u00b2/\u00b3 . x\u00b2)\r\n\u00a0mohon bantuanya,,, makasih :)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]x=1,y=4\\\\\n\\frac{x^{\\frac{2}{3}}y^{\\frac{-4}{3}}}{y^{\\frac{2}{3}}x^2}\\\\\n=\\frac{(1^{\\frac{2}{3}})(4^{\\frac{-4}{3}})}{(4^{\\frac{2}{3}})(1^2)}\\\\\n=\\frac{4^{\\frac{-4}{3}}}{4^{\\frac{2}{3}}}\\\\\n=4^{\\frac{-4}{3}-\\frac{2}{3}}\\\\\n=4^{\\frac{-6}{3}}\\\\\n=4^{-2}\\\\\n=\\frac{1}{16}[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-titik-a-1-2-8-titik-b-3-4-0-jika-vektor-ab-960",
+            "question": "diketahui titik a= 1, -2, -8 titik b= 3, -4, 0. jika vektor AB= -3 vektor PB dan P terletak pada perpanjangan AB, maka tentukan vektor P.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "-8,3,0 klo gk slah sih kaya gitu",
+                    "attachments": []
+                },
+                {
+                    "answer": "Vektor P = -8, 0 , 3<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentang-konjungsi-dik-pxx3-x0-qx-8-9lt0-dit-tentu-592",
+            "question": "Tentang konjungsi    dik : p(x)=x\u00b3-x=0 ; q(x)= 8-9&lt;0\r\ndit : tentukan nilai x agar p\u2227q bernilai benar dan bernilai salah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "di cari dulu persamaannnya mbak \"D<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "akar-akar-persamaan-kuadrat-a-2-x2-4x-a2-0-adalah-p-d-761",
+            "question": "Akar-akar persamaan kuadrat (a-2) x\u00b2 + 4x + (a+2) = 0 adalah P dan Q. Jika PQ (p+q) = -20. Tentukan nilai a!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "nilai a = 2 nilai x = -1",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-nilai-a-dan-b-a-x3-bx-2-2x2x2x-6-498",
+            "question": "Tentukan nilai a dan b\r\n\r\na/ x+3 + b/x-2 = 2x+2/x\u00b2+x-6",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a/(x+3) + b/(x-2) = (2x + 2)/ (x+3)(x-2)<br>kedua ruas dikali (x+3)(x-2)<br>a(x-2) + b(x+3) = 2x+2<br>(a+b)x + (-2a+3b) = 2x + 2<br>-&gt; a+b=2<br>-&gt; -2a+3b=2<br>trus dieliminasi dan disubstitusi ketemu :<br>a= 4/5 dan b=6/5<br><br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,134 @@
+{
+    "question": "x pangkat 2 =4 jika dan hanya jika x=2 atau x=-2? x-1 =2 jika dan hanya jika 2x+1=5? x pangkat 2 &lt; 4 jika dan hanya jika x&lt;2? -2&lt;x&lt;2 jika dan hanya jika x pangkat 2 =4???",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "[tex]x^2=4 \\longleftrightarrow x=2\\ atau\\ x=-2\\ (benar)\\\\ x-1=2 \\longleftrightarrow 2x+1=5\\ (salah)\\\\ x^2&lt;4 \\longleftrightarrow x&lt;2\\ (benar)\\\\ -2&lt;x&lt;2 \\longleftrightarrow x^2=4\\ (salah)[/tex]",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "jumlah-n-bilangan-asli-ganjil-pertama-dirumuskan-dengan-265",
+            "question": "Jumlah n bilangan asli ganjil pertama dirumuskan dengan ...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "bilangan ganjil: Un = 2n -1<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Bilangan ganjil un : 2n-1",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-bola-menggelinding-sepanjang-bidang-miringjarak-yang-dite-483",
+            "question": "Sebuah bola menggelinding sepanjang bidang miring,jarak yang ditempuh S dari titik asal selama t detik dinyatakan dengan rumus s=3/2t\u00b2+0,6t ( s dalam satuan meter dan t dalam detik)    a)tentukan ds/dt\r\nb)tentukan kecepatan sesaat pda saat t=0,3 detik\r\nc)carilah waktu yg diperlukan shg kecepatan sesaat mencapai 6,6m/detik",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a. 3t + 0,6<br>b. kecepatan itu turunan dari jarak (s) jadi persamaan pada s diturunkan\u00a0<br>\u00a0 \u00a0 \u00a0v= 3t+ 0,6<br>\u00a0 \u00a0 t(0,30 = 3 (0,3) + 0,6<br>\u00a0 \u00a0 \u00a0V = 0,9 + 0,6<br>\u00a0 \u00a0 \u00a0V = 1,5 m/s<br>c. v = 3t +0,6<br>\u00a0 \u00a0 \u00a06,6 = 3t + 0,6<br>\u00a0 \u00a0 \u00a06,6 - 0,6 = 3t<br>\u00a0 \u00a0 \u00a06 = 3t\u00a0<br>\u00a0 \u00a0 \u00a0t = 2\u00a0<br>inysaAllah gt :)",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-titik-a-2-1-di-dalam-lingkaran-x4-pangkat-2-y-p-p-841",
+            "question": "jika titik A (-2,-1) di dalam lingkaran (x+4) pangkat 2 + (y-p) pangkat 2 = 13. maka nilai p adalah.......?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "jawabannya adalah 4,25",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "umur-abc-235-jumlah-umur-b-dan-c-adalah-24-tahun-maka-umur-497",
+            "question": "Umur a:b:c = 2:3:5 jumlah umur b dan c adalah 24 tahun maka umur a adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "umur b ditambah c = 24<br>\u00a0pebandingan umur b ditambah c = 8<br><br>2/8 dikali 24 = 6<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Dik: a:b:c = 2:3:5<br>b+c =\u00a024<br>Dit: a?<br>Jawab:<br><br>b:c = 3:5<br>b+c = 24<br>b =\u00a0[tex] \\frac{3}{8} [/tex]\u00d724 = 9 tahun<br>c =\u00a0[tex] \\frac{5}{8} [/tex]\u00d724 = 15 tahun<br><br>a:b:c = 2:3:5 = a:9:15<br>a = 6 tahun<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "gradien-garis-dri-persamaan-3x-6y-5-yaitu-133",
+            "question": "Gradien garis dri persamaan 3x-6y=-5 yaitu ....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kelas : 8<br>Mapel : Matematika<br>Kategori :\u00a0Bab 3 - Persamaan Garis<br>Kata Kunci : persamaan garis, gradien<br>Kode : 8.2.3 [Kelas 8 Matematika Bab 3 - Persamaan Garis]<br><br>Pembahasan :<br><p>Persamaan garis lurus adalah persamaan berbentuk\u00a0<br>ax + by = c<br>dengan a, b, dan c merupakan bilangan-bilangan real, a\u00a0\u2260 0 atau b\u00a0\u2260 0.</p><br>Gradien adalah nilai yang menyatakan kecondongan suatu garis yang dinotasikan dengan m.<br><br>Garis dengan persamaan ax + by = c memiliki gradien\u00a0<br>m =\u00a0[tex]- \\frac{a}{b} [/tex]<br><br>Garis yang melalui titik P(x\u2081, y\u2081) dan Q(x\u2082, y\u2082) memiliki gradien\u00a0<br>m =\u00a0[tex] \\frac{y_2-y_1}{x_2-x_1} [/tex]<br><br>Mari kita lihat soal tersebut.<br>Tentukan gradien garis dengan persamaan 3x - 6y = -5!<br><br>Jawab :<br>Diketahui persamaan<br>3x - 6y = -5<br>\u21d4 -6y = -5 - 3x<br>\u21d4 y =\u00a0[tex] \\frac{5}{-6} [/tex] -\u00a0[tex] \\frac{3}{-6} [/tex]x<br>\u21d4 y = -[tex] \\frac{5}{6} [/tex] + [tex] \\frac{3}{6} [/tex]x<br>\u21d4 y = -[tex] \\frac{5}{6} [/tex] + [tex] \\frac{1}{2} [/tex]x<br>\u21d4 m = [tex] \\frac{1}{2} [/tex]<br><br>Jadi, persamaan 3x - 6y = -5 memiliki gradien [tex] \\frac{1}{2} [/tex].<br><br>Soal lain untuk belajar :\u00a0<br>1.\u00a0https://brainly.co.id/tugas/12602883<br>2.\u00a0https://brainly.co.id/tugas/1686609<br>3.\u00a0https://brainly.co.id/tugas/130401<br>4.\u00a0https://brainly.co.id/tugas/1398763<br>5.\u00a0https://brainly.co.id/tugas/3136258<br>6.\u00a0https://brainly.co.id/tugas/12689804<br><br>Semangat!<br><br>Stop Copy Paste!",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "ingkaran-dari-p-q-adalah-bentuk-ekuivalen-p-gt-q-adalah-533",
+            "question": "Ingkaran dari p ^ q adalah....\r\nbentuk ekuivalen -p -&gt; q adalah...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "ingkaran dari p ^ q adalah p v q<br>soal ke 2 itu bener ya?<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-barisan-aritmetika-jumlah-suku-kedua-dan-keempat-adalah-880",
+            "question": "diketahui barisan aritmetika jumlah suku kedua dan keempat adalah 24 dan jumlah suku ketiga dan kelima adalah 32 suku ke 9 barisan tersebut adalah??",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a=4<br>b=4<br><br>u9=a+8b<br>\u00a0\u00a0  =4+32<br>\u00a0\u00a0 =36<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-percobaan-mengundi-uang-logam-rp-10000-sebanyak-2-kali-208",
+            "question": "Tentukan Percobaan mengundi uang logam Rp. 100,00 sebanyak 2 kali",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "ruang sampel = gambar (G) dan angka (A)<br>pengundian uang logam 100 sebanyak dua kali --&gt; masing-masing sisi punya peluang 2/4 atau 1/2 <br>P(A)=2/4<br>P(G)=2/4<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "mencari-simbol-o-1-62-362-2-55-1-486",
+            "question": "Mencari simbol o !    1. 6\u00b0\u207a\u00b2 = (36)\u00b0\u207a\u00b2\r\n\r\n2. \u221a5\u00b0\u207b\u2075 = 1\r\n\r\n\r\n3. (\u221a10)\u00b0\u207b\u00b2 = 0,1\r\n\r\n\r\n\r\n4. \u221a2\u00b0\u207a\u00b3 = (1/4)\u00b0\u207a\u2074",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "ganti jadi huruf p ya<br><br>1.<br>basisnya beda (6 dan 36)<br>pangkatnya sama (p+2)<br>jadi hanya ada 1 solusi pada saat p+2=0<br>atau p=-2<br><br>2.<br>supaya hasilnya 1, maka pangkatnya harus nol<br>p-5=0<br>p=5<br><br>3.<br>[tex] (\\sqrt{10} )^{p-2}=0,1\\\\\n (10^{1/2} )^{p-2}=10^{-1}\\\\\n (10)^{(p-2)/2}=10^{-1}\\\\\n\\frac{p-2}{2}=-1\\\\\np=0\n[/tex]<br><br>4.<br>[tex] \\sqrt{2^{p+3}}=( \\frac{1}{4})^{p+4}  \\\\\\\\\n 2^{\\frac{p+3}{2}}=(2^{-2})^{p+4}  \\\\\\\\\n 2^{\\frac{p+3}{2}}=2^{-2p-8}  \\\\\\\\\n\\frac{p+3}{2}}={-2p-8}  \\\\\\\\\np+3=-4p-16\\\\\np= -\\frac{19}{5} [/tex]<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-titik-a-1-2-8-titik-b-3-4-0-jika-vektor-ab-960",
+            "question": "diketahui titik a= 1, -2, -8 titik b= 3, -4, 0. jika vektor AB= -3 vektor PB dan P terletak pada perpanjangan AB, maka tentukan vektor P.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "-8,3,0 klo gk slah sih kaya gitu",
+                    "attachments": []
+                },
+                {
+                    "answer": "Vektor P = -8, 0 , 3<br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

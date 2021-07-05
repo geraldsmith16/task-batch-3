@@ -1,0 +1,130 @@
+{
+    "question": "Jawablah pertanyaan berikut ini dengan benar    4. Diketahui pernyataan-pernyataan:\r\n\u00a0\u00a0 p : Hari ini hujan deras\r\n\u00a0\u00a0 q : Hari ini berangin kencang.\r\n\u00a0\u00a0 Tentukan pernyataan-pernyataan majemuk yang dinyatakan dengan notasi berikut ini.\r\n\u00a0\u00a0 a. p ^ q\r\n\u00a0\u00a0 b. q ^ p\r\n\u00a0\u00a0 c. ~p ^ q\r\n\u00a0\u00a0 d. ~(p ^ q)\r\n\u00a0\u00a0 e. ~(p ^ ~q)\r\n\u00a0\u00a0 Jawabanya :\r\n\r\ntolong jawab secepatnya\r\n\u00a0",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "a.hari ini hujan deras dan hari ini berangin kencang<br>b.hari ini berangin kencang dan hari ini hujan deras<br>c.hari ini tidak hujan deras dan hari ini berangin kencang<br>yang d sama e nunggu komentar dari orang lain aja ya :)<br>",
+            "attachments": []
+        },
+        {
+            "answer": "a. hari ini hujan deras dan berangin kencang<br>b. hari ini berangin kencang dan hujan deras<br>c. hari ini tidak hujan deras dan berangin kencang<br>d. hari ini tidak hujan deras atau tidak berangin kencang<br>e. hari ini tidak hujan deras atau berangin kencang<br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "gimana-cara-faktorin-persamaan-pangkat-3-548",
+            "question": "gimana cara faktorin persamaan pangkat 3?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "pake cara horner <br>3 | 1\u00a0 \u00a0\u00a0 -6 \u00a0 \u00a0 \u00a0 -9 \u00a0\u00a0 \u00a0  54 <br>\u00a0\u00a0 |_____3____-9___-54____ <br>\u00a0\u00a0 \u00a0 1\u00a0 \u00a0  -3\u00a0 \u00a0 \u00a0 \u00a0 -18\u00a0 \u00a0  0 <br>\u00a0\u00a0 \u00a0 x\u00b2 -3x - 18 = (x - 6) (x + 3) <br>jadi didapat faktornya adalah <br>(x - 3) (x + 3) (x - 6) <br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "3-bil-membentuk-barisan-aritmatika-jika-suku-ke-3-ditambah-3-dan-922",
+            "question": "3 bil membentuk barisan aritmatika jika suku ke 3 ditambah 3 dan suku ke 2 dikurangi 1, diperoleh barisan geometri, jika suku ke 3 barisan aritmatika ditambah 8 maka hasilnya menjadi 5 kali suku pertama. tentukan beda dari barisan aritmatika tersebut",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a-b,a,a+b ...... \u00a0 BA<br>a-b,a-1,a+b+3 ........ \u00a0 \u00a0BG \u00a0 \u00a0\u00a0 maka (a-1)^2= (a-b)(a+b+8) \u00a0 \u00a0persamaan 1<br>a+b+8=5(a-b)&lt;=&gt; 8= 4a - 6b &lt;=&gt; 4 = 2a - 3b...pers 2<br>pers 1 dan 2 \u00a0didapat 4a^2-43a-11=0 didapat a= - 1/4 atau a= 11<br>a= 11 maka b = 6<br>a = - 1/4 maka b = - 3/2",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bagaimana-cara-menyelesaikan-soal-seperti-ini-dengan-caranya-9-458",
+            "question": "Bagaimana cara menyelesaikan soal seperti ini? dengan caranya\r\n\u00a09\u221a14 + 6\u221a21\r\n \u00a0 \u00a0 3\u221a42",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<u>\u221a81x14 +\u00a0\u221a36x21\u00a0</u> =\u00a0<u>\u221a1134 +\u00a0\u221a756</u>\u00a0<br>\u00a0 \u00a0 \u00a0 \u00a0\u221a9x42 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u221a378<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0=\u00a0<u>\u221a1134</u> \u00a0 + \u00a0 \u00a0<u>\u221a756</u><br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0<u></u>\u221a378 \u00a0 \u00a0 \u00a0 \u00a0\u00a0\u221a378\u00a0<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 biar akarnya ilang, masing\u00b2 di kuadratkan (dalam teori\u00a0\u221aa x\u00a0\u221aa = a)<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0(\u00a0<u>\u221a1134)</u>\u00b2\u00a0\u00a0 + \u00a0 \u00a0(<u>\u221a756)</u>\u00b2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0(\u00a0<u></u>\u00a0\u221a378 ) \u00a0 \u00a0 \u00a0 \u00a0\u00a0\u00a0(\u221a378)<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 =\u00a0<u>1134 </u>\u00a0 \u00a0 \u00a0 \u00a0+ \u00a0 \u00a0 <u>756<br></u>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 378 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0378\u00a0<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 3 + 2 = 5 .. ;)",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "selidiki-persamaan-kuadrat-berikut-a-x2-2x10-b2x2-2x0-c3-574",
+            "question": "Selidiki persamaan kuadrat berikut:    a) x\u00b2-2x+1=0\r\nb)2x\u00b2-2x=0\r\nc)3x\u00b2-2x+10=0\r\nd)x\u00b2-10=0\r\nberikan jawabannya dengan cara jalannya\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1). (x-1).(x-1)<br>2). (2x-2).(x-0)<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-k-123456-f-fungsi-dari-k-ke-k-dengan-aturan-684",
+            "question": "Diketahui k : {1,2,3,4,5,6} f fungsi dari k ke k dengan aturan : f(n) : \u00a01 jika n ganjil &amp; 1/2 jika n genap    a) tulislah peta dari 1,2,3,4,5,6\r\nb) nyatakan sebagai himpunan pasangan berurutan\r\nc) tentukan domain, kodomain, dan range dari f",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]mohon\\ dikoreksi\\ apabila\\ terdapat\\ kesalahan\\\\\n\\\\\nf(n)=\\{1,\\frac{1}{2}\\}\\\\\\\\\n\\{(1,1),(2,\\frac{1}{2}),(3,1),(4,\\frac{1}{2}),(5,1),(6,\\frac{1}{2})\\}\\\\\\\\\ndomain:\\ 1&lt;=n&lt;=6\\\\\nkodomain:\\ x=1\\ dan\\ x=\\frac{1}{2}\\\\[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "buatlah-sketsa-grafik-fungsi-kuadrat-y-x2-4x-12-langkah2-699",
+            "question": "Buatlah sketsa grafik fungsi kuadrat\u00a0    y= -x\u00b2 - 4x + 12\r\nlangkah2 langkah mencari titik potong dan titik puncak\u00a0saja..nanti saya yang mengambar..minta tolong plissss^^",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1. nyari titik puncak, <br><span>y= -x\u00b2 - 4x + 12<br>untuk mencari titik puncak maka, y&#039;=0<br>y&#039;=</span><span> -2x - 4<br>-2x - 4=0<br>x= -2<br>(-2,16) titik puncak<br><br>2. mencari titik potong</span><br><span>y= -x\u00b2 - 4x + 12</span><br>(x + 6)(-x + 2)<br>x=-6 V x=-2<br><br>3. membuat tabel titik perpotongan<br>x -6 -5\u00a0 -4\u00a0\u00a0 -3\u00a0\u00a0\u00a0 -2\u00a0\u00a0 -1\u00a0\u00a0\u00a0 0\u00a0\u00a0 1\u00a0 2<br>y\u00a0 0\u00a0 7\u00a0 12\u00a0 15\u00a0\u00a0 16\u00a0 -15\u00a0 12\u00a0 7\u00a0 0<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "kalo titik puncak bukannya tinggal ( Xp , Yp ) = ( -b / 2a , D / -4a ) ?<br>dengan D = b kuadrat - 4ac = (-4)^2 - 4 (-1) 12 = 16+48 = 64<br>jadi puncak ( -2, 16 )<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-salah-satu-akar-dari-2x2-ax-3-0-adalah-3-maka-ni-188",
+            "question": "Jika salah satu akar dari 2x^2 \u2013 ax + 3 = 0 ,\u00a0adalah 3 maka nilai a dan akar yang lain adalah?    a. a=7 akar lain -1/2\r\nb. a =7 akar lain 1/2\r\nc. a= -7 akar lain -1/2\r\nd. a = -7/2 akar lain 1/2\r\ne, a = -7/2 akar lain - 1/2",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]bentuk\\ umum\\ persamaan\\ kuadrat : px^2+qx+c=0 ; p \\neq 0\\\\\nuntuk\\ PK : 2x^2-ax+3=0,\\ p=2,\\ q=-a\\ dan\\ r=3\\\\\nkarena\\ 3\\ merupakan\\ salah\\ satu\\ akar\\ PK\\ tersebut,\\ maka\\\\\n2(3^2)-a(3)+3=0\\\\\n3a=21\\\\\na=7\\\\\n\nsehingga\\ PK\\ tersebut\\ menjadi\\ 2x^2-7x+3=0\\\\\nhasil\\ jumlah\\ akar-akarnya\\ (x_1+x_2)=-\\frac{q}{p}\\\\\nkarena\\ salah\\ satu\\ akarnya\\ adalah\\ 3, maka\\\\\n3+x_2=-\\frac{-7}{2}\\\\\nx_2=\\frac{7}{2}-3\\\\\nx_2=\\frac{1}{2}[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-rumus-invers-dr-fungsi-brikut-a-fxx-3-b-fx2x5-436",
+            "question": "Tentukan rumus invers dr fungsi\" brikut:    a. f(x)=x-3\r\nb. f(x)=2x+5\r\nc. f(x)=2-seperdua x\r\nd. f(x)=x3\r\ne. f(x)= 6per x, tidak sama dengan 0\r\nf). f(x)= 2 per x-1, x tidak sama dengan 1\r\ng). f(x)=2x-3 per 4x-1, xtidak sama dengan seperempat\r\nh). f(x)= 3x+5 per x-5, x-5 tidak sama dengan 0.\r\nthanks bg yang bs jwb.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "perhatikan caranya : f(x) = x+ 3<br>&lt;=&gt; y = x + 3<br>&lt;=&gt; x = y - 3<br>&lt;=&gt; finvers(y) = y - 3\u00a0<br>jadi finvers (x) = x - 3 \u00a0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-barisan-aritmetika-jumlah-suku-kedua-dan-keempat-adalah-880",
+            "question": "diketahui barisan aritmetika jumlah suku kedua dan keempat adalah 24 dan jumlah suku ketiga dan kelima adalah 32 suku ke 9 barisan tersebut adalah??",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a=4<br>b=4<br><br>u9=a+8b<br>\u00a0\u00a0  =4+32<br>\u00a0\u00a0 =36<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-matriks-a-x1-2-b-x-3-dan-526",
+            "question": "Diketahui matriks A = ( x+1 \u00a02), B = ( \u00a0\u00a0x \u00a0 \u00a0\u00a0 3 \u00a0 ), dan C (\u00a03 \u00a05). Jika A\u00a0+ B\u00a0= C\u00a0    \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 3 \u00a0 \u00a05 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a02 \u00a0 \u00a0y+\u00a02 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 5 \u00a04\u00a0\r\n\r\nMaka nilai x + y adalah....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]  \\left[\\begin{array}{cc}{x+1}&amp;2\\\\3&amp;5\\\\\\end{array}\\right] + \\left[\\begin{array}{cc}x&amp;3\\\\2&amp;{y+2}\\\\\\end{array}\\right] = \\left[\\begin{array}{cc}3&amp;5\\\\5&amp;4\\\\\\end{array}\\right] \\\\\\\\\n\\left[\\begin{array}{cc}{(x+1)+x}&amp;2+3\\\\3+2&amp;5+(y+2)\\\\\\end{array}\\right] = \\left[\\begin{array}{cc}3&amp;5\\\\5&amp;4\\\\\\end{array}\\right] \\\\\\\\\n\\left[\\begin{array}{cc}{2x+1}&amp;5\\\\5&amp;{y+6}\\\\\\end{array}\\right] = \\left[\\begin{array}{cc}3&amp;5\\\\5&amp;4\\\\\\end{array}\\right] \\\\\\\\\nmaka\\\\\n2x+1=3 \\rightarrow x=1\\\\\ny+6=4 \\rightarrow y=-2\\\\\nsehingga\\ x+y=1+(-2)=-1[/tex]",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

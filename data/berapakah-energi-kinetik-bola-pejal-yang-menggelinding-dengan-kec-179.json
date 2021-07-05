@@ -1,0 +1,146 @@
+{
+    "question": "Berapakah energi kinetik bola pejal yang menggelinding dengan kecepatan 10m/s. Jika masanya 20kg.",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "EK = 1/2 * 20 * 10*10 = 1000 Joule",
+            "attachments": []
+        },
+        {
+            "answer": "Dik : m=20kg<br>\u00a0\u00a0 \u00a0 \u00a0\u00a0 v=10m/s<br>dit : Ek..?<br>Jwb : Ek = <u>1</u><em></em> . m . v\u00b2<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 2<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 =<u>1</u> . 20 . 10\u00b2<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 2<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 =<u>1</u> . 20 . 100<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 2<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 =<u></u><u>2000</u><u><br></u>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0\u00a0\u00a0\u00a0 2<u><br></u>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 = 1000 J<u><br></u><u></u>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "sebuah-uji-dilakukan-terhadap-seutas-kawat-tembaga-dengan-jari-ja-661",
+            "question": "Sebuah uji dilakukan terhadap seutas kawat tembaga dengan jari-jari 1,00 mm untuk menentukan bagaimana kawat tembaga akan menahan tumpukan es ketika kawat digunakan sebagai jaringan listrik. Diperoleh hasil bahwa suatu gaya 300 N akan menyebabkan kawat tertarik dari panjang 100,00 m menjadi 100,11 m, dan ketika tumpukan es dibersihkan (dihilangkan), kawat kembali kepada panjang asalnya. Tegangan, regangan, dan modulus elastis kawat tembaga dalam satuan SI berturut-turut adalah ....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Dik F = 300 N<br>\u00a0\u00a0 \u00a0  lo = 100,00 m<br>\u00a0\u00a0 \u00a0 l = 100,11 m<br>Dit\u00a0 tegangan , regangan , modulus yong<br>jawab.<br><br>\u2208 regangan = \u0394l / lo<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 100,11-100,00 / 100,00<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 0,11 / 100,00<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0  = 0,0011 tanpasatuan<br><br>E elastisitas tembaga = 11.10^10 pa satuan dan tetapan elastisitas young untuk tembaga Sl<br><br>Tegangn = E young . \u2208regangan<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 11x10^10 .0,0011<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 121x10^6 N/m^2<br><br>like<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "penjelasan-tentang-momen-inersia-berbagai-benda-tegar-homogen-706",
+            "question": "Penjelasan tentang momen inersia berbagai benda tegar homogen",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Benda tegar tersusun dari banyak partikel yang tersebar di seluruh \nbagian benda. Momen inersia suatu benda tegar merupakan jumlah semua \nmomen inersia masing-masing partikel penyusun benda tegar.<br><br><br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span>Benda tegar tersusun dari banyak partikel yang tersebar di seluruh \nbagian benda. Momen inersia suatu benda tegar merupakan jumlah semua \nmomen inersia masing-masing partikel penyusun benda tegar.<br></span><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apakah-kekekalan-momentum-linear-konsisten-dengan-hukum-kedua-dan-871",
+            "question": "Apakah kekekalan momentum linear konsisten dengan hukum kedua\r\n dan ketiga Newton?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Hukum Kedua: sebuah benda dengan massa M mengalami gaya resultan sebesar\n F akan mengalami percepatan a yang arahnya sama dengan arah gaya, dan \nbesarnya berbanding lurus terhadap F dan berbanding terbalik terhadap M.\n atau F=Ma. Bisa juga diartikan resultan gaya yang bekerja pada suatu \nbenda sama dengan turunan dari momentum linear benda tersebut terhadap \nwaktu.<br>\u00a0 <br>Hukum Ketiga: gaya aksi dan reaksi dari dua benda memiliki besar yang sama, dengan arah terbalik, dan segaris.<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "berikan-penjelasan-mengenai-energi-kinetik-rotasi-dan-contohnya-892",
+            "question": "Berikan penjelasan mengenai energi kinetik rotasi dan contohnya",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Pengertian Energi kinetik<span>\u00a0\u00a0adalah energi \u00a0gerak yang diperoleh sebagai gerakan dari obyek,\u00a0</span>partikel<span>, atau seperangkat partikel. \u00a0Sebuah obyek yang memiliki gerak, apakah itu gerak vertikal atau horizontal, maka sebuah obyek tersebut berarti memiliki energi kinetik. Faktor yang mempengaruhi energi kinetik adalah semakin berat sebuah obyek tersebut dan semakin cepat pula obyek tersebut bergerak maka energi kinetik yang yang dimiliki obyek tersebut semakin besar. \u00a0<br>Ada banyak bentuk energi kinetik antara lain yaitu : \u00a0getaran (energi karena gerak getaran), rotasi (energi karena gerak rotasi atau berputar), dan translasi (energi karena gerakan perpindahan dari satu lokasi ke lokasi lain).</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "seorang-penderita-rabun-dekat-dengan-titik-dekat-05-m-ingin-memb-869",
+            "question": "seorang penderita rabun dekat dengan titik dekat 0,5 m ingin membaca pada jarak baca normal. jenis lensa kacamata yang harus digunakan dan jarak fokusnya adalah ..",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "ditolong dengan lensa cembung. fokusnya +2 .\nmaaf klo salah",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span>\u00a0lensa cembung. fokusnya +2 .</span><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-bola-pejal-dengan-massa-6-kg-dan-berjari-jari-20-cm-berger-996",
+            "question": "sebuah bola pejal dengan massa 6 kg dan berjari-jari 20 cm bergerak pada kelajuan 30 m/s sambil berputar. total energi kinetiknya adalah....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "ek=1/2\u00d7m\u00d7v\u00b2<br>ek=1/2.6.30\u00b2<br>ek=2700<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Ek= 1/2 . m. v \u00b2 + 1/2.I.\u03c9\u00b2<br>\u00a0\u00a0 \u00a0= 1/2. 6. 900 + 1/2. (1/2.6.0,04). (900/0,04)<br>\u00a0\u00a0 \u00a0 = 2700 + 1350<br>\u00a0\u00a0 \u00a0 = 4050 m/s\u00b2",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "kak-tolong-jelasin-tentang-rumus-hukum-newton-2-698",
+            "question": "Kak tolong jelasin tentang Rumus hukum newton 2",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "percepatan yg dihasilkan oleh resultan gaya bekerja pada suatu benda berbanding lurus dgn resultan gaya dan searah dengan resultan gaya dan berbanding terbalik dgnn massa",
+                    "attachments": []
+                },
+                {
+                    "answer": "\"Percepatan sebuah benda berbanding lurus dengan resultan gaya dan berbalik terbalik dengan massa benda.\"<br>a= F/m<br><u></u><strong>S\u00a0F= m a</strong><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bagaimanakah-momentum-benda-sebelum-dan-sesudah-tumbukan-218",
+            "question": "Bagaimanakah momentum benda sebelum dan sesudah tumbukan ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Berdasarkan hukum kekekalan momentum,\"jika tidak ada gaya luar yang bekerja pada benda,maka jumlah momentum sebelum tumbukan = jumlah momentum setelah tumbukan\"",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-pegas-meregang-10-mm-ketika-di-tarik-oleh-gaya-2-n-berapa-985",
+            "question": "sebuah pegas meregang 10 mm ketika di tarik oleh gaya 2 N. berapa pertambahan panjang ketika ditarik gaya 5 N",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "m1/m2 = F2/F1<br>10/m2 = akar5/2<br>10/m2 = akar2,5<br>10/m2 = 1,58<br>m2 = 10/1,58<br>m2 = 6,3 mm",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "coba-jelasin-bagaimana-transformasi-lorentz-itu-soalnya-masih-921",
+            "question": "Coba jelasin bagaimana transformasi lorentz itu? \u00a0soalnya masih kurang ngerti aku. Thx:)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Transformasi Lorenz menyatakan transformasi ruang-waktu yang melandasi \nteori relativitas khusus antara dua pengamat yang bergerak dengan \nkecepatan konstan.<br>Transformasi Lorentz hanya berlaku untuk kerangka acuan yang bergerak \nseragam (tanpa percepatan) terhadap kerangka acuan lain. Pada \nkenyataannya kehadiran percepatan tidak dapat dipungkiri dalam kehidupan\n sehari-hari. Contohnya adalah: jika penumpang keretaapi tadi menarik \nrem darurat tiba-tiba, maka ia akan merasakan percepatan ke arah \nlokomotif, atau keretaapi mengalami perlambatan. Jika hanya bermodalkan \nTRK, maka keraguan terhadap prinsip relativitas akan merasuki kita untuk\n kasus ini. Namun Einstein berusaha mencari pemecahannya dengan motivasi\n bahwa hukum alam tetap sama untuk kerangka acuan jenis apapun.         \n <br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span>\u00a0transformasi Lorentz ditemukan pengabaian fundamental pada arah sebaran cahaya dari objek kepada pengamat yang mengakibatkan tidak terpenuhinya kondisi tertentu dalam konsep koordinat ruang dan waktu.</span>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

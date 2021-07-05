@@ -1,0 +1,126 @@
+{
+    "question": "empat buah pegas masing masing mempunyai konstanta elastis 1600 N/m. Beban w di gantung menyebabkan pertambahan panjang 5 cm. Hitung berat beban w!",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "k =1600n/m<br>delta x = 5 cm = 0.05 m<br>w? w=f=k. delta x<br>W=F=1600.0.05<br>W=80 N<br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "sebuah-ganya-15-n-di-kerjakan-pada-benda-bermassa-m-benda-berg-736",
+            "question": "sebuah ganya 15 N di kerjakan pada benda bermassa\u00a0m.\u00a0benda bergerak dalam garis lurus, dengan kelajuan yang bertambah 10\u00a0m/s\u00a0setiap 2\u00a0s. hitung massa\u00a0m.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "F = 15 N<br>a = 5m/s^2<br>F =m.a<br>m = F/a = 15/5 = 3 kg :)",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "kecepatan-pada-ayunan-524",
+            "question": "Kecepatan pada ayunan",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "V = A w cos wt<br>V = A 2phif cos 2phif t<br>V = A 2phi f : t cos 2phi :t t",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bagaimanakah-momentum-benda-sebelum-dan-sesudah-tumbukan-218",
+            "question": "Bagaimanakah momentum benda sebelum dan sesudah tumbukan ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Berdasarkan hukum kekekalan momentum,\"jika tidak ada gaya luar yang bekerja pada benda,maka jumlah momentum sebelum tumbukan = jumlah momentum setelah tumbukan\"",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "seorang-penyelam-mampu-berada-pada-kedalaman-40-m-di-bawah-permuk-504",
+            "question": "Seorang penyelam mampu berada pada kedalaman 40 m di bawah permukaan laut. Jikamassa jenis air laut 1,2 g/cm3 dan percepatan gravitasi 10 m/s\u00b2, maka hitunglah besar tekanan hidrostatis yang dialami penyelam!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "rho= 1,2 g/cm\u00b3=1,2\u00d7(10^-3/10^-6)=1,2\u00d710^3=1200<br>Ph=rho\u00d7g\u00d7h=1200\u00d710\u00d740=480000 N/m\u00b2",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "ada-yg-tau-ngga-website-buat-download-ppt-fisika-tentang-pemanfaa-839",
+            "question": "ada yg tau ngga website buat download ppt fisika tentang pemanfaatan energi nuklr dan radioisotop? (ini materi kelas xii semester 2) sy sdhputus asa krn sejak 2 hari yg lalu smpe skrg ngga dapat-dapat",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Bisa cari di slideshare.com disitu banyak materi-materi yang dibutuhin",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apa-yang-mempengaruhi-elastisitas-sebuah-bahan-526",
+            "question": "Apa yang mempengaruhi elastisitas sebuah bahan ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "faktor yang utama adalah struktur penyusunnya . maaf kalo salah",
+                    "attachments": []
+                },
+                {
+                    "answer": "Bahan tersebut elastisitasnya dipengaruhi oleh gaya potensial yg terkandung pd bahan tsb serta bahan penyusun atau strukturnya .",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dua-mobil-a-dan-b-mula-mula-diam-massa-mobil-a-dua-kali-mobil-b-777",
+            "question": "Dua mobil A dan B mula mula diam, Massa Mobil A dua kali mobil B agar dalam waktu yang sama kecepatan mobil B dua kali mobil A. Perbandingan usaha yang dilakukan mobil A dan Mobil B yang tepat adalah ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1:2<br>dapat diperoleh dari teori usaha = perubahan energi kinetik dengan rumus 1/2mv\u00b2<br>Untuk memastikan dapat dicoba.",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dua-buah-benda-muatan-besarnya-q1-dan-q2-berada-pada-jarak-r-memi-199",
+            "question": "Dua buah benda muatan besarnya Q1 dan Q2 berada pada jarak r memiliki gaya coulumb FC, berapa besar gaya coulumb jika\u00a0    a)muatan pertama diperbesar 6kali\u00a0\r\nb) jarak kedua muatan di perbesar 4 kali\u00a0\r\nc) kondisi jarak diperbesar r' = 7r\u00a0\r\n\r\npakai jalan dan penjelasannya ya ... please\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a)=6FC\u00a0 \u00a0\u00a0 karena k.q1.q2.6/r^2<br>b)=FC/16\u00a0 karena k.q1.q2/16r^2<br>c)=FC/49\u00a0 karena k.q1.q2/49r^2<br>CMIIW<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apa-betul-jawaban-saya-tlng-di-cmnt-seorang-pelari-menempuh-2-412",
+            "question": "APA\u00a0BETUL JAWABAN SAYA? TLNG DI CMNT !    seorang\r\n pelari menempuh 2 km dalam 5 menit dan kemudian membutuhkan 10 menit untuk\r\n berjalan kembali ketitik awal. a) berapakah kecepatan rata-rata untuk 5 menit\r\n pertama? (b) berapakah kecepatan rata-rata selama waktu yang dipakai berjalan?\r\n (c) berapakah kecepatan rata-rata untuk total perjalanan? (d) berapakah\r\n kelajuan rata-rata untuk total perjalanan?\r\n\r\n JAWABAN\r\n\r\n\r\na)\u00a0dikt :s\r\n = 2 km ~\u00a02000 m,\u00a0t = 5 menit ~\u00a0300 second\r\n\r\n v = s/t = 2000/300 = 6,66 m/s\r\nb)\u00a0dikt :s\r\n = 2 km ~\u00a02000 m,\u00a0t = 10 menit ~ 600 second\r\n\r\n v = s/t = 2000/600 = 3,33 m/s\r\n\u00a0 \u00a0 P1 + P2 =\u00a06,66 + 3,33 = 9,99 m/s\r\n\r\n\r\nc)\r\nd)\u00a0dikt :s\r\n = 2 km ~ 2000 x 2 = 4000 m,\u00a0t = 5 + 10 = 15 menit ~\u00a0900 second\r\n\r\n\r\n\u00a0 \u00a0 v = s/t = 4000/900 = 4,44",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "semuanya betul semua<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "rangkaian-kereta-api-yang-panjangnya-80-m-melaju-dengan-kelajuan-160",
+            "question": "rangkaian kereta api yang panjangnya 80 m melaju dengan kelajuan 72km/jam \u00a0.kereta terlihat melintasi jembatan selama 6 s. hutung panjang jembatan ..!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "s=v.t<br>v nya ubah ke m/s jadi 72000/3600=20 m/s<br>jadi<br>s=20.6=120 meter<br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

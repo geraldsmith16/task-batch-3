@@ -1,0 +1,138 @@
+{
+    "question": "2x + 3 : 4 &lt;_ -4x -4 :2",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "2x + 3 : 4 \u2264 -4x - 4 : 2<br>2 ( 2x + 3 ) \u2264 3 ( - 4x - 4 )<br>4x + 6 \u2264 - 12x - 12<br>6 + 12 \u2264 - 12x - 4x<br>18 \u2264 -16x<br>x \u2264 18/-16<br>x \u2264 -9/8<br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "ubalah-pertidaksamaan-linear-satu-variebel-berikut-kedalam-kehidu-786",
+            "question": "Ubalah pertidaksamaan linear satu variebel berikut kedalam kehidupan sehari-hari    a.x &gt; 10\r\nb.2y\u00a0\u2264 50\r\nc.2x + 3 &gt; 4",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a. jumlah kelereng Andi lebih dari sepuluh<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-belah-ketupat-pqrs-dengan-besar-tps-30-dan-panjang-297",
+            "question": "Diketahui belah ketupat PQRS dengan besar TPS = 30\u00b0 dan panjang PT = 24cm    hitunglah :\r\na. keliling, dan\r\nb. luas belah ketupat\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "PQ=QR=RS=SP=<em></em>\u221a24\u00b2+24\u00b2 =\u00a0\u221a576+576 = 33,9<br>Keliling = 4\u00a0\u00d7 PQ = 4\u00a0\u00d7 33,9 = 135,6 cm<br>Luas = 1/2 d1\u00a0\u00d7 d2 = 1/2\u00a0\u00d7 48\u00d7 48 = 1152 cm\u00b2<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "berapakah-hasil-dari-pertanyaan-berikut-ini-747-575",
+            "question": "Berapakah hasil dari pertanyaan berikut ini\u00a0 (\u221a7+\u221a4)(\u221a7-\u221a4)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "\u221a49-\u221a28+\u221a28+\u221a16=7-4=3",
+                    "attachments": []
+                },
+                {
+                    "answer": "\u221a11 . \u221a3 = \u221a33<br>\u221a33 = 5 \u221a8",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-sebuah-himpunan-semesta-yang-mungkin-untuk-himpunan-himp-805",
+            "question": "Tentukan sebuah himpunan semesta yang mungkin untuk himpunan-himpunan berikut\u00a0    a.A={1,4,9,16,25}\r\nb.B={1,3,5,7,...}\r\nc.E={m,dm,cm,mm}\r\nd.F={kerucut,tabung,bola}",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a. A = { himpunan bilangan kuadrat }<br>b. B = { himpunan bilangan ganjil }<br>c. E = { himpunan satuan panjang }<br>d. F = { himpunan bangun ruang sisi lengkung }<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "persamaan-garis-yg-melalui-titik-a-15dan-tegak-lurus-garis-y-472",
+            "question": "Persamaan garis yg melalui titik A(-1,5)dan tegak lurus garis y =1/4X-3 adalah ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "y=1/4x-3, 1/4x-y-3=0<br>m= -a/b<br>-1/4/-1= 1/4<br>y-y1= M(x-x1)<br>y+1= 1/4(X-1/4)<br>y+1=1/4x-1/16<br>1/4x-y-1 1/16 (dikali 16)<br>4x-16y-17<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "[tex]y=\\frac{1}{4}x-3 \\rightarrow m_1=\\frac{1}{4}\\\\\nagar\\ tegak\\ lurus\\, maka\\ m_1.m_2=-1\\\\\n\\frac{1}{4}m_2=-1\\\\\nm_2=-4\\\\\npersamaan\\ yg\\ tegak\\ lurus\\ garis\\ y=\\frac{1}{4}x-3\\ dan\\ melalui\\ A(-1,5)\\\\\ny-y_1=m(x-x_1)\\\\\ny-5=(-4)(x-(-1))\\\\\ny=-4x-4+5\\\\\n4x+y=1[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "himpunan-penyelesaian-dari-8-10-p-708",
+            "question": "Himpunan penyelesaian dari 8\u00a0=10\u00a0-\u00a0p",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "kalau yg ditanyakan P<br>p =10-8<br>\u00a0\u00a0 =2<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "8 =10 - p<br>8--10=-p<br>\u00a0-2 \u00a0 = -p<br>-2/-1=p<br>\u00a0 2 \u00a0=p",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-nilai-x-jika-2x-1-2x-2-2x-3-2-133",
+            "question": "Tentukan nilai x, jika (2x + 1) + (2x + 2) + (2x\u00a0+ 3) + \u2026 + (2x + 50) = 4275..    ni soal persamaan satu\u00a0variebel",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "(2x + 1) + (2x + 2) + (2x\u00a0+ 3) + ...\u00a0+ (2x + 50) = 4275<br>2x * 50 = (1 + 2 +\u00a0... + 50)<br>100x = 1275<br>100x = 4275\u00a0- 1275<br>100x\u00a0= 3000<br>\u00a0 \u00a0 \u00a0x =\u00a0[tex] \\frac{3000}{100} [/tex]<br>\u00a0 \u00a0 \u00a0x = 30<br><br>jadi, nilai x adalah 30",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "persamaan-garis-yang-melali-titik-23-tegak-lurus-dengan-garis-786",
+            "question": "Persamaan garis yang melali titik (2,3) tegak lurus dengan garis y=3x+2",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "tegak lurus berarti: m1 x m2 = -1<br>maka gradien garis: 3 x m2 = -1<br>m2 = - 1/3<br>(2,3) adalah titik (x1,y1)<br><br>rumus persamaan<br>y - y1 = m2 ( x - x1)<br>y - 3 = - 1/3 ( x - 2)<br>y - 3 = - x/3 + 2/3<br>y = -x/3 + 2/3 + 3<br><strong>( </strong>y = 11/ 3 - x/3 <strong>)</strong> dikali 3<br>3y = 11 - x<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "34-y-38-y-pake-cara-522",
+            "question": "- 3/4 y = -3/8\r\ny=\r\n\u00a0pake cara",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]- \\frac{3y}{4}=  -\\frac{3}{8}  \\\\  \\\\  \\frac{3y}{4}=  \\frac{3}{8}  \\\\  \\\\ 3y.8 = 4.3 \\\\  \\\\ 24y = 12 \\\\  \\\\ y= \\frac{12}{24}  \\\\  \\\\ y= \\frac{1}{2} [/tex]",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span>- 3/4 y = -3/8<br>y = -3/8 : -3/4\u00a0<br>\u00a0 \u00a0= -3/8 x -4/3<br>\u00a0 \u00a0= 12/24<br>\u00a0 \u00a0= 1/2 = 0,5</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "misalkan-f-adalah-suatu-fungsi-yang-memenuhi-f1x-12-f-x-2-663",
+            "question": "Misalkan F adalah suatu fungsi yang memenuhi    F(1/x)+ 1/2 F(-x)= 2x untuk setiap x tidak sama dengan 0. Berapakah F(2)?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]f(\\frac{1}{x})+\\frac{1}{2}f(-x)=2x\\ ; x \\neq 0\\\\\n\\\\\nuntuk\\ x=-2\n\\\\\nf(\\frac{1}{-2})+\\frac{1}{2}f(-(-2))=2(-2)\\\\\n\\\\ f(-\\frac{1}{2})+\\frac{1}{2}f(2)=-4\\\\\n\\\\\nuntuk\\ x=\\frac{1}{2} \\\\\nf(\\frac{1}{\\frac{1}{2}})+\\frac{1}{2}f(-\\frac{1}{2})=2(\\frac{1}{2})\\\\\n\\\\ f(2)+\\frac{1}{2}f(-\\frac{1}{2})=1\\\\\\\\\neliminasi\\ f(-\\frac{1}{2})\\ pada\\ kedua\\ persamaan\\\\\nf(-\\frac{1}{2})+\\frac{1}{2}f(2)=-4\\\\\n\\underlined{f(-\\frac{1}{2})+2f(2)=2\\ \\ \u2013}\\\\\n\\\\\n-\\frac{3}{2}f(2)=-6\\\\\nf(2)=4[/tex]",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

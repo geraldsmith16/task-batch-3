@@ -1,0 +1,136 @@
+{
+    "question": "Diketahui \u0394 ABC siku-siku di A , AB = 3 cm dan AC = 3 cm.    Hitunglah luas dan keliling segitiga tersebut?",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "dik : t = 3\u00a0\u221a2 cm dan alas 3\u221a5 cm<br>maka<br>L = a.t = 3\u221a5 cm . 3\u221a2 cm = 9\u221a10 cm\u00b2\u00a0<br>untuk K nya,pertama cari sisi miringnya pake phitagoras<br>S =\u00a0\u221aa\u00b2+t\u00b2 =\u221a9.2 + 9.5 =\u221a18 +45 =\u221a63 =\u00a0\u221a9 .\u221a7 = 3\u221a7 cm<br><br>sehingga K = a+t+s = 3\u221a5 + 3\u221a2 + 3\u221a7 cm =karna angka dalam akarnya berbeda beda maka tak dapat di jumlah kan dengan total :)",
+            "attachments": []
+        },
+        {
+            "answer": "cb=\u221a(3\u221a2)\u00b2+(3\u221a5)\u00b2<br>\u00a0\u00a0 = \u221a63<br>L = 1/2at<br>\u00a0\u00a0 = 1/2*3\u221a5*3\u221a2<br>\u00a0\u00a0 =1/2*9\u221a10<br>k=3\u221a5+3\u221a2+\u221a63",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "ikhsan-memiliki-3-orang-anak-pada-suatu-hari-ketiga-anaknya-terk-417",
+            "question": "ikhsan memiliki 3 orang anak. pada suatu hari ketiga anaknya terkena flu. sampai dirumah sakit diperoleh data bahwa suhu badan ketiga anak itu masing-masing, 40 drjat C,\u00a0 39,5 drrjt C, dan 40,6 drjt C. ubahlah ketiga suhu badan itu dalam derajat reamur dan Fahrenheit!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Reamur: <br>1. 40<span>\u2070C= </span>(4/5 x 40)<span>\u2070R= (4 x 8)</span><span>\u2070R= 32</span><span>\u2070R<br>2. 39,5</span><span>\u2070C= (4/5 x 39,5)</span><span>\u2070R= </span>( 4/5 x 395 . 10\u2227-1 )\u2070R = ( 4 x 79 . 10\u2227-1 )\u2070R = 316 . 10^-1 <span>\u2070R = 31,6</span><span>\u2070R<br>3. 40,6</span><span>\u2070C = ( 4/5 x 40,6 )</span>\u2070R =  ( 4/5 x 406 . 10^-1 )\u2070R= ( 4 x 8,12 x 10^-1 )<span>\u2070R = </span>( 4 x 812 x 10^-3 )\u2070R = 3248 x 10^-3 \u2070R = 3,248 \u2070R<br><br>Fahrenheit:<br>1. 40\u2070C= (9/5 x 40) +32 \u2070F= 72 + 32 \u2070F= 104<span>\u2070F<br>2. 39,5</span>\u2070C= (9/5 x 39,5) + 32 \u2070F = ( 9/5 x 395 . 10\u2227-1 ) + 32 \u2070F = ( 9 x 79 . 10\u2227-1 ) + 32 \u2070F = ( 711 . 10^-1) + 32 \u2070F = 71,1+ 32 <span>\u2070F = 103,1 </span>\u2070F<span><br>3. 40,6</span>\u2070C = ( 9/5 x 40,6 ) + 32 \u2070F =  ( 9/5 x 406 . 10^-1 )+ 32 \u2070F= ( 9 x 8,12 x 10^-1 )+ 32 \u2070F = ( 9 x 812 x 10^-3 )+ 32 \u2070F = (7308 x 10^-3) + 32 \u2070F = 7,308 + 32 \u2070F = 39,308 \u2070F <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-jumlah-dua-bilangan-adalah-100-dan-selisihnya-adalah-4-897",
+            "question": "diketahui\u00a0jumlah dua bilangan adalah 100 dan selisihnya adalah 40.\u00a0bagaimana nilai dua bilangan tersebut dapat dinyatakan dua linier satu variabel",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a+b=100<br>a-b=40----&gt;a=40+b<br>a+b=100<br>40+b+b=100<br>40+2b=100<br>2b=60<br>b=30<br>a=40+b<br>a=40+30=70<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sederhanakanlah-a27-b125-c180-d570-ubahlah-me-734",
+            "question": "Sederhanakanlah\u00a0    A.\u221a27\u00a0\r\nB.\u221a125\r\nC.\u221a180\r\nD.\u221a570\r\n\r\nUbahlah menjadi pangkat pecahan\u00a0\r\nA.\u221b15\r\nB.5\u221a12\u00b3\r\nC.\u221b12\r\nD.4\u221a48\u00b3",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a. 3\u221a3<br>b. 5\u221a5<br>c. 6\u221a5<br>d.\u00a0\u221a3.19.2.5\u00a0\u21d2hitung sendiri ajalahhhh<br><br>a. 15 pangkat 1/3<br>b. 300 pangkat 3/2<br>c. 12 pangkat 1/3<br>d. 767 pangkat 3/2<br>itulah hasilnyaaaa........<br>tolong di like yaaa",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "rasionalkan-bentuk-pecahan-a25-3-839",
+            "question": "Rasionalkan bentuk pecahan\u00a0    a.\u00a0\u00a0\u00a0\u00a02\u221a5 \u00a0 \u00a0\r\n\u00a0 \u00a0\u221a3 +\u00a0\u221a5\r\n\r\nBeri penjelasannya. jawabannya yang\u00a0 LENGKAP yaa :)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "2 akar 5 : akar 3 + akar 5<br><br>2 akar 5 : akar 3 + akar 5 x akar 3 - akar 5 : akar 3 - akar 5<br><br>2 akar 15 - 2 x 5 : 3 - 5<br><br>2 akar 15 - 10 : -2<br><br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "[tex] \\frac{2 \\sqrt{5} }{ \\sqrt{3} + \\sqrt{5} } =  \\frac{2 \\sqrt{5} }{ \\sqrt{3} + \\sqrt{5} } . \\frac{ \\sqrt{3} - \\sqrt{5} }{ \\sqrt{3} - \\sqrt{5} }= \\frac{2 \\sqrt{15}-10 }{-2} \\\\  \\\\ 5- \\sqrt{15} [/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pada-kegiatan-rally-sebuah-mobil-akan-sampai-di-garis-finis-dala-961",
+            "question": "pada kegiatan rally, sebuah mobil akan sampai di garis finis dalam waktu 4,5 jam dengan kecepatan rata-rata 63 km/jam. setelah 2 jam berjalan, ban mobil biru pecah sehingga terpaksa berhenti mangganti ban selama 15 menit. berapa kecepatan mobil biru dinaikkan agar tetap sampai di finis tepat waktu?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "= 2,5/2,25 = 63/x <br>2,25/2,5 x 63/x<br>= 2,25 x = 157,5<br>x = 157,5/2,25<br>x = 70 km/jam <br>semoga membantu yaa<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "perbandingan-umur-anisanidan-endang-adalah-235jika-seluruh-u-111",
+            "question": "perbandingan umur ani,sani,dan endang adalah 2:3:5,jika seluruh umur sani dan ani adalah 6 tahun,maka umur endang adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "ani = 2<br>sani = 3<br>endang = 5<br><br>2 + 3 + 5 = 10<br>[tex] \\frac{5}{10} [/tex] x 6 = 3<br><br>jadi, jawabannya adalah 3 tahun",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "help-plus-caranya-juga-ya-thanks-158",
+            "question": "[HELP] plus caranya juga ya, thanks",
+            "attachments": [
+                "question-attachments/help-plus-caranya-juga-ya-thanks-158-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "8x^-4/2x^-6<br>= 2x^6/8x^4<br>= 2x^6/2x^3(4)<br>= 2x^6/2x^12<br>= 4x^3/4x^6<br>= 4x^3",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-setigita-sama-kaki-memiliki-panjang-sisi-yang-sama-dengan-332",
+            "question": "Sebuah setigita sama kaki memiliki panjang sisi yang sama dengan 5 kali panjang sisi lainnya. Agarkeliling segitiga tersebut lebih besar dari 50 m, berapakah panjang masing-masing sisi segitigatersebut?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "5x+5x+x &gt; 50<br>11x &gt; 50<br>x &gt; 50/11<br>x &gt; 4,5<br>jadi x = 5<br>panjang masing masing sisi segitiga (5x,5x,5) = (5*5,5*5,5) = (25,25,5)<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 <br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-seorang-ayah-berumur-28-tahun-ketika-anaknya-lahir-berapak-158",
+            "question": "1.) seorang ayah berumur 28 tahun , ketika anaknya lahir. Berapakah umur anak itu ketika jumlah umur mereka 48 tahun.    2.) Diketahui jumlah dua bilangan adalah 100 dan selisihnya adalah 40. Bagaimana nilai dua bilangan tersebut dapat dinyatakan dua linear satu variabel.\r\n\u00a0tolong jawabannya pake caranya ya....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "jjawaban nomer satu\u00a01.20<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "seorang-walikota-merencanakan-membuat-taman-rekreasi-berbentuk-li-127",
+            "question": "Seorang walikota merencanakan membuat taman rekreasi berbentuk lingkaran dengan diameter 1.400 m. Oleh karena kurang dana, dalam realisasinya hanya dibangun taman dengan diameter 700 m. Berapa persen biaya yang dapat dihemat dari biaya pembebasan tanah untuk taman itu dari rencana semula?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "50% <br><br>Maaf kalo salah yaaa<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "karena 700 itu setengah dari 1400 berarti dana yang di hemat juga setengahnya atau 50%",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

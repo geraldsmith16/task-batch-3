@@ -1,0 +1,142 @@
+{
+    "question": "diketahui data:x1,x2,x3,x4,x5, dengan median 30, stratistik maksimum 70 dan jangkauan 60. jika m \u2264  \u2264, maka nilai m dan n adalah",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "x1,x2,x3,x4,x5 median 30 berarti x3 = 30<br>statistik maksimum 70 berarti x5 = 70\u00a0<br>jangkayan = 60<br>&lt;=&gt; x5 \u00a0 - x1 = 60<br>&lt;=&gt; 70 - x1 = 60\u00a0<br>&lt;=&gt; \u00a0x1 = 10<br>jado m= 10 dan n= 70 \u00a0( maaf\u00a0saya ragu yang ini karena soal kurang jelas)",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "tentukan-penyelesaian-dan-himpunan-penyelesaian-dari-x-8-6-153",
+            "question": "Tentukan penyelesaian dan himpunan penyelesaian dari x + 8 = 6",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "x + 8= 6<br>x= 6-8<br>x=-2<br>maaf hanya ini jawaban a ga tw bener ap ga, semoga aj bener ea<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "x+8= 6<br>x= 6-8<br>\u00a0 = -2<br>Kalau persamaan itu hanya ada satu penyelesaian. Jadi, jawabannya -2.<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "berapa-radian-putaran-sebuah-jarum-panjang-suatu-jam-apabila-berp-617",
+            "question": "Berapa radian putaran sebuah jarum panjang suatu jam apabila berputar selama 54 menit???",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "radian putaran sebuah jarum jam apabila berputar selama 54 menit adalah -22596",
+                    "attachments": []
+                },
+                {
+                    "answer": "radian sama kayak derajat dlm 5 mnt bukan?",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "harga-tiket-masuk-ke-ruangan-pameran-untuk-balita-rp200000-dan-415",
+            "question": "harga tiket masuk ke ruangan pameran untuk balita Rp.2000,00 dan untuk dewasa Rp.3000,00.Pada hari minggu terjual 540 tiket adengan hasil penjualan Rp1.260.000,00.banyak masing-masing tiket masuk balita dan dewasa terjual berturut turut adalah...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "balita = 360 tiket = 720.000<br>dewasa = 180 riket = 540.000<br>total = 1.260.000",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-barisan-aritmetika-mempunyai-suku-ke-7-adalah-20-suku-te-161",
+            "question": "sebuah barisan aritmetika mempunyai suku ke 7 adalah 20., suku terakhir 44, dan jumlah 3 suku pertama adalah 12. suku tengah barisan ini adalah...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "u7=20<br>a+6b=20<br><br>u1+u2+u3=12<br>a+a+b+a+2b=12<br>3a+3b=12<br>a+b=4<br><br>eliminasikan persamaan a+6b=20 dan a+b=4<br>didapat b=[tex] \\frac{16}{5} [/tex]dan a=[tex] \\frac{4}{5} [/tex]<br>Un=44<br>a+(n-1)b=44<br>4/5 + (n-1) 16/5 =44<br>4/5 + 16/5 n - 16/5 =44<br>4/5 n= 44+ 12/5<br>4/5 n =[tex] \\frac{220+12}{5} [/tex]<br>n=58<br><br>yg dicari tengah2 n berarti n:2=58:2=29<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-kotak-berisi-10-kelereng-biru8-kelereng-kuningdan-2-kele-236",
+            "question": "sebuah kotak berisi 10 kelereng biru,8 kelereng kuning,dan 2 kelereng merah.jika diambil dua kelereng sekaligus,peluang terambil keduanya kelereng biru atau keduanya kelereng kuning adalah...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Biru = 10<br>Kuning = 8<br>Merah = 2<br>Total kelereng = 20<br><br>Peluang terambil keduanya kelereng biru = 10C2 = 10!/((10 - 2)! * 2!) = (9 * 10)/(2) = 45<br>Peluang terambil keduanya kelereng kuning = 8C2 = 8!/((8 - 2)! * 2!) = (7 * 8)/(2) = 28<br>Peluang terambil keduanya dari total = 20C2 = 19 * 20 / 2 = 190<br><br>Peluang keduanya biru = 45/190 <br>Keduanya merah = 28/190<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "hitunglah-nilai-a-jika-x3-ax2-11-x-30-mempunyai-faktor-x3-754",
+            "question": "Hitunglah nilai a jika x3 + ax2 - 11 x + 30 mempunyai faktor (x+3)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "(-4)..............................<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bagaimana-cara-mencari-hasil-sisa-pembagian-suku-banyak-yg-pembag-975",
+            "question": "Bagaimana cara mencari hasil sisa pembagian suku banyak\r\nyg pembaginya berjumlah 3",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "dikali dengan 3<br>maaf hanya ini yang dapat saya jawab",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "910-45-4-34-2-25-755",
+            "question": "9/10-4/5=\r\n4 3/4-2 2/5=",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a .9/10-4/5= 9/10 - 8/10 =1/10<br>b .<span>4 3/4-2 2/5= 4 15/20 -2 8/20 =2 7/20</span><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "1. \u00a0 \u00a0  9/10-4/5= 9/10-8/10=1/10<br><br><br><br>2.\u00a0 \u00a0 \u00a0  4 3/4-2 2/5= 4 15/20-2 8/20=2 7/20<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jelaskanapa-yg-dimaksud-invers-941",
+            "question": "Jelaskanapa yg dimaksud invers ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Invers biasanya merupakan lawan dari sesuatu.<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Invers secara umum artinya lawan dari sesuatu hal.<br><br>dalam matematika, invers itu sering disebut fungsi kebalikan.<br>yang apabila suatu fungsi misalnya f, inversnya ditulis[tex]f^{-1} [/tex]<br><br>sifat khusus dari invers<br>[tex]f. f^{-1} =1[/tex]<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "ada-yang-ngerti-limit-trigonometri-ga-972",
+            "question": "Ada yang ngerti limit trigonometri ga???",
+            "attachments": [
+                "question-attachments/ada-yang-ngerti-limit-trigonometri-ga-972-1.docx"
+            ],
+            "answers": [
+                {
+                    "answer": "nih dek, cb dipelajari",
+                    "attachments": [
+                        "answer-attachments/ada-yang-ngerti-limit-trigonometri-ga-972-1.docx"
+                    ]
+                }
+            ]
+        }
+    ]
+}

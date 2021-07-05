@@ -1,0 +1,134 @@
+{
+    "question": "seorang pedagang mainan anak anak menjual 25 buah boneka dengan hasil penjualan Rp312.500,00.ternyata pedagang memperoleh untung Rp55.000,00.maka pembelian tiap boneka adalah...",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "B = Jual - Untung <br>= 312.500 - 55.000<br>= 257.500 (harga beli seluruh boneka)<br><br>1 boneka: 257.500 : 25 = 10.300<br>",
+            "attachments": []
+        },
+        {
+            "answer": "RP.312.500,00-RP.55.000,00 : 25 = RP.10.300,000",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "dua-bilangan-berselisih-25jika-2-kali-bilangan-yang-besar-dikura-498",
+            "question": "dua bilangan berselisih 25.jika 2 kali bilangan yang besar dikurangi bilangan yang kecil adalah 175,tentukanlah bilangan itu.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a-b=25<br>(2xa)-b=175<br><br>lakukan eliminasi:<br>2a-b=175<br>a-b=25\u00a0 \u00a0 -<br>-------------------<br>a=150<br><br>lakukan substitusi untuk mencari b<br>a-b=25<br>150-b=25<br>b=150-25= 125<br>b=125<br><br>(2x150)-b=175<br>300-b=175<br>b=300-175<br>b=125<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "cara-menggunakan-kpk-1-1416818-2-814-514-3-3035-1214-287",
+            "question": "Cara menggunakan KPK \r\n1. 14/16+8/18=\r\n2. 8/14-5/14=\r\n3 30/35-12/14=\r\n4 8/12-2/10=\r\n.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Jawab:<br>1. 14/18 + 8/18 = 22/18 (KPK penyebut sudah sama jadi bisa langsung dijumlahkan pembilangnya).<br>2. 8/14 - 5/14 = 3/14 (KPK penyebut sudah sama jadi bisa langsung dikurangkan pembilangnya).<br>3. 30/35 - 5/14 = 60/70 - 5/70 = 55/70 : 5/5= 11/70 (bentuk paling sederhana).<br>\u00a0 \u00a0(KPK penyebut belum sama jadi harus disamakan dulu KPK nya:<br>\u00a0 \u00a0 35 = 5 x 7<br>\u00a0 \u00a014 = 2 x 7<br>\u00a0 \u00a0KPK = 2 x 5 x 7 = 70)<br>4. 8/12 - 2/10 = 40/60 - 12/60 = 28/60 : 2/2 = 19/30.<br>\u00a0 \u00a0(KPK penyebut belum sama jadi harus disamakan dulu KPK nya:<br>\u00a0 \u00a0 12 = 2 x 2 x 3 =\u00a0[tex] 2^{2} [/tex] x 3<br>\u00a0 \u00a0 10 = 2 x 5<br>\u00a0 \u00a0 KPK =\u00a0\u00a0[tex] 2^{2} [/tex]\u00a0x 2 x 3 = 60).<br><br><br>semoga bisa membantu ^_^,,,<br>maaf kalau ada kesalahan ^_^,,,<br>jika tidak mengerti, silahkan ditanyakan ^_^,,,",
+                    "attachments": []
+                },
+                {
+                    "answer": "1.\u00a0[tex]\\frac{14}{16}+\\frac{8}{18}[/tex]<br>KPK (16,18)\u00a0= 16x9 = 144<br>[tex]\\frac{14}{16}+\\frac{8}{18}=\\frac{14\\times 9}{144}+\\frac{8\\times 8}{144}=\\frac{126}{144}+\\frac{64}{144}= \\frac{190}{144} [/tex]<br><br>2.<br>[tex] \\frac{8}{14} - \\frac{5}{14}= \\frac{8-5}{14} = \\frac{3}{14}  [/tex]<br><br>3.<br>[tex] \\frac{30}{35}- \\frac{12}{14}= \\frac{6}{7}   - \\frac{6}{7} = 0[/tex]<br><br>4.<br>[tex] \\frac{8}{12}- \\frac{2}{10}= \\frac{2}{3}- \\frac{1}{5}=     \\frac{2\\times 5}{15}- \\frac{1\\times 3}{15} =\\frac{10}{15}- \\frac{ 3}{15}=\\frac{ 7}{15}[/tex]<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pada-kegiatan-rally-sebuah-mobil-akan-sampai-di-garis-finish-dal-184",
+            "question": "pada kegiatan Rally, sebuah mobil akan sampai di garis finish dalam waktu 4,5 jam dengan kecepatan rata rata 63 km/jam. setelah 2 jam berjalan, ban mobil biru pecah sehingga terpaksa berhenti mengganti ban selama 15 menit. berapa kecepatan mobil biru di naikkan agar tetap sampai di garis finish tepat waktu?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>Jarak tempat = 4,5 jam x 63 km / jam <br>= 283,5 km<br>Perjalanan 2 jam , jaraknya = 2 jam x 63 km/jam <br>= 126 km<br>Berhenti selama 15 menit, total waktu yang sudah ditempuh <br>= 2 jam + 15 menit <br>= 2,25 jam<br>Jarak tempat yang belum di lalui <br>= 283,5 km - 126 km <br>= 157,5 km<br>Kecepatan agar tepat waktu <br>= 157,5 km / 2,25 jam <br>= 70 km/jam</span><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahi-sebuah-segitiga-abc-dengan-besar-salah-satu-sudutnya-18-189",
+            "question": "Diketahi sebuah segitiga ABC dengan besar salah satu sudutnya 18, segitiga apakah ABC itu? Jelaskan!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "segitiga yang salah satu sudutnya itu 18 adalah segitiga lancip",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "kenapa-kebanyakan-siswa-mengaku-bahwa-matematika-itu-pelajaran-yg-263",
+            "question": "Kenapa kebanyakan siswa mengaku bahwa matematika itu pelajaran yg sulit?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "karena matematika terlalu banyak rumus dn siswa susah memahami nya<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukanlah-keliling-lingkaran-yang-berjari-jari-7-cm-panja-689",
+            "question": "Tentukanlah:     keliling lingkaran\u00a0 yang berjari - jari 7 cm.\r\npanjang jari - jari lingkaran jika keliling lingkarannya 314 cm dan \u03c0 = 3,14\r\npanjang diameter sebuah lingkaran yang kelilingnya 110 cm dengan \u03c0 = 22/7\r\nbesar sudut bdc, jika besar sudut aoc = 82 derajat",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]r=7cm\\\\\nkell=2 \\pi r=2(\\frac{22}{7})(7)\\\\\nkell=44cm\\\\\\\\\nkell=314\\\\\n2 \\pi r=314\\\\\n2(3,14)r=314\\\\\nr=50cm\\\\\\\\\nkell=110\\\\\n\\pi d=110\\\\\n(\\frac{22}{7})d=110\\\\\nd=35cm[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "2057-87-83-untuk-test-978",
+            "question": "20+(57-87)-83 =\r\n\r\nuntuk test",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "20 + (57-87) - 83 =<br>Dahulukan yang di dalam kurung<br>57 - 87 = -30<br>20 + -30 - 83 = -93<br>Jadi jawabannya -93",
+                    "attachments": []
+                },
+                {
+                    "answer": "20+(-30)-83 = 20-30-83 = -93 <br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "cara-nyari-rumus-fungsi-dari-grafik-gimana-341",
+            "question": "Cara nyari rumus fungsi dari grafik gimana?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "grafik yang sudah diketahui miniman 2\u00a0titik<br>[tex] \\frac{y-y1}{y2-y1} = \\frac{x-x1}{x2-x1} [/tex]<br><br>kalau grafiknya sudah diketahui gradien dan salah satu titiknya<br>y\u00a0-\u00a0y1 = m(x\u00a0-\u00a0x1)",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "besar-sudut-yang-dibentuk-dari-pukul-1020-dan-0745-338",
+            "question": "Besar sudut yang dibentuk dari pukul 10.20 dan 07.45",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "10.20 : Sudut Tumpul<br>07.45 : Sudur Lancip",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "perbandingan-umur-anisanidan-endang-adalah-235jika-seluruh-u-111",
+            "question": "perbandingan umur ani,sani,dan endang adalah 2:3:5,jika seluruh umur sani dan ani adalah 6 tahun,maka umur endang adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "ani = 2<br>sani = 3<br>endang = 5<br><br>2 + 3 + 5 = 10<br>[tex] \\frac{5}{10} [/tex] x 6 = 3<br><br>jadi, jawabannya adalah 3 tahun",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

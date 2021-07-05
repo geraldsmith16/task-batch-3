@@ -1,0 +1,138 @@
+{
+    "question": "Gradien garis 3y-5x+12=0 adalah",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "m=-a/b<br>\u00a0 \u00a0=-(-5)/3<br>\u00a0 \u00a0=5/3",
+            "attachments": []
+        },
+        {
+            "answer": "3y - 5x + 12 = 0<br>3y = 5x -12<br>[tex]y =  \\frac{5}{3} x - 4[/tex]<br><br>[tex]m = \\frac{5}{3} [/tex]<br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "keliling-sebuah-segi-tiga-sama-sisi-adalah-36cm-jika-garis-inginn-595",
+            "question": "Keliling sebuah segi tiga sama sisi adalah 36cm jika garis inginnya 10 cm maka luas segitiga itu adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a+b+c= 36<br>36:3= 12<br>Luas= alasxtinggi /2<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 12x10/2<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 =60<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "65-p30-tentukan-nilai-p-583",
+            "question": "6:5 = p:30 tentukan nilai P",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "30: 5 = 6<br>6 x 6= 36<br>jawabannya 36<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "6:5=p:30<br>30:5= 6<br>6x6=36<br>jadi p=36",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "56-siswa-dalam-sebuah-desa-43-anak-suka-nasi-goreng-37-anak-suka-646",
+            "question": "56 siswa dalam sebuah desa    43 anak suka nasi goreng\r\n37 anak suka mie goreng\r\n22 anak tidak suka keduanya\r\npertanyaan :\r\n1.berapa anak yang suka keduanya ???",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "56 = (43 - x) + (37 - x) + x + 22<br>56 = 102 + x<br>x = 46<br><br>jadi yang gemar keduanya adalah 46 anak...<br>semoga berguna:)",
+                    "attachments": []
+                },
+                {
+                    "answer": "[tex]S+I=L \\\\ 56+1=43+37+22 \\\\ 56+I=102 \\\\ I=102-56 \\\\I=46[/tex]<br><br>Keterangan:<br>S=seluruh\u00a0<br>I=Suka keduanya<br>L=Lain2nya",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-segitiga-sama-kaki-memiliki-panjang-sisi-yg-sama-dengan-5-250",
+            "question": "Sebuah segitiga sama kaki memiliki panjang sisi yg sama. Dengan 5    kali panjang sisi yg lainnya. Agar keliling segitiga tersebut lebih \r\n\r\n\r\n besar dari 50m. Berapakah panjang masing-masing sisi segitiga tersebut?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a=5<br>5 x 5 = 25 (2)<br>5+25+25<br>= 55<br>55&gt;50",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "ubahlah-masalah-nyata-berikut-ke-dalam-bentuk-pertidaksamaan-line-833",
+            "question": "Ubahlah masalah nyata berikut ke dalam bentuk pertidaksamaan linear satu variabel    a) sebuah bus dapat mengangkut tidak kurang dari enam puluh orang penumpang\r\nb) jarak rumah beni ke sekolah lebih dari 100 meter\r\nc) penghasilan ibu monika tidak lebih dari 2 juta per bulannya\r\nd) sebuah pesawat berada di ketinggian tidak kurang dari 3 ribu kaki di atas permukaan laut\r\ne) kecepatan udin berkendara tidak lebih dari 50 km/jam",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a) penumpang = x&gt;=60<br>b)x&gt;100<br>c) x&lt;=2<br>d) x&gt;=3<br>e) x&lt;=50",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-tenda-yang-terbuat-dari-kain-parasut-berbentuk-limas-denga-831",
+            "question": "Sebuah tenda yang terbuat dari kain parasut berbentuk limas dengan alas persegi jika panjang sisi alas nya 100 cm dan tinggi limas 120 cm maka hitunglah\u00a0    a.luas kain yang diperlukan utk membuat 1 tenda\r\nb.besar biaya yg di perlukan membuat 3 tenda yg sama jika harga 1 m2 kain adlah Rp.50.000\r\ntolong plise",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]<br>a.\\ L_{permukaan\\ limas}=L_{alas}+4L_{sisi\\ tegak}\\\\<br>L_{permukaan\\ limas}=100(100)+4\\frac{(100)(130)}{2}\\\\<br>L_{permukaan\\ limas}=10000+26000\\\\<br>L_{permukaan\\ limas}=36000\\ cm^2\\\\<br>L_{permukaan\\ limas}=3,6\\ m^2\\\\<br><br>b.\\ 3(3,6)(Rp50.000)=Rp140.000,00<br>[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "keliling-sebuah-belahketupat-120cm-jika-panjang-slah-satu-diag-913",
+            "question": "keliling sebuah belahketupat 120cm.\u00a0 jika panjang slah satu diagonalny 48cm.\u00a0 berapakah luas belahketupat\u00a0 tersebut..",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]\\text{K}=4\\times\\text{s}\\\\\n120=4\\times\\text{s}\\\\\n\\text{s}=120:4\\\\\n\\text{s}=30\\\\\\\\\n\\text{d}_2= \\sqrt{30^2-(48:2)^2} \\\\\n\\text{d}_2= \\sqrt{30^2-24^2}\\\\\n\\text{d}_2= \\sqrt{900-576}\\\\\n\\text{d}_2= \\sqrt{324}\\\\\n\\text{d}_2= 18\\times2=36\\text{ cm}\\\\\\\\\n\\text{L}= \\frac{\\text{d}_1\\times\\text{d}_2}{2} \\\\\n\\text{L}= \\frac{48\\times36}{2}~~(36:2=18)\\\\\n\\text{L}=48\\times18\\\\\n\\boxed{\\boxed{\\text{L}=864\\text{ cm}^2}}}[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "gan-jika-24m-12-itu-jawabanya-brp-sih-ganama-kasih-tau-caranya-636",
+            "question": "Gan jika 24m = 12 itu jawabanya brp sih gan,ama kasih tau caranya ane masih bingung",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "pindah ruas aja\u00a0<br>m = 12 / 24 = 1/2",
+                    "attachments": []
+                },
+                {
+                    "answer": "24M=12<br>M=12/24<br>M=1/2<br>Mungkin seperti ituu ya",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "p13579-tuliskan-semua-himpunan-bagian-yang-mungkin-dari-p-581",
+            "question": "P={1,3,5,7,9} tuliskan semua himpunan bagian yang mungkin dari p dan hitung banyaknya",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "kalau 1 anggotanya = 5<br>kalau 2 anggotanya = 10<br>kalau 3 anggotanya = 10<br>kalau 4 anggotanya = 5<br>kalau 5 anggotanya = 1<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "ubahlah-masalah-nyata-berikut-ke-dalam-bentuk-pertidaksaman-linea-706",
+            "question": "Ubahlah masalah nyata berikut ke dalam bentuk pertidaksaman linear satu variabel.    a) Sebuah bus dapat mengangkut tidak kurang dari enampuluh orang penumpang.\r\nb) Jarak rumah Beni ke sekolah lebih dari seratus meter.\r\nc) Penghasilan ibu Monika tidak lebih dari dua juta rupiah setiap bulannya.\r\nd) Sebuah pesawat berada diketinggian tidak kurang dari tiga ribu kaki di atas permukaanlaut.\r\ne) Kecepatan Udin berkendara tidak lebih dari 50 km/jam.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a. x&gt;=60<br>b.x&gt;100<br>c.x&lt;=2000000<br>d.x&gt;=3000<br>e.x&lt;=50",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,136 @@
+{
+    "question": "Siapakah penemu dari energi kinetik translasi dan energi rotasi ?",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "Gottfried Leibniz dan Johann Bernoulli",
+            "attachments": []
+        },
+        {
+            "answer": "pertama kali dikembangkan oleh Gottfried Leibniz dan Johan Bernouli.\u00a0",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "apa-yang-dimaksud-efek-compton-831",
+            "question": "Apa yang dimaksud efek compton",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>suatu efek yang merupakan bagian interaksi sebuah penyinaran terhadap suatu materi.</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dari-puncak-sebuah-menara-setinggi-45-m-dijatuhkan-sebuah-batu-j-959",
+            "question": "dari puncak sebuah menara setinggi 45 m dijatuhkan sebuah batu. jika percepatan gravitasi di tempat tersebut 10 m/s\u00b2, kecepatan batu saat tepat menyentuh tanah sebesar?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Dik = h : 45cm<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0g : 10 m/ [tex] s^{2} [/tex]\u00a0<br>Dit = V =  \\sqrt{2.g.h} ?<br>Penye =\n<br>V =  \\sqrt{2.10.45}<br>\u00a0 \u00a0=   \\sqrt{900}<br>\u00a0 \u00a0= 30[/tex]<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "EP = EK<br>mgh = 1/2 m v^2<br>gh = 1/2 v^2<br>45.10 = 1/2 v^2<br>900 = v^2<br>v = 30m/s<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-balok-dengan-masa-2kg-mula-mula-diam-terletak-di-atas-bida-543",
+            "question": "sebuah balok dengan masa 2kg mula mula diam terletak di atas bidang datar licin kemudian di dorong dengan sebuah gaya konstan mendatar sebesar F1=8N. setelah 3 s, F2= 8N dikerjakan pada benda dgn arah berlawanan dgn F1. besar perpindahan benda setelah 4 s pertama adalah?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Jawaban berupa lampiran",
+                    "attachments": [
+                        "answer-attachments/sebuah-balok-dengan-masa-2kg-mula-mula-diam-terletak-di-atas-bida-543-1.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "plis-siapa-yang-bisa-tolong-bantu-sebuah-tongkat-menyodok-bola-605",
+            "question": "Plis siapa yang bisa tolong bantu.\u00a0    sebuah tongkat menyodok bola biliard dengan gaya 80N selama selang waktu 0,5 sekon. jika massa bola adalah 200 gram. tentukan kelajuan bola sesaat setelah disodok.\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "I = momentum akhir - momentum awal <br>I = m.v - 0 ( karena kecepatan awal 0 ) <br>F.\u0394t = m.v <br>80 x 0.5=0,2 x v ( ingat semua harus diubah ke kg m sekon ) <br>v = 200m/s <br>mohon maaf kalau ada salah , semoga jawaban saya membantu<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-jari-jari-girasi-cakram-pejal-yang-memiliki-jari-jari-r-852",
+            "question": "Tentukan jari-jari girasi cakram pejal yang memiliki jari-jari R bila sumbu berada pada tepi cakram!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "girasi itu apa?<br>dan R itu nama atau jari jari(r)",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "contih-soal-hukum-hooke-570",
+            "question": "Contih soal hukum hooke?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Ketika seseorang yang bermasaa 60kg bergelantungan pada ujung sebuah pegas, pegas bertambah panjang 15 cm. tentukan terapan gaya pegas.",
+                    "attachments": []
+                },
+                {
+                    "answer": "sebuah pegas digantung pd statif, panjang mula mula adlh 40 cm, kemudian pd ujungnya digantungi beban seberat 1 kg ternyata panjang pegas menjadi 45 cm. tentukan besar konstanta pegas tersebut jika \u00a0g = 10 m/s\u00b2",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-bola-pejal-menggelinding-dari-keadaan-diam-menuruni-suatu-174",
+            "question": "Sebuah bola pejal menggelinding dari keadaan diam menuruni suatu bidang miring yang membentuk sudut 30\"(30derajat) terhadap arah mendatar. kelajuan linear bola ketika telah menempuh lintasan sejauh 3,5 m pada bidang adalah....    tentukan dengan menggunakan persamaan V=((2mgh)/(m+I/R^2))^1/2",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "kalau menurut saya , bikin segitiga dulu , kan sudutnya 30 dan sisi miring nya 3,5 , jadi { sin30 = [tex] \\frac{h}{3,5} [/tex] ==&gt; h = 3.5sin30 = [tex] \\frac{7}{4} [/tex] <br>jadi langsung aja karena bola pejal jadi kecepatan linearnya <u></u>v = [tex] \\sqrt{ \\frac{4}{3} . g . h} [/tex] <br>v = [tex] \\sqrt{ \\frac{4}{3}. 10 .  \\frac{7}{4}  } [/tex] (kalau g nya 9.8 masukan 9.8 ) <br>v = [tex] \\sqrt{ \\frac{70}{3} } m/s[/tex] <br>semoga jawaban saya membantu mas dimas <br>mohon maaf kalau ada salah2 hehe<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "besarnya-tegangan-yang-dilakukan-pada-sebuah-batang-adalah-2x106-688",
+            "question": "Besarnya tegangan yang dilakukan pada sebuah batang adalah 2x10^6 N/m^2. jika panjang batang adalah 4 meter dan modulus young elastisitasnya 2,5x10^8 N/m^2, maka pertambahan panjang batang adalah.... A. 0,8 cm B. 1,6 cm C. 3,2 cm D. 5,0 cm E. 6,4 cm \u00a0 dengan pembahasannya \u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "modulus young = stres /strain<br>2,5 . 10 ^8 N/m^2 = 2 . 10^6 N/m^2 . strain<br>2,5 . 10^ 8 N/m^2 / 2. 10^6 N/m^2 = strain<br>1,25 . 10^2 = strain<br><br>strain = pertambhan panjang / panjang awal<br>1,25 . 10^2 = pertambahn panjang / 4<br>1,25 .10^2 / 4 = pertambahn panjang<br>125 /4 = pertambahan panjang<br>31,25 m = pertambahn panjang<br>saya dapatnya gitu &gt;_&lt;",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "2-buah-kawat-panjang-lurus-sejajar-terpisah-pada-jarak-12cm-kawa-818",
+            "question": "2 buah kawat panjang lurus sejajar terpisah pada jarak 12cm. kawat pertama dialiri arus 4A, kawat kedua 6A. tentukan besar induksi magnet pada titik yang berada diantara 2 kawat tersebut dan berjarak 4cm dari kawat pertama?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "besar\u00a0induksi magnet=12",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-tali-dengan-panjang-08-m-dapat-mengerjakan-gaya-sebesar-4-345",
+            "question": "sebuah tali dengan panjang 0,8 m dapat mengerjakan gaya sebesar 4 N tanpa putus. tali itu digunakan untuk mengayunkan suatu benda bermassa 0,5 kg dalam suaru lingkaran horizontal. tentukan periode minimum agar benda dapat diayun tanpa menyebabkan tali putus.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "F= 4 N<br>r= 0,8m<br>m= 0,5 kg<br><br>T=F=mv^2/r<br>v^2 = F . r/m<br>v^2 = 4 . 8/5 =32/5 = 6,4<br><br>v= omega . r<br>v^2= omega^2 . r^2<br>6,4 = omega^2 . 0,8^2<br>omega^2= 6,4/0,64<br>omega^2 = 10<br>omega =\u221a10<br><br>omega= 2 phi /T<br>T= 2 phi / omega<br>T = 2 phi/ \u221a10<br><br>(maaf kalo salah, mata ane udah tinggal 5 watt)<br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

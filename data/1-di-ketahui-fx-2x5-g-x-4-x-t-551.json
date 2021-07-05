@@ -1,0 +1,134 @@
+{
+    "question": "1. di ketahui f(x) = 2x+5    \u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 g (x) = 4-x\r\ntentukan a. fog (x)\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 c. gof (x)\r\n\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 b. fog -1 (x)\u00a0 \u00a0 \u00a0 d. gof -1 (x)\r\n\r\ngimana caranya ni aku gx ngerti ka mohon di bantu ya\r\nmakasih",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "[tex]f(x)=2x+5\\\\\ng(x)=4-x\\\\\nfog(x)=f(g(x))\\\\\nfog(x)=f(4-x)\\\\\nfog(x)=2(4-x)+5=13-2x\\\\\n\\\\\nfog(x)=13-2x\\\\\nfog(x)-13=-2x\\\\\nx=\\frac{fog(x)-13}{-2}\\\\\nnyatakan\\ sebagai\\ fog^{-1}(x)\\\\\nfog^{-1}(x)=\\frac{13-x}{2}\\\\\\\\\ngof(x)=g(f(x))\\\\\ngof(x)=g(2x+5)=4-(2x+5)\\\\\ngof(x)=-2x-1\\\\\\\\\ngof(x)=-2x-1\\\\\ngof(x)+1=-2x\\\\\nx=\\frac{-gof(x)-1}{2}\\\\\nnyatakan\\ sebagai\\ gof^{-1}(x)\\\\\ngof^{-1}(x)=\\frac{-x-1}{2}\\\\[/tex]",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "nilai-x-yang-memenuhi-x-20-lt-0-adalah-pliss-bantu-313",
+            "question": "Nilai x yang memenuhi : \u00a0+ x - 20 &lt; 0 adalah ?\r\npliss bantu......",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "silakan dipelajari dan dipahami",
+                    "attachments": [
+                        "answer-attachments/nilai-x-yang-memenuhi-x-20-lt-0-adalah-pliss-bantu-313-1.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "selidiki-persamaan-kuadrat-berikut-a-x2-2x10-b2x2-2x0-c3-574",
+            "question": "Selidiki persamaan kuadrat berikut:    a) x\u00b2-2x+1=0\r\nb)2x\u00b2-2x=0\r\nc)3x\u00b2-2x+10=0\r\nd)x\u00b2-10=0\r\nberikan jawabannya dengan cara jalannya\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1). (x-1).(x-1)<br>2). (2x-2).(x-0)<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-dijawab-ya-442",
+            "question": "Tolong dijawab ya :)",
+            "attachments": [
+                "question-attachments/tolong-dijawab-ya-442-1.docx"
+            ],
+            "answers": [
+                {
+                    "answer": "apaan itu kk itu pel kls brp<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "buatlah-contoh-soal-barisan-dan-deret-aritmatika-dalam-teknologi-634",
+            "question": "Buatlah contoh soal barisan dan deret aritmatika dalam teknologi informasi",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Barisan aritmatika:<br>Hitung suku ke-n,<br>1)3,8,13,18............ U50<br>2)24,21,18..............U20<br><br>Deret aritmatika:<br>5,8,11,14<br>Tentukan:<br>a.Suku yg ke -20<br>b. jumah bilangan sampai suku yang ke 20(Sn)<br><br>Semoga membantu.<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-diketahui-gxx2-6x-hx7-3x-a-g0hx-b-h0g-254",
+            "question": "Jika diketahui g(x)=x\u00b2-6x, h(x)=7-3x\r\na. (g\u2080h)(x) =\r\nb. (h\u2080g)(x) =",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "g\u00a0o\u00a0h(x) = 49 - 42x +9x^2 - 6(7 - 3x)<br>=\u00a049 - 42x +9x^2 - 42 + 18x<br>=\u00a09x^2 - 24x + 7<br><br>h o g(x) = 7 - 3(x^2 - 6x)<br>= 7 - 3x^2 + 18x<br>= -3x^2 +18x +7",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span>g o h(x)<br>g (7-3x)<br>(7 - 3x)^2 - 6(7-3x)<br>49 - 42 + 9x^2 - 42 + 18x<br>9x^2 - 24x +7</span>\n    <span>\n                    \n                                    l<br></span> <span>h o g(x)<br>h (x^2 - 6x)<br>7 - 3(x^2 - 6x)<br>7 - 3x^2 + 18x<br>-3x^2 + 18x + 7</span><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "b-x-x-lt-10-x-eur-bilangan-prima-837",
+            "question": "B = { x | x &lt; 10 ; x \u20ac bilangan prima }",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "2,3,5,7<br>itu adalah angka prima yang kurang dari 10",
+                    "attachments": []
+                },
+                {
+                    "answer": "B = {x l x &lt; 10 , x elemen bilangan prima}<br>Jawab :<br>B = { 2,3,5,7}<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-fungsi-kuadrat-mempunyai-nilai-maksimum-3-pada-saat-x-2-852",
+            "question": "sebuah fungsi kuadrat mempunyai nilai maksimum -3 pada saat x = 2, sedangkan untuk x = -2 fungsi bernilai -11. Tentukan fungsi kuadrat tersebut.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "f(x) = 2xkuadrat + 2x - 15",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dari-angka-angka-12468-dan-9-akan-disusun-3-angka-berbeda-p-326",
+            "question": "dari angka angka 1,2,4,6,8, dan 9 akan disusun 3 angka berbeda. peluang kejadian muncul angka genap kurang dari 500 adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "angka genap kurang dari 500.<br><br><strong>seratusan</strong><br>1 x 4 x\u00a04 = 16<br><strong>2-ratusan</strong><br>1 x 4\u00a0x 3 = 12<br><strong>4-ratusan</strong><br>1 x 4 x 3 = 12<br>16 + 12 + 12 = 40<br><br>Semesta = 4\u00a0x\u00a05\u00a0x\u00a06 = 120<br><br>[tex]Peluang =  \\frac{40}{120} = \\frac{1}{3} [/tex]<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "x-1-dan-x-2-adalah-akar-akar-persamaan-kuadrat-2x2-768",
+            "question": "\u00a0x_{1}\u00a0dan\u00a0\u00a0x_{2} adalah akar akar persamaan kuadrat 2x^{2} + 3x -6 = 0.Tentukan 2x1x2^{2} + 2 x1^{2}x2",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]2x_1x^2_2+2x^2_1x_2=2x_1x_2(x_1+x_2)\\\\\\\\\n2x_1x^2_2+2x^2_1x_2=2(\\frac{-6}{2})(-\\frac{3}{2})\\\\\\\\\n2x_1x^2_2+2x^2_1x_2=9[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-xy-23-adalah-penyelesaian-dari-sistempersamaan-ax-b-844",
+            "question": "Jika (x,y) =(2,3) adalah penyelesaian dari sistempersamaan\r\nax + by=1\r\nay - bx=8",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "substitusikan nilai (x,y) dalam pers.<br><br>a(2) + b(3) = 1<br>a(3) - b(2) = 8<br><br>2a + 3b = 1 .... x3<br>3a - 2b = 8 .... x2<br><br>6a + 9b = 3<br>6a - 4b = 16<br>(dikurang), maka<br>13b = -13<br><strong>b = -1</strong><br><br>subs b ke pers 1.<br><br>2a + 3(-1) = 1<br>2a -3 = 1<br>2a = 4<br><strong>a = 2</strong><br><br><br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,148 @@
+{
+    "question": "Tentukan nilai x jika , (2x+1)+(2x+2)+(2x+3)+...+(2x+50)=4275",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "(2x + 1) + (2x + 2) + (2x + 3) +...+(2x + 50) = 4275<br> = (2x) x 50\u00a0+ (1 + 2 + 3\u00a0+...+ 50)<br>=\u00a0100x + 1275<br>100x = 4275\u00a0- 1275<br>100x = 3000<br>\u00a0 \u00a0 \u00a0x =\u00a0[tex] \\frac{3000}{100} [/tex]<br>\u00a0 \u00a0 \u00a0x = 30<br><br>jadi, nilai x adalah 30",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "gan-ane-tanya-lagi-25-4y-6y-15-itu-caranya-gmn-si-ama-4x-284",
+            "question": "Gan ane tanya lagi\u00a0 25-4y = 6y +15 itu caranya gmn si?\r\nama\u00a0 -4x - 15 =1 -8x tolong di respawn gan",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "25 - 4y = 6y + 15<br>25 - 15 = 6y + 4y<br>10 = 10y<br>1 = y<br><br>-4x - 15 = 1 - 8x<br>-4x + 8x = 15 + 1<br>4x = 16<br>x = 4<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "25 - 4y = 6y + 15<br>-4y - 6y = 15 - 25<br>-10y = -10<br>y = 1<br><br>-4x - 15 = 1 - 8x<br>-4x + 8x = 1 + 15<br>4x = 16<br>x = 4<br><br>Tapi maaf kalo salah",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "irsan-adalah-seorang-agen-minyak-tanahdia-membeli-500-liter-miny-696",
+            "question": "irsan adalah seorang agen minyak tanah.dia membeli 500 liter minyak,kemudian dijual eceran dengan harga 11.500,00 tiap liter.untung yang diperoleh \u00a0irsan adalah 200.000,00.berapa rupiahkah yang harus dikeluarkan irsan untuk membeli minyak tanah tersebut ? tolong dijawab bingung nih !",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Harga jual = 11.500 x 500 = 5.750.000<br>untung = 200.000<br>jadi, harga belinya = 5.750.000 - 200.000 = 5.550.000<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "habcdef-tulislah-semua-himpunan-bagian-dari-h-yg-mempunya-939",
+            "question": "H=(a,b,c,d,e,f)\r\ntulislah semua himpunan bagian dari H yg mempunyai 5anggota!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<strong>5 anggota</strong> = 6 <br>{a, b, c, d, e}; {a, b, c, d, f}; {a, b, c, e, f}; {a, b, d, e, f}; {b, c, d, e, f}; {a, c, d, e, f}<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bilangan-cacah-kurang-dari-15-852",
+            "question": "Bilangan cacah kurang dari 15",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "satu sampai empat belas<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "nyatakan-dalil-pythagoras-dalam-bentuk-rumus-pada-segitiga-siku-s-314",
+            "question": "Nyatakan dalil pythagoras dalam bentuk rumus pada segitiga siku siku \u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "semog membantu dn bermanfaat",
+                    "attachments": [
+                        "answer-attachments/nyatakan-dalil-pythagoras-dalam-bentuk-rumus-pada-segitiga-siku-s-314-1.jpg"
+                    ]
+                },
+                {
+                    "answer": "ckuadrat = akuadrat+Bkuadrat",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dari-himpunan-himpunan-dibawah-ini-manakah-yang-merupakan-himpuna-642",
+            "question": "Dari himpunan-himpunan dibawah ini manakah yang merupakan himpunan yang ekuivalen?    a. P = {1, 2, 3, 4}\r\nb. Q = {a, b, c}\r\nc. R = {x, y, z, m, n}\r\nd. S = {a, i, u, o, f}\r\ne. T = [a, m, n}",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "b dan e<br>maaf kalau ada yang salah...,<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "b dan e<br>c dan d ...........................",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "2-per-3-2a35-per-6-a-5-506",
+            "question": "2 per 3 (2a+3)=5 per 6 (a-5)=",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "2/6a+9 = 5/6a-30<br>12a-60 = 30a+45<br>-105 = 18a<br>a= -105/18",
+                    "attachments": []
+                },
+                {
+                    "answer": "[tex] \\frac{2}{3} (2a+3)= \\frac{5}{6} (a-5)  [/tex]<br><br>[tex] \\frac{4a+6}{3} =  \\frac{5a-25}{6} [/tex]<br><br>3(5a-25)=6(4a+6)<br><br>[tex]15a-75=24a+36[/tex]<br><br>15a-24a=36+75<br>-9a=111<br>a=111/-9<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "contoh-teks-eksplanasi-tsunami-504",
+            "question": "Contoh teks eksplanasi tsunami",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1.pengertian tsunami<br>2.saat terjadinya tsunami<br>3.akibat dari terjadinya tsunami<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Tsunami adlh serangkaian gelombang yg terbentuk karena gempa/letusang gunung api di bawah laut/daratan pantai.Tsunami tercipta saat permukaan laut bergerak naik turun (pergeseran lempeng di dasar laut) disepanjang patahan selama gempa terjadi.Selain itu,tsunami juga tercipta karena meletusny gunung api yg menyebabkan pergerakan air laut/perairan sekitarny yg tinggi.Gelombang tsunami yg terjadi di laut melaju lebih cepat daripada gelombang normal.Gelombang tsb menyebar ke segala arah dengan ketinggian 30-50 m dan kec 800 km/jam.Ketika gelombang tsunami memasuki air dangkal,kecepatannya akan menurun dan ketinggiannya bertambah.Tsunami selalu menyebabkan kerusakan besar bagi manusia.Kerusakan yg paling besar terjadi ketika gelombang besar tsunami itu mengenai pemukiman manusia sehingga menyeret apa saja yg dilaluiny.",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "himpunan-penyelesaian-dari-2-3-x-5-2-7-x-3-931",
+            "question": "Himpunan penyelesaian dari 2\u00a0(\u00a03\u00a0x\u00a0+\u00a05\u00a0) - 2 (\u00a07 x - 3 ) = x + 7",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "= 6x + 10 - 14x + 6 = x + 7<br>= -8x + 16 \u00a0= x + 7<br>= -8x - x \u00a0= 7 - 16<br>= -9x = -9<br>= x = 1",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "ubalah-satuan-sudut-berikut-ke-dalam-derajat-1-360-menit-2-948-227",
+            "question": "Ubalah satuan sudut berikut ke dalam derajat    1. 360 menit\r\n 2. 948 menit\r\n 3. 1.020 menit\r\n 5. 75.600 detik",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1. (360*60)/360 = 60<br>2. (948*60)/360 = 158<br>3. (1020*60)/360 = 170<br>4. (75600/360) = 210<br><br>mungkin seperti itu yang dimaksud!!!<br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

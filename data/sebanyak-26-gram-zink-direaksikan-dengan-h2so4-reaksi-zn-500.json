@@ -1,0 +1,144 @@
+{
+    "question": "sebanyak 2,6 gram zink direaksikan dengan\u00a0 H\u2082SO\u2084 reaksi : Zn + H\u2082SO\u2084=ZnSO\u2084 + H\u2082. Hitunglah berapa gram H\u2082SO\u2084 diperlukan agar zink tepat habis bereakasi ?\u00a0 dan berapa liter gas H\u2082 terjadi jika pada keadaan dimana 1 liter gas CH\u2084 beratnya 0,64 gram ?",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "karena ga diketahuin Ar nya, saya liat Ar dari tabel periodik<br>Zn = 65<br>S = 32<br>O = 16<br>cari mol zink gunakan rumus\u00a0[tex]n= \\frac{m}{Mr} [/tex]<br><br>[tex]n =  \\frac{2,6}{65} [/tex] = 0,04 mol<br><br>berarti mol asam sulfat juga sama = 0,04 mol, dan massa yang diperlukan untuk habis bereaksi = Mr dikali mol<br>Mr H\u2082SO\u2084 = (2+32+16.4)<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 98<br>Massa-nya = 98 x 0,04<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 <strong>= 3,92 gram<br></strong><br>berapa liter gas H\u2082 dihasilkan? jika saya asumsikan 1 liter CH\u2084 Massanya 0,64 gram?<br>disini kita tidak mengetahui Vm (volume molar) nya oleh karena itu dapat kita cari dari tahap2 berikut :<br>mol dapat dicari dari\u00a0[tex] \\frac{m}{Mr} [/tex]<br>Mr CH\u2084 = 16<br>0,64 / 16 = \u00a00,04<br>n = V/Vm<br>Vm = V / n<br>Vm = 1/0,04<br>\u00a0 \u00a0 \u00a0 \u00a0= 25<br>liter gas H\u2082 yang dihasilkan = n x Vm<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 0,04 x 25<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0=<strong> 1 liter</strong><br><br><br><br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "suatu-larutan-basa-kuat-koh-sebanyak-100-ml-memiliki-ph-12-dal-141",
+            "question": "suatu larutan basa kuat KOH sebanyak 100 ml memiliki ph = 12. dalam larutan tersebut terlarut KH (Ar K = 39 , O = 16 , H = 1)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "prolog :<br>konsenp pH adalah konsep kekuatan asam di dalam air. pH adalah power of Hydrogen yang hanya boleh dicek pada keadaan air. maka sudah dapat dipastikan, senyawa yang pekat tidak memiliki konsep pH.<br><br>pH 12 adalah pH basa. maka pasti memiliki nilai pOH<br>nilai pOH = 14 - pH<br>pOH = 14-12 = 2<br>pOH = -log [OH-]<br>maka nilai OH-\u00a0 adalah 10^-2 mol/L<br>jika yang tersedia hanyalah 100 ml atau 0,1 L, maka jumlah mol yang terlarut adalah 10^-3 mol.<br>jika dikonversikan ke gram, maka nilainya 10^-3 x Mr KOH(56) = 0,056 gram<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "cara-menuliskan-reaksi-osidasi-logam-besi-dgn-konsep-elktron-394",
+            "question": "Cara menuliskan reaksi osidasi logam besi dgn konsep elktron",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "caranya kalo oksidasi itu adalah bertambahnya elektron dalam suatu reaksi contohnya fe2+ jadi fe3+<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "begini,<br>oksidasi menurut konsep elektron itu adalah dengan melepas elektron,<br>cara paling mudah mengingat reaksi oksidasi/reduksi menurut konsep elektron\u00a0 adalah<br>reaksi oksidasi = elektron ada di kanan tanda panah<br>reaksi reduksi = elektron ada di kiri tanda panah<br><br>untuk reaksi oksidasi besi ada 2 (karena besi memilki 2 biloks)<br>Fe\u00a0 ---&gt; Fe^3+\u00a0  +\u00a0  3e<br>Fe\u00a0 ---&gt; Fe^2+\u00a0  +\u00a0 2e<br><br>^ dibaca pangkat :)<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "penjelasan-tentang-asam-dan-basa-bagaimana-cara-menbedakannya-555",
+            "question": "Penjelasan tentang asam dan basa\r\nbagaimana cara menbedakannya",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "asam adalah senyawa yang dalam air menghasilkan ion H+<br>basa adalah senyawa yang dalam air menghasilkan ion OH-<br><br>cara membedakannya dapat menggunakan alat yaitu<br>indikator universal<br>indikator alami,dll<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "asam bersifat korosif, asam memiliki rasa asam,asam menghasilkan ion H+ dalam air, asam memiliki pH kurang dari 7<br>basa bersifat kaustik (merusak kulit), terasa licin ditangan,terasa pahit,\u00a0 menghasilkan ion OH dalam air, basa memiliki pH lebih dari atau sama dengan 7<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apa-yang-kamu-ketahui-tentang-gravimetri-140",
+            "question": "Apa yang kamu ketahui tentang\u00a0Gravimetri ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "salah satu metode kimia analitik\u00a0untuk menentukan kuantitas suatu zat atau komponen yang telah diketahui dengan cara mengukur\u00a0berat\u00a0komponen dalam keadaan murni setelah melalui proses pemisahan. Analisis gravimetri melibatkan proses isolasi dan pengukuran berat suatu\u00a0unsur\u00a0atau\u00a0senyawa\u00a0tertentu.",
+                    "attachments": []
+                },
+                {
+                    "answer": "salah satu metode analisis kuantitatif suatu zat\natau komponen yang telah diketahui dengan cara pengukuran berat komponen dalam\nkeadaan murni setelah melalui proses pemisahan.<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "50-reaksi-penetralan-asam-basa-233",
+            "question": "50 reaksi penetralan asam - basa",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "HCl + NaOH -&gt; NaCl + H2O<br>H2SO4 + KOH -&gt; KSO4 + H2o<br>H3PO4 + Ca (OH)2 -&gt;Ca3(PO4)2 + H2O<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span>Mengingat asam dalam air menghasilkan ion H + dan basa dalam air akan menghasilkan ion OH -, maka bila kedua larutan dicampur ion H+ akan bereaksi dengan ion OH - menghasilkan air. Larutan tidak lagi bersifat asam maupun basa, reaksi semacam ini disebut reaksi netralisasi (penetralan)</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "hitunglah-titrasi-dari-01-m-hcl-25-ml-dengan-02-m-naoh-799",
+            "question": "Hitunglah titrasi dari 0,1 m HCl 25 ml dengan 0,2 m NaOH !",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "jadi titrasi dari pertanyaan anda adlah 120",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tuliskan-semua-ion-yang-ada-dalam-larutan-berikut-kalium-hidrok-900",
+            "question": "Tuliskan semua ion yang ada dalam larutan berikut:    -kalium hidroksida\r\n -asam asetat\r\n -magnesium sulfat\r\n -asam fosfat\r\n -larutan NH4CL",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>Tuliskan semua ion yang ada dalam larutan berikut :\n</p><ul><li>Kalium hidroksida \u00a0(KOH)</li></ul><p>KOH \u00a0\u21d2 \u00a0K\u207a + OH\u207b</p><ul><li>Asam asetat \u00a0(CH\u2083COOH)</li></ul><p>CH\u2083COOH \u00a0\u21d2 \u00a0CH\u2083COO\u207b + H\u207a</p><ul><li>Magnesium sulfat \u00a0(MgSO\u2084)</li></ul><p>MgSO\u2084 \u00a0\u21d2 \u00a0Mg\u00b2\u207a \u00a0+ \u00a0SO\u2084\u00b2\u207b</p><ul><li>Asam fosfat \u00a0(H\u2083PO\u2084)</li></ul><p>H\u2083PO\u2084 \u00a0\u21d2 \u00a03H\u207a \u00a0+ \u00a0PO\u2084\u00b3\u207b</p><ul><li>Larutan ammonium klorida (NH\u2084Cl)</li></ul><p>NH\u2084Cl \u00a0\u21d2 \u00a0NH\u2084\u207a \u00a0+ \u00a0Cl\u207b</p><p><strong>Pembahasan :</strong></p><p>Reaksi ionisasi merupakan reaksi perubahan atom atom menjadi ion ion yang bermuatan listrik. ion ion yang terurai ini akan terurai menjadi ion positif dan ion negatif. Rumus umum ionisasi yaitu sebagai berikut :\n</p><p>Rumus umum ionisasi asam\n</p><p><strong>HxA (aq) \u21d2 XH\u207a (aq) + AX\u207b (aq)\n</strong></p><p>Keterangan :\n</p><p>H : unsur atom hidrogen\n</p><p>X : indeks atau jumah H\n</p><p>A : atom dari unsur lain, misal O, C dsb. A ini dapat terdiri dari satu usur, dua unsur dan seterusnya.\n</p><p>(aq) : aqueous = larutan\n</p><p>Contoh : \u00a0</p><p>H\u2082SO\u2084 \u00a0\u21d2 \u00a02H\u207a + SO\u2084\u00b2\u207b\n</p><p>HCl \u21d2 H\u207a + Cl\u207b\n</p><p>\nRumus umum ionisasi basa\n</p><p><strong>L(OH)\u2093 (aq) \u21d2 L\u02e3\u207a (aq) + XOH\u207b(aq)\n</strong></p><p>Contoh :\n</p><p>NaOH \u00a0\u21d2 \u00a0Na\u207a + OH\u207b\n</p><p>Sr(OH)\u2082 \u21d2 \u00a0Sr\u00b2\u207a \u00a0+ 2OH\u207b\n</p><p>Rumus umum ionisasi garam\n</p><p>A<strong>xBy (aq) \u21d2 XAy\u207a (aq) + YB\u02e3\u207b (aq)\n</strong></p><p>Contoh :</p><p>NaNO\u2083 \u21d2 Na\u207a \u00a0+ NO\u2083\u207b\n</p><p>CaSO\u2084 \u00a0\u21d2 \u00a0Ca\u00b2\u207a + SO\u2084\u00b2\u207b\n</p><p><strong>Pelajari lebih lanjut :\n</strong></p><p>Materi tentang reaksi ionisasi https://brainly.co.id/tugas/2368149\n</p><p>Materi tentang reaksi ionisasi \u00a0https://brainly.co.id/tugas/34047\n</p><p>Materi tentang reaksi ionisasi garam brainly.co.id/tugas/1836605\n</p><p>______________________________________________________\n</p><p><strong>Detail Jawaban :\n</strong></p><p>Kelas : 10\n</p><p>Mata pelajaran : Kimia\n</p><p>Bab : 5\n</p><p>Kode : 10.7.5\n</p><p>kata Kunci : Reaksi ionisasi\n</p>",
+                    "attachments": [
+                        "answer-attachments/tuliskan-semua-ion-yang-ada-dalam-larutan-berikut-kalium-hidrok-900-1.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "apakah-larutan-elektrolit-selalu-bermuatan-netral-406",
+            "question": "Apakah larutan elektrolit selalu bermuatan netral?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Tidak karena di dalam larutan elektrolout mempunyai 3 muatan yaitu Positif, Negatif, dan Netral<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "tidak semua . karena ada 2 macan elektrolit . elektrolit lemah dan kuat<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tugas-kimia-3-zat-a2b-terurai-menurut-reaksi-2-abg-2-139",
+            "question": "Tugas kimia .     3. Zat A\u2082B terurai menurut reaksi :\r\n\r\n2 AB(g) \u21d4 2 A(g) + B\u2082(g)\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 Kc= 2,5 x 10 \u0304\u00b2\r\n\r\nTentukan Kp pada suhu 27\u00b0C (R=0.082 L atm mol \u0304\u00b9 K \u0304\u00b9)!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kp = Kc ( R kali T)<u></u>pangkat n<br>n = (2 + 1) -1<br><br>Kp = 2,5 x 10 pangkat -2 ( 0,082 x 27)pangkt 2<br>\u00a0\u00a0 \u00a0 = 1,23 x 10 pankat - 2<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "10-ml-larutan-naoh-001-m-diencerkan-sampai-volumenya-1000-ml-ma-572",
+            "question": "10 mL larutan NaOH 0,01 M diencerkan sampai volumenya 1000 mL, maka berapa PH-nya ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "10.0,01=1000.M<br>0,1 = 1000M<br>M = 1x10\u207b\u2074<br>pOH = -log 1x10\u207b\u2074<br>pOH = 4<br>pH = pKw - pOH<br>\u00a0 \u00a0 = 14 - 4<br>\u00a0 \u00a0 =<strong>\u00a010</strong>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

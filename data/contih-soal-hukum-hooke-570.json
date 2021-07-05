@@ -1,0 +1,140 @@
+{
+    "question": "Contih soal hukum hooke?",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "Ketika seseorang yang bermasaa 60kg bergelantungan pada ujung sebuah pegas, pegas bertambah panjang 15 cm. tentukan terapan gaya pegas.",
+            "attachments": []
+        },
+        {
+            "answer": "sebuah pegas digantung pd statif, panjang mula mula adlh 40 cm, kemudian pd ujungnya digantungi beban seberat 1 kg ternyata panjang pegas menjadi 45 cm. tentukan besar konstanta pegas tersebut jika \u00a0g = 10 m/s\u00b2",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "sebuah-benda-jayuh-bebas-dati-ketinggian-di-atas-tanah-g-10-ms-839",
+            "question": "Sebuah benda jayuh bebas dati ketinggian di atas tanah (g = 10 ms). Kecepatan benda saat berada pada ketinggian 5 meter di atas tanah adalah..    terimakasih ^^",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "v = akar 2 g x h<br>v = akar 2.10.5<br>v = akar 100<br>v = 10<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "empat-buah-pegas-masing-masing-mempunyai-konstanta-elastis-1600-n-216",
+            "question": "empat buah pegas masing masing mempunyai konstanta elastis 1600 N/m. Beban w di gantung menyebabkan pertambahan panjang 5 cm. Hitung berat beban w!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "k =1600n/m<br>delta x = 5 cm = 0.05 m<br>w? w=f=k. delta x<br>W=F=1600.0.05<br>W=80 N<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apa-yang-dimaksud-benda-tegar-281",
+            "question": "Apa yang dimaksud benda tegar",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "benda yang tidak akan berubah bentuknya setelah diberi suatu gaya pada benda tersebut.",
+                    "attachments": []
+                },
+                {
+                    "answer": "benda tegar adalah istilah dalam fisika terhadap benda yang tidak akan berubah bentuknya setelah diberikan gaya pada benda itu,pada benda tegar titik harus berada pada jarak yang sama,sehinga titik2 lainnya sering sekali berbentuk lingkaran :)",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "seorang-siswa-memiliki-massa-60-kg-jika-percepatan-gravitasi-bum-135",
+            "question": "seorang siswa memiliki massa 60 kg, jika percepatan gravitasi bumi 10 m/s\u00b2, dan percepatan bulan 5,6 m/s\u00b2. htung berat siswa tsb di bumi dan di bulan? jelaskan dengan diket, tanya, dan jawab. trim's",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "diket:<br>m = 60 Kg<br>g bumi = 10 m/s\u00b2<br>g bulan= 5,6 m/s\u00b2<br><br>tanya :<br>W\u00a0bumi ...?<br>W bulan...?<br><br>jawab :<br>\u00a0W\u00a0bumi = m . g bumi<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 60 Kg . 10 m/s\u00b2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 600 kg.m/s\u00b2 atau 600 Newton<br><br>W\u00a0bulan = m. g bulan<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 60 kg. 5,6 m/s\u00b2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 336,0 kg.m/s\u00b2 atau 336 Newton",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apa-yang-mempengaruhi-elastisitas-sebuah-bahan-526",
+            "question": "Apa yang mempengaruhi elastisitas sebuah bahan ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "faktor yang utama adalah struktur penyusunnya . maaf kalo salah",
+                    "attachments": []
+                },
+                {
+                    "answer": "Bahan tersebut elastisitasnya dipengaruhi oleh gaya potensial yg terkandung pd bahan tsb serta bahan penyusun atau strukturnya .",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-benda-bergerak-dari-keadaan-diam-dan-setelah-10-detik-kece-952",
+            "question": "sebuah benda bergerak dari keadaan diam dan setelah 10 detik kecepatannya 40m/s.jarak yang telah ditempuh adalah?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "s = v/t<br>s = 40/10 = 4\u00a0",
+                    "attachments": []
+                },
+                {
+                    "answer": "s=v.t = 40 m/s . 10 s<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 400 meter\u00a0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-benda-berotasi-dengan-momen-inersia-25-m2-dan-kec-625",
+            "question": "sebuah benda berotasi dengan momen inersia 2,5\u00a0\u00d7\u00a0\u00a0m\u00b2 dan kecepatan sudut awal 5 rad/s , agar benda itu berhenti dalam waktu 2,5 sekon maka besar momen gaya yang harus dikerjakan adalah...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>torsi= I.\u03b1---&gt; \u03c9t=\u03c9o + \u03b1. t</p><p>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a00 = 5 + \u03b1.2,5</p><p>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0-5\u00a0= \u03b1.2,5</p><p>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 \u03b1=-0,5</p><p>torsi= I . \u03b1= 2,5 x\u00a0-0,5=-1,25</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1apa-pengaruh-gaya-pada-pegas-2apa-yang-mempengaruhi-elastisi-991",
+            "question": "1.Apa pengaruh gaya pada pegas??    2.apa yang mempengaruhi elastisitas sebuah bahan??\r\n 3.apakah semua jenis menyebabkan pertambahan panjang pegas??\r\n 4.apakah yang dimaksud energi potensial??dan apakah energi potensial pada pegas yang disusun seri sama dengan yang disusun paralel??",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1. jika gaya yang diberikan pada pegas lebih besar maka pegas akan mengalami putus atau tidak dapat memendek seperti semula.<br>2. tegangan dan regangan, gaya , jenis bahan<br>3. ya<br>4. energi potensial adalah hasilkali antara massa . grafitasi dan perubahan panjang pegas<br>susunan seria. gaya pengganti F yang menarik seluruh pegas \u00a0adalah sama dengan gaya yang bekerja pada masing masing pegas.Fp=F1=F2=F3b. bertambahnya panjang x pegas pengganti sama dengan jumlah pertambahan pangjang pada masing masing pegas.Xs=x1+x2+x3 . . . .\u00a0<br>susunan pararela. gaya pengganti F yang menarik seluruh pegas adalah sama dengan jumlah gaya yang bekerja pada masing masing pegas. Fp=F1+F1+ . . . +F5b. pertambahan pada pegas pengganti X \u00a0sama besar dengan partambahan panjang pada masing masing pegas.Xp=x1=x2=x3<br>modulus elastisitas atau modulus young adalah angka yang menggambarkan tingkat elastisitas bahan. semakin tinggi elastisitasnya, berarti bahan semakin kaku.<span>rumus \u2208=tegangan/regangan</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "perhatikan-gambar-dibawah-ini-berikan-penjelasanya-juga-yaaa-ji-601",
+            "question": "Perhatikan gambar dibawah ini    Berikan penjelasanya juga yaaa..\r\n\r\nJika diketahui\u00a0\r\nI = 1,6 A\r\nI1 = 0,3 A\r\nI1 = I2 \u00a0dan\u00a0I3 =I4\r\nmaka\u00a0I4??\r\n\r\na. 0,3 A\r\nb. 0,5 A\r\nc. 1,3A\r\nd. 7A",
+            "attachments": [
+                "question-attachments/perhatikan-gambar-dibawah-ini-berikan-penjelasanya-juga-yaaa-ji-601-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "sesuai hukum kirchof, jumlah arus yang masuk sama dengan jumlah arus yang kluar,\u00a0<br>maka : I = I1 +I2 + I3 + I4<br>karena I1=I2 , sehingga\u00a0jika I1=0,3, maka I2=0,3<br>juga I3 = I4 \u00a0 \u00a0 (substitusi semua ke pers awal)<br>I = I1 +I2 + I3 + I4<br>1,6= o,3 +0,3+ I3 + I3<br>1,6 = 0,6 +2(I3)<br>2(I3) = 1<br>I3 = 0,5<br>karena I3 = I4, maka I4 = 0,5<br>jawaban b)",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-saya-membutuhkan-3-soal-yang-berkaitan-dgn-vektor-645",
+            "question": "Tolong saya membutuhkan 3\u00a0soal yang berkaitan dgn Vektor.?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>vektor gaya yang sama, masing\u00b2 besarnya 10newton,<br>tentukan nilai resultan masing\u00b2 vektor.,?<br><br></span>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

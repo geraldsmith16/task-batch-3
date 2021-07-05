@@ -1,0 +1,138 @@
+{
+    "question": "Rangkaian RL seri dihubungkan dengan sumber tegangan arus bolak balik dengan Vm=100v, hambatan R=80 ohm. Arus maksimum pada rangkaian sebesar 1 A .    tentukan :\r\na. impedansi rangkaian\u00a0\r\nb. reaktansi induktif\r\nc. teganagan antara ujung2 induktor\r\n\r\nmohon bantuannya?",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "wow jawabannya kalo panjang gapapa tha kak<br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "1batang-logam-panjangnya-300cm-dipanaskan-dari-25derajat-c-hing-479",
+            "question": "1.)Batang logam panjangnya 300cm dipanaskan dari 25derajat C hingga 225derajat C mengalami pertambahan panjang sebesar 0,6cm.Berapa pertambahan batang logam yang sama dengan panjang 200cm dan dipanaskan dari 20derajat hingga suhu 320derajatC    2.)Sekeping alumunium panjangnya 40cm dan lebarnya 30cm dipanaskan dari 40derajat C sampai 140derajat C.Jika koefisien muai panjang aluminium adalah 2,5 x 10pangkat -5/derajat C,berapakah luas keping alumunium setelah dipanaskan\r\n3.)Besi berbentuk kubus pada suhu 20derajat C memiliki panjang rusuk 10cm.Kubus tersebut dipanaskan hingga suhu 220derajat C.berrapa volume kubus pada suhu 220 deraja C jika koefisien muai panjang besi 1,2 x 10pangkat 5 /derajat C",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1.)Batang logam panjangnya 300cm dipanaskan dari 25derajat C hingga 225derajat C mengalami pertambahan panjang sebesar 0,6cm.Berapa pertambahan batang logam yang sama dengan panjang 200cm dan dipanaskan dari 20derajat hingga suhu 320derajatC<br><br>panjang 1 mpanjang kedua \u00a03,006[tex]\\triangle T = 200[/tex]<br>alfanya [tex]n * 10^{-6}[/tex]\u00a0<br>[tex]L_2=L_1 (1+\\alpha(t_2-t_1))[/tex]<br><br>[tex]\\frac{0.006}{x}= (200)[/tex]<span>alpha = 0.006/200 = 0.00003<br></span><br>panjang besi berikutnya\u00a0<br><br>[tex]L_2=L_1 (1+\\alpha(t_2-t_1))[/tex]<br>[tex]L_2=2(1+0.00003(300))[/tex]<br>201.8 cm<br><br>2.)Sekeping alumunium panjangnya 40cm dan lebarnya 30cm dipanaskan dari 40derajat C sampai 140derajat C.Jika koefisien muai panjang aluminium adalah 2,5 x 10pangkat -5/derajat C,berapakah luas keping alumunium setelah dipanaskan<br><br>[tex]A_2=A_1 (1+\\alpha(t_2-t_1))[/tex]<br>[tex]A_2=1.2 (1+\\0.000025(100))[/tex]<br><br>3.)Besi berbentuk kubus pada suhu 20derajat C memiliki panjang rusuk 10cm.Kubus tersebut dipanaskan hingga suhu 220derajat C.berrapa volume kubus pada suhu 220 deraja C jika koefisien muai panjang besi 1,2 x 10pangkat 5 /derajat C<br><br>[tex]V_2=10 (1+0.000012(200))[/tex]<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-gaya-yang-bergantung-pada-waktu-498",
+            "question": "Sebuah gaya yang bergantung pada waktu",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "gaya potensial, gaya kinetik, gaya apung, setau saya itu",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "seorang-penderita-rabun-dekat-dengan-titik-dekat-05-m-ingin-memb-869",
+            "question": "seorang penderita rabun dekat dengan titik dekat 0,5 m ingin membaca pada jarak baca normal. jenis lensa kacamata yang harus digunakan dan jarak fokusnya adalah ..",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "ditolong dengan lensa cembung. fokusnya +2 .\nmaaf klo salah",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span>\u00a0lensa cembung. fokusnya +2 .</span><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apa-yang-anda-ketahui-tentang-gaya-satu-newton-467",
+            "question": "Apa yang anda ketahui tentang gaya satu newton?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "disebut juga hukum kelembaman. suatu benda akan tetap diam jika tidak ada resultan gaya yang mengenainya",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span>Gaya Satu newton adalah besarnya gaya yang diperlukan untuk membuat benda\nbermassa\nsatu kilogram\nmengalami percepatan\nsebesar satu meter\nper detik</span>\n\n<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apa-itu-elastisitas-dan-apa-hubunganyaa-dengan-hukum-hooke-677",
+            "question": "Apa itu elastisitas? dan apa hubunganyaa dengan hukum hooke",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "elastisitas\u00a0penambahan panjang",
+                    "attachments": []
+                },
+                {
+                    "answer": "elastisitas adalah kemampuan benda untuk kembali ke bentuk semula<br>hubungannya dengan hukum hooke adalah,\u00a0<span>Pada daerah elastisitas benda, gaya yang bekerja pada benda sebanding dengan pertambahan panjang benda</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "cara-mencari-dimensi-modulitas-young-258",
+            "question": "Cara mencari dimensi modulitas young?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "tegangan dibagi regangan",
+                    "attachments": []
+                },
+                {
+                    "answer": "E = tegangan / regangan =\u00a0[tex] \\frac{F . l}{A . delta l} [/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-sebuah-katrol-berbentuk-silinder-homogen-dengan-massa-2-241",
+            "question": "Diketahui sebuah katrol berbentuk silinder homogen dengan massa 2 kg,jari jari 20 cm,dan F=10 N.tentukan    a.momen gaya yang dikerjakan F pada katrol\r\n b.momen inersia katrol\r\n c.percepatan sudut katrol",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a.) momen gaya= F . r = 10 . 0,2 = 2 Nm\u00a0<br>b.) I = MR\u00b2 / 2 = 2 . 0,2\u00b2 = 0,08 kgm\u00b2\u00a0<br>c.) momen gaya = I .\u00a0\u03b1\u00a0\u21d4\u00a0\u03b1 = momen gaya / I = 2 / 0,08 = 25 rad/s\u00b2\u00a0<br>maaf kalau salah\u00a0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "besarnya-tegangan-yang-dilakukan-pada-sebuah-batang-adalah-210pa-954",
+            "question": "Besarnya tegangan yang dilakukan pada sebuah batang adalah 2.10pangkat6 N/m2.jika panjang batang adalah 4 m dan modolus elastisnya 2,5.10N\\m2,maka pertambahan panjang batang?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "\u0431= 2\u00d710^6 N/m\u00b2<br>lo= 4m<br>E= 2,5\u00a0\u00d710 N/m\u00b2<br><br>ditanya=\u00a0\u0394l<br>jawab :<br>\u00a0 \u00a0E=\u00a0\u0431\u00d7lo/\u0394l<br><br>\u00a0 \u00a0\u0394l=\u0431\u00d7lo/E<br>\u0394l \u00a0 =2\u00d710^6 x 4 \u00a0/ 2,5 x 10<br>\u00a0 \u00a0 \u00a0 = 8x10^6/25<br>\u00a0 \u00a0 \u00a0 = 800x10^4/25<br>\u00a0 \u00a0 \u00a0 = 32x10^4<br><br>terbaik ya :)",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-perangkat-hidrolik-memiliki-perbandingan-diameter-kecil-d-361",
+            "question": "sebuah perangkat hidrolik memiliki perbandingan\u00a0diameter kecil dan besar 2:100. tentukanlahgaya yang dihasilkan pada penghisap besar jika beban yang di letakkan pada penghisap kecil 2N?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "F2 =\u00a0[tex] (\\frac{d2}{d1} )^2 . F1[/tex]<br>F2 = 10000/4 . 2<br>\u00a0 \u00a0 \u00a0= 5000 N",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apa-yang-dimaksud-efek-compton-831",
+            "question": "Apa yang dimaksud efek compton",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>suatu efek yang merupakan bagian interaksi sebuah penyinaran terhadap suatu materi.</span>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

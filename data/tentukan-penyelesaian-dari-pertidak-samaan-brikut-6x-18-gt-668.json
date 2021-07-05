@@ -1,0 +1,146 @@
+{
+    "question": "Tentukan penyelesaian dari pertidak samaan brikut : 6x - 18 &gt; 18\u00a0",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "\u00a0 6x - 18 &gt; 18<br>(=)6x - 18 + 18 &gt; 18+ 18<br>(=)6x\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 &gt; 36<br>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 x &gt; 36/6<br>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 x &gt; 6\u00a0\u00a0\u00a0 <br><br>",
+            "attachments": []
+        },
+        {
+            "answer": "[tex]6x&gt;18+18 \\\\6x&gt;36 \\\\ x&gt;6[/tex]",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "pilihan-ganda-ya-pasangan-bilangan-di-bawah-ini-yang-bukan-tripel-840",
+            "question": "Pilihan ganda ya    pasangan bilangan di bawah ini yang bukan tripel pytboras adalah \r\na. 20,16,12\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 C,5,4,3\r\nb. 10,24,26\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 D. 4,3,2",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "yang D<br>4,3,2<br>........................................",
+                    "attachments": []
+                },
+                {
+                    "answer": "d. 4, 3, 2\u00a0 <br>karena tdk memenuhi syarat [tex]a= \\sqrt{ b^{2}+ c^{2}  } [/tex]\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-sekali-dijawab-yaa-pelajaran-kelas-z-matematika-perban-897",
+            "question": "Tolong sekali dijawab yaa.. PELAJARAN KELAS Z MATEMATIKA : PERBANDINGAN DAN SKALA\u00a0    soal: Untuk membangun ruang kelas baru sebanyak 2 kelas akan selesai dalam waktu 50 hari jika dikerjakan oleh 15 tukang.Setelah 20 hari bekerja bahan abis,pekerjaan terhenti 5 hari. berapa orang tukang ditambah agar ruang kelas itu tetap selesai tepat waktu?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "50 hari = 15 tukang<br>50 - 20 - 5 = x tukang<br>[tex] \\frac{50}{25} [/tex] =\u00a0[tex] \\frac{x}{15} [/tex]\u00a0<br>x = 2\u00a0\u00d7 15<br>x = 30<br><br>tambahan pekerja = 30 - 15 = 15",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "8y-52y-3-4-y-3-18-y-pake-cara-225",
+            "question": "8y - 5(2y - 3) = 4 (y-3) + 18\r\ny=\r\npake cara",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>8y - 5(2y - 3) = 4 (y-3) + 18<br></span>8y - 10y + 15 = 4y - 12 + 18<br>-2y +\u00a015 = 4y + 6<br>-6y = -9<br>y = 9/6 = 3/2",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "luas-lingkaran-dengan-diameter-175-adalah-493",
+            "question": "Luas lingkaran dengan diameter 17,5 adalah....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "L = (22/7 atau 3,14) . Jari2<br>\u00a0\u00a0 = 22/7.17.5.17,5<br>\u00a0\u00a0  = 22.0,4.17,5<br>\u00a0\u00a0 = 8,8.17,5<br>\u00a0\u00a0 = 154 cm2<br><br>L = 3,14.17,5.17,5<br>\u00a0\u00a0 = 54,95.17,5<br>\u00a0\u00a0 = 961,625<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "rumus : 1/4 x phi x d pangkat dua<br>1/4 x 3,14x17,5x17,5 = 240,406<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-diketahui-barisan-aritmatika-dengan-u1-3-un-87-dan-u6-u7-359",
+            "question": "1. Diketahui barisan aritmatika dengan U1= 3, Un= 87, dan U6 + U7 = 9. Tentukan : a) b=...? b) n=...? c) U50=....?    Pake caraa .. please jawab yaaa:)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "U1 = a = 3<br><br><span>U6 + U7 = 9<br>[a + (6-1)b] + [a + (7-1)b] = 9<br>[3 + 5b] + [3 + 6b] = 9<br>6 + 11b = 9<br>11 b = 9 - 6<br>11b = 3<br>b = [tex] \\frac{11}{3} [/tex] <br><br><br><br><br></span><span>Un= 87<br>a + (n-1)b = 87<br>3 + (n-1) </span>[tex] \\frac{11}{3} [/tex] = 87<br>3 + [tex] \\frac{3}{11} n[/tex] - [tex] \\frac{3}{11} [/tex] = 87<br>[tex] \\frac{36}{11} [/tex] + [tex] \\frac{3}{11} n[/tex] = 87<br>[tex] \\frac{3}{11} n[/tex] = 87 - [tex] \\frac{36}{11} [/tex]<br>[tex] \\frac{3}{11} n[/tex] = [tex] \\frac{957}{11} [/tex]<br>3n = 957<br>n = 319<br><br><br><span>U50 = 3 + 49b<br>\u00a0\u00a0 \u00a0\u00a0\u00a0 = 3 + 49 [tex] \\frac{3}{11} [/tex]<br>\u00a0\u00a0 \u00a0 \u00a0 = 3 + 13,3<br>\u00a0\u00a0 \u00a0 \u00a0 = 16,3<br><br><br><br>semoga membantu :)<br></span><br><br><br><br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-himpunan-penyelesaian-dari-persamaan-berikut-a-6x-10-297",
+            "question": "Tentukan HIMPUNAN PENYELESAIAN dari persamaan berikut!    a. 6x - 10 = 2x + 2\r\nb. 5x - 4 = 3x - 8\r\nc. -7 - 2a = 4a - 19\r\nd. Jika diketahui 15x - 7 = 8 - 10x , maka tentukan nilai 2x + 1",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]a.6x-2x=2+10 \\\\ 4x=12 \\\\ x=3 \\\\  \\\\ b.5x-3x=-8+4 \\\\ 2x=-4 \\\\ x=-2 \\\\  \\\\c.-2a-4a=-19+7 \\\\ -6a=-12 \\\\ a=2 \\\\  \\\\ d.15x+10x=8+7 \\\\25x=15 \\\\ x=15/25  \\\\ x=3/5 \\\\  \\\\ 2x+1=2(3/5)+1 \\\\ 6/5+1=2,2[/tex]",
+                    "attachments": []
+                },
+                {
+                    "answer": "6x - 10 =2x +2<br>6x - 2x = 2 + 10<br>4x = 12<br>x = 3<br><br>5x - 4 =3x - 8<br>5x - 3x = -8+4<br>2x = -4<br>x = -2<br><br>-7 - 2a = 4a - 19<br>-2a - 4a = -19 + 7<br>-6a = -12<br>a = 2<br><br>15x - 7 =8 - 10 x<br>15x + 10x = 8 +7<br>25x = 15<br>x = 3/5<br>Nilai<br>2x + 1<br>2 x 3/5 + 1<br>6/5 + 1<br>6/5 + 5/5<br>11/5 = 2 1/5<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-nilai-x-jika-2x12x22x32x504275-893",
+            "question": "Tentukan nilai X, jika (2x+1)+(2x+2)+(2x+3)+...+(2x+50)=4275",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]Sn= \\frac{n}{2} (U1+Ut)[/tex]<br>u1 adalah suku pertama =(2x+1)<br>ut adalah suku terakhir=(2x+50)<br>banyak nya n suku tsb adalah 50 atau n = 50<br>[tex]Sn= \\frac{n}{2} (U1+Ut)[/tex]<br>4275=[tex] \\frac{50}{2} ( (2x+1)+(2x+50))[/tex]<br>4275=[tex]25(4x+51)[/tex]<br>[tex] \\frac{4275}{25} =4x+51[/tex]<br>171=4x+51<br>120=4x<br>x=3",
+                    "attachments": []
+                },
+                {
+                    "answer": "Dik : a = 2x+1<br>\u00a0\u00a0 \u00a0 \u00a0  n = 50\u00a0 , b = 1<br>\u00a0\u00a0 \u00a0 \u00a0 S50 = 4275<br>Dit : x , untuk mencari x maka harus tau nilai a<br>Jawab :<br>Sn = 1/2 n (2a + (n-1) b)<br>4275 = 1/2 (50) (2a + (50-1)(1))<br>4275 = 25 (2a + 49)<br>171 = 2a + 49<br>171 - 49 = 2a<br>122 = 2a<br>a = 61<br><br>a = 2x+1<br>61 = 2x + 1<br>61-1 = 2x<br>60 = 2x<br>x = 30<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pada-kegiatan-rally-sebuah-mobil-akan-sampai-di-garis-finis-dala-961",
+            "question": "pada kegiatan rally, sebuah mobil akan sampai di garis finis dalam waktu 4,5 jam dengan kecepatan rata-rata 63 km/jam. setelah 2 jam berjalan, ban mobil biru pecah sehingga terpaksa berhenti mangganti ban selama 15 menit. berapa kecepatan mobil biru dinaikkan agar tetap sampai di finis tepat waktu?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "= 2,5/2,25 = 63/x <br>2,25/2,5 x 63/x<br>= 2,25 x = 157,5<br>x = 157,5/2,25<br>x = 70 km/jam <br>semoga membantu yaa<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "persamaan-garis-melalui-titik-m-1-5-dan-n-42-adalah-709",
+            "question": "Persamaan garis melalui titik M (1.-5) dan N (4,2) adalah?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Diketahui: Persamaan garis melalui titik M (1, -5) dan N (4, 2)<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 x1 = 1, x2 = 4, y1 = -5, y2 = 2<br>Ditanya: Persamaan garisnya = ?<br>Jawab: \u00a0Persamaan garis\u00a0=\u00a0[tex] \\frac{y - y1}{y2-y1} [/tex] =\u00a0[tex] \\frac{x - x1}{x2 - x1} [/tex]<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u21d2\u00a0y - (-5) per 2 - (-5) = x - 1 per 4 - 1<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u21d2 y + 5 per 7 = x - 1 per 3 (dikalikan silang)<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u21d2 3y + 15 = 7x - 7\u00a0<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u21d2 3y = 7x - 7 - 15<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u21d2 3y = 7x - 22<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u21d2 y =\u00a0[tex] \\frac{7x - 22}{3} [/tex]<br>jadi, persamaan garisnya adalah\u00a0y =\u00a0[tex] \\frac{7x - 22}{3} [/tex].<br><br><br>semoga bisa membantu ^_^,,,<br>maaf jika ada yang salah ^_^,,,<br>jika jawaban diatas tidak dimengerti, silahkan ditanyakan ^_^,,,<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0",
+                    "attachments": []
+                },
+                {
+                    "answer": "(1,-5)=(x1,y1)<br>(4,2)=(x2,y2)<br><br><u>y-y1</u> \u00a0 \u00a0= \u00a0<u>x-x1</u><br>y2-y1 \u00a0 \u00a0 \u00a0x2-x1<br><br><u>y-(-5)</u> = \u00a0<u>x-1</u><br>2-(-5) \u00a0 \u00a0\u00a04-1<br><br><u>y+5</u>\u00a0 = \u00a0<u>x-1</u><br>2+5 \u00a0\u00a0 \u00a0 4-1 \u00a0 (kali silang)<br><br>7x-7=3y+15<br>7x=3y+15+7<br>7x=3y+22<br><br>koreksi lg takut salah ngitung",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diket-skala-110000000-jarak-pda-pta-kota-jambi-palembang-2-945",
+            "question": "Diket : skala 1:10.000.000    jarak pda pta kota Jambi - Palembang 2,4 cm\r\nsopir bis mengendarai bis dari jambi-palembag dgn kec 80km/jam\r\nsopir bis istirahat 30 menit\r\ntiba di kota palembang pukul 10.30\r\n\r\na.berapa jam bis itu di perjalanan ?\r\nb.pukul brp sopir bis berangkat dri kota jambi ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a. w = JS =1:10.000.000 x 2.4 =24000.000 cm = 240 km<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 240 / 80 = 3\u00a0 jam ( tidak dgn waktu istirahat )<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 3 jam + 30 menit = 3.30 (dgn waktu istirahat ) \u00a0  <br>\u00a0\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 <br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 <br>b.\u00a0 10.30 - 3.30<br>\u00a0\u00a0 \u00a0 pukul 7<br><br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

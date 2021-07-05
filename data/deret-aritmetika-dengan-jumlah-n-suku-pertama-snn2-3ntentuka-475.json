@@ -1,0 +1,140 @@
+{
+    "question": "Deret aritmetika dengan jumlah n suku pertama Sn=n\u00b2 + 3n.tentukan suku ke-5!",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "[tex]S _{1} = U _{1}= 4 \\\\ S_{2} = U_{1} + U_{2} = 10 \\\\ U_{2}= 6 \\\\ b = U_{2}-U_{1} = 2 \\\\ U_{n} = a + (n-1)b = 4 + (n-1)2 = 2n + 2 \\\\ U_{5} = 12[/tex]",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "nilai-dari-log-16-log-4-log-2-390",
+            "question": "Nilai dari log 16 - log 4 /log 2",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex] \\frac{log16-log 4}{log 2} \\\\   \\frac{log (16/4)}{log2} \\\\   \\frac{log4}{log2}  \\\\   2log2  ^{2}   \\\\ 2[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-mesin-bor-di-rancang-memiliki-6-kecepatan-mulai-dari-50-p-723",
+            "question": "sebuah mesin bor di rancang memiliki 6 kecepatan. mulai dari 50 putaran/menit hingga 750 putaran / menit. jika kecepatan ini membentuk geometri, tentukan lah nilai nilai, masing masing benar hingga bilangan bulat terdekat",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "tolong ditulis caranya ya",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "3-bil-positif-membentuk-barisan-geometri-dgn-rasio-rgt1-jika-s-285",
+            "question": "3 bil positif membentuk barisan geometri dgn rasio r&gt;1, jika suku tengah ditambah 4 maka terbentuk sebuah bil aritmatika yg jumlahnya 30. tentukan hasil kali dari ketiga bil tersebut",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a/r,a,ar \u00a0 \u00a0 \u00a0 \u00a0BG \u00a0 \u00a0 \u00a0 \u00a0 \u00a0suku tengah ditambah 4 jadi BA\u00a0<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 a+4 = (a/r+ar)/2 \u00a0 &lt;=&gt; 2a + 8 = a/r + ar\u00a0<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0dan \u00a0\u00a0a/r + a+4+ar = 30<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0berarti 2a + 8 +a+4 = 30 &lt;=&gt; 3a = 18 maka a = 6 <br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0dan r = 3( (dimasukkan per !)<br>jadi 2+6+18 = 26",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "temukan-grafik-fungsi-kuadrat-fx-4x2-8x3-dari-grafik-fung-281",
+            "question": "Temukan grafik fungsi kuadrat f(x) = 4x^{2}-8x+3 dari grafik fungsi kuadrat g(x) = 4x^{2} (dalam 1 grafik)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "ini gambarnya, silakan dipelajari",
+                    "attachments": [
+                        "answer-attachments/temukan-grafik-fungsi-kuadrat-fx-4x2-8x3-dari-grafik-fung-281-1.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "nilai-dari-3log-1255log-1-587",
+            "question": "Nilai dari \u00b3log 125.\u2075log 1\r\n\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 3",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>\u00b3log 125. \u2075 log 1/3</span>\n<br><span>=\u00a0 \u00b3 log 5\u00b3\n. \u2075 log 1/3</span><br>\u00a0<span>= 3. \u00b3 log 5 . \u2075 log 1/3</span>\n<br><span>= 3. \u00b3 log 1/3</span>\n<br><span>= 3. \u00b3 log 3 \u207b\u00b9</span><br>\u00a0<span>= 3. -1. \u00b3 log 3</span><br>\u00a0= 3. -1<br>\u00a0= -3<br><br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "[tex] 3_{log} 125 .  5_{log}   \\frac{1}{3}    \\\\ =  3_{log} 5^{3} . 5_{log}   \\frac{1}{3}  \\\\  = 3. 3_{log} 5 . 5_{log}   \\frac{1}{3} \\\\ = 3. 3_{log}  \\frac{1}{3}  \\\\ = 3. (-1)  \\\\  = -3[/tex]<br><br>maaf kalo salah..",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "b-x-x-lt-10-x-eur-bilangan-prima-837",
+            "question": "B = { x | x &lt; 10 ; x \u20ac bilangan prima }",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "2,3,5,7<br>itu adalah angka prima yang kurang dari 10",
+                    "attachments": []
+                },
+                {
+                    "answer": "B = {x l x &lt; 10 , x elemen bilangan prima}<br>Jawab :<br>B = { 2,3,5,7}<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jelaskan-turunan-fungsi-dari-1-2-900",
+            "question": "Jelaskan turunan fungsi dari :\r\n1.\u00a0\r\n2.\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]y=cosec(x)=\\frac{1}{sin(x)}\\\\\ny=(sin(x))^{-1}\\\\\ny&#039;=(-1)(sin(x))^{-1-1}.cos(x).(1)\\\\\ny&#039;=-(sin(x))^{-2}.cos(x)\\\\\ny&#039;=-\\frac{cos(x)}{(sin(x))^2)}\\\\\ny&#039;=-\\frac{cos(x)}{sin(x)}.\\frac{1}{sin(x)}\\\\\ny&#039;=-cot(x).cosec(x)\\\\\\\\\ny=x.sin(3x)\\\\\ny&#039;=(1)sin(3x)+x.cos(3x).(3)\\\\\ny&#039;=sin(3x)+3x.cos(3x)[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "salah-satu-akar-dari-x2-9x7r-10-adalah-tiga-kurangnya-dari-du-173",
+            "question": "salah satu akar dari x2-9x+(7r-1)=0 adalah tiga kurangnya dari dua kali akar yang lain . tentukan nilai r !\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]x^2-9x+(7r-1)=0;misal\\ akar-akarnya\\ x_1\\ dan\\ x_2\\\\\nx_1=2x_2-3\\\\\nx_1+x_2=\\frac{-(-9)}{1}=9\\\\\n2x_2-3+x_2=9\\\\\n3x_2=12\\\\\nx_2=4\\\\\\\\\nx_1x_2=\\frac{7r-1}{1}\\\\\n(2x_2-3)x_2=7r-1\\\\\n(2(4)-3)(4)=7r-1\\\\\n20=7r-1\\\\\n7r=21\\\\\nr=3[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-pers-kuadrat-x2-m-3x-3m-1-0-mempunyai-satu-akar-r-799",
+            "question": "Jika pers kuadrat x\u00b2-(m+ 3)x+ (3m + 1) = 0\r\nmempunyai satu akar riil mka nilai m yg memenuhi ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "satu akar, jadi D=0<br>[tex]D=0\\\\\nb^2-4ac=0\\\\\n(m+3)^2-4(1)(3m+1)=0\\\\\nm^2+6m+9-12m-4=0\\\\\nm^2-6m+5=0\\\\\n(m-1)(m-5)=0\\\\\nm_1=1 \\ atau \\ m_2=5[/tex]<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Bentuk Umum Persamaan Kuadrat seperti ini<span>,\u00a0\u00a0dan a, b, c,</span>Dimana :x\u00a0adalah variabel persamaan kuadrata\u00a0adalah koefisien x kuadratb\u00a0adalah koefisien xc\u00a0adalah konstantaCara Menyelesaikan Persamaan Kuadrat<span>1) Mencari faktor<br><br>diuraikan menjadi\u00a0<br>cara pemfaktoran akan lebih mudah bila a = 1<br>maka kita bisa menebak x1 dan x2 dengan cara<br>a = 1<br>b = x1+x2<br>c = x1.x2</span><span>2) Memakai Rumus Kuadrat atau Rumus abc<br></span><span>3) Melengkapkan Kuadrat Sempurna<br>Bentuk umum persamaan kuadrat bebentuk kuadrat sempurna adalah :<br>\u00a0dengan q &gt; 0</span>Menentukan Jenis Akar-Akar Persamaan Kuadrat Jenis akar-akar persamaan kuadrat ditentukan oleh nilai deskriminan :<span><br>a. D &gt; 0 Kedua akar nyata dan berlainan,\u00a0</span><span>b. D = 0<br>Kedua akar nyata dan sama,\u00a0</span><span>c. D &lt;&gt; Kedua akar tidak nyata (imaginer)<br>d.\u00a0\u00a0dengan\u00a0<br>bilangan kuadrat sempurna, kedua akar rasional.</span><span>Untuk menghitung<span>\u00a0jumlah dan hasil kali akar-akar persamaan kuadrat</span>\u00a0, dapat dicari tanpa terlebih dahulu mencari akar-akarnya.</span><span>Dari rumus\u00a0\u00a0dan\u00a0</span><span>Dapat ditunjukkan bahwa:\u00a0</span><span>Rumus-rumus\u00a0Akar Persamaan Kuadrat hasil pengembangan, sering sekali muncul di soal UAN SNMPTN atau SPMB</span><span>Sifat-sifat Akar\u00a0Persamaan Kuadrat Jika\u00a0\u00a0dan\u00a0\u00a0adalah akar-akar persamaan kuadrat\u00a0\u00a0dengan\u00a0<br>maka berlaku sifat-sifat berikut ini :</span><span>a. Syarat mempunyai Dua Akar Positif<br></span><span>b. Syarat mempunyai Dua Akar Negatif<br><br>c. Syarat mempunyai Dua Akar Berlainan Tanda<br><br>d. Syarat mempunyai Dua Akar Berlawanan<br><br>e. Syarat mempunyai kedua akar berkebalikan<br></span><span>Cara menyusun Persamaan kuadratdari akar-akar x1 dan x2 yang diketahui</span><span>Persamaan kuadrat yang akar-akarnya\u00a0dan\u00a0\u00a0adalah :\u00a0</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dengan-berjalan-kaki-askar-memerlukan-waktu-6-menit-untuk-sampai-824",
+            "question": "Dengan berjalan kaki, askar memerlukan waktu 6 menit untuk sampai ke kampusnya. jarak antara rumah dan kampus 5/8 km. berapa kecepatan rata-rata askar berjalan?    dengan caranya ya",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "6 menit= 360 s<br>5/8 : 360<br>= 1800m/28 s",
+                    "attachments": []
+                },
+                {
+                    "answer": "6 menit = 360 s<br>5/8 km = 625 m<br>k = j/w<br>\u00a0 = 625/360<br>\u00a0\u00a0 = 1,74m/s<br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

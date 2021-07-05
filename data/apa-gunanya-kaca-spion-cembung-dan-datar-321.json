@@ -1,0 +1,134 @@
+{
+    "question": "Apa gunanya kaca spion cembung dan datar",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "kalau kaca spion itu pasti cembung. ga ada lah kalu kaca spion datar. tjuan kaca spion dibuat cermin cembung agar pengendara dapat lebih luas melihat kendaraan di belakang nya. sesuai dengan salah satu prinsip sifat kca cembung yaitu <strong>\"bayangan diperkecil\"</strong><br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "sebuah-beban-20-kg-digantung-pada-ujung-sebuah-kawat-baja-panjang-564",
+            "question": "sebuah beban 20 kg digantung pada ujung sebuah kawat baja panjangnya 150 cm dan diameter 8 mm yang tergantung vertikal. jika percepatan gravitasi 10 ms-2 dan modulus elastisitas baja 2x10 pangkat 11 N/m2. hitunglah besar tegangan dan regangan kawat dan energi potensial elastisitas kawat",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "F=m x g= 20 x 10 = 200 N<br>r = 4mm=0,004<br>L=150cm=1,5 m<br>A=\u00a0\u03c0r.r=5,024 x 10 pangkat -5 m2<br>E=2x10 pangkat 11<br>tegangan =F/A=200/5,024 x 10 pangkat -5 =3980891,72 N/m2<br>regangan(e)=\u00a0\u0394L/Lo<br>E=F.L/A.\u0394L<br>\u0394L=F.L/A.E =200.1,5/5,024 x 10pangkat -5 x 2.10pangkat\u00a011<br>\u00a0\u0394L =2,98 x 10pangkat -5<br>regangan(e)= 2,98 x10pangkat -5/1,5<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0=1,98 x 10pangkat -5<br>F = k.\u0394L<br>k=F/\u0394L = 200/2,98 x 10 pangkat -5=6711409,36 N/m<br>Ep = 0,5 x k x\u00a0\u0394L x\u00a0\u0394L<br>\u00a0 \u00a0 \u00a0=0,5 x 6711409,36 x (2,98 x10pangkat -5)\u00b2<br>\u00a0 \u00a0 \u00a0=2,97 x 10pangkat -3 joule<br>Yang Ep ini agak ragu soalnya pake rumus dari energi potensial pegas",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "rumus-berat-dalam-fisika-386",
+            "question": "Rumus berat dalam fisika?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "W = m . g<br><br>m = massa \u00a0(kg)<br>g \u00a0= gravitasi \u00a0(m/s\u00b2 )<br>W = berat (N)",
+                    "attachments": []
+                },
+                {
+                    "answer": "yang dimaksud berat kan? w = m x g, massa x gravitasi",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dalam-sebuah-tabung-yang-diisi-eter-indeks-bias-n-136-jarak-203",
+            "question": "Dalam sebuah tabung yang diisi eter (indeks bias n = 1,36), jarak anatara permukaan cairan dengan alas\u00a0tabungnya adalah 17 cm. Jika kita memandang secara gerak lurus dari permukaan. Berapa besar kelihatannya jarak antara alas tabung dan permukaan cairan?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<br>e = eter dan u = udara<br>ne . he = nu . hu<br>1,36 . he = 1 . 17<br>he = 17 / 1,36 = 12,5 cm<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bagaimanakah-momentum-benda-sebelum-dan-sesudah-tumbukan-218",
+            "question": "Bagaimanakah momentum benda sebelum dan sesudah tumbukan ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Berdasarkan hukum kekekalan momentum,\"jika tidak ada gaya luar yang bekerja pada benda,maka jumlah momentum sebelum tumbukan = jumlah momentum setelah tumbukan\"",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "batang-ab-homogen-panjangnya-80cm-dan-beratnya-18n-jika-ac-60cm-606",
+            "question": "Batang AB homogen panjangnya\u00a080cm dan beratnya 18N. jika AC 60cm dan berat beban w 30N. tegangan tali BC \u00a0adalah ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Ini masuk materi medan magnet yah,,<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "manfaat-dan-bahaya-radioisotop-dan-gelombang-elektromagnetik-209",
+            "question": "Manfaat dan bahaya radioisotop dan gelombang elektromagnetik",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "manfaat: memanfaatkan sinar-sinar radiasinya untuk berbagai kepetluan.sumber tenaga listrik<br>bahaya :dapat merusak jaringan pada makhluk hidup. dapat mengakibatkan tumor/ kanker",
+                    "attachments": []
+                },
+                {
+                    "answer": "manfaat : sebagai sumber tenaga listrik<br>bahaya : merusak jaringan, menyebabkan kanker<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bola-05-kg-dijatuhkan-diatas-pegas-dari-ketinggian-2-m-ketika-t-576",
+            "question": "bola 0,5 kg dijatuhkan diatas pegas dari ketinggian 2 m. ketika tertimpa bola, pegas tersebut mampat sejauh 20cm. tentukan konstanta pegas tsb.. (g=10m/s^2)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "mgh=1/2 k \u0394x\u00b2<br>k=\u00a0[tex] \\frac{2mgh}{\u0394x\u00b2} [/tex]<br>tinggal masukin angkanya ntr dapet k=500 N/m.<br>jangan lupa 20 cm nya rubah dulu ke m",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-bola-pejal-yang-berjari-jari-r20-cm-bermassa-m2-kg-dilep-457",
+            "question": "sebuah bola pejal yang berjari-jari R=20 cm bermassa m=2 kg dilepas di titik A pada bidang miring kasar tanpa kecepatan awal,berapa energi kinetik rotasi bola ketika mencapai titik B(di ujung)?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "I=2/5mR\u00b2<br><br>EK=Ek rotasi<br>EK=\u00bd I \u03c9\u00b2<br>EK=\u00bd (\u2156 mr\u00b2) (v/r)\u00b2<br>EK=\u2155 m v\u00b2<br>EK=1/5 . 2 . v\u00b2<br>EK=2/5 v\u00b2<br><br>saya dak tau cara nyari V nya berapa. hanya ini yg bisa saya bantu<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span>I=2/5mR\u00b2<br><br>EK=Ek rotasi<br>EK=\u00bd I \u03c9\u00b2<br>EK=\u00bd (\u2156 mr\u00b2) (v/r)\u00b2<br>EK=\u2155 m v\u00b2<br>EK=1/5 . 2 . v\u00b2<br>EK=2/5 v\u00b2<br><br></span><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-suspensi-truk-lihat-gambar-sering-memilik-770",
+            "question": "\u00a0 1.\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Suspensi truk (lihat gambar) sering memiliki \u201cpegas pembantu\u201d yang bekerja ketika beban truk sangat besar. Salah satu konfigurasinya adalah seperti pada gambar di bawah; pegas ayun (yang berwana biru) dengan pegas pembantu berupa pegas koil dipasang ditengah-tengahnya. Pegas pembantu akan bekerja ketika pegas ayun tertekan sejauh",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "semoga dapat membantu ya mohon kalau da salah\u00a0<br>jawaban Fisika Tropis\u00a0<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pemanas-air-dengan-spesifikasi-200-watt-digunakan-untuk-memanaska-817",
+            "question": "Pemanas air dengan spesifikasi 200 watt digunakan untuk memanaskan air bersuhu 30 C sebanyak 0,5 kg. kalor jenis air 4200 J//kg C. Berapa lama waktu yang diperlukan hingga air mencapai suhu 10 C?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Q= M.C.\u0394t<br>m.c<u></u>/ Q=\u00a0\u0394t<br>0.5x4200/20 =105 menit",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

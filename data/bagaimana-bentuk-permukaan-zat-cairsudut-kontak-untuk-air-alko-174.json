@@ -1,0 +1,138 @@
+{
+    "question": "bagaimana bentuk permukaan zat cair(sudut kontak) untuk air, alkohol dan raksa di dalam pipa kapiler ?",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "sudut kontak air dengan pipa kapiler adalah 0 derajat &lt; 0 &lt; 90 derajat<br>sudut kontak air raksa dengan pipa kapiler adalah 90 derajat &lt; 0 &lt; 180 derajat",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "tinggi-nada-senar-gitar-tergantung-1-4-558",
+            "question": "Tinggi nada senar gitar tergantung ?\u00a0\r\n( 1-4)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "frekuensi gelombang longitudinal nya<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "frekuensi dari gelombang longitudinal\u00a0gitar itu sendiri",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-beban-20-kg-digantung-pada-ujung-sebuah-kawat-baja-panjang-564",
+            "question": "sebuah beban 20 kg digantung pada ujung sebuah kawat baja panjangnya 150 cm dan diameter 8 mm yang tergantung vertikal. jika percepatan gravitasi 10 ms-2 dan modulus elastisitas baja 2x10 pangkat 11 N/m2. hitunglah besar tegangan dan regangan kawat dan energi potensial elastisitas kawat",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "F=m x g= 20 x 10 = 200 N<br>r = 4mm=0,004<br>L=150cm=1,5 m<br>A=\u00a0\u03c0r.r=5,024 x 10 pangkat -5 m2<br>E=2x10 pangkat 11<br>tegangan =F/A=200/5,024 x 10 pangkat -5 =3980891,72 N/m2<br>regangan(e)=\u00a0\u0394L/Lo<br>E=F.L/A.\u0394L<br>\u0394L=F.L/A.E =200.1,5/5,024 x 10pangkat -5 x 2.10pangkat\u00a011<br>\u00a0\u0394L =2,98 x 10pangkat -5<br>regangan(e)= 2,98 x10pangkat -5/1,5<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0=1,98 x 10pangkat -5<br>F = k.\u0394L<br>k=F/\u0394L = 200/2,98 x 10 pangkat -5=6711409,36 N/m<br>Ep = 0,5 x k x\u00a0\u0394L x\u00a0\u0394L<br>\u00a0 \u00a0 \u00a0=0,5 x 6711409,36 x (2,98 x10pangkat -5)\u00b2<br>\u00a0 \u00a0 \u00a0=2,97 x 10pangkat -3 joule<br>Yang Ep ini agak ragu soalnya pake rumus dari energi potensial pegas",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "rumus-alfa-jika-hanya-diketahui-womega-massa-jari-jari-waktu-343",
+            "question": "Rumus alfa jika hanya diketahui W(OMEGA), massa, jari jari, waktu(s), frekuensi",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "\u03b1 = \u0394\u03c9/\u0394t<br>\u03b1 = torsi/inersia<br>\u03b1 = \u03c9t-\u03c9o/t-to",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-bus-bergerak-dengan-kecepatan-60-kmjam-seorang-pedagang-396",
+            "question": "sebuah bus bergerak dengan kecepatan 60 km/jam. seorang pedagang asongan di dalam bus berjalan dari depan ke belakang dengan kecepatan 1 km/jam. kecepatan pedagang asongan menurut pengamat yang diam ditepi jalan ..... km/jam",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "kecepatan\u00a0pejualan asongan\u00a0 3m/sec menurut pejalan kaki",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "buatlah-masing-masing-3-contoh-soal-dan-jawaban-dari-konduksi-977",
+            "question": "Buatlah masing masing 3 Contoh soal dan jawaban\u00a0\u00a0dari konduksi dan konveksi!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>1. Suhu udara dalam sebuah ruangan sebesar 20\u00b0C, sedangkan suhu permukaan jendela\u00a0padaruangan tersebut 30\u00b0C. Berapa laju kalor yang diterima oleh jendelakaca seluas 1,5 m2<span>,\u00a0jika koefisien konveksi udara saat itu 7,5 X 10<span>J1\u00a0</span>kal/s\u00a0</span>m<span>2\u00a0</span>\u00b0C?</span><br><span>Jawab:</span><br><span><span><span>AT\u00a0</span><span>=\u00a0</span>t2\u2014 t1<span>\u00a0=30\u00b0C-20\u00b0C= 10\u00b0C</span></span><br><span><span>A\u00a0</span><span>=1,5m2</span>\u00a0</span><br><span><span>h\u00a0</span><span>=7,5x10-1kal/sm2\u00b0C</span></span></span><br><span><span><span>H\u00a0<span>=h.A.\u0394T</span></span>\u00a0</span><br><span><span>(7,5 x 10-1kal/sm2\u00b0C) (1,5m2) (10\u00b0C)\u00a0</span>= 11,25kal</span></span><span>Jadi, laju kalor yang diterima oleh jendela kaca 11,25 kal\u00a0<br>contoh lainnya ada di doc \u00a0tinggal download aja semoga membantu</span>",
+                    "attachments": [
+                        "answer-attachments/buatlah-masing-masing-3-contoh-soal-dan-jawaban-dari-konduksi-977-1.docx"
+                    ]
+                },
+                {
+                    "answer": "Sumber utama kehilangan\u00a0 panas dalam ruangan adalah melalui jendela. Misalkan terdapat sebuah jendela yang terbuat dari kaca dengan ukuran 2 m X 1,5 Derajat Celcius, sedangkan suhu di luar ruangan 14 derajat celcius. Hitunglah laju kehilangan panas melalui jendela.<span><br></span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "titik-berat-pelat-yang-bentuknya-seperti-gambar-dibawwah-adalah-632",
+            "question": "Titik berat pelat yang bentuknya seperti gambar dibawwah adalah",
+            "attachments": [
+                "question-attachments/titik-berat-pelat-yang-bentuknya-seperti-gambar-dibawwah-adalah-632-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "mav, hehe, fisika pa mm, saya coba ea, btul pa salah<br>-jk ttik brat thd sumbu x maka:<br>\u00a0\u00a0 -1.12+1.4+1.4 / -12+4+4 = y<br>\u00a0\u00a0 -12+4+4 / 20 = y<br>\u00a0\u00a0 y = -4/20<br>\u00a0\u00a0 y= -1/5<br><br>-jk ttik berat thd sumbu y<br>\u00a0 3.12+1.4+5.4 / 12+4+4 = x<br>\u00a0 36+4+20 / 20 = x<br>\u00a0 x= 60/20<br>\u00a0 x= 3<br><br>hehe, mav kalo GJ, pengawuran mode ON<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "contih-soal-hukum-hooke-570",
+            "question": "Contih soal hukum hooke?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Ketika seseorang yang bermasaa 60kg bergelantungan pada ujung sebuah pegas, pegas bertambah panjang 15 cm. tentukan terapan gaya pegas.",
+                    "attachments": []
+                },
+                {
+                    "answer": "sebuah pegas digantung pd statif, panjang mula mula adlh 40 cm, kemudian pd ujungnya digantungi beban seberat 1 kg ternyata panjang pegas menjadi 45 cm. tentukan besar konstanta pegas tersebut jika \u00a0g = 10 m/s\u00b2",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-sebuah-katrol-berbentuk-silinder-homogen-dengan-massa-2-241",
+            "question": "Diketahui sebuah katrol berbentuk silinder homogen dengan massa 2 kg,jari jari 20 cm,dan F=10 N.tentukan    a.momen gaya yang dikerjakan F pada katrol\r\n b.momen inersia katrol\r\n c.percepatan sudut katrol",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a.) momen gaya= F . r = 10 . 0,2 = 2 Nm\u00a0<br>b.) I = MR\u00b2 / 2 = 2 . 0,2\u00b2 = 0,08 kgm\u00b2\u00a0<br>c.) momen gaya = I .\u00a0\u03b1\u00a0\u21d4\u00a0\u03b1 = momen gaya / I = 2 / 0,08 = 25 rad/s\u00b2\u00a0<br>maaf kalau salah\u00a0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-balok-terapung-diatas-permukaan-air-volume-balok-yg-muncu-254",
+            "question": "sebuah balok terapung diatas permukaan air. volume balok yg muncul diatas permukaan air 100 cm\u00b3 dan massa jenis balok 0,75g/cm\u00b3 jika p air 1 g/cm\u00b3 hitunglah massa balok seluruhnya...???",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Dik vb=vc\u00a0 = 100 cm^3<br>\u00a0 \u00a0 \u00a0 Rho balok = 0,75 g/cm^3<br>\u00a0 \u00a0 \u00a0 rho cair = 1 g/cm^3<br>dit m balok seluruhnya ?<br>jawab.<br><br>Fa = rho cair.volume cair . g<br>\u00a0 \u00a0 \u00a0= 1 . 100. 10<br>\u00a0 \u00a0 \u00a0= 1000 N<br><br>Fa = wb = mb . g \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 mb2 = rho benda . v<br>\u00a01000 \u00a0= mb . 10 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 0,75 . 100<br>mb1 = 1000 / 10 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 75 gr<br>\u00a0 \u00a0 \u00a0= 100 gr<br>\u00a0<br>m total = 100 + 75 = 175 gr",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "seseorang-mengendarai-mobil-dengan-kecepatan-90-kmjam-tiba-tiba-318",
+            "question": "seseorang mengendarai mobil dengan kecepatan 90 km/jam. tiba-tiba mobil tersebut direm dengan perlambatan maksimum. Besarnya jarak yg di butuhkan adalah...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "ya kagak ada jawabannya\u00a0<br>karena rumus GLBB diperlambat itu<br>v = v0 . t - a .t<br>s = v0 . t - 1/2 a . t\u00b2<br>vt\u00b2 = v0\u00a0\u00b2 - 2 a . s",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

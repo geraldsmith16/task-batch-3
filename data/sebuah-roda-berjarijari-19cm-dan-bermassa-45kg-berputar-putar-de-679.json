@@ -1,0 +1,138 @@
+{
+    "question": "sebuah roda berjarijari 19cm dan bermassa 4,5kg berputar putar dengan kecepatan 50rad/s jika roda dianggap silinder tipis berrongga tentukan energi kinetik rotasi roda",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "Dalam kasus ini, rodanya hanya berputar apa berjalan juga? kalo cuma berputar :<br>Ek=1/2Iw^2<br>Ek=1/2Mr^2w^2<br>Ek=1/2.4,5.0,361.2500<br>Ek = 2030625 ^_^<br>",
+            "attachments": []
+        },
+        {
+            "answer": "Dik\u00a0 r = 19 cm = 0,19 m<br>\u00a0\u00a0 \u00a0 \u00a0 m = 4,5 kg<br>\u00a0\u00a0 \u00a0 \u00a0\u00a0 \u03c9 = 50 rad/s<br>Dit Ek ?<br>jawab.<br>Ek = 1/2 m (r.\u03c9)^2<br>\u00a0\u00a0 \u00a0 = 1/2 . 4,5 . (0,19\u00a0 . 50)^2<br>\u00a0\u00a0 \u00a0 = 1/2 4,5 . (0,0361 . 2500)<br>\u00a0\u00a0 \u00a0  =\u00a0 203,0625 J<br><br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "sebatang-silinder-timah-hitam-sepanjang-1-m-e-16-x-1010-m3-624",
+            "question": "Sebatang silinder timah hitam sepanjang 1 m (E = 1,6 x 10^10 m^3) memiliki luas penampang 1,25 x 10^-3 m^2 ditarik oleh gaya 2500 N. Besar regangan silinder tersebut adalah?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "3194\u00a0=besar regangan silinder",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bagaimanakah-momentum-benda-sebelum-dan-sesudah-tumbukan-218",
+            "question": "Bagaimanakah momentum benda sebelum dan sesudah tumbukan ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Berdasarkan hukum kekekalan momentum,\"jika tidak ada gaya luar yang bekerja pada benda,maka jumlah momentum sebelum tumbukan = jumlah momentum setelah tumbukan\"",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "rumus-rumus-menurut-teori-atom-planck-yang-benar-adalah-825",
+            "question": "Rumus-rumus menurut teori atom planck yang benar adalah?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "E= h.\u00b7v<br>E= ENEGI<br>H= KONSTANTA<br>V= FREKUENSI RADIASI<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "contoh-rangkaian-campuran-732",
+            "question": "Contoh rangkaian campuran",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "kendaraan bermotor yang sebagian besar komponennya terdapat beban listrik yang lebih banyak dari rangkaian seri<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "rangkaian antara rangkaian pararel dan rangkaian seri. contohnya rangkaian dalam kendaraan bermotor",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-silinder-pejal-yang-massanya-40-kg-dan-jari-jari-10-cm-mu-616",
+            "question": "Sebuah silinder pejal yang massanya 40 kg dan jari jari 10 cm, mula    mula diam. setelah di fungsikan selama 5 sekon, silinder berputar dengan\r\n frekuensi 40\u03c0 Hz.a. tentukan percepatan dusutnyab. tentukan besar momen gaya yang bekeja",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "momen gaya silinder pejal : I/2 mr pangkat 2<br>I = 1/2 . 40 . 0,1 pangkat 2<br>I = 0,2 kg m/s",
+                    "attachments": []
+                },
+                {
+                    "answer": "a. \u03b1 = 2f<u></u> / 3m<br>\u00a0\u00a0 \u00a0 \u00a0 = 2.40 / 3.40<br>\u00a0\u00a0 \u00a0 \u00a0 = 2/3 = 0,67<br>b. <em>I </em>= 1/2 mr\u00b2<br>\u00a0\u00a0 \u00a0\u00a0 = 1/2 40. 0,1\u00b2<br>\u00a0\u00a0 \u00a0\u00a0 = 1/2 40. 0,01<br>\u00a0\u00a0 \u00a0\u00a0 = 1/2 0,4<br>\u00a0\u00a0 \u00a0\u00a0 = 0,2<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-lensa-cembung-mempunyai-fokus-sebesar-15-cm-jika-sebuah-b-783",
+            "question": "Sebuah lensa cembung mempunyai fokus sebesar 15 cm. Jika sebuah benda diletakkan 20 cm dari lensa. Tentukan :    a. Jarak bayangan;\r\nb. Perbesaran bayangan; dan\r\nc. Sifat bayangan",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Diketahui :<br>f = 15<br>s = 20<br><br>a. [tex] \\frac{1}{f} =  \\frac{1}{s} + \\frac{1}{s\u2081} [/tex]<br>[tex] \\frac{1}{15} = \\frac{1}{20} + \\frac{1}{s\u2081} \n \\frac{1}{s\u2081} =\u00a0 \\frac{1}{15} - \\frac{1}{20} \n \\frac{1}{s\u2081} = \\frac{4-3}{60} [/tex]<br>s\u2081 = 60<br><br>b. |M| = [tex] \\frac{\\frac{60}{20} [/tex]<br>|M| = 3<br><br>c. Sifat Bayangan:<br>maya, tegak, diperbesar<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "faktor-apa-saja-yang-mempengaruhi-besarnya-konstanta-elastisitas-773",
+            "question": "Faktor apa saja yang mempengaruhi besarnya konstanta elastisitas suatu kawat?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "menurut saya yang mempengaruhi konstanta adalah<br>gaya dan pertambahan panjang :)",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dua-pegas-yang-sama-jenis-dan-ukurannya-mula-mula-disusun-secara-648",
+            "question": "Dua pegas yang sama jenis dan ukurannya mula-mula disusun secara paralel dan diberi beban bermassa mp hingga mengalami pertambahan panjang sebesar x. selanjutnya kedua pegas disusun secara seri dan diberi beban bermassa ms. agar pertambahan panjang pegas pada susunan seri ini sama dengan x juga, maka nilai mp : ms adalah..    fisika 1A bagus raharja",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "k paralel = 2k <br>k seri = k/2 = 0,5 k<br>F = k .x <br>karena x nya sama maka diperoleh <br>F1/k1 = F1/k2<br>mp . g / 2k = ms . g / 0,5 k\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 g dan k nya bisa dicoret shg didapat <br>mp/2 = ms/0,5 <br>mp : ms = 2 : 0,5 <br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 = 4 : 1\u00a0 <br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "silinder-tipis-berongga-silinder-pejal-bola-tipis-berongga-dan-889",
+            "question": "silinder tipis berongga, silinder pejal, bola tipis berongga, dan bola pejal diletakkan diam dipuncak suatu bidang miring. semua benda tersebut memiliki masa dan jari jari sama. benda benda itu kemudian di bebaskan pada saat yang bersamaan. bagaimanakah urutan benda benda itu ketika mencapai dasar bidang?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "BOLA PEJAL, SILINDER TIPIS BERONGGA, BOLA TIPIS BERONNGA LALU SILINDER PEJAL",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tekanan-gas-yang-berada-dalam-suatu-ruangan-dikurangi-sehingga-me-983",
+            "question": "tekanan gas yang berada dalam suatu ruangan dikurangi sehingga menjadi 1/2 nya hal ini menyebabkan suhu gas tersebut turun menjadi 3/4 nya ,tentukan perbandingan volume gas akhir dan awal",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex] \\frac{1}{2} [/tex] :\u00a0[tex] \\frac{3}{4} [/tex] =\u00a0[tex] \\frac{6}{4} [/tex] = 3 : 2<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "[tex] \\frac{P1 x V1}{T1} =  \\frac{P2 x V2}{T2} [/tex]\u00a0 ( di soal kamu P1=1/2 P2 dan T1=3/4 T2 ) paham kak? <br>lalu masukan ke persamaan <br>[tex] \\frac{P1 x V1}{T1} =  \\frac{1/2 P1 x V2}{3/4 T1} [/tex]<br>( coret T1 dan P1 )\u00a0 <br>V1=[tex] \\frac{1}{2}: \\frac{3}{4} [/tex] V2 <br>V1/V2 = 2/3 <br><br><br><br><br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,126 @@
+{
+    "question": "Hitunglah nilai a jika x3 + ax2 - 11 x + 30 mempunyai faktor (x+3)",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "(-4)..............................<br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "dijawab-yah-plis-gtlt-sebuah-fungsi-kuadrat-mempunyai-nilai-m-175",
+            "question": "Dijawab yah plis &gt;&lt;    sebuah fungsi kuadrat mempunyai nilai maksimun\u00a0-3 pada saat\u00a0 = 2, sedangkan untuk\u00a0 = - 2 fungsi bernilai -11. tentukan fungsi kuadrat tersebut !",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "x1=2, x2=-2\nf (x) = a (x- 2)(x+2)\n         =a (x- 2 )(x+2)\ny= a (x- 2)(x-+2)\n-11 = a (\u00d7-2)(\u00d7+2)\n-11 = a (0-2)(0+2)\na = 4/11\n\nNanti tinggal disubstitusi\nDi y = a (\u00d7-2)(\u00d7+2)",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "seorang-pemilik-kebun-memetik-apel-setiap-hari-nya-dan-mencatat-132",
+            "question": "Seorang pemilik kebun , memetik apel setiap hari nya dan mencatatnya , banyak apel yang di petik pada hari ke-n adalah Un=80+20n .    Tentukan banyak nya apel yg di petik dalam satu minggu beserta langkah2 nya.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "seminggu = 7 hari<br>U1 = 80+20(1) = 100<br>U7 = 80+20(7) = 80+140 = 220<br><br>Sn = n/2 (U1 + Un)<br>S7 = 7/2 (100 +220)<br>S7 = 7/2 (320)<br>S7 = 1120<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-kita-perhatikan-jam-berapa-kali-kah-dalam-1-hari-terbentuk-119",
+            "question": "Jika kita perhatikan jam, berapa kali kah dalam 1 hari terbentuk sudut 90 derajat?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "jawabannya 17 kali<br><br>semoga membantu, tolong jadikan jawaban terbaik",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-sebuah-deret-geometri-memenuhi-log-u1-log-u2-log-u3-666",
+            "question": "diketahui sebuah deret geometri memenuhi log U1 + log U2 + log U3 + log U4 + log U5 = 15 log 2. jika r =2, tentukan S9.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Deret geometri dg r = 2<br>log U\u2081 + log U\u2082 + log U\u2083 + log U\u2084 + log U\u2085 = 15 log 2 <br>berdasarkan sifat logaritma, maka didapat : <br>log (U\u2081 . U\u2082 . U\u2083 .U\u2084 . U\u2085) = log 2\u00b9\u2075 <br>U\u2081 x U\u2082 x U\u2083 x U\u2084 x U\u2085 = 2\u00b9\u2075 <br>a x ar x ar\u00b2 x ar\u00b3 x ar\u2074 = 2\u00b9\u2075 <br>a\u2075 x r\u00b9\u2070 = 2\u00b9\u2075\u00a0  <br>a x r \u00b2 = 2\u00b3<br>a x 2\u00b2 = 2\u00b3<br>a = 2<br>S\u2089 = a(r\u2079 - 1) : (r - 1)<br>\u00a0\u00a0 \u00a0 = 2(2\u2079 - 1) : (2 - 1) <br>\u00a0\u00a0 \u00a0  = 2(512 - 1) : 1 <br>\u00a0\u00a0 \u00a0 = 2(511) <br>\u00a0\u00a0 \u00a0  = 1022<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-bantu-saya-ya-suku-suku-barisan-geometri-tak-hingga-ada-754",
+            "question": "Tolong bantu saya ya :)    suku-suku barisan geometri tak hingga adalah positif, jumlah u1+u2=60, dan u3+u4=15,\r\ntentukan jumlah suku barisan itu!\r\nterimakasih (pakai cara ya sobat)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]a+ar=60 \\rightarrow a(1+r)=60\\\\\nar^2+ar^3=15 \\rightarrow ar^2(1+r)=15\\\\\nr^2(a(1+r))=15\\\\\nr^2(60)=15\\\\\nr^2=\\frac{15}{60}\\\\\nr^2=\\frac{1}{4}\\\\\nr=\\frac{1}{2}\\ atau\\ r=-\\frac{1}{2}(TM,\\ karena\\ suku-sukunya\\ positif)\\\\\na(1+r)=60\\\\\na(1+\\frac{1}{2})=60\\\\\na=\\frac{60}{\\frac{3}{2}}\\\\\na=40\\\\\nS_{\\infty}=\\frac{a}{1-r}\\\\\nS_{\\infty}=\\frac{40}{1-\\frac{1}{4}}\\\\\nS_{\\infty}=\\frac{160}{3}[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-rumus-untuk-f-1x-jika-diketahui-fx-x-13-6-983",
+            "question": "Tentukan rumus untuk F-1(x), \u00a0jika diketahui F(x) =(X-1)\u00b3-6",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>F(x) =(X-1)\u00b3<span>-6<br>y=</span></span><span>(X-1)\u00b3-6</span><br>y+6=<span>(X-1)\u00b3<br>[tex] \\sqrt[8]{y+6} [/tex]=x-1<br>1+ </span>[tex] \\sqrt[8]{y+6} [/tex]=x<br><br>F invers(x)= 1+ <span>[tex] \\sqrt[8]{x+6} [/tex]</span><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "luas-jajargenjang-pqrs-adalah-72cm-pq12cm-dan-su8cm-tentukan-575",
+            "question": "Luas jajargenjang PQRS adalah 72cm, PQ=12cm, dan SU=8cm. tentukan keliling PQRS!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "12x2= 24<br>8x2=16<br>24+16= 40",
+                    "attachments": []
+                },
+                {
+                    "answer": "12x2= 24<br>8x2=16<br><span>24+16= 40<br>semoga btul</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "rasionalkan-penyebut-pecahan-berikut-22-66-beri-penjela-135",
+            "question": "Rasionalkan penyebut pecahan berikut. \u00a0    2\u221a2 \r\n6\u221a6\r\n\r\nBeri penjelasannya yang LENGKAP ya :)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "2\u221a2\u00a0\u00f7\u00a06\u221a6 = 2\u221a2\u00a0\u00f7 6\u221a6\u00a0\u00d7 6\u221a6\u00f76\u221a6 = 12\u221a12\u00a0\u00f7 216 = 24\u221a3\u00a0\u00f7 216 = 1/9\u00a0\u221a3",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "di-bantu-yah-sulaiman-ingin-membeli-3-baju-dan-1-pasang-sepa-324",
+            "question": "Di Bantu yah.....    Sulaiman ingin membeli 3 baju Dan 1 pasang sepatu di toko swalayan . Jika di toko tsb tersedia 6baju Dan 2pasang sepatu, banyak nya cara sulaiman memilih barang adalah........",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "21 cara memilih baju dan 3 baju diantaranya dipilih<br>2 cara memilih sepatu dan salah satunya dipilih",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-segitiga-pqr-dengan-pq8-qr6-pr5-tentukan-sudut-p-230",
+            "question": "Diketahui segitiga PQR, dengan PQ=8, QR=6, PR=5.    Tentukan sudut P, Q, dan R.\r\ndiketahui segitiga ABC, AB=3, BC=4, sudut B=135 derajat, panjang AC=?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "p=50,q=40,r=90<br>ac=6,5cm<br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

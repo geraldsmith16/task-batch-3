@@ -1,0 +1,144 @@
+{
+    "question": "H=(a,b,c,d,e,f)\r\ntulislah semua himpunan bagian dari H yg mempunyai 5anggota!",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "<strong>5 anggota</strong> = 6 <br>{a, b, c, d, e}; {a, b, c, d, f}; {a, b, c, e, f}; {a, b, d, e, f}; {b, c, d, e, f}; {a, c, d, e, f}<br><br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "tolong-d-bntu-y-1-3x-3lt6-2-2x-gt-8-x-3-x3lt2x5-4-297",
+            "question": "Tolong d bntu y    1. 3x-3&lt;6\r\n2. 2+x\u00a0&gt;\u00a0 8-x\r\n3.\u00a0x+3&lt;2x+5\r\n4. 2x-2 &gt;4x+4\r\n\r\nbeserta caranya, tp jgn ngasal yyy",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1.3x-3&lt;6<br>3x&lt;+3+6<br>3x&lt;9<br>x&lt;3<br><br>2.2+x<span><u>&gt;</u> 8-x</span><br>x+x<u>&gt;</u>-2+8<br>2x<u>&gt;</u>6<br>x<u>&gt; </u>3<br><br>3.x+3&lt;2x+5<br>x-2x&lt;-3+5<br>-x&lt;2<br>x&gt;-2<br><br>4.<span>2x-2 &gt;4x+4<br>2x-4x&gt;2+4<br>-2x&gt;6<br>x&lt;-3<br></span><br><br><br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "help-berapakah-x-280",
+            "question": "[HELP]\u00a0 berapakah x?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "2^{x-5} = 4^{x+3}<br>2^{x-5} = 2^{2(x+3)}<br>x-5 = 2(x+3)<br>x-5 = 2x+6<br>x-2x = 6+5<br>-x = 11<br>x = -11",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "harga-sebuah-topi-lebih-murah-rp5000-dari-sebuah-ikat-pinggang-469",
+            "question": "harga sebuah topi lebih murah rp.5000 dari sebuah ikat pinggang. harga 3 topi &amp; 2 ikat pinggang rp.45000 (misalkan harga sebuah ikat pinggang x rupiah)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1 buah topi= 4000<br>1 buah ikat pinggang= 16500<br>\u00a0<br>3 buah topi= 4000\u00d73= 12000<br>2 buah ikat pinggang= 16500\u00d72=33000<br>33000+12000=45000<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "gradien-garis-3y-5x120-adalah-161",
+            "question": "Gradien garis 3y-5x+12=0 adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "m=-a/b<br>\u00a0 \u00a0=-(-5)/3<br>\u00a0 \u00a0=5/3",
+                    "attachments": []
+                },
+                {
+                    "answer": "3y - 5x + 12 = 0<br>3y = 5x -12<br>[tex]y =  \\frac{5}{3} x - 4[/tex]<br><br>[tex]m = \\frac{5}{3} [/tex]<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "luas-persegi-adalah-100-cm2-panjang-diagona-persegi-tersebut-a-950",
+            "question": "Luas persegi adalah 100 cm\u00b2 . panjang diagona persegi tersebut adalah\u00a0\r\ndengan cara nya\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "L = sisi x sisi<br>100 = sisi x sisi<br>sisi = 10<br><br>p. diagonal = s akar 2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 10 akar 2 atau\u00a0[tex] \\sqrt{2} [/tex]",
+                    "attachments": []
+                },
+                {
+                    "answer": "luas persegi= sisi x sisi<br>100= S^2<br>S^2= akar 100<br>S= 10<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-jawab-pake-jalannya-ya-326",
+            "question": "Tolong jawab pake jalannya ya",
+            "attachments": [
+                "question-attachments/tolong-jawab-pake-jalannya-ya-326-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "AD=BC<br>BD=AC<br>CG=AE<br><br>BD =\u00a0\u221aAB\u00b2+AD\u00b2<br>=\u221a12\u00b2+9\u00b2<br>=\u221a144+81<br>=\u221a225 = 15cm<br><br>CE =\u00a0\u221aAC\u00b2+AE\u00b2<br>=\u221a15\u00b2+8\u00b2<br>=\u221a225+64<br>=\u221a289 = 17cm<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "65-p30-tentukan-nilai-p-583",
+            "question": "6:5 = p:30 tentukan nilai P",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "30: 5 = 6<br>6 x 6= 36<br>jawabannya 36<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "6:5=p:30<br>30:5= 6<br>6x6=36<br>jadi p=36",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-him-penyelesaian-dari-persamaanlinear-berikut-a-4y-10-277",
+            "question": "Tentukan him. penyelesaian dari persamaanlinear berikut?    a. 4y-10=14\r\nb. 7a+3= 0\r\nc. 8-4b= 6\r\nd. 24y-11=33-20y",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a. 4y-10 = 14<br>\u00a0\u00a0 4y = 14+10 <br>\u00a0\u00a0  4y = 24<br>\u00a0\u00a0 y = 24\u00f74<br>\u00a0\u00a0 y = 6<br>d. 24y - 11 = 33 - 20y<br>\u00a0\u00a0  24y + 20y = 33 + 11 <br>\u00a0\u00a0  44y = 44<br>\u00a0\u00a0 y = 44\u00f744<br>\u00a0\u00a0 y = 1 <br><br>yang saya tau hanya a dan d saja..<br>maaf kalau salah, ini jawaban saya :) <br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span>a. 4y-10=14<br>y = 14+10 / 4 = 24 / 4 = 6<br>b. 7a+3= 0<br>a = -3/7 <br>c. 8-4b= 6<br>b = 6-8 / -4 = 1/2<br>d. 24y-11=33-20y</span><br>24y+20y = 33 + 11<br>44y = 44<br>y = 44/44 = 1<br>itu jawaban saya, semoga benar dan bermanfaat<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sederhanakanlah-bentuk-aljabar-berikut-ini-15-3-x-2-152",
+            "question": "Sederhanakanlah bentuk aljabar berikut ini \r\n15 + 3 (x - 2)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "15 + 3 (x - 2) = 18 (x - 2)<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 18x - 36<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "18-tenaga-dapat-menyelesaikan-pekerjaan-selama-36-haribila-peker-438",
+            "question": "18 tenaga dapat menyelesaikan pekerjaan selama 36 hari.bila pekerjaan itu di delesaikan oleh 24 orang tenaga maka waktu yang di perlukan untuk menyelesaikan pekerjaan itu adalah..",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "jawabannya adalah = 12 hari<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "18 tenaga\u00a0 ===&gt; 36 hari<br>24 tenaga ===&gt; ? hari<br><br>persamaan dibuat terbalik, yaitu : 18/24 = ?/36<br>lalu di kalikan silang, menjadi : 24 x ? = 18 x 36 ===&gt; ? = (18 x 36) / 24 = 27 hari<br><br>semoga membantu :)<br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

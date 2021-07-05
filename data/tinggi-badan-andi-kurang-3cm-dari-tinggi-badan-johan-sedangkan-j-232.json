@@ -1,0 +1,154 @@
+{
+    "question": "tinggi badan andi kurang 3cm dari tinggi badan johan, sedangkan jumlah tinggi badan kedua orang tersebut 329 cm. bentuklah persamaan dalam x kemudian selesaikan!",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "johan \u00a0= x\u00a0<br>andi = x - 3\u00a0<br>x + ( x - 3 ) = 329<br>2x - 3 = 329<br>2x = 332<br>x = 166<br>johan = 166\u00a0<br>andi = x - 3 = 166-3 = 163<br>jika disesuaikan\u00a0<br>andi + johan harus = 329<br>163 + 166 = 329<br>329 = 329",
+            "attachments": []
+        },
+        {
+            "answer": "[tex]andi=x, johan=y\\\\\nx=y-3 \\rightarrow y=x+3\\\\\nx+y=329\\\\\nx+x+3=329\\\\\n2x=326\\\\\nx=163\\\\\ny=166[/tex]",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "dengan-berjalan-kaki-askar-memerlukan-waktu-6-menit-untuk-sampai-824",
+            "question": "Dengan berjalan kaki, askar memerlukan waktu 6 menit untuk sampai ke kampusnya. jarak antara rumah dan kampus 5/8 km. berapa kecepatan rata-rata askar berjalan?    dengan caranya ya",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "6 menit= 360 s<br>5/8 : 360<br>= 1800m/28 s",
+                    "attachments": []
+                },
+                {
+                    "answer": "6 menit = 360 s<br>5/8 km = 625 m<br>k = j/w<br>\u00a0 = 625/360<br>\u00a0\u00a0 = 1,74m/s<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "nih-ada-pr-mtk-sains-gurunya-blm-nerangin-mohon-di-bantu-yok-c-359",
+            "question": "Nih ada pr mtk sains gurunya blm nerangin :( mohon di bantu yok cekidot nih soalny..    Tentukanlah himpunan penyelesaian dari persamaan trigonometri 2-2sin(2x+15\u00b0)=3 untuk 0\u00b0\u2264x\u2264360\u00b0\r\n\r\n\r\nnah tolong bantuin ngerjain soal di atas oke :) please gan sis",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span> 2-2sin(2x+15\u00b0)=3 <br><br>2sin(2x+15) = -1 <br><br></span><span>sin(2x+15) = -1/2 <br><br></span><span>sin(2x+15) = sin 210 <br><br></span>berarti himpunan penyelesaiannya = { 210 , 330 ) <br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pertidaksamaan-x2-9lt4-849",
+            "question": "Pertidaksamaan (\u221ax\u00b2-9)&lt;4",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "(\u221ax\u00b2 - 9) &lt; 4<br>x-3 &lt; 4<br>x &lt; 4+3<br>x&lt;7",
+                    "attachments": []
+                },
+                {
+                    "answer": "(x pangkat 2) &lt; 4<br><br>x pangkat 2 itu bisa dihilangkan pangkatnya yang penting akarnya juga dihilangkan sehingga didapat :<br>= x-9 &lt; 4<br>= x \u00a0 \u00a0 &lt; 4+9<br>= x \u00a0 \u00a0 \u00a0 &lt; 13<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "xy2-x2y225-penyelesaiannya-270",
+            "question": "X+y=2\r\nx^2+y^2=25. Penyelesaiannya?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Perintahnya apa? Tentang bab apa?",
+                    "attachments": []
+                },
+                {
+                    "answer": "soal x+y=2<br>jawab y= 2 - x<br><br>soal x^2+y^2=25<br>jawab x+y=5<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0  y = 5 - x<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "persaman-m-14x2m0-mempunyai-akar-real-tentukan-m-yang-memen-534",
+            "question": "Persaman (m-1)+4x+2m=0 mempunyai akar real. Tentukan m yang memenuhi",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>(m-1)+4x+2m=0<br></span><br><span>m-1+4x+2m=0<br>3m</span><span>+4x=1<br>3m=1-4x<br>m=(1-4x)/3<br>m=(1/3)-(4x/3)<br>maybe :D<br></span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bagaimana-cara-menjelaskan-bahwa-5-kuadrat-sama-dengan-25-490",
+            "question": "Bagaimana cara menjelaskan bahwa 5 kuadrat sama dengan 25.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "5\u00b2 artinya 5 \u00d7 5 .<br>5\u00d75 =25<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "5x5=25<br>25 : 5 = 5<br>akar kuadrat dari bilangan x sama dengan bilangan r sedemikian sehingga r2 = x, atau, di dalam perkataan lain, bilangan r yang bila di\u00a0  kuadratkan sama dengan x.<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-akar-persamaan-kuadrat-dari-6x2-48x-90-tentukan-n-397",
+            "question": "Diketahui akar persamaan kuadrat dari 6x\u00b2 - 48x + 90. tentukan nilai (x1/x2+1) + (x2/ X1+1)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "6x\u00b2-48x+90 = x\u00b2-8x+15<br>=(x-3) (x-5)=0<br>x1 = 3 x2= 5<br><br>silahkan substitusikan sisanya",
+                    "attachments": []
+                },
+                {
+                    "answer": "6x2-48x+90<br>(x-3)(x-5)<br>x1=3 \u00a0x2=5<br><br>(x1/x2+1) + (x2/x1+1)<br>(3/5+1) +(5/3+1)<br>8/5 + 8/3 = 64/15 gitu?\u00a0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "banyak-anggota-matriks-adalah-170",
+            "question": "Banyak anggota matriks\u00a0 adalah....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "antara 12 dan\u00a0tidak ada........................",
+                    "attachments": []
+                },
+                {
+                    "answer": "jelaskan awal mula berdirinya kerajaan singhasari<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-suku-banyak-px-di-bagi-x-2-bersisa-6-dan-dibagi-x-709",
+            "question": "diketahui suku banyak p(x) di bagi (x-2) bersisa -6 dan dibagi (x+2) bersisa 8. tentukan sisa pembagian suku banyak p(x) oleh (x\u00b2-4)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>Dibagi (x-2) sisa -6<br>\ndibagi (x+2) sisa 8</span>\n\n<span><br>Dibagi (x2-4) sisa px+q</span>\n\n<span>(x2-4) = (x-2) (x+2)<br>\u00a0</span><span>(x-2) --&gt;\nf(2)= 2p+q<br>\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 -6 = 2p+q</span>\n\n<br><span>(x+2) --&gt; f(-2)= -2p+q<br>\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 8 = -2p+q</span>\n\n<br>disubtitusikan:\n\n<span>2p+q= -6\u00a0 dengan -2p+q=\n8 mendapat hasil p= -7/2 dan q= 1</span>\n\n<br><span>Jadi sisa pembagian suku banyak p(x) oleh (x2-4)\nadalah px+q= -7/2 <span>x\n+ 1</span></span>\n\n<br><br><br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span><span>Dibagi (x-2) sisa -6<br>\ndibagi (x+2) sisa 8</span>\n\n<span><br>Dibagi (x2-4) sisa px+q</span>\n\n<span>(x2-4) = (x-2) (x+2)<br>\u00a0</span><span>(x-2) --&gt;\nf(2)= 2p+q<br>\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 -6 = 2p+q</span>\n\n<br><span>(x+2) --&gt; f(-2)= -2p+q<br>\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 8 = -2p+q</span>\n\n<br>disubtitusikan:\n\n2p+q= -6\u00a0 dengan -2p+q=\n8 mendapat hasil p= -7/2 dan q= 1\n\n<br><span>\u00a0sisa pembagian suku banyak p(x) oleh (x2-4)\nadalah px+q= -7/2 x\n+ 1</span>\n\n<br></span><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "deret-4-10-16-k-374-jadi-tentukan-nilai-k-adalah-338",
+            "question": "Deret 4 + 10 +16 +.....+k = 374. Jadi tentukan nilai K adalah...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]a=4,b=4,U_n=k\\\\\nU_n=a+(n-1)b\\\\\nk=4+(n-1)6\\\\\n\\frac{k-4}{6}+1=n\\\\\n\\frac{k-4+6}{6}=n\\\\\n\\frac{k+2}{6}=n\\\\\n\nS_n=\\frac{n}{2}(a+U_n)\\\\\n374=\\frac{\\frac{k+2}{6}}{2}(4+k)\\\\\n374=\\frac{k+2}{12}(4+k)\\\\\n4488=(k+2)(k+4)\\\\\nk^2+6k+8=4488\\\\\nk^2+6k-4480=0\\\\\nk_{1,2}=\\frac{-6 \\underline{+}\\sqrt{6^2-4(1)(-4480)}}{2}\\\\\nk_{1,2}=\\frac{-6 \\underline{+}\\sqrt{17956}}{2}\\\\\nk_{1,2}=\\frac{-6 \\underline{+}134}{2}\\\\\nk_{1,2}=-3 \\underline{+}67\\\\k_1=-3+67=64\\\\k_2=-3-67=-70(tidak memenuhi)[/tex]",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

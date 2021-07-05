@@ -1,0 +1,144 @@
+{
+    "question": "jumlah mobil yang diproduksi suatu pabrik selama 1 hari setelah\u00a0t jam operasi adalah\u00a0n(t)\u00a0= 200\u00a0t\u00a0- 10t\u00b2, 0\u00a0\u2264\u00a0t\u00a0&lt; 10. jika biaya produksi\u00a0n\u00a0mobil (dalam dolar) adalah\u00a0B\u00a0(n) = 30.000 + 8.000n , tentukan biaya\u00a0B\u00a0sebagai fungsi dari waktu ,\u00a0B (t).\u00a0berapakah biaya memproduksi mobil selama 1 bulan?",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "n = 200t-10t^2=0<br>\u00a0 \u00a0= 200 - 20t=0<br>t = 200 / 20 = 10\u00a0<br><br>berarti dalam 1 hari memproduksi 10 mobil dalam 1 bulan = 30 hari<br>B\u00a0= 30.000+8000(10.30)<br>\u00a0 \u00a0= 30 000 + 2.400 000<br>\u00a0 \u00a0= 2 430 000 dolar",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "pertidaksamaan-x2-9lt4-849",
+            "question": "Pertidaksamaan (\u221ax\u00b2-9)&lt;4",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "(\u221ax\u00b2 - 9) &lt; 4<br>x-3 &lt; 4<br>x &lt; 4+3<br>x&lt;7",
+                    "attachments": []
+                },
+                {
+                    "answer": "(x pangkat 2) &lt; 4<br><br>x pangkat 2 itu bisa dihilangkan pangkatnya yang penting akarnya juga dihilangkan sehingga didapat :<br>= x-9 &lt; 4<br>= x \u00a0 \u00a0 &lt; 4+9<br>= x \u00a0 \u00a0 \u00a0 &lt; 13<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "di-antara-bilangan-bilangan-4-dan-28-disisipkan-lima-bilangan-seh-543",
+            "question": "di antara bilangan bilangan 4 dan 28 disisipkan lima bilangan sehingga bilangan bilangan semula dengan bilangan-bilangan yang disisipkan membentuk barisan aritmatika. beda barisan tersebut adalah?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "4,10,16,22,28<br>artinya beda barisan tersebut adalah 6<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "faktor-dari-688",
+            "question": "Faktor dari\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex] x^{2} +2x-48\n[/tex]<br>(x+8)(x-6)<br>x=-8 x=6<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "(X+8)(X-6)+0..<br>tu dia ....<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "maaf-sebelumnya-kali-ini-aku-lagi-ada-masalah-besok-bakal-ada-r-646",
+            "question": "Maaf sebelumnya. kali ini aku lagi ada masalah. besok bakal ada razia jilbab,    jlbab aku masih di loundry dan bukanya siang aku lupa ngambil. gimana caranya biar besok aku bisa sakit (pura-pura sakit) dan ngga ketauan\r\n\r\n\"sekolahku bording school :(",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Pake jilbab orangtua aja , ato minjem temen<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "pukul kepela ke tembok aja kak-_-\" ato pagi2 basahin air ke jidat biar kelihatan berkeringat disangka sakit deh..<br><br>kalau ga pake jilbab gmn emg? jilbab temen yg lain?",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-bola-jatuh-dari-ketinggian-8m-dan-memantul-kembali-dengan-827",
+            "question": "sebuah bola jatuh dari ketinggian 8m dan memantul kembali dengan ketinggian 3/5 kali tinggi sebelumnya. Pemantulan ini berlangsung terus menerus hingga bola berhenti. Berapakah jarak lintasan seluruhnya?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "stidak terhingga=8 per 1-3/5<br>=8 per 2/5<br>=20m<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "n(5+3)/(5-3) = 8(8)/2 = 64/2 = 32m<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "limit-dari-2x-2-8xpangkat-2-4-limit-x2-267",
+            "question": "Limit dari 2/x -2 - 8/xpangkat 2 - 4=\r\nlimit x=2",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Lim (x--&gt;2)<br><br>[tex] \\frac{2}{x-2} - \\frac{8}{ x^{2} -4} = \\frac{2(x+2)-8}{ x^{2} -4}=\\frac{2x+4-8}{ x^{2} -4} \\\\  \\\\ =\\frac{2x-4}{ x^{2} -4} = \\frac{2(x-2)}{ (x+2)(x-2)}= \\frac{2}{x+2} [/tex]<br><br>[tex] \\frac{2}{2+2} =  \\frac{1}{2} [/tex]<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "inilah-triple-phytagoras-tadi-ada-yg-request-271",
+            "question": "Inilah \"TRIPLE PHYTAGORAS\"..\r\n#tadi ada yg request",
+            "attachments": [
+                "question-attachments/inilah-triple-phytagoras-tadi-ada-yg-request-271-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "tq bro...........................<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-f-r-r-dengan-fx-invers-fungsi-fx-adalah-163",
+            "question": "diketahui f : R\u00a0\u21d2 R dengan f(x) =\u00a0 invers fungsi f(x) adalah  =",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]f(x)=\\frac{x+1}{2x-4}\\\\ (2x-4)(f(x))=x+1\\\\ 2xf(x)-4f(x)=x+1\\\\ 2xf(x)-x=4f(x)+1\\\\ x(2f(x)-1)=4f(x)+1\\\\ x=\\frac{4f(x)+1}{2f(x)-1}\\\\ nyatakan\\ sebagai\\ f^{-1}(x)\\\\ f^{-1}(x)=\\frac{4x+1}{2x-1};syarat:x \\neq \\frac{1}{2}[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "di-berikan-titik-titik-p6-4-q-1-6-r8-1-s42-tentu-623",
+            "question": "Di berikan titik - titik P(6,-4), Q(-1,-6), R(8,-1), S(4,2) Tentukan :    a. garis yang tegak lurus PR dan Melewati titik Q\r\nb. garis lain yang sejajar RS dan melewati titik P dan hitung keliling segitiga PRS\r\nc. Gradient PQ dan RS",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]gradien\\ PR=\\frac{-1-(-4)}{8-6}=\\frac{3}{2}\\\\ garis\\ yg\\ tegak\\ lurus\\ PR,\\ m_2.m_{PR}=-1\\\\ m_2.\\frac{3}{2}=-1\\\\ m_2=-\\frac{2}{3}\\\\ persamaan\\ garis\\ yg\\ melalui\\ Q(-1,-6) dan\\ tegak\\ lurus\\ PR :\\\\ y-(-6)=-\\frac{2}{3}(x-(-1))\\\\ 3y+18=-2x-2\\\\ 2x+3y+20=0\\\\\n\\\\\ngradien\\ RS=\\frac{2-(-1)}{4-8}=-\\frac{3}{4}\\\\\npersamaan\\ garis\\ melalui\\ P(6,-4)\\ dan\\ sejajar\\ RS:\\\\\ny-(-4)=-\\frac{3}{4}(x-6)\\\\\n4y+16=-3x+18\\\\\n3x+4y=2\\\\[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "berapa-radian-putaran-sebuah-jarum-panjang-suatu-jam-apabila-berp-617",
+            "question": "Berapa radian putaran sebuah jarum panjang suatu jam apabila berputar selama 54 menit???",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "radian putaran sebuah jarum jam apabila berputar selama 54 menit adalah -22596",
+                    "attachments": []
+                },
+                {
+                    "answer": "radian sama kayak derajat dlm 5 mnt bukan?",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

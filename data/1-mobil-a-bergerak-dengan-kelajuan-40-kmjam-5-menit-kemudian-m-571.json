@@ -1,0 +1,130 @@
+{
+    "question": "1. mobil A bergerak    dengan kelajuan 40 km/jam, 5 menit kemudian mobil B bergerak dengan 90 km/jam. Kapan\r\n dan dimana mobil B bisa menyusul A?\r\n\r\n\r\n\r\n2. mobil A dengan\r\n kecepatan 70 km/jam ke barat, mobil B dengan kecepatan 50 km/jam ke timur,\r\n jarak mula mula 10 km. kapan dan dimana mobil A dan B bisa bertemu?",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "kita konversi dulu kecepatannya<br>mobil A = 11,1 m/s<br>mobil B = 25 m/s<br>jaraknya 300 s<br>jarak tempuh 1 = jarak tempuh 2<br>11,1 x\u00a0(t+300) = 25 x t<br>11,1t + 3330 = 25t<br>13,9t = 3330<br>t = 239,56835 s<br><br>tempat ketemu\u00a0<br>=25 x 239,56835<br>=5989,2088 meter dari kedudukan awal",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "contih-soal-hukum-hooke-570",
+            "question": "Contih soal hukum hooke?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Ketika seseorang yang bermasaa 60kg bergelantungan pada ujung sebuah pegas, pegas bertambah panjang 15 cm. tentukan terapan gaya pegas.",
+                    "attachments": []
+                },
+                {
+                    "answer": "sebuah pegas digantung pd statif, panjang mula mula adlh 40 cm, kemudian pd ujungnya digantungi beban seberat 1 kg ternyata panjang pegas menjadi 45 cm. tentukan besar konstanta pegas tersebut jika \u00a0g = 10 m/s\u00b2",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apa-gunanya-kaca-spion-cembung-dan-datar-321",
+            "question": "Apa gunanya kaca spion cembung dan datar",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "kalau kaca spion itu pasti cembung. ga ada lah kalu kaca spion datar. tjuan kaca spion dibuat cermin cembung agar pengendara dapat lebih luas melihat kendaraan di belakang nya. sesuai dengan salah satu prinsip sifat kca cembung yaitu <strong>\"bayangan diperkecil\"</strong><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "seorang-penyelam-mampu-berada-pada-kedalaman-40-m-di-bawah-permuk-504",
+            "question": "Seorang penyelam mampu berada pada kedalaman 40 m di bawah permukaan laut. Jikamassa jenis air laut 1,2 g/cm3 dan percepatan gravitasi 10 m/s\u00b2, maka hitunglah besar tekanan hidrostatis yang dialami penyelam!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "rho= 1,2 g/cm\u00b3=1,2\u00d7(10^-3/10^-6)=1,2\u00d710^3=1200<br>Ph=rho\u00d7g\u00d7h=1200\u00d710\u00d740=480000 N/m\u00b2",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "gelombang-elektromagnetik-yang-memiliki-energi-foton-paling-besa-917",
+            "question": "Gelombang elektromagnetik\u00a0yang memiliki energi foton paling besar adalah....    A. Sinar - X\r\nB. Cahaya Merah\r\nC. Cahaya Ungu\r\nD. Gelombang Radio\r\nE. Sinar Gamma",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "c sinar ungu<br>karena memiliki f terbesar dan panjang gelombang terpendek",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebutkan-contoh-penerapan-1-hukum-archimedes-2-hukum-pascal-3-659",
+            "question": "Sebutkan contoh penerapan :    1. Hukum Archimedes\r\n2. Hukum Pascal\r\n3. Hukum Bernuolli\r\ndalam teknologi ?\r\nmohon bantuannya",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1. apabila sebuah benda, sebagian atau seluruhnya terbenam kedalam air makabenda trsbt mendapat gaya tekan ke atas sebesar berat air yg dipindahkan oleh benda tersebut. contoh benda\u00a0yg menggunakan prinsip ini : kapal laut<br>2. tekanan yang diberikan kepada zat cair akan diteruskan ke segala arah dengan sama besar. contoh penggunaan : peralatan hidrolik<br>3. j<span>umlah dari tekanan, energi kinetik persatuan volume, dan energi potensial persatuan volume mempunyai nilai yang sama pada setiap titik sepanjang suatu garis arus. contoh : manometer, tabung venturi</span>",
+                    "attachments": []
+                },
+                {
+                    "answer": "kalau archimedes kapal laut , \u00a0kalau pascal pesawat terbang , kalau bernoulli parfum atau semprotan nyamuk yang pakai tangkai\u00a0<br>mohon maaf kalau ada kesalahan :D",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apa-betul-jawaban-saya-tlng-di-cmnt-seorang-pelari-menempuh-2-412",
+            "question": "APA\u00a0BETUL JAWABAN SAYA? TLNG DI CMNT !    seorang\r\n pelari menempuh 2 km dalam 5 menit dan kemudian membutuhkan 10 menit untuk\r\n berjalan kembali ketitik awal. a) berapakah kecepatan rata-rata untuk 5 menit\r\n pertama? (b) berapakah kecepatan rata-rata selama waktu yang dipakai berjalan?\r\n (c) berapakah kecepatan rata-rata untuk total perjalanan? (d) berapakah\r\n kelajuan rata-rata untuk total perjalanan?\r\n\r\n JAWABAN\r\n\r\n\r\na)\u00a0dikt :s\r\n = 2 km ~\u00a02000 m,\u00a0t = 5 menit ~\u00a0300 second\r\n\r\n v = s/t = 2000/300 = 6,66 m/s\r\nb)\u00a0dikt :s\r\n = 2 km ~\u00a02000 m,\u00a0t = 10 menit ~ 600 second\r\n\r\n v = s/t = 2000/600 = 3,33 m/s\r\n\u00a0 \u00a0 P1 + P2 =\u00a06,66 + 3,33 = 9,99 m/s\r\n\r\n\r\nc)\r\nd)\u00a0dikt :s\r\n = 2 km ~ 2000 x 2 = 4000 m,\u00a0t = 5 + 10 = 15 menit ~\u00a0900 second\r\n\r\n\r\n\u00a0 \u00a0 v = s/t = 4000/900 = 4,44",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "semuanya betul semua<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-bola-pejal-menggelinding-dari-keadaan-diam-menuruni-suatu-174",
+            "question": "Sebuah bola pejal menggelinding dari keadaan diam menuruni suatu bidang miring yang membentuk sudut 30\"(30derajat) terhadap arah mendatar. kelajuan linear bola ketika telah menempuh lintasan sejauh 3,5 m pada bidang adalah....    tentukan dengan menggunakan persamaan V=((2mgh)/(m+I/R^2))^1/2",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "kalau menurut saya , bikin segitiga dulu , kan sudutnya 30 dan sisi miring nya 3,5 , jadi { sin30 = [tex] \\frac{h}{3,5} [/tex] ==&gt; h = 3.5sin30 = [tex] \\frac{7}{4} [/tex] <br>jadi langsung aja karena bola pejal jadi kecepatan linearnya <u></u>v = [tex] \\sqrt{ \\frac{4}{3} . g . h} [/tex] <br>v = [tex] \\sqrt{ \\frac{4}{3}. 10 .  \\frac{7}{4}  } [/tex] (kalau g nya 9.8 masukan 9.8 ) <br>v = [tex] \\sqrt{ \\frac{70}{3} } m/s[/tex] <br>semoga jawaban saya membantu mas dimas <br>mohon maaf kalau ada salah2 hehe<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "contoh-soal-gerak-vertikal-ke-atas-853",
+            "question": "Contoh soal gerak vertikal ke atas",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "sebuah bola bermassa 3 kg,di lemparkan ke atas,dalam jarak 3 meter setelah di lempar,berapa kecepatan yang dimiliki oleh bola dengan gravitasi 10 m/s^2 :)<br>soalnya aja ? :)",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "benda-bermassa-10-kg-di-atas-bidang-datar-licin-dipengaruhi-gaya-694",
+            "question": "Benda bermassa 10 kg di atas bidang datar licin dipengaruhi gaya 40 N membentuk sudut 60 derajat terhadap horizontal,jika g= 10 m/s^2.tentukan perpindahan benda setelah gaya bekerja 60 \u00a0sekon",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "karena permukaannya licin, maka fg (gaya gesek) = 0<br>cari\u00a0\u03a3 F = m.a<br>\u00a0 \u00a0 \u00a0F + w cos 30 = m .a \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0w = m .g<br>\u00a0 \u00a0 \u00a040 + (10.10.1/2\u221a3) = 10.a<br>\u00a0 \u00a0 \u00a0 40 + 50\u221a3 = 10.a<br>\u00a0\u221a3 = 1,73<br>40 + 50 (1,73) = 10a<br>40 + 86,5 = 10a<br>126,5 = 10 a<br>a = 126,5 /10<br>\u00a0 \u00a0= 12,65 m/s\u00b2<br>mudah2an benar -_-",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "untuk-keamanan-dalam-mendakiseorang-pendaki-gunung-menggunakan-s-591",
+            "question": "untuk keamanan dalam mendaki,seorang pendaki gunung menggunakan sebuah tali nilon yang panjangnya 50 m dan garis tengahnya 1,0 cm.ketika menopang pendaki yang bermassa 80 kg, tali bertambah panjang 1,6 m. tentukan modulus elastis nilon ( ambil\u00a0\u03c0 = 3,15 dan\u00a0g = 9,86 m/\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>E = FLo / delta LA\u00a0<br>= mg Lo / delta LA\u00a0<br>= (80 x 9,86 x 0,5) / (1,6 x (1/4) x 3,15 x 0,01^2)\u00a0<br>= 3,13 x 10^6\u00a0<br><br></span>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

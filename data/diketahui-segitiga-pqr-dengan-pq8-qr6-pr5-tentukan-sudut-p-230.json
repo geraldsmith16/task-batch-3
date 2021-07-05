@@ -1,0 +1,130 @@
+{
+    "question": "Diketahui segitiga PQR, dengan PQ=8, QR=6, PR=5.    Tentukan sudut P, Q, dan R.\r\ndiketahui segitiga ABC, AB=3, BC=4, sudut B=135 derajat, panjang AC=?",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "p=50,q=40,r=90<br>ac=6,5cm<br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "buatlah-contoh-soal-barisan-dan-deret-aritmatika-dalam-teknologi-634",
+            "question": "Buatlah contoh soal barisan dan deret aritmatika dalam teknologi informasi",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Barisan aritmatika:<br>Hitung suku ke-n,<br>1)3,8,13,18............ U50<br>2)24,21,18..............U20<br><br>Deret aritmatika:<br>5,8,11,14<br>Tentukan:<br>a.Suku yg ke -20<br>b. jumah bilangan sampai suku yang ke 20(Sn)<br><br>Semoga membantu.<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "5-sin-a-cos-a-4-sin-a-3-cos-a-tentukan-nilai-a-dengan-kis-323",
+            "question": "5 (sin A - cos A) = 4 sin A - 3 cos A\r\n\r\nTentukan nilai A dengan kisaran 0-360 derajat",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "5(sin A - cos A) = 4 sin A -3 cos A<br>5 sin A - 5 cos A = 4 sin A - 3 cos A<br>2 cos A = sin A<br>A = 2 (\u03c0n + tan^-1(1/2(-1-\u221a5)))<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "akar-akar-pk-2x2-2x-1-0-adalah-alfa-dan-beta-hitunglah-310",
+            "question": "Akar - akar PK 2x^2 + 2x + 1 = 0 adalah alfa dan beta.\r\nhitunglah : 1/alfa^2 + 1/beta^2",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]2x^2+2x+1=0\\\\\n\\frac{1}{ \\alpha ^2}+\\frac{1}{ \\beta ^2}=\\frac{\\beta ^2+\\alpha ^2}{ \\alpha ^2\\beta ^2}\\\\\n\\frac{1}{ \\alpha ^2}+\\frac{1}{ \\beta ^2}=\\frac{(\\alpha +\\beta )^2-2\\alpha \\beta}{ (\\alpha \\beta )^2}\\\\\n\\frac{1}{ \\alpha ^2}+\\frac{1}{ \\beta ^2}=\\frac{(-\\frac{2}{2} )^2-2(\\frac{1}{2})}{ (\\frac{1}{2})^2}\\\\\n\\frac{1}{ \\alpha ^2}+\\frac{1}{ \\beta ^2}=\\frac{1-1}{\\frac{1}{4}}\\\\\n\\frac{1}{ \\alpha ^2}+\\frac{1}{ \\beta ^2}=0[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "log-x2-4x-4-leq-log-5x-10-685",
+            "question": "Log (X^{2} + 4X + 4 ) \\leq log ( 5X + 10 )",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]log(x^2+4x+4) \\leq log(5x+10)\\\\ x^2+4x+4 \\leq 5x+10\\\\ x^2-x-6 \\leq 0\\\\ (x-3)(x+2) \\leq 0\\\\ -2 \\leq x \\leq 3\\\\ syarat:\\\\ 1)\\ x^2+4x+4&gt;0\\\\ (x+2)^2&gt;0\\\\ x+2&gt;0\\\\ x&gt;-2\\\\ 2)\\ 5x+10&gt;0\\\\ 5x&gt;-10\\\\ x&gt;-2\\\\ maka\\ -2\\ tidak\\ memenuhi,\\ sehingga\\ Hp=\\{-2&lt;x\\leq3\\}[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-persamaan-kuadrat-12-x2-k3-x-k2-2k-5-0-385",
+            "question": "Diketahui persamaan kuadrat 1/2 x\u00b2 + (k+3) x - k\u00b2 + 2k + 5 = 0    a. tentukan diskriminannya\r\nb. tentukan nilai k agar memiliki akar kembar\r\nc. tentukan akar persamaan untuk nilai k",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]\\frac{1}{2}x^2+(k+3)x-k^2+2k+5=0\\\\\na)\\ D=(k+3)^2-4(\\frac{1}{2})(-k^2+2k+5)\\\\\nD=k^2+6k+9+2k^2-4k-10\\\\\nD=3k^2+2k-1\\\\\\\\\nb)\\ D=0\\\\\n3k^2+2k-1=0\\\\\n(3k-1)(k+1)=0\\\\\nk=\\frac{1}{3}\\ atau\\ k=-1\\\\\\\\\nk=\\frac{1}{3} \\rightarrow \\frac{1}{2}x^2+(\\frac{1}{3}+3)x-(\\frac{1}{3})^2+2(\\frac{1}{3})+5=0\\\\\n\\frac{1}{2}x^2+\\frac{10}{3}x+\\frac{50}{9}=0\\\\\n9x^2+60x+100=0\\\\\n(3x+10)^2=0\\\\\nx=-\\frac{10}{3}\\\\\\\\\nk=-1 \\rightarrow \\frac{1}{2}x^2+(-1+3)x-(-1)^2+2(-1)+5=0\\\\\n\\frac{1}{2}x^2+2x+2=0\\\\\nakarnya\\ imajiner[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "3-bilangan-membentuk-barisan-geometri-jumlah-ke-3-bilangan-terseb-126",
+            "question": "3 bilangan membentuk barisan geometri jumlah ke 3 bilangan tersebut adalah 14, dan hasil kalinya 64. Tentukan ke 3 bilangan tersebut",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Dik : <br>Barisan geometri\u00a0 U\u2081 + U\u2082 + U\u2083 = 14\u00a0 ; U\u2081 x U\u2082 x U\u2083 = 64<br>Dit : <br>U\u2081\u00a0 ;\u00a0  U\u2082\u00a0  dan U\u2083<br>Jawab : <br>U\u2081 x U\u2082 x U\u2083 = 64 ==&gt; a x ar x ar\u00b2 = 64<br>a\u00b3 x r\u00b3 = 64 .... ruas kiri dan kanan diakar pangkat 3<br>ar = 4 ..... pers(1)<br><br>U\u2081 + U\u2082 + U\u2083 = 14 \u00a0 ==&gt;\u00a0 a + ar + ar\u00b2 = 14 \u00a0 ==&gt;\u00a0 a + ar + ar.r = 14 <br>a + 4 + 4r = 14 ==&gt; 4/r + 4 + 4r - 14 = 0\u00a0 \u00a0 ==&gt;\u00a0 4/r + 4r - 10 = 0 <br>4 + 4r\u00b2 - 10r = 0 ==&gt; 4r\u00b2 - 10r + 4 = 0 ==&gt; (4r - 2)(r - 2) = 0 <br>r = 1/2 atau r = 2 <br>untuk r = 1/2 maka a = 4/0,5 = 8 <br>maka bilangan yang dimaksud adalah : 8 , 4 , 2 <br>untuk r = 2, maka a = 4/2 = 2 <br>bilangan yang dimaksud adalah : 2 . 4 , 8 <br><br><br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "U\u2081 x U\u2082 x U\u2083 = 64\u00a0<br><span>sifat barisan geometri : U\u2081 x U\u2083 = U\u2082\u00b2\u00a0</span><br>maka didapat : U\u2082\u00b3 = 64 ----&gt; U\u2082 = 4 dan U\u2081 x U\u2083 = 16 ..... pers (1)<br>U\u2081 + U\u2082 + U\u2083 = 14<br><span>U\u2081 + 4 + U\u2083 = 14 ----&gt; U\u2081 + U\u2083 = 10 ......pers (2)\u00a0</span><br><span>dari pers 1 dan pers 2 didapat bilangan yang hasil kalinya 16 dan hasil jumlahnya 10 adalah 2 dan 8\u00a0</span><br><span>jadi bilangan yang dimaksud adalah 2 , 4 dan 8\u00a0</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "aku-punya-pr-tapi-aku-atak-tahu-bagaimana-cara-untuk-menemukan-ja-208",
+            "question": "Aku punya PR tapi aku atak tahu bagaimana cara untuk menemukan jalan solusinya,    pertanyaannya begini:\r\n\r\nTemukan grafik fungsi kuadrat f(X) = 4x\u00b2 - 8x +\u00a03, dari grafik fungsi kuadrat g(x) = 4x\u00b2 !\r\n\r\nMohon penjelasannya!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]f(x)=4x^2-8x+3\\\\\ncari\\ titik\\ potong\\ thdp\\ sb\\ x\\ (y=0)\\\\\n0=4x^2-8x+3\\\\\n(2x-3)(2x-1)=0\\\\\nx=\\frac{3}{2}\\ atau\\ x=\\frac{1}{2}\\\\\ndiperoleh\\ (\\frac{3}{2},0)\\ dan\\ (\\frac{1}{2},0)\\\\\\\\\ncari\\ tipot\\ thdp\\ sb\\ y\\ (x=0)\\\\\nf(x)=y=4x^2-8x+3\\\\\ny=4(0)^2-8(0)+3\\\\\ny=3\\\\\ndiperoleh\\ (0,3)\\\\\\\\\ncari\\ titik\\ puncak\\ P(\\frac{-b}{2a},\\frac{-(b^2-4ac)}{4a})\\\\\nP(\\frac{-(-8)}{2(4)},\\frac{-((-8)^2-4(4)(3))}{4(4)})\\\\\nP(1,-1)\\\\\nletakkan\\ semua\\ titik\\ pada\\ koordinat\\ kartesius\\\\\nlalu\\ gambar\\ grafiknya[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-persamaan-bidang-yang-melalui-titik-titik-p-321-557",
+            "question": "Tentukan persamaan bidang yang melalui\u00a0titik- titik\u00a0P ( 3,2,1,); Q ( 4,1,5 ); R ( 2,4,3 )",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "3x + 2y + z = 0\u00a0 \u00a0 <br>4x + y + 5z = 0<br>2x + 4y + 3z = 0<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suku-ke-4dan-suku-ke-7-suatu-barisan-geometri-berturut-trut-adlh-742",
+            "question": "Suku ke 4dan suku ke 7 suatu barisan geometri berturut trut adlh 128 dan 8.192    brapakh suku ke 6................",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "n=2<br>suku<br>1=2<br>2=4<br>3=32<br>4=128<br>5=512<br>6=2048<br>7=8192<br>tinggal dipilih deh jawaban yg dicari :)<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "u4 : a+3b = 128<br>u7 : <u>a+6b = 8192</u><br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 -2b = -8064<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 b = <u>-8064</u><br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 -2<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 b = 4032<br>a+6b = 8192<br>a+6(4032) = 8192<br>a+24192 = 8192<br>a = 8192 - 24192<br>a = -16000<br><br>maka, <br>u6 = a+5b<br>= -16000+5(4032)<br>=\u00a0 -16000+20160<br>= 4160<br>\u00a0kalo nggak salah<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suku-ke-3-deret-geometri-adalah-20-jumlah-suku-ke-5-dan-suku-ke-101",
+            "question": "suku ke-3 deret geometri adalah 20, jumlah suku ke-5 dan suku ke-6 adalah -80. jumlah 5 suku pertama deret ini adalah?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "suku ke 3 = ar^(3-1)=ar^2<br>suku ke 5 = ar^(5-1)=ar^4<br>suku ke 6\u00a0= ar^(6-1)=ar^5<br><br>ar^2=20.............(1)<br><br>ar^4+ar^5=\u00a0-\u00a080<br>ar^4(r+1)= - 80<br><br>ar^2x r^2 (r+1)= - 80<br>20 xr^2 (r+1)= - 80<br>r^2 (r+1)= - 4<br><br>r^3+r^2+4=0........(2)<br><br>faktorkan dg cara horner dapat (r+2)(r+1)(r-2)<br><br>r yang dpt memenuhi ke2 persamaan adalah r=\u00a0- 2<br><br>maka ar^2=20<br>a=5<br><br>S5=a(1-r^5)/(1-r)<br>=5(1-(-32))/(1-(-2))<br>=5(33)/(1+2)<br>=55",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

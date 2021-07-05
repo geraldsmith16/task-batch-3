@@ -1,0 +1,130 @@
+{
+    "question": "Faktor yang mempengaruhi elastisitas sebuah benda",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "sifat fisik yang utama adalah karena dipengaruhi oleh struktur penyusunnya<br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "sebuah-silinder-pejal-yang-massanya-40-kg-dan-jari-jari-10-cm-mu-102",
+            "question": "Sebuah silinder pejal yang massanya 40 kg dan jari jari 10 cm, mula    sebuah silinder pejal yang massanya 40 kg dan jari jari 10 cm, mula \r\n\r\n mula diam. setelah di fungsikan selama 5 sekon, silinder berputar dengan\r\n\r\n frekuensi 40\u03c0 Hz. \r\nTentukan percepatan sudutnya?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Dik <br>m =40 kg<br>r =10cm =0,1 m <br>t = 5 s <br>f = 40\u03c0 Hz<br>Dit \u03b1<br>jawab.<br>i = 1/2 mr^2<br>\u00a0= 1/2 40 . 0,1^2<br>\u00a0= 20 . 0,001<br>\u00a0= 0,2 kgm^2<br>\u03c9 = 2\u03c0f<br>\u00a0\u00a0 = 2 \u03c0 40 \u03c0<br>\u00a0\u00a0 = 80 \u03c0^2 <br>\u03b1 = \u0394\u03c9/\u0394t <br>\u00a0\u00a0 = 80\u03c0^2/5 = 16 \u03c0 rad/s<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-roda-berjarijari-19cm-dan-bermassa-45kg-berputar-putar-de-679",
+            "question": "sebuah roda berjarijari 19cm dan bermassa 4,5kg berputar putar dengan kecepatan 50rad/s jika roda dianggap silinder tipis berrongga tentukan energi kinetik rotasi roda",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Dalam kasus ini, rodanya hanya berputar apa berjalan juga? kalo cuma berputar :<br>Ek=1/2Iw^2<br>Ek=1/2Mr^2w^2<br>Ek=1/2.4,5.0,361.2500<br>Ek = 2030625 ^_^<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Dik\u00a0 r = 19 cm = 0,19 m<br>\u00a0\u00a0 \u00a0 \u00a0 m = 4,5 kg<br>\u00a0\u00a0 \u00a0 \u00a0\u00a0 \u03c9 = 50 rad/s<br>Dit Ek ?<br>jawab.<br>Ek = 1/2 m (r.\u03c9)^2<br>\u00a0\u00a0 \u00a0 = 1/2 . 4,5 . (0,19\u00a0 . 50)^2<br>\u00a0\u00a0 \u00a0 = 1/2 4,5 . (0,0361 . 2500)<br>\u00a0\u00a0 \u00a0  =\u00a0 203,0625 J<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-beban-20-kg-digantung-pada-ujung-sebuah-kawat-baja-panjang-564",
+            "question": "sebuah beban 20 kg digantung pada ujung sebuah kawat baja panjangnya 150 cm dan diameter 8 mm yang tergantung vertikal. jika percepatan gravitasi 10 ms-2 dan modulus elastisitas baja 2x10 pangkat 11 N/m2. hitunglah besar tegangan dan regangan kawat dan energi potensial elastisitas kawat",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "F=m x g= 20 x 10 = 200 N<br>r = 4mm=0,004<br>L=150cm=1,5 m<br>A=\u00a0\u03c0r.r=5,024 x 10 pangkat -5 m2<br>E=2x10 pangkat 11<br>tegangan =F/A=200/5,024 x 10 pangkat -5 =3980891,72 N/m2<br>regangan(e)=\u00a0\u0394L/Lo<br>E=F.L/A.\u0394L<br>\u0394L=F.L/A.E =200.1,5/5,024 x 10pangkat -5 x 2.10pangkat\u00a011<br>\u00a0\u0394L =2,98 x 10pangkat -5<br>regangan(e)= 2,98 x10pangkat -5/1,5<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0=1,98 x 10pangkat -5<br>F = k.\u0394L<br>k=F/\u0394L = 200/2,98 x 10 pangkat -5=6711409,36 N/m<br>Ep = 0,5 x k x\u00a0\u0394L x\u00a0\u0394L<br>\u00a0 \u00a0 \u00a0=0,5 x 6711409,36 x (2,98 x10pangkat -5)\u00b2<br>\u00a0 \u00a0 \u00a0=2,97 x 10pangkat -3 joule<br>Yang Ep ini agak ragu soalnya pake rumus dari energi potensial pegas",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dua-pegas-dengan-konstanta-pegas-k1-dan-k2-dihubungkan-seri-hitu-566",
+            "question": "Dua pegas dengan konstanta pegas k1 dan k2 dihubungkan seri. hitung konstanta gabungan kedua pegas.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1/k1 + 1/k2.\u00a0<br>k1+k2/k1k2.<br>totalnya: k1k2/k1+k2.<br>(kayak ngitung arus listrik paralel)",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-ganya-15-n-di-kerjakan-pada-benda-bermassa-m-benda-berg-736",
+            "question": "sebuah ganya 15 N di kerjakan pada benda bermassa\u00a0m.\u00a0benda bergerak dalam garis lurus, dengan kelajuan yang bertambah 10\u00a0m/s\u00a0setiap 2\u00a0s. hitung massa\u00a0m.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "F = 15 N<br>a = 5m/s^2<br>F =m.a<br>m = F/a = 15/5 = 3 kg :)",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "modulus-young-aluminium-adalah-710-pangkat-10-pa-jika-seutas-ka-576",
+            "question": "modulus young aluminium adalah 7.10 pangkat 10 Pa. jika seutas kawat aluminium berdiameter 1.5 mm &amp; panjang50 cm direnggangkan 10 m. berapa gaya yang dikerjakan oleh kawat?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "F=7,0 x 10 pangkat 10 x 2,0x 10 pangkat -2 x 1,76 x 10 pangkat -4<br>F-247 N",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apakah-pengertian-gaya-berat-dan-contoh-gaya-berat-588",
+            "question": "Apakah pengertian gaya berat dan contoh gaya berat?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "gaya berat adalah resultan gaya tarik bumi dan gaya sentrifugal yang bekerja pada suatu benda",
+                    "attachments": []
+                },
+                {
+                    "answer": "kemampuan untuk melakukan usaha",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "ada-yg-tau-ngga-website-buat-download-ppt-fisika-tentang-pemanfaa-839",
+            "question": "ada yg tau ngga website buat download ppt fisika tentang pemanfaatan energi nuklr dan radioisotop? (ini materi kelas xii semester 2) sy sdhputus asa krn sejak 2 hari yg lalu smpe skrg ngga dapat-dapat",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Bisa cari di slideshare.com disitu banyak materi-materi yang dibutuhin",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "kenapa-energi-potensial-pada-listrik-statis-skalar-ttapi-medan-da-869",
+            "question": "Kenapa energi potensial pada listrik statis skalar ttapi medan dan gaya listrik vektor?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "karena energi memiliki nilai saja\u00a0tidak memiliki arah maka merupakan\u00a0vektor<br>medan dan gaya listrik memiliki nilai dan\u00a0arah yaitu muatan + ke - sehinnga merupakan besaran skalar",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-mobil-menempuh-jarak-10-km-dalam-waktu-15-menit-kelajuan-846",
+            "question": "Sebuah mobil menempuh jarak 10 km dalam waktu 15 menit. kelajuan rata-rata mobil tersebut adalah ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "v=s/t<br>V=10/1/4<br>v=40km/jam",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

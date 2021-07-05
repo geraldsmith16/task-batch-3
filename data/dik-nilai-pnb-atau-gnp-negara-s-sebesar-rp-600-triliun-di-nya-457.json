@@ -1,0 +1,146 @@
+{
+    "question": "dik: nilai PNB atau GNP negara S sebesar Rp. 600 triliun, DI nya Rp 30 triliun, pajak langsung Rp 50 triliun, dan transfer payment Rp 150 triliun, maka pendapatan perseorangannya sebesar?",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "<span>nilai PNB atau GNP negara S sebesar Rp. 600 triliun, <br>DI nya Rp 30 triliun, <br>pajak langsung Rp 50 triliun, dan <br>transfer payment Rp 150 triliun, maka pendapatan perseorangannya sebesar?<br><br></span><span>NNI = NNP - Pajak tidak langsung<br></span><span>DI = PI - Pajak langsung<br></span>PI = DI + pajak langsung\u00a0<br><br>1. \u00a0PI = NNI - (Iuran Jamsostek + Asuransi + Pajak Perseroan + Laba ditahan ) + Transfer Payment<br><span><br>PI = 600 - () + 150 triliun\u00a0<br>PI = 750 triliun .. 1<br><br>2.\u00a0</span>DI = PI - Pajak langsung<br>30 = PI - 50<br>PI = 80 triliun ..2\u00a0<br><br>1 + 2 = 750 + 80 = 830\u00a0",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "jelaskan-perilaku-produsen-yang-terjadi-di-pasar-faktor-produksi-120",
+            "question": "Jelaskan perilaku produsen yang terjadi di pasar faktor produksi!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Mencari keuntungan sebanyak-banyaknya dan selalu siap bersaing melawan pasar lain yang lebih maju, agar tercipta perkembangan nilai ekonomis pada setiap dagangan. Okay ? @Liwed",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "mengapa-modal-perusahaan-dan-pinjaman-termasuk-ke-dalam-sumber-da-380",
+            "question": "Mengapa modal perusahaan dan pinjaman termasuk ke dalam sumber dana dari dalam/luar perusahaan ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "karena dapat membantu pemasukan modal, sehingga hasil produksi meningkat",
+                    "attachments": []
+                },
+                {
+                    "answer": "sumber dana dalam neraca perusahaan berada di tabel pasiva, yang artinya murni sebagai sumber operasional dan investasi perusahaan. <br>Aktiva\u00a0 \u00a0 |\u00a0 \u00a0 Pasiva<br>------------------------<br>Kas\u00a0 \u00a0 \u00a0\u00a0 |\u00a0 \u00a0 \u00a0 hutang<br>Aktiva\u00a0\u00a0 |\u00a0 \u00a0 \u00a0  Ekuitas (saham)<br>lancar<br>Aktiva<br>tetap<br><br>nilai aktiva dan pasiva selalu sama sehingga seberapa besar pengeluaran perusahaan tidak pernah lebih dari nilai pasivanya <br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dik-nilai-pnb-atau-gnp-negara-s-sebesar-rp600-triliun-di-rp300-250",
+            "question": "dik: nilai PNB atau GNP negara S sebesar Rp600 triliun, DI Rp300 trilliun, pajak langsung Rp50 triliun, dan transfer payment Rp. 150 triliun maka pendapatan perseorangannya sebesar",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>nilai<br>\u00a0<br>PNB atau GNP negara S sebesar Rp600 triliun, <br>DI Rp300 trilliun,<br>\u00a0pajak langsung Rp50 triliun, dan <br>transfer payment Rp. 150 triliun <br>maka pendapatan perseorangannya sebesar<br>NNI = GNP - NNP\u00a0<br></span><span>PI = NNI - (Iuran Jamsostek + Asuransi + Pajak Perseroan + Laba ditahan ) + Transfer Payment + pajak langsung - DI<br></span>PI = 600 -(0 + 0) + 150 + 50 - 300<br>PI = 500",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "gimana-carax-membuat-buku-besar-dalam-pembukuan-akuntansi-624",
+            "question": "Gimana carax membuat buku besar dalam pembukuan akuntansi",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Data\u00a0Buku besar dapat diperoleh dari jurnal umum",
+                    "attachments": []
+                },
+                {
+                    "answer": "Pertama selesaikan terlebih dahulu jurnal harian<br>kemudian dari jurnal harian ini kita masukkan ke dalam sebuah data yang berfokus pada debit dan kredit nya saja agar di dapatkan nilai akhir dari kas, aset, sedangkan untuk sisi pasiva di dapatkan hutang dan modal sendiri. Dari buku besar ini juga akan di breakdown jumlah penjualan dan dana operasional perusahaan. Sehingga kita juga bisa membuat laporan untung rugi.\u00a0<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jelaskan-pentingnya-bank-dalam-kehidupan-sehari-hari-654",
+            "question": "Jelaskan pentingnya bank dalam kehidupan sehari-hari!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "salah satunya, untuk memanajemen uang. kalo uangnya disimpan di rumah, ada sedikit perlu diambil, sedikit sedikit diambil. kalo di bank enggak<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "agar tidak hidup boros .",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "mengapa-pelaksanaan-perdagangan-di-pasar-modal-haus-diawasi-bape-770",
+            "question": "Mengapa pelaksanaan perdagangan di pasar. Modal haus diawasi bapepam?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "karena kalau tidak di awasi maka akan di takutkan terjadi kecurangan dan penyimpangan",
+                    "attachments": []
+                },
+                {
+                    "answer": "Pasar modal merupakan tempat bertemunya penjual dan pembeli yang memperdagangkan pasiva perusahaan, bisa dalam bentuk saham ataupun obligasi. Bisa juga surat hutang atau surat kepemilikan. Peran bapepam di sini adlaah\u00a0<br>1. menghindari adanya internal trade, yaitu perdagangan yang tidak sesuai dengan azas hukum efektif, dimana seorang pedangang menjual lebih murah ke pembeli lain karena adanya keuntungan sepihak.<br>2. menghindari adanya asimetrik information, dimana seorang pembeli memiliki info yang tidak dimiliki pembeli lain.\u00a0<br>3. Memastikan bahwa saham yang dijual berasal dari perusahaan yang benar benar layak memperdagangkan sahamnya. Karena kalau perusahaan itu mau bangkrut ya yang rugi pembelinya.\u00a0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jelaskan-perilaku-produsen-yang-terjadi-di-pasar-faktor-produksi-820",
+            "question": "Jelaskan perilaku produsen yang terjadi di pasar faktor produksi!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>1. bahwa produsen atau pengusaha selalu berusaha mencapai keuntungan yang maksimum<br>\n2. bahwa produsen atau pengusaha beroperasi dalam pasar persaingan sempurna.</span><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Produsen akan berusaha mencari berbagai keuntungan maksimal dan produsen akan siap bersaing dengan produksi-produksi dari pasar sebelah. Okay ? @Liwed",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "mengapa-penanaman-modal-jangka-panjang-harus-dilakukan-dengan-hat-693",
+            "question": "Mengapa penanaman modal jangka panjang harus dilakukan dengan hati-hati ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Setiap investasi kita selalu melihat cost of investment dan rasio keuntungan. Di konsep ekonomi ada yang namanya opportunity cost. Nah jangka panjang ini karena biasanya nilai mature dari investasi nya cukup panjang maka kita harus berhati hati dalam memilih opportunity cost. Contoh misal kita investasi di deposito dengan untung 10% per tahun selama 5 tahun. Tiba tiba kita tahu kalau investasi di emas bisa untuk 12 % per tahun selama 5 tahun maka kita sudah rugi secara opportunity sebesar 2%. <br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bagaimanakah-perilaku-konsumen-dalam-objek-pembahasan-ekonomi-mik-563",
+            "question": "Bagaimanakah perilaku konsumen dalam objek pembahasan ekonomi mikro?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "menurut gua , perilaku konsumen pada\u00a0 obyek pembahasan ekonomi mikro adalah berperilaku baik ,dan bertanggapan baik pada pembahasan ekonomi mikro ,,.. <br>\u00a0thank&#039;s,.. <br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span>menurut gua , perilaku konsumen pada\u00a0 obyek pembahasan ekonomi mikro adalah berperilaku baik ,dan bertanggapan baik</span><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-di-jawab-yah-pr-buat-besok-nih-1-kebijakan-penetapan-165",
+            "question": "Tolong di jawab yah , pr buat besok nih !    1. kebijakan penetapan harga bertujuan untuk menerobos produk perusahaan lain masuk ke pasar di sebut ?\r\n2. penetapan harga produk yg di jual sudah mendapatkan keuntungan, maka lgsung di jual . hal ini sering di lakukan oleh pedagang termasuk kebijakan harga retailer... ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<br>1. kebijakan penetapan harga bertujuan untuk menerobos produk perusahaan lain masuk ke pasar di sebut ?<br>Penetrasi harga _ &gt; merupakan strategi untuk menerobos persaingan yang sudah mapan dengan cara menurunkan harga dibanding kompetitior\u00a0<br><span>2. penetapan harga produk yg di jual sudah mendapatkan keuntungan, maka lgsung di jual . hal ini sering di lakukan oleh pedagang termasuk kebijakan harga retailer... ?<br>Merupakan konsep yang ada di pasar persaingan sempurna, karena harga tidak terlalu jauh perbedaannya.\u00a0</span>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

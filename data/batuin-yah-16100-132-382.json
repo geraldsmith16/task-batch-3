@@ -1,0 +1,150 @@
+{
+    "question": "Batuin yah :)\r\n\r\n16\u221a100\r\n1+\u221a32",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "hasilnya 160/ 5[tex] \\sqrt{2} [/tex]",
+            "attachments": []
+        },
+        {
+            "answer": "[tex] \\frac{16 \\sqrt{100} }{1+ \\sqrt{32} } = \\frac{16 \\sqrt{10.10} }{1+ \\sqrt{16.2} } = \\frac{16.10 }{1+ 4\\sqrt{2} }  \\\\  \\\\ =\\frac{160 }{1+ 4\\sqrt{2} }. \\frac{1- 4\\sqrt{2}}{1- 4\\sqrt{2}} = \\frac{160-640 \\sqrt{2} }{1-32} \\\\  \\\\ =\\frac{160-640 \\sqrt{2} }{-31}  =-\\frac{160-640 \\sqrt{2} }{31}[/tex]<br><br>atau lebih bagus gini<br>[tex]- \\frac{160}{31} (1-4 \\sqrt{2} )[/tex]<br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "059-10-a-0002481-nilai-a-adalah-181",
+            "question": "(0,59)\r\n(10 \u00a0 ) = a + 0,002481. nilai a adalah\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "0,59 / 10= a + 0,002481<br><br>nilai a ialah<br>0,59=10a + 0,02481<br>-10a = 0,02481-0,59<br>-10a = -0,56519<br>a= -0,56519/-10<br>a=0,056519<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "0.059=a+0.002481<br>a=0.059-0.002481<br>a=0.056519<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "32-2-128-bagaimana-cara-mengerjakannya-28-18-556",
+            "question": "\u221a32 - \u221a2 +\u221a128 bagaimana cara mengerjakannya\r\n\r\n2\u221a8 + \u221a18 + \u221a32 +\u221a200",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>=\u221a32 - \u221a2 +\u221a128<br>=</span>\u221a16\u221a2 - \u221a2 + \u221a64<span>\u221a2<br>=4</span><span>\u221a2-\u221a2+8\u221a2<br>=</span><span>\u221a2(4-1+8)<br></span>=\u221a2 x 11<br>=11\u221a2<br><br><span>=2\u221a8 + \u221a18 + \u221a32 +\u221a200<br>=2\u221a4\u221a2+\u221a9\u221a2+\u221a16\u221a2+\u221a100\u221a2<br>=4\u221a2+3\u221a2+4\u221a2+10\u221a2<br>=\u221a2(4+3+4+10)<br>=\u221a2 x 21<br>=21\u221a2</span><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pada-balok-klmnpqrs-berikut-ini-panjang-kl20cm-lm16cm-dan-lq1-681",
+            "question": "Pada balok KLMN.PQRS berikut ini panjang KL=20cm LM=16cm dan LQ=12 cm     hitunglah panjang LR dan Luas KLRS",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "LR^2=16^2\u00a0. 16^2<br>LR^2=256+256<br>LR^2=16/2 \u00a0 ket: / akar<br>luas KLRS = 20 . 16/2 = 320/2",
+                    "attachments": []
+                },
+                {
+                    "answer": "LR =\u00a0[tex] \\sqrt{LM + RM } [/tex]<br>=[tex] \\sqrt{16 ^{2} + 12 ^{2} } [/tex]<br>=[tex] \\sqrt{256 + 144} [/tex]<br>=\u00a0[tex] \\sqrt{400} [/tex]<br>= 20 CM\u00a0<br>L.KLRS = p x LR<br>=20 X 20<br>=400 cm^{2} [/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "ini-caranya-bagaimana-625",
+            "question": "Ini caranya bagaimana?",
+            "attachments": [
+                "question-attachments/ini-caranya-bagaimana-625-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "Caranya : Luas persegi panjang - Luas bagian yang tidak diarsir<br><br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "L. arsir = (35 x 15) - L.setengah lingkaran - L.persegi<br>= 525 - 77 - 36<br>= 412 cm^2",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "cara-menggunakan-kpk-1-1416818-2-814-514-3-3035-1214-287",
+            "question": "Cara menggunakan KPK \r\n1. 14/16+8/18=\r\n2. 8/14-5/14=\r\n3 30/35-12/14=\r\n4 8/12-2/10=\r\n.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Jawab:<br>1. 14/18 + 8/18 = 22/18 (KPK penyebut sudah sama jadi bisa langsung dijumlahkan pembilangnya).<br>2. 8/14 - 5/14 = 3/14 (KPK penyebut sudah sama jadi bisa langsung dikurangkan pembilangnya).<br>3. 30/35 - 5/14 = 60/70 - 5/70 = 55/70 : 5/5= 11/70 (bentuk paling sederhana).<br>\u00a0 \u00a0(KPK penyebut belum sama jadi harus disamakan dulu KPK nya:<br>\u00a0 \u00a0 35 = 5 x 7<br>\u00a0 \u00a014 = 2 x 7<br>\u00a0 \u00a0KPK = 2 x 5 x 7 = 70)<br>4. 8/12 - 2/10 = 40/60 - 12/60 = 28/60 : 2/2 = 19/30.<br>\u00a0 \u00a0(KPK penyebut belum sama jadi harus disamakan dulu KPK nya:<br>\u00a0 \u00a0 12 = 2 x 2 x 3 =\u00a0[tex] 2^{2} [/tex] x 3<br>\u00a0 \u00a0 10 = 2 x 5<br>\u00a0 \u00a0 KPK =\u00a0\u00a0[tex] 2^{2} [/tex]\u00a0x 2 x 3 = 60).<br><br><br>semoga bisa membantu ^_^,,,<br>maaf kalau ada kesalahan ^_^,,,<br>jika tidak mengerti, silahkan ditanyakan ^_^,,,",
+                    "attachments": []
+                },
+                {
+                    "answer": "1.\u00a0[tex]\\frac{14}{16}+\\frac{8}{18}[/tex]<br>KPK (16,18)\u00a0= 16x9 = 144<br>[tex]\\frac{14}{16}+\\frac{8}{18}=\\frac{14\\times 9}{144}+\\frac{8\\times 8}{144}=\\frac{126}{144}+\\frac{64}{144}= \\frac{190}{144} [/tex]<br><br>2.<br>[tex] \\frac{8}{14} - \\frac{5}{14}= \\frac{8-5}{14} = \\frac{3}{14}  [/tex]<br><br>3.<br>[tex] \\frac{30}{35}- \\frac{12}{14}= \\frac{6}{7}   - \\frac{6}{7} = 0[/tex]<br><br>4.<br>[tex] \\frac{8}{12}- \\frac{2}{10}= \\frac{2}{3}- \\frac{1}{5}=     \\frac{2\\times 5}{15}- \\frac{1\\times 3}{15} =\\frac{10}{15}- \\frac{ 3}{15}=\\frac{ 7}{15}[/tex]<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "6-24-a-itu-gimana-yah-caranya-aku-bingung-416",
+            "question": "6\r\n -+2=4\r\n A\r\n Itu gimana yah caranya aku bingung?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "A = 6 - (+2) = 4<br>A = 6 - 2\u00a0<br>A = 4",
+                    "attachments": []
+                },
+                {
+                    "answer": "6-2=4a<br>4 = 4a<br>a = 1<br>mungkin seperti itu<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "keliling-sebuah-belahketupat-120cm-jika-panjang-slah-satu-diag-913",
+            "question": "keliling sebuah belahketupat 120cm.\u00a0 jika panjang slah satu diagonalny 48cm.\u00a0 berapakah luas belahketupat\u00a0 tersebut..",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]\\text{K}=4\\times\\text{s}\\\\\n120=4\\times\\text{s}\\\\\n\\text{s}=120:4\\\\\n\\text{s}=30\\\\\\\\\n\\text{d}_2= \\sqrt{30^2-(48:2)^2} \\\\\n\\text{d}_2= \\sqrt{30^2-24^2}\\\\\n\\text{d}_2= \\sqrt{900-576}\\\\\n\\text{d}_2= \\sqrt{324}\\\\\n\\text{d}_2= 18\\times2=36\\text{ cm}\\\\\\\\\n\\text{L}= \\frac{\\text{d}_1\\times\\text{d}_2}{2} \\\\\n\\text{L}= \\frac{48\\times36}{2}~~(36:2=18)\\\\\n\\text{L}=48\\times18\\\\\n\\boxed{\\boxed{\\text{L}=864\\text{ cm}^2}}}[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-besar-sudut-x-dan-y-dalam-derajat-pada-segitiga-siku-s-333",
+            "question": "tentukan besar sudut x dan y (dalam derajat) pada segitiga siku-siku berikut.. tolong dijawab ya beserta penjelasannya :) thanks!",
+            "attachments": [
+                "question-attachments/tentukan-besar-sudut-x-dan-y-dalam-derajat-pada-segitiga-siku-s-333-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "sudut x dan y = masing\" 45 derajat<br>Kenapa?<br>karena jumlah semua sudut dalam suatu segitiga adalah 180, dan besar sudut siku siku adalah 90.<br>180-90 = x+y<br>90 = x+y<br>karena segitiga tersebut adalah segitiga siku siku sama kaki, maka besar sudut x dan y adalah SAMA<br>jadi,<br>90:2 = 45<br>x= 45<br>y=45<br>semoga betul ^^",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bu-aminah-menyimpan-uang-di-bang-sebesar-rp-60000000-setelah-4-329",
+            "question": "bu aminah menyimpan uang di bang sebesar rp 600.000.00 setelah 4 bulan jumlah simpenan bu aminah\u00a0 menjadi rp 648000.00 suku bunga tunggal (%) yang di berikan bank itu per tahun adalah ...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "4 bulan = 648.000 - 600.000 = 48.000<br>1 bulan = 12.000<br>1 tahun = 12 x 12.000 = 144.000<br><br>% = (144.000/600.000) x 100%<br>% = (12/50) x 100%<br>% = 24 %",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pembangunan-seb-gedung-dapat-selesai-dalm-wktu-70-hari-oleh-24-ku-245",
+            "question": "pembangunan seb gedung dapat selesai dalm wktu 70 hari oleh 24 kuli.Setelah dikerjakan 20 hari pekerjaan berhenti 10 hari.Agar pembangunan selesai tepat wktu , maka tenaga kerja tambahannya adalah .....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<u>50 </u>=\u00a0<u>x<br></u>40 \u00a0 \u00a024 \u00a0 \u00a0(kali silang)<br><u><br></u>40x = 50.24<br>40x = 1200<br>\u00a0x \u00a0 = \u00a0<u>1200<br></u> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a040<br>\u00a0x \u00a0 \u00a0= 30<br><br>jumlah tambahan pekerja = 30 - 24<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 6 orang (kalo gk salah )",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

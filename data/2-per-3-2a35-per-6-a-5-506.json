@@ -1,0 +1,150 @@
+{
+    "question": "2 per 3 (2a+3)=5 per 6 (a-5)=",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "2/6a+9 = 5/6a-30<br>12a-60 = 30a+45<br>-105 = 18a<br>a= -105/18",
+            "attachments": []
+        },
+        {
+            "answer": "[tex] \\frac{2}{3} (2a+3)= \\frac{5}{6} (a-5)  [/tex]<br><br>[tex] \\frac{4a+6}{3} =  \\frac{5a-25}{6} [/tex]<br><br>3(5a-25)=6(4a+6)<br><br>[tex]15a-75=24a+36[/tex]<br><br>15a-24a=36+75<br>-9a=111<br>a=111/-9<br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "harga-1-lusin-pensil-rp-1800000maka-tentukan-harga-9-pensil22-594",
+            "question": "Harga 1 lusin pensil Rp 18.000,00,maka tentukan harga 9 pensil,22 pensil dan 1 gros pensil !",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "\u00a0 9 pensil = Rp. 13.500<br>\u00a022 pensil =\u00a0Rp. 33.000<br>1 gros (144buah) = Rp. 216.000<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jawablah-pertanyaan-berikut-dengan-menggunaakan-2-cara-yaitu-perb-964",
+            "question": "Jawablah pertanyaan berikut dengan menggunaakan 2 cara yaitu perbandingan dan perkalian silang !",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "400 / 8 = 60 / x<br>\u00a0perkalian silang:<br>400 * x = 8 * 60<br>x = 480 / 400<br>x = 1,2<br><br>perbandingan:<br>400 / 8 = 60 / x<br>50 = 60 / x<br>x = 60 / 50<br>x = 6 / 5<br>x = 1,2<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "cara perkalian silang<br>[tex] \\frac{400}{8} =  \\frac{60}{x}  \\\\ 400x=8.60 \\\\ 400x=480 \\\\ x= \\frac{480}{400} =1,2[/tex]<br><br>cara perbandingan<br>[tex] \\frac{400}{8} =  \\frac{60}{x}  \\\\ \\\\   \\frac{400}{8} =  \\frac{60}{x}. \\frac{\\frac{20}{3} }{ \\frac{20}{3} }   \\\\  \\\\  \\frac{400}{8} =  \\frac{400}{ \\frac{20x}{3} }  \\\\  \\\\ 20x = 8.3 \\\\ x= \\frac{24}{20}  \\\\ x=1,2[/tex]<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-hitunglah-panjang-tali-yg-diperlukan-untuk-melilitkan-sebuah-999",
+            "question": "1 . Hitunglah Panjang Tali yg diperlukan untuk melilitkan sebuah drum berjari jari 3 cm sebanyak lima putaran",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "cari dulu keliling lingkaranya<br>k=6x3,14=18,84<br>panjang tali seluruhnya=kelilingx5=18,84x5=94,2",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span>cari dulu keliling lingkaranya<br>k=6x3,14=18,84<br>panjang tali seluruhnya=kelilingx5=18,84x5=94,2</span><span></span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pada-kegiatan-rally-sebuah-mobil-akan-sampai-di-garis-finis-dala-872",
+            "question": "Pada kegiatan    Rally, sebuah\r\nmobil akan sampai\r\ndi garis finis dalam\r\nwaktu 4,5 jam\r\ndengan kecepatan rata-rata 63 km/jam. Setelah\r\n2 jam berjalan, ban mobil Biru pecah sehingga\r\nterpaksa berhenti mengganti ban selama\r\n15 menit. Berapa kecepatan mobil biru dinaikkan\r\nagar tetap sampai di finis tepat waktu?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "4,5 jam = 63 km/jam<br>setelah berjalan 2 jam, berarti<br>3,5 jam = 63 km/jam<br>ban\u00a0 bocor 15 mnit = 0,25 jam<br>jadi: 3,25 jam = x<br><br>maka:<br>3,5/3,25 = x/63<br>x = 67,85<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "manakah-pernyataan-yang-benar-1-jika-sudut-a-dan-sudut-b-ada-436",
+            "question": "Manakah pernyataan yang benar? \u00a0 1. Jika sudut A dan Sudut B adalah sudut berpelurus, maka sudut A tidak pernah sama besar dengan sudut B. \u00a0 2. Jika sudut A adalah sudut tumpul maka pelurus sudut A pasti sudut lancip. \u00a0 3. Jika sudut berpenyiku sudut A lebih kecil dari 30 derajat maka pelurus sudut A adalah sudut tumpul",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Pernyataan yang benar adalah nomor 3<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Pernyataan yang benar nomor 2.",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-jumlah-dua-bilangan-adalah-100-dan-selisih-nya-adalah-4-818",
+            "question": "Diketahui jumlah dua bilangan adalah 100 dan selisih nya adalah 40. bagaimana nilai dua bilangan tersebut dapat dinyatakan dua linear satu variabel???    (tolong sekalian caranya)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a+b=100<br>a-b=40<br>_________-<br>\u00a0\u00a02b=60<br>\u00a0\u00a0b = 30<br>masukaan b=30 ke persamaan 2<br>a-30=40<br>a=70",
+                    "attachments": []
+                },
+                {
+                    "answer": "a\u208ab=100<br>a\u208ab=40<br>________-<br>2b=60<br>b=30<br>a=30=40<br>a=70<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "penderita-kanker-dan-jantung-dirumah-sakit-sebanyak-86-orang-kan-935",
+            "question": "Penderita kanker dan jantung dirumah sakit sebanyak 86 orang.    kanker 35 orang.\r\n15 orang menderita kanker dan jantung\r\npertanyaan:\r\n1.banyak penderita yang sakit jantung ada berapa orang ???",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]S=86 \\\\ K=35-15=20 \\\\ keduanya=15 \\\\ Jantung=86-(20+15) \\\\ =86-35 \\\\ =51[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "contoh-teks-eksplanasi-tsunami-504",
+            "question": "Contoh teks eksplanasi tsunami",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1.pengertian tsunami<br>2.saat terjadinya tsunami<br>3.akibat dari terjadinya tsunami<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Tsunami adlh serangkaian gelombang yg terbentuk karena gempa/letusang gunung api di bawah laut/daratan pantai.Tsunami tercipta saat permukaan laut bergerak naik turun (pergeseran lempeng di dasar laut) disepanjang patahan selama gempa terjadi.Selain itu,tsunami juga tercipta karena meletusny gunung api yg menyebabkan pergerakan air laut/perairan sekitarny yg tinggi.Gelombang tsunami yg terjadi di laut melaju lebih cepat daripada gelombang normal.Gelombang tsb menyebar ke segala arah dengan ketinggian 30-50 m dan kec 800 km/jam.Ketika gelombang tsunami memasuki air dangkal,kecepatannya akan menurun dan ketinggiannya bertambah.Tsunami selalu menyebabkan kerusakan besar bagi manusia.Kerusakan yg paling besar terjadi ketika gelombang besar tsunami itu mengenai pemukiman manusia sehingga menyeret apa saja yg dilaluiny.",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "upik-membuka-usaha-keripik-kentang-yang-dipasarkan-pada-ibu-ibu-d-631",
+            "question": "Upik membuka usaha keripik kentang yang dipasarkan pada ibu ibu disekitar komplek upik tinggal.Agar pembeli tidak kecewa upik harus kerusaha potongan kripiknya sebagus mungkin dan hampir sama panjangnya.Setelah digoreng upik menimbang berat keripik kentang itu,ternyata dari 8 butir kentang diperoleh kripik dengan 1,2 ons    a.jika tetangga upik memesan 2 kg keripik,berapa butir kentang yang harus digoreng upik?\r\n\r\nb.berapa butir kentang digoreng untuk membuat 6 kg keripik?\r\n\r\nc.berapa kg keripik yang dihasilkan dari 60 butir kentang?\r\n\r\nd.sajikan data perbandingan pada tabel dan gambarkan grafiknya pada kordinat kartesius?\r\n\r\ntolong di bantu yaa\r\nsama caranya",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "pertama cari dulu 1,2 ons = 0,12 kg , 0,12 kg = 2/3 butir <br>a. 2 di bagi 0,1 = 20 , 20 di kali 2/3 = 13,3333<br>b.6 di bagi 0,1 = 60 , 60 di kali 2/3 = 40 butir<br>c. 60 di bagi 2 = 30 lalu di kali 0,3 ( karena di dalam 0,3kg ada 2 butir )\u00a0 hasilnya = 9<br>d. - ( susah di gamabarkan )<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-lanjutin-jawabannya-karena-saya-gak-tahu-cara-mengerjakan-102",
+            "question": "Tolong lanjutin jawabannya, karena saya gak tahu cara mengerjakannya lagi.............    Tolong donk, pertanyaannya ada di DOC :)",
+            "attachments": [
+                "question-attachments/tolong-lanjutin-jawabannya-karena-saya-gak-tahu-cara-mengerjakan-102-1.docx"
+            ],
+            "answers": [
+                {
+                    "answer": "capek nulisnya jadi aku jawab di kertas trus aku foto ya\u00a0<br><br><br>",
+                    "attachments": [
+                        "answer-attachments/tolong-lanjutin-jawabannya-karena-saya-gak-tahu-cara-mengerjakan-102-1.jpg"
+                    ]
+                }
+            ]
+        }
+    ]
+}

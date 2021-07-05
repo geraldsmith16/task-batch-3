@@ -1,0 +1,138 @@
+{
+    "question": "Diskiriminan pk    panjang suatu persegi panjang adalah 2m lebih panjang dari lebarnya . jika luasnya 960m\u00b2. tentukan panjang persegi tersebut\u00a0",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "[tex]p=2+l\\\\\nL=pl=960\\\\\n(2+l)l=960\\\\\nl^2+2l-960=0\\\\\n(l-30)(l+32)=0\\\\\nl=30\\ atau\\ l=-32(TM)\\\\\np=32[/tex]",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "dketahui-barisan-geometri-u1-u2-45-dan-u3-u4-20-tentukan-119",
+            "question": "Dketahui barisan geometri U1 + U2 = 45 DAN U3 + U4 = 20 tentukan rasiaonya ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "U1 + U2 = a + ab = 45<br>U3 + U4 = abb + abbb = 20<br><br>(a + ab = 45) &lt;&lt; dikali dengan bb<br>(a + ab)bb = 45bb<br>abb + abbb = 45bb<br><br>45bb = 20<br>bb = 20/45 = 4/9<br>b = akar (4/9)<br>b\u00a0= 2/3",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pak-daniel-seorang-karyawan-perusahaan-ia-membeli-sebuah-mobil-513",
+            "question": "pak\u00a0daniel seorang karyawan perusahaan. ia membeli sebuah mobil bekas seharga Rp90.000.000,00.\u00a0dan dikenakan pajak\u00a0penjualan\u00a0sebesar 5%.berapa rupiah uang yang harus dibayar pak daniel untuk pembelian mobilnya?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Rp4500000, karena 90000000 x 5/100",
+                    "attachments": []
+                },
+                {
+                    "answer": "90000000x5/100 = 4500000<br>90000000+4500000=94500000<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "deret-geometri-dengan-u5-dan-u8-masing-masing-48-dan-384-tentuka-109",
+            "question": "Deret geometri dengan U5 dan U8 masing masing 48 dan 384.    Tentukan jumlah 9 suku pertama serta langkah2 nya.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]U_5=ar^4=48\\\\\nU_8=ar^7=384\\\\\\\\\nar^7=384\\\\\nar^4.r^3=384\\\\\n48r^3=384\\\\\nr^3=8\\\\\nr=2\\\\\nar^4=48\\\\\na(2^4)=48\\\\\n16a=48\\\\\na=3\\\\\\\\\nS_n=\\frac{a(r^n-1)}{r-1}\\\\\nS_9=\\frac{3(2^9-1)}{2-1}\\\\\nS_9=3(512-1)\\\\\nS_9=1533[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-jumlah-deret-aritmatika-berikut-281412-sampai-286",
+            "question": "Tentukan Jumlah Deret aritmatika berikut!\r\n2+8+14+12+...... sampai dengan 10 suku.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "berarti deretnya\u00a0<br>2+8+14+12+6+12+14+8+2+8 = 86 ???",
+                    "attachments": []
+                },
+                {
+                    "answer": "2,8,12,14<br>Sn = 1/2 . n (U1+Un)<br>\u00a0 \u00a0 \u00a0= 1/2 . 10 (2 + 10)<br>\u00a0 \u00a0 \u00a0= 5 (12)<br>\u00a0 \u00a0 \u00a0= 60",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "aku-punya-pr-tapi-aku-atak-tahu-bagaimana-cara-untuk-menemukan-ja-208",
+            "question": "Aku punya PR tapi aku atak tahu bagaimana cara untuk menemukan jalan solusinya,    pertanyaannya begini:\r\n\r\nTemukan grafik fungsi kuadrat f(X) = 4x\u00b2 - 8x +\u00a03, dari grafik fungsi kuadrat g(x) = 4x\u00b2 !\r\n\r\nMohon penjelasannya!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]f(x)=4x^2-8x+3\\\\\ncari\\ titik\\ potong\\ thdp\\ sb\\ x\\ (y=0)\\\\\n0=4x^2-8x+3\\\\\n(2x-3)(2x-1)=0\\\\\nx=\\frac{3}{2}\\ atau\\ x=\\frac{1}{2}\\\\\ndiperoleh\\ (\\frac{3}{2},0)\\ dan\\ (\\frac{1}{2},0)\\\\\\\\\ncari\\ tipot\\ thdp\\ sb\\ y\\ (x=0)\\\\\nf(x)=y=4x^2-8x+3\\\\\ny=4(0)^2-8(0)+3\\\\\ny=3\\\\\ndiperoleh\\ (0,3)\\\\\\\\\ncari\\ titik\\ puncak\\ P(\\frac{-b}{2a},\\frac{-(b^2-4ac)}{4a})\\\\\nP(\\frac{-(-8)}{2(4)},\\frac{-((-8)^2-4(4)(3))}{4(4)})\\\\\nP(1,-1)\\\\\nletakkan\\ semua\\ titik\\ pada\\ koordinat\\ kartesius\\\\\nlalu\\ gambar\\ grafiknya[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-pers-kuadrat-x2-m-3x-3m-1-0-mempunyai-satu-akar-r-799",
+            "question": "Jika pers kuadrat x\u00b2-(m+ 3)x+ (3m + 1) = 0\r\nmempunyai satu akar riil mka nilai m yg memenuhi ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "satu akar, jadi D=0<br>[tex]D=0\\\\\nb^2-4ac=0\\\\\n(m+3)^2-4(1)(3m+1)=0\\\\\nm^2+6m+9-12m-4=0\\\\\nm^2-6m+5=0\\\\\n(m-1)(m-5)=0\\\\\nm_1=1 \\ atau \\ m_2=5[/tex]<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Bentuk Umum Persamaan Kuadrat seperti ini<span>,\u00a0\u00a0dan a, b, c,</span>Dimana :x\u00a0adalah variabel persamaan kuadrata\u00a0adalah koefisien x kuadratb\u00a0adalah koefisien xc\u00a0adalah konstantaCara Menyelesaikan Persamaan Kuadrat<span>1) Mencari faktor<br><br>diuraikan menjadi\u00a0<br>cara pemfaktoran akan lebih mudah bila a = 1<br>maka kita bisa menebak x1 dan x2 dengan cara<br>a = 1<br>b = x1+x2<br>c = x1.x2</span><span>2) Memakai Rumus Kuadrat atau Rumus abc<br></span><span>3) Melengkapkan Kuadrat Sempurna<br>Bentuk umum persamaan kuadrat bebentuk kuadrat sempurna adalah :<br>\u00a0dengan q &gt; 0</span>Menentukan Jenis Akar-Akar Persamaan Kuadrat Jenis akar-akar persamaan kuadrat ditentukan oleh nilai deskriminan :<span><br>a. D &gt; 0 Kedua akar nyata dan berlainan,\u00a0</span><span>b. D = 0<br>Kedua akar nyata dan sama,\u00a0</span><span>c. D &lt;&gt; Kedua akar tidak nyata (imaginer)<br>d.\u00a0\u00a0dengan\u00a0<br>bilangan kuadrat sempurna, kedua akar rasional.</span><span>Untuk menghitung<span>\u00a0jumlah dan hasil kali akar-akar persamaan kuadrat</span>\u00a0, dapat dicari tanpa terlebih dahulu mencari akar-akarnya.</span><span>Dari rumus\u00a0\u00a0dan\u00a0</span><span>Dapat ditunjukkan bahwa:\u00a0</span><span>Rumus-rumus\u00a0Akar Persamaan Kuadrat hasil pengembangan, sering sekali muncul di soal UAN SNMPTN atau SPMB</span><span>Sifat-sifat Akar\u00a0Persamaan Kuadrat Jika\u00a0\u00a0dan\u00a0\u00a0adalah akar-akar persamaan kuadrat\u00a0\u00a0dengan\u00a0<br>maka berlaku sifat-sifat berikut ini :</span><span>a. Syarat mempunyai Dua Akar Positif<br></span><span>b. Syarat mempunyai Dua Akar Negatif<br><br>c. Syarat mempunyai Dua Akar Berlainan Tanda<br><br>d. Syarat mempunyai Dua Akar Berlawanan<br><br>e. Syarat mempunyai kedua akar berkebalikan<br></span><span>Cara menyusun Persamaan kuadratdari akar-akar x1 dan x2 yang diketahui</span><span>Persamaan kuadrat yang akar-akarnya\u00a0dan\u00a0\u00a0adalah :\u00a0</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dengan-cara-melengkapkan-kuadrat-sempurna-tentukan-akar-akar-pers-430",
+            "question": "Dengan cara melengkapkan kuadrat sempurna tentukan akar-akar persamaan kuadrat berikut : 3xkuadrat-2x-3=0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "\u00a0\u00a01. Pindahkan konstanta ke ruas kanan \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 2. Bagilah kedua ruas dengan\u00a0 dengan a. \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a03. Jika koefisien x yang baru kita sebut b, maka tambah kedua ruas dengan \u00bdb2. \u00a0 \u00a0 \u00a0 \u00a0 <span>4. Ubah bentuk yang ada di ruas kiri menjadi kuadrat sempurna. \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a05. Hilangkan tanda kuadrat di sebelah kiri, sementara ruas kanan menyesuaikan dengan memberikan akar dan tanda \u00b1 di depannya \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a06. Pindahkan konstanta di ruas kiri ke ruas kanan \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 7. dengan memisahkan tanda plus dan minus maka kita peroleh dua nilai x, sehingga penyelesaian persamaan kuadarat sudah kita dapat.\u00a0</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-nilai-x-yang-memenuhi-pertidaksamaan-irasional-berikut-384",
+            "question": "Tentukan nilai x yang memenuhi pertidaksamaan irasional berikut\r\n\u221ax\u00b2-x+2 per \u221ax+5 \u2265 1",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex] \\frac{ \\sqrt{ x^{2} -x+2} }{ \\sqrt{x+5} }  \\geq 1[/tex]<br><br>kalikan penyebut ke 1<br><br>[tex] \\sqrt{ x^{2}-x+2}  \\geq  \\sqrt{x+5} [/tex]<br><br>kuadratkan kedua ruas<br><br>[tex] x^{2} -x+2-(x+5)  \\geq 0[/tex]<br><br>[tex] x^{2} -2x+3 \\geq 0[/tex]<br><br>(x+1)(x-3)\u00a0[tex] \\geq 0[/tex]..........(1)<br><br>buat grafik koordinat garis x pada -1 dan 3 sehingga didapat nilai di antara -1 dan 3 misal 2 dimasukkan ke pers 1 dapet minus, padahal nilai yg diharapkan\u00a0[tex] \\geq 0[/tex] maka kedua nilai disebelah kanan dan kiri merupakan plus dg melakukan pembuktian yang sama, dapet x[tex] \\leq -1[/tex] atau x[tex] \\geq 3[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tinggi-badan-andi-kurang-3cm-dari-tinggi-badan-johan-sedangkan-j-232",
+            "question": "tinggi badan andi kurang 3cm dari tinggi badan johan, sedangkan jumlah tinggi badan kedua orang tersebut 329 cm. bentuklah persamaan dalam x kemudian selesaikan!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "johan \u00a0= x\u00a0<br>andi = x - 3\u00a0<br>x + ( x - 3 ) = 329<br>2x - 3 = 329<br>2x = 332<br>x = 166<br>johan = 166\u00a0<br>andi = x - 3 = 166-3 = 163<br>jika disesuaikan\u00a0<br>andi + johan harus = 329<br>163 + 166 = 329<br>329 = 329",
+                    "attachments": []
+                },
+                {
+                    "answer": "[tex]andi=x, johan=y\\\\\nx=y-3 \\rightarrow y=x+3\\\\\nx+y=329\\\\\nx+x+3=329\\\\\n2x=326\\\\\nx=163\\\\\ny=166[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-kasih-tau-jawaban-dan-penyelesaiannya-juga-dong-banyak-369",
+            "question": "Tolong kasih tau jawaban dan penyelesaiannya juga dong :)    Banyak bilangan antara 2000 dan 6000 yang dapat disusun dari angka 0,1,2,3,4,5,6,7 dan tidak ada angka yang sama adalah...\r\nTerimah kasih sebelumnya yaa :)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "buat 4 kotak\u00a0 |ribuan|ratusan|puluhan|satuan|<br>|5|7|6|5| = 5 x 7 x 6 x 5 = 1050.<br><br>nb:<br>kotak pertama = dari 0 - 7 yang memenuhi tempat ribuan ada 5 (2, 3, 4, 5, 6)<br>kotak kedua\u00a0 \u00a0  = dari 0 - 7 yang memenuhi tempat ratusan ada 7<br>(jika syaratnya tidak ada angka yang sama, peluang setiap kotaknya di kurang 1, kemudian setiap angka dikalikan, dan itulah hasilnya)<br>dst..<br>:D<br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

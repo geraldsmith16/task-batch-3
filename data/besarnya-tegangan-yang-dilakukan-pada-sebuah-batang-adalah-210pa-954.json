@@ -1,0 +1,134 @@
+{
+    "question": "Besarnya tegangan yang dilakukan pada sebuah batang adalah 2.10pangkat6 N/m2.jika panjang batang adalah 4 m dan modolus elastisnya 2,5.10N\\m2,maka pertambahan panjang batang?",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "\u0431= 2\u00d710^6 N/m\u00b2<br>lo= 4m<br>E= 2,5\u00a0\u00d710 N/m\u00b2<br><br>ditanya=\u00a0\u0394l<br>jawab :<br>\u00a0 \u00a0E=\u00a0\u0431\u00d7lo/\u0394l<br><br>\u00a0 \u00a0\u0394l=\u0431\u00d7lo/E<br>\u0394l \u00a0 =2\u00d710^6 x 4 \u00a0/ 2,5 x 10<br>\u00a0 \u00a0 \u00a0 = 8x10^6/25<br>\u00a0 \u00a0 \u00a0 = 800x10^4/25<br>\u00a0 \u00a0 \u00a0 = 32x10^4<br><br>terbaik ya :)",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "sebuah-bola-pejal-yang-massanya-10-kg-dan-jari-jarinya-20-cm-meng-777",
+            "question": "sebuah bola pejal yang massanya 10 kg dan jari-jarinya 20 cm menggelinding dengan kecepatan 8 m/s . berapakah energi kinetiknya?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "ek = 1/2 . mv^2 = 1/2 . 10 kg . 8^2 = 1/2 . 10. 64 = 320 joule<br>ingat ya m= 10 kg<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 v = 8 m/s<br>jika m dan v sudah diketahui kita uda bisa ngerjain energi kinetiknya :)",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apakah-kekekalan-momentum-linear-konsisten-dengan-hukum-kedua-dan-871",
+            "question": "Apakah kekekalan momentum linear konsisten dengan hukum kedua\r\n dan ketiga Newton?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Hukum Kedua: sebuah benda dengan massa M mengalami gaya resultan sebesar\n F akan mengalami percepatan a yang arahnya sama dengan arah gaya, dan \nbesarnya berbanding lurus terhadap F dan berbanding terbalik terhadap M.\n atau F=Ma. Bisa juga diartikan resultan gaya yang bekerja pada suatu \nbenda sama dengan turunan dari momentum linear benda tersebut terhadap \nwaktu.<br>\u00a0 <br>Hukum Ketiga: gaya aksi dan reaksi dari dua benda memiliki besar yang sama, dengan arah terbalik, dan segaris.<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-silender-pejal-diletakan-di-atas-puncak-bidang-miring-kasa-728",
+            "question": "sebuah silender pejal diletakan di atas puncak bidang miring kasar dengan ketinggian h.kecepatan silinder di kaki bidang miring adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "karena ga dikasih tau angkanya, saya kasih tau caranya<br>hitung I silinder pejal = 1/2 mr\u00b2<br>hitung torsi = I x\u00a0\u03b1<br>I = mr\u00b2<br>ingat, torsi adalah F.r<br>\u03a3F = m . a<br>F-fg (permukaan kasar, ada gaya gesek) = m .a<br>\u03b1 = a/r<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-bola-pejal-i25-mrpngkat-2-bertranslasi-dan-berotasi-957",
+            "question": "sebuah bola pejal (I=2/5 mR[pngkat 2 ) bertranslasi dan berotasi dengan kecepatan linear dan kecepatan sudut v dan w. tentukan energi kinetik total bola pejal tsb",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "EkRotasi : 1/2 M.V^2 + 1/2 . I . W^2<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "termometer-celcius-dan-fahrenheit-menunjukkan-angka-yang-sama-pad-530",
+            "question": "Termometer celcius dan fahrenheit menunjukkan angka yang sama pada suhu",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "y\u00b0 R = y\u00b0 C<br><br>y = 4/5 y<br><br>5/5 y - 4/5 y = 0<br><br>1/5 y = 0<br><br>1 x y = 5 x 0<br><br>y = 0<br><br><br><span>Jadi suhu 0\u00b0 R sama dengan suhu 0\u00b0 C</span>",
+                    "attachments": []
+                },
+                {
+                    "answer": "323 kalo gak salah, kalo salah tolong betulin yaa<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "mengapa-besi-lebih-elastis-dibandingkan-aluminium-jelaskan-933",
+            "question": "Mengapa besi lebih elastis dibandingkan aluminium ? jelaskan",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "karena muai besi lebih besar dibandingkan alumunium<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "karena besi mmpunyai sft yg berat dri pda alumunium<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pada-rangkaian-seri-pegas-k130nm-dan-k220nm-massanya-3kg-b-674",
+            "question": "Pada rangkaian seri pegas, k1=30N/m dan k2=20N/m, massanya 3kg. Berapa ktotal?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1/Ks=1/K1+1/K2<br>\u00a0\u00a0 \u00a0 \u00a0 =1/30 + 1/20<br>\u00a01/Ks=10/120<br>\u00a0\u00a0 \u00a0 Ks=120/10=12<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "hitunglah-momen-inersia-suatu-benda-yang-berotasi-dengan-kecepata-322",
+            "question": "hitunglah momen inersia suatu benda yang berotasi dengan kecepatan sudut 10 rad/sekon dan memiliki energi kinetik 5 joule",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Dik Ek = 5 j<br>\u00a0 \u00a0 \u00a0\u00a0\u03c9 = 10 rad/s<br>Dit i ?<br>jawab.<br>rumus i = mr^2<br><br>Ek = 1/2 m (R.\u03c9)^2<br>5 \u00a0 = 1/2 m (R.10^2)<br>10 \u00a0= mr^2 . m.100\u00a0<br>mr^2 = 10 / 100 m<br>\u00a0 \u00a0 \u00a0 \u00a0 = \u00a00,1 kgm^2 /\u00a0m<br>i = 0,1 kgm<br><br>Klik bintang",
+                    "attachments": []
+                },
+                {
+                    "answer": "Rumus momen inersia (I) adalah\u00a0<br>bila percepatan sudut \u00a010 rad / s =\u00a0\u03b1<br>Energi kinetik = 5 Joule = F<br>[tex]I = mr^2[/tex]\u00a0<br><br>Pertama cari dulu persamaan 1\u00a0<br>[tex]F = m a_{tan} [/tex]<br>\u00a0--&gt;\u00a0Hubungan antara gaya (F), massa (m), dan percepatan tangensial (a tan) partikel\u00a0<br><br>Partikel berotasi sehingga partikel mempunyai percepatan sudut.<br>\u00a0<br>Hubungan antara percepatan tangensial dengan percepatan sudut dinyatakan melalui persamaan :<br>[tex] a_{tan}=r \\alpha  [/tex] Persamaan 2\u00a0<br><br>Subtitusikan atau gantikan percepatan tangensial (a tan) pada persamaan 1\u00a0 dengan percepatan tangensial (a tan) pada persamaan 2.<br><br>[tex]F = \\frac{1}{2}m r \\alpha[/tex]<br>[tex]\\gamma . r = \\frac{1}{2}m r \\alpha[/tex]]<br>[tex]5 = \\frac{1}{2}m . r^2 . 10[/tex]<br>[tex]mr^2 = 1 / 10 = 0.1 [/tex]<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "modulus-elastisitas-alumunium-7x10-pangkat-10-nm2-jika-kawat-a-176",
+            "question": "modulus elastisitas alumunium 7x10 pangkat 10 n/m\u00b2. jika kawat alumunium berdiameter 1,5 mm dan panjang 50 cm direnggangkan 10 mm. hitunglah gaya yg di kerjakan pd kawat tsb",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "E = F kali\u00a0panjang mula-mula dibagi A (luas penampang) kali delta l (pertambahan panjang)<br>tuh<br>rumusnya, cari ayo :D",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "kecepatan-pada-ayunan-524",
+            "question": "Kecepatan pada ayunan",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "V = A w cos wt<br>V = A 2phif cos 2phif t<br>V = A 2phi f : t cos 2phi :t t",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

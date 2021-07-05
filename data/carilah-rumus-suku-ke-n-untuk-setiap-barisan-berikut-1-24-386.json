@@ -1,0 +1,142 @@
+{
+    "question": "Carilah rumus suku ke-n untuk setiap barisan berikut !    1.\u00a0 -2,4,-8,16\r\ntentukan 4 suku pertama dari barisan dg rumus suku ke-n berikut ini !\r\n1. Un=n\u00b2\r\n2. Un= 1 per 2n-1\r\n3. Un= (-1) pangkat n",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "jawaban no.1 <br>a = (-2)<br>r = (-2)<br>Un = [tex] ar^{n-1} [/tex]<br>Un = [tex] (-2).(-2)^{n-1} [/tex]<br><br><span>tentukan 4 suku pertama dari barisan dg rumus suku ke-n berikut ini !<br>1. Un=n\u00b2<br>jawab :<br>U1 = </span>[tex] 1^{2} [/tex] = 1<br>U2 = [tex] 2^{2} [/tex] = 4<br>U3 = [tex]3^{2} [/tex] = 9<br>U4 = [tex] 4^{2} [/tex] = 16<br><br><span>2. Un= 1 per 2n-1<br>jawab :<br>U1 = </span>[tex] \\frac{1}{2(1)-1} [/tex]<span> = 1<br>U2 = </span><span>[tex] \\frac{1}{2(2)-1} [/tex] = </span>[tex] \\frac{1}{3} [/tex]<br>U3 =<span> [tex] \\frac{1}{2(3)-1} [/tex] = </span>[tex] \\frac{1}{5} [/tex]<br><span><span>U4 =<span> [tex] \\frac{1}{2(4)-1} [/tex] = </span>[tex] \\frac{1}{7} [/tex]<br><br></span>3. Un= (-1) pangkat n</span><br>jawab :<br>U1 = [tex](-1)^{1} [/tex] = -1<br>U2 = [tex](-1)^{2} [/tex] = 1<br>U3 = [tex](-1)^{3} [/tex] = -1<br>U4 = [tex](-1)^{4} [/tex] = 1<br><br><br><br><br><br><br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "tentukan-himpuna-semesta-yng-mungkin-dri-himpuna-himpuna-berikut-360",
+            "question": "Tentukan himpuna semesta yng mungkin dri himpuna-himpuna berikut.    a. {gelas,,piring,sendok,garpu}\r\nb. {9,16,25,36,49}",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a. Semesta yang mungkin = Peralatan makan<br><br>b. Semesta yang mungkin = Bilangan kuadrat",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "rumus-keliling-itu-apa-605",
+            "question": "Rumus keliling itu apa ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "ini rumus kelilingnya apa ?<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "rumus untuk mencari keliling bagi bangun datar atau bangun ruang. rumus keliling itu berbeda - beda angka, tergantung\u00a0 dengan bangun datar atau bangun ruang yang akan di hitung keliling nya. (rumus keliling beda angka dengan rumus luas) <br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pilihan-ganda-ya-pasangan-bilangan-di-bawah-ini-yang-bukan-tripel-840",
+            "question": "Pilihan ganda ya    pasangan bilangan di bawah ini yang bukan tripel pytboras adalah \r\na. 20,16,12\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 C,5,4,3\r\nb. 10,24,26\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 D. 4,3,2",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "yang D<br>4,3,2<br>........................................",
+                    "attachments": []
+                },
+                {
+                    "answer": "d. 4, 3, 2\u00a0 <br>karena tdk memenuhi syarat [tex]a= \\sqrt{ b^{2}+ c^{2}  } [/tex]\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-skala-pada-peta-1700000-dengan-garis-koordinat-peta-beru-761",
+            "question": "sebuah skala pada peta 1:700.000 dengan garis koordinat peta berukuran 2x2 cm. jika koordinat diubah menjadi ukuran 8x8 cm, maka skala petanya berubah menjadi.......",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "2 x 2 ====&gt; 1 : 700.000<br>8 x 8 ====&gt; 1 : ?<br><br>jika koordinat menjadi lebih besar, berarti skala menjadi lebih kecil, berarti ini merupakan perbandingan terbalik, persamaannya menjadi:<br><br>2 / 8 = ? / 700.000<br>? = ( 2 / 8 ) * 700.000<br>? = 175.000<br><br>sehingga skalanya menjadi 1 : 175.000<br><br>semoga membantu :)<br>@mr_m_satrio<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Jika gambar suatu peta diperbesar, maka skalanya mengecil.<br>syaratnya panjang dan lebarnya harus sama-sama dikalikan bilangan yang sama.<br><br>nah, disoalnya kan dari (2x2) menjadi (8x8)<br>maka nilai perbesaran = 4<br><br>karena berbanding terbalik maka, skala yang baru<br>700.000/4 = 175.000<br><br><strong>1:175.000</strong><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "x-2y-gt4bukan-contoh-ptlsvmengapa-716",
+            "question": "X+ 2y &gt;4,bukan contoh PTLSV.mengapa?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "KARENA TANDANYA &gt; (lebih dari)<br>pokoknya kalau PTSLV itu tandanya &lt;,&gt;,<u>&lt;</u>,<u>&gt;</u>",
+                    "attachments": []
+                },
+                {
+                    "answer": "KRN DPT DITENTUKAN NILAI KBENARANNYA",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-dpqr-dengan-panjang-sisi-pqqr15-cm-dan-pr-pq-6-685",
+            "question": "Diketahui \u0394PQR dengan panjang sisi PQ=QR=15 cm dan PR : PQ = 6 : 5. Luas \u0394PQR adalah.....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "PR = 6x3 = 18<br>t = triple 9, 15, 12cm<br>l = 1/2 x 12 x 15<br>=\u00a090 cm^2",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-belah-ketupat-pqrs-dengan-besar-tps-30-dan-panjang-297",
+            "question": "Diketahui belah ketupat PQRS dengan besar TPS = 30\u00b0 dan panjang PT = 24cm    hitunglah :\r\na. keliling, dan\r\nb. luas belah ketupat\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "PQ=QR=RS=SP=<em></em>\u221a24\u00b2+24\u00b2 =\u00a0\u221a576+576 = 33,9<br>Keliling = 4\u00a0\u00d7 PQ = 4\u00a0\u00d7 33,9 = 135,6 cm<br>Luas = 1/2 d1\u00a0\u00d7 d2 = 1/2\u00a0\u00d7 48\u00d7 48 = 1152 cm\u00b2<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-diketahui-barisan-aritmatika-dengan-u1-3-un-87-dan-u6-u7-359",
+            "question": "1. Diketahui barisan aritmatika dengan U1= 3, Un= 87, dan U6 + U7 = 9. Tentukan : a) b=...? b) n=...? c) U50=....?    Pake caraa .. please jawab yaaa:)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "U1 = a = 3<br><br><span>U6 + U7 = 9<br>[a + (6-1)b] + [a + (7-1)b] = 9<br>[3 + 5b] + [3 + 6b] = 9<br>6 + 11b = 9<br>11 b = 9 - 6<br>11b = 3<br>b = [tex] \\frac{11}{3} [/tex] <br><br><br><br><br></span><span>Un= 87<br>a + (n-1)b = 87<br>3 + (n-1) </span>[tex] \\frac{11}{3} [/tex] = 87<br>3 + [tex] \\frac{3}{11} n[/tex] - [tex] \\frac{3}{11} [/tex] = 87<br>[tex] \\frac{36}{11} [/tex] + [tex] \\frac{3}{11} n[/tex] = 87<br>[tex] \\frac{3}{11} n[/tex] = 87 - [tex] \\frac{36}{11} [/tex]<br>[tex] \\frac{3}{11} n[/tex] = [tex] \\frac{957}{11} [/tex]<br>3n = 957<br>n = 319<br><br><br><span>U50 = 3 + 49b<br>\u00a0\u00a0 \u00a0\u00a0\u00a0 = 3 + 49 [tex] \\frac{3}{11} [/tex]<br>\u00a0\u00a0 \u00a0 \u00a0 = 3 + 13,3<br>\u00a0\u00a0 \u00a0 \u00a0 = 16,3<br><br><br><br>semoga membantu :)<br></span><br><br><br><br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-himpunan-penyelesaian-dari-pertidaksamaan-berikutjika-x-972",
+            "question": "tentukan himpunan penyelesaian dari pertidaksamaan berikut,jika x variabelnya pada himpunan bilangan bulat. \u00a0 a. 1/2 (x+5) - 1/4 (x + 1) &gt; 3 b. 1/3 (5x-1) &lt; 1/2 (2x +1)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a. 1/2\u00a0(x+5) - 1/4 (x+1) &gt;3<br>\u21d46\u00a0(x+5) - 3(x+1) &gt; 39<br>\u21d46x + 30 - 3x + 3 &gt; 39<br>\u21d46x - 3x &gt; 39 - 30 - 3<br>\u21d4 3x &gt; 6<br>\u21d4 x &gt; 6/3 = 2<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "alas-sebuah-limas-berbentuk-belah-ketupat-dengan-keliling-60-cm-d-163",
+            "question": "alas sebuah limas berbentuk belah ketupat dengan keliling 60 cm dan panjang salah satu diagonalnya adalah 18 cm serta tinggi limas 12 cm .maka volume limas tersebut adalah ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "V limas =\u00a0[tex] \\frac{1}{3} [/tex].Luas Alat.Tinggi<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0[tex] \\frac{1}{3} [/tex].198.12<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0792 cm3<br>L\u00a0alas=\u00a0[tex] \\frac{1}{2}\u00a0[/tex].d1.d2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0[tex] \\frac{1}{2}\u00a0[/tex].18.22<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0198",
+                    "attachments": []
+                },
+                {
+                    "answer": "panjang diagonal 1 = 18<br>panjang diagonal 2 = 24 (triple phytagoras)<br>v = 1/3*luas alas*t<br>\u00a0 = 1/3*(1/2*18*24)*12<br>\u00a0 = 1/3*216*12<br>\u00a0 = 864<br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

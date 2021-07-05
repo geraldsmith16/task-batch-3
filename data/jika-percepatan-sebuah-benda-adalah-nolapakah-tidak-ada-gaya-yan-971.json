@@ -1,0 +1,142 @@
+{
+    "question": "Jika percepatan sebuah benda adalah nol,apakah tidak ada gaya yang bekerja padanya?",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "menurut saya.... iyyaaa.....<br>dan benda itu hanya melakukan keseimbangan.....<br>maaf kalau jawabannya kurang tepat.......<br>",
+            "attachments": []
+        },
+        {
+            "answer": "menurut saya gaya yang bekerja pada benda hanya melakukan kesetimbangan<br>contoh dalam rumus hukum Newton<br>torsi = i.\u00a0\u03b1<br>F.d = mr^2 . o<br>F.d = 0<br>gaya yang\u00a0setimbang\u00a0",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "jelaskan-besar-gaya-magnet-yang-timbul-dari-sebuah-motor-listrik-480",
+            "question": "jelaskan besar gaya magnet yang timbul dari sebuah motor listrik jika dialiri arus listrik yang lebih besar",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "sepertinya gaya tarikan magnet tersebut akan semakin besar",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "berikan-10-cara-untuk-menghemat-energi-792",
+            "question": "Berikan 10 cara untuk menghemat energi !",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "mematikan air setelah mandi <br>menggunakan air seperlunya<br>mematikan lampu kamar mandi setelah digunakan<br>mematikan lampu ruangan saat pagi menjelang<br>mencabut kabel alat elektronik dari stopkontak saat telah selesai digunakan<br>menggunakan sepeda sebagai alat transportasi jarak dekat<br>mengurangi penggunaan kendaraan pribadi<br>lebih mengutamakan penggunaan transportasi umum<br>kalau bisa menggunakan panel surya<br>mengoptimalisasikan penggunaan sumber energi geotermal<br>menggoptimalisasi PLTA <br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jarak-antar-kota-a-dan-b-adalah-90-km-berapa-waktu-yang-diperluk-790",
+            "question": "jarak antar kota A dan B adalah 90 km. berapa waktu yang diperlukan sebuah truk untuk bergerak dari kota A ke kota B dengan kecepatan 16,67 m/s,pliss dijawab",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "v=s/t\u00a0<br>t= s/v\u00a0<br>16,67m/s = 16,67/1000/1/3600 =60.012 km/jam<br>t=90/60.012 = 1,4997 jam = 1,5jam atau 1 setengah jam",
+                    "attachments": []
+                },
+                {
+                    "answer": "s = 90 km = 90000 m = 9.10^4 m<br>v= 16,67 m/s = 1667.10^-2 m/s<br><br>v = s:t<br>t= s:v =\u00a09.10^4 m :\u00a01667.10^-2 m/s = 5,39 . 10^3 s<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-sebutkan-3-contoh-gaya-besar-2-sebutkan-3-contoh-merugikan-232",
+            "question": "1. sebutkan 3 contoh gaya besar\u00a0    2. sebutkan 3 contoh merugikan \r\n3. sebutkAN 3 contoh gaya gesekan \r\n4. semakin kasar permukaan suatu benda maka gaya gesekannya semakin......?\r\n5.sebutkan 3 contoh gesejan yg menguntungkan",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>\n<span>no. 3 aja <br>a.\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 </span>Alat\npengasah pisau dapat menanjamkan pisau</span>\n<span>\n<span><br>b.\u00a0\u00a0\u00a0\u00a0\u00a0 </span>Permukaan\njalan raya dibuat kasar, agar mobil tidak tergelincir sewaktu bergerak.</span> <br><span></span><span><span>c. \u00a0\u00a0\u00a0\u00a0\u00a0 </span><span>Ban\nkendaraan menjadi halus karena adanya gesekan dengan jalan.</span></span><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "2.gaya yang merugikan\u00a0<br>c0ntoh :<br>a. gaya gesekan yang terjadi antara kopling dengan mesin mobil menimbulkan panas yang berlebihan sehingga mesin cepat rusak.<br>b. gaya gesekan antara ban mobil dengan jalan<br>c. gaya gesekan antara mobil dengan angin\u00a0yang dapat menghambat jalanya mobil<br><br>3.contoh gaya gesekan<br>a. gesekan antara\u00a0kaki dengan permukaan jalan<br>b. gaya gesekan pada rem<br>c. gesekan ban mobil dengan jalan<br><br>4.gesekanya\u00a0semakin besar<br><br>5. contoh gesekan yang menguntungkan\u00a0<br>a. gesekan antara\u00a0kaki dengan permukaan jalan<br>b. gaya gesekan pada rem<br>c. gesekan ban mobil yang kasar\u00a0dengan jalan yang dibuat licin.<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-mobil-balap-memiliki-gaya-10000n-yang-dikerjakan-oleh-mes-755",
+            "question": "sebuah mobil balap memiliki gaya 10.000N yang dikerjakan oleh mesinnya dan total hambatan oleh gesekan angin dan jalan adalah 2.000N. Jika percepatan mobil adalah 2m/s2, hitung massa mobil balap itu (dalam kg)!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "F = m.a<br>10.000 N = m . 2 m/s^2<br>10.000 N/2 = m<br>5000 kg = m :)",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "besarnya-periode-dipengaruhipanjang-tali-dan-tidak-dipengaruhi-ol-930",
+            "question": "Besarnya periode dipengaruhipanjang tali dan tidak dipengaruhi oleh?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "besar panjang tali .......",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1apa-yang-dimaksud-dengan-gelombang-2suatu-gelombang-panjang-659",
+            "question": "1.apa yang dimaksud dengan gelombang ??    2.suatu gelombang panjangnya 0,5 cm dan cepat rambatannya 75 m/s berapakah frekuensinya ???",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1. gelombang adl getaran yg merambat pada suatu medium<br>2. v = f x lamda<br>\u00a0\u00a0  f = v/ lamda<br>\u00a0\u00a0  f = 75/ 5 10^-3<br>\u00a0\u00a0  f = 15 x 10^3<br>\u00a0\u00a0 f = 15000 Hz<br><br>lamda= panjang gelombang<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "buaya-sering-mengangakan-mulutnya-dalam-waktu-yang-lamamengapa-h-284",
+            "question": "Buaya sering mengangakan mulutnya dalam waktu yang lama.mengapa hal itu dilakukan?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "untuk melepaskan panas di tubuh nya\u00a0",
+                    "attachments": []
+                },
+                {
+                    "answer": "untuk mengurangi panas tubuhnya",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "mengapa-baja-bersifat-magnet-tetap-680",
+            "question": "Mengapa baja bersifat magnet tetap?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "karena memiliki daya magnet yang sangat kuat dan tidak dapat dihilangkan",
+                    "attachments": []
+                },
+                {
+                    "answer": "karena baja sulit dijadikan magnet dan sulit pula kehilangan sifat kemagnetannya sehingga dapat dikatakan magnet tetap.",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "kalor-lebur-es-adalah-80-kalg-apa-maksudnya-434",
+            "question": "Kalor lebur es adalah 80 kal/g. Apa maksudnya?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kalor jenis 80 kalori untuk menaikkan 1 gram <br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

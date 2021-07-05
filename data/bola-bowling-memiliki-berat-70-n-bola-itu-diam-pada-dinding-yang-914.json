@@ -1,0 +1,134 @@
+{
+    "question": "bola bowling memiliki berat 70 N, bola itu diam pada dinding yang licin jika bola dianggap homogen tentukan gaya normal di titik a dan b",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "Maaf sebelumnya,apakah mizzpurple66 salah menulis soal.karna saat bola berada di dinding otomatis bola akn bergerak ke bawah.saya misalkan dinding itu menjadi lantai dan mengapa tidak ada gambar?titik a dan b apakah seperti ini ?a\u00a0\u208b\u208b\u208b\u208b\u208b\u208b\u208b\u208b\u208b\u208b\u208b\u208b\u208bb<br>\u00a0jadi:<br>W=N<br>70=N<br><br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "sebatang-silinder-timah-hitam-sepanjang-1-m-e-16-x-1010-m3-624",
+            "question": "Sebatang silinder timah hitam sepanjang 1 m (E = 1,6 x 10^10 m^3) memiliki luas penampang 1,25 x 10^-3 m^2 ditarik oleh gaya 2500 N. Besar regangan silinder tersebut adalah?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "3194\u00a0=besar regangan silinder",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suatu-penghantar-dililitkan-melingkar-3x-dengan-jari-jari-25cm-p-309",
+            "question": "suatu penghantar dililitkan melingkar 3x dengan jari-jari 25cm, pada penghantar dialirkan arus listrik 12A. hitung induksi magnet pada pusat lingkaran!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "5cm x 25cm sama dengan 125 cm pangkat dua<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "roda-yang-berupa-silinder-pejal-massanya-3-kg-dan-jari-jari-20-cm-867",
+            "question": "Roda yang berupa silinder pejal massanya 3 kg dan jari jari 20 cm. Roda tersebut menggelinding dengan kecepatan sudut 100 rad/s. Tentukan energi kinetik total gerak roda tersebut?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Momen inersia nya =\u00a0[tex] \\frac{2}{5} mr^2[/tex]<br><br>[tex] \\frac{2}{5} 3 * 0.20^2[/tex]<br>\u03b1 = 100 rad / s\u00a0<br><br>berdasar hukum newton II terkait benda berotasi\u00a0<br><br>[tex]r F = m r^2  \\alpha [/tex]\u00a0<br><br>Energi kinetik pada bola pejal =\u00a0<br>[tex] \\frac{2}{5} 3 * 0.0400* 100 rad /s = 4.8 kg m s^{-1}[/tex]<br><br>di cek sekali lagi ya kalau kalau ada yang salah\u00a0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-bola-pejal-i25-mrpngkat-2-bertranslasi-dan-berotasi-957",
+            "question": "sebuah bola pejal (I=2/5 mR[pngkat 2 ) bertranslasi dan berotasi dengan kecepatan linear dan kecepatan sudut v dan w. tentukan energi kinetik total bola pejal tsb",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "EkRotasi : 1/2 M.V^2 + 1/2 . I . W^2<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-bola-bermassa-04-kg-bergerak-dengan-laju-6-ms-dan-menumb-488",
+            "question": "Sebuah bola bermassa 0,4 kg bergerak dengan laju 6 m/s dan menumbuk bola lain bermassa 0,6 Kg yang sedang bergerak mendekatinya dengan laju 8 m/s. Kedua bola tersebut bertumbuk tidak lenting sempurna. Laju kedua bola setelah tumbukan adalah..",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>m1.v1 + m2.v2= (m1+v1) v&#039;</p><p>0.4.6 + 0.6.8= (0,4+0,6) v&#039;</p><p>2,4 + 4,8 = 1. v&#039;</p><p>7,2= v&#039;</p><p>jadi laju kedua bola setelah tumbukan adalah 7,2 m/s<br></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "manfaat-dan-bahaya-radioisotop-dan-gelombang-elektromagnetik-209",
+            "question": "Manfaat dan bahaya radioisotop dan gelombang elektromagnetik",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "manfaat: memanfaatkan sinar-sinar radiasinya untuk berbagai kepetluan.sumber tenaga listrik<br>bahaya :dapat merusak jaringan pada makhluk hidup. dapat mengakibatkan tumor/ kanker",
+                    "attachments": []
+                },
+                {
+                    "answer": "manfaat : sebagai sumber tenaga listrik<br>bahaya : merusak jaringan, menyebabkan kanker<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jarak-yang-di-tempuh-sebuah-mobil-adalah-sebagai-berikut-5-meni-424",
+            "question": "Jarak yang di tempuh sebuah mobil adalah sebagai berikut :    5 menit pertama menempuh jarak 3,0 km \r\n10 menit kedua menempuh jarak 8,0 km \r\n15 menit ketiga menempuh jarak 20 km \r\nkelajuan rata-rata mobil tersebut adalah ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "waktunya 30 mnt<br>jaraknya 31 km<br>kecepatan rata ratanya 62 km/jam",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dua-pegas-identik-memiliki-kostanta-gaya-400nm-apabila-kedua-peg-630",
+            "question": "dua pegas identik memiliki kostanta gaya 400N/m apabila kedua pegas tersebut disusun secara paralel,maka besarnya gaya yang dubutuhkan untuk menarik pegas sehingga bertambah panjang sebesar 5cm adalah...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "5 cm = 0,05 m<br>k = F/delta l<br>400 = F/0,05<br>400 X 0,05 =F<br>20 N = F<br><br>Jadi, gaya yang diperlukan adalah 20 N<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-tiga-buah-pegas-dua-disusun-paralel-dengan-konstanta-1-771",
+            "question": "Diketahui tiga buah pegas. Dua disusun paralel dengan konstanta 100 n/m. Dan satu disuaun dengan seri dengan konstanta 200n/m. Susunan pegas dipengaruhi oleh beban, sehingga mengalami pertambahan 5cm. Jika pertambahan panjang pegas 1 dan 2 sama, maka berapakah: a) konstanta gaya total penyusunnya. b) massa beban jika g= 10 m/s",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a) rangkaian paralel ==&gt; kp = 100 + 100 = 200 N/m<br>\u00a0\u00a0 kp diseri dengan k3 = 200 ===&gt; 1/ks = 1/200 + 1/200 <br>\u00a0\u00a0 1/ks = 2/200 ===&gt; 1/ks = 1/100 ==&gt; ks = 100 N/m<br>\u00a0\u00a0 Jadi knstanta gaya total = 100 N/m<br>b) dik : \u0394x = 5 cm = 0,05 m\u00a0 \u00a0 ; k total = 100 N/m <br>F = k \u0394x <br>m . g = k . \u0394x ---&gt; m . 10 = 100 . 0,05 ----&gt; m = 0,5 kg <br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span>a) rangkaian paralel ==&gt; kp = 100 + 100 = 200 N/m<br>\u00a0\u00a0 kp diseri dengan k3 = 200 ===&gt; 1/ks = 1/200 + 1/200 <br>\u00a0\u00a0 1/ks = 2/200 ===&gt; 1/ks = 1/100 ==&gt; ks = 100 N/m<br>\u00a0\u00a0 Jadi knstanta gaya total = 100 N/m<br>b) dik : \u0394x = 5 cm = 0,05 m\u00a0 \u00a0 ; k total = 100 N/m <br>F = k \u0394x <br>m . g = k . \u0394x ---&gt; m . 10 = 100 . 0,05 ----&gt; m = 0,5 kg </span><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apa-yang-anda-ketahui-tentang-gaya-satu-newton-467",
+            "question": "Apa yang anda ketahui tentang gaya satu newton?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "disebut juga hukum kelembaman. suatu benda akan tetap diam jika tidak ada resultan gaya yang mengenainya",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span>Gaya Satu newton adalah besarnya gaya yang diperlukan untuk membuat benda\nbermassa\nsatu kilogram\nmengalami percepatan\nsebesar satu meter\nper detik</span>\n\n<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

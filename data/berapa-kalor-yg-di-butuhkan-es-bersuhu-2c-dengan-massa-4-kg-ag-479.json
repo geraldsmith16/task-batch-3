@@ -1,0 +1,126 @@
+{
+    "question": "Berapa kalor yg di butuhkan es bersuhu -2\u00b0c dengan massa 4 kg agar mencapai suhu 5\u00b0c, jika dik.    L es=336.000 J/kg\r\nc es=500 J/kg\u00b0c\r\nc air=4200 J/kg\u00b0c",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "m= 4 kg<br>delta t = 3<br>c = 4700<br>= 2x4700x3<br>= 28200<br>= 28,2<br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "dua-buah-benda-muatan-besarnya-q1-dan-q2-berada-pada-jarak-r-memi-199",
+            "question": "Dua buah benda muatan besarnya Q1 dan Q2 berada pada jarak r memiliki gaya coulumb FC, berapa besar gaya coulumb jika\u00a0    a)muatan pertama diperbesar 6kali\u00a0\r\nb) jarak kedua muatan di perbesar 4 kali\u00a0\r\nc) kondisi jarak diperbesar r' = 7r\u00a0\r\n\r\npakai jalan dan penjelasannya ya ... please\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a)=6FC\u00a0 \u00a0\u00a0 karena k.q1.q2.6/r^2<br>b)=FC/16\u00a0 karena k.q1.q2/16r^2<br>c)=FC/49\u00a0 karena k.q1.q2/49r^2<br>CMIIW<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tinggi-nada-senar-gitar-tergantung-1-4-558",
+            "question": "Tinggi nada senar gitar tergantung ?\u00a0\r\n( 1-4)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "frekuensi gelombang longitudinal nya<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "frekuensi dari gelombang longitudinal\u00a0gitar itu sendiri",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suspensi-truk-sering-memiliki-pegas-pembantuyang-bekerja-ketik-784",
+            "question": "Suspensi truk (sering memiliki \"pegas pembantu\"yang bekerja ketika beban truk sangat besar. pegas ayun\u00a0 dengan pegas pembantu berupa pegaskoil dipasang ditengah-tengahnya. Pegas pembantu akan bekerja ketika pegas ayun tertekan sejauh",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "sejauh pembatas yang ada pada mobil truk dan sesuai dengan kemampuan pegas ayun yang akan menekannya",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "gelombang-elektromagnetik-yang-memiliki-energi-foton-paling-besa-917",
+            "question": "Gelombang elektromagnetik\u00a0yang memiliki energi foton paling besar adalah....    A. Sinar - X\r\nB. Cahaya Merah\r\nC. Cahaya Ungu\r\nD. Gelombang Radio\r\nE. Sinar Gamma",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "c sinar ungu<br>karena memiliki f terbesar dan panjang gelombang terpendek",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "seseorang-mengendarai-mobil-dengan-kecepatan-90-kmjam-tiba-tiba-318",
+            "question": "seseorang mengendarai mobil dengan kecepatan 90 km/jam. tiba-tiba mobil tersebut direm dengan perlambatan maksimum. Besarnya jarak yg di butuhkan adalah...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "ya kagak ada jawabannya\u00a0<br>karena rumus GLBB diperlambat itu<br>v = v0 . t - a .t<br>s = v0 . t - 1/2 a . t\u00b2<br>vt\u00b2 = v0\u00a0\u00b2 - 2 a . s",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-ganya-15-n-di-kerjakan-pada-benda-bermassa-m-benda-berg-736",
+            "question": "sebuah ganya 15 N di kerjakan pada benda bermassa\u00a0m.\u00a0benda bergerak dalam garis lurus, dengan kelajuan yang bertambah 10\u00a0m/s\u00a0setiap 2\u00a0s. hitung massa\u00a0m.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "F = 15 N<br>a = 5m/s^2<br>F =m.a<br>m = F/a = 15/5 = 3 kg :)",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-lensa-cembung-mempunyai-fokus-sebesar-15-cm-jika-sebuah-b-783",
+            "question": "Sebuah lensa cembung mempunyai fokus sebesar 15 cm. Jika sebuah benda diletakkan 20 cm dari lensa. Tentukan :    a. Jarak bayangan;\r\nb. Perbesaran bayangan; dan\r\nc. Sifat bayangan",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Diketahui :<br>f = 15<br>s = 20<br><br>a. [tex] \\frac{1}{f} =  \\frac{1}{s} + \\frac{1}{s\u2081} [/tex]<br>[tex] \\frac{1}{15} = \\frac{1}{20} + \\frac{1}{s\u2081} \n \\frac{1}{s\u2081} =\u00a0 \\frac{1}{15} - \\frac{1}{20} \n \\frac{1}{s\u2081} = \\frac{4-3}{60} [/tex]<br>s\u2081 = 60<br><br>b. |M| = [tex] \\frac{\\frac{60}{20} [/tex]<br>|M| = 3<br><br>c. Sifat Bayangan:<br>maya, tegak, diperbesar<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-pipa-berbentuk-pipa-u-berisi-air-dan-minyak-tinggi-kolom-346",
+            "question": "Sebuah pipa berbentuk pipa U berisi air dan minyak. Tinggi kolom minyak 20 cm dan tinggi kolom air 10 cm. Jika massa jenis air 1.000 kg/m3, maka hitunglah massa jenis minyak!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Massa jenis air = row1<br>massa jenis minyak = row 2<br>Tinggi air = A1<br>Tinggi minyak = A2<br><br>Row 2/A2 = Row 1/A1<br>Row 2/20 cm = 1000kg.m3/10cm<br>Row 2/ 0.2 m = 1000kg.m3/0.1 m<br>Row 2 = 1000kg.m3/0.1 m * 0.2 m<br><br>Row 2 =\u00a0 2000kg.M3<br><br>NB : / itu per<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "mengapa-cahaya-tampak-tidak-mengakibatkan-kulit-menjadi-hitam-te-684",
+            "question": "Mengapa cahaya tampak tidak mengakibatkan kulit menjadi hitam, tetapi cahaya ultraviolet mampu menghanguskan kulit? Jelaskan!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "karena ultraviolet itu di hasilkan oleh pemakaian patfum , kendaraan ,dll sebagainnya yg mengandung apa gituh dan jika terkena kulit bisa jga kena kangker...<br>#maafudhgkLHlglupa -_-",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dua-pegas-yang-sama-jenis-dan-ukurannya-mula-mula-disusun-secara-648",
+            "question": "Dua pegas yang sama jenis dan ukurannya mula-mula disusun secara paralel dan diberi beban bermassa mp hingga mengalami pertambahan panjang sebesar x. selanjutnya kedua pegas disusun secara seri dan diberi beban bermassa ms. agar pertambahan panjang pegas pada susunan seri ini sama dengan x juga, maka nilai mp : ms adalah..    fisika 1A bagus raharja",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "k paralel = 2k <br>k seri = k/2 = 0,5 k<br>F = k .x <br>karena x nya sama maka diperoleh <br>F1/k1 = F1/k2<br>mp . g / 2k = ms . g / 0,5 k\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 g dan k nya bisa dicoret shg didapat <br>mp/2 = ms/0,5 <br>mp : ms = 2 : 0,5 <br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 = 4 : 1\u00a0 <br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

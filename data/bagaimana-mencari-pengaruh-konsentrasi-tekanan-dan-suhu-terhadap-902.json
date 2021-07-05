@@ -1,0 +1,140 @@
+{
+    "question": "Bagaimana mencari pengaruh konsentrasi tekanan dan suhu terhadap\u00a0\r\ntetapan kesetimbangan?",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "Pergeseran kesetimbangan dapat dipengaruhi oleh berbagai faktor antara \nlain temperatur, konsentrasi, tekanan dan volume, penambahan zat lain<br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "bantu-ya-ka-sebanyak-10-ml-larutan-cuka-dapur-20-ch3cooh-dalam-545",
+            "question": "Bantu ya ka    Sebanyak 10 mL larutan cuka dapur (20% CH3COOH dalam air) ditambah\r\nair sampai volumenya 1 liter. Massa jenis larutan cuka dapur 1 kg/L dan\r\nKa CH3COOH = 4 \u00d7 10\u20136. Tentukan:\r\na. derajat ionisasi CH3COOH sebelum dan sesudah diencerkan\r\nb. pH larutan CH3COOH sesudah diencerkan",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "10 mL larutan asam cuka (asam cuka 20% dalam larutan tersebut)<br>nah berarti ada 20% dari 10mL larutan tersebut adalah asam cuka murni<br>kita hitung volume asam cuka murninya :)<br>vol asam cuka = 20% x 10 mL larutan = 0,2 mL = 0,2 x 10^-3 L..... ^ dibaca pangkat :)<br>kita hitung massa larutan asam cuka<br>massa asam cuka = massa jenis x volume asam cuka <br>(ingat : massa jenis = massa/volume)<br>massa asam cuka = 1 Kg/L x 0,2 x 10^-3 L = 0,2 x 10^-3 Kg = 0,2 gram<br>Mr asam cuka (CH3COOH) = 60<br>derajat ionisasi kita sebut alpha ya :)<br><br>a. konsentrasi asam cuka<br>sebelum penambahan maka kita pakai volume larutan = 10 mL<br>M = gram/Mr x 1000/Volume (mL) = 0,2/60 x 1000/10 = 0,33333 M dibulatkan 0,3M<br>alpha = akar (Ka/Ma) = akar (4x10^-6/ 0,3) = akar(13,3 x 10^-6) = 3,65 x 10^-3<br><br>setelah penambahan maka volume larutan menjadi 1000mL (1 liter)<br>M = gram/Mr x 1000/volume(mL) = 0,2/60 x 1000/1000 = 0,003 M<br>alpha = akar (Ka/Ma) = akar (4x10^-6/ 0,003) = akar(1333,3 x 10^-6) = 36,5 x 10^-3<br><br><br>b.<br>pH larutan setelah di encerkan<br>[H+] = akar (Ka x Ma) = akar (4 x 10^-6 x 0,003) = akar(0,012 x 10^-6)<br>= 0,1 x 10^-6 = 10^-7<br><br>pH = - log [H+] = - log 10^-7 = 7<br><br>berarti larutan setelah pengenceran bisa di anggap larutan netral :)<br><br><br>semoga bisa membantu :)<br>beri label terbaik ya :)<br><br><br><br><br><br><br><br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suatu-laruta-baoh2-memiliki-ph13-brapa-ml-larutan-asam-klorid-441",
+            "question": "Suatu laruta Ba(OH)2 memiliki pH=13. Brapa mL larutan asam klorida o,1 M harus dicampurkan dengan 100 mL larutan Barium Hidroksida itu supaya pH menjadi 12.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "antara 1 sampai 100 ml pastinyaa -_-",
+                    "attachments": []
+                },
+                {
+                    "answer": "pH=13<br>pOH=14-13=1<br>OH-=10^-1<br>a.M.V=b.M.V<br>1.0,1.V=2.10^-1.100<br>V=2.10^-1.100/10^-1<br>=200ml<br>kalo ad yg salah koreksi ya ^_^<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "berapa-mol-zat-dari-2-gram-air-cara-hitung-massa-04-mol-na-dan-477",
+            "question": "Berapa mol zat dari 2 gram air? cara?\r\nhitung massa 0,4 mol Na dan 0,2 mol H2SO4?\r\nGomawo~~ :)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "ar H = 1 ar O = 16 ar S = 32 ar Na = 23 --&gt; Mr H2SO4 = 98 Mr H20 = 18<br>n=gr/Mr<br>n H20 = 2/18 = 1/9 mol<br><br>n Na = gr/Mr<br>0,4 = gr/23<br>gr = 9,2 gram<br><br>n H2SO4 = gr/Mr<br>0,2 = gr/98<br>gr = 19,6 gram",
+                    "attachments": []
+                },
+                {
+                    "answer": "air = H\u2082O\u00a0<br>Mr air = 2(1)+16 = 18<br><br><strong>m = mol x Mr<br>mol air\u00a0= m\u00a0/ Mr<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 2 / 18 = 0,11 mol<br><br></strong>Ar Na= 23<br><strong>m Na = mol x Ar<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 0,4 x 23 = 9,2 gr<br></strong><br>Mr H\u2082SO\u2084 = 2(1) + 32 + 4(16) = 98<br><strong>m\u00a0H\u2082SO\u2084 = 0,2 x 98 = 19,6 gr<br><br></strong>maaf kalo salah<strong><br></strong>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-perubahan-bilangan-oksidasi-berikut-a-cl2-menjadi-clo-511",
+            "question": "Tentukan perubahan bilangan oksidasi berikut \r\na. \r\n\r\nCl2\u00a0 menjadi clo-",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Cl2<br>Cl = 0<br>ClO^- = Cl+1.O = -1 = Cl + -2 = -1,sehingga Cl = +1<br>terjadi pelepasan elektron +1 :)<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Cl2 = 0 (cz unsur bebas )<br>ClO- = O= -2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 b.o.Cl + bo.O = -1<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 b.o\u00a0Cl + -2 = -1<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 bo Cl = -1 + 2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 bo Cl = 1<br><br>perubahan biloks terjadi pada cl yang awalnya 0 menjadi 1. kenaikan biloks tersebut disebut reaksi oksidasi",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apakah-sifat-yang-ditentukan-menggunakan-indikator-kertas-lakmus-577",
+            "question": "apakah sifat yang ditentukan menggunakan indikator kertas lakmus merupakan nilai yang akurat? jelaskan!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Tidak, karena kertas lakmus tidak menunjukkan nilai pH, melainkan hanya mengidentifikasikan apakah suatu zat bersifat asam/basa<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "mohon-bantuannya-1untuk-menaikkan-titik-didih-250-ml-air-menjad-929",
+            "question": "Mohon bantuannya.    1.untuk menaikkan titik didih 250 ml air menjadi 100,1'C pd \r\n tekanan 1 atm (Kb=0,50), maka jumlah gula (Mr=342) yg hrs dilarutkan?\r\n2. Besarnya pH dlm larutan Ba(OH)\u2082 dgn kosentrasi 0.005 M adalah?\r\n3. pH larutan CH3COONa 0.1 M jika Ka CH3COOH=10\u207b\u2075 adalah?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "2. 1 x 0,005m = 0,005.<br>pH= -log [OH-]<br>= - log 5.10^-3<br>= 3 log 5<br><br>3. kax m = akar 10^-5 x 1.10^-1<br>=akar 1.10^-6<br>=1.10^-3<br>pH= - log [H+]<br>= - log 1.10^-3<br>= 3 log 1<br>=3<br><br>semoga benar..<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "mengapa-atom-satu-dengan-yang-lainya-sama-walaupun-massa-nya-be-556",
+            "question": "MENGAPA\u00a0ATOM SATU DENGAN YANG LAINYA SAMA WALAUPUN\u00a0MASSA NYA BERBEDA..?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "\u00a0Inti atom terdiri atas proton yang bermuatan positif, dan neutron yang bermuatan netral (kecuali pada inti atom Hidrogen-1, yang tidak memiliki neutron).<u><strong> Elektron-elektron pada sebuah (setiap )atom terikat pada inti atom oleh </strong></u><u><strong>gaya elektromagnetik</strong></u>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Atom<span>\u00a0adalah suatu satuan dasar\u00a0</span>materi<span>, yang terdiri atas\u00a0</span>inti atom<span>\u00a0serta awan\u00a0</span>elektron<span>\u00a0bermuatan negatif yang mengelilinginya. Inti atom terdiri atas\u00a0</span>proton<span>\u00a0yang bermuatan positif, dan\u00a0</span>neutron<span>\u00a0yang bermuatan netral (kecuali pada inti atom\u00a0</span>Hidrogen-1<span>, yang tidak memiliki neutron). Elektron-elektron pada sebuah atom terikat pada inti atom oleh\u00a0</span>gaya elektromagnetik<span>. Sekumpulan atom demikian pula dapat berikatan satu sama lainnya, dan membentuk sebuah\u00a0</span>molekul<span>. Atom yang mengandung jumlah proton dan elektron yang sama bersifat netral, sedangkan yang mengandung jumlah proton dan elektron yang berbeda bersifat positif atau negatif dan disebut sebagai\u00a0</span>ion<span>.</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "5-contoh-reaksi-asm-basa-menurut-lewis-457",
+            "question": "5 contoh reaksi asm basa menurut lewis",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Contoh reaksi netralisasi antara NH3 dan HCl  dalam bentuk cairan. \nPada reaksi tersebut terjadi transfer proton dari H3O+.  Transfer proton\n ini dapat dinyatakan sebagai berikut:\n              \u00a0\n              <span>Proton adalah suatu \nakseptor (penerima) pasangan elektron  bebas, yang menurut Lewis adalah \nasam. Ammonia yang memiliki pasangan elektron  bebas merupakan donatur \npasangan elektron bebas, karena itu amonia adalah basa  Lewis.</span><br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apa-perbedaan-dari-rumus-kimia-p4empatnya-kecil-dan-4p-503",
+            "question": "Apa perbedaan dari rumus kimia P4(empatnya kecil)\u00a0dan 4P?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kalau 4P biasanya ditemuin di matematika<br>P4 udh ketentuannya kali mbak, fosfor kan ya?<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-struktur-lewis-so2-oh-tolong-dibuat-gambar-serta-424",
+            "question": "Tentukan struktur lewis SO2 + OH- ??? tolong dibuat gambar serta penjelasan tolong ya\u00a0 ???",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "SO2 +\u00a0 OH^-<br>\u00a0<br>S punya nomor atom 16 berarti elektron valensi 6 dan O punya nomor atom 8 dan elektron valensi juga enam. sehingga kedua unsur antara S dan O sama membutuhkan 2 elektron lagi. sedangkan untuk H punya elektron valensi 1 maka butuh 1 elektron lagi. berikut struktur Lewisnya<br><br><br><br><br>\u00a0\u00a0 \u00a0 \u00a0 <br><br>",
+                    "attachments": [
+                        "answer-attachments/tentukan-struktur-lewis-so2-oh-tolong-dibuat-gambar-serta-424-1.docx"
+                    ]
+                }
+            ]
+        }
+    ]
+}

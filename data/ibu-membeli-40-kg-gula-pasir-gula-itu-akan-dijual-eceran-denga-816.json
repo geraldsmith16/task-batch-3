@@ -1,0 +1,128 @@
+{
+    "question": "\u00a0Ibu membeli 40 kg gula pasir. Gula itu akan dijual eceran dengan dibungkus plastik masing-masing beratnya\u00a0\u00a0kg. Banyak kantong plastik berisi gula yang dihasilkan adalah........    A.10 kantong\r\nB.80 kantong\r\nC.120 kantong\r\nD.160 kantong",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "40 kg x 2<br>= 80 kantong<br>",
+            "attachments": []
+        },
+        {
+            "answer": "A. 40:10= 4 kg<br>B. 40:80=1/2 kg<br>C. 40:120= 1/3 kg<br>D. 40:160=1/4 kg",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "jika-x1-dan-x2-merupakan-akar-dari-persamaan-kuadrat-2x2-6x-430",
+            "question": "\u00a0    Jika x1 dan x2 merupakan akar dari\r\n persamaan kuadrat 2x2- 6x \u2013 8 = 0, nilai dari (x1 + x2)2\r\n \u2013 2x1. X2 adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]2x^2-6x-8=0\\\\\nx_1+x_2=\\frac{-b}{a}\\\\\nx_1+x_2=\\frac{-(-6)}{2}\\\\\nx_1+x_2=3\\\\\\\\\nx_1.x_2=\\frac{c}{a}\\\\\nx_1.x_2=\\frac{-8}{2}\\\\\nx_1.x_2=-4\\\\\\\\\n(x_1+x_2)^2-2(x_1.x_2)=(3)^2-2(-4)\\\\\n(x_1+x_2)^2-2(x_1.x_2)=17\\\\[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "mohon-penjelasan-cara-mengerjakan-nya-terimakasih-482",
+            "question": "Mohon penjelasan cara mengerjakan nya, terimakasih",
+            "attachments": [
+                "question-attachments/mohon-penjelasan-cara-mengerjakan-nya-terimakasih-482-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "insyaallah<br>tapi man soalnya?",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-rumus-suku-n-dari-barisan-bilangan-aritmatika-jika-suku-549",
+            "question": "tentukan rumus suku n dari barisan bilangan aritmatika jika suku ke delapan sama dengan 18 dan suku ke lima belas sama dengan 46",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "U8 = 18<br>U15 = 46<br>Un?<br>Un = a+(n-1)b<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-sebuah-bangunan-dikerjakan-oleh-30-orang-akan-selesai-selama-960",
+            "question": "jika sebuah bangunan dikerjakan oleh 30 orang akan selesai selama 15 hari, jika dimnta pekerjaan harus selesai dalam waktu 5 hari berapa pekerja yang harus ditambahkan?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "30 org = 15 hari<br>x org\u00a0 = 5 hari<br><br>jawab:<br><u>x\u00a0</u> \u00a0 =\u00a0 <u>15</u><br>30\u00a0 \u00a0\u00a0 \u00a0 5 <br><br>5x = 30 \u00d7 15<br>x\u00a0 = <u>450</u><br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 5<br>x = 90 orang<br><br>pekerja yang harus ditambah:<br>90 - 30 = 60 orang<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "himpunan-selesaian-dari-y-x2-4x-5-350",
+            "question": "Himpunan selesaian dari y\u00a0\u2264\u00a0x\u00b2\u00a0+\u00a04x\u00a0-\u00a05",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "y \u2264 x\u00b2 + 4x - 5<br>y \u2264 (x-5) (x+1)<br>y \u2264 x-5\u00a0 //\u00a0  y \u2264 x+1<br>y-x \u2264 -5\u00a0 //\u00a0  y-x \u2264 1<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dari-angka-angka-12468-dan-9-akan-disusun-3-angka-berbeda-p-326",
+            "question": "dari angka angka 1,2,4,6,8, dan 9 akan disusun 3 angka berbeda. peluang kejadian muncul angka genap kurang dari 500 adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "angka genap kurang dari 500.<br><br><strong>seratusan</strong><br>1 x 4 x\u00a04 = 16<br><strong>2-ratusan</strong><br>1 x 4\u00a0x 3 = 12<br><strong>4-ratusan</strong><br>1 x 4 x 3 = 12<br>16 + 12 + 12 = 40<br><br>Semesta = 4\u00a0x\u00a05\u00a0x\u00a06 = 120<br><br>[tex]Peluang =  \\frac{40}{120} = \\frac{1}{3} [/tex]<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-dua-fungsi-fxx-5-dan-gxx2x2-jika-fx2-1-g-578",
+            "question": "Diketahui dua fungsi f(x)=x-5 dan g(x)=x\u00b2+x+2, jika f(x\u00b2-1)= g(x-1) maka x=",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]f(x^2-1)=g(x-1)\\\\\n(x^2-1)-5=(x-1)^2+(x-1)+2\\\\\nx^2-6=x^2-2x+1+x+1\\\\\nx=8[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-akar-akar-persamaan-ax2-5x-12-0-adalah-2-dan-b-maka-4-504",
+            "question": "Jika akar akar persamaan ax\u00b2 + 5x -12 = 0 adalah 2 dan b, maka 4a\u00b2 - 4ab + b\u00b2 = .....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "x=2 &lt;=&gt; ax\u00b2+5x-12=0<br>\u00a0 \u00a0 \u00a0 \u00a0&lt;=&gt; 4a+ 10 - 12=0<br>\u00a0 \u00a0 \u00a0 \u00a0&lt;=&gt; 4a = 2<br>\u00a0 \u00a0 \u00a0 &lt;=&gt; a = 1/2<br>jadi persamannya 1/2 x\u00b2+5x - 12 = 0 semua kalikan 2<br>\u00a0 \u00a0 \u00a0&lt;=&gt; x\u00b2+ 10x - 24 = 0<br>\u00a0 \u00a0 \u00a0&lt;=&gt; ( x - 2) (x + 12) = 0<br>\u00a0 \u00a0 \u00a0&lt;=&gt; x = 2 atau x = - 12 = b<br>jadi 4a\u00b2 - 4ab + b\u00b2 = 1 - 4.. 1/2 . (-12) + 12\u00b2\u00a0<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 1 +24+144 = 169",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-bantu-saya-ya-suku-suku-barisan-geometri-tak-hingga-ada-754",
+            "question": "Tolong bantu saya ya :)    suku-suku barisan geometri tak hingga adalah positif, jumlah u1+u2=60, dan u3+u4=15,\r\ntentukan jumlah suku barisan itu!\r\nterimakasih (pakai cara ya sobat)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]a+ar=60 \\rightarrow a(1+r)=60\\\\\nar^2+ar^3=15 \\rightarrow ar^2(1+r)=15\\\\\nr^2(a(1+r))=15\\\\\nr^2(60)=15\\\\\nr^2=\\frac{15}{60}\\\\\nr^2=\\frac{1}{4}\\\\\nr=\\frac{1}{2}\\ atau\\ r=-\\frac{1}{2}(TM,\\ karena\\ suku-sukunya\\ positif)\\\\\na(1+r)=60\\\\\na(1+\\frac{1}{2})=60\\\\\na=\\frac{60}{\\frac{3}{2}}\\\\\na=40\\\\\nS_{\\infty}=\\frac{a}{1-r}\\\\\nS_{\\infty}=\\frac{40}{1-\\frac{1}{4}}\\\\\nS_{\\infty}=\\frac{160}{3}[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "mencari-simbol-o-1-62-362-2-55-1-486",
+            "question": "Mencari simbol o !    1. 6\u00b0\u207a\u00b2 = (36)\u00b0\u207a\u00b2\r\n\r\n2. \u221a5\u00b0\u207b\u2075 = 1\r\n\r\n\r\n3. (\u221a10)\u00b0\u207b\u00b2 = 0,1\r\n\r\n\r\n\r\n4. \u221a2\u00b0\u207a\u00b3 = (1/4)\u00b0\u207a\u2074",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "ganti jadi huruf p ya<br><br>1.<br>basisnya beda (6 dan 36)<br>pangkatnya sama (p+2)<br>jadi hanya ada 1 solusi pada saat p+2=0<br>atau p=-2<br><br>2.<br>supaya hasilnya 1, maka pangkatnya harus nol<br>p-5=0<br>p=5<br><br>3.<br>[tex] (\\sqrt{10} )^{p-2}=0,1\\\\\n (10^{1/2} )^{p-2}=10^{-1}\\\\\n (10)^{(p-2)/2}=10^{-1}\\\\\n\\frac{p-2}{2}=-1\\\\\np=0\n[/tex]<br><br>4.<br>[tex] \\sqrt{2^{p+3}}=( \\frac{1}{4})^{p+4}  \\\\\\\\\n 2^{\\frac{p+3}{2}}=(2^{-2})^{p+4}  \\\\\\\\\n 2^{\\frac{p+3}{2}}=2^{-2p-8}  \\\\\\\\\n\\frac{p+3}{2}}={-2p-8}  \\\\\\\\\np+3=-4p-16\\\\\np= -\\frac{19}{5} [/tex]<br><br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

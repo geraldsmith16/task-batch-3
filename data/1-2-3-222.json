@@ -1,0 +1,140 @@
+{
+    "question": "1.     2. \r\n3.",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "x+3 nya di misalkan u=x+3 du=1dx; dx=du<br>u^3du=u^4/4+c <br>(x+3)^4/4+c<br>yg lainnya juga sama<br>",
+            "attachments": []
+        },
+        {
+            "answer": "[tex]\\int (x+3)^4dx=\\int (x+3)^4\\frac{d(x+3)}{1)\\\\\n=\\int (x+3)^4d(x+3)\\\\\n=\\frac{1}{4+1}(x+3)^{4+1}+C\\\\\n=\\frac{1}{5}(x+3)^{5}+C\\\\\\\\\n\\int (2x+5)^3dx=\\int (2x+5)^3\\frac{d(2x+5)}{2}\\\\\n=\\frac{1}{2}\\int (2x+5)^3d(2x+5)\\\\\n=\\frac{\\frac{1}{2}}{3+1}(2x+5)^{3+1}\\\\\n\\int (2x+5)^3dx=\\frac{1}{8}(2x+5)^4\\\\\\\\\n=\\int (1-2x)^5\\frac{d(1-2x)}{-2}\\\\\n=\\frac{1}{-2}\\int (1-2x)^5d(1-2x)\\\\\n=-\\frac{1}{12}\\int (1-2x)^6[/tex]",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "apa-konsep-dari-mencari-persamaan-kuadrat-jika-diketahui-akar-aka-731",
+            "question": "Apa konsep dari mencari persamaan kuadrat jika diketahui akar-akarnya ? Dan tolong berikan contohnya    Tolong dibantu\r\n\r\nTerima kasih",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "rumus nya.. x^2 (alfa+beta)x + alfa.beta...<br><br>alfa &amp; beta itu akar\"nya..jd kita hrs cr dlu alfa+beta dan beta +alfa..<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "akar-akar-pk-2x2-2x-1-0-adalah-alfa-dan-beta-hitunglah-310",
+            "question": "Akar - akar PK 2x^2 + 2x + 1 = 0 adalah alfa dan beta.\r\nhitunglah : 1/alfa^2 + 1/beta^2",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]2x^2+2x+1=0\\\\\n\\frac{1}{ \\alpha ^2}+\\frac{1}{ \\beta ^2}=\\frac{\\beta ^2+\\alpha ^2}{ \\alpha ^2\\beta ^2}\\\\\n\\frac{1}{ \\alpha ^2}+\\frac{1}{ \\beta ^2}=\\frac{(\\alpha +\\beta )^2-2\\alpha \\beta}{ (\\alpha \\beta )^2}\\\\\n\\frac{1}{ \\alpha ^2}+\\frac{1}{ \\beta ^2}=\\frac{(-\\frac{2}{2} )^2-2(\\frac{1}{2})}{ (\\frac{1}{2})^2}\\\\\n\\frac{1}{ \\alpha ^2}+\\frac{1}{ \\beta ^2}=\\frac{1-1}{\\frac{1}{4}}\\\\\n\\frac{1}{ \\alpha ^2}+\\frac{1}{ \\beta ^2}=0[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "deret-geometri-dengan-u5-dan-u8-masing-masing-48-dan-384-tentuka-109",
+            "question": "Deret geometri dengan U5 dan U8 masing masing 48 dan 384.    Tentukan jumlah 9 suku pertama serta langkah2 nya.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]U_5=ar^4=48\\\\\nU_8=ar^7=384\\\\\\\\\nar^7=384\\\\\nar^4.r^3=384\\\\\n48r^3=384\\\\\nr^3=8\\\\\nr=2\\\\\nar^4=48\\\\\na(2^4)=48\\\\\n16a=48\\\\\na=3\\\\\\\\\nS_n=\\frac{a(r^n-1)}{r-1}\\\\\nS_9=\\frac{3(2^9-1)}{2-1}\\\\\nS_9=3(512-1)\\\\\nS_9=1533[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "persamaan-m-1x2-4x-2m-0-mempunyai-akar-akar-real-tent-796",
+            "question": "Persamaan (m - 1)x\u00b2 + 4x + 2m = 0 mempunyai akar-akar real. Tentukan nilai m yang memenuhi!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "(m - 1)x\u00b2 + 4x + 2 = 0 memunyai akar-akar real <br>syarat : b\u00b2 - 4ac \u2265 0<br>16 - 4.2(m - 1) \u2265 0<br>16 - 8m + 8 \u2265 0 <br>24 - 8m \u2265 0 <br>-8m \u2265 -24 ruas kiri n kanan dikali -1 (jangan lupa tanda \"\u2265\" dibali jadi \"\u2264\")<br>m \u2264 -24/-8<br>m \u2264 3<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dengan-berjalan-kaki-askar-memerlukan-waktu-6-menit-untuk-sampai-292",
+            "question": "dengan berjalan kaki, askar memerlukan waktu 6 menit untuk sampai ke kampusnya. jarak antara rumah dan kampus 5/8 km. berapa kecepatan rata-rata askar berjalan?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "v = s :\u00a0 t<br>v= 5/8 : 360<br>v = 1,73 m/s",
+                    "attachments": []
+                },
+                {
+                    "answer": "kecepatan = m/s<br>5/8 km=625m<br>6 menit= 360 s<br>kecepatan= 625/360=1,736<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-akar-persamaan-kuadrat-dari-6x2-48x-90-tentukan-n-397",
+            "question": "Diketahui akar persamaan kuadrat dari 6x\u00b2 - 48x + 90. tentukan nilai (x1/x2+1) + (x2/ X1+1)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "6x\u00b2-48x+90 = x\u00b2-8x+15<br>=(x-3) (x-5)=0<br>x1 = 3 x2= 5<br><br>silahkan substitusikan sisanya",
+                    "attachments": []
+                },
+                {
+                    "answer": "6x2-48x+90<br>(x-3)(x-5)<br>x1=3 \u00a0x2=5<br><br>(x1/x2+1) + (x2/x1+1)<br>(3/5+1) +(5/3+1)<br>8/5 + 8/3 = 64/15 gitu?\u00a0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "selesaikan-dengan-rumus-abc-9x2-12x-2-0-744",
+            "question": "Selesaikan dengan rumus abc\r\n9x\u00b2 - 12x + 2 = 0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "144+akar kuadrat dari 72 per 18 atau<br>144-akar kuadrat dari 72 per 18<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "[tex]9x^2-12x+2=0\\ ; a=9,b=-12,c=2\\\\\nx_{1,2}=\\frac{-b \\underline{+} \\sqrt{b^2-4ac}}{2a}\\\\\nx_{1,2}=\\frac{-(-12) \\underline{+} \\sqrt{(-12)^2-4(9)(2)c}}{2(9)}\\\\\nx_{1,2}=\\frac{12 \\underline{+} \\sqrt{144-72}}{18}\\\\\nx_{1,2}=\\frac{12 \\underline{+} \\sqrt{72}}{18}\\\\\nx_{1,2}=\\frac{12 \\underline{+} 6\\sqrt{2}}{18}\\\\\nx_{1,2}=\\frac{2 \\underline{+} \\sqrt{2}}{3}\\\\[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "temukan-grafik-fungsi-kuadrat-fx-4x2-8x3-dari-grafik-fung-281",
+            "question": "Temukan grafik fungsi kuadrat f(x) = 4x^{2}-8x+3 dari grafik fungsi kuadrat g(x) = 4x^{2} (dalam 1 grafik)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "ini gambarnya, silakan dipelajari",
+                    "attachments": [
+                        "answer-attachments/temukan-grafik-fungsi-kuadrat-fx-4x2-8x3-dari-grafik-fung-281-1.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-suku-pertama-beda-dan-u20-jika-u810-dan-u1226-395",
+            "question": "Tentukan suku pertama, beda, dan U20. jika U8=10 dan U12=26",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "beda = 26 - 10 per 12 - 8 = 16 per 4 = 4.<br>suku pertama = 10-4-4-4-4-4-4-4 = -18<br>semoga membantu :))<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "hitunglah-jumlah-25-suku-pertama-bilangan-ganjil-yang-pertama-dar-552",
+            "question": "Hitunglah jumlah 25 suku pertama bilangan ganjil yang pertama dari bilangan asli?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1,3,5.......... ampe yg ke 47, 49<br>U13= 25<br><br>total nya adalah<br><br><br>=(49+1)/2 x 12+25<br>=25x12+25<br>=325<br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

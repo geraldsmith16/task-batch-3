@@ -1,0 +1,136 @@
+{
+    "question": "Tolong jelaskan pembuktian dari 1.\u00a0~(p\u00a0\u2227 q)\u00a0\u2261 ~p\u00a0\u2228 ~q. 2. ~(p\u00a0\u2228 q)\u00a0\u2261 ~p\u00a0\u2227 ~q",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "pembuktiannya dengan tabel nilai kebenaran ( B &amp; S)<br><br><span>(p\u00a0\u2227 q) nilainya nanti BSSS<br></span><span>~p\u00a0\u2228 ~q nilainya nanti SBBB<br></span>makanya terbukti bahwa\u00a0ingkaran dari\u00a0(p\u00a0\u2227 q) adalah\u00a0\u00a0~p\u00a0\u2228 ~q<br><br>samahalnya dengan yang kedua",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "diketahui-dua-fungsi-fxx-5-dan-gxx2x2-jika-fx2-1-g-578",
+            "question": "Diketahui dua fungsi f(x)=x-5 dan g(x)=x\u00b2+x+2, jika f(x\u00b2-1)= g(x-1) maka x=",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]f(x^2-1)=g(x-1)\\\\\n(x^2-1)-5=(x-1)^2+(x-1)+2\\\\\nx^2-6=x^2-2x+1+x+1\\\\\nx=8[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "selesaikan-persamaan-kuadrat-berikut-dengan-cara-pemfaktoran-dan-628",
+            "question": "Selesaikan persamaan kuadrat berikut dengan cara pemfaktoran dan rumus ABC.    X\u00b2 -8x + 15 = 0\r\n\r\nYang pemfaktoran udah tinggal yang rumus ABC nya, bagi yang tau jawabanya tolong di bantu",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "itu cara cepet dr guru ku",
+                    "attachments": [
+                        "answer-attachments/selesaikan-persamaan-kuadrat-berikut-dengan-cara-pemfaktoran-dan-628-1.docx"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-suatu-fungsi-kuadrat-yx24-carilah-diskriminannya-643",
+            "question": "Diketahui suatu fungsi kuadrat y=x\u00b2+4 . carilah diskriminannya!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "D = b^2 - 4ac<br>= 0^2 - (4)(1)(4)<br>= 0 - 16<br>= -16<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Diskriminan =<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 =<span>b2 - 4ac<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 0 - (4 x1 x 4)<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 0 - 16<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = -16 + 0<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = -16<br></span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-akar-persamaan-kuadrat-dari-6x2-48x-90-tentukan-n-397",
+            "question": "Diketahui akar persamaan kuadrat dari 6x\u00b2 - 48x + 90. tentukan nilai (x1/x2+1) + (x2/ X1+1)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "6x\u00b2-48x+90 = x\u00b2-8x+15<br>=(x-3) (x-5)=0<br>x1 = 3 x2= 5<br><br>silahkan substitusikan sisanya",
+                    "attachments": []
+                },
+                {
+                    "answer": "6x2-48x+90<br>(x-3)(x-5)<br>x1=3 \u00a0x2=5<br><br>(x1/x2+1) + (x2/x1+1)<br>(3/5+1) +(5/3+1)<br>8/5 + 8/3 = 64/15 gitu?\u00a0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "di-bantu-yah-sulaiman-ingin-membeli-3-baju-dan-1-pasang-sepa-324",
+            "question": "Di Bantu yah.....    Sulaiman ingin membeli 3 baju Dan 1 pasang sepatu di toko swalayan . Jika di toko tsb tersedia 6baju Dan 2pasang sepatu, banyak nya cara sulaiman memilih barang adalah........",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "21 cara memilih baju dan 3 baju diantaranya dipilih<br>2 cara memilih sepatu dan salah satunya dipilih",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dari-5-ahli-bahasa-dan-6-ahli-matematika-dipilih-7-orang-sebagai-713",
+            "question": "dari 5 ahli bahasa dan 6 ahli matematika, dipilih 7 orang sebagai anggota tim ahli dengan tiga diantaranya ahli matematika. banyak cara yang digunakan dalam pemilihan itu ada berapa?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>dari 5 ahli bahasa <br>dan 6 ahli matematika, <br>dipilih 7 orang sebagai anggota tim ahli, dengan 3 diantaranya ahli matematika. banyak cara yang digunakan dalam pemilihan itu ada berapa?<br>-----------------&gt; ans = 4</span>",
+                    "attachments": []
+                },
+                {
+                    "answer": "3|6|5|4 = 360 cara<br>maaf klo ada salah dalam penghitungan dan analisis nya",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "faktor2-linear-lain-dari-px-x4-4x3-9x216x20-429",
+            "question": "Faktor2 linear lain dari p(x) =\u00a0x^{4}-4x^{3}-9x^{2}+16x+20",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "dengan menggunakan cara horner diperoleh :<br>(x+1)(x+2)(x-2)(x-5)",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-di-ketahui-fx-2x5-g-x-4-x-t-551",
+            "question": "1. di ketahui f(x) = 2x+5    \u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 g (x) = 4-x\r\ntentukan a. fog (x)\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 c. gof (x)\r\n\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 b. fog -1 (x)\u00a0 \u00a0 \u00a0 d. gof -1 (x)\r\n\r\ngimana caranya ni aku gx ngerti ka mohon di bantu ya\r\nmakasih",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]f(x)=2x+5\\\\\ng(x)=4-x\\\\\nfog(x)=f(g(x))\\\\\nfog(x)=f(4-x)\\\\\nfog(x)=2(4-x)+5=13-2x\\\\\n\\\\\nfog(x)=13-2x\\\\\nfog(x)-13=-2x\\\\\nx=\\frac{fog(x)-13}{-2}\\\\\nnyatakan\\ sebagai\\ fog^{-1}(x)\\\\\nfog^{-1}(x)=\\frac{13-x}{2}\\\\\\\\\ngof(x)=g(f(x))\\\\\ngof(x)=g(2x+5)=4-(2x+5)\\\\\ngof(x)=-2x-1\\\\\\\\\ngof(x)=-2x-1\\\\\ngof(x)+1=-2x\\\\\nx=\\frac{-gof(x)-1}{2}\\\\\nnyatakan\\ sebagai\\ gof^{-1}(x)\\\\\ngof^{-1}(x)=\\frac{-x-1}{2}\\\\[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diket-x1-dan-x2-akar-akar-persamaan-kuadrat-2-x-4-0-susun-552",
+            "question": "diket x1 dan x2 akar akar persamaan kuadrat 2\u00a0- x + 4 = 0. susunlah persamaan kuadrat baru yg akar akarnya x1 . x2 dan x1 + x2",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "jika pers x\u00b2-x+4=0 maka x1 + x2 = 1 dan x1x2= 4<br>mis\u00a0\u03b1 dan\u03b2 akar2 pk baru maka<br>\u03b1+\u03b2=x1x2 +(x1+x2) = 5 dan\u00a0\u03b1\u03b2= x1x2.(x1+x2)=4<br>jadi pk baru x\u00b2-( jumlah akar)x + hasil kali akar = 0<br>\u00a0 \u00a0x\u00b2- 5)x + 4r = 0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "logika-matematika-1-manakah-yang-merupakan-pernyataan-kalimat-t-813",
+            "question": "Logika matematika    1. Manakah yang merupakan pernyataan, kalimat terbuka atau bukan pernyataan dari kalimat kalimat berikut ini.\r\na. Gunung Kerinci terletak di Bali\r\nb. Oslo ibukota Norwegia.\r\nc. Pergilah engkau sekarang!\r\nd. x adalah bilangan prima kurang dari 30.\r\ne. 9 adalah faktor dari 63\r\njawabannya\r\n\u00a0\u00a0 \u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kalimat terbuka : D<br>pernyataan : a,b,e<br>bukan pernyataan : c",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,144 @@
+{
+    "question": "Sebidang tanah berbentuk persegi panjang dengan panjang dan lebar tanah adalah 14 m dan 8 m, tanah tersebut akan digambar dengan skala 1 : 200.    a. berapakah panjang dan lebar tanah pada denah?\r\nb. berapakah luas tanah pada denah?",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "dik:<br>p= 14 m= 1400 cml= 8 m= 800 cmskala= 1: 200<br><br>a. p=1400\u00a0x\u00a01:200<br>\u00a0 \u00a0 \u00a0=1400:200<br>\u00a0 \u00a0 \u00a0=7 cm\u00a0 <br>\u00a0 \u00a0\u00a0l=800\u00a0x\u00a01:200<br>\u00a0 \u00a0 \u00a0=800:200<br>\u00a0 \u00a0 \u00a0=4 cm<br>b. L=p\u00a0x\u00a0l<br>\u00a0 \u00a0 \u00a0=7\u00a0x\u00a04<br>\u00a0 \u00a0 \u00a0=28 cm<br>",
+            "attachments": []
+        },
+        {
+            "answer": "A. p = 14 m = 1400 cm. 1400 cm x \u00a0<u></u>1/200 = 7 cm<br> \u00a0 \u00a0 l = 8 m = 800 cm. 800 cm x 1/200 = 4 cm<br><br>B. luas= 7 cm x 4 cm = 28 cm\u00b2\u00a0<u><br></u><u><br></u>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "ubahlah-masalah-nyata-berikut-ke-dalam-bentuk-pertidaksamaan-line-833",
+            "question": "Ubahlah masalah nyata berikut ke dalam bentuk pertidaksamaan linear satu variabel    a) sebuah bus dapat mengangkut tidak kurang dari enam puluh orang penumpang\r\nb) jarak rumah beni ke sekolah lebih dari 100 meter\r\nc) penghasilan ibu monika tidak lebih dari 2 juta per bulannya\r\nd) sebuah pesawat berada di ketinggian tidak kurang dari 3 ribu kaki di atas permukaan laut\r\ne) kecepatan udin berkendara tidak lebih dari 50 km/jam",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a) penumpang = x&gt;=60<br>b)x&gt;100<br>c) x&lt;=2<br>d) x&gt;=3<br>e) x&lt;=50",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-dinyatakan-dalam-bentuk-akar-561",
+            "question": "Jika dinyatakan dalam bentuk akar.........................................    mohon jawabannya yang tepat :)\r\n\r\npertanyaan nya di DOC",
+            "attachments": [
+                "question-attachments/jika-dinyatakan-dalam-bentuk-akar-561-1.docx"
+            ],
+            "answers": [
+                {
+                    "answer": "[tex]64^{\\frac{3}{2}} *  \\frac{1}{147}^{\\frac{1}{2} } = 2^{6*\\frac{3}{2}} *  \\frac{1}{147}^{\\frac{1}{2}} = 2^9 * \\frac{1}{147^\\frac{1}{2}} = 42.2[/tex]<br><br>kalau dalam bentuk akar\u00a0[tex] \\sqrt{{2 ^{18} } * \\frac{1}{147} }[/tex]<br><br>[tex]\\sqrt{{2 ^{18} } * \\frac{1}{7^{3}} } [/tex]<br><br>coba bilang dari tadi ada pilihan gandanya<br><br>[tex]64^{\\frac{3}{2}} * \\frac{1}{7}^{\\frac{3}{2} }\u00a0<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-penyelesaian-dari-pertidak-samaan-brikut-6x-18-gt-668",
+            "question": "Tentukan penyelesaian dari pertidak samaan brikut : 6x - 18 &gt; 18\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "\u00a0 6x - 18 &gt; 18<br>(=)6x - 18 + 18 &gt; 18+ 18<br>(=)6x\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 &gt; 36<br>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 x &gt; 36/6<br>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 x &gt; 6\u00a0\u00a0\u00a0 <br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "[tex]6x&gt;18+18 \\\\6x&gt;36 \\\\ x&gt;6[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-f-x-5x8-tentukan-nilai-fapabila-x-4-205",
+            "question": "Jika F (x) =5x+8 tentukan nilai f.apabila x=-4",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "F(x) = 5x + 8<br>jika x = - 4<br><br>maka:<br>F (-4) = 5 (-4) + 8<br>F(-4) = -20 +8<br>F(-4) = -12<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "f ( -4 ) = 5 (-4) + 8<br>f (-4) = -20 + 8<br>f (-4) = -12<br>f\u00a0 \u00a0 \u00a0 \u00a0 = -12/-4<br>f\u00a0 = 3<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-mobil-memerlukan-bahan-bakar-12-liter-untuk-menempuh-jarak-451",
+            "question": "sebuah mobil memerlukan bahan bakar 12 liter untuk menempuh jarak 120 km dengan kondisi mendatar 84 km dan sisanya menanjak. pada saat menanjak bahan bakar yang diperlukan 2 kali lipat\u00a0daripada jalan mendatar. jika suatu ketika mobil tersebut menempuh jarak 312 km dengan kondisi jalan mendatar saja,maka\u00a0banyak bahan bakar yang diperlukan?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "menanjak = 120 - 84 = 36 km<br><br>jika liter\u00a0menanjak = 2\u00a0x liter untuk\u00a0mendatar<br>maka<br>84 + 36(2) = 12 liter<br>84 + 72 = 12 liter<br>12 liter = 156 km (mendatar)<br><br>jika sekarang jaraknya menjadi 312\u00a0km mendatar saja, maka<br>12 x 2 = 24 liter",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "3-tolong-bantuin-yaa-buat-ngerjakan-ini-buat-tugas-besok-355",
+            "question": "\u00a0\u2264 3    tolong bantuin yaa buat ngerjakan, ini buat tugas besok. makasih :)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<u>2y - 7</u> \u2264 3<br>\u00a0\u00a0 2<br><br>2y - 7 \u2264 3 \u00d7 2<br>2y - 7 \u2264 6<br>2y \u2264 6 + 7<br>2y \u226413<br>y \u2264 6,5<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span><u>2y - 7</u> \u2264 3<br>\u00a0\u00a0 2<br><br>2y - 7 \u2264 3 \u00d7 2<br>2y - 7 \u2264 6<br>2y \u2264 6 + 7<br>2y \u226413 = y \u2264 6,5<br></span><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "3z11-28-itu-gimana-caranya-yah-506",
+            "question": "3z+11=-28 itu gimana caranya yah?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "3z+11=-28<br>3z=-28-11<br>3z=-39<br>z=-12",
+                    "attachments": []
+                },
+                {
+                    "answer": "3z +11 = -28<br>3z = -28 - 11<br>3z = -33<br>z = -11",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-sebuah-dadu-dilempar-5-kaliberapakah-peluang-mata-dadu-yang-944",
+            "question": "Jika sebuah dadu dilempar 5 kali.Berapakah peluang mata dadu yang muncul selalu ganjil? Tolong ya di jawab dan jelaskan cara jalannya",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "sebuah dadu ada 1, 2,3,4,5,6 dilempar sebanyak 5 kai<br><br>\u00a0\u00a01 \u00a02 \u00a03\u00a0 4 \u00a05\u00a0<br>1\u00a02 \u00a03\u00a0 4 \u00a05 \u00a06<br>2 3 \u00a04 \u00a05 \u00a06 \u00a07<br>3 4\u00a0 5\u00a0 6 \u00a07 \u00a08\u00a0<br>4 5 \u00a06 \u00a07 \u00a08 \u00a09\u00a0<br>5 6 \u00a07 \u00a08 \u00a09 \u00a010<br>6 7 \u00a08 \u00a09 \u00a010 \u00a011<br><br>P (A) =\u00a0[tex] \\frac{banyaknya kejadian A}{banyaknya kejadian yang mungkin} [/tex]<br>[tex] \\frac{15}{30} [/tex] =\u00a0[tex] \\frac{1}{2} [/tex]<br><br>30 = banyaknya ruang sampel<br>15 = jumlah ganjil<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "untuk-x-peubah-pada-a23581321maka-himpunan-penyelesaian-621",
+            "question": "Untuk x peubah pada A={2,3,5,8,13,21},maka himpunan penyelesaian dari 2x + 3 &lt;_ - 2 adalah.........    \u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "2x+3&lt;-2<br>2x + 3 - 3 &lt; -2 -3<br>2x &gt; -5<br>2x:2x &gt; -5:2<br>x &gt; -2,5<br>jadi, himpunan penyelesainnya {} himpunan kosong",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "habcdef-tulislah-semua-himpunan-bagian-dari-h-yg-mempunya-939",
+            "question": "H=(a,b,c,d,e,f)\r\ntulislah semua himpunan bagian dari H yg mempunyai 5anggota!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<strong>5 anggota</strong> = 6 <br>{a, b, c, d, e}; {a, b, c, d, f}; {a, b, c, e, f}; {a, b, d, e, f}; {b, c, d, e, f}; {a, c, d, e, f}<br><br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

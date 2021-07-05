@@ -1,0 +1,134 @@
+{
+    "question": "Jawablah Soal Soal ini    1. Sistem operasi berbasis teks terdapat pada ....\r\n\u00a0\u00a0 a. Novell\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 d. Microsoft Windows\r\n\u00a0\u00a0 b. Ms DOS\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 e. Apple Machintos\r\n\u00a0\u00a0 c. Linux\r\n2. Lapisan abstrak yang terdapat diantara brainware dan hardware adalah ...\r\n\u00a0\u00a0 a. CPU\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 d. software\r\n\u00a0\u00a0 b. RAM\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 e. perangkat keras\r\n\u00a0\u00a0 c. user\r\n3. Sistem operasi yang bersifat multiuser dan multitasking adalah ....\r\n\u00a0\u00a0 a. MS-DOS\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 d. Windows\r\n\u00a0\u00a0 b. PC-DOS\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 e. Prolog\r\n\u00a0\u00a0 c. Turbo Pascal\r\n4. Berikut merupakan sistem operasi berbasis grafis adalah ....\r\n\u00a0\u00a0 a. HP/UX\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 d. UNIX\r\n\u00a0\u00a0 b. MS-DOS\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 e. Linux\r\n\u00a0\u00a0 c. Free BSD\r\n6. Dalam Perkembangan sistem operasi di mulai dari program ... dan dikembangkan\u00a0 \u00a0 menjadi\u00a0 program berorientasi ....\r\n\u00a0\u00a0 a.\u00a0 DOS, GUI\r\n\u00a0\u00a0 b. GUI, DOS\r\n\u00a0\u00a0 c. IBM, DOS\r\n\u00a0\u00a0 d. DOS, UNIX\r\n\u00a0\u00a0 e. Linux, Windows\r\n7. Tampilan Control Panel untuk mengatur waktu dan Tanggal adalah ....\r\n\u00a0\u00a0 a. Accesibility Options\r\n\u00a0\u00a0 b. Printers and Other Hardware\r\n\u00a0\u00a0 c. Date, Time, Language, and Regional Options\r\n\u00a0\u00a0 d. Appearance and Themes\r\n\u00a0\u00a0 e. User Accounts\r\n8. Tampilan BIOS yang di gunakan untuk mengatur power komputer adalah ....\r\n\u00a0\u00a0 a. Set User Password\r\n\u00a0\u00a0 b. Integrated Peripheral\r\n\u00a0\u00a0 c. PnP/PCI Configurations\r\n\u00a0\u00a0 d. Power Management Setup\r\n\u00a0\u00a0 e. H/W Monitor\r\n9. Sistem operasi yang di buat oleh Linus Torvalds adalah ....\r\n\u00a0\u00a0 a. DOS\r\n\u00a0\u00a0 b. Windows\r\n\u00a0\u00a0 c. UNIX\r\n\u00a0\u00a0 d. Linux\r\n\u00a0\u00a0 e. Google\r\n10. Salah satu sifat yang dimiliki Windows adalah multitasking yang berarti ...\r\n\u00a0\u00a0 a. digunakan oleh banyak user\r\n\u00a0\u00a0 b. dilakukan oleh banyak komputer\r\n\u00a0\u00a0 c. digunakan oleh banyak workstations\r\n\u00a0\u00a0 d. digunakan untuk melakukan banyak tugas\r\n\u00a0\u00a0 e. digunakan untuk mengirim e-mail\r\n11. Berikut contoh dari sistem operasi yang bersifat open source dan berbasis teks, kecuali \r\n\u00a0\u00a0 a. Suse\r\n\u00a0\u00a0 b. MS-DOS\r\n\u00a0\u00a0 c. Mandrake\r\n\u00a0\u00a0 d. RedHat\r\n\u00a0\u00a0 e. Knoppix\r\n12. Linux merupakan varian dari sistem operasi ....\r\n\u00a0\u00a0 a. Windows\r\n\u00a0\u00a0 b. C/PM-86\r\n\u00a0\u00a0 c. UNIX\r\n\u00a0\u00a0 d. MS-DOS\r\n\u00a0\u00a0 e. Mac OS\r\n13. Dalam BIOS kita dapat mengatur sistem waktu, yaitu pada Bagian ....\r\n\u00a0\u00a0 a. System Time\r\n\u00a0\u00a0 b. System date\r\n\u00a0\u00a0 c. Legacy diskette\r\n\u00a0\u00a0 d. Primary master\r\n\u00a0\u00a0 e. Secondary master\r\n14. Bahasa yang di gunakan di seting BIOS tersebut adalah ....\r\n\u00a0\u00a0 a. Bahasa Indonesia\u00a0 \u00a0 \u00a0 d. Bahasa Belanda\r\n\u00a0\u00a0 b. Bahasa Inggris\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 e. Bahasa Rusia\r\n\u00a0\u00a0 c. Bahasa Spanyol\r\n15. Dari setting BIOS tersebut, status tidak ada permintaan password disebut ....\r\n\u00a0\u00a0 a. Yes\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 d. Disabled\r\n\u00a0\u00a0 b. No\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 e. None\r\n\u00a0\u00a0 c. Enabled\r\n\r\ndan satu soal lagi \r\n4. Apa Saja produk sistem operasi dari perusahaan Microsoft?\r\n\u00a0\u00a0 Jawabannya:\r\n\u00a0\u00a0 \r\n\r\ntolong tolong Jawablah secepat cepat mungkin karena ini sangat penting",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "urut dari no 1-selesai<br>bddeacddddcbbe<br>produk OS window win98,winME,win2000,winXP,win7,win8<br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "dalam-istilah-kata-desain-grafis-huruf-manakah-yang-paling-tepa-924",
+            "question": "Dalam istilah kata desain grafis,\u00a0huruf manakah yang paling tepat. design graphic,\u00a0desain\u00a0graphic, design grafis? dan alasan",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "tergantung,<br>jika inggris, benarnya \"design graphic\"<br>jika dalam bahasa, benarnya \"desain grafis\"<br><br>CMIIW",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "buat-rumus-microsoft-excel-menentukan-angsuran-dari-pinjaman-deng-155",
+            "question": "buat rumus microsoft excel menentukan angsuran dari pinjaman dengan cicilan per minggu atau per bulan\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "=(average) atau auuto custom",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-caralangkahtips-melakukan-pemasaran-online-di-google-plus-2-423",
+            "question": "1 cara/langkah/tips melakukan pemasaran online di google plus? 2 cara/langkah/tips melakukan pemasaran online di socl? 3 cara/langkah/tips melakukan pemasaran online d- friendster? 4 cara/langkah/tips melakukan pemasaran online di linkedin? \u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1. \u00a0yang mau di pasarkan di post di G+ , add circle yg banyak.<br>2. \u00a0socl, gak pernah make.<br>3. \u00a0Friendster, dah BANGKRUT!!<br>4. \u00a0Linked in, bukan tempat promosi, kecuali mau promosiin diri!",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentang-form-pada-javascript-990",
+            "question": "Tentang form pada javascript ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>pembuatan form pada HTML dengan menggunakan Java Script<span><br>&lt;html&gt;<span>\u00a0\u00a0&lt;head&gt;&lt;title&gt;JavaScript-Mid&lt;/title&gt;&lt;/head&gt;</span><span>\u00a0\u00a0&lt;body&gt;</span><span>\u00a0\u00a0\u00a0\u00a0&lt;script languange =\"JavaScript\"&gt;</span><span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0function Proses()</span><span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0{</span><span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0var npm = (document.formnilai.inpm.value);</span><span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0var nama = (document.formnilai.inama.value);</span><span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0var nt = (document.formnilai.int.value);</span><span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0var nk = (document.formnilai.ink.value);</span><span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0var nm = (document.formnilai.inm.value);</span><span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0var ns = (document.formnilai.ins.value);\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0na = 0.2*nt+0.1*nk+0.3*nm+0.4*ns;</span><span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0if (na&gt;=85)</span><span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0nh=&#039;A&#039;;</span><span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0else if (na&gt;=70)</span><span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0nh=&#039;B&#039;;</span><span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0else if (na&gt;=55)</span><span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0nh=&#039;C&#039;;</span><span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0else if (na&gt;=40)</span><span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0nh=&#039;D&#039;;</span><span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0else</span><span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0nh=&#039;E&#039;;</span><span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0if (nh==&#039;A&#039; || nh==&#039;B&#039; || nh==&#039;C&#039;)</span><span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0ket = \"Lulus\";</span><span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0else</span><span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0ket = \"Gagal\";</span><span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0document.formnilai.onpm.value = npm;\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0document.formnilai.onama.value = nama;</span><span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0document.formnilai.ona.value = na;</span><span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0document.formnilai.onh.value = nh;</span><span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0document.formnilai.oket.value = ket;</span><span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0}</span><span>\u00a0\u00a0\u00a0\u00a0&lt;/script&gt;</span><span>\u00a0\u00a0\u00a0\u00a0&lt;form name =\"formnilai\"&gt;</span><span>\u00a0\u00a0\u00a0\u00a0&lt;h2&gt; Pengolahan Data Nilai Pemrograman Web &lt;/h2&gt;</span><span>\u00a0\u00a0\u00a0&lt;h3&gt; Input Data Nilai Mahasiswa &lt;/h3&gt;</span><span>\u00a0\u00a0\u00a0\u00a0&lt;pre&gt;</span><span>\u00a0\u00a0\u00a0\u00a0\u00a0NPM\u00a0\u00a0\u00a0\u00a0: &lt;input type=\"text\" size=\u201c10\" name=\"inpm\"&gt; &lt;br&gt;</span><span>\u00a0\u00a0\u00a0\u00a0\u00a0Nama\u00a0\u00a0\u00a0: &lt;input type=\"text\" size=\u201c20\" name=\"inama\"&gt; &lt;br&gt;</span><span>\u00a0\u00a0\u00a0\u00a0\u00a0Nilai Tugas\u00a0\u00a0\u00a0\u00a0\u00a0: &lt;input type=\"text\" size=\"5\" name=\"int\"&gt; &lt;br&gt;</span><span>\u00a0\u00a0\u00a0\u00a0\u00a0Nilai Kuis\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0: &lt;input type=\"text\" size=\"5\" name=\"ink\"&gt; &lt;br&gt;</span><span>\u00a0\u00a0\u00a0\u00a0\u00a0Nilai Mid\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0: &lt;input type=\"text\" size=\"5\" name=\"inm\"&gt; &lt;br&gt;</span><span>\u00a0\u00a0\u00a0\u00a0\u00a0Nilai Semester\u00a0\u00a0: &lt;input type=\"text\" size=\"5\" name=\"ins\"&gt;</span><span>\u00a0\u00a0\u00a0\u00a0&lt;/pre&gt;</span><span>\u00a0\u00a0\u00a0\u00a0&lt;input type=\"button\" value=\"Proses Nilai\" onclick=\"Proses()\"&gt;</span><span>\u00a0\u00a0\u00a0\u00a0&lt;input type=\"reset\" value=\"Ulang\"&gt;</span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0<span>\u00a0\u00a0\u00a0\u00a0&lt;h3&gt;Hasil Proses &lt;/h3&gt;</span><span>\u00a0\u00a0\u00a0\u00a0&lt;pre&gt;</span><span>\u00a0\u00a0\u00a0\u00a0\u00a0NPM\u00a0\u00a0\u00a0\u00a0: &lt;input type=\"text\" size=\u201c10\" name=\"onpm\"&gt; &lt;br&gt;</span><span>\u00a0\u00a0\u00a0\u00a0\u00a0Nama\u00a0\u00a0\u00a0: &lt;input type=\"text\" size=\u201c20\" name=\"onama\"&gt; &lt;br&gt;</span><span>\u00a0\u00a0\u00a0\u00a0\u00a0Nilai Akhir\u00a0\u00a0\u00a0\u00a0: &lt;input type=\"text\" size=\"5\" name=\"ona\"&gt; &lt;br&gt;</span><span>\u00a0\u00a0\u00a0\u00a0\u00a0Nilai Huruf\u00a0\u00a0\u00a0\u00a0: &lt;input type=\"text\" size=\"5\" name=\"onh\"&gt; &lt;br&gt;</span><span>\u00a0\u00a0\u00a0\u00a0\u00a0Keterangan\u00a0\u00a0\u00a0\u00a0\u00a0: &lt;input type=\"text\" size=\"7\" name=\"oket\"&gt; &lt;br&gt;\u00a0\u00a0\u00a0\u00a0</span><span>\u00a0\u00a0\u00a0\u00a0&lt;/pre&gt;</span><span>\u00a0\u00a0\u00a0\u00a0&lt;/form&gt;</span><span>\u00a0\u00a0\u00a0&lt;/body&gt;</span>&lt;/html&gt;<br><span><br><br>kurng pham juga dengan pertanyaannya :)<br>maaf kalau salah, soalnya meragukan</span></span></span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "cara-membuat-cover-novel-keren-dari-coreldraw-814",
+            "question": "Cara membuat cover novel keren dari coreldraw",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "caranya tinggal diedit-edit ajalah",
+                    "attachments": []
+                },
+                {
+                    "answer": "Caranya dengan mendownload gbr yang anda suka, lalu di edit dengan corel draw dengan tool yang ada dan bisa di trim juga. Bisa divariasikan dgn gmbr lain sesuai imajinasi, tambahkan teks dengan text tool",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "kenapa-sih-windows-7-tidak-bisa-update-otomatis-lagi-ketika-diu-167",
+            "question": "Kenapa sih Windows 7 tidak bisa update otomatis lagi ?    Ketika diupdate, malah gagal.\r\n\r\nSolusi mengatasinya gimana ya ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "lebih baik anda langsung membawanya ke tempat2 yg memang ahli untuk menginstal perangkat anda..krn jika salah program..bisa-bisa file/data2 dalam perangkat anda akan hilang.",
+                    "attachments": []
+                },
+                {
+                    "answer": "coba di cek pengaturan windows update nya, biasanya kalo gitu masalahnya itu karena settingan windows updatenya mati #kayapunyaku :x",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apa-yang-dimaksud-dengan-sistem-komputer-484",
+            "question": "Apa yang dimaksud dengan sistem komputer",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Sistem komputer adalah suatu jaringan elektronik yang terdiri dari perangkat lunak dan perangkat keras yang melakukan tugas tertentu (menerima input, memproses input, menyimpan perintah-perintah, dan menyediakan output\n dalam bentuk informasi). Selain itu dapat pula diartikan sebagai \nelemen-elemen yang terkait untuk menjalankan suatu aktivitas dengan \nmenggunakan komputer.<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "maaf-mengganggu-saya-mau-tanya-hp-saya-kan-ada-memori-telepon-628",
+            "question": "Maaf mengganggu,\u00a0saya mau tanya    hp saya kan ada memori telepon, sama memori eksternal, nah memori telepon saya terformat waktu lagi di hubung USB ke komputer, kira2 cara ngembali in nya gimana?\r\n\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "pake recovery saja.. butuh waktu lama utk mengembalikannya<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "sory mas, tapi kayaknya gak ada caranya ngembalikinnya apalagi saat usbnya udah tercabut",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bagaimana-cara-mengkoneksikan-antara-desain-web-php-dengan-databa-616",
+            "question": "Bagaimana cara mengkoneksikan antara desain web PHP dengan Databases Mysql",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "bila kamu memakai Dreamweaver harus membuat site definition dahulu, agar database kamu connect dengan php<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "50-sistem-operasi-beserta-logo-dan-distronya-642",
+            "question": "50 sistem operasi beserta logo dan distronya ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "nih gue kasih link nya,,,soalnya gambarnya sulit dan ukurannya terlalu besar untuk di masukan di jawaban ini<br>link nya =distrowatch dot com<br><br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

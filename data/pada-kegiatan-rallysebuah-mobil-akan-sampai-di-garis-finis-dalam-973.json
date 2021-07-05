@@ -1,0 +1,142 @@
+{
+    "question": "Pada kegiatan Rally,sebuah mobil akan sampai di garis finis dalam waktu 4,5 jam dengan kecepatan rata-rata 63 km/jam. Setelah 2 jam berjalan, ban mobil biru pecah sehingga terpaksa berhenti mengganti ban selama 15 menit. Berapa kecepatan mobil biru dinaikkan agar tetap sampai di finis tepat waktu?",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "4,5 jam --&gt; 63 km/jam<br>2,25 jam --&gt; (63 + x) km/jam<br><br>[tex] \\frac{4,5}{2,25} [/tex] =\u00a0[tex] \\frac{63+x}{63} [/tex]<br>126 = 63+x<br>x\u00a0= 63 km/jam",
+            "attachments": []
+        },
+        {
+            "answer": "waktu normal (t1) = 2.5 jam<br>waktu tersisa (t2) = 2.25 jam (waktu normal di kurangi waktu mengganti ban)<br>kecepatan normal (v1) = 63 km/jam<br>kecepatan untuk mencapai finish dengan waktu tersisa\u00a0 (v2)= ...??<br><br>karena jarak yang ditempuh adalah sama maka dapat dibuat persamaan jarak sbb :<br>s1 = s2<br>v1.t1 = v2.t2<br>63 . 2.5 = v2 . 2.25<br><span>v2 = </span><br><br>v2 = 70 km/jam<br><br><br><br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "diketahui-k-x-3-lt-x-lt3-x-bilangan-bulat-l-296",
+            "question": "Diketahui:    K = {x |\u00a0\u207b3 &lt; x &lt;3, x\u00a0\u2208 bilangan bulat }\r\nL = {lima bilangan cacah pertama}\r\nM = {x | x&lt;5, x\u2208 bilangan asli}\r\n\r\ntentukan:\r\na.K U L\r\nb.K U M\r\nc.L U M\r\nd.K U L U M\r\ne.K\u00a0\u03a0 M\r\nf.K\u00a0\u03a0 L\r\ng.K\u00a0\u03a0 L M",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "K = {-2,-1,0,1,2}<br>L\u00a0= {0,1,2,3,4}<br>M = {1,2,3,4}<br><br>jawaban\u00a0<br>A. A={-2,-1,0,1,2,3,4}<br>B. B={-2,-1,0,1,2,3,4}<br>C. C={0,1,2,3,4}<br>D. D={-2,-1,0,1,2,3,4}<br>E. E={1,2}<br>F. F={0,1,2}<br>G. yang ini soalnya gak jelas",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "setelah-9-bulan-uang-tabungan-suci-di-koperasi-berjumlah-381400-418",
+            "question": "setelah 9 bulan uang tabungan suci di koperasi berjumlah 3.814.000. koperasi memberikan jasa bunga berupa 12% per tahun. tabungalawal sucidi koperasi adalah ........",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "3814:9 =423,78 x1000 = 423780 x12 =5085360 x88/100 =4475117 :12 =372926,5",
+                    "attachments": []
+                },
+                {
+                    "answer": "Tab.Awal=tab.akhir.100/100+%b<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0=381400000/109<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0=3.499.082,5",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "rumus-garis-phytagoras-245",
+            "question": "Rumus garis phytagoras",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "\u00a0C^ = A^ + B^<span>\u00a0, itu aja yang perlu diingat ingat oleh kamu. C = Panjang Garis bidang miring , A = Panjang Tinggi Garis, B=Panjang Garis Alas , .</span>",
+                    "attachments": []
+                },
+                {
+                    "answer": "C^2= A^2 + B^2 atau<br>C= akar dari A^2 + B^2\u00a0<br>ket: C = sisi miring segitiga siku-siku<br>A &amp; B = kaki-kaki atau sisi siku-sikunya<br>^ = pangkat",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "upik-membuka-usaha-keripik-kentang-yang-dipasarkanpada-ibu-ibu-d-830",
+            "question": "Upik membuka usaha keripik kentang ,yang dipasarkanpada ibu-ibu di sekitar komplek upiktinggal. Agar pembeli tidak kecewa upik harusberusaha potongan kripiknya sebagus mungkindan hampir sama panjangnya. Setelah digorengUpik menimbang berat keripik kentang itu,ternyata dari 8 butir kentang diperoleh kripikdengan berat 1,2 ons.    a. Jika tetangga upik memesan 2 kg keripik,Berapa butir kentang yang harus digorengupik\r\n.b. Berapa butir kentang digoreng untuk membuat6 kg keripik\r\n.c. Berapa kg keripik yang dihasilkan dari 60butir kentang\r\n.d. Sajikan data perbandingan pada tabel dangambarkan grafiknya pada koordinat kartesius.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "8 butir\u21d21,2 ons =12 kg<br>80 butir\u21d2 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a01,2 kg<br>800butir\u21d2 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 12 kg<br>a.800butir\u21d212kg<br>\u00a0 \u00a0 \u00a0 ? \u00a0 \u00a0 \u00a0\u21d22kg<br>800/x=12/2(disderhanakan menjadi 6/1)<br>6x=800<br>x=800/6<br>x=133,33 =134 butir<br>b.800/x=12/6(di sederhanakan mnjadi 2/1)<br>2x=800<br>x=800/2<br>x=400 butir<br><br>\u00a0 \u00a0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "besar-sudut-yang-dibentuk-dari-pukul-1020-dan-0745-338",
+            "question": "Besar sudut yang dibentuk dari pukul 10.20 dan 07.45",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "10.20 : Sudut Tumpul<br>07.45 : Sudur Lancip",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-k-235711-tentukan-ahimpunan-bagian-k-yang-mem-547",
+            "question": "diketahui K = { 2,3,5,7,11} tentukan a.himpunan bagian K yang mempunyai dua anggota b.himpunan bagian K yang mempunyai tiga anggota c.himpunan bagian K yang mempunyai empat anggota",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a.) (2,3);(2,5);(2,7);(2,11);(3,5);(3,7);(3,11);(5,7);(5,11);(7,11)<br>b.)(2,3,5);(2,3,7);(2,3,11),(2,5,7);(2,5,11);(2,7,11);(3,5,7);(3,7,11);(5,7,11)<br>c.)(2,3,5,7);(2,3,5,11);(2,5,7,11);(3,5,7,11)<br>Maaf kalau kurang lengkap?!",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-lanjutin-jawabannya-karena-saya-gak-tahu-cara-mengerjakan-102",
+            "question": "Tolong lanjutin jawabannya, karena saya gak tahu cara mengerjakannya lagi.............    Tolong donk, pertanyaannya ada di DOC :)",
+            "attachments": [
+                "question-attachments/tolong-lanjutin-jawabannya-karena-saya-gak-tahu-cara-mengerjakan-102-1.docx"
+            ],
+            "answers": [
+                {
+                    "answer": "capek nulisnya jadi aku jawab di kertas trus aku foto ya\u00a0<br><br><br>",
+                    "attachments": [
+                        "answer-attachments/tolong-lanjutin-jawabannya-karena-saya-gak-tahu-cara-mengerjakan-102-1.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "persamaan-kuadrat-yang-akar-karnya-12dan-34-adalah-477",
+            "question": "Persamaan kuadrat yang akar-karnya-1/2dan 3/4 adalah...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex](2x+1)(4x-3) =  8x^{2} -6x+4x-3 \\\\ 8x^{2} -2x-3[/tex]",
+                    "attachments": []
+                },
+                {
+                    "answer": "akar-akarnya<br>x = - 1/2 dan x = 3/4<br>maka, x = - 1/ 2 menjadi 2x + 1 = 0<br>dan x = 3 / 4 menjadi 4x - 3 = 0<br><br>masukan ke persamaan pemfaktoran ( dikalikan ):<br>\u00a0(4x - 3) (2x + 1) = 0<br>8[tex] x^{2} [/tex] - 2x - 3 = 0<br><br>semoga membantu :)<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "ubalah-satuan-sudut-berikut-ke-dalam-derajat-1-360-menit-2-948-227",
+            "question": "Ubalah satuan sudut berikut ke dalam derajat    1. 360 menit\r\n 2. 948 menit\r\n 3. 1.020 menit\r\n 5. 75.600 detik",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1. (360*60)/360 = 60<br>2. (948*60)/360 = 158<br>3. (1020*60)/360 = 170<br>4. (75600/360) = 210<br><br>mungkin seperti itu yang dimaksud!!!<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "perbaikan-jalan-akan-selesai-dikerjakan-dalam-waktu-3-bulan-1-bu-128",
+            "question": "perbaikan jalan akan selesai dikerjakan dalam waktu 3 bulan (1 bulan= 30 hari), jika dikerjakan oleh 16 orang tenaga. setiap hari minggu (1 bulan ada 5 hari minggu)buruh libur bekerja. berapa orang buruh harus ditambah agar jalan tersebut tetap selesai tepat waktu?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "30x3=90 hari\u00a0<br>90:16=5.625 hari/org<br><br>5x3=15hr\u00a0<br>15/5.625=2.67\u00a0<br>2.67 kira\" 3..jd 3org",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

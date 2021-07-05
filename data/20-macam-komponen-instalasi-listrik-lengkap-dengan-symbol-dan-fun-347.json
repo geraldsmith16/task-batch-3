@@ -1,0 +1,152 @@
+{
+    "question": "20 macam\r\n komponen instalasi listrik lengkap dengan symbol dan fungsinya",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "MACAM-MACAM INSTALASI LISTRIK<br>Instalasi listrik dapat dibedakan dalam beberapa macam yaitu :<br>A. Berdasarkan macam arus listrik yang dipakai<br>1 Instalasi listrik arus searah atau Direct Current (DC)<br>Instalasi ini sudah jarang digunakan karena hanya digunakan pada pabrik (industri), rumah tangga tertentu, kapal laut, dan lain-lain. Alat pembangkit arus searah ialah generator arus searah dan listrik tenaga matahari (Solar Cell)<br><br>2 Instalasi listrik arus bolak-balik atau Alternating Current (AC)<br>Umumnya menggunakan tegangan listrik 220 V, 380 V, 6.000 V, 20.000 V dan seterusnya. Instalasi ini banyak dipakai secara umum baik di industri maupun untuk keperluan rumah tangga. Alat untuk membangkitkan arus bolak-balik digunakan alternator dan inverter<br><br>B. Berdasarkan penggunaannya<br>1 Instalasi listrik penerangan / cahaya. Instalasi ini diperlukan untuk menghasilkan cahaya atau penerangan untuk keperluan rumah tangga.<br>2 Instalasi listrik tenaga. Biasanya digunakan untuk memutar kipas angin, pompa air, mixer, blender dan motor-motor listrik yang lain.<br>3 Instalasi listrik khusus, yaitu instalasi listrik yang terdapat pada kapal laut, pesawat udara, mobil dan sebagainya.<br>4 Instalasi listrik untuk telekomunikasi, yaitu instalasi untuk jaringan telepon, telegraf dan sebagainya<br><br>C. Berdasarkan besar tegangannya<br>1 Instalasi Tegangan Tinggi<br>Tegangannya antara 70.000 Volt (70 KV) sampai 150.000 Volt (150 KV). tegangan ini diperlukan pada jaringan transmisi jarak jauh seperti jaringan antara pusat pembangkit listrik misalnya PLTA Bakaru ke Gardu Induk di PLTU Tello. Tegangan tinggi diperlukan karena denga<br>n jarak yang jauh, tentu sebagian tegangan akan hilang (losses) dan berubah menjadi panas, maka tegangannya perlu dinaikkan dulu baru dikirimkan ke beban.<br><br>2 Instalasi Tegangan Menengah<br>Tegangannya antara 6.000 Volt (6 KV), 12.000 Volt (12 KV) dan 20.000 Volt (20 KV). Contohnya pada jaringan distribusi primer yaitu antara gardu hubung ke gardu distribusi.<br><br>3 Instalasi tegangan Rendah<br>Tegangannya antara 220 Volt, 380 Volt dan 600 Volt. Contohnya ialah instalasi listrik penerangan dan tenaga pada rumah tinggal, pabrik-pabrik atau pada jaringan distribusi.<br><br>D. Berdasarkan kuat arus atau besar daya<br>1 Instalasi listrik arus lemah, Contohnya jaringan instalasi listrik komunikasi.<br>2 Instalasi listrik arus kuat, contohnya jaringan instalasi listrik penerangan dan tenaga<br><br>E. Berdasarkan jumlah fasa<br>1 Instalasi listrik satu fasa, umumnya diperlukan untuk instalasi penerangan rumah tinggal sederhana dan semacamnya.<br>2 Instalasi listrik tiga fasa, umumnya diperlukan untuk instalasi listrik penerangan dan tenaga pada rumah tinggal, bengkel, pabrik dan lain-lain yang memerlukan listrik dengan jumlah daya yang besar.<br><br>2 BATASAN INSTALASI LISTRIK 1 FASA<br>Instalasi listrik satu fasa bukan merupakan instalasi tenaga tetapi hanya merupakan instalasi penerangan yang sederhana, misalnya untuk lampu-lampu listrik, seterika listrik, kompor listrik, pesawat pendingin dan alat-alat rumah tangga listrik lainnya.<br><br>3 KESELAMATAN KERJA DALAM INSTALASI LISTRIK 1 FASA<br>Dalam pelaksanaan pekerjaan instalasi listrik terdapat peraturan-peraturan yang telah disusun dalam buku Peraturan Umum Instalasi Listrik (PUIL) dan yang sekarang berlaku ialah PUIL2007.<br><br>Hal-hal yang perlu diperhatikan dalam pelaksanaan instalasi listrik ialah memenuhi syarat :<br>a. Keamanan<br>b. Keandalan (bermutu)<br>c. Ekonomis<br>d. Mudah dikembangkan / diperluas<br>e. Memungkinkan untuk diperbaharui<br>f. Baik dan rapi.<br><br>Dalam melaksanakan pekerjaan instalasi listrik hendaknya sudah ada perencanaan dan perhitungan pemasangannya. Untuk melaksanakan setiap pekerjaan instalasi listrik, instalatur harus membuat permohonan penyambungan listrik disertai gambar denah lengkap dengan gambar rencana hubungan listrik dan rekapitulasi daya listrik yang diperlukan.<br><br>4 LISTRIK TIGA FASA DAN SATU FASA<br><br>Yang dimaksud dengan pembangkit listrik tiga fasa ialah suatu pembangkit listrik yang menghasilkan tiga aliran listrik yang satu dengan yang lainnya mempunyai sudut fasa yang berbeda. Ketiga arus listrik tersebut masing-masing mempunyai beda fasa 1200 listrik. Listrik tiga fasa memerlukan tiga kawat penghantar dan satu kawat netral. Keempat kawat tersebut masing-masing :<br>Fasa pertama disebut fasa R dengan kode warna merah<br>Fasa kedua disebut fasa S dengan kode warna kuning<br>Fasa ketiga disebut fasa T dengan kode warna hitam<br>Saluran netral yang ditanahkan dengan kode warna biru.<br><br><span>Saluran netral harus ditanahkan sebagai saluran pembuangan arus jika terjadi hubung singkat dalam instalasi listrik.</span>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "tuliskan-langkah-langkah-mengaktifkan-komputer-125",
+            "question": "Tuliskan langkah langkah mengaktifkan komputer",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a. memeriksa apakah power sudah tersambung pada UPS(uninteruptuble Power Supply) dan stabilizer sebelum keduanya dihubungkan dengan listrik<br>b. memeriksa keyboard, mouse dan monitor . apakah sudah tersambung pada port masing2<br>c. memeriksa disket (floppy disk) pada floppy drive A dengan mengosongkan terlebih dahulu jika masih ada disket didalamnya<br>d. menekan power UPS dan stabilizer, kemudian menekan power pada CPU dan monitor. setelah itu tunggu proses booting selesai sehingga tertampil layar dekstop",
+                    "attachments": []
+                },
+                {
+                    "answer": "1. periksa kondisi semua peralatan komputer telah terpasang dengan benar. perhatikan dengan benar kabel-kabel dan konektor lain yang harus terpasang seperti kabel power ke CPU,monitor,dan printer.<br>2. nyalakan stabilizer bagi komputet yang memakai stabilizer.<br>3. nyalakan tobol power pada CPU.<br>4. nyalakan tombol power pada monitor.<br>5. tunggu beberapa saat sampai muncul tampilan awal komputer",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "ada-yang-tau-gimana-cranya-membuat-bingkai-html-2-kolom-kolom-pe-470",
+            "question": "ada yang tau gimana cranya membuat bingkai HTML 2 kolom, kolom pertama 2 baris, kolom kedua 3 baris? + rumus nya ya.\u00a0thankyou:)\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>&lt;table border=1 align=&#039;center&#039;&gt;<br></span><span>&lt;tr&gt;</span><span>\u00a0\u00a0\u00a0\u00a0<br>\u00a0 \u00a0\u00a0&lt;th&gt;Nama&lt;/th&gt;</span><span>\u00a0\u00a0\u00a0\u00a0<br>\u00a0 \u00a0\u00a0&lt;th&gt;Alamat&lt;/th&gt;</span><span>\u00a0\u00a0\u00a0\u00a0<br>\u00a0 \u00a0\u00a0&lt;th&gt;No hp&lt;/th&gt;</span><span>\u00a0\u00a0\u00a0\u00a0<br>\u00a0 \u00a0\u00a0&lt;th&gt;Email&lt;/th&gt;</span><span><br>&lt;/tr&gt;<br></span><span>&lt;tr&gt;</span><span>\u00a0\u00a0\u00a0\u00a0<br>\u00a0 \u00a0\u00a0&lt;td&gt;Nama&lt;/td&gt;</span><span>\u00a0\u00a0\u00a0\u00a0<br>\u00a0 \u00a0\u00a0&lt;td&gt;Alamat&lt;/td&gt;</span><span>\u00a0\u00a0\u00a0<br>\u00a0 \u00a0\u00a0&lt;td&gt;No Hp&lt;/td&gt;</span><span>\u00a0\u00a0\u00a0\u00a0<br>\u00a0 \u00a0\u00a0&lt;td&gt;Email&lt;/td&gt;<br></span><span>&lt;/tr&gt;<br></span><span>&lt;tr&gt;</span><span>\u00a0\u00a0\u00a0\u00a0<br>\u00a0 \u00a0 \u00a0&lt;td&gt;contoh a&lt;/td&gt;</span><span>\u00a0\u00a0\u00a0\u00a0<br>\u00a0 \u00a0 \u00a0&lt;td&gt;contoh b&lt;/td&gt;</span><span>\u00a0\u00a0\u00a0\u00a0<br>\u00a0 \u00a0 \u00a0&lt;td&gt;contoh c&lt;/td&gt;</span><span>\u00a0\u00a0\u00a0\u00a0<br>\u00a0 \u00a0 \u00a0&lt;td&gt;contoh d&lt;/td&gt;\u00a0<br></span><span>&lt;/tr&gt;<br></span><span>&lt;/table<span>&gt;<br>itu di coba2,buka pake web terus juga itu atas di tambah &lt;html&gt;&lt;head&gt;&lt;body&gt; bawahnya juga tapi di tambah garis miring di depan,terus tinggal di ganti/hapus sesuai kebutuhan,semoga membantu :)</span></span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tuliskan-alasan-mengapa-harus-siskom-964",
+            "question": "Tuliskan alasan mengapa harus siskom",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Siskom adalah kependekan dari sistem komputer yaitu ilmu yang mempelajari tentang telekomunikasi",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jelaskan-fungsi-dari-summery-everage-minmax-427",
+            "question": "Jelaskan fungsi dari summery, everage, min,max?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "average = untuk menghitung nilai rata-rata<br>min = untuk menghitung nilai minimum <br>max = untuk menghitung nilai maximum<br>summery = untuk menjumlahkan nilai<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "sum = jumlah nilai<br>average untuk cri nilai rata rata<br>max= nilai tertinggi<br>min=nilai terendah<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "kalau-cara-mengedit-foto-yg-terlihat-nyata-gmna-479",
+            "question": "Kalau cara mengedit foto yg terlihat nyata gmna ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Pake<em><strong> Photoshop</strong></em> aja,Smart editor photo xD<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "menggunakan picasa atau intagram editor sesudah di edit dengan corel atau bitmap<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apa-manfaat-dari-aplikasi-ini-660",
+            "question": "Apa manfaat dari aplikasi ini?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "aplikasi apa?<br>gk ada gambar-apa-apa<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "\u00a0yaitu bisa mengajukan pertanyaan yg tidak kita ketahui dan berbagi ilmu",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apakah-monitor-dapat-diaktifkan-terlrbih-dahulu-sebelum-cpu-diakt-356",
+            "question": "Apakah monitor dapat diaktifkan terlrbih dahulu sebelum CPU diaktifkan ?berikan penjelasan.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Tidak bisa, karena monitor hidup gara\" kabelnya dicolokin ke power suply CPU<br>kecuali kalo monitor itu dicolokin ke lain tempat, pasti bisa hidup, seperti TV yang make komputer",
+                    "attachments": []
+                },
+                {
+                    "answer": "ya, monitor pada cpu dapat di nyalakan terlebih dahulu sebelum cpu aktif\u00a0 tetapi hanya pada\u00a0 monitor memiliki kabel catudaya sendiri atau terpisah dengan cpu.<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "ada-yang-tau-cara-bikin-mini-games-656",
+            "question": "Ada yang tau cara bikin mini games ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "caranya : pake pictogame itu setau saya <br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "cara membuat games adalah di aplikasi gamemaker atau flashtogame\u00a0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apa-gambar-pada-layar-komputer-huruf-pertamanya-b-proses-menghid-933",
+            "question": "Apa gambar pada layar komputer?    huruf pertamanya B\r\n\r\nProses menghidupkan komputer?\r\nhuruf\u00a0pertamanya R",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "gambar pada layar komputer,\u00a0Background<br>proses menghidupkan komputer setau saya booting, tapi coba aja reset / restart\u00a0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bagaimana-cara-menggabungkan-microsoft-excel-dengan-microsoft-wor-238",
+            "question": "bagaimana cara menggabungkan microsoft excel dengan microsoft word (2007) di\u00a0microsoft word? Lengkap yaa..",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Tergantung kamu mau fungsiin untuk bikin grafik atau tabel..<br>Kalo grafik bisa klik di option \"insert\" terus klik chart lalu tinggal kamu otak-atik aja sesuai yang kamu inginkan.<br>Kalo tabel kamu klik di option \"insert\" terus klik table terus pilih excle spreadsheet.<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Begitukah maksudnya?<br>1. Klik Insert<br>2. Klik object<br>3. Pilih microsoft office\u00a0excel worksheet<br>4.klik ok<br><br>semoga membantu :)",
+                    "attachments": [
+                        "answer-attachments/bagaimana-cara-menggabungkan-microsoft-excel-dengan-microsoft-wor-238-1.png"
+                    ]
+                }
+            ]
+        }
+    ]
+}

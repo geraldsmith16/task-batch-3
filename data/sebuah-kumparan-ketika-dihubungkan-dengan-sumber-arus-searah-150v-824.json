@@ -1,0 +1,142 @@
+{
+    "question": "Sebuah kumparan ketika dihubungkan dengan sumber arus searah 150v mengalir arus 5 A. sedangkan ketika dihubungkan dengan sumber arus bolak balik juga 150v, mengalir arus 3 A. Reaktansi kumparan sebesar... Ohm    mohon bantuannya?",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "R1 = V/l = 150 / 5 = 30<br>R2 = V/l = 150 / 3 = 50<br>R total = R1 + R2 = 30 + 50 = 80<br>",
+            "attachments": []
+        },
+        {
+            "answer": "<span>R total = R1 + R2 = 30 + 50 = 80</span><br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "dari-puncak-sebuah-menara-setinggi-45-m-dijatuhkan-sebuah-batu-j-959",
+            "question": "dari puncak sebuah menara setinggi 45 m dijatuhkan sebuah batu. jika percepatan gravitasi di tempat tersebut 10 m/s\u00b2, kecepatan batu saat tepat menyentuh tanah sebesar?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Dik = h : 45cm<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0g : 10 m/ [tex] s^{2} [/tex]\u00a0<br>Dit = V =  \\sqrt{2.g.h} ?<br>Penye =\n<br>V =  \\sqrt{2.10.45}<br>\u00a0 \u00a0=   \\sqrt{900}<br>\u00a0 \u00a0= 30[/tex]<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "EP = EK<br>mgh = 1/2 m v^2<br>gh = 1/2 v^2<br>45.10 = 1/2 v^2<br>900 = v^2<br>v = 30m/s<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apa-yang-dimaksut-dengan-torsi-906",
+            "question": "Apa yang dimaksut dengan torsi ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>Torsi adalah<em> kemampuan suatu gaya menghasilkan perputaran (rotasi) benda terhadap suatu poros atau pada sumbu putarnya.</em></span><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "sebuah besaran yang menyatakan besarnya gaya yang bekerja pada sebuah benda sehingga mengakibatkan benda tersebut berotasi\u00a0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-silender-pejal-diletakan-di-atas-puncak-bidang-miring-kasa-728",
+            "question": "sebuah silender pejal diletakan di atas puncak bidang miring kasar dengan ketinggian h.kecepatan silinder di kaki bidang miring adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "karena ga dikasih tau angkanya, saya kasih tau caranya<br>hitung I silinder pejal = 1/2 mr\u00b2<br>hitung torsi = I x\u00a0\u03b1<br>I = mr\u00b2<br>ingat, torsi adalah F.r<br>\u03a3F = m . a<br>F-fg (permukaan kasar, ada gaya gesek) = m .a<br>\u03b1 = a/r<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "rumus-alfa-jika-hanya-diketahui-womega-massa-jari-jari-waktu-343",
+            "question": "Rumus alfa jika hanya diketahui W(OMEGA), massa, jari jari, waktu(s), frekuensi",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "\u03b1 = \u0394\u03c9/\u0394t<br>\u03b1 = torsi/inersia<br>\u03b1 = \u03c9t-\u03c9o/t-to",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-bola-pejal-bermassa-05-kg-dan-jari-jari-20-cm-menggelind-174",
+            "question": "sebuah bola pejal bermassa 0,5 kg. dan jari jari 20 cm menggelinding pada lantai mendatar dengan kecepatan 8 m/s kemudian naik ke bidang miring. Tentukan ketinggian h maksimum yang dapat dicapai hingga bola berhenti sesaat",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>Mapel: Fisika</p><p>Kelas : XI SMA<br></p><p>Kategori \u00a0: dinamika rotasi<br></p><p>Kata Kunci : menggelinding, kecepatan, ketinggian, bidang miring, energi mekanik<br></p><p>Jawaban:<br></p><p>Jika bola menggelinding, berarti benda mengalami gerak translasi sekaligus rotasi. Untuk menyelesaikan soal tersebut, digunakan hukum kekekalan energi mekanik.<br></p><p>Diketahui:<br></p><p>m = 0,5 kg<br></p><p>R = 20 cm<br></p><p>v = 8 m/s<br></p><p>g = 10 m/s2<br></p><p>Ditanya: h saat berhenti sesaat<br></p><p>Jawab:<br></p><p>Mula-mula bola berada di lantai mendatar sehingga tidak memiliki energi potensial. Saat berada pada ketinggian maksimum, bola tidak memiliki energi kinetik. Momen inersia bola pejal besarnya 2/5 mR2 (k = 2/5)<br></p><p>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 EMA = EMB<br></p><p>EPA + EktransA + EkrotA = EPB + EktransB + EkrotB<br></p><p>\u00a0 \u00a0 0 + \u00bd. m. v2 + \u00bd. I. \u03c92 = m.g.h + 0 + 0<br></p><p>\u00a0 \u00a0 \u00a0 \u00bd. m. v2 + \u00bd. k. m. v2 = m.g.h<br></p><p>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00bd. m. v2 ( 1 + k ) = m.g.h<br></p><p>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0h = v2 ( 1 + k )/ 2.g<br></p><p>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0h = 8^2 (1 + 2/5)/ 2.10<br></p><p>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0h = 64. 1,4/20<br></p><p>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0h = 89,2/ 20 = 4,48 meter<br></p><p>Jadi, ketinggian maksimum yang dapat dicapai hingga bola berhenti sesaat adalah 4,48 meter.<br></p><p>Jika mau dihafalkan, rumus cepat untuk mencari ketinggian maksimum benda atau mencari kecepatan mula-mula benda yang menggelinding menaiki bidang miring adalah<br></p><p>h= [tex] \\frac{ v^{2} (1+k)}{2.g} [/tex]<br></p>\n\n<p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apa-itu-sebenarnya-momentum-311",
+            "question": "Apa itu sebenarnya momentum?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "momentum adalah saat yang menentukan<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Dalam\u00a0fisika<span>,\u00a0</span>momentum<span>\u00a0atau\u00a0</span>pusa<span>\u00a0adalah besaran yang berhubungan dengan\u00a0</span>kecepatan<span>\u00a0dan\u00a0</span>massa<span>\u00a0suatu benda.</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-elektron-yg-mula-mula-diam-dipercepat-oleh-beda-potensia-806",
+            "question": "sebuah elektron yg mula mula diam dipercepat\u00a0 oleh beda potensial sebesar V sehingga panjang gelombang de Broglie adalah lamda. jika elektron yg mula mula diam tersebut dipercepat dengan beda potensial 4V, maka panjang gelombang de Broglie elektron menjadi . . .",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "panjang gelombang de broglie elektron 4v2<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dimanakah-sebuah-benda-harus-diletakkan-didepan-cermin-cekung-yan-868",
+            "question": "dimanakah sebuah benda harus diletakkan didepan cermin cekung yang R=30cm yang diperbesar 3 kali dan nyata?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "30 X 3 = 90 benda yang akan diletakan di depan cermin adalah 90 cm<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-seorang-kakek-dapat-membaca-buku-denan-baik-jika-tulisan-yang-895",
+            "question": "1. seorang kakek dapat membaca buku denan baik jika tulisan yang dibaca terletak pada jarak 40 cm . setelah memakai kacamata, ia dapat membaca dengan baik pada jarak 25 cm. jarak fokus lensa kacamata yang dipakai adalah ... cm    options :\r\n40/3\u00a0 \u00a0 \u00a0 3/25\u00a0 \u00a0 \u00a0 25/40\u00a0 \u00a0 \u00a0 \u00a0 200/3\u00a0 \u00a0 \u00a0 100/3\r\n2. sebuah teropong pantul memiliki jari-jari keelengkungan cermin objektif sebesar 6 m . jika jarak fokus lensa okuler 3 cm, perbesaran angulernya ... kali\r\noptions :\r\n100\u00a0 \u00a0 200\u00a0 \u00a0 50\u00a0 \u00a0 40\u00a0 \u00a0 \u00a0 20\r\n3. sebuah lup mempunyai jarak fokus 5 cm, digunakan seseorang bermata normal untuk melihat sebuah benda kecil yang berjarak 5 cm dari lup jika mata pengguna tidak berakomodasi , perbesarannnya ... kali\r\noptions :\r\n2\u00a0 \u00a0 4\u00a0 \u00a0 4,5\u00a0 \u00a0 5\u00a0 \u00a0 6,25",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "dik : f= 5 cm<br>\u00a0 \u00a0 \u00a0 \u00a0s = 5 cm<br>dit :M<br>\u00a0 \u00a0Jawab :\u00a0<br>karena titik dekat mata normal itu 25cm maka Sn = 25 cm<br>M = 25/5 = 5 kali<br><strong></strong> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tuliskan-5-sumber-energi-listrik-921",
+            "question": "Tuliskan 5 sumber energi listrik?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "sumber energi listrik<br>- Batu baterai<br>- Aki (akumulator)<br>- Dinamo<br>- Generator<br>- Nuklir<br>- Minyak<br>- Angin<br>- Gelombang<br>- Batu bara<br>- Panasbumi\u00a0<br>- Panas matahari (sel surya)<br>- Biomasa<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Baterai,  Aki,  Dinamo,  Nuklir dan Sel Surya (panas matahari)",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,128 @@
+{
+    "question": "sebuah balok terapung diatas permukaan air. volume balok yg muncul diatas permukaan air 100 cm\u00b3 dan massa jenis balok 0,75g/cm\u00b3 jika p air 1 g/cm\u00b3 hitunglah massa balok seluruhnya...???",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "Dik vb=vc\u00a0 = 100 cm^3<br>\u00a0 \u00a0 \u00a0 Rho balok = 0,75 g/cm^3<br>\u00a0 \u00a0 \u00a0 rho cair = 1 g/cm^3<br>dit m balok seluruhnya ?<br>jawab.<br><br>Fa = rho cair.volume cair . g<br>\u00a0 \u00a0 \u00a0= 1 . 100. 10<br>\u00a0 \u00a0 \u00a0= 1000 N<br><br>Fa = wb = mb . g \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 mb2 = rho benda . v<br>\u00a01000 \u00a0= mb . 10 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 0,75 . 100<br>mb1 = 1000 / 10 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 75 gr<br>\u00a0 \u00a0 \u00a0= 100 gr<br>\u00a0<br>m total = 100 + 75 = 175 gr",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "tinggi-nada-senar-gitar-tergantung-1-4-558",
+            "question": "Tinggi nada senar gitar tergantung ?\u00a0\r\n( 1-4)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "frekuensi gelombang longitudinal nya<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "frekuensi dari gelombang longitudinal\u00a0gitar itu sendiri",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-mobil-bermassa-500-kg-bergerak-di-jalan-lurus-dengan-kelaj-911",
+            "question": "Sebuah mobil bermassa 500 kg bergerak di jalan lurus dengan kelajuan 72 km/jam. Karena mendekati traffic light yang menyala merah, mobil direm dengan gaya sebesar 10.000 N hingga berhenti. Hitunglah :    a. usaha yang dilakaukan oleh gaya pengereman\r\nb. perpindahan truk dari saat pengereman sampai berhenti.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "72 km/h = 20 m/s<br>W = f.s<br>W = E.K<br>W = 1/2 m.v\u00b2<br>1/2\u00b7500\u00b720\u00b2 = 10.000s<br>100.000 = 10.000s<br>s = 100.000/10.000<br><strong>s = 10 m</strong><br>usaha yang dilakukan gaya pengereman = 100.000 joule",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-beban-20-kg-digantung-pada-ujung-sebuah-kawat-baja-panjang-564",
+            "question": "sebuah beban 20 kg digantung pada ujung sebuah kawat baja panjangnya 150 cm dan diameter 8 mm yang tergantung vertikal. jika percepatan gravitasi 10 ms-2 dan modulus elastisitas baja 2x10 pangkat 11 N/m2. hitunglah besar tegangan dan regangan kawat dan energi potensial elastisitas kawat",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "F=m x g= 20 x 10 = 200 N<br>r = 4mm=0,004<br>L=150cm=1,5 m<br>A=\u00a0\u03c0r.r=5,024 x 10 pangkat -5 m2<br>E=2x10 pangkat 11<br>tegangan =F/A=200/5,024 x 10 pangkat -5 =3980891,72 N/m2<br>regangan(e)=\u00a0\u0394L/Lo<br>E=F.L/A.\u0394L<br>\u0394L=F.L/A.E =200.1,5/5,024 x 10pangkat -5 x 2.10pangkat\u00a011<br>\u00a0\u0394L =2,98 x 10pangkat -5<br>regangan(e)= 2,98 x10pangkat -5/1,5<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0=1,98 x 10pangkat -5<br>F = k.\u0394L<br>k=F/\u0394L = 200/2,98 x 10 pangkat -5=6711409,36 N/m<br>Ep = 0,5 x k x\u00a0\u0394L x\u00a0\u0394L<br>\u00a0 \u00a0 \u00a0=0,5 x 6711409,36 x (2,98 x10pangkat -5)\u00b2<br>\u00a0 \u00a0 \u00a0=2,97 x 10pangkat -3 joule<br>Yang Ep ini agak ragu soalnya pake rumus dari energi potensial pegas",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-perangkat-hidrolik-memiliki-perbandingan-diameter-kecil-d-361",
+            "question": "sebuah perangkat hidrolik memiliki perbandingan\u00a0diameter kecil dan besar 2:100. tentukanlahgaya yang dihasilkan pada penghisap besar jika beban yang di letakkan pada penghisap kecil 2N?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "F2 =\u00a0[tex] (\\frac{d2}{d1} )^2 . F1[/tex]<br>F2 = 10000/4 . 2<br>\u00a0 \u00a0 \u00a0= 5000 N",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "batang-logam-panjangnya-60cm-dan-luas-penampangnya-3cm-modulus-753",
+            "question": "batang logam panjangnya 60cm dan luas penampangnya 3cm . modulus elastisnya sebesar 4x10^{6}N/m . tentukan tetapan pertambahan panjang , dan tegangan batang saat diberi gaya 15N !",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Dik l = 60 cm = 0,6 m<br>\u00a0 \u00a0 \u00a0A = 3 cm = 0,0003 m^2<br>\u00a0 \u00a0 \u00a0E = 4x10^6<br>Dit F dan\u00a0\u0394l<br>jawab.<br><br>E =\u00a0[tex] \\frac{F.l}{A.l0-l1} [/tex]<br><br>E . A .\u00a0\u0394l = F . l<br>4x10^6 . 3x10^-4 .\u00a0\u0394l = F . 0,6<br>12x10^2 \u0394l = 0,6 F<br>\u0394l = 0,6F / 12x10^2<br>\u0394l\u00a0 = 5x10^-4F<br><br>F = k .\u00a0\u0394l atau E.A / l x\u00a0\u0394l<br>F = 12x10^2\u00a0\u0394l / 0,6<br>\u00a0 \u00a0= 2000\u00a0\u0394l<br><br><br><br>tegangan = F / A<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 2000\u00a0\u0394l / 3x10^-4<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 6 666 666 , 667\u00a0\u0394l N/m^2<br><br>semoga membantu :) D like<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suatu-lensa-bikonveks-jari-jari-kelengkungannya-masing-masing-10-648",
+            "question": "Suatu lensa bikonveks ,jari-jari kelengkungannya masing-masing 10 cm dan 40 cm, indeks bias kacanya nk =1,5 . Kemudian, lensa dimasukkan ke dalam minyak yang indeks biasnya n =1,2. Maka kekuatan lensanya dalam minyak ialah.... dioptri.    a. 3,125 \r\nb. 3,250\r\nc. 4,125\r\nd. 4,250\r\ne. 5,250\r\n\r\njawabnya ,tolong pakek cara,ya!!! Biar ngerti cara ngerjain soalnya juga :D",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "tiga dua lima puluh bukan<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "2-buah-kawat-panjang-lurus-sejajar-terpisah-pada-jarak-12cm-kawa-818",
+            "question": "2 buah kawat panjang lurus sejajar terpisah pada jarak 12cm. kawat pertama dialiri arus 4A, kawat kedua 6A. tentukan besar induksi magnet pada titik yang berada diantara 2 kawat tersebut dan berjarak 4cm dari kawat pertama?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "besar\u00a0induksi magnet=12",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "lima-buah-partikel-berada-dalam-sistem-dengan-dua-level-energi-d-769",
+            "question": "Lima buah partikel berada dalam sistem dengan dua level energi. Dua partikel tereksitasi pd level yg lbh tinggi. Jika partikel tersebut terbedakan:    a). Hitunglah jumlah keadaan berbeda yg mungkin\r\nb). Hitunglah Entropi sistem",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>\nHukum kedua termodinamika\n</span>\nSumber: Frederick J. Bueche,Fisika, edisi ke-8, 1989\n(1)\u00a0\u00a0\u00a0 Kalor secara spontan akan mengalir dari benda yang panas ke benda yang dingin, dan bukan sebaliknya\n(2)\u00a0\u00a0\u00a0 Tidak ada mesin kalor yang berputar terus menerus dapat merubah seluruh energi yang masuk menjadi kerja\n<span>(3)\u00a0\u00a0\u00a0 Jika suatu sistem mengalami perubahan spontan, maka perubahan \nakan berarah sedemikian rupa sehingga entropi sistem akan bertambah atau\n akan bertahan pada nilai sebelumnya</span><br>Entropi merupakan suatu perubahan keadaan pada sistem yang setimbang. \nIni berarti bahwa S ( entropi ) sistem selalu sama, apabila sistem \nberada dalam keadaan keseimbangan tertentu.<br><br>a. jumlah entalpi jagad raya \u0394s = 0 dan bertambah pada saat irreversible terjadi \u0394s&gt;0<br>\u00a0\u00a0 menjadi 5 x partikel &gt;0<br>b. \u0394s =Q/T = 1 - q2/q1<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "besarnya-tegangan-yang-dilakukan-pada-sebuah-batang-adalah-2x106-688",
+            "question": "Besarnya tegangan yang dilakukan pada sebuah batang adalah 2x10^6 N/m^2. jika panjang batang adalah 4 meter dan modulus young elastisitasnya 2,5x10^8 N/m^2, maka pertambahan panjang batang adalah.... A. 0,8 cm B. 1,6 cm C. 3,2 cm D. 5,0 cm E. 6,4 cm \u00a0 dengan pembahasannya \u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "modulus young = stres /strain<br>2,5 . 10 ^8 N/m^2 = 2 . 10^6 N/m^2 . strain<br>2,5 . 10^ 8 N/m^2 / 2. 10^6 N/m^2 = strain<br>1,25 . 10^2 = strain<br><br>strain = pertambhan panjang / panjang awal<br>1,25 . 10^2 = pertambahn panjang / 4<br>1,25 .10^2 / 4 = pertambahn panjang<br>125 /4 = pertambahan panjang<br>31,25 m = pertambahn panjang<br>saya dapatnya gitu &gt;_&lt;",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "seorang-penari-balet-dengan-tangan-terentang-berputar-pada-kecepa-806",
+            "question": "seorang penari balet dengan tangan terentang berputar pada kecepatan sudut diatas lantai mendatar yang licin. jika penari tersebut melipat tangannya, momen inersiannya akan berkurang sebesar 20% dari semula. perbandingan energi kinetik rotasi saat tangan dilipat dengan saat tangan terentang adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kategori: Fisika Bab Energi <br>Kelas: XI SMA IPA <br><br><br><br><br>Perhitungan dapat dilihat pada lampiran",
+                    "attachments": [
+                        "answer-attachments/seorang-penari-balet-dengan-tangan-terentang-berputar-pada-kecepa-806-1.jpg"
+                    ]
+                }
+            ]
+        }
+    ]
+}

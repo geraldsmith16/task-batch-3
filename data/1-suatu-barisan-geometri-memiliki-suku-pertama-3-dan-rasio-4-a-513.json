@@ -1,0 +1,132 @@
+{
+    "question": "1. Suatu barisan geometri memiliki suku pertama 3 dan rasio 4.    a. tuliskan barisan geometri tsb.\r\nb. tuliskan deret geometri tsb.\r\n\r\n2. Tentukanlah jumlah setiap deret geometri berikut.\r\na. 2+6+18+54+162+...+U7\r\nb. 3+15+75+...+U6\r\nc. 1+4+16+64+...+U7\r\nd. 5+10+20+40+80+...+U8\r\ne. 1/4+1/2+1+2+...+U10",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "1.dik a= 3 r=4 <br>deret geometrinya\u00a0 un=ar^n-1<br>un = 3,12,48,192, . . . <br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "bagaimana-cara-menghitung-perbedaan-dan-persamaan-dan-perbedaan-l-876",
+            "question": "Bagaimana cara menghitung perbedaan dan persamaan dan perbedaan linear satu variabel ? Tolong jelaskan dengan jelas !",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "kalau pakai pendapat saya, persamaan linear satu variabel itu hanya mengunakan 1 variabel untuk penyelesaiaanya misalnya: x, y, dsb. sedangkan perbedaan linear satu variabel itu dalam penyelesainnya terdapat kata\u00a0<u></u><strong>tidak\u00a0</strong>atau\u00a0<strong>bukan</strong> misalnya: \u00a0dalam persamaan ini:<br>3x + 12 = 24, {x| x &lt; 5, x E\u00a0bilangan prima}<br>3x = 24 - 12<br>3x = 12<br>x = 4<br>jadi, x = 4\u00a0<strong>bukan\u00a0</strong>penyelesaian dari persamaan 3x + 12 = 24, {x|\u00a0x &lt; 5, x E bilangan prima}<br><br><br>semoga bisa membantu ^_^,,,<br>maaf kalau ada yang salah ^_^,,,<br>silahkan ditanyakan kalau tidak mengerti dengan jawaban saya tadi ^_^,,,",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "luas-persegi-adalah-100-cm2-panjang-diagona-persegi-tersebut-a-950",
+            "question": "Luas persegi adalah 100 cm\u00b2 . panjang diagona persegi tersebut adalah\u00a0\r\ndengan cara nya\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "L = sisi x sisi<br>100 = sisi x sisi<br>sisi = 10<br><br>p. diagonal = s akar 2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 10 akar 2 atau\u00a0[tex] \\sqrt{2} [/tex]",
+                    "attachments": []
+                },
+                {
+                    "answer": "luas persegi= sisi x sisi<br>100= S^2<br>S^2= akar 100<br>S= 10<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "ketika-noni-umur-12-tahun-lili-lahirjumlah-umur-noni-dan-lili-s-287",
+            "question": "ketika noni umur 12 tahun, lili lahir.jumlah umur noni dan lili sekarang 27 tahun.berapa tahun umur noni sekarang",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Ya kan waktu Noni umur 12 tahun , Lili kan baru lahir , trus jumlah umur mereka berdua itu 27 sekarang , nah Umur yang sekarang (27) dikurangi umur noni (12) Jadi Umur noni sekarang 15 tahun . Coba aja 15 + 12 kan jumlahnya 27 :)",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "untuk-x-peubah-pada-a23581321maka-himpunan-penyelesaian-621",
+            "question": "Untuk x peubah pada A={2,3,5,8,13,21},maka himpunan penyelesaian dari 2x + 3 &lt;_ - 2 adalah.........    \u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "2x+3&lt;-2<br>2x + 3 - 3 &lt; -2 -3<br>2x &gt; -5<br>2x:2x &gt; -5:2<br>x &gt; -2,5<br>jadi, himpunan penyelesainnya {} himpunan kosong",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-bantu-aku-yaa-dibawah-ini-persamaan-yang-tidak-ekuiva-151",
+            "question": "Tolong bantu aku yaa...\u00a0    Dibawah ini persamaan yang tidak ekuivalen dengan 5(x-3) - 2(x+1) = x + 3 adalah...\r\nA. 3x - 17 = x +\u00a03\r\nB. 3x = x +\u00a020\r\nC. 3x = x +16\r\nD. x = 10",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "5(x-3) - 2(x+1) = x+3<br>5x-15-2x-2 <span>=\u00a0</span>x+3<br>5x-2x-x\u00a0<span>=\u00a0</span>3+15+2<br>2x\u00a0<span>=\u00a0</span>20<br>x <span>= </span>20 \u00f7 2<br>x <span>=</span> 10<br><br>a. 3x -17 <span>= </span>x+3<br>\u00a0\u00a0\u00a0 3x-x <span>=</span> 3+17<br>\u00a0\u00a0 \u00a0 2x\u00a0  <span><strong></strong>= <strong></strong>20<br>\u00a0\u00a0 \u00a0  x = 20 \u00f7 2<br><br>\u00a0\u00a0 \u00a0  x <strong>= </strong>10<br>b. 3x = x+20 <br>\u00a0\u00a0  3x - x = 20<br>\u00a0\u00a0  2x = 20<br>\u00a0\u00a0 x = 20\u00f72<br>\u00a0\u00a0 x = 10<br>c. 3x = x+16 <br>\u00a0\u00a0\u00a0 3x - x = 16<br>\u00a0\u00a0 \u00a0 2x = 16<br>\u00a0\u00a0\u00a0\u00a0  x = 16\u00f72<br>\u00a0\u00a0 \u00a0 x = 8<br>d. x = 10<br><br>brarti yg tdak ekuivalen adlah c <br>maaf kalau salah.. ini jawaban saya :) <br></span><span><strong></strong>\n                </span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-mobil-memerlukan-bahan-bakar-12-liter-untuk-menempuh-jarak-451",
+            "question": "sebuah mobil memerlukan bahan bakar 12 liter untuk menempuh jarak 120 km dengan kondisi mendatar 84 km dan sisanya menanjak. pada saat menanjak bahan bakar yang diperlukan 2 kali lipat\u00a0daripada jalan mendatar. jika suatu ketika mobil tersebut menempuh jarak 312 km dengan kondisi jalan mendatar saja,maka\u00a0banyak bahan bakar yang diperlukan?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "menanjak = 120 - 84 = 36 km<br><br>jika liter\u00a0menanjak = 2\u00a0x liter untuk\u00a0mendatar<br>maka<br>84 + 36(2) = 12 liter<br>84 + 72 = 12 liter<br>12 liter = 156 km (mendatar)<br><br>jika sekarang jaraknya menjadi 312\u00a0km mendatar saja, maka<br>12 x 2 = 24 liter",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "berapa-faktor-dari-3-mn12n15m10-812",
+            "question": "\u00a0Berapa faktor dari\u00a03 mn+12N+15M+10=",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>=3 mn+12n+15m+10<br>=3(mn+4n+5m)+10 ?<br></span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-himpunanpenyelesaian-dri-persamaan-linear-a-24m-12-b-813",
+            "question": "Tentukan himpunanpenyelesaian dri persamaan linear    a. 24m = 12\r\nb. -4 x-15 = 1- 8r\r\nplis d jawab",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]24m=12 \\rightarrow m=\\frac{12}{24}=\\frac{1}{2}\\\\\nHp=\\{\\frac{1}{2}\\}\\\\\\\\\n(-4)(-15)=1-8r\\\\\n60-1=-8r\\\\\n59=-8r\\\\\nr=-\\frac{59}{8}\\\\\nHp=\\{-\\frac{59}{8}\\}[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "help-plus-caranya-juga-ya-thanks-158",
+            "question": "[HELP] plus caranya juga ya, thanks",
+            "attachments": [
+                "question-attachments/help-plus-caranya-juga-ya-thanks-158-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "8x^-4/2x^-6<br>= 2x^6/8x^4<br>= 2x^6/2x^3(4)<br>= 2x^6/2x^12<br>= 4x^3/4x^6<br>= 4x^3",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bentuk-paling-sederhana-dari-5x2y-3xy2-7x2y-6xy2-adalah-331",
+            "question": "Bentuk paling sederhana dari 5x2y - 3xy2 -7x2y + 6xy2 adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "disamain dlu sukunya ,,,,, 5x2y - 3xy2 - 7x2y + 6xy2 jadi 5x2y - 7x2y -3xy2 + 6xy2<br>klo udh baru dihitung ,,,,, <br>jwaban.a -2x + 3xy<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "[tex]5x^2y-3xy^2-7x^2y+6xy^2\\\\=5x^2y-7x^2y-3xy^2+6xy^2\\\\=-2x^2y+3xy^2[/tex]",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

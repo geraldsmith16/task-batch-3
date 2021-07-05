@@ -1,0 +1,138 @@
+{
+    "question": "sebuah mesin dibuat sedemikian rupa sehingga mampu menghasilkan gaya 15000\u00a0N mesin ini di gunakan pada sebuah mobil balap tersebut agar didapatkan akselerasi yg di harapkan bagaimana dengan massa penummpang?perlukah untuk di perhitungkan?jelaskan !",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "menurut saya perlu<br>ingat F = m.a<br>yang mempengaruhi gaya adalah massa dan percepatan(akselerasi)<br>tatkala hasil yg di inginkan adalah akselerasi<br>maka a= F/m<br>tentu saja massa tetap mempengaruhi akselerasi yang tejadi :)",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "dari-beberapa-drum-yang-berisi-udara-yang-memiliki-massa-keseluru-445",
+            "question": "dari beberapa drum yang berisi udara yang memiliki massa keseluruhan 30 kg dan volum rata-rata 2,5 m\u00b3, digunakan untuk membuat jembatan ponton yang terapung di atas permukaan air. Berapa berat beban maksimum yang dapat ditahan oleh drum tersebut?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "massa\u00a0  di kali volume 30dikali 2,5 m3=75kg<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "hasilnya itu adalah\u00a075 newton",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebutkan-macam-macam-benda-plastis-beserta-manfaat-minimal-5-778",
+            "question": "Sebutkan macam -macam benda plastis beserta manfaat minimal 5.. \u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "benda plastis : kayu, kaca ,plastic ,plastisin ,kertas.<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bagaimanakah-momentum-benda-sebelum-dan-sesudah-tumbukan-218",
+            "question": "Bagaimanakah momentum benda sebelum dan sesudah tumbukan ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Berdasarkan hukum kekekalan momentum,\"jika tidak ada gaya luar yang bekerja pada benda,maka jumlah momentum sebelum tumbukan = jumlah momentum setelah tumbukan\"",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "plis-siapa-yang-bisa-tolong-bantu-sebuah-tongkat-menyodok-bola-605",
+            "question": "Plis siapa yang bisa tolong bantu.\u00a0    sebuah tongkat menyodok bola biliard dengan gaya 80N selama selang waktu 0,5 sekon. jika massa bola adalah 200 gram. tentukan kelajuan bola sesaat setelah disodok.\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "I = momentum akhir - momentum awal <br>I = m.v - 0 ( karena kecepatan awal 0 ) <br>F.\u0394t = m.v <br>80 x 0.5=0,2 x v ( ingat semua harus diubah ke kg m sekon ) <br>v = 200m/s <br>mohon maaf kalau ada salah , semoga jawaban saya membantu<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apakah-semua-jenis-gaya-menyebabkan-pertambahan-panjang-pegas-177",
+            "question": "Apakah semua jenis gaya menyebabkan pertambahan panjang pegas ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "belum tentu, liat massa jga kk...<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "semua gaya mempengaruhi pegas<br>tetapi gaya tarik menyebabkan pertambahan panjang,sedangkan gaya dorong atau tekan menyebabkan pemendekann pada pegas :)",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "seorang-anak-menggelindingkan-bola-diatas-karpet-dengan-kelajuan-290",
+            "question": "seorang anak menggelindingkan bola diatas karpet dengan kelajuan 2,0 m/s. gesekan karpet memberikan perlambatan 0,2\u00a0m/s\u00b2 pada bola, maka bola akan berhenti setelah bergerak selama?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "kira-kira 10 detik ..<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "V = 2,0 M/S<br>a = - 0,2 m/s^2<br><br>t = 2 m/s / 0,2 m/s^2 = 10 s",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1apa-pengaruh-gaya-pada-pegas-2apa-yang-mempengaruhi-elastisi-991",
+            "question": "1.Apa pengaruh gaya pada pegas??    2.apa yang mempengaruhi elastisitas sebuah bahan??\r\n 3.apakah semua jenis menyebabkan pertambahan panjang pegas??\r\n 4.apakah yang dimaksud energi potensial??dan apakah energi potensial pada pegas yang disusun seri sama dengan yang disusun paralel??",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1. jika gaya yang diberikan pada pegas lebih besar maka pegas akan mengalami putus atau tidak dapat memendek seperti semula.<br>2. tegangan dan regangan, gaya , jenis bahan<br>3. ya<br>4. energi potensial adalah hasilkali antara massa . grafitasi dan perubahan panjang pegas<br>susunan seria. gaya pengganti F yang menarik seluruh pegas \u00a0adalah sama dengan gaya yang bekerja pada masing masing pegas.Fp=F1=F2=F3b. bertambahnya panjang x pegas pengganti sama dengan jumlah pertambahan pangjang pada masing masing pegas.Xs=x1+x2+x3 . . . .\u00a0<br>susunan pararela. gaya pengganti F yang menarik seluruh pegas adalah sama dengan jumlah gaya yang bekerja pada masing masing pegas. Fp=F1+F1+ . . . +F5b. pertambahan pada pegas pengganti X \u00a0sama besar dengan partambahan panjang pada masing masing pegas.Xp=x1=x2=x3<br>modulus elastisitas atau modulus young adalah angka yang menggambarkan tingkat elastisitas bahan. semakin tinggi elastisitasnya, berarti bahan semakin kaku.<span>rumus \u2208=tegangan/regangan</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pemanas-air-dengan-spesifikasi-200-watt-digunakan-untuk-memanaska-817",
+            "question": "Pemanas air dengan spesifikasi 200 watt digunakan untuk memanaskan air bersuhu 30 C sebanyak 0,5 kg. kalor jenis air 4200 J//kg C. Berapa lama waktu yang diperlukan hingga air mencapai suhu 10 C?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Q= M.C.\u0394t<br>m.c<u></u>/ Q=\u00a0\u0394t<br>0.5x4200/20 =105 menit",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apakah-yang-dimaksud-dengan-proyektor-494",
+            "question": "Apakah yang dimaksud dengan proyektor",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>Proyektor adalah sebuah alat sebuah alat optik yang digunakan untuk menampilkan gambar di sebuah layar proyeksi atau permukaan serupa</span>",
+                    "attachments": []
+                },
+                {
+                    "answer": "bernama lain infocus. Alat yang digunakan sebagai sarana informasi. Memancarkan cahaya ke suatu bidang lurus, biasanya dinding/papan tulis.\u00a0Biasanya digunakan di kelas atau di gereja, untuk menghemat biaya, daripada membeli TV layar lebar, kita bisa memakai proyektor untuk melihat layar lebar",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dalam-sebuah-tabung-yang-diisi-eter-indeks-bias-n-136-jarak-203",
+            "question": "Dalam sebuah tabung yang diisi eter (indeks bias n = 1,36), jarak anatara permukaan cairan dengan alas\u00a0tabungnya adalah 17 cm. Jika kita memandang secara gerak lurus dari permukaan. Berapa besar kelihatannya jarak antara alas tabung dan permukaan cairan?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<br>e = eter dan u = udara<br>ne . he = nu . hu<br>1,36 . he = 1 . 17<br>he = 17 / 1,36 = 12,5 cm<br><br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,138 @@
+{
+    "question": "1. pak ketut akan membangun rumah diatas sebidang tanah berbentuk persegi panjang yang panjangnya 30m dan lebarnya ( 2y + 1) m. jika luas tanah pak ketut tidak lebih dari 150    a) berapakah lebar tanah pak ketut yang paling besar ?\r\nb) biaya untuk membangun 1 dibutuhkan uang empat setengah juta rupiah, berapakah biaya maksimal yang harus disediakan pak ketut jika seluruh tanahnya dibangun ?\r\n\r\n2.pak todung memiliki sebuah mobil box pengngkut barang dengn daya angkut maksimal 1 ton.Berat pak Todung adalah 50 kg dan dia akan mengangkut kotak barang yang setiap kotak beratnya 25kg.\r\na) berapa kotak paling banyak dapat dingkut pak todung dalam sekali pengangkutan ?\r\nb) jika pak todung akan mengangkut 1994 kotak, paling sedikit beberapa kali pengangkutan kotak itu akan habis ?\r\nc) jika setiap kotak beratnya 50kg, berapa paling sedikit banyak pengangkutan yang akan dilakukan pak todung ?",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "[tex]panjang=30m\\\\\nlebar=(2y+1)m\\\\\nluas\\ tanah = 150m^2\\\\\n30(2y+1)=150\\\\\n2y+1=50\\\\\nlebar\\ tanah=y=24,5m\\\\\\\\\nbiaya\\ maksimal=150(Rp4.500.000)=Rp675.000.000\\\\\\\\\nsisa\\ daya\\ yg\\ dapat\\ diangkut=1000kg-50kg=950kg\\\\\n1\\ kotak=25kg\\\\\n\\frac{950kg}{25kg}=38\\ kotak\\\\\n1\\ kali\\ angkut\\ sebanyak\\ 38\\ kotak\\\\\n\\frac{1994\\ kotak}{38\\ kotak}=52\\frac{18}{38}\\\\\nmaka\\ setidaknya\\ 53\\ kali\\ angkutan\\\\\njika\\ 1\\ kotak=50kg\\\\\n\\frac{950kg}{50kg}=19\\ kotak[/tex]",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "pada-peta-yang-berskala-1-1500000-terdapat-gambar-hutan-yang-212",
+            "question": "pada peta yang berskala 1 : 1.500.000 terdapat gambar hutan yang berbentuk persegi panjang 12 cm dan lebar 8 cm . luas hutan sebenarnya",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1440 KM<br>Sorry kalo salah ya",
+                    "attachments": []
+                },
+                {
+                    "answer": "1.500.000:96=15625 cm<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0=0,15625",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sederhanakan-bentuk-pangkat-pecahan-81-min-14-pake-caranya-yaa-130",
+            "question": "Sederhanakan bentuk pangkat pecahan 81 min 1/4\r\npake caranya yaa^^",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "81^1/4<br>=3^(4).1/4<br>=3^1",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jumlah-umur-fani-dan-rian-adalah-36-tahunsedangkan-perbandingan-697",
+            "question": "jumlah umur fani dan rian adalah 36 tahun,sedangkan perbandingan umur fani terhadap umur rian adalah 4:5 umur rian adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "perbandingan = 4:5<br>4+5= 9 = 36<br>1= 36 : 9 = 4<br>perbandingan umur rian = 5<br>maka umur rian adalah 4.5 = 20",
+                    "attachments": []
+                },
+                {
+                    "answer": "misal fani = x, dan rian = y.<br><br>fani + rian = 36 menjadi x + y = 36<br>fani/rian = 4/5 menjadi x/y = 4/5 maka, x = 4/5 y ( masukan ke persamaan x + y = 36)<br><br>menjadi : 4/5 y + y = 36<br>9/5 y = 36<br>y = 36*5 / 9<br>y= 20<br><br>jadi umur rian adalah 20<br>semoga membantu :)<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-sekali-dijawab-yaa-pelajaran-kelas-z-matematika-perban-897",
+            "question": "Tolong sekali dijawab yaa.. PELAJARAN KELAS Z MATEMATIKA : PERBANDINGAN DAN SKALA\u00a0    soal: Untuk membangun ruang kelas baru sebanyak 2 kelas akan selesai dalam waktu 50 hari jika dikerjakan oleh 15 tukang.Setelah 20 hari bekerja bahan abis,pekerjaan terhenti 5 hari. berapa orang tukang ditambah agar ruang kelas itu tetap selesai tepat waktu?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "50 hari = 15 tukang<br>50 - 20 - 5 = x tukang<br>[tex] \\frac{50}{25} [/tex] =\u00a0[tex] \\frac{x}{15} [/tex]\u00a0<br>x = 2\u00a0\u00d7 15<br>x = 30<br><br>tambahan pekerja = 30 - 15 = 15",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-nilai-x-jika-2x-1-2x-2-2x-32x-5-961",
+            "question": "Tentukan nilai x, jika (2x + 1) + (2x + 2) + (2x + 3)+...+(2x + 50) = 4275. Tolong dijawab yaa, pleaseee",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "jawabannya 30<br><br>Sn = n/2 { a +Un } = 4275<br>&gt; 50/2 { (2x+1) + (2x+50) } = 4275<br>&gt; 25 { 4x + 51 } = 4275<br>&gt; 100x + 1275 = 4275<br>&gt;100x = 4275 - 1275<br>&gt;100x = 3000<br>&gt;x = 30<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "seorang-ayah-berumur-28-tahun-ketika-anaknya-lahir-berapakah-umu-540",
+            "question": "seorang ayah berumur 28 tahun ketika anaknya lahir. berapakah umur anak itu ketika jumlah umur mereka 40 tahun",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "kalau menurut logika begini... maaf ya...<br>28 = 0<br>29 = 1<br>30 = 2<br>31 = 3<br>32 = 4<br>33 = 5<br>36 = 6<br>38 = 7<br>39 = 8<br>40 =\u00a09<br>jadi umur anak tersebut 9 tahun",
+                    "attachments": []
+                },
+                {
+                    "answer": "Mis : x = umur ayah<br>y = umur anak<br><br>x = y + 28<br><br>x + y = 40<br>y + 28 + y = 40<br>2y + 28 = 40<br>2y = 12<br>y = 6 tahun<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pola-bilangan-ganjil-bentuk-umum-un-a-n-1-b-ten-448",
+            "question": "Pola bilangan ganjil \u00a0    bentuk umum Un = a + ( n-1) b \u00a0 \u00a0\u00a0\r\n\r\ntentukan suku n \u00a0=\r\n\r\n1) 7,13,,19,25,31,...\r\n2) 50,41,38,32,...\r\n3)\u00a012,7,2,-3,-8,...\r\n\r\n*jwbnnya pakai rumus dan cara ya?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1.) a = 7<br>b = 6<br>Un<span> = a + ( n-1) b <br></span><span>Un = 7+ (n-1)6<br></span><span><span>Un = </span>7+6n-6<br></span><span>Un =6n+1<br>3.) a= 12<br>b= -5</span><br>Un = a + ( n-1) b <br>Un<span> =</span> 12+ (n-1)-5<br>Un= 12 - 5n + 5<br>Un= 17-5n<br><br><br><br><br><br><br><br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukanlah-penyelesaian-dari-pertidaksamaan-berikut-a-2x-4-gt-130",
+            "question": "Tentukanlah penyelesaian dari pertidaksamaan berikut    a. 2x-4 &gt; 3x+9\r\nb. \u00a02y-7\u00a0\u2264 3\r\n\u00a0 \u00a0 \u00a0 \u00a02\r\n\r\nTolong beri cara utk mengerjakannya juga ya :)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "A. 2x-4 &gt; 3x + 9<br>\u00a0 \u00a0 2x - 2x -4 &gt; 3x+ 9<br>\u00a0 \u00a0 -4 &gt; x + 9<br>\u00a0 \u00a0 -4 - 9 &gt; x + 9 -9<br>\u00a0 \u00a0 \u00a0 \u00a0-13 &gt; x<br>B.\u00a0[tex] \\frac{2y-7}{2} [/tex] <u>&lt;</u> 3<br>\u00a0 \u00a0 semua dikalikan 2 menjadi<br>\u00a0 \u00a0 2y-7 <u>&lt;</u> 6<br>\u00a0 \u00a0 2y - 7 + 7\u00a0<u>&lt;</u> 6 + 7<br>\u00a0 \u00a0 \u00a02y\u00a0<u>&lt;</u> 13<br>\u00a0 \u00a0 \u00a02y : 2\u00a0<u>&lt;</u> 13 : 2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0y\u00a0<u>&lt;</u> 6,5",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "soal-matematika-kelas-7-smp-kurikulum-2013-halaman-367-nomor-4-se-551",
+            "question": "Soal Matematika Kelas 7 SMP Kurikulum 2013 Halaman 367 Nomor 4    Seorang Pedagang Perabot Rumah Tangga Menjual Sepasang Sofa dengan harga Rp 12.000.000,00. Dari penjualan tersebut, dia mendapatkan untung 20% dari modalnya. Dia berencana akan menggantikan sofa yang telah laku tersebut untuk dijual kembali, tetapi ternyata harga sofa tersebut sudah naik 10% dari modal sebelumnya. Berapakah sofa itu dijual agar keuntungannya sama dengan penjualan sofa yang pertama?\r\n\r\nMohon dijawab dengan caranya",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Modal awal = m <br><br>Harga jual sofa I = Untung + modal<br>12.000.000 = 20/100 m + m<br>12.000.000 = 20/100 m + 100/100 m<br>12.000.000 = 120/100 m<br>m = 12.000.000 \u00d7 100/120<br>m = 10.000.000<br><br>harga jual sofa II = (10 + 100)/100 \u00d7 10.000.000<br>= 110/100 \u00d7 10.000.000<br>= 11.000.000<br><br>Untung sofa I = 12.000.000 - 10.000.000<br>= 2.000.000<br><br>harga jual sofa II = 11.000.000 + 2.000.000<br>= 13.000.000",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "a-2757-67-b513-213613-247",
+            "question": "A.\u00a02\u221a7+5\u221a7-6\u221a7\r\nb.5\u221a13-2\u221a13+6\u221a13",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a.\u00a0[tex] \\sqrt{7} [/tex]<br>b. 9\u00a0<u></u>[tex] \\sqrt{13} [/tex]",
+                    "attachments": []
+                },
+                {
+                    "answer": "A.\u00a0\u00a0dari :\u00a0\u00a02\u221a7+5\u221a7-6\u221a7<br>B.\u00a09\u00a0<u></u>\u00a0dari :\u00a0<span>5\u221a13-2\u221a13+6\u221a13</span>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

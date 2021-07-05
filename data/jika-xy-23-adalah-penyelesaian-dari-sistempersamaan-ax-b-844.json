@@ -1,0 +1,138 @@
+{
+    "question": "Jika (x,y) =(2,3) adalah penyelesaian dari sistempersamaan\r\nax + by=1\r\nay - bx=8",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "substitusikan nilai (x,y) dalam pers.<br><br>a(2) + b(3) = 1<br>a(3) - b(2) = 8<br><br>2a + 3b = 1 .... x3<br>3a - 2b = 8 .... x2<br><br>6a + 9b = 3<br>6a - 4b = 16<br>(dikurang), maka<br>13b = -13<br><strong>b = -1</strong><br><br>subs b ke pers 1.<br><br>2a + 3(-1) = 1<br>2a -3 = 1<br>2a = 4<br><strong>a = 2</strong><br><br><br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "deret-geometri-dengan-u5-dan-u8-masing-masing-48-dan-384-tentuka-109",
+            "question": "Deret geometri dengan U5 dan U8 masing masing 48 dan 384.    Tentukan jumlah 9 suku pertama serta langkah2 nya.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]U_5=ar^4=48\\\\\nU_8=ar^7=384\\\\\\\\\nar^7=384\\\\\nar^4.r^3=384\\\\\n48r^3=384\\\\\nr^3=8\\\\\nr=2\\\\\nar^4=48\\\\\na(2^4)=48\\\\\n16a=48\\\\\na=3\\\\\\\\\nS_n=\\frac{a(r^n-1)}{r-1}\\\\\nS_9=\\frac{3(2^9-1)}{2-1}\\\\\nS_9=3(512-1)\\\\\nS_9=1533[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "matriks-himpunan-nilai-a-yang-memenuhi-hubungan-invers-a-a-tr-736",
+            "question": "Matriks, himpunan nilai a yang memenuhi hubungan invers A\u00a0= A transpos adalah..    di ketahui\u00a0A =\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]  \\left[\\begin{array}{ccc}a&amp;a\\\\-a&amp;a\\end{array}\\right] [/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "untuk-membangun-2-ruang-kelas-butuh-15-orang-pekerja-dalam-waktu-370",
+            "question": "Untuk membangun 2 ruang kelas\u00a0butuh 15 orang pekerja dalam waktu 50 hari, setelah 20 hari\u00a0berjalan terhenti karena suatu sebab selama 5 hari. berapa tambahan pekerja agar tetap selesai dalam waktu 50 hari ?    hayo siapa yang bisa,\u00a0tolong ya teman-teman saya lupa maaf nih..",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "50 hari = 15 pekerja<br><br>setellah bekerja 20 hari,sisa<br>30 hari = 15 pekerja yang selesaikan<br><br>libur 5 hari<br>25 hari = x orang<br><br>jawab:<br>30 / 25 = x / 15<br>30 \u00d7 15 = 25x<br>450 = 25x<br>18 orang = x<br><br>jumlah yang harus ditambah:<br>18 - 15 = 3 orang<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jumlah-n-bilangan-asli-ganjil-pertama-dirumuskan-dengan-265",
+            "question": "Jumlah n bilangan asli ganjil pertama dirumuskan dengan ...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "bilangan ganjil: Un = 2n -1<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Bilangan ganjil un : 2n-1",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-nilaim-yang-memenuhi-a-fx-mx2-m1-x-8-b-f-910",
+            "question": "Tentukan nilai\"m\" yang memenuhi :    a. f(x) = mx2 - (m+1) x-8\r\nb. f(x) = mx2 + 12x + 9m\r\njika 1 memotong sumbu x\r\njika 1 menyinggung sumbu x\r\njika 1 tidak memotong/menyinggung sumbu x",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a. <br><span><br>b. </span><br><span><br><br>i&#039;m sorry if the fals answer..<br></span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "nilai-dari-3log-1255log-1-587",
+            "question": "Nilai dari \u00b3log 125.\u2075log 1\r\n\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 3",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>\u00b3log 125. \u2075 log 1/3</span>\n<br><span>=\u00a0 \u00b3 log 5\u00b3\n. \u2075 log 1/3</span><br>\u00a0<span>= 3. \u00b3 log 5 . \u2075 log 1/3</span>\n<br><span>= 3. \u00b3 log 1/3</span>\n<br><span>= 3. \u00b3 log 3 \u207b\u00b9</span><br>\u00a0<span>= 3. -1. \u00b3 log 3</span><br>\u00a0= 3. -1<br>\u00a0= -3<br><br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "[tex] 3_{log} 125 .  5_{log}   \\frac{1}{3}    \\\\ =  3_{log} 5^{3} . 5_{log}   \\frac{1}{3}  \\\\  = 3. 3_{log} 5 . 5_{log}   \\frac{1}{3} \\\\ = 3. 3_{log}  \\frac{1}{3}  \\\\ = 3. (-1)  \\\\  = -3[/tex]<br><br>maaf kalo salah..",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "persamaan-m-1-x2-4x-2m-0-mempunyai-akar-akar-real-te-829",
+            "question": "Persamaan (m - 1)\u00a0x\u00b2 + 4x + 2m = 0 mempunyai akar-akar real. Tentukan nilai m yg memenuhi!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "JAWAB.<br>akar akarnya<br>x= -2 m= 2<br>x= 0 m=0<br>x=1 m= -1<br>x=4 m=0<br><br>nilai m = 1 dan x = -1/2<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "D&gt;0<br>x\u00b2+4x+2m&gt;0<br>b\u00b2-4ac<br>(4)\u00b2-4.1.2m&gt;0<br>16-8m&gt;0<br>-8&gt;-16<br>m&lt;2<br>jadi m nya : 1<br>mungkin begitu, semoga benar :D",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "x-a-nilai-dari-x2-455",
+            "question": "\u00a0 \u00a0 \u00a0 \u00a0x \u00a0 \u00a0\u00a0 \u00a0\u00a0 = a, nilai dari \u00a0\u00a0 \u00a0\u00a0 \u00a0 \u00a0 x\u00b2 \u00a0 \u00a0\u00a0 \u00a0\u00a0\u00a0 \u00a0= ...    \u00a0\u00a0x\u00b2+3x+1 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0x\u00b2\u00b7\u00b2+3x\u00b2+1",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "coba substitusikan x dengan ax\u00b2+3ax+a<br><br>semoga ketemu<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "ibu-membeli-40-kg-gula-pasir-gula-itu-akan-dijual-eceran-denga-816",
+            "question": "\u00a0Ibu membeli 40 kg gula pasir. Gula itu akan dijual eceran dengan dibungkus plastik masing-masing beratnya\u00a0\u00a0kg. Banyak kantong plastik berisi gula yang dihasilkan adalah........    A.10 kantong\r\nB.80 kantong\r\nC.120 kantong\r\nD.160 kantong",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "40 kg x 2<br>= 80 kantong<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "A. 40:10= 4 kg<br>B. 40:80=1/2 kg<br>C. 40:120= 1/3 kg<br>D. 40:160=1/4 kg",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suku-pertama-barisan-geometri-adalah-5-dan-besar-suku-tengahnya-a-805",
+            "question": "suku pertama barisan geometri adalah 5 dan besar suku tengahnya adalah 3.645. banyak sukunya adalah.. \u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex] \\frac{3645}{5} = 729 = 9^{3} = 3^{6}[/tex]<br><br>jadi ada 2 jawaban nih yang mungkin.<br>kalau rasio = 9.<br>maka banyak sukunya = 7<br><br>kalau rasio = 3<br>maka banyak sukunya = 13<br><br>slahkan di cek.",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

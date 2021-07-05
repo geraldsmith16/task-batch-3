@@ -1,0 +1,134 @@
+{
+    "question": "Matriks, himpunan nilai a yang memenuhi hubungan invers A\u00a0= A transpos adalah..    di ketahui\u00a0A =\u00a0",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "[tex]  \\left[\\begin{array}{ccc}a&amp;a\\\\-a&amp;a\\end{array}\\right] [/tex]",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "himpunan-selesaian-dari-y-x2-4x-5-350",
+            "question": "Himpunan selesaian dari y\u00a0\u2264\u00a0x\u00b2\u00a0+\u00a04x\u00a0-\u00a05",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "y \u2264 x\u00b2 + 4x - 5<br>y \u2264 (x-5) (x+1)<br>y \u2264 x-5\u00a0 //\u00a0  y \u2264 x+1<br>y-x \u2264 -5\u00a0 //\u00a0  y-x \u2264 1<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bantuin-dong-ixx-fx2x5-dan-gx2x2-6x5-tentukan-a-851",
+            "question": "Bantuin dong..    I(x)=x, f(x)=2x+5, dan g(x)=2x\u00b2-6x+5 tentukan:\r\na. Iof(x)\r\nb. foI(x)\r\nc. Iog(x)\r\nd. goI(x)\r\ntrm ksih bagi yg bs jwb :) dtunggu scpatnya",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "I o f(x)<br>I (2x + 5)<br>2x +5<br><br>f o I(x)<br>f (x)<br>2x + 5<br><br>l o g(x)<br>l (2x\u00b2 - 6x + 5)<br>2x\u00b2 - 6x + 5<br><br>g o l(x)<br>g (x)<br>2x\u00b2 - 6x + 5<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-jumlah-10-suku-pertama-barisan-aritmatika-adalah-1255-473",
+            "question": "diketahui jumlah 10 suku pertama barisan aritmatika adalah 1255, jika bedanya 6. tentukanlah suku pertama dan rumus suku ke-n?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "U1 + U2 +..... + U10 = 10U1 + (1\u00a0+\u00a02\u00a0+ 3 + 4 + 5 + 6 + 7 + 8 + 9)b =1225<br><br>10U1 + 45.6 = 1255<br>10U1 +\u00a0270 = 1255<br>10U1 = 985<br>U1 = 98,5<br><br>Un = U1 + (n-1)b<br>Un = 98,5 + (n-1)6<br>Un = 98,5 + 6n -\u00a06<br>Un = 6n + 92,5",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-penyelesaian-dan-himpunan-penyelesaian-dari-x-8-6-153",
+            "question": "Tentukan penyelesaian dan himpunan penyelesaian dari x + 8 = 6",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "x + 8= 6<br>x= 6-8<br>x=-2<br>maaf hanya ini jawaban a ga tw bener ap ga, semoga aj bener ea<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "x+8= 6<br>x= 6-8<br>\u00a0 = -2<br>Kalau persamaan itu hanya ada satu penyelesaian. Jadi, jawabannya -2.<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "fx-12-x2-2-gx-x10-f-komposisi-g-x-318",
+            "question": "F(x) = 1/2 x^2 + 2 \r\ng(x) = x+10\r\n(f komposisi g) (x) =...... ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "fog = 1/2(x+10)^2 + 2<br>\u00a0\u00a0 \u00a0  = x^2/2 + 10x + 52<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "maaf-sebelumnya-kali-ini-aku-lagi-ada-masalah-besok-bakal-ada-r-646",
+            "question": "Maaf sebelumnya. kali ini aku lagi ada masalah. besok bakal ada razia jilbab,    jlbab aku masih di loundry dan bukanya siang aku lupa ngambil. gimana caranya biar besok aku bisa sakit (pura-pura sakit) dan ngga ketauan\r\n\r\n\"sekolahku bording school :(",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Pake jilbab orangtua aja , ato minjem temen<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "pukul kepela ke tembok aja kak-_-\" ato pagi2 basahin air ke jidat biar kelihatan berkeringat disangka sakit deh..<br><br>kalau ga pake jilbab gmn emg? jilbab temen yg lain?",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-a-2-5-dan-b-2-5-nilai-dari-a2-b-771",
+            "question": "Diketahui a = 2 +\u221a5\u00a0dan b = 2 \u2013\u00a0\u221a5. \r\n\r\nNilai dari a\u00b2\u00a0\u2013 b\u00b2\u00a0= \u2026",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex] a^{2} [/tex]= (2+[tex] \\sqrt{5} [/tex] )[tex] {2} [/tex] = 4+[tex] \\sqrt{25} [/tex] = 4+5 = 9<br>[tex] b^{2} [/tex] = 4-[tex] \\sqrt{25} [/tex] = 4-5 = -1<br>Jadi, [tex] a^{2} [/tex] - [tex] b^{2} [/tex] = 9 - (-1) = 9+1 = 10<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-tan-3-p-maka-tan-228-adalah-574",
+            "question": "Jika tan 3 = p maka tan 228 adalah....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "tan 3=p maka tan 6 = 2 tan 3/(1-tan\u00b23p) = 2p/1-p\u00b2<br>tan 12= tan 2.6<br>tan 24 = tan 2 12<br>dan tan 48 = tan 2 24<br>tan 228 = tan ( 180+48)= tan \u00a048",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "7266605412-tentukan-banyak-suku-ddan-jumlah-deret-aritma-127",
+            "question": "72+66+60+54+....+12\r\nTentukan banyak suku ddan jumlah deret aritmatika?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<em>Diketahui:</em><br>U\u2081 = a = 72<br>Suku terakhir Un = 12<br><br><em>Ditanya:</em><br>(a). Banyak n suku<br>(b). Jumlah n suku (Sn)<br><br><em>Penyelesaian:</em><br><br>(a). Banyak n suku<br>\u21d4 Beda b = U\u2082 - U\u2081<br>\u21d4 b = 66 - 72<br>\u21d4 Diperoleh b = - 6<br>\u21d4 Selanjutnya, Un = a + (n - 1).b<br>\u21d4 12 = 72 + (n - 1).(- 6)<br>\u21d4 - 60 = (n - 1).(- 6)<br>\u21d4 10 = n - 1<br><strong>\u21d4 \u2234 Banyaknya suku adalah\u00a0n = 11</strong><br><br>(b). Gunakan rumus jumlah n suku Sn = n/2.[a + Un]<br>\u21d4 S\u2081\u2081 =\u00a0n/2.[a + U\u2081\u2081]<br>\u21d4 S\u2081\u2081 =\u00a0[11/2] x [72 + 12]\u00a0\u00a0<br>\u21d4 S\u2081\u2081 =\u00a0[11/2] x 84<br>\u21d4 S\u2081\u2081 =\u00a011 x 42<br>\u21d4 S\u2081\u2081 =\u00a0462<br><strong>\u21d4 \u2234 Jumlah 11 suku pertama deret aritmatika tersebut adalah 462</strong><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "a = 72<br>b = U\u2082 - u\u2081<br>\u00a0\u00a0  = 66 -72<br>\u00a0\u00a0 = -6<br>Un = 12<br>gunakan rumus Un untuk mencari nilai n <br>Un = a + (n-1) b<br>12\u00a0 = 72 + ( n-1) -6<br>12\u00a0 = 72 - 6n + 6<br>12\u00a0 = 78-6n<br>12-78 = -6n<br>\u00a0-66 = -6n<br>-66/-6 = n<br>\u00a0\u00a0 11\u00a0 \u00a0  = n <br><br>gunakan rumus Sn untuk mencari jumlah suku<br>Sn = n/2 (2a + (n-1) b)<br>\u00a0 \u00a0 \u00a0 = 11/2 ( 2.72 + ( 11-1) -6)<br>\u00a0 \u00a0 \u00a0 = 11/2 ( 144 + (10)(-6))<br>\u00a0 \u00a0 \u00a0 = 11/2 ( 144 - 60)<br>\u00a0 \u00a0 \u00a0 = 11/2 (84)<br>\u00a0 \u00a0 \u00a0 = 11 (42)<br>\u00a0 \u00a0 \u00a0 = 462<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jelaskan-turunan-fungsi-dari-1-y-sinx-2-y-x2-si-932",
+            "question": "Jelaskan turunan fungsi dari :\r\n1.\u00a0y=\u00a0\u221asinx\r\n2. y=\u00a0x\u00b2\u00a0\u00d7\u00a0sinx",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]y=\\sqrt{sin(x)}\\\\\ny=(sin(x))^{\\frac{1}{2}}\\\\\ny&#039;=\\frac{1}{2}(sin(x))^{\\frac{1}{2}-1}.cos(x).(1)\\\\\ny&#039;=\\frac{1}{2}(sin(x))^{-\\frac{1}{2}}.cos(x)\\\\\ny&#039;=\\frac{cos(x)}{2\\sqrt{sin(x)}}\\\\\\\\\ny=x^2sin(x)\\\\\ny&#039;=2x^{2-1}sin(x)+2x^2.cos(x).(1)\\\\\ny&#039;=2x.sin(x)+x^2.cos(x)\\\\[/tex]",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

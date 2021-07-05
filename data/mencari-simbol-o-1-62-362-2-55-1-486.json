@@ -1,0 +1,142 @@
+{
+    "question": "Mencari simbol o !    1. 6\u00b0\u207a\u00b2 = (36)\u00b0\u207a\u00b2\r\n\r\n2. \u221a5\u00b0\u207b\u2075 = 1\r\n\r\n\r\n3. (\u221a10)\u00b0\u207b\u00b2 = 0,1\r\n\r\n\r\n\r\n4. \u221a2\u00b0\u207a\u00b3 = (1/4)\u00b0\u207a\u2074",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "ganti jadi huruf p ya<br><br>1.<br>basisnya beda (6 dan 36)<br>pangkatnya sama (p+2)<br>jadi hanya ada 1 solusi pada saat p+2=0<br>atau p=-2<br><br>2.<br>supaya hasilnya 1, maka pangkatnya harus nol<br>p-5=0<br>p=5<br><br>3.<br>[tex] (\\sqrt{10} )^{p-2}=0,1\\\\\n (10^{1/2} )^{p-2}=10^{-1}\\\\\n (10)^{(p-2)/2}=10^{-1}\\\\\n\\frac{p-2}{2}=-1\\\\\np=0\n[/tex]<br><br>4.<br>[tex] \\sqrt{2^{p+3}}=( \\frac{1}{4})^{p+4}  \\\\\\\\\n 2^{\\frac{p+3}{2}}=(2^{-2})^{p+4}  \\\\\\\\\n 2^{\\frac{p+3}{2}}=2^{-2p-8}  \\\\\\\\\n\\frac{p+3}{2}}={-2p-8}  \\\\\\\\\np+3=-4p-16\\\\\np= -\\frac{19}{5} [/tex]<br><br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "tentukan-banyak-bilangan-asli-yang-kurang-dari-999-yang-tidak-hab-872",
+            "question": "Tentukan banyak bilangan asli yang kurang dari 999 yang tidak habis dibagi 3 atau 5.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>3,6,12,15,18,....<br><br>Un=a+(n-1).b<br>996=3+(n-1).3<br>996=3+3n-3<br>996=3n<br>\u00a0\u00a0 n=<u> 996</u> = 332<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 3<br><br>5,10,15,20,...<br><br>Un=a+(n-1).b<br>995=5+(n-1).5<br>995=5+5n-5<br>995=5n<br>\u00a0\u00a0 n= <u>995</u> = 119<br>\u00a0 \u00a0 \u00a0 \u00a0\u00a0 5<u><br><br></u>15,30,45,....990<br><br>Un=a+(n-1).b<br>990=15+(n-1).15<br>990=15+15n-15<br>990=15n<br>\u00a0\u00a0 n=66<br><br>\u00a0 Banyaknya angka yang tidak habis=<br>\u00a0\u00a0 \u00a0 998-(332+199)+66<br>\u00a0\u00a0 \u00a0 998-531+66 = <u><span>533</span></u></span><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "contoh-perhitungan-uji-kenormalan-data-dengan-mengunakan-tabel-go-601",
+            "question": "Contoh perhitungan uji kenormalan data dengan mengunakan tabel goodness of fit",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Ini sepertinya soal per kuliahan ini, goodness of fit adalah uji untuk mengetahui tingkat normalitas dari sebuah data agar dipastikan terhindar dari autokorelasi, heteroskedastisitas, dan multikolininearitas <br><br>Saya kurang tahu apakah di tingkat SMA hal ini sudah diajarkan, tapi karena ditanyakan maka saya berusaha menjawab. <br><br>Untuk uji auto korelasi berfungsi mencari apakah ada gangguan pada data karena data yang digunakan berhubungan dengan data pada periode peridoe sebelumnya yang membuat sampel random menjadi tidak efektif. Rule of thumb nya pake uji durbit watson.<br>Kemudian untuk uji heterokedastisitas adalah menguji apakah ada varian yang besar sehingga membuat standar deviasi melebihi rata ratanya dan membuat bias dalam membaca hasil. Kalau ini bisa menggunakan uji table t.<br>Sedangkan uji multikolineritas adalah mencari apakah hubungan antar variabel independen lebih besar dari dependen kalau ini menggunakan uji F -test.<br><br>Kalau model sudah terbebas dari semua kesalahan ini (3) maka bisa dilihat dari tabel anova apakah adj r square nya besar. Contoh apabila r square nya (50%) maka artinya 50% dari fenomena yang diteliti bisa dicari / direpresentasikan dengan model tersebut.<br><br>Materi ini sudah masuk ke materi ekonometri untuk anak kuliah tingkat akhir, tapi dibahas tidak apa apa karena berkaitan juga dengan matematika.\u00a0 <br><br>Sukses ya<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "carilah-nilai-abc-dan-d-yang-memenuhi-persamaan-berikut-a-a-316",
+            "question": "Carilah nilai a,b,c, dan d yang memenuhi persamaan berikut.    a. [a\u00a0 b\u00a0 c] + [-5\u00a0 6\u00a0 7] = [3\u00a0\u00a0 2\u00a0 -1]\r\nb. \r\n\r\n+",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a - 5 = 3<br>a = 3 + 5<br>a = 8<br><br>b + 6 = 2<br>b = 2 - 6<br>b = -4<br><br>c + 7 = -1<br>c = -1 -\u00a07<br>c = -8",
+                    "attachments": []
+                },
+                {
+                    "answer": "nilai yang memenuhi pertidak samaan tersebut<br>a - 5 = 3\u00a0  menjadi a = 3 + 5 = 8<br>b + 6 = 2 menjadi b = 2 - 6 = - 4<br>c + 7 = -1 menjadi c = -1 - 7 = -8<br><br>jadi nilai a = 8\u00a0 \u00a0 b = -4\u00a0 c = -8<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-jumlah-semua-suku-deret-geometri-tak-hingga-adalah-72-dan-ju-487",
+            "question": "Jika jumlah semua suku deret geometri tak hingga adalah 72 dan jumlah semua sukunya yang berindeks ganjil adalah 48, tentukan suku ke-3 deret tersebut !    Tolong di bantu..",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Jumlah Suku Tak hingga (S\u221e) :<br>S\u221e = a / (1 - r)\u00a0<br>72 = a / (1 - r)\u00a0<br><br>Jumlah semua suku ganjil : r&#039; = r\u00b2, Maka :\u00a0<br>Sg = a / (1 - r\u00b2)\u00a0<br>48 = a / (1 - r\u00b2)\u00a0<br><br>[tex] \\frac{72}{48} = \\frac{a/(1-r)}{a/(1-r^{2})} [/tex]<br><br>[tex] \\frac{3}{2} = \\frac{1-r ^{2}}{1-r} [/tex] \u00a0 (Jabarkan (1-r)\u00b2 menjadi (1-r)(1+r))<br><br>[tex] \\frac{3}{2} = \\frac{(1-r)(1+r)}{1-r} [/tex] \u00a0 \u00a0(Coret yg sama)<br><br>[tex] \\frac{3}{2} = 1 + r[/tex] \u00a0\u00a0(kali silang)<br><br>2 + 2r = 3\u00a0<br>2r = 1\u00a0<br>r =\u00a0[tex] \\frac{1}{2} [/tex]<br><br>Masukkan nilai r =\u00a0[tex] \\frac{1}{2} [/tex] ke :\u00a0<br>72 = a / (1 - r)\u00a0<br>72 = a / (1 -\u00a0[tex] \\frac{1}{2} [/tex])\u00a0<br>72 = a /\u00a0[tex] \\frac{1}{2} [/tex]\u00a0<br>2a = 72<br>a = 36\u00a0<br><br>Sehingga Untuk Urutan ke 3 :<br>\u21d2Un = [tex]a*r^{(n-1)} [/tex]\u00a0<br><br>\u21d2U\u2083 = 36 \u00d7\u00a0[tex](\\frac{1}{2})^{2} [/tex]\u00a0<br><br>\u21d2U\u2083\u00a0= 36\u00d7[tex] \\frac{1}{4} [/tex]\u00a0<br><br>\u21d2U\u2083\u00a0=\u00a0[tex] \\frac{36}{4} [/tex]<br><br>\u21d2U\u2083\u00a0= 9<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-pers-kuadrat-x2-m-3x-3m-1-0-mempunyai-satu-akar-r-799",
+            "question": "Jika pers kuadrat x\u00b2-(m+ 3)x+ (3m + 1) = 0\r\nmempunyai satu akar riil mka nilai m yg memenuhi ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "satu akar, jadi D=0<br>[tex]D=0\\\\\nb^2-4ac=0\\\\\n(m+3)^2-4(1)(3m+1)=0\\\\\nm^2+6m+9-12m-4=0\\\\\nm^2-6m+5=0\\\\\n(m-1)(m-5)=0\\\\\nm_1=1 \\ atau \\ m_2=5[/tex]<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Bentuk Umum Persamaan Kuadrat seperti ini<span>,\u00a0\u00a0dan a, b, c,</span>Dimana :x\u00a0adalah variabel persamaan kuadrata\u00a0adalah koefisien x kuadratb\u00a0adalah koefisien xc\u00a0adalah konstantaCara Menyelesaikan Persamaan Kuadrat<span>1) Mencari faktor<br><br>diuraikan menjadi\u00a0<br>cara pemfaktoran akan lebih mudah bila a = 1<br>maka kita bisa menebak x1 dan x2 dengan cara<br>a = 1<br>b = x1+x2<br>c = x1.x2</span><span>2) Memakai Rumus Kuadrat atau Rumus abc<br></span><span>3) Melengkapkan Kuadrat Sempurna<br>Bentuk umum persamaan kuadrat bebentuk kuadrat sempurna adalah :<br>\u00a0dengan q &gt; 0</span>Menentukan Jenis Akar-Akar Persamaan Kuadrat Jenis akar-akar persamaan kuadrat ditentukan oleh nilai deskriminan :<span><br>a. D &gt; 0 Kedua akar nyata dan berlainan,\u00a0</span><span>b. D = 0<br>Kedua akar nyata dan sama,\u00a0</span><span>c. D &lt;&gt; Kedua akar tidak nyata (imaginer)<br>d.\u00a0\u00a0dengan\u00a0<br>bilangan kuadrat sempurna, kedua akar rasional.</span><span>Untuk menghitung<span>\u00a0jumlah dan hasil kali akar-akar persamaan kuadrat</span>\u00a0, dapat dicari tanpa terlebih dahulu mencari akar-akarnya.</span><span>Dari rumus\u00a0\u00a0dan\u00a0</span><span>Dapat ditunjukkan bahwa:\u00a0</span><span>Rumus-rumus\u00a0Akar Persamaan Kuadrat hasil pengembangan, sering sekali muncul di soal UAN SNMPTN atau SPMB</span><span>Sifat-sifat Akar\u00a0Persamaan Kuadrat Jika\u00a0\u00a0dan\u00a0\u00a0adalah akar-akar persamaan kuadrat\u00a0\u00a0dengan\u00a0<br>maka berlaku sifat-sifat berikut ini :</span><span>a. Syarat mempunyai Dua Akar Positif<br></span><span>b. Syarat mempunyai Dua Akar Negatif<br><br>c. Syarat mempunyai Dua Akar Berlainan Tanda<br><br>d. Syarat mempunyai Dua Akar Berlawanan<br><br>e. Syarat mempunyai kedua akar berkebalikan<br></span><span>Cara menyusun Persamaan kuadratdari akar-akar x1 dan x2 yang diketahui</span><span>Persamaan kuadrat yang akar-akarnya\u00a0dan\u00a0\u00a0adalah :\u00a0</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "x-pangkat-2-4-jika-dan-hanya-jika-x2-atau-x-2-x-1-2-jika-dan-817",
+            "question": "x pangkat 2 =4 jika dan hanya jika x=2 atau x=-2? x-1 =2 jika dan hanya jika 2x+1=5? x pangkat 2 &lt; 4 jika dan hanya jika x&lt;2? -2&lt;x&lt;2 jika dan hanya jika x pangkat 2 =4???",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]x^2=4 \\longleftrightarrow x=2\\ atau\\ x=-2\\ (benar)\\\\ x-1=2 \\longleftrightarrow 2x+1=5\\ (salah)\\\\ x^2&lt;4 \\longleftrightarrow x&lt;2\\ (benar)\\\\ -2&lt;x&lt;2 \\longleftrightarrow x^2=4\\ (salah)[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "faktor-dari-418",
+            "question": "Faktor dari",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex] x^{2} -9x = x(x-9)[/tex]<br><br>x = 0<br>x = 9",
+                    "attachments": []
+                },
+                {
+                    "answer": "[tex](x - 3x) (x + 3x)[/tex]<br><br>.<br>. [tex]ax^2 - bx = c[/tex]<br>.<br>Semoga membantu ^_^<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "x22x-150-carlah-x1-dan-x2-denan-menggunakan-rumus-abc-505",
+            "question": "X\u00b2+2x-15=0\r\ncarlah x\u2081 dan x\u2082\r\ndenan menggunakan rumus abc",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "kalo itu akar\"nya\u00a0<br>(x-3)(x+5)<br>yg rumus abc itu apa pakek yang ini ??<br>x1,2 = -b +-\u00a0\u221ab\u00b2 - 4ac / 2a",
+                    "attachments": []
+                },
+                {
+                    "answer": "rumus D = b^2 - 4ac<br>(2x)^2-4(1)(-15)=0<br>4x^2-4+60=0<br>4x^2+56=0<br>4x^2 = -56<br>x^2 = \u00a0-14<br>x =\u00a0\u221a14<br>jadi nilai x = positif negarif\u00a0\u221a14",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jumlah-ke-10-dari-barisan-3-5-7-9-adalah-222",
+            "question": "JUMLAH KE-10 DARI BARISAN\u00a0 : 3, 5, 7, 9 ...... ADALAH",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Sn = n/2 (2a+(n-1)b)<br>Sn\u00a0= 10/2 (2.3+(10-1)2)<br>Sn = 5 (6+18)<br>Sn = 5 . 24<br>Sn = 120",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dari-5-ahli-bahasa-dan-6-ahli-matematika-dipilih-7-orang-sebagai-713",
+            "question": "dari 5 ahli bahasa dan 6 ahli matematika, dipilih 7 orang sebagai anggota tim ahli dengan tiga diantaranya ahli matematika. banyak cara yang digunakan dalam pemilihan itu ada berapa?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>dari 5 ahli bahasa <br>dan 6 ahli matematika, <br>dipilih 7 orang sebagai anggota tim ahli, dengan 3 diantaranya ahli matematika. banyak cara yang digunakan dalam pemilihan itu ada berapa?<br>-----------------&gt; ans = 4</span>",
+                    "attachments": []
+                },
+                {
+                    "answer": "3|6|5|4 = 360 cara<br>maaf klo ada salah dalam penghitungan dan analisis nya",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

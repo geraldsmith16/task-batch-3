@@ -1,0 +1,146 @@
+{
+    "question": "Diketahui persamaan kuadrat x\u00b2 - 2kx + 3k -2 = 0    a. Tentukan diskriminannya\r\nb. Tentukan nilai k agar persamaan kuadrat tersebut memiliki\r\n\u00a0 1) dua akar real berbeda\r\n\u00a0 2) dua akar real sama\r\n\u00a0 3) dua akar tidak real",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "[tex]x^2-2kx+3k-2=0\\\\ D=b^2-4ac=(-2k)^2-4(1)(3k-2)\\\\ D=4k^2-12k+8\\\\ D=4(k^2-3+2)\\\\ D=4(k-1)(k-2)\\\\\\\\ 1)\\ 2\\ akar\\ real\\ berbeda\\ (D&gt;0)\\\\ 4(k-1)(k-2)&gt;0\\\\ (k-1)(k-2)&gt;0\\\\ k&lt;1\\ atau\\ k&gt;2\\\\\\\\ 2)\\ 2\\ akar\\ real\\ kembar\\ (D=0)\\\\ 4(k-1)(k-2)=0\\\\ (k-1)(k-2)=0\\\\ k=1\\ atau\\ k=2\\\\\\\\ 3)\\ 2\\ akar\\ imajiner\\ D(&lt;0)\\\\ 4(k-1)(k-2)&lt;0\\\\ (k-1)(k-2)&lt;0\\\\ 1&lt;k&lt;2 [/tex]",
+            "attachments": []
+        },
+        {
+            "answer": "b^2-4.a.c=0<br>(-2k)^2-4.1.(3k-2)=0<br>4k^2-12k+8=0<br>maka, difaktorkan menjadi<br>(k-1)(4k-8)<br>maka bil. diskriminannya adalah...<br>1 atau 2<br><br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "nilai-dari-3log-1255log-1-587",
+            "question": "Nilai dari \u00b3log 125.\u2075log 1\r\n\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 3",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>\u00b3log 125. \u2075 log 1/3</span>\n<br><span>=\u00a0 \u00b3 log 5\u00b3\n. \u2075 log 1/3</span><br>\u00a0<span>= 3. \u00b3 log 5 . \u2075 log 1/3</span>\n<br><span>= 3. \u00b3 log 1/3</span>\n<br><span>= 3. \u00b3 log 3 \u207b\u00b9</span><br>\u00a0<span>= 3. -1. \u00b3 log 3</span><br>\u00a0= 3. -1<br>\u00a0= -3<br><br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "[tex] 3_{log} 125 .  5_{log}   \\frac{1}{3}    \\\\ =  3_{log} 5^{3} . 5_{log}   \\frac{1}{3}  \\\\  = 3. 3_{log} 5 . 5_{log}   \\frac{1}{3} \\\\ = 3. 3_{log}  \\frac{1}{3}  \\\\ = 3. (-1)  \\\\  = -3[/tex]<br><br>maaf kalo salah..",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "berapa-luas-daerah-yang-diarsir-168",
+            "question": "Berapa luas daerah yang diarsir..?",
+            "attachments": [
+                "question-attachments/berapa-luas-daerah-yang-diarsir-168-1.docx"
+            ],
+            "answers": [
+                {
+                    "answer": "setengah lingkaran besar<br>\u21d2 1/2 x \u03c0 x r\u00b2<br>\u00a0 = 1/2 x 22/7 x 7/2 x 7/2<br>\u00a0 = 77/4 = 19,25<br>lingkaran kecil<br>\u21d2 \u03c0 x r\u00b2<br>\u00a0 = 22/7 x 1,4 x 1,4<br>\u00a0 = 6,16<br>luas yang diarsir = 19,25 - 6,16 = 13.09<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-hp-dari-pertidaksamaan-di-bawa-ini-x-r-1-3x-41-776",
+            "question": "Tentukan HP dari pertidaksamaan di bawa ini (x \u2208 R)\r\n1. 3X-4\u226516+8X",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "3x-4\u00a0<span>\u2265 16+8x<br>3x-8x\u00a0</span><span>\u226516+4<br></span>-5x\u00a0<span>\u2265 20<br></span><span>5x\u00a0<u>&lt;</u> -20<br>x\u00a0<u>&lt;</u>-4<br><br>{x| x<u>&lt;</u>-4, x: R}<br><br></span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bentuk-sederhana-dari-4a-2-2a3-tolong-jelaskan-secara-310",
+            "question": "Bentuk Sederhana dari (4a)-\u00b2 \u00d7 (2a)\u00b3 =\r\n\r\n\r\ntolong jelaskan secara detail, lagi pemula ni..?!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "4^-2 . a^-2 .2^3 . a ^3<br>1/4^2 .8 . a^(-2)+3<br>1/16 . 8 . a^1<br>16 sama 8 nya sama2 bisa dibagi 8. jadi coret<br>1/2a atau 2^-1a<br><br>^= dibaca pangkat yaa<br>soalnya darisini gabisa di superscript",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pada-fungsi-kuadrat-apa-yang-terjadi-jika-a-gt-0-dan-apa-yang-847",
+            "question": "Pada fungsi kuadrat, apa yang terjadi jika a &gt; 0 dan apa yang terjadi jika a &lt; 0 ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Jika nilai a &gt; 0 maka parabola terbuka ke atas dan mempunyai nilai ekstrem minimum<br><br>\nJika nilai a &lt; 0 maka parabola terbuka ke bawah dan mempunyai nilai ekstrem maksimum<br><br><br><br>",
+                    "attachments": [
+                        "answer-attachments/pada-fungsi-kuadrat-apa-yang-terjadi-jika-a-gt-0-dan-apa-yang-847-1.jpg"
+                    ]
+                },
+                {
+                    "answer": "untuk a\u00a0&gt;\u00a00, grafik/kurvanya menghadap ke atas, dan memiliki nilai minimum (puncaknya ada di bawah)<br><br>untuk a\u00a0&lt;\u00a00, grafik/kurvanya menghadap ke bawah, dan memiliki nilai maksimum\u00a0(puncaknya ada di atas)<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-persamaan-kuadrat-yang-akarnya-2-dan-2-468",
+            "question": "Tentukan persamaan kuadrat yang akarnya 2- dan 2+",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]PK\\ baru : x^2-(x_1+x_2)x+(x_1x_2)=0\\\\\nx_1+x_2=(2-\\sqrt{3})+(2+\\sqrt{3})\\\\\nx_1+x_2=4\\\\\n\\\\\nx_1x_2=(2-\\sqrt{3})(2+\\sqrt{3})\\\\\nx_1x_2=4-3=1\\\\\n\\\\\nPK\\ baru : x^2-4x+1=0\\\\[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-jika-x1-dan-x2-akar-akar-2xkuadrat-10x4-0-nilai-dari-x-912",
+            "question": "1. jika\u00a0 x1 dan x2\u00a0 akar akar 2xkuadrat-10x+4 = 0, nilai dari x1kuadrat+x2kuadrat-3x1x2=    \u00a0\u00a0 \u00a0 A. 20\r\n\u00a0\u00a0 \u00a0 B. 15\r\n\u00a0\u00a0 \u00a0 C. 10\r\n\u00a0\u00a0 \u00a0 D.\u00a0 5\r\n\u00a0\u00a0 \u00a0 E.\u00a0 1",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "2x\u00b2-10x+4 = 0<br>x1+x2= 5 dan x1.x2=2<br>x1\u00b2+x2\u00b2-3x1x2=(x1+x2)\u00b2- 2x1x1 - 3x1x2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0=(x1+x2)\u00b2-\u00a05x1x2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 25-10<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 15",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "3-bilangan-membentuk-barisan-geometri-jumlah-ke-3-bilangan-terseb-126",
+            "question": "3 bilangan membentuk barisan geometri jumlah ke 3 bilangan tersebut adalah 14, dan hasil kalinya 64. Tentukan ke 3 bilangan tersebut",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Dik : <br>Barisan geometri\u00a0 U\u2081 + U\u2082 + U\u2083 = 14\u00a0 ; U\u2081 x U\u2082 x U\u2083 = 64<br>Dit : <br>U\u2081\u00a0 ;\u00a0  U\u2082\u00a0  dan U\u2083<br>Jawab : <br>U\u2081 x U\u2082 x U\u2083 = 64 ==&gt; a x ar x ar\u00b2 = 64<br>a\u00b3 x r\u00b3 = 64 .... ruas kiri dan kanan diakar pangkat 3<br>ar = 4 ..... pers(1)<br><br>U\u2081 + U\u2082 + U\u2083 = 14 \u00a0 ==&gt;\u00a0 a + ar + ar\u00b2 = 14 \u00a0 ==&gt;\u00a0 a + ar + ar.r = 14 <br>a + 4 + 4r = 14 ==&gt; 4/r + 4 + 4r - 14 = 0\u00a0 \u00a0 ==&gt;\u00a0 4/r + 4r - 10 = 0 <br>4 + 4r\u00b2 - 10r = 0 ==&gt; 4r\u00b2 - 10r + 4 = 0 ==&gt; (4r - 2)(r - 2) = 0 <br>r = 1/2 atau r = 2 <br>untuk r = 1/2 maka a = 4/0,5 = 8 <br>maka bilangan yang dimaksud adalah : 8 , 4 , 2 <br>untuk r = 2, maka a = 4/2 = 2 <br>bilangan yang dimaksud adalah : 2 . 4 , 8 <br><br><br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "U\u2081 x U\u2082 x U\u2083 = 64\u00a0<br><span>sifat barisan geometri : U\u2081 x U\u2083 = U\u2082\u00b2\u00a0</span><br>maka didapat : U\u2082\u00b3 = 64 ----&gt; U\u2082 = 4 dan U\u2081 x U\u2083 = 16 ..... pers (1)<br>U\u2081 + U\u2082 + U\u2083 = 14<br><span>U\u2081 + 4 + U\u2083 = 14 ----&gt; U\u2081 + U\u2083 = 10 ......pers (2)\u00a0</span><br><span>dari pers 1 dan pers 2 didapat bilangan yang hasil kalinya 16 dan hasil jumlahnya 10 adalah 2 dan 8\u00a0</span><br><span>jadi bilangan yang dimaksud adalah 2 , 4 dan 8\u00a0</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-2x-5-adalah-faktor-dari-2x3-13x2px-5-tentukan-nilai-p-d-441",
+            "question": "Jika (2x-5) adalah faktor dari 2x\u00b3-13x\u00b2+px-5 tentukan nilai p dan kemudian faktorkan",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "2x-5 = 0<br>x = 5/2<br><br>masukkan nilai X ke dalam persamaan.\u00a0 <br><br><span> 2x\u00b3-13x\u00b2+px-5<br>2(5/2)\u00b3 - 13(5/2) + p(5/2)-5 = 0<br>2 (125/8) - 65/2 + 5p/2 - 5 = 0<br>62,5 - 32,5 + 2,5P - 5 = 0<br>25 + 2,5P = 0<br>2,5P = -25<br>P = -25/2,5<br>P = -10<br><br><br>Semoga membantu.<br></span><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "[tex]f(x)=2x^3-13x^2+px-5\\\\\nkarena\\ (2x-5)\\ merupakan\\ faktor\\ dari\\ f(x), maka\\\\\nf(\\frac{5}{2})=0\\\\\n2(\\frac{5}{2})^3-13(\\frac{5}{2})^2+p(\\frac{5}{2})-5=0\\\\\n\\frac{125}{4}-\\frac{325}{4}+\\frac{5p}{2}-5=0\\\\\n\\frac{125-325+10p-20}{4}=0\\\\\n-220+10p=0\\\\\np=22\\\\\\\\\nf(x)=2x^3-13x^2+22x-5\\\\\n2x^3-13x^2+22x-5=(2x-5)(2x^2-8x+2)[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "himpunan-selesaian-dari-y-x2-4x-5-350",
+            "question": "Himpunan selesaian dari y\u00a0\u2264\u00a0x\u00b2\u00a0+\u00a04x\u00a0-\u00a05",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "y \u2264 x\u00b2 + 4x - 5<br>y \u2264 (x-5) (x+1)<br>y \u2264 x-5\u00a0 //\u00a0  y \u2264 x+1<br>y-x \u2264 -5\u00a0 //\u00a0  y-x \u2264 1<br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

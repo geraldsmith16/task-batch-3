@@ -1,0 +1,160 @@
+{
+    "question": "roda sepeda motor dengan jari -jari 20 cm, jika roda itu berputar sebanyak 1.500 putaran,berapa panjang lintasan yang dilalui sepeda motor itu adalah",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "k=2x3,14xr<br>k=2x3,14x20=125,6<br>125,6x1500=188400<br>",
+            "attachments": []
+        },
+        {
+            "answer": "Keliling = 2[tex] \\pi [/tex]r\u00a0<br>K = 2 x 3,14 x 20<br>K = 125,6 cm<br><br>Panjang lintasan = K x Putaran<br>Pl = 125,6 x 1500<br>Pl = 188.400 cm<br>Pl = 1.884 m<br><br>Maaf jika ada kesalahan :)<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "1ubahlah-masalah-nyata-berikut-kedalam-bentuk-pertidaksamaan-lin-308",
+            "question": "1.ubahlah masalah nyata berikut Kedalam bentuk pertidaksamaan linear satu variabel    a.sebuah bus dapat mengangkut tidak kurang Dari enampuluh orang penumpang",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "x &gt; 60 penumpang. Di bawah tanda \"&gt;\" itu dikasih garis, jadi dibacanya \"lebih dari sama dengan\". Sorry di laptopku nggak ada tanda itu.<br><br>Semoga membantu :-)<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "a. x\u00a0=\u00a0bus\u00a0=\u00a0x\u00a0\u2265 60<br><br>semoga jawaban ini membantu",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "manakah-pernyataan-yang-benar-1-jika-sudut-a-dan-sudut-b-ada-436",
+            "question": "Manakah pernyataan yang benar? \u00a0 1. Jika sudut A dan Sudut B adalah sudut berpelurus, maka sudut A tidak pernah sama besar dengan sudut B. \u00a0 2. Jika sudut A adalah sudut tumpul maka pelurus sudut A pasti sudut lancip. \u00a0 3. Jika sudut berpenyiku sudut A lebih kecil dari 30 derajat maka pelurus sudut A adalah sudut tumpul",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Pernyataan yang benar adalah nomor 3<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Pernyataan yang benar nomor 2.",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dimas-meminjam-uang-di-koperasi-rp-900000000-dengan-suku-bunga-184",
+            "question": "dimas meminjam uang di koperasi rp 9.000.000.00 dengan suku bunga 6 % per tahun ketika akan melunasi pinjaman tersebut ia harus membayar rp 9360.000.00 maka lama pinjaman dimas ....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Bunga = waktu / 12 bulan x persen bunga x uang awal<br>360.000 = w / 12 x 6 / 100 x 9.000.000<br>360.000 = w / 2 x 90.000<br>360.000 = w x 45.000<br>w = 8 bulan",
+                    "attachments": []
+                },
+                {
+                    "answer": "bunga = modal x n/12 x %bunga<br>360000 = 9000000 x n/12 x 6/100<br>360000 = 45000 x n<br>360000 / 45000 = n<br>8 bulan = n<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dalam-sebuah-kelas-terdapat-48-anak-anak-yang-gemar-matematika-3-838",
+            "question": "dalam sebuah kelas terdapat 48 anak ,anak yang gemar matematika 35 anak ,yang gemar fisiika 40 anak dan yang gemar kedua-duanya 30 anak .berapa anak yang tidak gemar matematika fiisika",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "48 - ( 35+40-30) = 48 - 45 = 3<br>Jadi ada 3 orang yang tidak gemar matematika dan fisika.",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "nih-nilai-dari-673-adalah-921",
+            "question": "Nih nilai dari 6\u221a7/3 adalah?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "enam akar tujuh di bagi tiga sama dengan dua akar tujuh<br>",
+                    "attachments": [
+                        "answer-attachments/nih-nilai-dari-673-adalah-921-1.png"
+                    ]
+                },
+                {
+                    "answer": "mgkin soal nya kek gni<br><br><u>6\u221a7</u><br>\u00a0\u221a3<br><br>maka:<br><br><u><strong>6\u221a7</strong></u><strong>\u00a0  </strong>\u00d7 \u221a3<br>\u00a0<strong>\u221a3\u00a0\u00a0</strong> \u00d7 \u221a3<br><br><u>6\u221a21</u><br>\u00a0 3<br><br>2\u221a21",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-jumlah-dua-bilangan-adalah-100-dan-selisih-nya-adalah-4-770",
+            "question": "diketahui jumlah dua bilangan adalah 100 dan selisih nya adalah 40 bagaimana nilai dua bilangan tersebut dapat dinatakan dua linear variabel.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "jawabannya:<br>a+b = 100<br>a-b \u00a0= 40<br>truss lakukan proses eliminasi....<br>2b = 60<br>b = 30<br>substitusikan ke a+b=100<br>a+ 30 = 100<br>a= 70",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "cara-penyelesaiannya-a4-b2-c-a-b6-c4-400",
+            "question": "Cara penyelesaiannya..( a\u207b\u2074 b\u00b2 c /a b\u207b\u2076 c)\u2074?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a = -4-1 =5<br>b= 2-(-6)=8<br>c= 1- 4= -3<br>(a&#039;5 b&#039;8 c&#039;-3)&#039;4<br>a&#039;5\u00d74 b&#039;8\u00d74 c&#039;-3\u00d74<br>a&#039;20 b&#039;32 c&#039;-12<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span>( a\u207b\u2074 b\u00b2 c /a b\u207b\u2076 c)\u2074<br>= a</span>\u207b\u2074.\u2074 b\u00b2.\u2074 c\u2074/ a\u2074 b\u207b\u2076.\u2074 c\u2074<br>= a^16 b^ 8 c^4 / a^4 b^-24 C^4<br>=a^ 16-4 b^8-(-24) c^4-4<br>=a^ 12 b ^ 32 c ^0<br><br>^ = dibaca pangkat ya....",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dua-bilangan-berselisih-25-jika-2-kali-bilangan-yang-besar-dikur-975",
+            "question": "Dua bilangan berselisih 25. Jika 2 kali bilangan yang besar dikurangi bilangan yang kecil adalah 175, tentukanlah bilangan itu.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a-b = 25<br>2a-b = 175<br>lakukan eliminasi<br>a= 150<br>150 -b = 25<br>-b = -125<br>b = 125<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Dua bilangan berselisih 25. Jika 2\u00a0kali<span>\u00a0bilangan yang besar dikurangi bilangan yang kecil adalah 175, tentukanlah bilangan itu.<br><br>jawab :<br>\u00a0x-y=25<br>2x-y=175<br><br>persamaan &gt;&gt; x=150<br><br>jadi x-y=25<br>\u00a0 \u00a0 \u00a0 \u00a0 y=150-25<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 125</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "12x-5-gt-15-816",
+            "question": "1/2x + 5 &gt; 15 = ....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1/2x + 5\u00a0&gt; 15<br>semua kalikan 2<br>x + 10 &gt; 30<br>x + 10 - 10 &gt; 30 -10<br>x &gt; 20<br>Jadi penyelesaiannya x &gt; 20",
+                    "attachments": []
+                },
+                {
+                    "answer": "1/2x +5 &gt; 15<br>1/2x \u00a0 \u00a0 \u00a0&gt; 15-5<br>1/2x \u00a0 \u00a0 \u00a0&gt; 10<br>1/2x :1/2&gt; 10 :1/2<br><u></u><br>\u00a0 \u00a0 \u00a0 \u00a0x \u00a0 \u00a0&lt; 20<u></u>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "alas-sebuah-limas-berbentuk-belah-ketupat-dengan-keliling-60-cm-d-163",
+            "question": "alas sebuah limas berbentuk belah ketupat dengan keliling 60 cm dan panjang salah satu diagonalnya adalah 18 cm serta tinggi limas 12 cm .maka volume limas tersebut adalah ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "V limas =\u00a0[tex] \\frac{1}{3} [/tex].Luas Alat.Tinggi<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0[tex] \\frac{1}{3} [/tex].198.12<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0792 cm3<br>L\u00a0alas=\u00a0[tex] \\frac{1}{2}\u00a0[/tex].d1.d2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0[tex] \\frac{1}{2}\u00a0[/tex].18.22<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0198",
+                    "attachments": []
+                },
+                {
+                    "answer": "panjang diagonal 1 = 18<br>panjang diagonal 2 = 24 (triple phytagoras)<br>v = 1/3*luas alas*t<br>\u00a0 = 1/3*(1/2*18*24)*12<br>\u00a0 = 1/3*216*12<br>\u00a0 = 864<br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,138 @@
+{
+    "question": "Sumber bunyi A menghasilkan taraf intensitas 10 dB ketika dibunyikan terpisah, sedangkan sumber bunyi B menghasilkan traf intensitas 20 dB ketika dibunyikan terpisah. Jika dua sumber bunyi tersebut dibunyikan bersama maka intensitas bunyi gabungan dinyatakan dengan intensitas ambang pendengar Io adalah ......",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "jawab.<br>Tl = 10 log l/lo<br>10 db = 10^1<br>20 db = 10^2<br><br>(10+20) db = 10 l/10^-12<br>30 db = 10 log l/10^-12<br>l = 10^3 x 10^-12/10 log<br>\u00a0= 10^-9 W/m^2<br>\u00a0<br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "dua-pegas-dengan-konstanta-pegas-k1-dan-k2-dihubungkan-seri-hitu-566",
+            "question": "Dua pegas dengan konstanta pegas k1 dan k2 dihubungkan seri. hitung konstanta gabungan kedua pegas.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1/k1 + 1/k2.\u00a0<br>k1+k2/k1k2.<br>totalnya: k1k2/k1+k2.<br>(kayak ngitung arus listrik paralel)",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-balok-bermassa-m-berada-di-atas-lantai-mendatar-licin-di-d-923",
+            "question": "sebuah balok bermassa m berada di atas lantai mendatar licin di dorong dengan gaya mendatar 21,5 N sehingga mengalami percepatan 2m/s\u00b2.berapakah gaya yang harus diberikan agar percepatan menjadi 4m/s\u00b2??",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "F=m.a<br>21,5=m.2<br>m=10,75 kg<br><br>F=m.a<br>F=10,75.4<br>F=43N<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "kita buat perbandingan aja,karna massanya sama kan :)<br>maka\u00a0<br>F1= 21,5 N<br>a1= 2 m/s^2<br>F2 = ..?<br>a2= 4 m/s^2<br><br>maka ..<br>F1/F2 = a1/a2<br>21,5 N/F2 = 2/4<br>21,5 N/F2 = 1/2<br>21,5 N . 2 = F2<br>43 N = F2 :)",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "benda-bermassa-10-kg-di-atas-bidang-datar-licin-dipengaruhi-gaya-694",
+            "question": "Benda bermassa 10 kg di atas bidang datar licin dipengaruhi gaya 40 N membentuk sudut 60 derajat terhadap horizontal,jika g= 10 m/s^2.tentukan perpindahan benda setelah gaya bekerja 60 \u00a0sekon",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "karena permukaannya licin, maka fg (gaya gesek) = 0<br>cari\u00a0\u03a3 F = m.a<br>\u00a0 \u00a0 \u00a0F + w cos 30 = m .a \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0w = m .g<br>\u00a0 \u00a0 \u00a040 + (10.10.1/2\u221a3) = 10.a<br>\u00a0 \u00a0 \u00a0 40 + 50\u221a3 = 10.a<br>\u00a0\u221a3 = 1,73<br>40 + 50 (1,73) = 10a<br>40 + 86,5 = 10a<br>126,5 = 10 a<br>a = 126,5 /10<br>\u00a0 \u00a0= 12,65 m/s\u00b2<br>mudah2an benar -_-",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bagaimana-cara-menentukan-titik-tangkap-resultan-pada-keseimbanga-991",
+            "question": "bagaimana cara menentukan titik tangkap resultan pada keseimbangan benda tegar yg tersusun dari beberapa gaya yang sejajar berlawanan arah?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "resultan gaya sejajar segaris dan berlawanan arah sama dengan <u>&#039;&#039;selisih kedua gaya&#039;&#039;</u>. jadi rumusnya : R = F1 - F2<br>R : Resultan gaya",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebutkan-contoh-penerapan-1-hukum-archimedes-2-hukum-pascal-3-659",
+            "question": "Sebutkan contoh penerapan :    1. Hukum Archimedes\r\n2. Hukum Pascal\r\n3. Hukum Bernuolli\r\ndalam teknologi ?\r\nmohon bantuannya",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1. apabila sebuah benda, sebagian atau seluruhnya terbenam kedalam air makabenda trsbt mendapat gaya tekan ke atas sebesar berat air yg dipindahkan oleh benda tersebut. contoh benda\u00a0yg menggunakan prinsip ini : kapal laut<br>2. tekanan yang diberikan kepada zat cair akan diteruskan ke segala arah dengan sama besar. contoh penggunaan : peralatan hidrolik<br>3. j<span>umlah dari tekanan, energi kinetik persatuan volume, dan energi potensial persatuan volume mempunyai nilai yang sama pada setiap titik sepanjang suatu garis arus. contoh : manometer, tabung venturi</span>",
+                    "attachments": []
+                },
+                {
+                    "answer": "kalau archimedes kapal laut , \u00a0kalau pascal pesawat terbang , kalau bernoulli parfum atau semprotan nyamuk yang pakai tangkai\u00a0<br>mohon maaf kalau ada kesalahan :D",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebutkan-macam-macam-benda-plastis-beserta-manfaat-minimal-5-778",
+            "question": "Sebutkan macam -macam benda plastis beserta manfaat minimal 5.. \u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "benda plastis : kayu, kaca ,plastic ,plastisin ,kertas.<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-tiga-buah-pegas-dua-disusun-paralel-dengan-konstanta-1-771",
+            "question": "Diketahui tiga buah pegas. Dua disusun paralel dengan konstanta 100 n/m. Dan satu disuaun dengan seri dengan konstanta 200n/m. Susunan pegas dipengaruhi oleh beban, sehingga mengalami pertambahan 5cm. Jika pertambahan panjang pegas 1 dan 2 sama, maka berapakah: a) konstanta gaya total penyusunnya. b) massa beban jika g= 10 m/s",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a) rangkaian paralel ==&gt; kp = 100 + 100 = 200 N/m<br>\u00a0\u00a0 kp diseri dengan k3 = 200 ===&gt; 1/ks = 1/200 + 1/200 <br>\u00a0\u00a0 1/ks = 2/200 ===&gt; 1/ks = 1/100 ==&gt; ks = 100 N/m<br>\u00a0\u00a0 Jadi knstanta gaya total = 100 N/m<br>b) dik : \u0394x = 5 cm = 0,05 m\u00a0 \u00a0 ; k total = 100 N/m <br>F = k \u0394x <br>m . g = k . \u0394x ---&gt; m . 10 = 100 . 0,05 ----&gt; m = 0,5 kg <br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span>a) rangkaian paralel ==&gt; kp = 100 + 100 = 200 N/m<br>\u00a0\u00a0 kp diseri dengan k3 = 200 ===&gt; 1/ks = 1/200 + 1/200 <br>\u00a0\u00a0 1/ks = 2/200 ===&gt; 1/ks = 1/100 ==&gt; ks = 100 N/m<br>\u00a0\u00a0 Jadi knstanta gaya total = 100 N/m<br>b) dik : \u0394x = 5 cm = 0,05 m\u00a0 \u00a0 ; k total = 100 N/m <br>F = k \u0394x <br>m . g = k . \u0394x ---&gt; m . 10 = 100 . 0,05 ----&gt; m = 0,5 kg </span><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pada-rangkaian-paralel-pegask130nmk220nm-dan-m3kg-ktotal-365",
+            "question": "Pada rangkaian paralel pegas,k1=30n/m,k2=20n/m dan m=3kg. Ktotal?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Ktotal=K1+K2=20+30=50 N/m<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "seorang-anak-menggelindingkan-bola-diatas-karpet-dengan-kelajuan-290",
+            "question": "seorang anak menggelindingkan bola diatas karpet dengan kelajuan 2,0 m/s. gesekan karpet memberikan perlambatan 0,2\u00a0m/s\u00b2 pada bola, maka bola akan berhenti setelah bergerak selama?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "kira-kira 10 detik ..<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "V = 2,0 M/S<br>a = - 0,2 m/s^2<br><br>t = 2 m/s / 0,2 m/s^2 = 10 s",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "ada-yang-tau-rumus-rumus-gerak-melingkar-beraturan-359",
+            "question": "Ada yang tau rumus rumus GERAK MELINGKAR BERATURAN ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "rumus gerak melingkar beraturan adalah<br>v = 2\u03c0R/T \u00a0\u00a0atau \u00a0v = 2\u03c0Rf\u00a0",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

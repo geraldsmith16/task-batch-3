@@ -1,0 +1,146 @@
+{
+    "question": "Diketahui suatu fungsi kuadrat y=x\u00b2+4 . carilah diskriminannya!",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "D = b^2 - 4ac<br>= 0^2 - (4)(1)(4)<br>= 0 - 16<br>= -16<br>",
+            "attachments": []
+        },
+        {
+            "answer": "Diskriminan =<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 =<span>b2 - 4ac<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 0 - (4 x1 x 4)<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 0 - 16<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = -16 + 0<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = -16<br></span>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "apa-rumus-luas-daerah-dibawah-kurva-481",
+            "question": "Apa rumus luas daerah dibawah kurva?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "tergantung sumbu X dan Y yang diketahui\u00a0<br>dan tergantung bentuk kurvanya",
+                    "attachments": []
+                },
+                {
+                    "answer": "tergantung bentuk kurvanya dan juga sumbu X dan \u00a0Y\u00a0nya",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-2-3-222",
+            "question": "1.     2. \r\n3.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "x+3 nya di misalkan u=x+3 du=1dx; dx=du<br>u^3du=u^4/4+c <br>(x+3)^4/4+c<br>yg lainnya juga sama<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "[tex]\\int (x+3)^4dx=\\int (x+3)^4\\frac{d(x+3)}{1)\\\\\n=\\int (x+3)^4d(x+3)\\\\\n=\\frac{1}{4+1}(x+3)^{4+1}+C\\\\\n=\\frac{1}{5}(x+3)^{5}+C\\\\\\\\\n\\int (2x+5)^3dx=\\int (2x+5)^3\\frac{d(2x+5)}{2}\\\\\n=\\frac{1}{2}\\int (2x+5)^3d(2x+5)\\\\\n=\\frac{\\frac{1}{2}}{3+1}(2x+5)^{3+1}\\\\\n\\int (2x+5)^3dx=\\frac{1}{8}(2x+5)^4\\\\\\\\\n=\\int (1-2x)^5\\frac{d(1-2x)}{-2}\\\\\n=\\frac{1}{-2}\\int (1-2x)^5d(1-2x)\\\\\n=-\\frac{1}{12}\\int (1-2x)^6[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "untuk-membangun-2-ruang-kelas-butuh-15-orang-pekerja-dalam-waktu-370",
+            "question": "Untuk membangun 2 ruang kelas\u00a0butuh 15 orang pekerja dalam waktu 50 hari, setelah 20 hari\u00a0berjalan terhenti karena suatu sebab selama 5 hari. berapa tambahan pekerja agar tetap selesai dalam waktu 50 hari ?    hayo siapa yang bisa,\u00a0tolong ya teman-teman saya lupa maaf nih..",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "50 hari = 15 pekerja<br><br>setellah bekerja 20 hari,sisa<br>30 hari = 15 pekerja yang selesaikan<br><br>libur 5 hari<br>25 hari = x orang<br><br>jawab:<br>30 / 25 = x / 15<br>30 \u00d7 15 = 25x<br>450 = 25x<br>18 orang = x<br><br>jumlah yang harus ditambah:<br>18 - 15 = 3 orang<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "gimana-cara-faktorin-persamaan-pangkat-3-548",
+            "question": "gimana cara faktorin persamaan pangkat 3?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "pake cara horner <br>3 | 1\u00a0 \u00a0\u00a0 -6 \u00a0 \u00a0 \u00a0 -9 \u00a0\u00a0 \u00a0  54 <br>\u00a0\u00a0 |_____3____-9___-54____ <br>\u00a0\u00a0 \u00a0 1\u00a0 \u00a0  -3\u00a0 \u00a0 \u00a0 \u00a0 -18\u00a0 \u00a0  0 <br>\u00a0\u00a0 \u00a0 x\u00b2 -3x - 18 = (x - 6) (x + 3) <br>jadi didapat faktornya adalah <br>(x - 3) (x + 3) (x - 6) <br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suatu-suku-banyak-fx-jika-dibagi-x3-bersisa-11-dan-jika-diba-249",
+            "question": "Suatu suku banyak f(x) jika dibagi (x+3) bersisa 11 dan jika dibagi (x-1) bersisa -5 .    tentukan sisanya jika f(x) dibagi oleh X\u00b2 + 2x - 3 !",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "x + 3 = 0 ; x = - 3 =&gt; f (-3) = 11<br>x - 1 = 0 ; x = 1 =&gt; f (1) = - 5<br>menentukan sisa f(x)-nya :<br>s (x) = f (a) - f(b) (x) / a-b + a. f (b) - b.f (a) / a - b<br>\u00a0\u00a0 \u00a0 \u00a0\u00a0 = 11 - (-5) (x) / -3 -1 + -3.-5 - 1. 11 / -3-1<br>\u00a0 \u00a0 \u00a0 \u00a0 = 16x /- 4 + 4 /- 4<br>\u00a0 \u00a0 \u00a0 \u00a0 = - 4x -1\u00a0 \u00a0\u00a0 <br><br><br><br><br><br><br><br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "f(-3)=11 dan f(1)= -5<br>f(x) = (x+3)(x-1) H(x) + px + q<br>f(-3) = 11\u21d4 -3p+q = 11<br>f(1) = 5\u21d4 \u00a0 \u00a0<u> \u00a0 p+q = -5 \u00a0</u> \u00a0-\u00a0<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0-4p = 16\u00a0\u21d4 p = -4 dan q = \u00a0-1<br>jadi sisanya -4x -1",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "maaf-sebelumnya-kali-ini-aku-lagi-ada-masalah-besok-bakal-ada-r-646",
+            "question": "Maaf sebelumnya. kali ini aku lagi ada masalah. besok bakal ada razia jilbab,    jlbab aku masih di loundry dan bukanya siang aku lupa ngambil. gimana caranya biar besok aku bisa sakit (pura-pura sakit) dan ngga ketauan\r\n\r\n\"sekolahku bording school :(",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Pake jilbab orangtua aja , ato minjem temen<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "pukul kepela ke tembok aja kak-_-\" ato pagi2 basahin air ke jidat biar kelihatan berkeringat disangka sakit deh..<br><br>kalau ga pake jilbab gmn emg? jilbab temen yg lain?",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dalam-suku-deret-aritmatika-diketahui-suku-ke3-9-dan-suku-ke7-878",
+            "question": "Dalam suku deret aritmatika diketahui, suku ke3 = 9 dan suku ke7 = 37. suku ke 30 adalah...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "U3=9 -&gt; a+2b=9\nU7=37-&gt; a+6b = 37\n               ---------- -\n-4b = -28\n   b = 7 -&gt; a +2.7 = 9\n                 a= -5\nNanti tinggal disubsitusi ke\nUn = a+ (n- 1 ) b",
+                    "attachments": []
+                },
+                {
+                    "answer": "U3=9\u00a0<br>U7=37<br>-4b=-28<br>b=-28/-4<br>b=7<br><br>a+2b=9 \u00a0 \u00a0\u00a0a+2.7=9<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 a+14=9<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 a=-5<br><br>U30= a+(n-1)\u00a0b<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0-5+29.7<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0-5+203<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0198",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-barisan-geometri-mempunyai-9suku-suku-tengah-ut768-u3-529",
+            "question": "Sebuah barisan geometri mempunyai 9suku, suku tengah (Ut)=768, U3=48,diantara tiap dua suku, disisipkan sebuah suku baru sehingga diperoleh barisan geometri baru. Tentukanlah Rasio,banyaks suku(n) dan U15 dari suku baru tersebut! :)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "tyeryreyjeriyjeriyjerjyierjyieryj<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "cara-menjawab-soal-pola-bilangan-yang-tidak-berurutan-seperti-soa-325",
+            "question": "Cara menjawab soal pola bilangan yang tidak berurutan seperti soal psikotest itu gimana sih ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Tergantung dengan pola bilangannya juga sih.Tapi menurut pendapat saya, carilah angka yang paling kecil, lalu bandingkan dengan angka terkecil kedua. Okay ? @Liwed",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bagaimana-cara-mencari-hasil-sisa-pembagian-suku-banyak-yg-pembag-975",
+            "question": "Bagaimana cara mencari hasil sisa pembagian suku banyak\r\nyg pembaginya berjumlah 3",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "dikali dengan 3<br>maaf hanya ini yang dapat saya jawab",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

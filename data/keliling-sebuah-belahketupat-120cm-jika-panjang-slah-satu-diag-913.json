@@ -1,0 +1,130 @@
+{
+    "question": "keliling sebuah belahketupat 120cm.\u00a0 jika panjang slah satu diagonalny 48cm.\u00a0 berapakah luas belahketupat\u00a0 tersebut..",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "[tex]\\text{K}=4\\times\\text{s}\\\\\n120=4\\times\\text{s}\\\\\n\\text{s}=120:4\\\\\n\\text{s}=30\\\\\\\\\n\\text{d}_2= \\sqrt{30^2-(48:2)^2} \\\\\n\\text{d}_2= \\sqrt{30^2-24^2}\\\\\n\\text{d}_2= \\sqrt{900-576}\\\\\n\\text{d}_2= \\sqrt{324}\\\\\n\\text{d}_2= 18\\times2=36\\text{ cm}\\\\\\\\\n\\text{L}= \\frac{\\text{d}_1\\times\\text{d}_2}{2} \\\\\n\\text{L}= \\frac{48\\times36}{2}~~(36:2=18)\\\\\n\\text{L}=48\\times18\\\\\n\\boxed{\\boxed{\\text{L}=864\\text{ cm}^2}}}[/tex]",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "tentukan-peneyelesain-dari-pertidaksamaan-berikut-dengan-varibael-366",
+            "question": "Tentukan peneyelesain dari pertidaksamaan berikut dengan varibael pada bilangan bulat    2&lt;x+4&lt;9 \r\n\r\ncontohin plizz lg ngerja PR neh",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "(semua ruas dikurangi 4 agar tersisa x)<br>=\u00a02-4&lt;x+4-4&lt;9-4<br>= -2&lt;x&lt;5",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "2x-815-215-tentukan-nilai-x-tolong-banget-yaa-475",
+            "question": "2^x . 8^1/5 = 2^1/5\r\n Tentukan nilai x\r\n Tolong banget yaa",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex] 2^{x} .  \\sqrt[5]{8} =  \\sqrt[5]{2}  [/tex]<br>[tex] 2^{x}+ \\frac{2}{5}  = 1[/tex]<br>x =[tex] -\\frac{2}{5} [/tex]",
+                    "attachments": []
+                },
+                {
+                    "answer": "[tex]2^x.(2^3)^{\\frac{1}{5}}=2^{\\frac{1}{5}}\\\\\\\\\n2^x=\\frac{2^{\\frac{1}{5}}}{2^{\\frac{3}{5}}}\\\\\\\\\n2^x=2^{\\frac{1}{5}-\\frac{3}{5}}\\\\\\\\\nx=-\\frac{2}{5}[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-jawab-dan-berikan-caranya-suatu-pekerjaan-di-selesaikan-193",
+            "question": "Tolong jawab dan berikan caranya !!    Suatu pekerjaan di selesaikan oleh 24 pekerja, akan selesai dalam 60 hari setelah di kerjakan 25 hari , Pekerjaan berhenti selama 5 hari karena hujan, berapa pekarja tambahan yang di perlukan agar pekerjaan itu cepat selesai tepat waktu sesuai rencana?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]pekerja tambahan= \\frac{byk pekerja awal x libur}{sisa hari}=\\frac{24.5}{30}  \\\\=120/30=4[/tex]<br><br><strong><em><u>Jadi pekerja tambahan=4 orang</u></em></strong>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-f-x-5x8-tentukan-nilai-fapabila-x-4-205",
+            "question": "Jika F (x) =5x+8 tentukan nilai f.apabila x=-4",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "F(x) = 5x + 8<br>jika x = - 4<br><br>maka:<br>F (-4) = 5 (-4) + 8<br>F(-4) = -20 +8<br>F(-4) = -12<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "f ( -4 ) = 5 (-4) + 8<br>f (-4) = -20 + 8<br>f (-4) = -12<br>f\u00a0 \u00a0 \u00a0 \u00a0 = -12/-4<br>f\u00a0 = 3<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "2n2-2n-2-2n-123-2-pangkat-400",
+            "question": "2^n+2 - 2^n-2 \u00f7 2^n-1(2^3-2)\r\n ^ = pangkat",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "ni hasilnya <br>= 4(2^n - 4)<br>n = 2<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "caranya-segitiga-pascal-483",
+            "question": "Caranya segitiga pascal?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kelas : VII (1 SMP)<br>Materi : Operasi dan Faktorisasi Bentuk Aljabar<br>Kata Kunci : aljabar, segitiga, pascal<br><br>Pembahasan :<br>Menggunakan pola bilangan segitiga Pascal untuk menjabarkan bentuk aljabar (a + b)\u207f.<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 1 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u2192 (a + b)\u2070<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a01 \u00a0 \u00a0 \u00a0 \u00a0 1 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u2192 (a + b)\u00b9<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 1 \u00a0 \u00a0 \u00a0 \u00a0 2 \u00a0 \u00a0 \u00a0 \u00a0 \u00a01 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u2192 (a + b)\u00b2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 1 \u00a0 \u00a0 \u00a0 \u00a0 \u00a03 \u00a0 \u00a0 \u00a0 \u00a0 3 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 1 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u2192 (a + b)\u00b3<br>\u00a0 \u00a0 \u00a01 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 4 \u00a0 \u00a0 \u00a0 \u00a0 6 \u00a0 \u00a0 \u00a0 \u00a0 \u00a04 \u00a0 \u00a0 \u00a0 \u00a0 \u00a01 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u2192 (a + b)\u2074<br>1 \u00a0 \u00a0 \u00a0 \u00a0 \u00a05 \u00a0 \u00a0 \u00a0 \u00a0 10 \u00a0 \u00a0 \u00a0 \u00a0 10 \u00a0 \u00a0 \u00a0 \u00a0 5 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a01 \u00a0 \u00a0 \u00a0 \u2192 (a + b)\u2075<br>\u2191 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u2191<br>Koefisien suku ke-1 \u00a0 \u00a0 \u00a0... \u00a0 Koefisien suku ke-6<br><br>Contoh :<br>(x + 3y)\u00b3 = x\u00b3 + 3.x\u00b2.3y + 3.x.(3y)\u00b2 + (3y)\u00b3 = x\u00b3 + 9x\u00b2y + 27xy\u00b2 + 27y\u00b3.<br><br>(a - 2b)\u2074 = a\u2074 + 4.a\u00b3.(-2b) + 6.a\u00b2.(-2b)\u00b2 + 4.a.(-2b)\u00b3 + (-2b)\u2074 = a\u2074 - 8a\u00b3b + 24a\u00b2b\u00b2 - 32ab\u00b3.<br><br>(-2x + 5y)\u2075 = (-2x)\u2075 + 5.(-2x)\u2074.(5y) + 10.(-2x)\u00b3.(5y)\u00b2 + 10.(-2x)\u00b2.(5y)\u00b3 + 5.(-2x).(5y)\u2074 + (5y)\u2075 = -32x\u2075 + 400x\u2074y - 2.000x\u00b3y\u00b2 + 5.000x\u00b2y\u00b3 - 6.250xy\u2074 + 3125y\u2075.<br><br>Semangat!",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-12x5-gt15y-2-23p48-2-2-4x-22-470",
+            "question": "1. 1/2x+5\u00a0&gt;15y\r\n2. 2/3p+4\u22648\r\n2.\u00a02-(4+x)\u2265-22",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1. 1/2x + 5 &gt; 15y<br>\u00a0\u00a0\u00a0 x + 5 &gt; 30 y<br>\u00a0\u00a0 x/y &gt; 30 - 5<br>\u00a0\u00a0 x/y &gt; 25<br>\u00a0 x &gt; 25y<br><br>2. 2/3p + 4 \u2264 8<br>\u00a0\u00a0 2/3p \u2264 8 - 4<br>\u00a0\u00a0 2/3p \u2264 4<br>\u00a0\u00a0 p \u2264 4 x 3/2<br>\u00a0\u00a0 p \u2264 6<br><br>2. 2 - (4 +x) \u2265 - 22<br>\u00a0\u00a0 2 (-4-x) \u2265 -22<br>\u00a0\u00a0 -8 - 2x \u2265 - 22<br>\u00a0\u00a0 -8 + 22 \u2265 2x<br>\u00a0\u00a0 14 \u2265 2x<br>\u00a0\u00a0 x \u2265 7<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "ubahlah-pertidaksamaan-linear-berikut-kedalam-permasalahan-sehari-703",
+            "question": "Ubahlah pertidaksamaan linear berikut kedalam permasalahan sehari-hari!\r\n2+3&gt;4",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span> 2 kali umur chiko ditambah 3\u00a0 adalah lebih dari 4 tahun<br></span><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "693",
+            "question": "",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "jadi 10+6=16<br><br>begitu saja kak jawabanyy<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "berapakah-angka-digit-terakhir-2012-pangkat-2012-730",
+            "question": "Berapakah angka digit terakhir 2012 pangkat 2012",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "setelah saya menggunakan calculate dalam scientific<br>hasil dari 2012 pangkat 2012 adalah<br>7933932191370620134491854225353e+6646<br><br>jadi digit terakhir adalah 6",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

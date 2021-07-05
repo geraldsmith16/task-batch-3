@@ -1,0 +1,146 @@
+{
+    "question": "tinggi badan andi kurang 3cm dari tinggi badan johan, sedangkan jumlah tinggi badan kedua orang tersebut 329 cm. berapakah tinggi badan masing - masing anak itu",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "misal tinggi badan andi = x - 3<br>johan = x\u00a0<br>x + ( x - 3 ) = 329<br>2x - 3 = 329<br>2x = 332<br>x = 166<br>johan = 166 cm\u00a0<br><br>andi = 166 - 3 = 163 cm\u00a0",
+            "attachments": []
+        },
+        {
+            "answer": "andi : 163cm johan :166cm",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "jika-pers-kuadrat-x2-m-3x-3m-1-0-mempunyai-satu-akar-r-799",
+            "question": "Jika pers kuadrat x\u00b2-(m+ 3)x+ (3m + 1) = 0\r\nmempunyai satu akar riil mka nilai m yg memenuhi ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "satu akar, jadi D=0<br>[tex]D=0\\\\\nb^2-4ac=0\\\\\n(m+3)^2-4(1)(3m+1)=0\\\\\nm^2+6m+9-12m-4=0\\\\\nm^2-6m+5=0\\\\\n(m-1)(m-5)=0\\\\\nm_1=1 \\ atau \\ m_2=5[/tex]<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Bentuk Umum Persamaan Kuadrat seperti ini<span>,\u00a0\u00a0dan a, b, c,</span>Dimana :x\u00a0adalah variabel persamaan kuadrata\u00a0adalah koefisien x kuadratb\u00a0adalah koefisien xc\u00a0adalah konstantaCara Menyelesaikan Persamaan Kuadrat<span>1) Mencari faktor<br><br>diuraikan menjadi\u00a0<br>cara pemfaktoran akan lebih mudah bila a = 1<br>maka kita bisa menebak x1 dan x2 dengan cara<br>a = 1<br>b = x1+x2<br>c = x1.x2</span><span>2) Memakai Rumus Kuadrat atau Rumus abc<br></span><span>3) Melengkapkan Kuadrat Sempurna<br>Bentuk umum persamaan kuadrat bebentuk kuadrat sempurna adalah :<br>\u00a0dengan q &gt; 0</span>Menentukan Jenis Akar-Akar Persamaan Kuadrat Jenis akar-akar persamaan kuadrat ditentukan oleh nilai deskriminan :<span><br>a. D &gt; 0 Kedua akar nyata dan berlainan,\u00a0</span><span>b. D = 0<br>Kedua akar nyata dan sama,\u00a0</span><span>c. D &lt;&gt; Kedua akar tidak nyata (imaginer)<br>d.\u00a0\u00a0dengan\u00a0<br>bilangan kuadrat sempurna, kedua akar rasional.</span><span>Untuk menghitung<span>\u00a0jumlah dan hasil kali akar-akar persamaan kuadrat</span>\u00a0, dapat dicari tanpa terlebih dahulu mencari akar-akarnya.</span><span>Dari rumus\u00a0\u00a0dan\u00a0</span><span>Dapat ditunjukkan bahwa:\u00a0</span><span>Rumus-rumus\u00a0Akar Persamaan Kuadrat hasil pengembangan, sering sekali muncul di soal UAN SNMPTN atau SPMB</span><span>Sifat-sifat Akar\u00a0Persamaan Kuadrat Jika\u00a0\u00a0dan\u00a0\u00a0adalah akar-akar persamaan kuadrat\u00a0\u00a0dengan\u00a0<br>maka berlaku sifat-sifat berikut ini :</span><span>a. Syarat mempunyai Dua Akar Positif<br></span><span>b. Syarat mempunyai Dua Akar Negatif<br><br>c. Syarat mempunyai Dua Akar Berlainan Tanda<br><br>d. Syarat mempunyai Dua Akar Berlawanan<br><br>e. Syarat mempunyai kedua akar berkebalikan<br></span><span>Cara menyusun Persamaan kuadratdari akar-akar x1 dan x2 yang diketahui</span><span>Persamaan kuadrat yang akar-akarnya\u00a0dan\u00a0\u00a0adalah :\u00a0</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jumlah-n-suku-pertama-suata-deret-artmetika-adalah-sn12n11-n-918",
+            "question": "Jumlah n suku pertama suata deret artmetika adalah Sn=1/2n(11-n).rumus sukuke-n adalah....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "rumus jumlah suku ke n = n/2(2a+(11-1)b)<br>jadi rumus suku ke n = a+(11-1)b<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-bola-jatuh-dari-ketinggian-8m-dan-memantul-kembali-dengan-827",
+            "question": "sebuah bola jatuh dari ketinggian 8m dan memantul kembali dengan ketinggian 3/5 kali tinggi sebelumnya. Pemantulan ini berlangsung terus menerus hingga bola berhenti. Berapakah jarak lintasan seluruhnya?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "stidak terhingga=8 per 1-3/5<br>=8 per 2/5<br>=20m<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "n(5+3)/(5-3) = 8(8)/2 = 64/2 = 32m<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "rumus-keliling-segitiga-apa-aku-lupa-hehehe-230",
+            "question": "Rumus keliling segitiga apa ? aku lupa hehehe",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "sisi 1 + sisi 2 + sisi 3\u00a0<br>jadi hanya tinggal menjumlahkan ketiga sisinya saja :)",
+                    "attachments": []
+                },
+                {
+                    "answer": "keliling =\u00a0sisi + sisi + sisi",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukanlah-suku-banyak-px-yang-memenuhi-persamaan-berikut-x2-151",
+            "question": "Tentukanlah suku banyak p(x) yang memenuhi persamaan berikut (x2 - 2x - 5)-p(x) = (3-2x)(5x-4)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "(x\u00b2 - 2x - 5) - p(x) = (3 - 2x) (5x - 4) <br>x\u00b2 - 2x - 5 - p(x) = 15x - 12 -10x\u00b2 + 8x <br>x\u00b2 - 2x - 5 - (15x - 12 - 10x\u00b2 + 8x) = p(x) <br>11x\u00b2 - 25x + 7 = p(x) <br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "x4-3x3-5x2x-6-x25x-2-917",
+            "question": "(x4-3x3- 5x2+x-6)\r\n : ( x2+5x-2)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "hasil pembagiannya x= -16648 dan x=42112<br>x4-3x3-5x+x-6 ;x2+5x-2<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "hitung-jumlah-bilangan-yg-habis-dibagi-3-tapi-tidak-habis-dibagi-361",
+            "question": "Hitung jumlah bilangan yg habis dibagi 3 tapi tidak habis dibagi 5. Dari 1-75\r\ntolong bantuuu u.u",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "3,6,9,12,18,21,24,27,33,36,39,42,48,51,54,57,63,66,69,72<br>berarti jumlah ada 20 bilangan yang habis dibagi 3 dan tidak habis dibagi 5",
+                    "attachments": []
+                },
+                {
+                    "answer": "3, 6.9.12,18,21,24,27,33,36,39,42,48,51,54,57,63,66,69,72<br><br>jadi ada 20",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jelaskan-turunan-fungsi-dari-1-2-900",
+            "question": "Jelaskan turunan fungsi dari :\r\n1.\u00a0\r\n2.\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]y=cosec(x)=\\frac{1}{sin(x)}\\\\\ny=(sin(x))^{-1}\\\\\ny&#039;=(-1)(sin(x))^{-1-1}.cos(x).(1)\\\\\ny&#039;=-(sin(x))^{-2}.cos(x)\\\\\ny&#039;=-\\frac{cos(x)}{(sin(x))^2)}\\\\\ny&#039;=-\\frac{cos(x)}{sin(x)}.\\frac{1}{sin(x)}\\\\\ny&#039;=-cot(x).cosec(x)\\\\\\\\\ny=x.sin(3x)\\\\\ny&#039;=(1)sin(3x)+x.cos(3x).(3)\\\\\ny&#039;=sin(3x)+3x.cos(3x)[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-f2x-3-4x-7-maka-nilai-dari-f17-f7-adalah-379",
+            "question": "Diketahui f(2x-3) = 4x - 7, maka nilai dari f(17) - f(7) adalah...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "f(2x-3)=4x-7<br>=(2x-3)+2x-4<br>=(2x-3)+(2x-3)-1<br>maka<br>f(x)= x+x-1<br>=2x-1<br><br>f(17)=2.17-1=33<br>f(7)=2.7-1=13<br>f(17)-f(7)=33-13=20<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "f(x) = 4(2x - 3) - 7<br>f(x) = 8x - 12 - 7<br>f(x) = 8x - 19<br>f(17) = 8(17) -19<br>\u00a0\u00a0 \u00a0 \u00a0 = 136 - 19\u00a0<br>\u00a0\u00a0 \u00a0 \u00a0 117<br>f(7) = 8(7) - 19<br>\u00a0\u00a0 \u00a0 = 56 - 19<br>\u00a0\u00a0 \u00a0 =37<br>jadi f(17) - f(7) = 117 - 37 = 80<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suatu-garis-melalui-titik-a-4-1-dan-b-2-3-gradien-ga-259",
+            "question": "Suatu garis melalui titik A(\u00a0-4, 1\u00a0) dan B( 2, -3 ).    Gradien garis tersebut adalah...\r\n\r\nA.\u00a0\u208b\r\nB.\u00a0\u208b\r\nC.\u00a0\r\nD.\u00a0\r\n\r\nsama cara mengerjakannya ya :)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "titik A (-4,1) maka x1 = -4 dan y1 = 1<br>titik B (2 , -3)\u00a0 maka x2 = 2 dan y2 = -3<br><br>gradien atau m = (y2 - y1) / (x2 - x1) = ( -3 - 1 ) / ( 2 - (-4) ) = -4/6 = -2/3<br><br>semoga membantu :)<br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

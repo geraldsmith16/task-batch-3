@@ -1,0 +1,130 @@
+{
+    "question": "silinder tipis berongga, silinder pejal, bola tipis berongga, dan bola pejal diletakkan diam dipuncak suatu bidang miring. semua benda tersebut memiliki masa dan jari jari sama. benda benda itu kemudian di bebaskan pada saat yang bersamaan. bagaimanakah urutan benda benda itu ketika mencapai dasar bidang?",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "BOLA PEJAL, SILINDER TIPIS BERONGGA, BOLA TIPIS BERONNGA LALU SILINDER PEJAL",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "1batang-logam-panjangnya-300cm-dipanaskan-dari-25derajat-c-hing-479",
+            "question": "1.)Batang logam panjangnya 300cm dipanaskan dari 25derajat C hingga 225derajat C mengalami pertambahan panjang sebesar 0,6cm.Berapa pertambahan batang logam yang sama dengan panjang 200cm dan dipanaskan dari 20derajat hingga suhu 320derajatC    2.)Sekeping alumunium panjangnya 40cm dan lebarnya 30cm dipanaskan dari 40derajat C sampai 140derajat C.Jika koefisien muai panjang aluminium adalah 2,5 x 10pangkat -5/derajat C,berapakah luas keping alumunium setelah dipanaskan\r\n3.)Besi berbentuk kubus pada suhu 20derajat C memiliki panjang rusuk 10cm.Kubus tersebut dipanaskan hingga suhu 220derajat C.berrapa volume kubus pada suhu 220 deraja C jika koefisien muai panjang besi 1,2 x 10pangkat 5 /derajat C",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1.)Batang logam panjangnya 300cm dipanaskan dari 25derajat C hingga 225derajat C mengalami pertambahan panjang sebesar 0,6cm.Berapa pertambahan batang logam yang sama dengan panjang 200cm dan dipanaskan dari 20derajat hingga suhu 320derajatC<br><br>panjang 1 mpanjang kedua \u00a03,006[tex]\\triangle T = 200[/tex]<br>alfanya [tex]n * 10^{-6}[/tex]\u00a0<br>[tex]L_2=L_1 (1+\\alpha(t_2-t_1))[/tex]<br><br>[tex]\\frac{0.006}{x}= (200)[/tex]<span>alpha = 0.006/200 = 0.00003<br></span><br>panjang besi berikutnya\u00a0<br><br>[tex]L_2=L_1 (1+\\alpha(t_2-t_1))[/tex]<br>[tex]L_2=2(1+0.00003(300))[/tex]<br>201.8 cm<br><br>2.)Sekeping alumunium panjangnya 40cm dan lebarnya 30cm dipanaskan dari 40derajat C sampai 140derajat C.Jika koefisien muai panjang aluminium adalah 2,5 x 10pangkat -5/derajat C,berapakah luas keping alumunium setelah dipanaskan<br><br>[tex]A_2=A_1 (1+\\alpha(t_2-t_1))[/tex]<br>[tex]A_2=1.2 (1+\\0.000025(100))[/tex]<br><br>3.)Besi berbentuk kubus pada suhu 20derajat C memiliki panjang rusuk 10cm.Kubus tersebut dipanaskan hingga suhu 220derajat C.berrapa volume kubus pada suhu 220 deraja C jika koefisien muai panjang besi 1,2 x 10pangkat 5 /derajat C<br><br>[tex]V_2=10 (1+0.000012(200))[/tex]<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "ada-yang-tau-rumus-rumus-gerak-melingkar-beraturan-359",
+            "question": "Ada yang tau rumus rumus GERAK MELINGKAR BERATURAN ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "rumus gerak melingkar beraturan adalah<br>v = 2\u03c0R/T \u00a0\u00a0atau \u00a0v = 2\u03c0Rf\u00a0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "kecepatan-pada-ayunan-524",
+            "question": "Kecepatan pada ayunan",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "V = A w cos wt<br>V = A 2phif cos 2phif t<br>V = A 2phi f : t cos 2phi :t t",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apakah-semua-jenis-gaya-menyebabkan-pertambahan-panjang-pegas-177",
+            "question": "Apakah semua jenis gaya menyebabkan pertambahan panjang pegas ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "belum tentu, liat massa jga kk...<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "semua gaya mempengaruhi pegas<br>tetapi gaya tarik menyebabkan pertambahan panjang,sedangkan gaya dorong atau tekan menyebabkan pemendekann pada pegas :)",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-kelajuan-sebuah-elektron-yang-memiliki-massa-tiga-kali-m-371",
+            "question": "Tentukan kelajuan sebuah elektron yang memiliki massa tiga kali massa diamnya!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "M=3M\u2080<br><br>M=M\u2080/[tex] \\sqrt{1 - V^2/C^2} [/tex]<br>3M\u2080=M\u2080/[tex] \\sqrt{1 - V^2/C^2} [/tex]<br>[tex] \\sqrt{1 - V^2/C^2} [/tex]=1/3<br>1 - V\u00b2/C\u00b2\u00a0= 1/9<br>9/9\u00a0- 1/9 = V\u00b2/C\u00b2<br>8/9C\u00b2 = V\u00b2<br>V = 2[tex] \\sqrt{2} [/tex]/3C",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "batang-logam-panjangnya-60cm-dan-luas-penampangnya-3cm-modulus-753",
+            "question": "batang logam panjangnya 60cm dan luas penampangnya 3cm . modulus elastisnya sebesar 4x10^{6}N/m . tentukan tetapan pertambahan panjang , dan tegangan batang saat diberi gaya 15N !",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Dik l = 60 cm = 0,6 m<br>\u00a0 \u00a0 \u00a0A = 3 cm = 0,0003 m^2<br>\u00a0 \u00a0 \u00a0E = 4x10^6<br>Dit F dan\u00a0\u0394l<br>jawab.<br><br>E =\u00a0[tex] \\frac{F.l}{A.l0-l1} [/tex]<br><br>E . A .\u00a0\u0394l = F . l<br>4x10^6 . 3x10^-4 .\u00a0\u0394l = F . 0,6<br>12x10^2 \u0394l = 0,6 F<br>\u0394l = 0,6F / 12x10^2<br>\u0394l\u00a0 = 5x10^-4F<br><br>F = k .\u00a0\u0394l atau E.A / l x\u00a0\u0394l<br>F = 12x10^2\u00a0\u0394l / 0,6<br>\u00a0 \u00a0= 2000\u00a0\u0394l<br><br><br><br>tegangan = F / A<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 2000\u00a0\u0394l / 3x10^-4<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 6 666 666 , 667\u00a0\u0394l N/m^2<br><br>semoga membantu :) D like<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-sebuah-gaya-tunggal-dengan-besar-10-n-bekerja-pada-benda-ber-728",
+            "question": "1. sebuah gaya tunggal dengan besar 10 N bekerja pada\u00a0benda\u00a0bermassa m. benda bergerak dari keadaan diam waktu 6 sekon. massa benda tersebut adalah...\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "10 N/6 sekon = 1,67\u00a0<br>maaf yah klo kurang benar....<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "diket : gaya ( N) :10 N<br>\u00a0 \u00a0 \u00a0 \u00a0 : perpindahan jarak ( S ) : 6<br>ditanya : massa benda ( M):....?\u00a0<br>dijawab:<br>W = m\u00a0X g\u00a0<br>\u00a0 \u00a0 = 10N\u00a0X\u00a06 sekon\u00a0<br>\u00a0 \u00a0\u00a0= \u00a060\u00a0<br><br>maaf banget klo jwbnya slh ya ,aq ja ngrjainnya lupa rmsnnya klo ndak slh\u00a0<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apa-gunanya-kaca-spion-cembung-dan-datar-321",
+            "question": "Apa gunanya kaca spion cembung dan datar",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "kalau kaca spion itu pasti cembung. ga ada lah kalu kaca spion datar. tjuan kaca spion dibuat cermin cembung agar pengendara dapat lebih luas melihat kendaraan di belakang nya. sesuai dengan salah satu prinsip sifat kca cembung yaitu <strong>\"bayangan diperkecil\"</strong><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-kotak-yg-massanya-10-kg-mula-mula-diam-kemudian-bergerak-550",
+            "question": "Sebuah kotak yg massanya 10 kg mula-mula diam, kemudian bergerak turun pada bidang miring yg membuat sudut 30 derajat terhadap arah horizontal tanpa gesekan dan menempuh jarak 10 m sebelum sampai ke bidang mendatar. kecepatan kotak pada akhir bidang miring jika percepatan gravitasi bumi g=9,8 m/s kuadrat adalah...    tolong dibantu ya?? :) makasi..",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex] \\frac{h}{s} [/tex] = sin 30<br>[tex] \\frac{h}{s} [/tex] = <u></u>[tex] \\frac{1}{2} [/tex]<br>h = [tex] \\frac{s}{2} [/tex]<br>h = [tex] \\frac{10}{2} [/tex]<br>h = 5 <br><br>v = [tex] \\sqrt{2gh} [/tex]<br>v = [tex] \\sqrt{2.9,8.5} [/tex]<br>v = [tex] \\sqrt{98} [/tex]<br>v = [tex] \\sqrt{49.2} [/tex]<br>v = [tex] 7\\sqrt{2} [/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-baterai-dihubungkan-dengan-sebuah-resistor-akan-menghasilk-862",
+            "question": "Sebuah baterai dihubungkan dengan sebuah resistor akan menghasilkan arus 0,6 ampere. Jika pada rangkaian tersebut ditambahkan sebuah resistor 4,0 ohm yang dihubungkan seri dengan resistor pertama maka arus akan turun menjadi 0,5 ampere. Gaya gerak listrik (ggl) baterai (dalam volt) adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "v=I.R (sebelum ditambah resistor) <br>v=0.6R1 <br>v=I total ( R1 + R2 ) (setelah ditambah resistor ) <br>nah lalu substitusi <br>I R1 = I total . (R1+R2)<br>0.6R1=0.5 . ( R1 + 4) <br>0.6R1 - 0.5R1 =2<br>0.1R1=2 <br>R1=20ohm ==&gt; V=IR <br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 V=0.6x20 = 12volt <br>maaf kalau ada salah <br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

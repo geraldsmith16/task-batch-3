@@ -1,0 +1,134 @@
+{
+    "question": "Tentukan suku pertama, beda, dan U20. jika U8=10 dan U12=26",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "beda = 26 - 10 per 12 - 8 = 16 per 4 = 4.<br>suku pertama = 10-4-4-4-4-4-4-4 = -18<br>semoga membantu :))<br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "sisa-pembagian-suku-banyak-x4ax23xb-oleh-x2-2x-3-adal-758",
+            "question": "sisa pembagian suku banyak x^{4}+ax^{2}+3x+b oleh x^{2}-2x-3 adalah 2x-4. tentukan nilai a dan b. \u00a0mohon bantuannya ..",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]x^2-2x-3=(x-3)(x+1)\\\\\nf(x)=x^4+ax^2+3x+b\\\\\nf(3)=3^4+a(3)^2+3(3)+b=2(3)-4\\\\\nf(3)=81+9a+9+b=2\\\\\nf(3)=9a+b=-88\\\\\\\\\nf(-1)=(-1)^4+a(-1)^2+3(-1)+b=2(-1)-4\\\\\nf(-1)=1+a-3+b=-6\\\\\nf(-1)=a+b=-4\\\\\\\\\neliminasi f(3)\\ dan\\ f(-1)\\\\\nf(3)=9a+b=-88\\\\\nf(-1)=a+b=-4\\\\\n8a=-84 \\rightarrow a=-\\frac{21}{2}\\\\\na+b=-4 \\rightarrow -\\frac{21}{2}\\\\+b=-4 \\rightarrow b=\\frac{13}{2}[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-y-2-cos-x-1-dari-030609012015018021024-743",
+            "question": "Tentukan\u00a0\r\ny = 2 cos x + 1\u00a0\r\ndari : 0,30,60,90,120,150,180,210,240,270,300,330,360 \u00a0(derajat)\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "2 cos x+1=0<br>2cos x=-1<br>cos x = - 1/2<br>cos yang bernilai 1/2 adalah 60 secara umum<br>diketahui dari soal nilainya minus berarti di kuadran 2 dan 3<br><br>yaitu 120 dan 240",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jawablah-pertanyaan-berikut-ini-dengan-benar-4-diketahui-pernyat-491",
+            "question": "Jawablah pertanyaan berikut ini dengan benar    4. Diketahui pernyataan-pernyataan:\r\n\u00a0\u00a0 p : Hari ini hujan deras\r\n\u00a0\u00a0 q : Hari ini berangin kencang.\r\n\u00a0\u00a0 Tentukan pernyataan-pernyataan majemuk yang dinyatakan dengan notasi berikut ini.\r\n\u00a0\u00a0 a. p ^ q\r\n\u00a0\u00a0 b. q ^ p\r\n\u00a0\u00a0 c. ~p ^ q\r\n\u00a0\u00a0 d. ~(p ^ q)\r\n\u00a0\u00a0 e. ~(p ^ ~q)\r\n\u00a0\u00a0 Jawabanya :\r\n\r\ntolong jawab secepatnya\r\n\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a.hari ini hujan deras dan hari ini berangin kencang<br>b.hari ini berangin kencang dan hari ini hujan deras<br>c.hari ini tidak hujan deras dan hari ini berangin kencang<br>yang d sama e nunggu komentar dari orang lain aja ya :)<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "a. hari ini hujan deras dan berangin kencang<br>b. hari ini berangin kencang dan hujan deras<br>c. hari ini tidak hujan deras dan berangin kencang<br>d. hari ini tidak hujan deras atau tidak berangin kencang<br>e. hari ini tidak hujan deras atau berangin kencang<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-ab-dan-c-adl-sudut2-pda-sebuah-segtiga-dan-nilai-dari-tan-367",
+            "question": "jika A,B, dan C adl sudut2 pda sebuah segtiga dan nilai dari tan A = 4, tan B = 3, maka nilai dari tan C=.......?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]A,\\ B\\ dan\\ C\\ merupakan\\ sudut2\\ dlm\\ segitiga,\\ maka\\\\\nA+B+C=180^{o}\\\\\nA+B=180^{o}-C\\\\\nTan(A+B)=Tan(180^{o}-C)\\\\\n\\frac{Tan A+Tan B}{1-TanATanB}=-TanC\\\\\n\\frac{4+3}{1-4(3)}=-TanC\\\\\n\\frac{7}{-11}=-TanC\\\\\nTanC=\\frac{7}{11}\n[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dengan-berjalan-kaki-askar-memerlukan-waktu-6-menit-untuk-sampai-824",
+            "question": "Dengan berjalan kaki, askar memerlukan waktu 6 menit untuk sampai ke kampusnya. jarak antara rumah dan kampus 5/8 km. berapa kecepatan rata-rata askar berjalan?    dengan caranya ya",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "6 menit= 360 s<br>5/8 : 360<br>= 1800m/28 s",
+                    "attachments": []
+                },
+                {
+                    "answer": "6 menit = 360 s<br>5/8 km = 625 m<br>k = j/w<br>\u00a0 = 625/360<br>\u00a0\u00a0 = 1,74m/s<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1suku-ke-2-dan-suku-ke-5-dari-barisan-geometri-adalah-12dan-49-617",
+            "question": "1.suku ke-2 dan suku ke-5 dari barisan geometri adalah 12dan 4/9 tentukan rumus suku ke -n besarnya suku ke-4     2.tiga bilangan membentuk barisan geometri jumlah ketiga bilangan tersebut adalah 14 dan hasil kalinya 64 tentukan ketiga bilangan",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "U2=12 &lt;=&gt; ar = 12 \u00a0 \u00a0 ....1<br>U5 = 4/9&lt;=&gt; ar^4= 4/9....2<br>1 dan 2 didapat r\u00b3 = 4/(12x 9 \u00a0= 1/27 jadi r = 1/3 dan a = 36<br>Un = ar^(n-1) = \u00a036 (1/3)^(n-1)",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "hitung-jumlah-bilangan-yg-habis-dibagi-3-tapi-tidak-habis-dibagi-361",
+            "question": "Hitung jumlah bilangan yg habis dibagi 3 tapi tidak habis dibagi 5. Dari 1-75\r\ntolong bantuuu u.u",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "3,6,9,12,18,21,24,27,33,36,39,42,48,51,54,57,63,66,69,72<br>berarti jumlah ada 20 bilangan yang habis dibagi 3 dan tidak habis dibagi 5",
+                    "attachments": []
+                },
+                {
+                    "answer": "3, 6.9.12,18,21,24,27,33,36,39,42,48,51,54,57,63,66,69,72<br><br>jadi ada 20",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tuliskan-persamaan-x-y3-258",
+            "question": "Tuliskan persamaan {x-y=3}    \u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 {3x-2y=16} dalam bentukan matriks , lalu tentukan nilai 2x+5y",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "x - y = 3<br>3x -2y = 16<br><br>2x - 2y = 6<br><u>3x - 2y = 16</u> _<br><u></u>-x\u00a0 \u00a0 \u00a0 \u00a0 = -10<br><br>10 - y = 3<br>\u00a0\u00a0 \u00a0\u00a0 y = 7<br><br>2x +5y =<br>2*10 + 5*7 = 55<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-13-11-9-un-1800-tentukan-banyak-suku-dere-197",
+            "question": "Jika : 13 + 11 + 9 +...... + Un = -1800\r\ntentukan banyak suku deret tersebut ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "cari dlu rumus suku ke-n atau Un<br>Un = (a +(n-1)b) = 13 +(n-1)-2 = 15 - 2n<br>kemudian masukkan rumus jumlah sukuk ke- n atau Sn<br>Sn= n/2(a + Un)<br>-1800=n/2(13 + 15 - 2n)<br>-1800=(28n - 2n^2)/2<br>-3600 = 28n - 2n^2 \u00a0 \u00a0 \u00a0 (pindahkan semua yang di ruas kanan ke ruas kiri)<br>2n^2 - 28n -3600 = 0 \u00a0 \u00a0 (bagi 2 kedua ruas)<br>n^2 - 14n -1800 = 0 \u00a0 \u00a0 \u00a0 \u00a0 (faktorkan)<br>(n-50)(n+36) = 0<br>n = 50 atau -36<br><br>jawabannya n adalah 50, karena harus bernilai positif, atau syarat di atas adalah n= bil . asli<br>(coba saja bayangkan apakah ada suku ke -36??) yang ada adalah suku ke 50,\u00a0<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "seorang-pemilik-kebun-memetik-apel-setiap-hari-nya-dan-mencatat-132",
+            "question": "Seorang pemilik kebun , memetik apel setiap hari nya dan mencatatnya , banyak apel yang di petik pada hari ke-n adalah Un=80+20n .    Tentukan banyak nya apel yg di petik dalam satu minggu beserta langkah2 nya.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "seminggu = 7 hari<br>U1 = 80+20(1) = 100<br>U7 = 80+20(7) = 80+140 = 220<br><br>Sn = n/2 (U1 + Un)<br>S7 = 7/2 (100 +220)<br>S7 = 7/2 (320)<br>S7 = 1120<br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

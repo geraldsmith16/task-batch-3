@@ -1,0 +1,144 @@
+{
+    "question": "dua pegas identik memiliki kostanta gaya 400N/m apabila kedua pegas tersebut disusun secara paralel,maka besarnya gaya yang dubutuhkan untuk menarik pegas sehingga bertambah panjang sebesar 5cm adalah...",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "5 cm = 0,05 m<br>k = F/delta l<br>400 = F/0,05<br>400 X 0,05 =F<br>20 N = F<br><br>Jadi, gaya yang diperlukan adalah 20 N<br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "apa-yang-mempengaruhi-elastisitas-sebuah-bahan-526",
+            "question": "Apa yang mempengaruhi elastisitas sebuah bahan ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "faktor yang utama adalah struktur penyusunnya . maaf kalo salah",
+                    "attachments": []
+                },
+                {
+                    "answer": "Bahan tersebut elastisitasnya dipengaruhi oleh gaya potensial yg terkandung pd bahan tsb serta bahan penyusun atau strukturnya .",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-balok-dengan-masa-2kg-mula-mula-diam-terletak-di-atas-bida-543",
+            "question": "sebuah balok dengan masa 2kg mula mula diam terletak di atas bidang datar licin kemudian di dorong dengan sebuah gaya konstan mendatar sebesar F1=8N. setelah 3 s, F2= 8N dikerjakan pada benda dgn arah berlawanan dgn F1. besar perpindahan benda setelah 4 s pertama adalah?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Jawaban berupa lampiran",
+                    "attachments": [
+                        "answer-attachments/sebuah-balok-dengan-masa-2kg-mula-mula-diam-terletak-di-atas-bida-543-1.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-tongkat-homogen-sepanjang-50-cm-bermasa-4-kg-pada-salah-sa-611",
+            "question": "sebuah tongkat homogen sepanjang 50 cm bermasa 4 kg pada salah satu ujung tongkat diberi beban ,sedangkan ujung tongkat lainnya sebagai tumpuan .jika f= 200 N Momen gaya pada titik O adalah......N.m\u00a0\u00a0\u00a0\u00a0 (g=9.8 m/s2)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "momen inersia terhadap batang = <span><span>1/12m.l kuadrat + m(1/2) kuadrat = 1/3 ml kuadrat</span></span><br><br><br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span>tinggal di masukkin nilainya<br>sepertinya itu</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pada-titik-titik-sudut-abc-dan-d-sebuah-persegi-abcd-dengan-pan-854",
+            "question": "Pada titik-titik sudut A,B,C dan D sebuah persegi ABCD dengan panjang a ditempatkan muatan berturut-turut +q, -q, -q, dan -q. akibatnya muatan +q mengalami resultan gaya dari muatan lain sebesar ( q^/ (4\u03c0    a^2) x. nilai x adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "benda mengalami resultan gaya istrik bersudut 90 derajat. Sehingga mendapatkan rumus F=\u221a(Fab\u00b2 tambah Fad\u00b2)<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 =\u221a((k.q.q/r\u00b2)\u00b2 ditambah\u00a0(k.q.q/r\u00b2)\u00b2)<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 =\u221a2.(k.q.q/r\u00b2)\u00b2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 =k.q.q/r\u00b2.\u221a2<br><br>(q kuadrat per 4 phi epsilon a kuadrat)x=k.q\u00b2/a\u00b2.\u221a2<br>sehingga nilai x adalah \u00a0\u221a2 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "rumus-berat-dalam-fisika-386",
+            "question": "Rumus berat dalam fisika?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "W = m . g<br><br>m = massa \u00a0(kg)<br>g \u00a0= gravitasi \u00a0(m/s\u00b2 )<br>W = berat (N)",
+                    "attachments": []
+                },
+                {
+                    "answer": "yang dimaksud berat kan? w = m x g, massa x gravitasi",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-roda-pejal-massanya-45-kg-dengan-jari-jari-15-m-berada-p-988",
+            "question": "sebuah roda pejal massanya 4,5 kg dengan jari-jari 1,5 m berada pada lantai kasar melalui sumbunya roda tersebut ditarik dengan gaya 20N, sehingga roda menggelinding pada arah mendatar pada saat 15s tentukan energi kinetik totalnya?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "900 kah jawabnnya ???",
+                    "attachments": []
+                },
+                {
+                    "answer": "energi kinetik total dari sebuah roda pejal yaitu 900",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-bola-pejal-i25-mrpngkat-2-bertranslasi-dan-berotasi-957",
+            "question": "sebuah bola pejal (I=2/5 mR[pngkat 2 ) bertranslasi dan berotasi dengan kecepatan linear dan kecepatan sudut v dan w. tentukan energi kinetik total bola pejal tsb",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "EkRotasi : 1/2 M.V^2 + 1/2 . I . W^2<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bagaimanakah-momentum-benda-sebelum-dan-sesudah-tumbukan-218",
+            "question": "Bagaimanakah momentum benda sebelum dan sesudah tumbukan ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Berdasarkan hukum kekekalan momentum,\"jika tidak ada gaya luar yang bekerja pada benda,maka jumlah momentum sebelum tumbukan = jumlah momentum setelah tumbukan\"",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sifat-sifat-resonansi-427",
+            "question": "Sifat-sifat resonansi ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Dapat dituliskan dalam beberapa struktur Lewis yang disebut dengan struktur resonan. Tetapi tidak satupun struktur tersebut melambangkan bentuk asli molekul yang bersangkutan.Di antara struktur yang saling beresonansi bukanlah isomer. Perbedaan antar struktur hanyalah pada posisi elektron, bukan posisi inti.Masing-masing struktur Lewis harus mempunyai jumlah elektron valensi dan elektron tak berpasangan. yang sama.Ikatan yang mempunyai orde ikatan yang berbeda pada masing-masing struktur tidak mempunyai panjang ikatan yang khas.Struktur yang sebenarnya mempunyai energi yang lebih rendah dibandingkan energi masing-masing struktur resonan.",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "ketika-seorang-penjinak-singa-melecutkan-cambuknya-cambuk-itu-men-367",
+            "question": "Ketika seorang penjinak singa melecutkan cambuknya cambuk itu mengeluarkan \"ledakan\" sangat keras.akan tetapi ia tidak memukul sang singa,dan ujungnya pun tidak menyentuh tanah. apa yaang membuat cambuk itu berbunyi ??    Jelaskan..",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "gesekan antara tali cambuk yang kuat dan lentur dengan angin yang didorong oleh gaya yang juga besar, sehingga gerakan menjadi cepat dan suara cambuk pun terdengar.",
+                    "attachments": []
+                },
+                {
+                    "answer": "gesekan antara cambuk dengan angin<br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

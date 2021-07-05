@@ -1,0 +1,134 @@
+{
+    "question": "sebuah fungsi kuadrat mempunyai nilai maksimum -3 pada saat x = 2, sedangkan untuk x = -2 fungsi bernilai -11. Tentukan fungsi kuadrat tersebut.",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "f(x) = 2xkuadrat + 2x - 15",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "diketahui-jumlah-10-suku-pertama-barisan-aritmatika-adalah-1255-473",
+            "question": "diketahui jumlah 10 suku pertama barisan aritmatika adalah 1255, jika bedanya 6. tentukanlah suku pertama dan rumus suku ke-n?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "U1 + U2 +..... + U10 = 10U1 + (1\u00a0+\u00a02\u00a0+ 3 + 4 + 5 + 6 + 7 + 8 + 9)b =1225<br><br>10U1 + 45.6 = 1255<br>10U1 +\u00a0270 = 1255<br>10U1 = 985<br>U1 = 98,5<br><br>Un = U1 + (n-1)b<br>Un = 98,5 + (n-1)6<br>Un = 98,5 + 6n -\u00a06<br>Un = 6n + 92,5",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "910-45-4-34-2-25-755",
+            "question": "9/10-4/5=\r\n4 3/4-2 2/5=",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a .9/10-4/5= 9/10 - 8/10 =1/10<br>b .<span>4 3/4-2 2/5= 4 15/20 -2 8/20 =2 7/20</span><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "1. \u00a0 \u00a0  9/10-4/5= 9/10-8/10=1/10<br><br><br><br>2.\u00a0 \u00a0 \u00a0  4 3/4-2 2/5= 4 15/20-2 8/20=2 7/20<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jelaskan-turunan-fungsi-dari-1-2-900",
+            "question": "Jelaskan turunan fungsi dari :\r\n1.\u00a0\r\n2.\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]y=cosec(x)=\\frac{1}{sin(x)}\\\\\ny=(sin(x))^{-1}\\\\\ny&#039;=(-1)(sin(x))^{-1-1}.cos(x).(1)\\\\\ny&#039;=-(sin(x))^{-2}.cos(x)\\\\\ny&#039;=-\\frac{cos(x)}{(sin(x))^2)}\\\\\ny&#039;=-\\frac{cos(x)}{sin(x)}.\\frac{1}{sin(x)}\\\\\ny&#039;=-cot(x).cosec(x)\\\\\\\\\ny=x.sin(3x)\\\\\ny&#039;=(1)sin(3x)+x.cos(3x).(3)\\\\\ny&#039;=sin(3x)+3x.cos(3x)[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "75x25x05-hasil-pangkat-56-adalah-301",
+            "question": "75x25x0+5=\r\nhasil pangkat 56 adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "72 . 25 . 0 + 5 = hasil pangkat 56<br>0+5 = hasil pangkat 56<br>hasil sama dengan 5<br>kalau soalnya hasilnya harus di pangkat 56 lagi maka<br>hasil akhir = 5 pangkat 56\u00a0<br><br>tapi kalo maskudnya bukan seperti itu,maka hasilnya tetap 5 :)<br>karna tidak ada variabel disana yang harus dicari nilainya :)",
+                    "attachments": []
+                },
+                {
+                    "answer": "Maaf mungkin bisa di cek lagi soalnya,,karena hasil penghitungan 75x25x0+5 itu kalo dalam matematika bisa di tafsirkan (75x25x0)+5=5,,atau mungkin 75x25x(0+5)=9375<br>mungkin perlu di perjelas lagi cara penulisannya,,terima kasih<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-3log-2-x-dan-2log-5y-nilai-5log-15-beserta-car-876",
+            "question": "Diketahui\u00a03log 2 = x dan\u00a0\r\n 2log 5=y. Nilai 5log 15 =\r\n\r\n\r\nBeserta caranya ya",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "3log2= x , diubah jadi 2log3=1/x<br>2log5=y<br><br>5log15 = 2log15 / 2log5<br>= 2log 3 x 2log5 / 2log5<br>= 1/x + y / y<br>= ( y + xy /xy) / y<br>= y + xy / y(xy)<br>= y + xy / xy^2<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "akar-akar-pk-2x2-2x-1-0-adalah-alfa-dan-beta-hitunglah-310",
+            "question": "Akar - akar PK 2x^2 + 2x + 1 = 0 adalah alfa dan beta.\r\nhitunglah : 1/alfa^2 + 1/beta^2",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]2x^2+2x+1=0\\\\\n\\frac{1}{ \\alpha ^2}+\\frac{1}{ \\beta ^2}=\\frac{\\beta ^2+\\alpha ^2}{ \\alpha ^2\\beta ^2}\\\\\n\\frac{1}{ \\alpha ^2}+\\frac{1}{ \\beta ^2}=\\frac{(\\alpha +\\beta )^2-2\\alpha \\beta}{ (\\alpha \\beta )^2}\\\\\n\\frac{1}{ \\alpha ^2}+\\frac{1}{ \\beta ^2}=\\frac{(-\\frac{2}{2} )^2-2(\\frac{1}{2})}{ (\\frac{1}{2})^2}\\\\\n\\frac{1}{ \\alpha ^2}+\\frac{1}{ \\beta ^2}=\\frac{1-1}{\\frac{1}{4}}\\\\\n\\frac{1}{ \\alpha ^2}+\\frac{1}{ \\beta ^2}=0[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pemecahan-masalah-berkaitan-dengan-persaman-kuadrat-soal-misalk-217",
+            "question": "Pemecahan masalah berkaitan dengan persaman kuadrat. Soal: misalkan anda berencana memagari taman berbentuk persegi panjang disamping tembok rumahmu,dgn menggunakan pagar ketiga sisinya. Anggap anda mempunyai pagar sepanjang 48m dan ingin menciptakan sebuah kamar seluas 160m2.    A) tulislah suatu pernyataan untuk panjang taman\r\n B) buatlah model matematika yg terkait dgn persamaan kuadrat,kemudian selesaikanlah.\r\n C) berapa ukuran taman ini seharusnya?\r\n Tolong dijabarkan ya:)terimakasih..",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "panjang,agak lama gak papa?<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "gimana-cara-faktorin-persamaan-pangkat-3-548",
+            "question": "gimana cara faktorin persamaan pangkat 3?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "pake cara horner <br>3 | 1\u00a0 \u00a0\u00a0 -6 \u00a0 \u00a0 \u00a0 -9 \u00a0\u00a0 \u00a0  54 <br>\u00a0\u00a0 |_____3____-9___-54____ <br>\u00a0\u00a0 \u00a0 1\u00a0 \u00a0  -3\u00a0 \u00a0 \u00a0 \u00a0 -18\u00a0 \u00a0  0 <br>\u00a0\u00a0 \u00a0 x\u00b2 -3x - 18 = (x - 6) (x + 3) <br>jadi didapat faktornya adalah <br>(x - 3) (x + 3) (x - 6) <br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "hasil-dari-7log8-x-2log9-x-3log17-816",
+            "question": "Hasil dari \u2077log8 x\u00a0\u00b2log9 x\u00a0\u00b3log1/7",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "soal itu \u00a0bisa kamu sama dengankan 2.2log3 * -1.3log7 * 3.7log2. sehingga menjadi 2 * -1 * 3 = -6 :)\u00a0<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jawablah-pertanyaan-berikut-ini-dengan-benar-4-diketahui-pernyat-491",
+            "question": "Jawablah pertanyaan berikut ini dengan benar    4. Diketahui pernyataan-pernyataan:\r\n\u00a0\u00a0 p : Hari ini hujan deras\r\n\u00a0\u00a0 q : Hari ini berangin kencang.\r\n\u00a0\u00a0 Tentukan pernyataan-pernyataan majemuk yang dinyatakan dengan notasi berikut ini.\r\n\u00a0\u00a0 a. p ^ q\r\n\u00a0\u00a0 b. q ^ p\r\n\u00a0\u00a0 c. ~p ^ q\r\n\u00a0\u00a0 d. ~(p ^ q)\r\n\u00a0\u00a0 e. ~(p ^ ~q)\r\n\u00a0\u00a0 Jawabanya :\r\n\r\ntolong jawab secepatnya\r\n\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a.hari ini hujan deras dan hari ini berangin kencang<br>b.hari ini berangin kencang dan hari ini hujan deras<br>c.hari ini tidak hujan deras dan hari ini berangin kencang<br>yang d sama e nunggu komentar dari orang lain aja ya :)<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "a. hari ini hujan deras dan berangin kencang<br>b. hari ini berangin kencang dan hujan deras<br>c. hari ini tidak hujan deras dan berangin kencang<br>d. hari ini tidak hujan deras atau tidak berangin kencang<br>e. hari ini tidak hujan deras atau berangin kencang<br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,138 @@
+{
+    "question": "Bentuk Sederhana dari (4a)-\u00b2 \u00d7 (2a)\u00b3 =\r\n\r\n\r\ntolong jelaskan secara detail, lagi pemula ni..?!",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "4^-2 . a^-2 .2^3 . a ^3<br>1/4^2 .8 . a^(-2)+3<br>1/16 . 8 . a^1<br>16 sama 8 nya sama2 bisa dibagi 8. jadi coret<br>1/2a atau 2^-1a<br><br>^= dibaca pangkat yaa<br>soalnya darisini gabisa di superscript",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "tentukan-rumus-invers-dr-fungsi-brikut-a-fxx-3-b-fx2x5-436",
+            "question": "Tentukan rumus invers dr fungsi\" brikut:    a. f(x)=x-3\r\nb. f(x)=2x+5\r\nc. f(x)=2-seperdua x\r\nd. f(x)=x3\r\ne. f(x)= 6per x, tidak sama dengan 0\r\nf). f(x)= 2 per x-1, x tidak sama dengan 1\r\ng). f(x)=2x-3 per 4x-1, xtidak sama dengan seperempat\r\nh). f(x)= 3x+5 per x-5, x-5 tidak sama dengan 0.\r\nthanks bg yang bs jwb.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "perhatikan caranya : f(x) = x+ 3<br>&lt;=&gt; y = x + 3<br>&lt;=&gt; x = y - 3<br>&lt;=&gt; finvers(y) = y - 3\u00a0<br>jadi finvers (x) = x - 3 \u00a0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "barisan-geometri-u3-12-dan-u696-s4-350",
+            "question": "Barisan Geometri. U3= 12, dan U6=96. S4. . . ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "u6 = 96 = rumus\u00a0 ar^n-1<br>u3 = 12 <br>s4 ?<br><br>u6 = ar^5\u00a0 u3 = ar^2<br>96 = ar^5\u00a0 12 = ar^2<br><br>r = 6-3\u221a96/12 = \u221b8 = 2<br>S4 = u3 x r<br>\u00a0\u00a0 \u00a0 = 12 x 2 = 24<br>S4 = 3 + 6 + 12 + 24 = 45<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "U3 = 12<br>U6 = 96<br>dit : S4<br><br>U6 = U3 . rrr<br>96 = 12 . rrr<br>rrr = 8<br>r = 2<br><br>S4 = 3 + 6 + 12 + 24 = 45",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "5-sin-a-cos-a-4-sin-a-3-cos-a-tentukan-nilai-a-dengan-kis-323",
+            "question": "5 (sin A - cos A) = 4 sin A - 3 cos A\r\n\r\nTentukan nilai A dengan kisaran 0-360 derajat",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "5(sin A - cos A) = 4 sin A -3 cos A<br>5 sin A - 5 cos A = 4 sin A - 3 cos A<br>2 cos A = sin A<br>A = 2 (\u03c0n + tan^-1(1/2(-1-\u221a5)))<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-barisan-5-8-11125-punya-suku-tengah-ut-maka-t-ut-310",
+            "question": "Jika barisan 5, 8, 11........125 punya suku tengah Ut maka t + Ut adalah    mnta tolong yha kl ada yg bsa bntuin\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a= 1, Un=131<br>\u00a0Ut= 1/2(a+ Un)<br>\u00a0\u00a0\u00a0 =1/2(5+131)<br>\u00a0\u00a0\u00a0 =1/2(136)<br>\u00a0\u00a0\u00a0 = 68<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "rata-rata-berat-badan-apri-danbambang-49-kg-rata-rata-apri-dan-489",
+            "question": "Rata-rata berat badan Apri danBambang 49 kg . Rata-rata apri dan cici 47 kg sedangkan rata-rata b ambang dan Cici 48 kg . Berapakah rata-rata berat bambang apri ,bambang dan cici .??\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "apri = x<br>bambang = y<br>cici = z<br><br>x+y = 98<br>x+z = 94<br>y+z= 96<br><br>x+y= 98<br><u>x+z = 94</u> -<br>y-z= 4<br><br>y+z= 96<br><u>y-z= 4</u> -<br>2z = 92<br>z= 46<br><br>y+z = 96<br>y+46=96<br>y= 40<br><br>x+y= 98<br>x+40=98<br>x= 48<br><br>(46+48+40) : 3 =45 kg<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "perbandingan-berbalik-nilaiharga-2-sabun-mandi-seharga-rp3500-172",
+            "question": "perbandingan berbalik nilai:Harga 2 sabun mandi seharga Rp.3.500,00.Berapakah harga 3,5 lusin sabun mandi?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "42buah:2=21<br>21x3500=73500",
+                    "attachments": []
+                },
+                {
+                    "answer": "3,5 lusin = 42 buah<br>42 / 2 = 21\u00a0<br>harga = 21\u00a0\u00d7 3.500 = 73.500",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "faktor-dari-688",
+            "question": "Faktor dari\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex] x^{2} +2x-48\n[/tex]<br>(x+8)(x-6)<br>x=-8 x=6<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "(X+8)(X-6)+0..<br>tu dia ....<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suku-suku-barisan-geometri-tak-hingga-adalah-positif-jumlah-u1-550",
+            "question": "Suku suku barisan geometri tak hingga adalah positif ,jumlah u1 + u2 =60,dan u3 + u4 =15,tentukan jumlah suku barisan itu , plissss",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "U1+U2=60\u21d2a+ar=60<br>U3+U4=15\u21d2ar\u00b2+ar\u00b3=15<br><u>a+ar=60</u><br>ar\u00b2+ar\u00b3=15<br><u>a+ar\u00a0\u00a0 =60</u> (di coret a+ar)<br>r\u00b2(a+ar)=15<br>1/r\u00b2=4<br>r=1/2<br>nilai a:<br>a+ar=60\u21d4a+1/a=60<br>\u21d43/2 a=60<br>\u21d4a=40<br>untuk deret tak hingga -1&lt;r&lt;1 maka <br>Sn=a/1-r=40/1-0,5=80<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "permisiii-mohon-tanya-ada-yang-tau-hasil-ini-gag-saya-kura-347",
+            "question": "Permisiii mohon tanya, ada yang tau hasil ini gag ???    \u00a0saya kurang faham niii, mahon bantuannya ya :) \r\n\u00a0(9p\u00b2.q\u207b\u00b3)\u2074(27p\u2074.q\u207b\u00b2)\u207b\u00b3",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "243 p^\u00a0-4 + 9p^8\u00a0q^6 + 243 p^ -12 q^-12 + q^-6 (ket. : ^= pangkat)",
+                    "attachments": []
+                },
+                {
+                    "answer": "[tex](9p^2q^{-3})^4(27p^4q^{-2})^{-3}\\\\\n=(3^2p^2q^{-3})^4(3^3p^4q^{-2})^{-3}\\\\\n=3^8p^8q^{-12}(3^{-9}p^{-12}q^{6})\\\\\n=3^{8-9}p^{8-12}q^{-12+6}\\\\\n=3^{-1}p^{-4}q^{-6}\\\\\n=\\frac{1}{3p^4q^6}\\\\[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "3-310-710-34-13-45-34-407",
+            "question": "3 3/10- 7/10=\r\n3/4-1/3=\r\n4/5-3/4=",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "3\u00a0 3/10 - 7/4 = 26/10 = 2\u00a0 6/10 = 2\u00a0 3/5<br>3/4 - 1/3 = 5/12<br>4/5 - 3/4 = 1/20<br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

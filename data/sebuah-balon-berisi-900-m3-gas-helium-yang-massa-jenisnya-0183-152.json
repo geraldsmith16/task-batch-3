@@ -1,0 +1,148 @@
+{
+    "question": "sebuah balon berisi 900 m\u00b3 gas helium yang massa jenisnya 0.183 kg/m\u00b3 . Jika massa jenis udara 1.29 kg/m\u00b3 . berapa beban yang dapay diangkat balon tersebut?? massa balon kosong 25 kg.",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "maaf aku kurang mengerti pertanyaanya<br>rho = m.v<br>w = m.g<br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "faktor-apa-saja-yang-mempengaruhi-besarnya-konstanta-elastisitas-773",
+            "question": "Faktor apa saja yang mempengaruhi besarnya konstanta elastisitas suatu kawat?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "menurut saya yang mempengaruhi konstanta adalah<br>gaya dan pertambahan panjang :)",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "buatlah-masing-masing-3-contoh-soal-dan-jawaban-dari-konduksi-977",
+            "question": "Buatlah masing masing 3 Contoh soal dan jawaban\u00a0\u00a0dari konduksi dan konveksi!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>1. Suhu udara dalam sebuah ruangan sebesar 20\u00b0C, sedangkan suhu permukaan jendela\u00a0padaruangan tersebut 30\u00b0C. Berapa laju kalor yang diterima oleh jendelakaca seluas 1,5 m2<span>,\u00a0jika koefisien konveksi udara saat itu 7,5 X 10<span>J1\u00a0</span>kal/s\u00a0</span>m<span>2\u00a0</span>\u00b0C?</span><br><span>Jawab:</span><br><span><span><span>AT\u00a0</span><span>=\u00a0</span>t2\u2014 t1<span>\u00a0=30\u00b0C-20\u00b0C= 10\u00b0C</span></span><br><span><span>A\u00a0</span><span>=1,5m2</span>\u00a0</span><br><span><span>h\u00a0</span><span>=7,5x10-1kal/sm2\u00b0C</span></span></span><br><span><span><span>H\u00a0<span>=h.A.\u0394T</span></span>\u00a0</span><br><span><span>(7,5 x 10-1kal/sm2\u00b0C) (1,5m2) (10\u00b0C)\u00a0</span>= 11,25kal</span></span><span>Jadi, laju kalor yang diterima oleh jendela kaca 11,25 kal\u00a0<br>contoh lainnya ada di doc \u00a0tinggal download aja semoga membantu</span>",
+                    "attachments": [
+                        "answer-attachments/buatlah-masing-masing-3-contoh-soal-dan-jawaban-dari-konduksi-977-1.docx"
+                    ]
+                },
+                {
+                    "answer": "Sumber utama kehilangan\u00a0 panas dalam ruangan adalah melalui jendela. Misalkan terdapat sebuah jendela yang terbuat dari kaca dengan ukuran 2 m X 1,5 Derajat Celcius, sedangkan suhu di luar ruangan 14 derajat celcius. Hitunglah laju kehilangan panas melalui jendela.<span><br></span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "hitunglah-momen-inersia-suatu-benda-yang-berotasi-dengan-kecepata-322",
+            "question": "hitunglah momen inersia suatu benda yang berotasi dengan kecepatan sudut 10 rad/sekon dan memiliki energi kinetik 5 joule",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Dik Ek = 5 j<br>\u00a0 \u00a0 \u00a0\u00a0\u03c9 = 10 rad/s<br>Dit i ?<br>jawab.<br>rumus i = mr^2<br><br>Ek = 1/2 m (R.\u03c9)^2<br>5 \u00a0 = 1/2 m (R.10^2)<br>10 \u00a0= mr^2 . m.100\u00a0<br>mr^2 = 10 / 100 m<br>\u00a0 \u00a0 \u00a0 \u00a0 = \u00a00,1 kgm^2 /\u00a0m<br>i = 0,1 kgm<br><br>Klik bintang",
+                    "attachments": []
+                },
+                {
+                    "answer": "Rumus momen inersia (I) adalah\u00a0<br>bila percepatan sudut \u00a010 rad / s =\u00a0\u03b1<br>Energi kinetik = 5 Joule = F<br>[tex]I = mr^2[/tex]\u00a0<br><br>Pertama cari dulu persamaan 1\u00a0<br>[tex]F = m a_{tan} [/tex]<br>\u00a0--&gt;\u00a0Hubungan antara gaya (F), massa (m), dan percepatan tangensial (a tan) partikel\u00a0<br><br>Partikel berotasi sehingga partikel mempunyai percepatan sudut.<br>\u00a0<br>Hubungan antara percepatan tangensial dengan percepatan sudut dinyatakan melalui persamaan :<br>[tex] a_{tan}=r \\alpha  [/tex] Persamaan 2\u00a0<br><br>Subtitusikan atau gantikan percepatan tangensial (a tan) pada persamaan 1\u00a0 dengan percepatan tangensial (a tan) pada persamaan 2.<br><br>[tex]F = \\frac{1}{2}m r \\alpha[/tex]<br>[tex]\\gamma . r = \\frac{1}{2}m r \\alpha[/tex]]<br>[tex]5 = \\frac{1}{2}m . r^2 . 10[/tex]<br>[tex]mr^2 = 1 / 10 = 0.1 [/tex]<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-truk-bermassa-7500-kg-yang-bergerak-dengan-kecepatan-5-ms-402",
+            "question": "sebuah truk bermassa 7500 kg yang bergerak dengan kecepatan 5 m/s ditabrak mobil lain yang bermassa 15000 kg dengan keceptan 20 m/s.kedua kendaraan rjusak berat dan menjadi satu. kelajuan kedua mobil rusak itu adalah........",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "m1.v1 + m2.v2 = (m1+m2) V<br>7500.5 + 15000.20 = (7500+15000) V<br>37500 + 300000 = 22500 V<br>337500 = 22500 V<br>V= 337500 : 22500<br>V= 15 m/s<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-bantuin-dong-sebuah-beban-20n-digantungkan-pada-kawat-ya-716",
+            "question": "Tolong bantuin dong..    sebuah beban 20N digantungkan pada kawat yang panjangnya 3,0 m dan luas penampangnya 8\u00a0x 10\u207b\u2077 m\u00b2 hingga menghasilkan pertambahan panjang 0,1 mm. hitunglah:\r\na. tegangan\r\nb. regangan\r\nc. modulus elastis kawat",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "tegangan:44<br>regangan:66<br>modulus 99<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<strong>tegangannya\u00a044</strong><br><strong>regangannya\u00a066</strong><br><span><strong>modulusnya\u00a0 99</strong></span><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-tiga-buah-pegas-dua-disusun-paralel-dengan-konstanta-1-771",
+            "question": "Diketahui tiga buah pegas. Dua disusun paralel dengan konstanta 100 n/m. Dan satu disuaun dengan seri dengan konstanta 200n/m. Susunan pegas dipengaruhi oleh beban, sehingga mengalami pertambahan 5cm. Jika pertambahan panjang pegas 1 dan 2 sama, maka berapakah: a) konstanta gaya total penyusunnya. b) massa beban jika g= 10 m/s",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a) rangkaian paralel ==&gt; kp = 100 + 100 = 200 N/m<br>\u00a0\u00a0 kp diseri dengan k3 = 200 ===&gt; 1/ks = 1/200 + 1/200 <br>\u00a0\u00a0 1/ks = 2/200 ===&gt; 1/ks = 1/100 ==&gt; ks = 100 N/m<br>\u00a0\u00a0 Jadi knstanta gaya total = 100 N/m<br>b) dik : \u0394x = 5 cm = 0,05 m\u00a0 \u00a0 ; k total = 100 N/m <br>F = k \u0394x <br>m . g = k . \u0394x ---&gt; m . 10 = 100 . 0,05 ----&gt; m = 0,5 kg <br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span>a) rangkaian paralel ==&gt; kp = 100 + 100 = 200 N/m<br>\u00a0\u00a0 kp diseri dengan k3 = 200 ===&gt; 1/ks = 1/200 + 1/200 <br>\u00a0\u00a0 1/ks = 2/200 ===&gt; 1/ks = 1/100 ==&gt; ks = 100 N/m<br>\u00a0\u00a0 Jadi knstanta gaya total = 100 N/m<br>b) dik : \u0394x = 5 cm = 0,05 m\u00a0 \u00a0 ; k total = 100 N/m <br>F = k \u0394x <br>m . g = k . \u0394x ---&gt; m . 10 = 100 . 0,05 ----&gt; m = 0,5 kg </span><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-komedi-putar-berdiameter-3-m-dengan-momen-inersia-100-kgm2-480",
+            "question": "sebuah komedi putar berdiameter 3 m dengan momen inersia 100 kgm2 berotasi dengan kelajuan 1 rps. empat orang anak masing-masing bermassa 30 kg tiba-tiba melompat dan duduk 1 m dari pusat komedi putar. tentukan kecepatan sudut komedi putar sekarang!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<u><em></em></u>[tex] \\left \\{ {{y=2} \\atop {x=2}} \\right. [/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "contoh-rangkaian-campuran-732",
+            "question": "Contoh rangkaian campuran",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "kendaraan bermotor yang sebagian besar komponennya terdapat beban listrik yang lebih banyak dari rangkaian seri<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "rangkaian antara rangkaian pararel dan rangkaian seri. contohnya rangkaian dalam kendaraan bermotor",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apakah-yang-dimaksud-dengan-proyektor-219",
+            "question": "Apakah yang dimaksud dengan proyektor",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>Proyektor LCD adalah suatu jenis proyektor video untuk menampilkan video, gambar atau data komputer di layar atau permukaan datar lainnya. Ini adalah analog modern dari proyektor slide atau proyektor overhead. Untuk menampilkan gambar, LCD (liquid crystal display) Proyektor biasanya mengirim cahaya dari lampu halida logam melalui prisma yang memisahkan cahaya untuk tiga panel silikon poli - masing-masing untuk komponen merah, hijau, dan biru dari sinyal video. Sebagai cahaya terpolarisasi melewati panel (kombinasi polarizer, panel LCD dan analyzer), piksel individu dapat dibuka untuk memungkinkan cahaya untuk lulus atau tertutup untuk memblokir cahaya. Kombinasi piksel terbuka dan tertutup dapat menghasilkan berbagai macam warna dan nuansa pada gambar yang diproyeksikan.</span>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Menurut Saya, : Proyektor merupakan alat optik yg digunakan untuk menampilkan media dalam sebuah layar permukaan yg serupa<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "contoh-soal-gerak-vertikal-ke-atas-853",
+            "question": "Contoh soal gerak vertikal ke atas",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "sebuah bola bermassa 3 kg,di lemparkan ke atas,dalam jarak 3 meter setelah di lempar,berapa kecepatan yang dimiliki oleh bola dengan gravitasi 10 m/s^2 :)<br>soalnya aja ? :)",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

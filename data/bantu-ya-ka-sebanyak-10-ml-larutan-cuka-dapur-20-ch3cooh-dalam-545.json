@@ -1,0 +1,134 @@
+{
+    "question": "Bantu ya ka    Sebanyak 10 mL larutan cuka dapur (20% CH3COOH dalam air) ditambah\r\nair sampai volumenya 1 liter. Massa jenis larutan cuka dapur 1 kg/L dan\r\nKa CH3COOH = 4 \u00d7 10\u20136. Tentukan:\r\na. derajat ionisasi CH3COOH sebelum dan sesudah diencerkan\r\nb. pH larutan CH3COOH sesudah diencerkan",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "10 mL larutan asam cuka (asam cuka 20% dalam larutan tersebut)<br>nah berarti ada 20% dari 10mL larutan tersebut adalah asam cuka murni<br>kita hitung volume asam cuka murninya :)<br>vol asam cuka = 20% x 10 mL larutan = 0,2 mL = 0,2 x 10^-3 L..... ^ dibaca pangkat :)<br>kita hitung massa larutan asam cuka<br>massa asam cuka = massa jenis x volume asam cuka <br>(ingat : massa jenis = massa/volume)<br>massa asam cuka = 1 Kg/L x 0,2 x 10^-3 L = 0,2 x 10^-3 Kg = 0,2 gram<br>Mr asam cuka (CH3COOH) = 60<br>derajat ionisasi kita sebut alpha ya :)<br><br>a. konsentrasi asam cuka<br>sebelum penambahan maka kita pakai volume larutan = 10 mL<br>M = gram/Mr x 1000/Volume (mL) = 0,2/60 x 1000/10 = 0,33333 M dibulatkan 0,3M<br>alpha = akar (Ka/Ma) = akar (4x10^-6/ 0,3) = akar(13,3 x 10^-6) = 3,65 x 10^-3<br><br>setelah penambahan maka volume larutan menjadi 1000mL (1 liter)<br>M = gram/Mr x 1000/volume(mL) = 0,2/60 x 1000/1000 = 0,003 M<br>alpha = akar (Ka/Ma) = akar (4x10^-6/ 0,003) = akar(1333,3 x 10^-6) = 36,5 x 10^-3<br><br><br>b.<br>pH larutan setelah di encerkan<br>[H+] = akar (Ka x Ma) = akar (4 x 10^-6 x 0,003) = akar(0,012 x 10^-6)<br>= 0,1 x 10^-6 = 10^-7<br><br>pH = - log [H+] = - log 10^-7 = 7<br><br>berarti larutan setelah pengenceran bisa di anggap larutan netral :)<br><br><br>semoga bisa membantu :)<br>beri label terbaik ya :)<br><br><br><br><br><br><br><br><br><br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "bagaimana-cara-uji-saponin-pada-tanaman-lidah-mertua-973",
+            "question": "Bagaimana cara uji saponin pada tanaman lidah mertua?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>Lidah mertua (Sansevieria trifasciata Prain) merupakan tanaman obat yang banyak dimanfaatkan\n oleh masyarakat untuk pengobatan influenza, borok, bisul, radang saluran pernafasan, batuk dan\n gigitan ular berbisa, karena mengandung saponin. Penelitian ini bertujuan untuk mengetahui\n variasi metode ekstraksi yang efektif dalam menghasilkan aktivitas antibakteri optimum terhadap\n Staphylococcus aureus IFO 13276 dan Pseudomonas aeruginosa IFO 12689, serta mengetahui\n sifat antibakteri ekstrak etanol daun lidah mertua. Pada penelitian ini variasi metode ekstraksi\n yang diamati adalah lama waktu maserasi dan jumlah daur sokletasi. Lama waktu maserasi\n adalah 4, 6 dan 8 hari, sedangkan jumlah daur sokletasi adalah 1, 2 dan 3 kali penyarian. Pelarut\n yang digunakan etanol absolut. Sebagai kontrol negatif digunakan pelarut etanol tanpa ekstrak,\n sedangkan sebagai kontrol positif digunakan ampisilin dan streptomisin. Parameter yang diukur\n adalah luas zona penghambatan dan uji sifat antibakteri. Uji aktivitas antibakteri ekstrak etanol\n daun lidah mertua dengan metode difusi agar. Berdasarkan hasil penelitian, diketahui maserasi 4\n hari dan sokletasi 2 kali penyarian menghasilkan ekstrak etanol daun lidah mertua dengan\n aktivitas antibakteri optimum terhadap Staphylococcus aureus IFO 13276 dan Pseudomonas\n aeruginosa IFO 12689, ekstrak etanol daun lidah mertua hasil sokletasi dan maserasi optimum\n memiliki aktivitas antibakteri yang lebih rendah daripada ampisilin dan streptomisin dalam\n menghambat Staphylococcus aureus IFO 13276, tetapi lebih tinggi dari ampisilin dalam\n menghambat Pseudomonas aeruginosa IFO 12689 dan Sifat antibakteri ekstrak etanol daun lidah\n mertua terhadap Staphylococcus aureus IFO 13276 adalah bakteriosidal, sedangkan sifat\n antibakteri ekstrak etanol daun lidah mertua terhadap Pseudomonas aeruginosa IFO 12689\n adalah bakteriostatik.</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "soal-1-tentukan-kemolalan-larutan-yang-d-buat-dengan-melarutkan-1-509",
+            "question": "Soal 1    tentukan kemolalan larutan yang d buat dengan melarutkan 10 gram urea kedalam 100gram air (Mr=60)\r\n\r\nsoal 2\r\n\u00a0berapakah fraksi mol urea dalam larutan yang mengandung 12 gram urea [ CO (NH2)2] dalam 90 gram air ? (C=12, H=1,O=16, N=14)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1. Molal = [tex] \\frac{g}{mr} . \\frac{1000}{p(gram)} [/tex]<br>[tex] \\frac{10}{60} . \\frac{1000}{100} = 3,3 molal[/tex]<br><br>2. Xt = [tex] \\frac{nt}{nt + np} [/tex]<br>[tex] \\frac{ \\frac{12}{60}}{ \\frac{ \\frac{12}{60} +  \\frac{90}{18} }{} } [/tex]<br>=[tex] \\frac{1}{26} [/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-gas-elpiji-diasumsikan-hanya-mengandung-gas-c3-h8-tuliskan-811",
+            "question": "JIKA GAS ELPIJI DIASUMSIKAN HANYA MENGANDUNG GAS C3 H8, TULISKAN PERSAMAAN REAKSI PEMBAKARAN DAN TENTUKAN VOLUME GAS OKSIGEN YANG DIPERLUKAN UNTUK MEMBAKAR 10 LITER GAS ELPIJI (DI UKUR PADA SUHU DAN TEKANAN TETAP)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "gas elpiji adalah gas yang dibuat untuk ibu memasak saya tidak pernah tau ada gas elpji 10 kilo lebih baik ganti pertanyaan menjadi 3 kg saja sebab elpiji 12 kg sudah langka di kalangan masyarakat terima kasih<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bagaimana-mencari-pengaruh-konsentrasi-tekanan-dan-suhu-terhadap-902",
+            "question": "Bagaimana mencari pengaruh konsentrasi tekanan dan suhu terhadap\u00a0\r\ntetapan kesetimbangan?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Pergeseran kesetimbangan dapat dipengaruhi oleh berbagai faktor antara \nlain temperatur, konsentrasi, tekanan dan volume, penambahan zat lain<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "mengapa-balon-yg-berisi-air-tidak-meledak-ketika-di-dekatkan-deng-790",
+            "question": "Mengapa balon yg berisi air tidak meledak ketika di dekatkan dengan api",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "karena masa air lebih besar dari massa api,\u00a0<br>#ngawur",
+                    "attachments": []
+                },
+                {
+                    "answer": "karna terjadi pemuaian <br><br>(kira - kira)<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "hitung-biloks-unsur-fe-berikut-dan-berikan-alasan-yang-tepat-1fe-795",
+            "question": "Hitung biloks unsur Fe berikut dan berikan alasan yang tepat\r\n1.FeSO4\r\n2.Fe2(SO4)3",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1.SO4 udah ketentuannya -2 jd supaya 0 biloks FE hrs 2<br>2.SO4 biloks nya -2 x3 =-6 jd supaya 0 biloks 2FE hrs 3",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "berapa-gram-naoh-mr40-padat-harus-dilarutkan-dalam-air-agar-d-916",
+            "question": "berapa gram NaOH\u00a0(mr=40) padat harus dilarutkan dalam air agar diperoleh 800 ml larutan dengan pH=12 ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex] \\frac{v}{mr} [/tex] = [tex] \\frac{800}{40}  [/tex] =20<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "NaOH pH= 12 berarti pOH= 2 dan konsentrasi NaOH= 0,01 M, sehingga gunakan rumus<br>\u00a0M= g/Mr\u00a0 x\u00a0 1000/mL lar.<br>\u00a0 0,01= g/40\u00a0 x 1000/800 mL<br>g= 0,32 gram ....jadi NaOH yang harus dilarutkan dalam 800 mL air agar diperoleh pH 12 adalah 0,32 gram<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "5-contoh-reaksi-asm-basa-menurut-lewis-457",
+            "question": "5 contoh reaksi asm basa menurut lewis",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Contoh reaksi netralisasi antara NH3 dan HCl  dalam bentuk cairan. \nPada reaksi tersebut terjadi transfer proton dari H3O+.  Transfer proton\n ini dapat dinyatakan sebagai berikut:\n              \u00a0\n              <span>Proton adalah suatu \nakseptor (penerima) pasangan elektron  bebas, yang menurut Lewis adalah \nasam. Ammonia yang memiliki pasangan elektron  bebas merupakan donatur \npasangan elektron bebas, karena itu amonia adalah basa  Lewis.</span><br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "fosfor-putih-terdiri-dari-molekul-p4-digunakan-dalam-bahan-pel-835",
+            "question": "Fosfor putih, terdiri dari molekul P\u2084 digunakan dalam bahan peladak    fosfor putih, terdiri dari molekul P\u2084 digunakan \r\n dalam bahan peladak untuk keperluan militer karena fosfor ini terbakar \r\n debgan sendirinya jika terkena udara. hasil reaksinya dengan oksigen \r\n adalah P\u2084O\u2081\u2080 \r\na. Tuliskan persamaan reaksi setara yang terjadi antara P\u2084 dengan udara \r\nb. Berapa mol P\u2084O\u2081\u2080 yang terbentuk jika digunakan 0,500 mol O\u2082\r\nc. Berapa gram P\u2084 dibutuhkan untuk menghasilkan 50,0 g P\u2084O\u2081\u2080\r\nd. Berapa gram P\u2084 akan bereaksi dengan 25,0 g O\u2082",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1. Persamaan reaksi\u00a0 <span><span>P\u2084(s) + 50\u2082(aq) \u21d2 P\u2084O\u2081\u2080<br><br>2. <br></span>Reaksi \u00a0 \u00a0 \u00a0 \u00a0 P\u2084(s) + 50\u2082(aq) \u21d2 P\u2084O\u2081\u2080 (disetarakan dulu)<br>Mula\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 0,1 \u00a0 \u00a0 0,5<br>YB\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 \u00a0\u00a0 0,1\u00a0 \u00a0\u00a0 0,5 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 0,1 \u00a0 \u00a0 \u00a0\u00a0\u00a0\u00a0 \u00a0 \u00a0\u00a0 <br>Hasil\u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0\u00a0 \u00a0  - \u00a0\u00a0 \u00a0\u00a0\u00a0 \u00a0 -\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 <span><strong>0,1 mol</strong><br></span><br>3. \u00a0 </span><span><strong><br>mol P\u2084O\u2081\u2080 = gr / Mr</strong><br>= 50/280<br>= <strong>0,178 mol</strong><br></span><span><span>Reaksi \u00a0 \u00a0 \u00a0 \u00a0 P\u2084(s) + 50\u2082(aq) \u21d2 P\u2084O\u2081\u2080 (disetarakan dulu)<br>Mula\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 0,178 \u00a0 \u00a0 0,89<br>YB\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0\u00a0 <strong>0,178</strong>\u00a0 \u00a0\u00a0\u00a0 0,89 \u00a0 \u00a0 \u00a0 0,178 \u00a0 \u00a0 \u00a0\u00a0\u00a0\u00a0 \u00a0 \u00a0\u00a0 <br>Hasil\u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0\u00a0 \u00a0  - \u00a0\u00a0 \u00a0\u00a0\u00a0 \u00a0 -\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 <strong>0,178 mol</strong></span><strong>\u00a0</strong> \u00a0 \u00a0 <br>Yang dibutuhkan 0, 178 mol P\u2084<br><strong>Gram P\u2084 = mol x Mr</strong><br>= 0,178 . 120<br>= 21,36 gram<br></span><br><span>4. \u00a0 <br><span><strong>mol 0\u2082 = gr / Mr</strong><br>= 25/32<br>= <strong>0,781 mol</strong><br></span><span><span>Reaksi \u00a0 \u00a0 \u00a0 \u00a0 P\u2084(s) + 50\u2082(aq) \u21d2 P\u2084O\u2081\u2080 (disetarakan dulu)<br>Mula\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 0,156 \u00a0 0,781<br>YB\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0\u00a0 <strong>0,156</strong> \u00a0\u00a0 <strong>0,781</strong> \u00a0 \u00a0 \u00a0\u00a0 0,156 \u00a0 \u00a0 \u00a0\u00a0\u00a0\u00a0 \u00a0 \u00a0\u00a0 <br>Hasil\u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0\u00a0 \u00a0  - \u00a0\u00a0 \u00a0\u00a0\u00a0 \u00a0 -\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 0,156 mol</span>\u00a0 \u00a0 \u00a0 <br>Yang dibutuhkan 0, 156 mol P\u2084<br><strong>Gram P\u2084 = mol x Mr</strong><br>= 0,156 . 120<br>= 18,72 gram</span><span><br><br></span>\u00a0 \u00a0 </span><br><br><br><br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "1. Persamaan reaksi\u00a0\u00a0<span>P\u2084(s) + 50\u2082(aq) \u21d2 P\u2084O\u2081\u2080<br>2.\u00a0Reaksi \u00a0 \u00a0 \u00a0 \u00a0 P\u2084(s) + 50\u2082(aq) \u21d2 P\u2084O\u2081\u2080 (disetarakan dulu)<br>\u00a0 \u00a0 \u00a0M \u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 0,1 \u00a0 \u00a0 0,5<br>\u00a0 \u00a0 \u00a0B\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 \u00a0\u00a0 0,1\u00a0 \u00a0\u00a0 0,5 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 0,1 \u00a0 \u00a0 \u00a0\u00a0\u00a0\u00a0 \u00a0 \u00a0\u00a0\u00a0<br>\u00a0 \u00a0 \u00a0S \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0- \u00a0\u00a0 \u00a0\u00a0\u00a0 \u00a0 -\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0\u00a00,1 mol<br>3. \u00a0\u00a0</span><span><span>mol P\u2084O\u2081\u2080 = gr / Mr</span><br>\u00a0 \u00a0 \u00a0 = 50/280<br>\u00a0 \u00a0 \u00a0\u00a0=\u00a00,178 mol<br></span><span>Reaksi \u00a0 \u00a0 \u00a0 \u00a0 P\u2084(s) + 50\u2082(aq) \u21d2 P\u2084O\u2081\u2080 (disetarakan dulu)<br>M \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a00,178 \u00a0 \u00a0 0,89<br>B\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0\u00a0\u00a00,178\u00a0 \u00a0\u00a0\u00a0 0,89 \u00a0 \u00a0 \u00a0 0,178 \u00a0 \u00a0 \u00a0\u00a0\u00a0\u00a0 \u00a0 \u00a0\u00a0\u00a0<br>S \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0- \u00a0\u00a0 \u00a0\u00a0\u00a0 \u00a0 -\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a00,178 mol\u00a0\u00a0\u00a0 \u00a0\u00a0<br>dibutuhkan 0, 178 mol P\u2084<br>gram P\u2084 = mol x Mr<br>= 0,178 . 120<br>= 21,36 gram</span><br><span>4. \u00a0\u00a0mol 0\u2082 = gr / Mr<br>\u00a0 \u00a0 \u00a0 = 25/32<br>\u00a0 \u00a0 \u00a0\u00a0=\u00a00,781 mol<br>Reaksi \u00a0 \u00a0 \u00a0 \u00a0 P\u2084(s) + 50\u2082(aq) \u21d2 P\u2084O\u2081\u2080 (disetarakan dulu)<br>M \u00a0 \u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 0,156 \u00a0 0,781<br>\u00a0B \u00a0 \u00a0 \u00a0\u00a0\u00a0 \u00a0 \u00a0\u00a0\u00a0\u00a00,156\u00a0\u00a0\u00a0\u00a00,781\u00a0\u00a0 \u00a0 \u00a0\u00a0 0,156 \u00a0 \u00a0 \u00a0\u00a0\u00a0\u00a0 \u00a0 \u00a0\u00a0\u00a0<br>S \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0- \u00a0\u00a0 \u00a0\u00a0\u00a0 \u00a0 -\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 0,156 mol\u00a0 \u00a0 \u00a0\u00a0<br>dibutuhkan 0, 156 mol P\u2084<br>Gram P\u2084 = mol x Mr<br>= 0,156 . 120<br>= 18,72 gram</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-konsentrasi-dari-larutan-yang-ph-11-pakai-cara-ya-jawab-513",
+            "question": "Tentukan konsentrasi  dari larutan yang pH =11    pakai cara ya jawabnya....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "pH=-log\u00a0[tex][ H^{+}] [/tex]<br>11=11-log 1<br>[tex][ H^{+}] [/tex] = 1X [tex] 10^{-11} [/tex]<br><br>[tex] [OH^{-}] [/tex] =\u00a0[tex] \\frac{kw}{[H^{+}]} [/tex] = [tex] \\frac{1X10^{-14}}{1X10^{-11}} [/tex] =\u00a0[tex]1X 10^{-3} [/tex]<br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

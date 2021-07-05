@@ -1,0 +1,146 @@
+{
+    "question": "sebuah bak air besar berbentuk tabung yang panjang jari-jarinya 70 cm dan tinggi 1,8 m, terisi penuh. setelah air dalam bak terpakai sebanyak 770 liter, berapakah tinggi sisa air dalam bak tersebut?",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "v tabung = 22/7 x\u00a070 x 70 x 180 = 2.772.000 cm3 : 2.772 l<br>sisa air = 2.772 - 770 = 2.002 l",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "hasil-kali-dari-x-x1-x-x2-tolong-dijelaskan-secara-rinc-163",
+            "question": "Hasil kali dari (X - X1) (X- X2) ?? Tolong dijelaskan secara rinci :)\r\nthnks~ ;)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "dikali satu satu ruas kiri ke kanan =\u00a0<br>X^2-2X-X1X2",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span> (X-X1) (X-X2) = </span>[(X-X1)X + (X-X1)(-X2)<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 = X\u00b2-X1X+(-XX2)+X2X1)<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 X\u00b2-X1X-XX2+X2X1<br><br><br>Semoga membantu.<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-suku-banyak-px-di-bagi-x-2-bersisa-6-dan-dibagi-x-709",
+            "question": "diketahui suku banyak p(x) di bagi (x-2) bersisa -6 dan dibagi (x+2) bersisa 8. tentukan sisa pembagian suku banyak p(x) oleh (x\u00b2-4)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>Dibagi (x-2) sisa -6<br>\ndibagi (x+2) sisa 8</span>\n\n<span><br>Dibagi (x2-4) sisa px+q</span>\n\n<span>(x2-4) = (x-2) (x+2)<br>\u00a0</span><span>(x-2) --&gt;\nf(2)= 2p+q<br>\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 -6 = 2p+q</span>\n\n<br><span>(x+2) --&gt; f(-2)= -2p+q<br>\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 8 = -2p+q</span>\n\n<br>disubtitusikan:\n\n<span>2p+q= -6\u00a0 dengan -2p+q=\n8 mendapat hasil p= -7/2 dan q= 1</span>\n\n<br><span>Jadi sisa pembagian suku banyak p(x) oleh (x2-4)\nadalah px+q= -7/2 <span>x\n+ 1</span></span>\n\n<br><br><br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span><span>Dibagi (x-2) sisa -6<br>\ndibagi (x+2) sisa 8</span>\n\n<span><br>Dibagi (x2-4) sisa px+q</span>\n\n<span>(x2-4) = (x-2) (x+2)<br>\u00a0</span><span>(x-2) --&gt;\nf(2)= 2p+q<br>\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 -6 = 2p+q</span>\n\n<br><span>(x+2) --&gt; f(-2)= -2p+q<br>\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 8 = -2p+q</span>\n\n<br>disubtitusikan:\n\n2p+q= -6\u00a0 dengan -2p+q=\n8 mendapat hasil p= -7/2 dan q= 1\n\n<br><span>\u00a0sisa pembagian suku banyak p(x) oleh (x2-4)\nadalah px+q= -7/2 x\n+ 1</span>\n\n<br></span><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "75x25x05-hasil-pangkat-56-adalah-301",
+            "question": "75x25x0+5=\r\nhasil pangkat 56 adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "72 . 25 . 0 + 5 = hasil pangkat 56<br>0+5 = hasil pangkat 56<br>hasil sama dengan 5<br>kalau soalnya hasilnya harus di pangkat 56 lagi maka<br>hasil akhir = 5 pangkat 56\u00a0<br><br>tapi kalo maskudnya bukan seperti itu,maka hasilnya tetap 5 :)<br>karna tidak ada variabel disana yang harus dicari nilainya :)",
+                    "attachments": []
+                },
+                {
+                    "answer": "Maaf mungkin bisa di cek lagi soalnya,,karena hasil penghitungan 75x25x0+5 itu kalo dalam matematika bisa di tafsirkan (75x25x0)+5=5,,atau mungkin 75x25x(0+5)=9375<br>mungkin perlu di perjelas lagi cara penulisannya,,terima kasih<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-bantu-yaa-trimakasih-890",
+            "question": "Tolong bantu yaa... :-)\r\ntrimakasih",
+            "attachments": [
+                "question-attachments/tolong-bantu-yaa-trimakasih-890-1.docx"
+            ],
+            "answers": [
+                {
+                    "answer": "\u00a0silakan dipelajari, sekalian diperiksa kalo ada yg salah",
+                    "attachments": [
+                        "answer-attachments/tolong-bantu-yaa-trimakasih-890-1.docx"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "besar-sudut-p-dari-sebuah-segitiga-pqr-adalah-70-selisih-antara-535",
+            "question": "Besar sudut P dari sebuah segitiga PQR adalah 70, selisih antara besar sudut Q dan R adalah 36\u00b0 tentukan besar sudut Q dan R. Perlu diketahui total sudut sebuah segitiga adalah 180\u00b0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]P=70^o\\\\\nQ-R=36^o \\rightarrow Q=36^o+R\\\\\\\\\nP+Q+R=180^o\\\\\n70^o+36^o+R+R=180^o\\\\\n2R=74^o\\\\\nR=37^o\\\\\\\\\nQ=36^o+R\\\\\nQ=36^o+37^o\\\\\nQ=73^o[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-kain-songket-dengan-ukuran-panjang-9-per-4-m-dan-lebar-510",
+            "question": "sebuah kain songket dengan ukuran panjang \u00a09 per 4\u00a0m dan lebar \u00a03 per 4m\u00a0. di bagian tengah terdapat 5 bagian daerah yg seluruhnya \u00a0451 per 400\u00a0m. 1. tentukan ukuran bagian kain songket yg berwarna merah dan daerah berambu benang. 2. bagaimana kamu menentukan luas daerah tersebut? 3. apakah ada keterkaitan konsep dan prinsip persamaan kuadrat untuk menentukan ukuran daerah bagian dalam kain songket?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "mav, soalnya itu ada gb.nya nggak?<br>songket warna merahnya dmn?<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dijawab-yah-plis-gtlt-sebuah-fungsi-kuadrat-mempunyai-nilai-m-175",
+            "question": "Dijawab yah plis &gt;&lt;    sebuah fungsi kuadrat mempunyai nilai maksimun\u00a0-3 pada saat\u00a0 = 2, sedangkan untuk\u00a0 = - 2 fungsi bernilai -11. tentukan fungsi kuadrat tersebut !",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "x1=2, x2=-2\nf (x) = a (x- 2)(x+2)\n         =a (x- 2 )(x+2)\ny= a (x- 2)(x-+2)\n-11 = a (\u00d7-2)(\u00d7+2)\n-11 = a (0-2)(0+2)\na = 4/11\n\nNanti tinggal disubstitusi\nDi y = a (\u00d7-2)(\u00d7+2)",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "x-pangkat-2-4-jika-dan-hanya-jika-x2-atau-x-2-x-1-2-jika-dan-817",
+            "question": "x pangkat 2 =4 jika dan hanya jika x=2 atau x=-2? x-1 =2 jika dan hanya jika 2x+1=5? x pangkat 2 &lt; 4 jika dan hanya jika x&lt;2? -2&lt;x&lt;2 jika dan hanya jika x pangkat 2 =4???",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]x^2=4 \\longleftrightarrow x=2\\ atau\\ x=-2\\ (benar)\\\\ x-1=2 \\longleftrightarrow 2x+1=5\\ (salah)\\\\ x^2&lt;4 \\longleftrightarrow x&lt;2\\ (benar)\\\\ -2&lt;x&lt;2 \\longleftrightarrow x^2=4\\ (salah)[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-vektor-p-dan-q-20-dan-1-vektor-p-dan-r-11-dan-2-j-434",
+            "question": "diketahui vektor p dan q 2,0, dan 1. vektor p dan r 1,1, dan 2. jika vektor p dan s 1/2 vektor p dan q maka tentukan vektor r dan s?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "vektor 2,1 jika s 1 per 2 2,0 cx :D<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span>Jika vektor p dan q 2,0, dan 1. vektor p dan r 1,1, dan 2.</span><br>maka Vektor S =\u00a0<span> 1 per 22</span><br><br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-akar-persamaan-kuadrat-dari-6x2-48x-90-tentukan-n-397",
+            "question": "Diketahui akar persamaan kuadrat dari 6x\u00b2 - 48x + 90. tentukan nilai (x1/x2+1) + (x2/ X1+1)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "6x\u00b2-48x+90 = x\u00b2-8x+15<br>=(x-3) (x-5)=0<br>x1 = 3 x2= 5<br><br>silahkan substitusikan sisanya",
+                    "attachments": []
+                },
+                {
+                    "answer": "6x2-48x+90<br>(x-3)(x-5)<br>x1=3 \u00a0x2=5<br><br>(x1/x2+1) + (x2/x1+1)<br>(3/5+1) +(5/3+1)<br>8/5 + 8/3 = 64/15 gitu?\u00a0",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

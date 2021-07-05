@@ -1,0 +1,150 @@
+{
+    "question": "Pada kegiatan    Rally, sebuah\r\nmobil akan sampai\r\ndi garis finis dalam\r\nwaktu 4,5 jam\r\ndengan kecepatan rata-rata 63 km/jam. Setelah\r\n2 jam berjalan, ban mobil Biru pecah sehingga\r\nterpaksa berhenti mengganti ban selama\r\n15 menit. Berapa kecepatan mobil biru dinaikkan\r\nagar tetap sampai di finis tepat waktu?",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "4,5 jam = 63 km/jam<br>setelah berjalan 2 jam, berarti<br>3,5 jam = 63 km/jam<br>ban\u00a0 bocor 15 mnit = 0,25 jam<br>jadi: 3,25 jam = x<br><br>maka:<br>3,5/3,25 = x/63<br>x = 67,85<br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "dimas-meminjam-uang-di-koperasi-rp-900000000-dengan-suku-bunga-184",
+            "question": "dimas meminjam uang di koperasi rp 9.000.000.00 dengan suku bunga 6 % per tahun ketika akan melunasi pinjaman tersebut ia harus membayar rp 9360.000.00 maka lama pinjaman dimas ....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Bunga = waktu / 12 bulan x persen bunga x uang awal<br>360.000 = w / 12 x 6 / 100 x 9.000.000<br>360.000 = w / 2 x 90.000<br>360.000 = w x 45.000<br>w = 8 bulan",
+                    "attachments": []
+                },
+                {
+                    "answer": "bunga = modal x n/12 x %bunga<br>360000 = 9000000 x n/12 x 6/100<br>360000 = 45000 x n<br>360000 / 45000 = n<br>8 bulan = n<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "persamaan-garis-yg-melalui-titik-a-15dan-tegak-lurus-garis-y-472",
+            "question": "Persamaan garis yg melalui titik A(-1,5)dan tegak lurus garis y =1/4X-3 adalah ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "y=1/4x-3, 1/4x-y-3=0<br>m= -a/b<br>-1/4/-1= 1/4<br>y-y1= M(x-x1)<br>y+1= 1/4(X-1/4)<br>y+1=1/4x-1/16<br>1/4x-y-1 1/16 (dikali 16)<br>4x-16y-17<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "[tex]y=\\frac{1}{4}x-3 \\rightarrow m_1=\\frac{1}{4}\\\\\nagar\\ tegak\\ lurus\\, maka\\ m_1.m_2=-1\\\\\n\\frac{1}{4}m_2=-1\\\\\nm_2=-4\\\\\npersamaan\\ yg\\ tegak\\ lurus\\ garis\\ y=\\frac{1}{4}x-3\\ dan\\ melalui\\ A(-1,5)\\\\\ny-y_1=m(x-x_1)\\\\\ny-5=(-4)(x-(-1))\\\\\ny=-4x-4+5\\\\\n4x+y=1[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-lingkaran-memiliki-jari-jari-8m-berapakah-panjang-lintasan-108",
+            "question": "Jika lingkaran memiliki jari jari 8m, berapakah panjang lintasan yang ditempuh?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "k O = 2\u03c0r<br>\u00a0\u00a0 \u00a0 =\u00a0 2 x 3,14 x 8<br>\u00a0\u00a0 \u00a0 =\u00a0 50,24<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Lintasan=Keliling<br>2r=d=16<br>Kell.=\u03c0\u00b7d<br>=3,14\u00b716<br>=<strong>50,24</strong><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "mencari-luas-pizza-segi-12-beraturan-jika-potongan-kecilnya-juga-640",
+            "question": "mencari luas pizza segi 12 beraturan, jika potongan kecilnya juga berbentuk segi tiga diketahui sisi luar 5 cm berapa luas seluruhnya pizza tersebut ?\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Itu jadi 12x luas segitiga sama kaki dengan sudut atasnya 30\u00b0  <br>\n(didapatkan dari 360\u00b0/12 = 30\u00b0) <br><br>\nBuat nyari luas segitiganya, pake rumus : <br><br>\nL\u0394 = 1/2 r\u00b2 sin 30 <br><br>\nL\u0394 = 1/2 * 5 * 5 * sin 30 <br><br>\nL\u0394 = 10 cm\u00b2 <br><br>\nLuas 12x segitiga : <br><br>\u00a0\n10x 12 = 120 cm\u00b2 <br><br>\nJadi, luas segi-12 beraturan dgn lingkaran luar 5 cm adalah 120 cm\u00b2 <br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "panjang-diagonal-sebuah-persegi-panjang-adalah-10-cm-jika-lebar-660",
+            "question": "panjang diagonal sebuah persegi panjang adalah 10 cm. jika lebar persegi panjang tersebut adalah 6 cm . maka keliling persegi panjang adalah ...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "keliling= 10x2+6x2 =32",
+                    "attachments": []
+                },
+                {
+                    "answer": "panjangnya 8cm<br>maka:<br>8+6+8+6=28cm<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "kesulitan-apa-yang-diaami-bangsa-indonesa-dalam-globalisasi-655",
+            "question": "Kesulitan apa yang diaami bangsa indonesa dalam globalisasi?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "penyakit karakter bangsa, indonesia belum siap menerima globalisasi krn karakter bangsanya masih salah. globalisasi akan disalah gunakan krn pengaruh karakter yg salah.<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span>Dalam era globalisasi dan keterbukaan bangsa indonesia mengalami kesulitan untuk membendung arus masuknya kebudayaan asing yg tidak sesuai dgn kepribadian bangsa.Oleh karena itu,kita harus menyeleksi masuknya budaya asing tersebut dgn pancasila sbg kepribadian bangsa dan pandangan hidup bangsa indonesia.</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "perbandingan-xy-senilai-dengan-st-diketahui-xy67-dan-x16-s-385",
+            "question": "Perbandingan x:y senilai dengan s:t diketahui x:y=6:7 dan x=1/6 s dan s-x=30 tentukan nilai x,y,s dan t",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "\u21d2x = 1/6 s<br>\u00a0\u00a0 s-x = 30<br>\u00a0\u00a0 s-1/6s = 30<br>\u00a0\u00a0 5/6s = 30<br>\u00a0\u00a0 5s = 180<br>\u00a0\u00a0 s = 36<br>\u21d2s:t = 6:7<br>\u00a0\u00a0 6/7 = 36/t<br>\u00a0\u00a0 6t = 252<br>\u00a0\u00a0 t = 42<br>\u21d2x = 1/6 s<br>\u00a0\u00a0 x = 1/6 (36)<br>\u00a0\u00a0 x = 6<br>\u21d2x:y = 6:7<br>\u00a0\u00a0 y = 7<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "harga-1-lusin-pensil-rp-1800000maka-tentukan-harga-9-pensil22-594",
+            "question": "Harga 1 lusin pensil Rp 18.000,00,maka tentukan harga 9 pensil,22 pensil dan 1 gros pensil !",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "\u00a0 9 pensil = Rp. 13.500<br>\u00a022 pensil =\u00a0Rp. 33.000<br>1 gros (144buah) = Rp. 216.000<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "luas-lingkaran-dengan-diameter-175-adalah-493",
+            "question": "Luas lingkaran dengan diameter 17,5 adalah....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "L = (22/7 atau 3,14) . Jari2<br>\u00a0\u00a0 = 22/7.17.5.17,5<br>\u00a0\u00a0  = 22.0,4.17,5<br>\u00a0\u00a0 = 8,8.17,5<br>\u00a0\u00a0 = 154 cm2<br><br>L = 3,14.17,5.17,5<br>\u00a0\u00a0 = 54,95.17,5<br>\u00a0\u00a0 = 961,625<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "rumus : 1/4 x phi x d pangkat dua<br>1/4 x 3,14x17,5x17,5 = 240,406<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "penyerdehanaan-dari-36-12-978",
+            "question": "Penyerdehanaan dari 36 1/2?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "jawabanya adalah\u00a018.........",
+                    "attachments": []
+                },
+                {
+                    "answer": "36 <u>1</u> = 73/2<u><br></u> \u00a0 \u00a02<br><u><br></u>caranya\u00a0<br>\u00a02 dikali 36 dan ditambah 1 dibagi 2...<br><br>contoh soal lain<br>4 <u>1</u> = 25/6<br>\u00a0 \u00a06\u00a0<u><br></u><br> dengan cara yg sama seperti diatas :<br><br>6 dikali 4 ditambah 1 dibagi 6<u><br></u>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

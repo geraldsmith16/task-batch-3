@@ -1,0 +1,146 @@
+{
+    "question": "Jika pers kuadrat x\u00b2-(m+ 3)x+ (3m + 1) = 0\r\nmempunyai satu akar riil mka nilai m yg memenuhi ?",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "satu akar, jadi D=0<br>[tex]D=0\\\\\nb^2-4ac=0\\\\\n(m+3)^2-4(1)(3m+1)=0\\\\\nm^2+6m+9-12m-4=0\\\\\nm^2-6m+5=0\\\\\n(m-1)(m-5)=0\\\\\nm_1=1 \\ atau \\ m_2=5[/tex]<br>",
+            "attachments": []
+        },
+        {
+            "answer": "Bentuk Umum Persamaan Kuadrat seperti ini<span>,\u00a0\u00a0dan a, b, c,</span>Dimana :x\u00a0adalah variabel persamaan kuadrata\u00a0adalah koefisien x kuadratb\u00a0adalah koefisien xc\u00a0adalah konstantaCara Menyelesaikan Persamaan Kuadrat<span>1) Mencari faktor<br><br>diuraikan menjadi\u00a0<br>cara pemfaktoran akan lebih mudah bila a = 1<br>maka kita bisa menebak x1 dan x2 dengan cara<br>a = 1<br>b = x1+x2<br>c = x1.x2</span><span>2) Memakai Rumus Kuadrat atau Rumus abc<br></span><span>3) Melengkapkan Kuadrat Sempurna<br>Bentuk umum persamaan kuadrat bebentuk kuadrat sempurna adalah :<br>\u00a0dengan q &gt; 0</span>Menentukan Jenis Akar-Akar Persamaan Kuadrat Jenis akar-akar persamaan kuadrat ditentukan oleh nilai deskriminan :<span><br>a. D &gt; 0 Kedua akar nyata dan berlainan,\u00a0</span><span>b. D = 0<br>Kedua akar nyata dan sama,\u00a0</span><span>c. D &lt;&gt; Kedua akar tidak nyata (imaginer)<br>d.\u00a0\u00a0dengan\u00a0<br>bilangan kuadrat sempurna, kedua akar rasional.</span><span>Untuk menghitung<span>\u00a0jumlah dan hasil kali akar-akar persamaan kuadrat</span>\u00a0, dapat dicari tanpa terlebih dahulu mencari akar-akarnya.</span><span>Dari rumus\u00a0\u00a0dan\u00a0</span><span>Dapat ditunjukkan bahwa:\u00a0</span><span>Rumus-rumus\u00a0Akar Persamaan Kuadrat hasil pengembangan, sering sekali muncul di soal UAN SNMPTN atau SPMB</span><span>Sifat-sifat Akar\u00a0Persamaan Kuadrat Jika\u00a0\u00a0dan\u00a0\u00a0adalah akar-akar persamaan kuadrat\u00a0\u00a0dengan\u00a0<br>maka berlaku sifat-sifat berikut ini :</span><span>a. Syarat mempunyai Dua Akar Positif<br></span><span>b. Syarat mempunyai Dua Akar Negatif<br><br>c. Syarat mempunyai Dua Akar Berlainan Tanda<br><br>d. Syarat mempunyai Dua Akar Berlawanan<br><br>e. Syarat mempunyai kedua akar berkebalikan<br></span><span>Cara menyusun Persamaan kuadratdari akar-akar x1 dan x2 yang diketahui</span><span>Persamaan kuadrat yang akar-akarnya\u00a0dan\u00a0\u00a0adalah :\u00a0</span>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "tuliskan-persamaan-x-y3-258",
+            "question": "Tuliskan persamaan {x-y=3}    \u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 {3x-2y=16} dalam bentukan matriks , lalu tentukan nilai 2x+5y",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "x - y = 3<br>3x -2y = 16<br><br>2x - 2y = 6<br><u>3x - 2y = 16</u> _<br><u></u>-x\u00a0 \u00a0 \u00a0 \u00a0 = -10<br><br>10 - y = 3<br>\u00a0\u00a0 \u00a0\u00a0 y = 7<br><br>2x +5y =<br>2*10 + 5*7 = 55<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "rasionalkan-bentuk-pecahan-a-25-3-431",
+            "question": "Rasionalkan bentuk pecahan\u00a0    a.\u00a0 \u00a0 2\u221a5 \u00a0 \u00a0\r\n \u00a0 \u00a0\u221a3 +\u00a0\u221a5\r\n\r\nBeri penjelasannya yaa. Dan LENGKAP Juga :)\r\nyang Lengkap\u00a0bintang 5.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "ini namnya persekutuan sekawanan.Jadi kalo ypenyebut minus,ntar dikalikan dengan yang plus.Dan sebaliknya<br><br>2\u221a5 per(/) \u221a3+\u221a5 dikali(*)\u221a3-\u221a5 per(/) \u221a3-\u221a5 = 2\u221a15-2\u221a25 per(/) 3-5=2\u221a15-2\u221a25 per(/) -2<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "\\frac{2V5}{V3+V5} = \\frac{2V5}{V3+V5} \\frac{V3-V5}{V3-V5 }=\n \\frac{2V5(V3-V5)}{3-5}  =\u00a0V5(V3-V5)",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "faktor-dari-688",
+            "question": "Faktor dari\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex] x^{2} +2x-48\n[/tex]<br>(x+8)(x-6)<br>x=-8 x=6<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "(X+8)(X-6)+0..<br>tu dia ....<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pada-sebuah-segitiga-klm-dengan-siku-siku-di-l-berlaku-sin-m2-781",
+            "question": "pada sebuah segitiga KLM, dengan siku-siku di L, berlaku sin M=2/3 dan panjang sisi KL=\u221a10 cm, tentukanlah panjang sisi segitiga yang lain.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "KL=LM=\u221a10<br>KM=akar dari <span>\u221a10 x </span><span>\u221a10</span>= akar 100=10<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "m/ sin M = l / sin L<br>\u221a10 \u00f7\u00a02/3 = l\u00a0\u00f7 1<br>l = 3/2 (dikali)\u00a0\u221a10 cm\u00a0= panjang KM<br><br>panjang\u00a0LM = k =\u00a0\u221a(3/2\u00d7\u221a10)\u00b2 - (\u221a10)\u00b2 = 90/4 -10 = (90-40)/4 = 50/4 = 12.5 cm<br><br>maaf jika kurang tetpat",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "banyak-anggota-matriks-adalah-170",
+            "question": "Banyak anggota matriks\u00a0 adalah....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "antara 12 dan\u00a0tidak ada........................",
+                    "attachments": []
+                },
+                {
+                    "answer": "jelaskan awal mula berdirinya kerajaan singhasari<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "nilaixyyang-memenuhi-sistem-persamaan-2x-y5-x-2y7-687",
+            "question": "Nilai(x,y)yang memenuhi sistem persamaan\r\n2x + y=5\r\nx + 2y=7",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>2x + y=5<br>y= 5-2x.................(1)<br><br>x + 2y=7<br>x+ 2(5-2x)=7<br>x+10-4x=7<br>-3x=-3<br>x=1......................(2)<br><br><br>2x+y=5<br>2(1)+y=5<br>2+y=5<br>y=3.........................(3)<br><br><br></span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suku-suku-barisan-geometri-tak-hingga-adalah-positif-jumlah-u1-550",
+            "question": "Suku suku barisan geometri tak hingga adalah positif ,jumlah u1 + u2 =60,dan u3 + u4 =15,tentukan jumlah suku barisan itu , plissss",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "U1+U2=60\u21d2a+ar=60<br>U3+U4=15\u21d2ar\u00b2+ar\u00b3=15<br><u>a+ar=60</u><br>ar\u00b2+ar\u00b3=15<br><u>a+ar\u00a0\u00a0 =60</u> (di coret a+ar)<br>r\u00b2(a+ar)=15<br>1/r\u00b2=4<br>r=1/2<br>nilai a:<br>a+ar=60\u21d4a+1/a=60<br>\u21d43/2 a=60<br>\u21d4a=40<br>untuk deret tak hingga -1&lt;r&lt;1 maka <br>Sn=a/1-r=40/1-0,5=80<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "logika-matematika-1-manakah-yang-merupakan-pernyataan-kalimat-t-813",
+            "question": "Logika matematika    1. Manakah yang merupakan pernyataan, kalimat terbuka atau bukan pernyataan dari kalimat kalimat berikut ini.\r\na. Gunung Kerinci terletak di Bali\r\nb. Oslo ibukota Norwegia.\r\nc. Pergilah engkau sekarang!\r\nd. x adalah bilangan prima kurang dari 30.\r\ne. 9 adalah faktor dari 63\r\njawabannya\r\n\u00a0\u00a0 \u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kalimat terbuka : D<br>pernyataan : a,b,e<br>bukan pernyataan : c",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-bantuin-buat-2-soal-pertidaksamaan-irasional-sama-jawaban-227",
+            "question": "Tolong bantuin buat 2\u00a0soal pertidaksamaan irasional sama jawabannya plis",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "\u221a4x + 1\u00a0\u2264 3<br>jawab : <br>(\u00a0\u221a4x + 1 )\u00b2\u00a0\u2264 3\u00b2<br>4x + 1\u00a0\u2264 9<br>4x\u00a0\u2264 8<br>x\u00a0\u2264 2<br>syarat :<br>4x + 1\u00a0\u2265 0<br>4x\u00a0\u2265 -1<br>x\u00a0\u2265 -1/4<br><br>\u221ax\u00b2 - 4x + 4 &gt; 2<br>jawab :<br>(\u221ax\u00b2 - 4x +4)\u00a0\u00b2 &gt; 2\u00b2<br>x\u00b2 - 4x + 4 &gt; 4<br>x\u00b2 - 4x &gt; 0<br>x (x - 4) &gt; 0<br>x = 0 \u00a0 \u00a0 \u00a0x= 4<br>syarat :<br>x\u00b2 - 4x + 4\u00a0\u2265 0<br>(x\u00a0-\u00a02) (x - 2)<br>x\u00a0= 2 \u00a0 \u00a0x = 2<br><br><br>nb : untuk garis bilangan dan himpunan penyelesaian belum selesai",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "3-bilangan-membentuk-barisan-geometri-jumlah-ke-3-bilangan-terseb-126",
+            "question": "3 bilangan membentuk barisan geometri jumlah ke 3 bilangan tersebut adalah 14, dan hasil kalinya 64. Tentukan ke 3 bilangan tersebut",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Dik : <br>Barisan geometri\u00a0 U\u2081 + U\u2082 + U\u2083 = 14\u00a0 ; U\u2081 x U\u2082 x U\u2083 = 64<br>Dit : <br>U\u2081\u00a0 ;\u00a0  U\u2082\u00a0  dan U\u2083<br>Jawab : <br>U\u2081 x U\u2082 x U\u2083 = 64 ==&gt; a x ar x ar\u00b2 = 64<br>a\u00b3 x r\u00b3 = 64 .... ruas kiri dan kanan diakar pangkat 3<br>ar = 4 ..... pers(1)<br><br>U\u2081 + U\u2082 + U\u2083 = 14 \u00a0 ==&gt;\u00a0 a + ar + ar\u00b2 = 14 \u00a0 ==&gt;\u00a0 a + ar + ar.r = 14 <br>a + 4 + 4r = 14 ==&gt; 4/r + 4 + 4r - 14 = 0\u00a0 \u00a0 ==&gt;\u00a0 4/r + 4r - 10 = 0 <br>4 + 4r\u00b2 - 10r = 0 ==&gt; 4r\u00b2 - 10r + 4 = 0 ==&gt; (4r - 2)(r - 2) = 0 <br>r = 1/2 atau r = 2 <br>untuk r = 1/2 maka a = 4/0,5 = 8 <br>maka bilangan yang dimaksud adalah : 8 , 4 , 2 <br>untuk r = 2, maka a = 4/2 = 2 <br>bilangan yang dimaksud adalah : 2 . 4 , 8 <br><br><br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "U\u2081 x U\u2082 x U\u2083 = 64\u00a0<br><span>sifat barisan geometri : U\u2081 x U\u2083 = U\u2082\u00b2\u00a0</span><br>maka didapat : U\u2082\u00b3 = 64 ----&gt; U\u2082 = 4 dan U\u2081 x U\u2083 = 16 ..... pers (1)<br>U\u2081 + U\u2082 + U\u2083 = 14<br><span>U\u2081 + 4 + U\u2083 = 14 ----&gt; U\u2081 + U\u2083 = 10 ......pers (2)\u00a0</span><br><span>dari pers 1 dan pers 2 didapat bilangan yang hasil kalinya 16 dan hasil jumlahnya 10 adalah 2 dan 8\u00a0</span><br><span>jadi bilangan yang dimaksud adalah 2 , 4 dan 8\u00a0</span>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

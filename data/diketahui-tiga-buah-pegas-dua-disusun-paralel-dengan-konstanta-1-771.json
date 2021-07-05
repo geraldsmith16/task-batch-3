@@ -1,0 +1,142 @@
+{
+    "question": "Diketahui tiga buah pegas. Dua disusun paralel dengan konstanta 100 n/m. Dan satu disuaun dengan seri dengan konstanta 200n/m. Susunan pegas dipengaruhi oleh beban, sehingga mengalami pertambahan 5cm. Jika pertambahan panjang pegas 1 dan 2 sama, maka berapakah: a) konstanta gaya total penyusunnya. b) massa beban jika g= 10 m/s",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "a) rangkaian paralel ==&gt; kp = 100 + 100 = 200 N/m<br>\u00a0\u00a0 kp diseri dengan k3 = 200 ===&gt; 1/ks = 1/200 + 1/200 <br>\u00a0\u00a0 1/ks = 2/200 ===&gt; 1/ks = 1/100 ==&gt; ks = 100 N/m<br>\u00a0\u00a0 Jadi knstanta gaya total = 100 N/m<br>b) dik : \u0394x = 5 cm = 0,05 m\u00a0 \u00a0 ; k total = 100 N/m <br>F = k \u0394x <br>m . g = k . \u0394x ---&gt; m . 10 = 100 . 0,05 ----&gt; m = 0,5 kg <br>",
+            "attachments": []
+        },
+        {
+            "answer": "<span>a) rangkaian paralel ==&gt; kp = 100 + 100 = 200 N/m<br>\u00a0\u00a0 kp diseri dengan k3 = 200 ===&gt; 1/ks = 1/200 + 1/200 <br>\u00a0\u00a0 1/ks = 2/200 ===&gt; 1/ks = 1/100 ==&gt; ks = 100 N/m<br>\u00a0\u00a0 Jadi knstanta gaya total = 100 N/m<br>b) dik : \u0394x = 5 cm = 0,05 m\u00a0 \u00a0 ; k total = 100 N/m <br>F = k \u0394x <br>m . g = k . \u0394x ---&gt; m . 10 = 100 . 0,05 ----&gt; m = 0,5 kg </span><br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "manfaat-dan-bahaya-radioisotop-dan-gelombang-elektromagnetik-209",
+            "question": "Manfaat dan bahaya radioisotop dan gelombang elektromagnetik",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "manfaat: memanfaatkan sinar-sinar radiasinya untuk berbagai kepetluan.sumber tenaga listrik<br>bahaya :dapat merusak jaringan pada makhluk hidup. dapat mengakibatkan tumor/ kanker",
+                    "attachments": []
+                },
+                {
+                    "answer": "manfaat : sebagai sumber tenaga listrik<br>bahaya : merusak jaringan, menyebabkan kanker<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "satuan-momen-gaya-torsi-adalah-a-kg-m2s2-c-535",
+            "question": "Satuan momen gaya ( torsi ) adalah...    a. kg m\u00b2s\u00b2 \u00a0 \u00a0 \u00a0 \u00a0 c. kg\u00b2 m\u00b2 s \u00a0 \u00a0 \u00a0 \u00a0 \u00a0e. kg\u00b2 / m\u00b2 s\u00b2\r\nb. kg m\u00b2 / s\u00b2 \u00a0 \u00a0 \u00a0 d. kg\u00b2 m\u00b2 / s\u00b2\r\n\r\nseorang penari balet berputar dengan kecepatan\u00a0\u03c91 sambil ,merentangkan tangannya dengan momen inersia I1. penari tersebut kemudian melipat tangannya hingga kecepatan sudutnya menjadi\u00a0\u03c92 dan momen inersianya menjadi I2. jika\u00a0\u03c92 = 2\u00a0\u03c92 maka...\r\na. I2 = I1/4\r\nb. I2 = I1/2\r\nc. I2 = I1\r\nd. I2 = 2 I1\r\ne. I2 = 4 I1",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "I2 = I1/4<br>b. I2 = I1/2<br>c. I2 = I1<br><span>d. I2 = 2 I<br>ini jawabnya gan</span>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Maaf mohon diperiksa kembali soalnya sepertinya terdapat kesalahan Satuan Momen Gaya(Torsi/Torka) = Nm atau Kgm\u00b2<br>Untuk Soal ke 2 tolong diperiksa kembali karena\u00a0\u03c92=\u00a02\u03c92 bagaimana dikerjakan ?",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-suspensi-truk-lihat-gambar-sering-memilik-770",
+            "question": "\u00a0 1.\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Suspensi truk (lihat gambar) sering memiliki \u201cpegas pembantu\u201d yang bekerja ketika beban truk sangat besar. Salah satu konfigurasinya adalah seperti pada gambar di bawah; pegas ayun (yang berwana biru) dengan pegas pembantu berupa pegas koil dipasang ditengah-tengahnya. Pegas pembantu akan bekerja ketika pegas ayun tertekan sejauh",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "semoga dapat membantu ya mohon kalau da salah\u00a0<br>jawaban Fisika Tropis\u00a0<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "seorang-anak-melemparkan-sebuah-buku-fisika-kepada-temannya-yang-255",
+            "question": "seorang anak melemparkan sebuah buku fisika kepada temannya yang berada di lantai 2 setinggi 4 m dari tanah . buku tersebut ditangkap oleh temannya setelah 1,5 s. berapakah kecepatan awal buku tersebu?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "kecepatan awal =\u00a02,666666667 m/s",
+                    "attachments": []
+                },
+                {
+                    "answer": "h=vot-1/2gt^2<br>4=vo.1,5-1/2.10.1,5^2<br>4=1,5vo-11,25<br>15,25=1,5vo<br>vo=10,1 m/s<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bagaimanakah-momentum-benda-sebelum-dan-sesudah-tumbukan-218",
+            "question": "Bagaimanakah momentum benda sebelum dan sesudah tumbukan ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Berdasarkan hukum kekekalan momentum,\"jika tidak ada gaya luar yang bekerja pada benda,maka jumlah momentum sebelum tumbukan = jumlah momentum setelah tumbukan\"",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suspensi-truk-sering-memiliki-pegas-pembantuyang-bekerja-ketik-784",
+            "question": "Suspensi truk (sering memiliki \"pegas pembantu\"yang bekerja ketika beban truk sangat besar. pegas ayun\u00a0 dengan pegas pembantu berupa pegaskoil dipasang ditengah-tengahnya. Pegas pembantu akan bekerja ketika pegas ayun tertekan sejauh",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "sejauh pembatas yang ada pada mobil truk dan sesuai dengan kemampuan pegas ayun yang akan menekannya",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-momen-gaya-1-nm-dikerjakan-pada-roda-yang-mula-mula-diam-667",
+            "question": "Sebuah momen gaya 1 Nm dikerjakan pada roda yang mula-mula diam. momentum sudut roda setelah 2 sekon?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1 new nton dikali 2 =3/5<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span>1 new nton dikali 2 =3/5</span><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-kelajuan-sebuah-elektron-yang-memiliki-massa-tiga-kali-m-371",
+            "question": "Tentukan kelajuan sebuah elektron yang memiliki massa tiga kali massa diamnya!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "M=3M\u2080<br><br>M=M\u2080/[tex] \\sqrt{1 - V^2/C^2} [/tex]<br>3M\u2080=M\u2080/[tex] \\sqrt{1 - V^2/C^2} [/tex]<br>[tex] \\sqrt{1 - V^2/C^2} [/tex]=1/3<br>1 - V\u00b2/C\u00b2\u00a0= 1/9<br>9/9\u00a0- 1/9 = V\u00b2/C\u00b2<br>8/9C\u00b2 = V\u00b2<br>V = 2[tex] \\sqrt{2} [/tex]/3C",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-sebuah-katrol-berbentuk-silinder-homogen-dengan-massa-2-241",
+            "question": "Diketahui sebuah katrol berbentuk silinder homogen dengan massa 2 kg,jari jari 20 cm,dan F=10 N.tentukan    a.momen gaya yang dikerjakan F pada katrol\r\n b.momen inersia katrol\r\n c.percepatan sudut katrol",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a.) momen gaya= F . r = 10 . 0,2 = 2 Nm\u00a0<br>b.) I = MR\u00b2 / 2 = 2 . 0,2\u00b2 = 0,08 kgm\u00b2\u00a0<br>c.) momen gaya = I .\u00a0\u03b1\u00a0\u21d4\u00a0\u03b1 = momen gaya / I = 2 / 0,08 = 25 rad/s\u00b2\u00a0<br>maaf kalau salah\u00a0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-kotak-yg-massanya-10-kg-mula-mula-diam-kemudian-bergerak-550",
+            "question": "Sebuah kotak yg massanya 10 kg mula-mula diam, kemudian bergerak turun pada bidang miring yg membuat sudut 30 derajat terhadap arah horizontal tanpa gesekan dan menempuh jarak 10 m sebelum sampai ke bidang mendatar. kecepatan kotak pada akhir bidang miring jika percepatan gravitasi bumi g=9,8 m/s kuadrat adalah...    tolong dibantu ya?? :) makasi..",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex] \\frac{h}{s} [/tex] = sin 30<br>[tex] \\frac{h}{s} [/tex] = <u></u>[tex] \\frac{1}{2} [/tex]<br>h = [tex] \\frac{s}{2} [/tex]<br>h = [tex] \\frac{10}{2} [/tex]<br>h = 5 <br><br>v = [tex] \\sqrt{2gh} [/tex]<br>v = [tex] \\sqrt{2.9,8.5} [/tex]<br>v = [tex] \\sqrt{98} [/tex]<br>v = [tex] \\sqrt{49.2} [/tex]<br>v = [tex] 7\\sqrt{2} [/tex]",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

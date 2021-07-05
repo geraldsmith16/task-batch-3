@@ -1,0 +1,142 @@
+{
+    "question": "Jika diketahui g(x)=x\u00b2-6x, h(x)=7-3x\r\na. (g\u2080h)(x) =\r\nb. (h\u2080g)(x) =",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "g\u00a0o\u00a0h(x) = 49 - 42x +9x^2 - 6(7 - 3x)<br>=\u00a049 - 42x +9x^2 - 42 + 18x<br>=\u00a09x^2 - 24x + 7<br><br>h o g(x) = 7 - 3(x^2 - 6x)<br>= 7 - 3x^2 + 18x<br>= -3x^2 +18x +7",
+            "attachments": []
+        },
+        {
+            "answer": "<span>g o h(x)<br>g (7-3x)<br>(7 - 3x)^2 - 6(7-3x)<br>49 - 42 + 9x^2 - 42 + 18x<br>9x^2 - 24x +7</span>\n    <span>\n                    \n                                    l<br></span> <span>h o g(x)<br>h (x^2 - 6x)<br>7 - 3(x^2 - 6x)<br>7 - 3x^2 + 18x<br>-3x^2 + 18x + 7</span><br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "jika-pers-kuadrat-x2-m-3x-3m-1-0-mempunyai-satu-akar-r-799",
+            "question": "Jika pers kuadrat x\u00b2-(m+ 3)x+ (3m + 1) = 0\r\nmempunyai satu akar riil mka nilai m yg memenuhi ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "satu akar, jadi D=0<br>[tex]D=0\\\\\nb^2-4ac=0\\\\\n(m+3)^2-4(1)(3m+1)=0\\\\\nm^2+6m+9-12m-4=0\\\\\nm^2-6m+5=0\\\\\n(m-1)(m-5)=0\\\\\nm_1=1 \\ atau \\ m_2=5[/tex]<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Bentuk Umum Persamaan Kuadrat seperti ini<span>,\u00a0\u00a0dan a, b, c,</span>Dimana :x\u00a0adalah variabel persamaan kuadrata\u00a0adalah koefisien x kuadratb\u00a0adalah koefisien xc\u00a0adalah konstantaCara Menyelesaikan Persamaan Kuadrat<span>1) Mencari faktor<br><br>diuraikan menjadi\u00a0<br>cara pemfaktoran akan lebih mudah bila a = 1<br>maka kita bisa menebak x1 dan x2 dengan cara<br>a = 1<br>b = x1+x2<br>c = x1.x2</span><span>2) Memakai Rumus Kuadrat atau Rumus abc<br></span><span>3) Melengkapkan Kuadrat Sempurna<br>Bentuk umum persamaan kuadrat bebentuk kuadrat sempurna adalah :<br>\u00a0dengan q &gt; 0</span>Menentukan Jenis Akar-Akar Persamaan Kuadrat Jenis akar-akar persamaan kuadrat ditentukan oleh nilai deskriminan :<span><br>a. D &gt; 0 Kedua akar nyata dan berlainan,\u00a0</span><span>b. D = 0<br>Kedua akar nyata dan sama,\u00a0</span><span>c. D &lt;&gt; Kedua akar tidak nyata (imaginer)<br>d.\u00a0\u00a0dengan\u00a0<br>bilangan kuadrat sempurna, kedua akar rasional.</span><span>Untuk menghitung<span>\u00a0jumlah dan hasil kali akar-akar persamaan kuadrat</span>\u00a0, dapat dicari tanpa terlebih dahulu mencari akar-akarnya.</span><span>Dari rumus\u00a0\u00a0dan\u00a0</span><span>Dapat ditunjukkan bahwa:\u00a0</span><span>Rumus-rumus\u00a0Akar Persamaan Kuadrat hasil pengembangan, sering sekali muncul di soal UAN SNMPTN atau SPMB</span><span>Sifat-sifat Akar\u00a0Persamaan Kuadrat Jika\u00a0\u00a0dan\u00a0\u00a0adalah akar-akar persamaan kuadrat\u00a0\u00a0dengan\u00a0<br>maka berlaku sifat-sifat berikut ini :</span><span>a. Syarat mempunyai Dua Akar Positif<br></span><span>b. Syarat mempunyai Dua Akar Negatif<br><br>c. Syarat mempunyai Dua Akar Berlainan Tanda<br><br>d. Syarat mempunyai Dua Akar Berlawanan<br><br>e. Syarat mempunyai kedua akar berkebalikan<br></span><span>Cara menyusun Persamaan kuadratdari akar-akar x1 dan x2 yang diketahui</span><span>Persamaan kuadrat yang akar-akarnya\u00a0dan\u00a0\u00a0adalah :\u00a0</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "ada-yang-ngerti-limit-trigonometri-ga-972",
+            "question": "Ada yang ngerti limit trigonometri ga???",
+            "attachments": [
+                "question-attachments/ada-yang-ngerti-limit-trigonometri-ga-972-1.docx"
+            ],
+            "answers": [
+                {
+                    "answer": "nih dek, cb dipelajari",
+                    "attachments": [
+                        "answer-attachments/ada-yang-ngerti-limit-trigonometri-ga-972-1.docx"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "berapa-hasil-dari-557",
+            "question": "Berapa hasil dari\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]2^{2014}.2^{15}=2^{2014+15}=2^{2029}[/tex]",
+                    "attachments": []
+                },
+                {
+                    "answer": "[tex] 2^{2014+15} =  2^{2029} [/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-fungsi-kuadrat-mempunyai-nilai-maksimum-3-pada-saat-x-2-852",
+            "question": "sebuah fungsi kuadrat mempunyai nilai maksimum -3 pada saat x = 2, sedangkan untuk x = -2 fungsi bernilai -11. Tentukan fungsi kuadrat tersebut.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "f(x) = 2xkuadrat + 2x - 15",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebutkan-contoh-domainkodomaindan-range-519",
+            "question": "Sebutkan contoh domain,kodomain,dan range ;)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Domain adalah Daerah Asal<br>Kodomain adalah Daerah Kawan<br>Range adalah daerah Hasil..<br><br>Misalnya ada sebuah contoh soal Relasi<br>\"1 Kurangnya Dari\", dan Domainnya adalah A={0,1,2,3,4}<br>Kodomainnya adalah B={1,2,3,4,5}<br>Maka Rangenya adalah R={(Domain,Kodomain)}--&gt; R={(0,1)(1,2)(2,3)(3,4)(4,5)}<br>Dibacanya R={(0 satu kurangnya dari 1) (1 satu kurangnya dari 2) dst..}<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dengan-cara-melengkapkan-kuadrat-sempurna-tentukan-akar-akar-pers-430",
+            "question": "Dengan cara melengkapkan kuadrat sempurna tentukan akar-akar persamaan kuadrat berikut : 3xkuadrat-2x-3=0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "\u00a0\u00a01. Pindahkan konstanta ke ruas kanan \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 2. Bagilah kedua ruas dengan\u00a0 dengan a. \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a03. Jika koefisien x yang baru kita sebut b, maka tambah kedua ruas dengan \u00bdb2. \u00a0 \u00a0 \u00a0 \u00a0 <span>4. Ubah bentuk yang ada di ruas kiri menjadi kuadrat sempurna. \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a05. Hilangkan tanda kuadrat di sebelah kiri, sementara ruas kanan menyesuaikan dengan memberikan akar dan tanda \u00b1 di depannya \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a06. Pindahkan konstanta di ruas kiri ke ruas kanan \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 7. dengan memisahkan tanda plus dan minus maka kita peroleh dua nilai x, sehingga penyelesaian persamaan kuadarat sudah kita dapat.\u00a0</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apa-konsep-dari-mencari-persamaan-kuadrat-jika-diketahui-akar-aka-731",
+            "question": "Apa konsep dari mencari persamaan kuadrat jika diketahui akar-akarnya ? Dan tolong berikan contohnya    Tolong dibantu\r\n\r\nTerima kasih",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "rumus nya.. x^2 (alfa+beta)x + alfa.beta...<br><br>alfa &amp; beta itu akar\"nya..jd kita hrs cr dlu alfa+beta dan beta +alfa..<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "garis-x-y30-dirotasi-60-berlawanan-dengan-arah-perputaran-jar-398",
+            "question": "Garis x-y+3=0 dirotasi 60\u00b0 berlawanan dengan arah perputaran jarum jam dengan pusat putar O(0,0). Tentukan bayangannya!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "pakai rumus<br>(x) \u00a0 = \u00a0 \u00a0 \u00a0 \u00a0 \u00a0cos a (-sin\u00a0a) \u00a0diinferskan lalu dikali (x&#039;)<br>(y) \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 sin a \u00a0 cos a\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0(y&#039;)<br>setelah hasilnya ketemu nanti dmasukkan ke persamaan yang menjadi soalnya<br><br>maaf tidak bisa membantu banyak, karna keterbatasan penulisan disini jadi saya tdk bisa menjawab hingga tuntas..",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suku-ke-3-deret-geometri-adalah-20-jumlah-suku-ke-5-dan-suku-ke-101",
+            "question": "suku ke-3 deret geometri adalah 20, jumlah suku ke-5 dan suku ke-6 adalah -80. jumlah 5 suku pertama deret ini adalah?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "suku ke 3 = ar^(3-1)=ar^2<br>suku ke 5 = ar^(5-1)=ar^4<br>suku ke 6\u00a0= ar^(6-1)=ar^5<br><br>ar^2=20.............(1)<br><br>ar^4+ar^5=\u00a0-\u00a080<br>ar^4(r+1)= - 80<br><br>ar^2x r^2 (r+1)= - 80<br>20 xr^2 (r+1)= - 80<br>r^2 (r+1)= - 4<br><br>r^3+r^2+4=0........(2)<br><br>faktorkan dg cara horner dapat (r+2)(r+1)(r-2)<br><br>r yang dpt memenuhi ke2 persamaan adalah r=\u00a0- 2<br><br>maka ar^2=20<br>a=5<br><br>S5=a(1-r^5)/(1-r)<br>=5(1-(-32))/(1-(-2))<br>=5(33)/(1+2)<br>=55",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "luas-sebidang-tanah-yang-berbentuk-persegi-panjang-adalah-96-m2-968",
+            "question": "luas sebidang tanah yang berbentuk persegi panjang adalah 96 m2. panjang tanah adalah 6 kali lebarnya. tentukan panjang dan lebar tanah tersebut",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "panjang = 6a<br>lebar = a<br>96 = 6a X a<br>96 = 6a\u00b2<br>a\u00b2 = 96/6<br>a\u00b2 = 16<br>a = 4<br>panjang = 6a = 6x4 = 24 cm<br>lebar = a = 4",
+                    "attachments": []
+                },
+                {
+                    "answer": "Dik : L = 96 m2<br>\u00a0\u00a0 \u00a0 \u00a0  p = 6 l<br><br>Dit : p , l .. ?<br>Jwb :<br>L = p x l<br>96 = 6l x l<br>96 = 6 l(kuadrat)<br>96/6 = l kuadrat<br>l = <em><u></u></em>[tex] \\sqrt{16} [/tex]<br>l = 4 m<br><br>p = 6 l<br>p = 6 (4)<br>p = 24 m<br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,146 @@
+{
+    "question": "Buah jambu yang bergantung di ketinggian 2 meter dari tanah, tiba2 jatuh. amir yang menemukan buah jambu tersebut menimbangnya, ternyata massanya 200 g. jika percepatan gravitasi di tempat itu 10 m/s2. hitunglah ! energi potensial, energi kinetik dan kecepatan buah jambu pada ketinggian 1 meter!",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "hanya no 1<br>m =\u00a0200 gram = 0,2 kg<br>g = 10 m/s\u00b2<br>h = 2 meter<br>energi potensial = mgh<br>0,2 \u00d7\u00a010\u00d7 2 = 4<br><br>",
+            "attachments": []
+        },
+        {
+            "answer": "Dik m = 200 g = 0,2 kg<br>\u00a0\u00a0 \u00a0\u00a0 g = 10 m/s<br>\u00a0\u00a0 \u00a0\u00a0 h = 2 m<br>\u00a0\u00a0 \u00a0\u00a0 a = 10 m/s<br>Dit Ep, Ek, dan v ?<br>jawab.<br>Ep = mgh <br>\u00a0\u00a0 \u00a0 = 0,2 . 10 . 2<br>\u00a0\u00a0 \u00a0 = 4 j<br><br>Ek =1/2 mv^2<br>\u00a0\u00a0 \u00a0 = 1/2 . 0,2 . 10^2<br>\u00a0\u00a0 \u00a0\u00a0 = 40 j<br><br>kecepatan pada saat ketingggian 1 m<br>v = \u221a2g(h2-h1)<br>\u00a0 = \u221a 2. 10 (2-1)<br>\u00a0 = \u221a20 m/s<br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "tuliskan-alat-yang-memanfaatkan-prinsip-pascal-413",
+            "question": "Tuliskan alat yang memanfaatkan prinsip pascal !",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1. Alat pengukur tekanan\u00a0darah<br>2. Rek cakram hidrolik<br>3. Mesin pengangkat hidrolik<br>4. Dongkrak hidrolik",
+                    "attachments": []
+                },
+                {
+                    "answer": "Alat alat yang menggunakan prinsip pascal yaitu :\u00a0<br>a. Dongkrak hidrolik<br>b. alat pengangkat mobil<br>c. rem hidrolok<br>d. penyemprot obat\u00a0nyamuk (kompa hidrolik)<br>e. pipa U",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "seorang-astronot-bermassa-75-kg-di-bumi-jika-astronot-tersebut-m-431",
+            "question": "Seorang astronot bermassa 75 kg di bumi. Jika astronot tersebut mendarat di bulan, kemudian melakukan penimbangan tentukan:    A. Massa astronot di bulan\r\n B. Berat astronot di bulan\r\n C. Berat astronot di bumi\r\n D. Berat yang hilang di bumi\r\n\r\n Percepatan gravitasi di bumi 10m/s2*pangkatdua* dan percepatan gravitasi di bulan 1,6 m/S2",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a) 75 kg<br>b) 120 N<br>c) 750 N<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "a)75 kg<br>b)120 N<br>c)750 N<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-durian-yang-berada-dipohonnya-setinggi-5-m-diatas-tanah-j-384",
+            "question": "Sebuah durian yang berada dipohonnya setinggi 5 m diatas tanah, jika energi potensial durian 196 J dan percepatan gravitasi 9,8 m/s\u00b2, berapakah massa durian itu?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "196 J = m.h.g (rumus Energi Potensial)<br>196 = m.5.9,8<br>196= m.49<br>m = 196:49<br>m= 4<br>Jadi massanya adalah 4 kg ^^<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Dik g=9,8 m/s<br>\u00a0\u00a0  \u00a0\u00a0  h= 5m<br>\u00a0\u00a0 \u00a0\u00a0 Ep = 196 j<br>Dit m ?<br>jawab.<br>Ep = mgh<br>196 = m.9,8 . 5<br>196/49 = m<br>m = 4 kg<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-bantu-aku-jawab-nya-donk-plisss-nihh-soalnya-torsi-yan-978",
+            "question": "Tolong bantu aku jawab nya donk.. plisss    nihh soalnya::\r\nTorsi yang bekerja pada silinder pejal yang massanya 0,5 kg dengan jari-jari 12 cm adalah 3,6 x 10-2. Tentukan percepatan sudut yang dialami silinder tersebut!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "diket : Torsi : 3,6 x 10-2 Nm , M : 0,5 Kg , r : 12cm = 0,12 m<br>jawab : I : 1/2 M.R2<br>I : 1/2 . 0,5 . 0,12^2<br>\u00a0\u00a0 : 3,6 x 10^-3 <br>T = I. percepatan sudut<br>3,6 x 10^-2 = 3,6 x 10^-3 x percepatan sudut<br>percepatan sudut = 3,6 x 10^-2 : 3,6 x 10^-3 =\u00a0 10 rad/s^2 <br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-tuas-panjangnya-2-meter-jika-titik-tumpu-terletak-05-me-531",
+            "question": "sebuah tuas panjangnya 2 meter . jika titik tumpu terletak 0,5 meter dari beban dan gaya yg dikeluarkan 1000 newton, berat beban yg dapat diangkat adalah ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Dik : F = 1000 N \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0Dit : W ?<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0lb = 0.5 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0lk = 2 - 0.5 = 1.5<br>W/F = lk/lb<br>W/1000 = 1.5/0.5<br>W= 1000 x 1.5/0.5<br>W = 1500/0.5<br>W = 3000 N",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apa-bila-koefisien-muai-volume-aluminium-000072cberapakah-besa-722",
+            "question": "Apa bila koefisien muai volume aluminium 0,00072/c,berapakah besar koefisien muai panjangnya?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "0,00024/c<br>semoga\u00a0bermanfaat",
+                    "attachments": []
+                },
+                {
+                    "answer": "Dik<br>kovesien muai v almunium = 0,00072 /c<br>Dit<br>kovesien muai p almunium ?\u00a0<br>jawab.<br>V = 3\u03b1<br>\u03b1 =\u00a0[tex] \\frac{v}{3} [/tex]<br>\u03b1 =\u00a0[tex] \\frac{0,00072}{3}\n [/tex]<br>\u03b1 = 0,00024 /c<br><br>Semoga membantu :) D like",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebutkan-hal-negatif-yang-dapat-timbul-jika-mengonsumsi-lemak-ka-327",
+            "question": "Sebutkan hal negatif yang dapat timbul jika mengonsumsi lemak, karbohidrat, dan protein berlebihan!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "obesitas atau kegemukan<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "dapat menimbulkan penyakit!!! seperti kwasikorhor, busung lapar dll",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "torsi-yang-bekerja-pada-silinder-pejal-yang-massanya-05-kg-denga-844",
+            "question": "Torsi yang bekerja pada silinder pejal yang massanya 0,5 kg dengan jari-jari 12 cm adalah 3,6 x 10-2. Tentukan percepatan sudut yang dialami silinder tersebut?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "silinder pejal (I =[tex] \\frac{1}{2} [/tex] m.r\u00b2 )<br>m = 0,5 kg<br>r= 12cm =&gt; 0,12 m<br>I = 1/2 x 0,5 x (0,12)\u00b2<br>=3,6x10\u207b\u00b3<br>torsi = 3,6x10\u207b\u00b2<br>Torsi = I.\u03b1<br>\u03b1 = torsi\u00f7I<br>= 3,6x10\u207b\u00b2\u00f73,6x10\u207b\u00b3<br><strong>= 10 rad/s\u00b2</strong>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "cara-merubah-celcius-ke-kelvin-yg-lengkap-ya-d-272",
+            "question": "Cara merubah Celcius ke Kelvin ? yg lengkap ya :D",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "5/5 x (suhu) = ....- 273<br>kalau gak salah :)\u00a0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "besarnya-periode-dipengaruhipanjang-tali-dan-tidak-dipengaruhi-ol-930",
+            "question": "Besarnya periode dipengaruhipanjang tali dan tidak dipengaruhi oleh?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "besar panjang tali .......",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

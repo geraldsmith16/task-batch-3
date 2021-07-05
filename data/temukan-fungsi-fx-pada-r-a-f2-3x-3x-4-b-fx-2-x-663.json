@@ -1,0 +1,138 @@
+{
+    "question": "Temukan fungsi f(x) pada R : \r\na.\u00a0f(2-3x) = 3x + 4\r\nb. f(x + 2) = x2 + 4x",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "2-3x = 3x+4<br>-6x = 2<br>x \u00a0 = -2/6<br>x \u00a0= -1/3<br><br>x+2= x2 +4x<br>-x2 - 3x + 2 = 0 dikali -1 agar -x2 menjadi positif<br>x2 + 3x - 2 = 0<br>\u00a0tidak ketemu jawabannya<br><br>",
+            "attachments": []
+        },
+        {
+            "answer": "f(2-3x) = 3x + 4<br>f(2-3x) = -(-3x+2)+6<br>f(2-3x) = -(2-3x)+6<br>f(x) = -x+6<br><br>f(x+2) = x^2 + 4x<br>f(x+2) = x^2 + 4x + 4 - 4<br>f(x+2) = (x+2)^2 -4<br><span>f(x) \u00a0 \u00a0 = x^2 -4<br></span><br>dari kak reanind nih",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "di-berikan-titik-titik-p6-4-q-1-6-r8-1-s42-tentu-623",
+            "question": "Di berikan titik - titik P(6,-4), Q(-1,-6), R(8,-1), S(4,2) Tentukan :    a. garis yang tegak lurus PR dan Melewati titik Q\r\nb. garis lain yang sejajar RS dan melewati titik P dan hitung keliling segitiga PRS\r\nc. Gradient PQ dan RS",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]gradien\\ PR=\\frac{-1-(-4)}{8-6}=\\frac{3}{2}\\\\ garis\\ yg\\ tegak\\ lurus\\ PR,\\ m_2.m_{PR}=-1\\\\ m_2.\\frac{3}{2}=-1\\\\ m_2=-\\frac{2}{3}\\\\ persamaan\\ garis\\ yg\\ melalui\\ Q(-1,-6) dan\\ tegak\\ lurus\\ PR :\\\\ y-(-6)=-\\frac{2}{3}(x-(-1))\\\\ 3y+18=-2x-2\\\\ 2x+3y+20=0\\\\\n\\\\\ngradien\\ RS=\\frac{2-(-1)}{4-8}=-\\frac{3}{4}\\\\\npersamaan\\ garis\\ melalui\\ P(6,-4)\\ dan\\ sejajar\\ RS:\\\\\ny-(-4)=-\\frac{3}{4}(x-6)\\\\\n4y+16=-3x+18\\\\\n3x+4y=2\\\\[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "buatlah-sketsa-grafik-fungsi-kuadrat-y-x2-4x-12-langkah2-699",
+            "question": "Buatlah sketsa grafik fungsi kuadrat\u00a0    y= -x\u00b2 - 4x + 12\r\nlangkah2 langkah mencari titik potong dan titik puncak\u00a0saja..nanti saya yang mengambar..minta tolong plissss^^",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1. nyari titik puncak, <br><span>y= -x\u00b2 - 4x + 12<br>untuk mencari titik puncak maka, y&#039;=0<br>y&#039;=</span><span> -2x - 4<br>-2x - 4=0<br>x= -2<br>(-2,16) titik puncak<br><br>2. mencari titik potong</span><br><span>y= -x\u00b2 - 4x + 12</span><br>(x + 6)(-x + 2)<br>x=-6 V x=-2<br><br>3. membuat tabel titik perpotongan<br>x -6 -5\u00a0 -4\u00a0\u00a0 -3\u00a0\u00a0\u00a0 -2\u00a0\u00a0 -1\u00a0\u00a0\u00a0 0\u00a0\u00a0 1\u00a0 2<br>y\u00a0 0\u00a0 7\u00a0 12\u00a0 15\u00a0\u00a0 16\u00a0 -15\u00a0 12\u00a0 7\u00a0 0<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "kalo titik puncak bukannya tinggal ( Xp , Yp ) = ( -b / 2a , D / -4a ) ?<br>dengan D = b kuadrat - 4ac = (-4)^2 - 4 (-1) 12 = 16+48 = 64<br>jadi puncak ( -2, 16 )<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "carilah-persamaan-lingkaran-yang-melengkapi-segitiga-siku-siku-ya-417",
+            "question": "carilah persamaan lingkaran yang melengkapi segitiga siku-siku yang titik-titik sudutnya adalah(0,0)(8,0)(0,6) ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "8x+6y klo gak salah\u00a0<br>harap dimaklumi\u00a0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-nilai-x-yang-memenuhi-pertidaksamaan-irasional-berikut-384",
+            "question": "Tentukan nilai x yang memenuhi pertidaksamaan irasional berikut\r\n\u221ax\u00b2-x+2 per \u221ax+5 \u2265 1",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex] \\frac{ \\sqrt{ x^{2} -x+2} }{ \\sqrt{x+5} }  \\geq 1[/tex]<br><br>kalikan penyebut ke 1<br><br>[tex] \\sqrt{ x^{2}-x+2}  \\geq  \\sqrt{x+5} [/tex]<br><br>kuadratkan kedua ruas<br><br>[tex] x^{2} -x+2-(x+5)  \\geq 0[/tex]<br><br>[tex] x^{2} -2x+3 \\geq 0[/tex]<br><br>(x+1)(x-3)\u00a0[tex] \\geq 0[/tex]..........(1)<br><br>buat grafik koordinat garis x pada -1 dan 3 sehingga didapat nilai di antara -1 dan 3 misal 2 dimasukkan ke pers 1 dapet minus, padahal nilai yg diharapkan\u00a0[tex] \\geq 0[/tex] maka kedua nilai disebelah kanan dan kiri merupakan plus dg melakukan pembuktian yang sama, dapet x[tex] \\leq -1[/tex] atau x[tex] \\geq 3[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-fungsi-fx-dan-gx-mempunyai-invers-f-i-f-invers-x-2-753",
+            "question": "jika fungsi f(x) dan g(x) mempunyai invers f-i (f invers) (x) = 2x-4/5 dan g-i (g invers) (x) = 3-2x/4 tentukan nilai p jika (fog)-i (invers) (p) = 2",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "fog^-1 = 2(3-2x/4)-4/5<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 = 1/10(3-2x-4/5)= 2<br>p= - 25/2<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-keliling-suatu-lingkaran-77-cm-panjang-jari-jari-lingkaran-te-685",
+            "question": "1. Keliling suatu lingkaran 77 cm, panjang jari-jari lingkaran tersebut berapa?    2. Diketahui tali busur AB melalui pusat lingkaran dengan panjang AB = 20 cm, berapakah luas lingkaran?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1. k = 2 phi r<br>77 = 2 . 22/7 . r<br>11 = 44 r<br>r = 0,25<br><br>bagian kedua ntar ya, mau mandi bentar -_-",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-diketahui-gxx2-6x-hx7-3x-a-g0hx-b-h0g-254",
+            "question": "Jika diketahui g(x)=x\u00b2-6x, h(x)=7-3x\r\na. (g\u2080h)(x) =\r\nb. (h\u2080g)(x) =",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "g\u00a0o\u00a0h(x) = 49 - 42x +9x^2 - 6(7 - 3x)<br>=\u00a049 - 42x +9x^2 - 42 + 18x<br>=\u00a09x^2 - 24x + 7<br><br>h o g(x) = 7 - 3(x^2 - 6x)<br>= 7 - 3x^2 + 18x<br>= -3x^2 +18x +7",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span>g o h(x)<br>g (7-3x)<br>(7 - 3x)^2 - 6(7-3x)<br>49 - 42 + 9x^2 - 42 + 18x<br>9x^2 - 24x +7</span>\n    <span>\n                    \n                                    l<br></span> <span>h o g(x)<br>h (x^2 - 6x)<br>7 - 3(x^2 - 6x)<br>7 - 3x^2 + 18x<br>-3x^2 + 18x + 7</span><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukanlah-suku-banyak-px-yang-memenuhi-persamaan-berikut-x2-151",
+            "question": "Tentukanlah suku banyak p(x) yang memenuhi persamaan berikut (x2 - 2x - 5)-p(x) = (3-2x)(5x-4)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "(x\u00b2 - 2x - 5) - p(x) = (3 - 2x) (5x - 4) <br>x\u00b2 - 2x - 5 - p(x) = 15x - 12 -10x\u00b2 + 8x <br>x\u00b2 - 2x - 5 - (15x - 12 - 10x\u00b2 + 8x) = p(x) <br>11x\u00b2 - 25x + 7 = p(x) <br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dengan-cara-melengkapkan-kuadrat-sempurna-tentukan-akar-akar-pers-430",
+            "question": "Dengan cara melengkapkan kuadrat sempurna tentukan akar-akar persamaan kuadrat berikut : 3xkuadrat-2x-3=0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "\u00a0\u00a01. Pindahkan konstanta ke ruas kanan \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 2. Bagilah kedua ruas dengan\u00a0 dengan a. \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a03. Jika koefisien x yang baru kita sebut b, maka tambah kedua ruas dengan \u00bdb2. \u00a0 \u00a0 \u00a0 \u00a0 <span>4. Ubah bentuk yang ada di ruas kiri menjadi kuadrat sempurna. \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a05. Hilangkan tanda kuadrat di sebelah kiri, sementara ruas kanan menyesuaikan dengan memberikan akar dan tanda \u00b1 di depannya \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a06. Pindahkan konstanta di ruas kiri ke ruas kanan \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 7. dengan memisahkan tanda plus dan minus maka kita peroleh dua nilai x, sehingga penyelesaian persamaan kuadarat sudah kita dapat.\u00a0</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "penyelesaian-34x-5lt11-444",
+            "question": "Penyelesaian 3\u2264(4x-5)&lt;11",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>3\u2264(4x-5)&lt;11=<br></span>2 \u2264x&lt;4 sorry, if the fals answer<br><br><br><br><br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "[tex]3  \\leq  4x-5&lt;11\\\\\n 3+5 \\leq 4x-5+5&lt;11+5\\\\\n8 \\leq 4x&lt;16\\\\\n\\frac{8}{4} \\leq \\frac{4x}{4}&lt;\\frac{16}{4}\\\\\n2 \\leq x&lt;4[/tex]",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

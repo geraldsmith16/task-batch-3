@@ -1,0 +1,132 @@
+{
+    "question": "Pada suatu peta,jarak 20 km ditunjukkan dengan jarak 4 cm.Berapa kilometer jarak yang ditunjukkan dengan panjang 16 cm?",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "Rumus mencari jarak: 20/4.16 = 80 km<br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "ikhsan-memiliki-3-orang-anak-pada-suatu-hari-ketiga-anaknya-terk-417",
+            "question": "ikhsan memiliki 3 orang anak. pada suatu hari ketiga anaknya terkena flu. sampai dirumah sakit diperoleh data bahwa suhu badan ketiga anak itu masing-masing, 40 drjat C,\u00a0 39,5 drrjt C, dan 40,6 drjt C. ubahlah ketiga suhu badan itu dalam derajat reamur dan Fahrenheit!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Reamur: <br>1. 40<span>\u2070C= </span>(4/5 x 40)<span>\u2070R= (4 x 8)</span><span>\u2070R= 32</span><span>\u2070R<br>2. 39,5</span><span>\u2070C= (4/5 x 39,5)</span><span>\u2070R= </span>( 4/5 x 395 . 10\u2227-1 )\u2070R = ( 4 x 79 . 10\u2227-1 )\u2070R = 316 . 10^-1 <span>\u2070R = 31,6</span><span>\u2070R<br>3. 40,6</span><span>\u2070C = ( 4/5 x 40,6 )</span>\u2070R =  ( 4/5 x 406 . 10^-1 )\u2070R= ( 4 x 8,12 x 10^-1 )<span>\u2070R = </span>( 4 x 812 x 10^-3 )\u2070R = 3248 x 10^-3 \u2070R = 3,248 \u2070R<br><br>Fahrenheit:<br>1. 40\u2070C= (9/5 x 40) +32 \u2070F= 72 + 32 \u2070F= 104<span>\u2070F<br>2. 39,5</span>\u2070C= (9/5 x 39,5) + 32 \u2070F = ( 9/5 x 395 . 10\u2227-1 ) + 32 \u2070F = ( 9 x 79 . 10\u2227-1 ) + 32 \u2070F = ( 711 . 10^-1) + 32 \u2070F = 71,1+ 32 <span>\u2070F = 103,1 </span>\u2070F<span><br>3. 40,6</span>\u2070C = ( 9/5 x 40,6 ) + 32 \u2070F =  ( 9/5 x 406 . 10^-1 )+ 32 \u2070F= ( 9 x 8,12 x 10^-1 )+ 32 \u2070F = ( 9 x 812 x 10^-3 )+ 32 \u2070F = (7308 x 10^-3) + 32 \u2070F = 7,308 + 32 \u2070F = 39,308 \u2070F <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "ubahlah-masalah-nyata-berikut-ke-dalam-bentuk-pertidaksaman-linea-706",
+            "question": "Ubahlah masalah nyata berikut ke dalam bentuk pertidaksaman linear satu variabel.    a) Sebuah bus dapat mengangkut tidak kurang dari enampuluh orang penumpang.\r\nb) Jarak rumah Beni ke sekolah lebih dari seratus meter.\r\nc) Penghasilan ibu Monika tidak lebih dari dua juta rupiah setiap bulannya.\r\nd) Sebuah pesawat berada diketinggian tidak kurang dari tiga ribu kaki di atas permukaanlaut.\r\ne) Kecepatan Udin berkendara tidak lebih dari 50 km/jam.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a. x&gt;=60<br>b.x&gt;100<br>c.x&lt;=2000000<br>d.x&gt;=3000<br>e.x&lt;=50",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "upik-membuka-usaha-keripik-kentang-yang-dipasarkanpada-ibu-ibu-d-830",
+            "question": "Upik membuka usaha keripik kentang ,yang dipasarkanpada ibu-ibu di sekitar komplek upiktinggal. Agar pembeli tidak kecewa upik harusberusaha potongan kripiknya sebagus mungkindan hampir sama panjangnya. Setelah digorengUpik menimbang berat keripik kentang itu,ternyata dari 8 butir kentang diperoleh kripikdengan berat 1,2 ons.    a. Jika tetangga upik memesan 2 kg keripik,Berapa butir kentang yang harus digorengupik\r\n.b. Berapa butir kentang digoreng untuk membuat6 kg keripik\r\n.c. Berapa kg keripik yang dihasilkan dari 60butir kentang\r\n.d. Sajikan data perbandingan pada tabel dangambarkan grafiknya pada koordinat kartesius.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "8 butir\u21d21,2 ons =12 kg<br>80 butir\u21d2 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a01,2 kg<br>800butir\u21d2 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 12 kg<br>a.800butir\u21d212kg<br>\u00a0 \u00a0 \u00a0 ? \u00a0 \u00a0 \u00a0\u21d22kg<br>800/x=12/2(disderhanakan menjadi 6/1)<br>6x=800<br>x=800/6<br>x=133,33 =134 butir<br>b.800/x=12/6(di sederhanakan mnjadi 2/1)<br>2x=800<br>x=800/2<br>x=400 butir<br><br>\u00a0 \u00a0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bagaimana-cara-mencari-a-panjang-busur-ac-b-luas-juring-aoc-ji-445",
+            "question": "Bagaimana cara mencari:    a. panjang busur AC\r\nb. luas juring AOC\r\njika lingkaran tsb berdiameter 30 cm dan sudut AOC=90 derajat",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a. 90/360 . 3,14 . 30 = 23,55<br>b. 90/360 . 3,14 . 15 .15 = 176,625",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "help-kasih-caranya-juga-ya-thanks-783",
+            "question": "[HELP] kasih caranya juga ya thanks",
+            "attachments": [
+                "question-attachments/help-kasih-caranya-juga-ya-thanks-783-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "[tex]( \\sqrt[4]{2})^{6}  = (2^ \\frac{1}{4})^6 = 2^ \\frac{6}{4} = 2^ \\frac{3}{2} =  \\sqrt 2^{3}  = 2  \\sqrt{2} [/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-sudut-terkecil-dari-jam-0430-341",
+            "question": "Tentukan sudut terkecil dari jam 04.30",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "130 &#039; ( derajat )\u00a0<br>semoga betul",
+                    "attachments": []
+                },
+                {
+                    "answer": "Sudut terkecilnya adalah 130 derajat",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "kenapa-kebanyakan-siswa-mengaku-bahwa-matematika-itu-pelajaran-yg-263",
+            "question": "Kenapa kebanyakan siswa mengaku bahwa matematika itu pelajaran yg sulit?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "karena matematika terlalu banyak rumus dn siswa susah memahami nya<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dengan-mendaftar-anggotanyatentukan-hubungan-yang-mungkin-antarh-366",
+            "question": "Dengan mendaftar anggotanya,tentukan hubungan yang mungkin antarhimpunan berikut ini.    A={x|x vokal}\r\nB={x|x konsonan}\r\nC={x|x nama bulan yang berumur 30 hari}\r\nD={x|x 1,2,3}\r\nE={x|x nama bulan dalam setahun yang dimulai dengan huruf J}\r\nF={x|x 2,1,3}\r\nG={x|10 &lt; x &lt;\u00a020, x\u00a0\u2208 bilangan prima}\r\nH={bilangan cacah}\r\nI ={bilangan ganjil}\r\nJ={x|x &lt; 9,x\u00a0\u2208 bilangan ganjil}",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "A= a,i,u,e,o<br>B= huruf selain a, i, u, e, o.<br>C= April, Juni, September, November<br>D= 1,2,3<br>E= Januari, Juni, Juli<br>F= 3,2,1<br>G= x bilangan prima antara 10 dan 20 (11,13,17,19)<br>H= bil cacah ( tau kan)<br>I = bil ganjil (tau kan)<br>J = 1,3,5,7<br>nah coba aja, a sama b hubungannya apa ?<br>nih aku kasih pilihan tuk hubungan A-J = him kosong, semesta, lepas, bagian, kompolex, dan cari dibuku smp kelas 7",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "semua-himpunan-dari-10ltxlt10-xbilangan-bulat-yang-habis-278",
+            "question": "Semua himpunan dari -10&lt;x&lt;10    x\u2208bilangan bulat yang habis dibagi 3\r\nyang mempunyai 3 anggota",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "{-9,-8,-7,-6,-5,-4,-3,-2,-1,0,1,2,3,4,5,6,7,8,9}",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "andi-dapat-menyelesaikan-pekerjaan-dalam-waktu-3jam-sedangkan-bu-213",
+            "question": "Andi dapat menyelesaikan pekerjaan dalam waktu 3jam, sedangkan budi dapat menyesaikan pekerjaan dalam waktu 2jam. Jika Andi dan Budi menyelesaikan pekerjaan tersebut bersama sama ,maka hitunglah waktu yang di perlukan keduanya ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "andi = 3 jam<br>budi = 2 jam<br><br>3-2 = 1<br><br>jadi jawabanya 1 jam<br><br>sorry, tadi salah baca soal",
+                    "attachments": []
+                },
+                {
+                    "answer": "Andi = 3 jam<br>Budi = 2 jam<br>Selisih = 3-2 = 1 jam.<br>Karena mereka mengerjakannya bersama-sama maka waktunya cuma 1 jam.\u00a0<br>Maaf klo salah",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

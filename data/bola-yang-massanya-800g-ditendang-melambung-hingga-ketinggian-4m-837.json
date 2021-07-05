@@ -1,0 +1,148 @@
+{
+    "question": "Bola yang massanya 800g ditendang melambung hingga ketinggian 4m dari tanah. Jika percepatan gravitasinya 10m/s\u00b2 hitunglah:    a. Energi potensial gravitasi maximal\r\nb. Energi kinetik ketika bola kembali menyentuh tanah",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "Ep = m x g x h<br>Ep = 0,8 (massa jadikan kg) x 10 x 4<br>Ep = 32 J<br><br>Ek = 1/2 m vkuadrat<br>",
+            "attachments": []
+        },
+        {
+            "answer": "a. Energi potensial : m x g x h<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 : 0.8 kg x 4 m x 10 m/s<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 : 32<br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "andri-memiliki-massa-65-kg-dengan-percepatan-gravitasi-98-ms2-552",
+            "question": "Andri memiliki massa 65 kg dengan percepatan gravitasi 9,8 m/s2. Berapakah berat andri? #dengan cara",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "F= m .a<br>\u00a0 =65 kg .9,8m/s<u></u><br>\u00a0 = 637 N (newton)<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "[tex]w=m.g \\\\ =65.9,8 \\\\ =637 Newton[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-jelaskan-tentang-gaya-berat-dengan-contoh-soal-dan-cara-me-108",
+            "question": "Tolong jelaskan tentang gaya berat dengan contoh soal dan cara menjawabnya",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "gaya berat (w) = massa (m) . g (gravitasi)<br><br>dimana gaya berat merupakan berat benda yang dipengaruhi oleh massa dan gravitasi di daerah tertentu,<br><br>misalnya ada soal,diketahu massa sebuah bola adalah 5 kg,tentukan berat benda pada daerah dengan gravitasi 10 m/s^2 !<br>jwb =\u00a0<br>w = m.g = 5 kg . 10 m/s^2 = 50 N<br><br>ingat satuan berat ialah newton :)",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "cara-menghitung-kalor-gimana-sih-446",
+            "question": "Cara menghitung kalor gimana sih *:)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "kaloperubahan suhu\u00a0<br>Q=m.c.\u0394t<br>q=H.\u0394t<br>h= m.c<br>kaloperubahan wujud q =M.L",
+                    "attachments": []
+                },
+                {
+                    "answer": "Q= M\u00b7C\u00b7\u0394T<br>Q<strong></strong>= BANYAK NYA KALOR YANG DIPERLUKAN<br>M= MASSA ZAT<br>C= KALOR JENIS ZAT<br>\u0394T= KENAIKAN SUHU<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "hitunglah-kalor-yang-dibutuhkan-sebutr-es-batu-untuk-mencair-yang-649",
+            "question": "hitunglah kalor yang dibutuhkan sebutr es batu untuk mencair yang memiliki kalor lebur 336\u00d710\u00b3 J/KG, bila massa es batu 60 gr",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Q = m \u00d7 L<br>Q = 0,06 kg \u00d7 336000<br>Q = 2016 J<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "dik ; L= 336 x 10\u00b3, m= 6 gr = 0,06 kg<br>dit; Q=...?<br>Q= mx L<br>\u00a0 \u00a0 =0,06kg x 336 x 10\u00b3<br>\u00a0 \u00a0 \u00a0= 20,16 x 10 \u00b3<br>\u00a0 \u00a0 \u00a0 = 20160 J",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebutkan-rumus-kilo-kalori-816",
+            "question": "Sebutkan rumus kilo kalori",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1 kilo kalori = 10 pangkat 3 kalori<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "1 kilo kalori=10 pangkat\u00a0 3 kalori<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-benda-dengan-massa-5-kg-yang-mula-mula-diam-dikerjakan-gay-320",
+            "question": "Sebuah Benda Dengan Massa 5 kg yang mula mula diam dikerjakan gaya konstanta sebesar 10N.Berapa jarak Yang ditempuhbenda setelak 10 sekon?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "W = m.g\u00a0<br>\u00a0 \u00a0 = 5 . 10<br>\u00a0 \u00a0 = 50 j<br>W = F.\u0394s<br><br>\u0394s = 50/10 = 5 m<br>jadi jarak yang di tempuh benda setelah 10 sekon adalah 5 m",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "plissssss-jawab-apa-pertanyaa-gambar-di-bawah-ini-karena-besok-474",
+            "question": "Plissssss jawab apa\u00a0 pertanyaa gambar di bawah ini karena besok disetor ok!!!!!!",
+            "attachments": [
+                "question-attachments/plissssss-jawab-apa-pertanyaa-gambar-di-bawah-ini-karena-besok-474-1.png"
+            ],
+            "answers": [
+                {
+                    "answer": "KM (keuntungan mekanik) pada katrol bebas adalah 2<br>F = [tex] \\frac{1}{2} [/tex]\u00a0w<br><br>F =\u00a0[tex] \\frac{1}{2} [/tex] (20 N\u00a0+5 N)<br>F =\u00a0[tex] \\frac{1}{2} [/tex] 25 N<br>F = 12,5 N",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sejumlah-zat-cair-massanya-1-kg-suhunya-80derajat-celcius-dim-498",
+            "question": "sejumlah zat cair massanya 1 kg suhunya 80(derajat celcius),\u00a0dimasukkan kedalam 2 kg air yang suhunya 20(derajat celcius), setelah keadaan setimbng,suhu campuran menjadi 23. bila kalor jenis air 1, berapakah kalor jenis logam",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "jika soal yang di maksud bermassa 1 kg itu adalah logam, berarti c logam adalah\u00a00,105",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "rumus-mencari-gaya-yg-diperlukan-pada-bidang-miring-yang-sudah-d-982",
+            "question": "Rumus mencari gaya yg diperlukan\u00a0pada bidang miring yang sudah diketahui massa benda, jarak, tinggi, gravitasi nya? (pel. ipa kls VIII smp)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "percepatan mungkin............................",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span>Rumus mencari gaya yg diperlukan\u00a0pada bidang miring yang sudah diketahui massa benda, jarak, tinggi, gravitasi nya?\u00a0</span>n = m.g.h, v = s/t",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bagaimana-menjawab-soal-berikut-ini-dengan-menggunakan-rumus-ener-706",
+            "question": "Bagaimana menjawab soal berikut ini dengan menggunakan rumus energi\u00a0    Seorang atlet ski meluncur dari sebuah bukit salju setinggi 20 meter hingga mencapai permukaan datar di dasar bukit. Jika gesekan antara papan ski dan permukaan salju diabaikan, berapakah kecepatan atlet ski tersebut ketika mencapai dasar bukit? (g = 10 m/s\u00b2)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Untuk menjawab soal tersebut gunakan rumus Energi mekanik <br>dengan rumus v = \u221a2gh maka diperoleh<br>Dik h = 20 m<br>\u00a0\u00a0 \u00a0 g = 10 m/s<br>Dit v ?<br>jawab.<br><br>v = \u221a2 g h<br>\u00a0 = \u221a2.10.20<br>\u00a0 = \u221a400<br>\u00a0 = 20 m/s<br><br>jadi kecepatan sky pada saat mencapai dasar bukit adalah 20 m/s<br><br>Like ok!<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

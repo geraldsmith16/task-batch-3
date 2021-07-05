@@ -1,0 +1,132 @@
+{
+    "question": "MATERI ; TRIGONOMETRI.    Hitunglah bentuk berikut dengan menggunakan rumus setengah sudut.\r\n1. tan 22,5 =\r\n2. cos 22,5 =",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "b. cos 22,5 =\u00a01/2 . 45<br>\u221a1+cos 45 : 2<br>\u221a1 + 1/2\u221a2 :2<br>\u221a2+\u221a2 \u00a0: 4<br>1/2\u00a0\u221a2+\u221a2",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "apabila-p42-dan-a-sudut-yang-dibentuk-oleh-sisi-op-dengan-su-434",
+            "question": "apabila P(4,2) dan\u00a0\u03b1 sudut yang dibentuk oleh sisi OP dengan sumbu Y, tentukan nilai dari sin\u03b1, cos\u03b1, tan\u03b1, sec\u03b1,cosec\u03b1 !",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "harap dikoreksi apabila terdapat kesalahan<br>silakan dipelajari",
+                    "attachments": [
+                        "answer-attachments/apabila-p42-dan-a-sudut-yang-dibentuk-oleh-sisi-op-dengan-su-434-1.png"
+                    ]
+                },
+                {
+                    "answer": "diket = OP (4,2) dengan a=4 dan b = 2. cari c/sisi miringnya = \u221a16 + \u221a4 = \u221a20 = 2\u221a5.<br>sin \u03b1 = b/c = 2/2\u221a5 = 4\u221a5/20= 1/5 \u221a5<br>cos \u03b1 =\u00a0 a/c = 4/2\u221a5= 8\u221a5/20=2\u221a5/5<br>tan= b/ a = 2/4 = 1/2<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-siswa-direlasikan-dengan-tanggal-kelahirannya-apakah-relas-900",
+            "question": "jika siswa direlasikan dengan tanggal kelahirannya , apakah relasi itu merupakan fungsi ? berikan penjelasannya ??",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "tdak karena tdAK MENutup kemungkinan terdapat kesamaan tanggal lahir",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "rata-rata-berat-badan-apri-danbambang-49-kg-rata-rata-apri-dan-489",
+            "question": "Rata-rata berat badan Apri danBambang 49 kg . Rata-rata apri dan cici 47 kg sedangkan rata-rata b ambang dan Cici 48 kg . Berapakah rata-rata berat bambang apri ,bambang dan cici .??\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "apri = x<br>bambang = y<br>cici = z<br><br>x+y = 98<br>x+z = 94<br>y+z= 96<br><br>x+y= 98<br><u>x+z = 94</u> -<br>y-z= 4<br><br>y+z= 96<br><u>y-z= 4</u> -<br>2z = 92<br>z= 46<br><br>y+z = 96<br>y+46=96<br>y= 40<br><br>x+y= 98<br>x+40=98<br>x= 48<br><br>(46+48+40) : 3 =45 kg<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-tentukan-hasil-kali-akar-akar-persamaan-kuadrat-dari-px-qx-749",
+            "question": "1.\u00a0Tentukan hasil kali akar-akar persamaan kuadrat dari\u00a0px = qx\u00b2    2, jika diketahui persamaan kuadrat 6x\u00b2 - 48x + 90 = 0\r\n\u00a0 tentukan ;\r\n\u00a0 \u00a0a. X1\u00b2 . X2\u00b2 + X2\u00b2 . X1\u00b2\r\n\u00a0 \u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1. px = qx2<br>qx2-px=0<br>x(qx-p)=0<br>x1=0 atau qx-p=0<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 x2 = p/q<br>x1.x2= 0.p/q=0<br><br>2. 6x\u00b2-48x+90=0<br>x\u00b2+8x-15=0<br>(x-3) atau (x-5)<br>x1=3 atau x2=5<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "coba-tolong-dilihat-dulu-ada-yang-bisa-bantu-1-2-557",
+            "question": "Coba tolong dilihat dulu, ada yang bisa bantu?    1. \r\n2.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]\\int (4x-3)dx= \\int 4xdx-\\int 3dx\\\\\n\\int (4x-3)dx= 2x^2-3x+C\\\\\\\\\n\\int \\frac{2}{\\sqrt{2}-5}dx=\\frac{2x}{\\sqrt{2}-5}+C[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-barisan-5-8-11125-punya-suku-tengah-ut-maka-t-ut-310",
+            "question": "Jika barisan 5, 8, 11........125 punya suku tengah Ut maka t + Ut adalah    mnta tolong yha kl ada yg bsa bntuin\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a= 1, Un=131<br>\u00a0Ut= 1/2(a+ Un)<br>\u00a0\u00a0\u00a0 =1/2(5+131)<br>\u00a0\u00a0\u00a0 =1/2(136)<br>\u00a0\u00a0\u00a0 = 68<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pekerjaan-pak-suradi-adalah-pembuat-talang-airia-mendapat-pesana-415",
+            "question": "pekerjaan pak suradi adalah pembuat talang air.ia mendapat pesanan membuat talang air dari lembaran seng yang lebarnya 30cm dengan melipat lebarnya atas 3 bagian. bantulah pak suradi menentukan ukuran x agar volume tertampung maksimal ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "mav, soalnya ntu ada gambarnya nggak?<br>cz, x nya itu dmn?<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-nilai-x-yang-memenuhi-pertidaksamaan-irasional-berikut-384",
+            "question": "Tentukan nilai x yang memenuhi pertidaksamaan irasional berikut\r\n\u221ax\u00b2-x+2 per \u221ax+5 \u2265 1",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex] \\frac{ \\sqrt{ x^{2} -x+2} }{ \\sqrt{x+5} }  \\geq 1[/tex]<br><br>kalikan penyebut ke 1<br><br>[tex] \\sqrt{ x^{2}-x+2}  \\geq  \\sqrt{x+5} [/tex]<br><br>kuadratkan kedua ruas<br><br>[tex] x^{2} -x+2-(x+5)  \\geq 0[/tex]<br><br>[tex] x^{2} -2x+3 \\geq 0[/tex]<br><br>(x+1)(x-3)\u00a0[tex] \\geq 0[/tex]..........(1)<br><br>buat grafik koordinat garis x pada -1 dan 3 sehingga didapat nilai di antara -1 dan 3 misal 2 dimasukkan ke pers 1 dapet minus, padahal nilai yg diharapkan\u00a0[tex] \\geq 0[/tex] maka kedua nilai disebelah kanan dan kiri merupakan plus dg melakukan pembuktian yang sama, dapet x[tex] \\leq -1[/tex] atau x[tex] \\geq 3[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-diketahui-gxx2-6x-hx7-3x-a-g0hx-b-h0g-254",
+            "question": "Jika diketahui g(x)=x\u00b2-6x, h(x)=7-3x\r\na. (g\u2080h)(x) =\r\nb. (h\u2080g)(x) =",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "g\u00a0o\u00a0h(x) = 49 - 42x +9x^2 - 6(7 - 3x)<br>=\u00a049 - 42x +9x^2 - 42 + 18x<br>=\u00a09x^2 - 24x + 7<br><br>h o g(x) = 7 - 3(x^2 - 6x)<br>= 7 - 3x^2 + 18x<br>= -3x^2 +18x +7",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span>g o h(x)<br>g (7-3x)<br>(7 - 3x)^2 - 6(7-3x)<br>49 - 42 + 9x^2 - 42 + 18x<br>9x^2 - 24x +7</span>\n    <span>\n                    \n                                    l<br></span> <span>h o g(x)<br>h (x^2 - 6x)<br>7 - 3(x^2 - 6x)<br>7 - 3x^2 + 18x<br>-3x^2 + 18x + 7</span><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "aku-punya-pr-tapi-aku-atak-tahu-bagaimana-cara-untuk-menemukan-ja-208",
+            "question": "Aku punya PR tapi aku atak tahu bagaimana cara untuk menemukan jalan solusinya,    pertanyaannya begini:\r\n\r\nTemukan grafik fungsi kuadrat f(X) = 4x\u00b2 - 8x +\u00a03, dari grafik fungsi kuadrat g(x) = 4x\u00b2 !\r\n\r\nMohon penjelasannya!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]f(x)=4x^2-8x+3\\\\\ncari\\ titik\\ potong\\ thdp\\ sb\\ x\\ (y=0)\\\\\n0=4x^2-8x+3\\\\\n(2x-3)(2x-1)=0\\\\\nx=\\frac{3}{2}\\ atau\\ x=\\frac{1}{2}\\\\\ndiperoleh\\ (\\frac{3}{2},0)\\ dan\\ (\\frac{1}{2},0)\\\\\\\\\ncari\\ tipot\\ thdp\\ sb\\ y\\ (x=0)\\\\\nf(x)=y=4x^2-8x+3\\\\\ny=4(0)^2-8(0)+3\\\\\ny=3\\\\\ndiperoleh\\ (0,3)\\\\\\\\\ncari\\ titik\\ puncak\\ P(\\frac{-b}{2a},\\frac{-(b^2-4ac)}{4a})\\\\\nP(\\frac{-(-8)}{2(4)},\\frac{-((-8)^2-4(4)(3))}{4(4)})\\\\\nP(1,-1)\\\\\nletakkan\\ semua\\ titik\\ pada\\ koordinat\\ kartesius\\\\\nlalu\\ gambar\\ grafiknya[/tex]",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,154 @@
+{
+    "question": "Tentukan jari-jari yang mempunyai luas\u00a0\r\na. 113,04cm\r\nb.38,5 cm\r\n\r\nsecepatnya tri makasih :)",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "[tex]luas= \\pi r^2\\\\\\\\\nr= \\sqrt{ \\frac{luas}{ \\pi } } \\\\\\\\\\\\\na.\\\\r= \\sqrt{ \\frac{113,04}{ 3,14 } }\\\\\nr= \\sqrt{36}\\\\\nr=6\\\\\\\\\\\\\nb.\\\\\nr= \\sqrt{ \\frac{38,5}{ \\frac{22}{7} } } \\\\\nr= \\sqrt{12,25}\\\\\nr=3,5 [/tex]",
+            "attachments": []
+        },
+        {
+            "answer": "rumus luas lingkaran\u00a0[tex] \\pi [/tex] x r x r\u00a0<br>Pi: 22/7 / 3,14<br><br>a.\u00a0113,04:3,14=36 akar pangkat 36= 6cm\u00a0<br>b. 38,5x7= 269.5 : 22= 12.25 akar pangkat 12.25=3.5cm\u00a0",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "sebuah-mobil-memerlukan-bahan-bakar-12-liter-untuk-menempuh-jarak-612",
+            "question": "sebuah mobil memerlukan bahan bakar 12 liter untuk menempuh jarak 120 km dengan kondisi mendatar 84 km dan sisanya menanjak. pada saat menanjak bahan bakar yang diperlukan 2 kali lipat\u00a0daripada jalan mendatar. jika suatu ketika mobil tersebut menempuh jarak 312 km dengan kondisi jalan mendatar saja,maka\u00a0banyak bahan bakar yang diperlukan?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "12 L\u00a0 untuk 120 km<br>bahan bakar utk 312 km ?<br><br><u>12</u> = <u>120</u><br>x\u00a0\u00a0 = 312<br><br>120 x = 312 x 12<br>120 x = 3744<br>x = 3744 \u00f7 120<br>x = 31,2<br>maka bahan bakar yang dibutuhkan 31,2 L<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "panjang-diagonal-sebuah-persegi-panjang-adalah-10-cm-jika-lebar-660",
+            "question": "panjang diagonal sebuah persegi panjang adalah 10 cm. jika lebar persegi panjang tersebut adalah 6 cm . maka keliling persegi panjang adalah ...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "keliling= 10x2+6x2 =32",
+                    "attachments": []
+                },
+                {
+                    "answer": "panjangnya 8cm<br>maka:<br>8+6+8+6=28cm<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bentuk-sederhana-dari-32432-3-adalah-bantu-ya-m-334",
+            "question": "Bentuk sederhana dari (3\u221a2+4\u221a3)(\u221a2-\u221a3) adalah? bantu ya makasih",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "6 - akar 6 + 4 akar 2\n\nmaaf kalo salah",
+                    "attachments": []
+                },
+                {
+                    "answer": "kerjain biasa? V6 - 6",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-diketahui-barisan-aritmatika-dengan-u1-3-un-87-dan-u6-u7-359",
+            "question": "1. Diketahui barisan aritmatika dengan U1= 3, Un= 87, dan U6 + U7 = 9. Tentukan : a) b=...? b) n=...? c) U50=....?    Pake caraa .. please jawab yaaa:)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "U1 = a = 3<br><br><span>U6 + U7 = 9<br>[a + (6-1)b] + [a + (7-1)b] = 9<br>[3 + 5b] + [3 + 6b] = 9<br>6 + 11b = 9<br>11 b = 9 - 6<br>11b = 3<br>b = [tex] \\frac{11}{3} [/tex] <br><br><br><br><br></span><span>Un= 87<br>a + (n-1)b = 87<br>3 + (n-1) </span>[tex] \\frac{11}{3} [/tex] = 87<br>3 + [tex] \\frac{3}{11} n[/tex] - [tex] \\frac{3}{11} [/tex] = 87<br>[tex] \\frac{36}{11} [/tex] + [tex] \\frac{3}{11} n[/tex] = 87<br>[tex] \\frac{3}{11} n[/tex] = 87 - [tex] \\frac{36}{11} [/tex]<br>[tex] \\frac{3}{11} n[/tex] = [tex] \\frac{957}{11} [/tex]<br>3n = 957<br>n = 319<br><br><br><span>U50 = 3 + 49b<br>\u00a0\u00a0 \u00a0\u00a0\u00a0 = 3 + 49 [tex] \\frac{3}{11} [/tex]<br>\u00a0\u00a0 \u00a0 \u00a0 = 3 + 13,3<br>\u00a0\u00a0 \u00a0 \u00a0 = 16,3<br><br><br><br>semoga membantu :)<br></span><br><br><br><br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "gradien-garis-3y-5x120-adalah-161",
+            "question": "Gradien garis 3y-5x+12=0 adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "m=-a/b<br>\u00a0 \u00a0=-(-5)/3<br>\u00a0 \u00a0=5/3",
+                    "attachments": []
+                },
+                {
+                    "answer": "3y - 5x + 12 = 0<br>3y = 5x -12<br>[tex]y =  \\frac{5}{3} x - 4[/tex]<br><br>[tex]m = \\frac{5}{3} [/tex]<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tiga-tahun-yg-lalu-jumlah-umur-budi-dan-anton-adalah-12-tahun-ji-391",
+            "question": "Tiga tahun yg lalu jumlah umur budi dan anton adalah 12 tahun. jika umur budi sekarang 12 tahun maka berapa umur anton sekarang?    yg tau tlng bantu yah kalau blh dngn caranya!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "12 + n = 18<br>\u00a0 \u00a0 \u00a0 \u00a0n = 18 - 12<br>\u00a0 \u00a0 \u00a0 \u00a0n = 6<br>jadi umur anto sekarang adalah 6 tahun<br>6 diperoleh dari 3 tahun umur anto dan 3 tahun umur budi",
+                    "attachments": []
+                },
+                {
+                    "answer": "(budi - 3)\u00a0 + (Anton - 3) =12<br>(12 - 3) + (Anton - 3) = 12<br>9 + Anton - 3 = 12<br>Anton = 12 - 9 +3<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 6<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "ingat-cuma-test-bagaimana-rumus-untuk-mencari-ukuran-seben-929",
+            "question": "Ingat Cuma Test !!!    Bagaimana Rumus untuk mencari :\r\n-Ukuran Sebenarnya\r\n-Ukuran Pada Peta\r\n-Skala",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "klo cari jarak sebenar&#039;a (jarak\u00a0pada peta : sekala)<br>klo cari sekala (jarak pada peta x jarak sebenar&#039;a)<br>klo cari jarak pada peta (jarak sebenar&#039;a : sekala)",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "nilai-t-yang-memenuhi-persamaan-21-2t23-2t-adalah-645",
+            "question": "Nilai t yang memenuhi persamaan 2(1-2t)=23-2t adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "2 (1-2t) =23-2t<br>2-4t=23-2t<br>-4t+2t=23-2<br>-2t=21<br>t=-10,5<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "2 (1-t)=23-2t\n2-4t=23-2t\n-4t+2t=23 -2\n-2t=21\n t= -21/2",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "manakah-pernyataan-yang-benar-1-jika-sudut-a-dan-sudut-b-ada-436",
+            "question": "Manakah pernyataan yang benar? \u00a0 1. Jika sudut A dan Sudut B adalah sudut berpelurus, maka sudut A tidak pernah sama besar dengan sudut B. \u00a0 2. Jika sudut A adalah sudut tumpul maka pelurus sudut A pasti sudut lancip. \u00a0 3. Jika sudut berpenyiku sudut A lebih kecil dari 30 derajat maka pelurus sudut A adalah sudut tumpul",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Pernyataan yang benar adalah nomor 3<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Pernyataan yang benar nomor 2.",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "panjang-sebuah-taman-yang-berbentuk-persegi-panjang-3m-lebih-dari-857",
+            "question": "panjang sebuah taman yang berbentuk persegi panjang 3m lebih dari lebar nya. jika keliling taman tersebut 54m, maka luas taman adalah.,.......m^{2}",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "luas tamannya adalah 180",
+                    "attachments": []
+                },
+                {
+                    "answer": "panjang = (3 + lebar)<br>keliling = 2 (panjang + lebar)<br>54 = 2 ((3 + lebar) +lebar )<br>54 = 2 (3 + 2lebar)<br>54 = 6 + 4 lebar<br>54 - 6 = 4 lebar<br>48 = 4 lebar <br>lebar = 12<br><br>panjang = 3+ lebar<br>= 3 + 12<br>= 15<br><br>Luas = panjang x lebar<br>= 12 x 15<br>= 180 m2<br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

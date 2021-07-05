@@ -1,0 +1,138 @@
+{
+    "question": "Tentukan Jumlah Deret aritmatika berikut!\r\n2+8+14+12+...... sampai dengan 10 suku.",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "berarti deretnya\u00a0<br>2+8+14+12+6+12+14+8+2+8 = 86 ???",
+            "attachments": []
+        },
+        {
+            "answer": "2,8,12,14<br>Sn = 1/2 . n (U1+Un)<br>\u00a0 \u00a0 \u00a0= 1/2 . 10 (2 + 10)<br>\u00a0 \u00a0 \u00a0= 5 (12)<br>\u00a0 \u00a0 \u00a0= 60",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "sebuah-bola-dilempar-vertikal-ke-atas-dgn-kecepatan-awal-vo-39-939",
+            "question": "Sebuah bola dilempar vertikal ke atas dgn kecepatan awal Vo = 39, 2m/s\u00b2 dan tanah dgn g=9,8 m/s\u00b2. Nyatakan dahulu posisi bola, y (dalam meter) setelah t sekon. Kapankah ketinggian y lebih dari 34,3 m?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "kalau saya cari hasil nya 1 sekon lebih agar ketinggian lebih dari 34,3<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-kasih-tau-jawaban-dan-penyelesaiannya-juga-dong-banyak-369",
+            "question": "Tolong kasih tau jawaban dan penyelesaiannya juga dong :)    Banyak bilangan antara 2000 dan 6000 yang dapat disusun dari angka 0,1,2,3,4,5,6,7 dan tidak ada angka yang sama adalah...\r\nTerimah kasih sebelumnya yaa :)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "buat 4 kotak\u00a0 |ribuan|ratusan|puluhan|satuan|<br>|5|7|6|5| = 5 x 7 x 6 x 5 = 1050.<br><br>nb:<br>kotak pertama = dari 0 - 7 yang memenuhi tempat ribuan ada 5 (2, 3, 4, 5, 6)<br>kotak kedua\u00a0 \u00a0  = dari 0 - 7 yang memenuhi tempat ratusan ada 7<br>(jika syaratnya tidak ada angka yang sama, peluang setiap kotaknya di kurang 1, kemudian setiap angka dikalikan, dan itulah hasilnya)<br>dst..<br>:D<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tiga-buah-bilangan-membentuk-barisan-aritmatika-jika-jumlah-keti-567",
+            "question": "tiga buah bilangan membentuk barisan aritmatika. jika jumlah ketiga bilangan itu 30, sedangkan hasil kalinya 640, tentukan ketiga bilangan tersebut !",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "misal barisannya : (a-b) , a , dan (a+b)<br>(a-b) + a +(a+b) = 30<br>3a = 30<br>a = 10<br>Hasil kali : <br>(a-b).a.(a+b) = 640<br>(10-b).10.(10+b) = 640<br>100 - b\u00b2 = 64<br>100 - 64 - b\u00b2 = 0<br>36 - b\u00b2 =0<br>b = 6 \u2228 b =\u00a0- 6 =&gt; pilih saja b = 6<br>maka barisannya : (10-6) , 10 , (10+6)<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 4, 10, 16<br>\u00a0<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "a-b,a,a+b BA \u00a0jumlah ketiga bil = 30<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u21d4 \u00a0 \u00a0 \u00a0 3a = 30 maka a = 10<br>(a-b)a(a+b) = 640 maka \u00a010(10-b)(10+b) = 640\u21d4 100 - b\u00b2= 64 maka b = 6 <br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0atau b = -6<br>ketiga bil itu adalah 4,10,16 atau 16,10,4",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suatu-kotak-berisi-5-kelereng-merah-dan-3-kelereng-putihdua-kele-757",
+            "question": "suatu kotak berisi 5 kelereng merah dan 3 kelereng putih.dua kelereng di ambil satu persatu tanpa pengembalian kelereng pertama kedalam kotak.peluang terambilnya kelereng pertama\u00a0dan kedua berwarna merah adalah?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "klu ndasalh 1/4<br><br>maaf klau slahhhh<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "5\u00d73= 15<br>15:5 = 3<br>5= ADALAH kelereng pertama berwarna merah<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-jumlah-10-suku-pertama-barisan-aritmatika-adalah-1255-473",
+            "question": "diketahui jumlah 10 suku pertama barisan aritmatika adalah 1255, jika bedanya 6. tentukanlah suku pertama dan rumus suku ke-n?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "U1 + U2 +..... + U10 = 10U1 + (1\u00a0+\u00a02\u00a0+ 3 + 4 + 5 + 6 + 7 + 8 + 9)b =1225<br><br>10U1 + 45.6 = 1255<br>10U1 +\u00a0270 = 1255<br>10U1 = 985<br>U1 = 98,5<br><br>Un = U1 + (n-1)b<br>Un = 98,5 + (n-1)6<br>Un = 98,5 + 6n -\u00a06<br>Un = 6n + 92,5",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "berapa-radian-putaran-sebuah-jarum-panjang-suatu-jam-apabila-berp-617",
+            "question": "Berapa radian putaran sebuah jarum panjang suatu jam apabila berputar selama 54 menit???",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "radian putaran sebuah jarum jam apabila berputar selama 54 menit adalah -22596",
+                    "attachments": []
+                },
+                {
+                    "answer": "radian sama kayak derajat dlm 5 mnt bukan?",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "ingkaran-dari-p-q-adalah-bentuk-ekuivalen-p-gt-q-adalah-533",
+            "question": "Ingkaran dari p ^ q adalah....\r\nbentuk ekuivalen -p -&gt; q adalah...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "ingkaran dari p ^ q adalah p v q<br>soal ke 2 itu bener ya?<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-bilangan-enam-angka-n-yang-memenuhi-i-n-adalah-bilanga-617",
+            "question": "Tentukan bilangan enam angka n yang memenuhi (i) n adalah bilangan kuadrat sempurna, (ii) bilangan dibentuk dengan tiga angka terakhir n lebih satu dari tiga angka pertama n. (Sebagai ilustrasi n terlihat seperti 123124 tetapi itu bukan bilangan kuadrat)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span><span>Gini,,,<br><br>Misalkan tiga angka pertama n adalah a, maka n = 1000a + a + 1 = m^<br>m^ \u2212 1 = 1001a = 7 \u22c5 11 \u22c5 13 \u22c5 a<br>100000 \u2264 m^ \u2264 999999<br>316 &lt; m &lt; 1000<br>(m + 1) (m \u2212 1) = 7 \u22c5 11 \u22c5 13 \u22c5 a<br><br>\u2022 Jika m + 1 = 143b dan m \u2212 1 = 7c dengan bc = a<br>Karena 317 &lt; m + 1 &lt; 1001 maka 2 &lt; b &lt; 7.<br>Karena m \u2212 1 = 7c maka m \u2212 1 \u2261 0 (mod 7) ----&gt; m \u2261 1 (mod 7)<br>m + 1 \u2261 2 (mod 7) ----&gt; 143b \u2261 2 (mod 7)<br>143b = 7 \u22c5 20b + 3b<br>3b \u2261 2 (mod 7)<br>Karena 2 &lt; b &lt; 7 maka nilai b yang memenuhi hanya b = 3<br>Jika b = 3 maka m = 143 \u22c5 3 \u2212 1 = 428 ----&gt; 428 \u2212 1 = 7c ----&gt; c = 61<br>a = bc = 183 ----&gt; n = 183184 = 428^<br><br>\u2022 Jika m \u2212 1 = 143b dan m + 1 = 7c dengan bc = a<br>Karena 315 &lt; m \u2212 1 &lt; 999 maka 2 &lt; b &lt; 7.<br>Karena m + 1 = 7c maka m + 1 \u2261 0 (mod 7) ----&gt; m \u2261 \u22121 (mod 7)<br>m \u2212 1 \u2261 \u22122 (mod 7) ----&gt; 143b \u2261 \u22122 (mod 7)<br>143b = 7 \u22c5 20b + 3b<br>3b \u2261 \u22122 (mod 7) ----&gt; 3b \u2261 5 (mod 7)<br>Karena 2 &lt; b &lt; 7 maka nilai b yang memenuhi hanya b = 4<br>Jika b = 4 maka m = 143 \u22c5 4 + 1 = 573",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-suatu-barisan-aritmetika-136-131-75-127-5-jik-991",
+            "question": "Diketahui suatu barisan aritmetika : 136; 131, 75; 127, 5;... Jika suku ke-n barisan tersebut bernilai nol, n = ...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a= 136<br>b= 131-136= -5<br>Un = a+(n-1)b<br>\u00a00\u00a0 = 136+(n-1)-5<br>\u00a00\u00a0 = 136-5n+5<br>\u00a00\u00a0 =\u00a0 141-5n<br>\u00a05n = 141-0<br>\u00a0 n = 141\u00f75 = 28<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jumlah-ke-10-dari-barisan-3-5-7-9-adalah-222",
+            "question": "JUMLAH KE-10 DARI BARISAN\u00a0 : 3, 5, 7, 9 ...... ADALAH",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Sn = n/2 (2a+(n-1)b)<br>Sn\u00a0= 10/2 (2.3+(10-1)2)<br>Sn = 5 (6+18)<br>Sn = 5 . 24<br>Sn = 120",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

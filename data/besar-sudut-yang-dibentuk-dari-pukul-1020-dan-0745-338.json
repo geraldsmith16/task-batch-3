@@ -1,0 +1,140 @@
+{
+    "question": "Besar sudut yang dibentuk dari pukul 10.20 dan 07.45",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "10.20 : Sudut Tumpul<br>07.45 : Sudur Lancip",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "sisi-sisi-sebuah-segitiga-adalah-88-cm-105-cm-dan-137-cm-hitun-749",
+            "question": "sisi sisi sebuah segitiga adalah 88 cm, 105 cm, dan 137 cm. hitunglah garis tinggi segitiga yang menghadap sisi 105 cm?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>garis tinggi segitiga yang menghadap sisi 105 cm adalah 162,828 cm atau 225 cm\u00a0</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-jari-jari-lingkaran-yg-kelilingnya-1884-dan-220-cmmoho-882",
+            "question": "Tentukan jari jari lingkaran yg kelilingnya 188,4 dan 220 cm.mohon penjelasanya :)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1. K = 188,4 cm<br>\u00a0maka ,masukkan rumus , K =\u00a0\u03c0 . 2. r = 188,4 cm/2 =\u00a0\u03c0r<br>94,2 cm = 22/7 .r<br>94,2 .7 cm /22 = r<br>29,97 cm =r<br><br>2.K = 220 cm<br>kembali masukkan rumus ,<br>K =\u03c0.2.r<br>220 cm = 2,14 . 2. r<br>220 cm = 4,28 .r<br>220 cm / 4,28 = r<br>51,4 cm = r<br><br>ingat\u00a0\u03c0 = 22/7 atau 3,14",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "kenapa-kebanyakan-siswa-mengaku-bahwa-matematika-itu-pelajaran-yg-263",
+            "question": "Kenapa kebanyakan siswa mengaku bahwa matematika itu pelajaran yg sulit?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "karena matematika terlalu banyak rumus dn siswa susah memahami nya<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebutkan-rumus-phytagoras-lengkap-658",
+            "question": "Sebutkan rumus phytagoras lengkap ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Dalilnya berbunyi\u00a0<br>kuadrat sisi miring sama dengan jumlah siku-sikunya<br><br>BC\u00b2=AC\u00b2+AB\u00b2<br>A\u00b2=B\u00b2+C\u00b2",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span>Rumus Pythagoras adalah rumus yang \ndigunakan untuk mencari panjang sisi pada sebuah segitiga siku-siku. \nPenemu rumus ini adalah seorang ahli matematika dari Yunani yang bernama\n Pythagoras.<br><br><br></span><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bagaimana-cara-mencari-a-panjang-busur-ac-b-luas-juring-aoc-ji-445",
+            "question": "Bagaimana cara mencari:    a. panjang busur AC\r\nb. luas juring AOC\r\njika lingkaran tsb berdiameter 30 cm dan sudut AOC=90 derajat",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a. 90/360 . 3,14 . 30 = 23,55<br>b. 90/360 . 3,14 . 15 .15 = 176,625",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "habcdef-tulislah-semua-himpunan-bagian-dari-h-yg-mempunya-939",
+            "question": "H=(a,b,c,d,e,f)\r\ntulislah semua himpunan bagian dari H yg mempunyai 5anggota!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<strong>5 anggota</strong> = 6 <br>{a, b, c, d, e}; {a, b, c, d, f}; {a, b, c, e, f}; {a, b, d, e, f}; {b, c, d, e, f}; {a, c, d, e, f}<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "azizah-menabung-di-bank-sebesar-rp-80000000-setelah-5-bulan-uan-294",
+            "question": "azizah menabung di bank sebesar rp 800.000.00 setelah 5 bulan uang azizah menjadi rp 825000.00 prosentase bunga per tahun yang di berikan bank adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "5 bulan = 825.000 - 800.000 = 25.000<br>1 bulan = 5.000<br>1 tahun = 12 x 5.000 = 60.000<br><br>persentase/tahun = (60.000/800.000) x 100%<br>% = (3/40)x100% = 7,5 %",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "059-10-a-0002481-nilai-a-adalah-181",
+            "question": "(0,59)\r\n(10 \u00a0 ) = a + 0,002481. nilai a adalah\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "0,59 / 10= a + 0,002481<br><br>nilai a ialah<br>0,59=10a + 0,02481<br>-10a = 0,02481-0,59<br>-10a = -0,56519<br>a= -0,56519/-10<br>a=0,056519<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "0.059=a+0.002481<br>a=0.059-0.002481<br>a=0.056519<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "nyatakan-dalil-pythagoras-dalam-bentuk-rumus-pada-segitiga-siku-s-314",
+            "question": "Nyatakan dalil pythagoras dalam bentuk rumus pada segitiga siku siku \u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "semog membantu dn bermanfaat",
+                    "attachments": [
+                        "answer-attachments/nyatakan-dalil-pythagoras-dalam-bentuk-rumus-pada-segitiga-siku-s-314-1.jpg"
+                    ]
+                },
+                {
+                    "answer": "ckuadrat = akuadrat+Bkuadrat",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pada-peta-yang-berskala-1-1500000-terdapat-gambar-hutan-yang-212",
+            "question": "pada peta yang berskala 1 : 1.500.000 terdapat gambar hutan yang berbentuk persegi panjang 12 cm dan lebar 8 cm . luas hutan sebenarnya",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1440 KM<br>Sorry kalo salah ya",
+                    "attachments": []
+                },
+                {
+                    "answer": "1.500.000:96=15625 cm<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0=0,15625",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

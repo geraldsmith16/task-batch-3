@@ -1,0 +1,146 @@
+{
+    "question": "jarak kota A ke kota B adalah 350 km.jarak kota B ke kota C adalah 250 km.Berapakah perbandingan jarak kota A ke kota B dengan jarak kota A ke kota C ?",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "jarak kota A ke C = 350 + 250 = 600<br><br>perbandingan jarak kota a ke b dengan a ke c<br>350 : 600<br>7 : 12\u00a0 (sama\" dibagi 50)<br>",
+            "attachments": []
+        },
+        {
+            "answer": "jarak kota A ke kota C =350+250= 600<br>AB : AC = 350 : 600 = 7 : 12<br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "jika-3x-12-7x-8-tentukanlah-nilai-dari-x-2-274",
+            "question": "Jika 3x + 12 = 7x - 8, tentukanlah nilai dari x +2",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]3x-7x=-8-12 \\\\-4x=-20 \\\\x=5 \\\\  \\\\ x+2=5+2=7[/tex]",
+                    "attachments": []
+                },
+                {
+                    "answer": "3x+12=7x-8<br>7x-3x-8-12=0<br>4x-20=0<br>4x=20<br>x=5<br><br>x+2<br>=5+2=7<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bagamana-cara-mencari-a-panjang-busur-ac-b-luas-juring-aoc-jik-238",
+            "question": "Bagamana cara mencari:    a. panjang busur AC\r\nb. luas juring AOC\r\njika lingkaran berdiameter 30cm dan sudut AOC=60 derajat",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a. 60/360 . 3,14 . 30 = 15,7<br>b. 60/360 . 3,14 .15 .15 = 117,75",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "luass-sebuah-juring-jika-jari-jarinya-10cm-maka-panjang-busur-953",
+            "question": "Luass sebuah juring \u00a0,jika jari-jarinya 10cm maka panjang busur juring adalah :    a.4cm\r\nb.8cm\r\nc.12cm\r\nd.14cm\r\n\u00a0 bantuannya memakai cara y",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Luas juring = <u>a\u00b0</u>\u00a0 \u00d7 \u03c0 \u00d7 r\u00b2<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 360\u00b0<br>40cm\u00b2 =\u00a0<u>a\u00b0</u>\u00a0 \u00d7 3,14 \u00d7 10\u00b2<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0  360\u00b0\u00a0 <br>40 cm\u00b2 \u00d7 360 = 314 a\u00b0<br>45,86\u00b0 = a<br><br>panjang busur = <u>45,86</u> \u00d7 3,14 \u00d7 20<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0  \u00a0 360<br>PB = 8,00002 atau 8 cm<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span>luass sebuah juring \u00a0</span><span>,jika jari-jarinya 10cm maka panjang busur juring adalah :</span><br><span>a.4cm<br>b.8cm<br><strong><em><u>c.12cm aku nggak tau caranya</u></em></strong><br>d.14cm<br>\u00a0 bantuannya memakai cara y<br></span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "25-4y6y15-tlong-bantu-jawab-secepatnya-yah-138",
+            "question": "25-4y=6y+15 tlong bantu jawab secepatnya yah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]-4y-6y=15-25 \\\\ -10y=-10 \\\\ y=1[/tex]",
+                    "attachments": []
+                },
+                {
+                    "answer": "25-4y=6y+15<br>25-4y-6y+15<br>25-10y+15<br>10-10y<br>10y=-10<br>y=-10/10<br>y=-1<br><br>semogaa bermanfaat da membantu",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "rini-mempunyi-pita-sepanjang-325cm-di-berikan-kepada-dina-9-dmd-624",
+            "question": "rini mempunyi pita sepanjang 325cm. di berikan kepada dina 9 dm,dan ima 570mm. berapa cm sisa pita rini?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "9 dm=90 cm<br>570 mm= 57 cm<br><br>325-(90+57)<br>325-147=178 cm<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bagaimana-mencari-segi-empat-tali-busur-102",
+            "question": "Bagaimana mencari segi empat tali busur?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Mencari Luas Segiempat Talibusur menggunakan Rumus\u00a0Brahmagupta\n\t\n\t\t<span>Sekitar abad ke tujuh Masehi, dalam Geometri Euclidean,\u00a0 Brahmagupta,\n seorang matematikawan asal India menemukan Rumus untuk mencari luas \nsegiempat talibusur yang telah diketahui panjang sisi-sisinya dan \nbeberapa sudutnya.</span>\n\n\nRumus Umum:\n<span>Jika diketahui segiempat talibusur memiliki sisi-sisi , , , dan  serta setengah keliling , maka luas segiempat tali busur  dapat dinyatakan dengan</span>\n\n<span>.</span>\nBukti:\n<span>Salah satu metode sederhana untuk membuktikannya adalah dengan memanfaatkan trigonometri. Misalkan dalam segiempat talibusur  (Lihat ilustrasi berikut)<span>, </span>merupakan titik sudut antara  dan , , merupakan titik sudut antara  dengan , dan  merupakan diagonal yang menghubungkan kedua sudut yang lain.</span>\n\n<span>Karena , diperoleh:</span>\n<span> dan </span>\n<span>Dengan menggunakan Aturan Cosinus,</span>\n\n\u00a0 yang mana dapat diperoleh:\n\nPerhatikan pula bahwa Luas segiempat talibusur:\n<span>,</span>\ndari sini kita juga memperoleh:\n<span>Dengan mengkuadratkan  dan  kemudian dijumlahkan, akan diperoleh</span>\n\nyang dapat disederhanakan menjadi\n<span>Tentunya kita sudah tahu bahwa . dengan mengaplikasikan identitas ini berkali-kali akan diperoleh:</span>\n<span>Dimana </span>\nBagi dengan 16, kemudian ambil akar kuadrat dari masing-masing ruas diperoleh :\n<span>Bentuk spesial rumus ini adalah saat  yang mengakibatkan segiempat talibusur ini merupakan suatu segitiga yang memiliki sisi-sisi , , , dan setengah keliling , dengan luas:</span>\n<span>yang terkenal dengan nama Rumus Heron.</span>\nRumus Brahmagupta sendiri dapat diperluas untuk segiempat yang bukan merupakan segiempat talibusur\n<span>di mana  merupakan jumlah dua buah sudut yang berlawanan. Pada segiempat talibusur, karena jumlah kedua sudut yang berlawanan , maka .</span><br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "panjang-jari-jari-sebuah-lingkaran-8-cm-jika-panjang-jari-jari-l-264",
+            "question": "Panjang jari-jari sebuah lingkaran 8 cm. Jika panjang jari-jari lingkaran kedua 1 1/2 kali jari-jari lingkaran pertama, hitunglah perbedaan luas kedua lingkaran tersebut dengan phi = 3,14",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "luas lingkaran 1 = phi r*2 = 3,14 x 64= 200,96 \u00a0 \u00a0r lingkaran 2 = 3/2 kali 8 = 12<br>luas lingkaran 2 = 3,14\u00a0x 144 = 452,16<br>jadi perbedaannya = L LINGK 1 - L LINGK 2 =\u00a0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "berapa-orang-yang-gemar-matematika-maupun-bahasa-ingggris-dari-se-872",
+            "question": "berapa orang yang gemar matematika maupun bahasa ingggris dari sekelompok siswa yang terdiri dari 35 orang, ternyata 18 orang gemar matematika, 22 orang gemar bahasa inggris, dan 7 orang tidak gemar matematika maupun bahasa inggris ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "orang yang gemar keduanya = (yg gemar matematika + yg gemar bahasa inggris + yg tidak gemar keduanya) - jumlah siswa\u00a0 -&gt; ( 18 + 22 + 7 ) - 35 = 47 - 35 = 12<br>jadi yang gemar matematika dan bahasa inggris ada 12 siswa.<br><br>semoga membantu :)<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "S(semua)=35 org<br>Matematika=18<br>b.inggris=22<br>tidak keduanya=7<br><br>Rumus<br>Semua+keduanya=Lainnya<br>35+I=(18+22+7)<br>35+I=47<br>I=47-35<br>I=<strong><em>12</em></strong>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "gradien-garis-3y-5x120-adalah-161",
+            "question": "Gradien garis 3y-5x+12=0 adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "m=-a/b<br>\u00a0 \u00a0=-(-5)/3<br>\u00a0 \u00a0=5/3",
+                    "attachments": []
+                },
+                {
+                    "answer": "3y - 5x + 12 = 0<br>3y = 5x -12<br>[tex]y =  \\frac{5}{3} x - 4[/tex]<br><br>[tex]m = \\frac{5}{3} [/tex]<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "misalkan-f-adalah-suatu-fungsi-yang-memenuhi-f1x-12-f-x-2-663",
+            "question": "Misalkan F adalah suatu fungsi yang memenuhi    F(1/x)+ 1/2 F(-x)= 2x untuk setiap x tidak sama dengan 0. Berapakah F(2)?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]f(\\frac{1}{x})+\\frac{1}{2}f(-x)=2x\\ ; x \\neq 0\\\\\n\\\\\nuntuk\\ x=-2\n\\\\\nf(\\frac{1}{-2})+\\frac{1}{2}f(-(-2))=2(-2)\\\\\n\\\\ f(-\\frac{1}{2})+\\frac{1}{2}f(2)=-4\\\\\n\\\\\nuntuk\\ x=\\frac{1}{2} \\\\\nf(\\frac{1}{\\frac{1}{2}})+\\frac{1}{2}f(-\\frac{1}{2})=2(\\frac{1}{2})\\\\\n\\\\ f(2)+\\frac{1}{2}f(-\\frac{1}{2})=1\\\\\\\\\neliminasi\\ f(-\\frac{1}{2})\\ pada\\ kedua\\ persamaan\\\\\nf(-\\frac{1}{2})+\\frac{1}{2}f(2)=-4\\\\\n\\underlined{f(-\\frac{1}{2})+2f(2)=2\\ \\ \u2013}\\\\\n\\\\\n-\\frac{3}{2}f(2)=-6\\\\\nf(2)=4[/tex]",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

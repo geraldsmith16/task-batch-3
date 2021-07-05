@@ -1,0 +1,154 @@
+{
+    "question": "3 bilangan membentuk barisan geometri jumlah ke-3 bilangan tsb adalah 14, dan hasil kalinya adalah 64.tentukan 3 bilangan tsb?    dengan cara barisan geometri!",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "U\u2081 x U\u2082 x U\u2083 = 64 <br>sifat barisan geometri : U\u2081 x U\u2083 = U\u2082\u00b2 <br>maka didapat : U\u2082\u00b3 = 64 ----&gt; U\u2082 = 4 dan U\u2081 x U\u2083 = 16 ..... pers (1)<br>U\u2081 + U\u2082 + U\u2083 = 14<br>U\u2081 + 4 + U\u2083 = 14 ----&gt; U\u2081 + U\u2083 = 10 ......pers (2) <br>dari pers 1 dan pers 2 didapat bilangan yang hasil kalinya 16 dan hasil jumlahnya 10 adalah 2 dan 8 <br>jadi bilangan yang dimaksud adalah 2 , 4 dan 8 <br><br><br>",
+            "attachments": []
+        },
+        {
+            "answer": "ketiga bilangan tersebut adalah 2,4,8<br>\u00a0dengan rasio = 2",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "tentukanlah-suku-banyak-px-yang-memenuhi-persamaan-berikut-x2-151",
+            "question": "Tentukanlah suku banyak p(x) yang memenuhi persamaan berikut (x2 - 2x - 5)-p(x) = (3-2x)(5x-4)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "(x\u00b2 - 2x - 5) - p(x) = (3 - 2x) (5x - 4) <br>x\u00b2 - 2x - 5 - p(x) = 15x - 12 -10x\u00b2 + 8x <br>x\u00b2 - 2x - 5 - (15x - 12 - 10x\u00b2 + 8x) = p(x) <br>11x\u00b2 - 25x + 7 = p(x) <br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-125-x-30-15-2-16-64-16-618",
+            "question": "1. 125 X 30 : 15 =\r\n2. (-16 ) + 64 : (-16) =",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1. 125 x 30 : 15 = 250\u00a0<br>2. (-16) + 64 : (-16) = -20<br>bener nggak ya",
+                    "attachments": []
+                },
+                {
+                    "answer": "1. 250<br>2.48:(-16)= -3",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dengan-berjalan-kaki-askar-memerlukan-waktu-6-menit-untuk-sampai-824",
+            "question": "Dengan berjalan kaki, askar memerlukan waktu 6 menit untuk sampai ke kampusnya. jarak antara rumah dan kampus 5/8 km. berapa kecepatan rata-rata askar berjalan?    dengan caranya ya",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "6 menit= 360 s<br>5/8 : 360<br>= 1800m/28 s",
+                    "attachments": []
+                },
+                {
+                    "answer": "6 menit = 360 s<br>5/8 km = 625 m<br>k = j/w<br>\u00a0 = 625/360<br>\u00a0\u00a0 = 1,74m/s<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "penerapan-sudut-pada-bidang-fisika-dan-masalah-nyata-212",
+            "question": "Penerapan sudut pada bidang fisika dan masalah nyata",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>kecepatan rata rata\u00a0<br>kecepatan sesaat. . . . \u00a0. <br></span><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "kecepatan rata-rata, <br>kecepatan sesaat",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-x1-dan-x2-akar-akar-2x2-5x30-maka-tentukan-nilai-x12x2-938",
+            "question": "Jika x1 dan x2 akar-akar 2x^2-5x+3=0, maka tentukan nilai x1^2+x2^2\r\nPlissss",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "x1^2+x2^2 = (x1+x2)^2 - 2x1*x2<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 = (-(-5/2)^2 - 2*3/2<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 = 25/4 - 3<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 = 3 1/4<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "2x^2 - 5x + 3 = 0<br>faktor<br>(x\u00a0-\u00a01)\u00a0(2x\u00a0-\u00a03)\u00a0=\u00a00<br>x1 = 1 \u00a0<br>x2 = 3/2<br><br>nilai X1^2 + X2^2<br>jadi, 1^2 + 3/2^2<br>\u00a0 \u00a0 \u00a0 \u00a0= 1 + 9/4<br>\u00a0 \u00a0 \u00a0 \u00a0=( 4+9)\u00a0/ 4<br>\u00a0 \u00a0 \u00a0 \u00a0= 13/4<br>\u00a0 \u00a0 \u00a0 \u00a0= 3\u00a0[tex] \\frac{1}{4} [/tex]<br><br>Semoga membantu :) D like klik bintang",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-dua-barisan-aritmetika-pada-barisan-pertama-berlaku-u2-357",
+            "question": "diketahui dua barisan aritmetika. pada barisan pertama berlaku U2+U4+U6+U8=32 dengan beda barisan 5. pada barisan kedua berlaku V2+V4+V6+V8=52 dengan beda barisan 4 nilai dari(U1+U3+U5)-(V1+V3+V5)=.....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "U2 + U4 + U6 + U8\u00a0 = 32 (beda = 5)<br>V2 + V4 + V6 + V8 = 52 (beda = 4)<br><br>(a + 5) + (a + 15) + (a + 25) + (a + 35) = 32<br>4a + 80 = 32<br>4a = -48<br>a = -12<br><br>(a + 4) + (a + 12) + (a + 20) + (a + 28) = 52<br>4a + 64 = 52<br>4a = 12<br>a = 3<br><br><span>(U1+U3+U5)-(V1+V3+V5) = (-12 + (-2) + 8) - (3 + 11 + 19) = -39 </span><br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "U1 + U3 + U5 = U2 + U4 + U6 + U8 - 4b -\u00a0<br><br>U2 + U4 + U6 + U8 = 4U1 + (1+3+5+7)b = 32<br>4U1 + 16.5 = 32<br>4U1 = 32-80<br>U1 = -48/4<br>U1 = -12<br><br><span>V2\u00a0+\u00a0V4\u00a0+\u00a0V6\u00a0+\u00a0V8\u00a0=\u00a052<br></span>4V1 + 16.b = 52<br>4V1 + 16.4 = 52<br>4V1 = 52-64<br>V1 = -12/4<br>V1 = -3<br><br>jadi jawabannya<br>(-12 -\u00a07 - 2) - (-3 + 1 + 5) = -21 - 3 = <strong>-18</strong>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "gimana-nieh-sob-cara-ngerjain-tugas-ini-326",
+            "question": "Gimana nieh sob cara ngerjain tugas ini :\u00a0    \u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]  \\left[\\begin{array}{ccc}-12&amp;33\\\\16&amp;24\\end{array}\\right] [/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "persamman-m-1x24x2m0-mempunyai-akar-akar-real-tentukan-ni-168",
+            "question": "Persamman (m-1)x\u00b2+4x+2m=0 mempunyai akar-akar real . tentukan nilai m yang memenuhi\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "tentukan nilai m yang memenuhi<br><br>[tex]m( x^{2} +2) = (x-4)x\n[/tex]<br><br>m = 1\u00a0 x =\u00a0 [tex] -\\frac{1}{2} [/tex]<br>nilai yang memenuhi garis m <br>x = -2\u00a0  m = 2<br>x = 0\u00a0  m = 0<br>x = 1\u00a0 m = -1<br>x = 4\u00a0 m = 0<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "jawabanku sama seperti yang sebelumnya menjawb ^^",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-barisan-geometri-mempunyai-9suku-suku-tengah-ut768-u3-529",
+            "question": "Sebuah barisan geometri mempunyai 9suku, suku tengah (Ut)=768, U3=48,diantara tiap dua suku, disisipkan sebuah suku baru sehingga diperoleh barisan geometri baru. Tentukanlah Rasio,banyaks suku(n) dan U15 dari suku baru tersebut! :)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "tyeryreyjeriyjeriyjerjyierjyieryj<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pertidaksamaan-x2-9lt4-849",
+            "question": "Pertidaksamaan (\u221ax\u00b2-9)&lt;4",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "(\u221ax\u00b2 - 9) &lt; 4<br>x-3 &lt; 4<br>x &lt; 4+3<br>x&lt;7",
+                    "attachments": []
+                },
+                {
+                    "answer": "(x pangkat 2) &lt; 4<br><br>x pangkat 2 itu bisa dihilangkan pangkatnya yang penting akarnya juga dihilangkan sehingga didapat :<br>= x-9 &lt; 4<br>= x \u00a0 \u00a0 &lt; 4+9<br>= x \u00a0 \u00a0 \u00a0 &lt; 13<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

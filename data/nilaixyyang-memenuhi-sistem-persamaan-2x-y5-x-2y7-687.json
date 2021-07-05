@@ -1,0 +1,134 @@
+{
+    "question": "Nilai(x,y)yang memenuhi sistem persamaan\r\n2x + y=5\r\nx + 2y=7",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "<span>2x + y=5<br>y= 5-2x.................(1)<br><br>x + 2y=7<br>x+ 2(5-2x)=7<br>x+10-4x=7<br>-3x=-3<br>x=1......................(2)<br><br><br>2x+y=5<br>2(1)+y=5<br>2+y=5<br>y=3.........................(3)<br><br><br></span>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "tentukanlah-suku-banyak-px-yang-memenuhi-persamaan-berikut-x2-151",
+            "question": "Tentukanlah suku banyak p(x) yang memenuhi persamaan berikut (x2 - 2x - 5)-p(x) = (3-2x)(5x-4)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "(x\u00b2 - 2x - 5) - p(x) = (3 - 2x) (5x - 4) <br>x\u00b2 - 2x - 5 - p(x) = 15x - 12 -10x\u00b2 + 8x <br>x\u00b2 - 2x - 5 - (15x - 12 - 10x\u00b2 + 8x) = p(x) <br>11x\u00b2 - 25x + 7 = p(x) <br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "penyelesaian-34x-5lt11-444",
+            "question": "Penyelesaian 3\u2264(4x-5)&lt;11",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>3\u2264(4x-5)&lt;11=<br></span>2 \u2264x&lt;4 sorry, if the fals answer<br><br><br><br><br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "[tex]3  \\leq  4x-5&lt;11\\\\\n 3+5 \\leq 4x-5+5&lt;11+5\\\\\n8 \\leq 4x&lt;16\\\\\n\\frac{8}{4} \\leq \\frac{4x}{4}&lt;\\frac{16}{4}\\\\\n2 \\leq x&lt;4[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-bak-air-besar-berbentuk-tabung-yang-panjang-jari-jarinya-7-580",
+            "question": "sebuah bak air besar berbentuk tabung yang panjang jari-jarinya 70 cm dan tinggi 1,8 m, terisi penuh. setelah air dalam bak terpakai sebanyak 770 liter, berapakah tinggi sisa air dalam bak tersebut?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "v tabung = 22/7 x\u00a070 x 70 x 180 = 2.772.000 cm3 : 2.772 l<br>sisa air = 2.772 - 770 = 2.002 l",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bantuin-dong-ixx-fx2x5-dan-gx2x2-6x5-tentukan-a-851",
+            "question": "Bantuin dong..    I(x)=x, f(x)=2x+5, dan g(x)=2x\u00b2-6x+5 tentukan:\r\na. Iof(x)\r\nb. foI(x)\r\nc. Iog(x)\r\nd. goI(x)\r\ntrm ksih bagi yg bs jwb :) dtunggu scpatnya",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "I o f(x)<br>I (2x + 5)<br>2x +5<br><br>f o I(x)<br>f (x)<br>2x + 5<br><br>l o g(x)<br>l (2x\u00b2 - 6x + 5)<br>2x\u00b2 - 6x + 5<br><br>g o l(x)<br>g (x)<br>2x\u00b2 - 6x + 5<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-persamaan-kuadrat-x2-2kx-3k-2-0-a-tentukan-dis-604",
+            "question": "Diketahui persamaan kuadrat x\u00b2 - 2kx + 3k -2 = 0    a. Tentukan diskriminannya\r\nb. Tentukan nilai k agar persamaan kuadrat tersebut memiliki\r\n\u00a0 1) dua akar real berbeda\r\n\u00a0 2) dua akar real sama\r\n\u00a0 3) dua akar tidak real",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]x^2-2kx+3k-2=0\\\\ D=b^2-4ac=(-2k)^2-4(1)(3k-2)\\\\ D=4k^2-12k+8\\\\ D=4(k^2-3+2)\\\\ D=4(k-1)(k-2)\\\\\\\\ 1)\\ 2\\ akar\\ real\\ berbeda\\ (D&gt;0)\\\\ 4(k-1)(k-2)&gt;0\\\\ (k-1)(k-2)&gt;0\\\\ k&lt;1\\ atau\\ k&gt;2\\\\\\\\ 2)\\ 2\\ akar\\ real\\ kembar\\ (D=0)\\\\ 4(k-1)(k-2)=0\\\\ (k-1)(k-2)=0\\\\ k=1\\ atau\\ k=2\\\\\\\\ 3)\\ 2\\ akar\\ imajiner\\ D(&lt;0)\\\\ 4(k-1)(k-2)&lt;0\\\\ (k-1)(k-2)&lt;0\\\\ 1&lt;k&lt;2 [/tex]",
+                    "attachments": []
+                },
+                {
+                    "answer": "b^2-4.a.c=0<br>(-2k)^2-4.1.(3k-2)=0<br>4k^2-12k+8=0<br>maka, difaktorkan menjadi<br>(k-1)(4k-8)<br>maka bil. diskriminannya adalah...<br>1 atau 2<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "persamaan-m-1-x2-4x-2m-0-mempunyai-akar-akar-real-te-829",
+            "question": "Persamaan (m - 1)\u00a0x\u00b2 + 4x + 2m = 0 mempunyai akar-akar real. Tentukan nilai m yg memenuhi!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "JAWAB.<br>akar akarnya<br>x= -2 m= 2<br>x= 0 m=0<br>x=1 m= -1<br>x=4 m=0<br><br>nilai m = 1 dan x = -1/2<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "D&gt;0<br>x\u00b2+4x+2m&gt;0<br>b\u00b2-4ac<br>(4)\u00b2-4.1.2m&gt;0<br>16-8m&gt;0<br>-8&gt;-16<br>m&lt;2<br>jadi m nya : 1<br>mungkin begitu, semoga benar :D",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bentuk-sederhana-dari-3-akar-81-2-akar-27-3-akar-243-445",
+            "question": "Bentuk sederhana dari 3\u00a0akar 81 - 2 akar 27 + 3 akar 243",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex] \\sqrt[3]{81} = 9 -  \\sqrt[2]{27} = 13,5 +  \\sqrt[3]{243} = 81\u00a0<br>9-13,5+81= 76,5",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "rata-rata-berat-badan-apri-danbambang-49-kg-rata-rata-apri-dan-489",
+            "question": "Rata-rata berat badan Apri danBambang 49 kg . Rata-rata apri dan cici 47 kg sedangkan rata-rata b ambang dan Cici 48 kg . Berapakah rata-rata berat bambang apri ,bambang dan cici .??\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "apri = x<br>bambang = y<br>cici = z<br><br>x+y = 98<br>x+z = 94<br>y+z= 96<br><br>x+y= 98<br><u>x+z = 94</u> -<br>y-z= 4<br><br>y+z= 96<br><u>y-z= 4</u> -<br>2z = 92<br>z= 46<br><br>y+z = 96<br>y+46=96<br>y= 40<br><br>x+y= 98<br>x+40=98<br>x= 48<br><br>(46+48+40) : 3 =45 kg<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "hitunglahsudut-antara-vektor-a-dan-b-berikut-ini-a-3i-2j-k-399",
+            "question": "Hitunglahsudut antara vektor A dan B berikut ini,\r\n\r\nA = 3i - 2j + k\r\nB = 4i - 3j +2k",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "cos a= a.b/panjanga xpanjangb<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0=(12+6+2)/\u221a14\u221a29",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-sin-ao-12-13-untuk-2-lt-a-lt-p-nilai-dari-sin-217",
+            "question": "Diketahui sin Ao = 12 13 untuk 2 &lt; A &lt; \u03c0 . Nilai dari Sin ( \u03c0 - A)o adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "sepertinya soal yang anda masukan ada kesalahan<br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

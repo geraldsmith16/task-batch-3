@@ -1,0 +1,140 @@
+{
+    "question": "Jika akar akar persamaan ax\u00b2 + 5x -12 = 0 adalah 2 dan b, maka 4a\u00b2 - 4ab + b\u00b2 = .....",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "x=2 &lt;=&gt; ax\u00b2+5x-12=0<br>\u00a0 \u00a0 \u00a0 \u00a0&lt;=&gt; 4a+ 10 - 12=0<br>\u00a0 \u00a0 \u00a0 \u00a0&lt;=&gt; 4a = 2<br>\u00a0 \u00a0 \u00a0 &lt;=&gt; a = 1/2<br>jadi persamannya 1/2 x\u00b2+5x - 12 = 0 semua kalikan 2<br>\u00a0 \u00a0 \u00a0&lt;=&gt; x\u00b2+ 10x - 24 = 0<br>\u00a0 \u00a0 \u00a0&lt;=&gt; ( x - 2) (x + 12) = 0<br>\u00a0 \u00a0 \u00a0&lt;=&gt; x = 2 atau x = - 12 = b<br>jadi 4a\u00b2 - 4ab + b\u00b2 = 1 - 4.. 1/2 . (-12) + 12\u00b2\u00a0<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 1 +24+144 = 169",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "bagaimana-cara-membuat-komik-matematika-dan-berikan-contohnya-t-473",
+            "question": "bagaimana cara membuat\u00a0 komik matematika dan berikan contohnya tentang :pernyataan,kalimat terbuka???",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "iya itu merupakan kalimat terbuka <br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "contoh kalimat terbuka dalam matematika<br>4 + 5 = 9<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "permisiii-mohon-tanya-ada-yang-tau-hasil-ini-gag-saya-kura-347",
+            "question": "Permisiii mohon tanya, ada yang tau hasil ini gag ???    \u00a0saya kurang faham niii, mahon bantuannya ya :) \r\n\u00a0(9p\u00b2.q\u207b\u00b3)\u2074(27p\u2074.q\u207b\u00b2)\u207b\u00b3",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "243 p^\u00a0-4 + 9p^8\u00a0q^6 + 243 p^ -12 q^-12 + q^-6 (ket. : ^= pangkat)",
+                    "attachments": []
+                },
+                {
+                    "answer": "[tex](9p^2q^{-3})^4(27p^4q^{-2})^{-3}\\\\\n=(3^2p^2q^{-3})^4(3^3p^4q^{-2})^{-3}\\\\\n=3^8p^8q^{-12}(3^{-9}p^{-12}q^{6})\\\\\n=3^{8-9}p^{8-12}q^{-12+6}\\\\\n=3^{-1}p^{-4}q^{-6}\\\\\n=\\frac{1}{3p^4q^6}\\\\[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "rata-rata-berat-badan-apri-danbambang-49-kg-rata-rata-apri-dan-489",
+            "question": "Rata-rata berat badan Apri danBambang 49 kg . Rata-rata apri dan cici 47 kg sedangkan rata-rata b ambang dan Cici 48 kg . Berapakah rata-rata berat bambang apri ,bambang dan cici .??\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "apri = x<br>bambang = y<br>cici = z<br><br>x+y = 98<br>x+z = 94<br>y+z= 96<br><br>x+y= 98<br><u>x+z = 94</u> -<br>y-z= 4<br><br>y+z= 96<br><u>y-z= 4</u> -<br>2z = 92<br>z= 46<br><br>y+z = 96<br>y+46=96<br>y= 40<br><br>x+y= 98<br>x+40=98<br>x= 48<br><br>(46+48+40) : 3 =45 kg<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "materi-trigonometri-hitunglah-bentuk-berikut-dengan-menggunaka-883",
+            "question": "MATERI ; TRIGONOMETRI.    Hitunglah bentuk berikut dengan menggunakan rumus setengah sudut.\r\n1. tan 22,5 =\r\n2. cos 22,5 =",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "b. cos 22,5 =\u00a01/2 . 45<br>\u221a1+cos 45 : 2<br>\u221a1 + 1/2\u221a2 :2<br>\u221a2+\u221a2 \u00a0: 4<br>1/2\u00a0\u221a2+\u221a2",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-jumlah-semua-suku-deret-geometri-tak-hingga-adalah-72-dan-ju-487",
+            "question": "Jika jumlah semua suku deret geometri tak hingga adalah 72 dan jumlah semua sukunya yang berindeks ganjil adalah 48, tentukan suku ke-3 deret tersebut !    Tolong di bantu..",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Jumlah Suku Tak hingga (S\u221e) :<br>S\u221e = a / (1 - r)\u00a0<br>72 = a / (1 - r)\u00a0<br><br>Jumlah semua suku ganjil : r&#039; = r\u00b2, Maka :\u00a0<br>Sg = a / (1 - r\u00b2)\u00a0<br>48 = a / (1 - r\u00b2)\u00a0<br><br>[tex] \\frac{72}{48} = \\frac{a/(1-r)}{a/(1-r^{2})} [/tex]<br><br>[tex] \\frac{3}{2} = \\frac{1-r ^{2}}{1-r} [/tex] \u00a0 (Jabarkan (1-r)\u00b2 menjadi (1-r)(1+r))<br><br>[tex] \\frac{3}{2} = \\frac{(1-r)(1+r)}{1-r} [/tex] \u00a0 \u00a0(Coret yg sama)<br><br>[tex] \\frac{3}{2} = 1 + r[/tex] \u00a0\u00a0(kali silang)<br><br>2 + 2r = 3\u00a0<br>2r = 1\u00a0<br>r =\u00a0[tex] \\frac{1}{2} [/tex]<br><br>Masukkan nilai r =\u00a0[tex] \\frac{1}{2} [/tex] ke :\u00a0<br>72 = a / (1 - r)\u00a0<br>72 = a / (1 -\u00a0[tex] \\frac{1}{2} [/tex])\u00a0<br>72 = a /\u00a0[tex] \\frac{1}{2} [/tex]\u00a0<br>2a = 72<br>a = 36\u00a0<br><br>Sehingga Untuk Urutan ke 3 :<br>\u21d2Un = [tex]a*r^{(n-1)} [/tex]\u00a0<br><br>\u21d2U\u2083 = 36 \u00d7\u00a0[tex](\\frac{1}{2})^{2} [/tex]\u00a0<br><br>\u21d2U\u2083\u00a0= 36\u00d7[tex] \\frac{1}{4} [/tex]\u00a0<br><br>\u21d2U\u2083\u00a0=\u00a0[tex] \\frac{36}{4} [/tex]<br><br>\u21d2U\u2083\u00a0= 9<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "umur-abc-235-jumlah-umur-b-dan-c-adalah-24-tahun-maka-umur-497",
+            "question": "Umur a:b:c = 2:3:5 jumlah umur b dan c adalah 24 tahun maka umur a adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "umur b ditambah c = 24<br>\u00a0pebandingan umur b ditambah c = 8<br><br>2/8 dikali 24 = 6<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Dik: a:b:c = 2:3:5<br>b+c =\u00a024<br>Dit: a?<br>Jawab:<br><br>b:c = 3:5<br>b+c = 24<br>b =\u00a0[tex] \\frac{3}{8} [/tex]\u00d724 = 9 tahun<br>c =\u00a0[tex] \\frac{5}{8} [/tex]\u00d724 = 15 tahun<br><br>a:b:c = 2:3:5 = a:9:15<br>a = 6 tahun<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-dijawab-ya-442",
+            "question": "Tolong dijawab ya :)",
+            "attachments": [
+                "question-attachments/tolong-dijawab-ya-442-1.docx"
+            ],
+            "answers": [
+                {
+                    "answer": "apaan itu kk itu pel kls brp<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukanlah-suku-banyak-px-yang-memenuhi-persamaan-berikut-x2-151",
+            "question": "Tentukanlah suku banyak p(x) yang memenuhi persamaan berikut (x2 - 2x - 5)-p(x) = (3-2x)(5x-4)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "(x\u00b2 - 2x - 5) - p(x) = (3 - 2x) (5x - 4) <br>x\u00b2 - 2x - 5 - p(x) = 15x - 12 -10x\u00b2 + 8x <br>x\u00b2 - 2x - 5 - (15x - 12 - 10x\u00b2 + 8x) = p(x) <br>11x\u00b2 - 25x + 7 = p(x) <br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "luas-jajargenjang-pqrs-adalah-72cm-pq12cm-dan-su8cm-tentukan-575",
+            "question": "Luas jajargenjang PQRS adalah 72cm, PQ=12cm, dan SU=8cm. tentukan keliling PQRS!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "12x2= 24<br>8x2=16<br>24+16= 40",
+                    "attachments": []
+                },
+                {
+                    "answer": "12x2= 24<br>8x2=16<br><span>24+16= 40<br>semoga btul</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apa-konsep-dari-mencari-persamaan-kuadrat-jika-diketahui-akar-aka-731",
+            "question": "Apa konsep dari mencari persamaan kuadrat jika diketahui akar-akarnya ? Dan tolong berikan contohnya    Tolong dibantu\r\n\r\nTerima kasih",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "rumus nya.. x^2 (alfa+beta)x + alfa.beta...<br><br>alfa &amp; beta itu akar\"nya..jd kita hrs cr dlu alfa+beta dan beta +alfa..<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

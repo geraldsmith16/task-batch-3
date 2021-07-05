@@ -1,0 +1,138 @@
+{
+    "question": "sebuah mobil memerlukan bahan bakar 12 liter untuk menempuh jarak 120 km dengan kondisi mendatar 84 km dan sisanya menanjak. pada saat menanjak bahan bakar yang diperlukan 2 kali lipat\u00a0daripada jalan mendatar. jika suatu ketika mobil tersebut menempuh jarak 312 km dengan kondisi jalan mendatar saja,maka\u00a0banyak bahan bakar yang diperlukan?",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "menanjak = 120 - 84 = 36 km<br><br>jika liter\u00a0menanjak = 2\u00a0x liter untuk\u00a0mendatar<br>maka<br>84 + 36(2) = 12 liter<br>84 + 72 = 12 liter<br>12 liter = 156 km (mendatar)<br><br>jika sekarang jaraknya menjadi 312\u00a0km mendatar saja, maka<br>12 x 2 = 24 liter",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "keliling-sebuah-belahketupat-120cm-jika-panjang-slah-satu-diag-913",
+            "question": "keliling sebuah belahketupat 120cm.\u00a0 jika panjang slah satu diagonalny 48cm.\u00a0 berapakah luas belahketupat\u00a0 tersebut..",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]\\text{K}=4\\times\\text{s}\\\\\n120=4\\times\\text{s}\\\\\n\\text{s}=120:4\\\\\n\\text{s}=30\\\\\\\\\n\\text{d}_2= \\sqrt{30^2-(48:2)^2} \\\\\n\\text{d}_2= \\sqrt{30^2-24^2}\\\\\n\\text{d}_2= \\sqrt{900-576}\\\\\n\\text{d}_2= \\sqrt{324}\\\\\n\\text{d}_2= 18\\times2=36\\text{ cm}\\\\\\\\\n\\text{L}= \\frac{\\text{d}_1\\times\\text{d}_2}{2} \\\\\n\\text{L}= \\frac{48\\times36}{2}~~(36:2=18)\\\\\n\\text{L}=48\\times18\\\\\n\\boxed{\\boxed{\\text{L}=864\\text{ cm}^2}}}[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dalam-waktu-10-hari20-orang-dapat-menyelesaikan-5-gedungbutuh-b-454",
+            "question": "dalam waktu 10 hari,20 orang dapat menyelesaikan 5 gedung.Butuh berapa orang untuk menyelesaikan 6 gedung?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "20/10 x 5 = 40 orang.. kayanya seperti itu.. :)<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "40 mungkin yaa, gatau lagi :/<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "8y-52y-3-4-y-3-18-y-pake-cara-225",
+            "question": "8y - 5(2y - 3) = 4 (y-3) + 18\r\ny=\r\npake cara",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>8y - 5(2y - 3) = 4 (y-3) + 18<br></span>8y - 10y + 15 = 4y - 12 + 18<br>-2y +\u00a015 = 4y + 6<br>-6y = -9<br>y = 9/6 = 3/2",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "berat-badan-arif-2-kg-lebih-dari-53-kali-berat-badan-dimas-jika-111",
+            "question": "berat badan arif 2 kg lebih dari 5/3 kali berat badan dimas. jika jumlah berat badan mereka 122 kg, maka selisih berat badan mereka adalah?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Arif 5:3 Dimas<br>Arif +2 Dimas\u00a0<br>5+3=8\u00a0<br>122-2=120\u00a0<br>5x120:8= 75 (Arif)<br>3x120:8= 45 (Dimas)\u00a0<br>75+45=120\u00a0<br>75-45=30 kg",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "5y-4y10-y-pake-cara-ya-928",
+            "question": "5y= 4y+10\r\ny=\r\npake cara ya",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "5y=4y+10<br>5y-4y=10<br>y=10",
+                    "attachments": []
+                },
+                {
+                    "answer": "5y - 4y = 10<br>y = 10<br><br>5y = 4y + 10<br>5y ( - 4y ) = 4y + 10 ( - 4y )<br>1y = 10",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-him-penyelesaian-dari-persamaanlinear-berikut-a-4y-10-277",
+            "question": "Tentukan him. penyelesaian dari persamaanlinear berikut?    a. 4y-10=14\r\nb. 7a+3= 0\r\nc. 8-4b= 6\r\nd. 24y-11=33-20y",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a. 4y-10 = 14<br>\u00a0\u00a0 4y = 14+10 <br>\u00a0\u00a0  4y = 24<br>\u00a0\u00a0 y = 24\u00f74<br>\u00a0\u00a0 y = 6<br>d. 24y - 11 = 33 - 20y<br>\u00a0\u00a0  24y + 20y = 33 + 11 <br>\u00a0\u00a0  44y = 44<br>\u00a0\u00a0 y = 44\u00f744<br>\u00a0\u00a0 y = 1 <br><br>yang saya tau hanya a dan d saja..<br>maaf kalau salah, ini jawaban saya :) <br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span>a. 4y-10=14<br>y = 14+10 / 4 = 24 / 4 = 6<br>b. 7a+3= 0<br>a = -3/7 <br>c. 8-4b= 6<br>b = 6-8 / -4 = 1/2<br>d. 24y-11=33-20y</span><br>24y+20y = 33 + 11<br>44y = 44<br>y = 44/44 = 1<br>itu jawaban saya, semoga benar dan bermanfaat<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "ikhsan-memiliki-3-orang-anak-pada-suatu-hari-ketiga-anaknya-terk-417",
+            "question": "ikhsan memiliki 3 orang anak. pada suatu hari ketiga anaknya terkena flu. sampai dirumah sakit diperoleh data bahwa suhu badan ketiga anak itu masing-masing, 40 drjat C,\u00a0 39,5 drrjt C, dan 40,6 drjt C. ubahlah ketiga suhu badan itu dalam derajat reamur dan Fahrenheit!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Reamur: <br>1. 40<span>\u2070C= </span>(4/5 x 40)<span>\u2070R= (4 x 8)</span><span>\u2070R= 32</span><span>\u2070R<br>2. 39,5</span><span>\u2070C= (4/5 x 39,5)</span><span>\u2070R= </span>( 4/5 x 395 . 10\u2227-1 )\u2070R = ( 4 x 79 . 10\u2227-1 )\u2070R = 316 . 10^-1 <span>\u2070R = 31,6</span><span>\u2070R<br>3. 40,6</span><span>\u2070C = ( 4/5 x 40,6 )</span>\u2070R =  ( 4/5 x 406 . 10^-1 )\u2070R= ( 4 x 8,12 x 10^-1 )<span>\u2070R = </span>( 4 x 812 x 10^-3 )\u2070R = 3248 x 10^-3 \u2070R = 3,248 \u2070R<br><br>Fahrenheit:<br>1. 40\u2070C= (9/5 x 40) +32 \u2070F= 72 + 32 \u2070F= 104<span>\u2070F<br>2. 39,5</span>\u2070C= (9/5 x 39,5) + 32 \u2070F = ( 9/5 x 395 . 10\u2227-1 ) + 32 \u2070F = ( 9 x 79 . 10\u2227-1 ) + 32 \u2070F = ( 711 . 10^-1) + 32 \u2070F = 71,1+ 32 <span>\u2070F = 103,1 </span>\u2070F<span><br>3. 40,6</span>\u2070C = ( 9/5 x 40,6 ) + 32 \u2070F =  ( 9/5 x 406 . 10^-1 )+ 32 \u2070F= ( 9 x 8,12 x 10^-1 )+ 32 \u2070F = ( 9 x 812 x 10^-3 )+ 32 \u2070F = (7308 x 10^-3) + 32 \u2070F = 7,308 + 32 \u2070F = 39,308 \u2070F <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sederhanakan-bentuk-pangkat-pecahan-81-min-14-pake-caranya-yaa-130",
+            "question": "Sederhanakan bentuk pangkat pecahan 81 min 1/4\r\npake caranya yaa^^",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "81^1/4<br>=3^(4).1/4<br>=3^1",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "rasionalkan-bentuk-pecahan-a25-3-839",
+            "question": "Rasionalkan bentuk pecahan\u00a0    a.\u00a0\u00a0\u00a0\u00a02\u221a5 \u00a0 \u00a0\r\n\u00a0 \u00a0\u221a3 +\u00a0\u221a5\r\n\r\nBeri penjelasannya. jawabannya yang\u00a0 LENGKAP yaa :)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "2 akar 5 : akar 3 + akar 5<br><br>2 akar 5 : akar 3 + akar 5 x akar 3 - akar 5 : akar 3 - akar 5<br><br>2 akar 15 - 2 x 5 : 3 - 5<br><br>2 akar 15 - 10 : -2<br><br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "[tex] \\frac{2 \\sqrt{5} }{ \\sqrt{3} + \\sqrt{5} } =  \\frac{2 \\sqrt{5} }{ \\sqrt{3} + \\sqrt{5} } . \\frac{ \\sqrt{3} - \\sqrt{5} }{ \\sqrt{3} - \\sqrt{5} }= \\frac{2 \\sqrt{15}-10 }{-2} \\\\  \\\\ 5- \\sqrt{15} [/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-2y2-723-2-7gt3x-3-2x-4gt3x9-630",
+            "question": "1. 2y/2-7/2\u22643=\r\n2. 7&gt;3x =\r\n3. 2x-4&gt;3x+9=",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]\\frac{2y}{2}-\\frac{7}{2} \\leq 3\\\\\n\\frac{2y-7}{2} \\leq 3\\\\\n2y-7 \\leq 6\\\\\n2y \\leq 13\\\\\ny \\leq \\frac{13}{2}\\\\\\\\\n7&gt;3x\\\\\n\\frac{7}{3}&gt;x\\\\\nx&lt;\\frac{7}{3}\\\\\\\\\n2x-4&gt;3x+9\\\\\n-x&gt;13\\\\\nx&lt;-13[/tex]",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

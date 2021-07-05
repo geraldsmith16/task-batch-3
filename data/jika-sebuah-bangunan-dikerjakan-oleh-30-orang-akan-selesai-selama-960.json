@@ -1,0 +1,134 @@
+{
+    "question": "jika sebuah bangunan dikerjakan oleh 30 orang akan selesai selama 15 hari, jika dimnta pekerjaan harus selesai dalam waktu 5 hari berapa pekerja yang harus ditambahkan?",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "30 org = 15 hari<br>x org\u00a0 = 5 hari<br><br>jawab:<br><u>x\u00a0</u> \u00a0 =\u00a0 <u>15</u><br>30\u00a0 \u00a0\u00a0 \u00a0 5 <br><br>5x = 30 \u00d7 15<br>x\u00a0 = <u>450</u><br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 5<br>x = 90 orang<br><br>pekerja yang harus ditambah:<br>90 - 30 = 60 orang<br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "limit-dari-2x-2-8xpangkat-2-4-limit-x2-267",
+            "question": "Limit dari 2/x -2 - 8/xpangkat 2 - 4=\r\nlimit x=2",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Lim (x--&gt;2)<br><br>[tex] \\frac{2}{x-2} - \\frac{8}{ x^{2} -4} = \\frac{2(x+2)-8}{ x^{2} -4}=\\frac{2x+4-8}{ x^{2} -4} \\\\  \\\\ =\\frac{2x-4}{ x^{2} -4} = \\frac{2(x-2)}{ (x+2)(x-2)}= \\frac{2}{x+2} [/tex]<br><br>[tex] \\frac{2}{2+2} =  \\frac{1}{2} [/tex]<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "ingkaran-dari-p-q-adalah-bentuk-ekuivalen-p-gt-q-adalah-533",
+            "question": "Ingkaran dari p ^ q adalah....\r\nbentuk ekuivalen -p -&gt; q adalah...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "ingkaran dari p ^ q adalah p v q<br>soal ke 2 itu bener ya?<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-125-x-30-15-2-16-64-16-618",
+            "question": "1. 125 X 30 : 15 =\r\n2. (-16 ) + 64 : (-16) =",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1. 125 x 30 : 15 = 250\u00a0<br>2. (-16) + 64 : (-16) = -20<br>bener nggak ya",
+                    "attachments": []
+                },
+                {
+                    "answer": "1. 250<br>2.48:(-16)= -3",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-barisan-5-8-11125-punya-suku-tengah-ut-maka-t-ut-310",
+            "question": "Jika barisan 5, 8, 11........125 punya suku tengah Ut maka t + Ut adalah    mnta tolong yha kl ada yg bsa bntuin\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a= 1, Un=131<br>\u00a0Ut= 1/2(a+ Un)<br>\u00a0\u00a0\u00a0 =1/2(5+131)<br>\u00a0\u00a0\u00a0 =1/2(136)<br>\u00a0\u00a0\u00a0 = 68<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-fungsi-kuadrat-mempunyai-nilai-maksimum-3-pada-saat-x-2-852",
+            "question": "sebuah fungsi kuadrat mempunyai nilai maksimum -3 pada saat x = 2, sedangkan untuk x = -2 fungsi bernilai -11. Tentukan fungsi kuadrat tersebut.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "f(x) = 2xkuadrat + 2x - 15",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "untuk-modal-berjualan-bu-fitri-meminjam-uang-di-koperasi-sebesar-291",
+            "question": "untuk modal berjualan bu fitri meminjam uang di koperasi sebesar rp 5.000.000.00 dengan bunga 1% per bulan ,ansuran tiap bulan yang harus di bayar bu fitri jika meminjam selama 10 bulan adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "bunga perbulan = 1% x 5jt = 50.000<br>angsuran perbulan = (1/10) x 5.000.000 + bunga perbulan = 500.000 + 50.000<br>angsuran perbulan = Rp 550.000<br>dengan total yang harus dibayar Rp 5.500.000 selama 10 bulan",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-2x-5-adalah-faktor-dari-2x3-13x2px-5-tentukan-nilai-p-d-441",
+            "question": "Jika (2x-5) adalah faktor dari 2x\u00b3-13x\u00b2+px-5 tentukan nilai p dan kemudian faktorkan",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "2x-5 = 0<br>x = 5/2<br><br>masukkan nilai X ke dalam persamaan.\u00a0 <br><br><span> 2x\u00b3-13x\u00b2+px-5<br>2(5/2)\u00b3 - 13(5/2) + p(5/2)-5 = 0<br>2 (125/8) - 65/2 + 5p/2 - 5 = 0<br>62,5 - 32,5 + 2,5P - 5 = 0<br>25 + 2,5P = 0<br>2,5P = -25<br>P = -25/2,5<br>P = -10<br><br><br>Semoga membantu.<br></span><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "[tex]f(x)=2x^3-13x^2+px-5\\\\\nkarena\\ (2x-5)\\ merupakan\\ faktor\\ dari\\ f(x), maka\\\\\nf(\\frac{5}{2})=0\\\\\n2(\\frac{5}{2})^3-13(\\frac{5}{2})^2+p(\\frac{5}{2})-5=0\\\\\n\\frac{125}{4}-\\frac{325}{4}+\\frac{5p}{2}-5=0\\\\\n\\frac{125-325+10p-20}{4}=0\\\\\n-220+10p=0\\\\\np=22\\\\\\\\\nf(x)=2x^3-13x^2+22x-5\\\\\n2x^3-13x^2+22x-5=(2x-5)(2x^2-8x+2)[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-3log-2-x-dan-2log-5y-nilai-5log-15-beserta-car-876",
+            "question": "Diketahui\u00a03log 2 = x dan\u00a0\r\n 2log 5=y. Nilai 5log 15 =\r\n\r\n\r\nBeserta caranya ya",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "3log2= x , diubah jadi 2log3=1/x<br>2log5=y<br><br>5log15 = 2log15 / 2log5<br>= 2log 3 x 2log5 / 2log5<br>= 1/x + y / y<br>= ( y + xy /xy) / y<br>= y + xy / y(xy)<br>= y + xy / xy^2<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "selidiki-persamaan-kuadrat-berikut-a-x2-2x10-b2x2-2x0-c3-574",
+            "question": "Selidiki persamaan kuadrat berikut:    a) x\u00b2-2x+1=0\r\nb)2x\u00b2-2x=0\r\nc)3x\u00b2-2x+10=0\r\nd)x\u00b2-10=0\r\nberikan jawabannya dengan cara jalannya\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1). (x-1).(x-1)<br>2). (2x-2).(x-0)<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-pers-kuadrat-x2-m-3x-3m-1-0-mempunyai-satu-akar-r-799",
+            "question": "Jika pers kuadrat x\u00b2-(m+ 3)x+ (3m + 1) = 0\r\nmempunyai satu akar riil mka nilai m yg memenuhi ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "satu akar, jadi D=0<br>[tex]D=0\\\\\nb^2-4ac=0\\\\\n(m+3)^2-4(1)(3m+1)=0\\\\\nm^2+6m+9-12m-4=0\\\\\nm^2-6m+5=0\\\\\n(m-1)(m-5)=0\\\\\nm_1=1 \\ atau \\ m_2=5[/tex]<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Bentuk Umum Persamaan Kuadrat seperti ini<span>,\u00a0\u00a0dan a, b, c,</span>Dimana :x\u00a0adalah variabel persamaan kuadrata\u00a0adalah koefisien x kuadratb\u00a0adalah koefisien xc\u00a0adalah konstantaCara Menyelesaikan Persamaan Kuadrat<span>1) Mencari faktor<br><br>diuraikan menjadi\u00a0<br>cara pemfaktoran akan lebih mudah bila a = 1<br>maka kita bisa menebak x1 dan x2 dengan cara<br>a = 1<br>b = x1+x2<br>c = x1.x2</span><span>2) Memakai Rumus Kuadrat atau Rumus abc<br></span><span>3) Melengkapkan Kuadrat Sempurna<br>Bentuk umum persamaan kuadrat bebentuk kuadrat sempurna adalah :<br>\u00a0dengan q &gt; 0</span>Menentukan Jenis Akar-Akar Persamaan Kuadrat Jenis akar-akar persamaan kuadrat ditentukan oleh nilai deskriminan :<span><br>a. D &gt; 0 Kedua akar nyata dan berlainan,\u00a0</span><span>b. D = 0<br>Kedua akar nyata dan sama,\u00a0</span><span>c. D &lt;&gt; Kedua akar tidak nyata (imaginer)<br>d.\u00a0\u00a0dengan\u00a0<br>bilangan kuadrat sempurna, kedua akar rasional.</span><span>Untuk menghitung<span>\u00a0jumlah dan hasil kali akar-akar persamaan kuadrat</span>\u00a0, dapat dicari tanpa terlebih dahulu mencari akar-akarnya.</span><span>Dari rumus\u00a0\u00a0dan\u00a0</span><span>Dapat ditunjukkan bahwa:\u00a0</span><span>Rumus-rumus\u00a0Akar Persamaan Kuadrat hasil pengembangan, sering sekali muncul di soal UAN SNMPTN atau SPMB</span><span>Sifat-sifat Akar\u00a0Persamaan Kuadrat Jika\u00a0\u00a0dan\u00a0\u00a0adalah akar-akar persamaan kuadrat\u00a0\u00a0dengan\u00a0<br>maka berlaku sifat-sifat berikut ini :</span><span>a. Syarat mempunyai Dua Akar Positif<br></span><span>b. Syarat mempunyai Dua Akar Negatif<br><br>c. Syarat mempunyai Dua Akar Berlainan Tanda<br><br>d. Syarat mempunyai Dua Akar Berlawanan<br><br>e. Syarat mempunyai kedua akar berkebalikan<br></span><span>Cara menyusun Persamaan kuadratdari akar-akar x1 dan x2 yang diketahui</span><span>Persamaan kuadrat yang akar-akarnya\u00a0dan\u00a0\u00a0adalah :\u00a0</span>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

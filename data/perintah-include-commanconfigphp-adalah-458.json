@@ -1,0 +1,137 @@
+{
+    "question": "Perintah include (\"comman/config.php\") adalah?",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "&lt;? <br>include \"config.php\"; <br>?&gt;<br><br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "kenapa-sih-windows-7-tidak-bisa-update-otomatis-lagi-ketika-diu-167",
+            "question": "Kenapa sih Windows 7 tidak bisa update otomatis lagi ?    Ketika diupdate, malah gagal.\r\n\r\nSolusi mengatasinya gimana ya ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "lebih baik anda langsung membawanya ke tempat2 yg memang ahli untuk menginstal perangkat anda..krn jika salah program..bisa-bisa file/data2 dalam perangkat anda akan hilang.",
+                    "attachments": []
+                },
+                {
+                    "answer": "coba di cek pengaturan windows update nya, biasanya kalo gitu masalahnya itu karena settingan windows updatenya mati #kayapunyaku :x",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apa-yang-kalian-ketahui-tentang-memory-ram-pc-ddr3-sebutkan-se-268",
+            "question": "Apa yang kalian ketahui tentang memory RAM PC DDR3???\r\nSEButkan sejarah singkatnya???",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>DDR3 sudah menggunakan teknologi 90 nm sehingga konsusmsi daya yang diperlukan hanya 1.5v. Ia mampu mentransfer data dengan clock efektif sebesar 800-1600 MHzDDR3 memiliki clock internal 400-800 MHz (Random Access Memory) ditemukan oleh Robert Dennard dan diproduksi secara besar-besaran oleh intel pada tahun 1968</span><br>Sejarah Perkembangan RAM<br><span>1 . DRAMmunculpadatahun 1970,IBMmenciptakansebuahmemori yang dinamakan DRAM(Dynamic Random Access Memory) yang mempunyaifrekuensikerja yang bervariasi,yaituantara 4,77MHz hingga 40MHz</span><span>2 . FPM RAMmunculpadatahun 1987,RAMjenis FPM (Fast Page Mode) merupakan RAM paling kerap digunakan dalam system komputer pada masa itu,FPM bekerja pada rentangfrekuensi 16MHz hingga 66MHz dengan access time sekitar 50ns.selain itu FPM mampumengolah transfer data (bandwith) sebesar 188,71MB/detik, FPM jugadikenalisebagai DRAM (Dynamic Random Access Memory) saja,FPMmenggunakanmodulmemori SIMM 30 pin &amp; SIMM 72 pin</span><span>3 . EDORAMmunculpadatahun 1995,Extended Data Output Dynamic Random Access Memory yang merupakanpenyempurnaandari FPM. EDORAM mempunyai access time sekitar 70ns hingga 50ns &amp;bekerjapadafrekuensi 33MHz hingga 75MHz.</span><span>4. SDRAMmunculpadaperalihan 1996-1997,Synchronous Dynamic Random AccsessMemory,lebihdikenalsebagai PC66 karenabekerjapadafrekuensi bus 66MHz.,tegangan hanya 3,3volt, access time sebesar 10ns &amp;mampumenghantarkan data dengankecepatanmaksimal 55MB/det</span><span>5.\u00a0 RDRAMmunculpadatahun 1999,yangmenggunakanmodulRIMM,transfer data secara serial pada data bus 16-bit,dengan kecepatan 16GB/det.</span><span>6. SDRAM PC 133bekerjapada bus berfrekuensi 133MHz dengan access time sebesar 1,06GB/det.</span><span>7. SDRAM PC 150padatahun 2000 memori PC150 mempunyaiaccsess time 7ns &amp;mampumengalirkan data sebesar 1,28GB/det</span><span>8. DDR-SDRAMpadatahun 2000 menggunakansistem bus denganfrekuensisebesar 100-133MHz</span><span>9. DDR2 SDRAMpadatahun 2004 memilkikelebihan High clock speed 400-800MHz,memiliki 1 keping 2 GB &amp;dipasangkanpada single bank sertamenggunakanteknologikoneksi Ball Grid Array (BGA)</span><span>10. DDR3 2GBpada 2007, memilikibandwithsampaidengan 1600MHz&amp;mampu mentransfer data dengan clock efektif 800-1600MHz.</span>",
+                    "attachments": []
+                },
+                {
+                    "answer": "DDR3 sudah menggunakan teknologi 90 nm sehingga konsusmsi daya yang \ndiperlukan hanya 1.5v. Ia mampu mentransfer data dengan clock efektif \nsebesar 800-1600 MHz. DDR3 memiliki clock internal 400-800 MHz.Prototipe\n dari DDR3 yang memiliki 240 pin. Sejarah: (Random Access Memory) \nditemukan oleh Robert Dennard dan diproduksi secara besar-besaran oleh \nintel pada tahun 1968<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "50-sistem-operasi-beserta-logo-dan-distronya-642",
+            "question": "50 sistem operasi beserta logo dan distronya ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "nih gue kasih link nya,,,soalnya gambarnya sulit dan ukurannya terlalu besar untuk di masukan di jawaban ini<br>link nya =distrowatch dot com<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-jelaskan-hierarchy-chomsky-735",
+            "question": "1.\u00a0\u00a0\u00a0\u00a0\u00a0\r\nJelaskan Hierarchy Chomsky",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>Dalam bidang ilmu komputer, khususnya di bidang bahasa formal, hirarki Chomsky (kadang-kadang disebut sebagai hirarki Chomsky-Schutzenberger) adalah sebuah hirarki penahanan kelas tata bahasa formal. Ini hirarki tata bahasa digambarkan oleh Noam Chomsky pada tahun 1956. [1] Hal ini juga dinamai Marcel-Paul Schutzenberger, yang memainkan peran penting dalam pengembangan teori bahasa formal. The Chomsky Hierarchy, pada dasarnya, memungkinkan kemungkinan bagi pemahaman dan penggunaan model ilmu komputer yang memungkinkan programmer untuk mencapai tujuan linguistik bermakna secara sistematis</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "minta-saran-nih-disuruh-buat-logo-untuk-goodie-bag-dari-inkscape-755",
+            "question": "minta saran nih, disuruh buat logo untuk goodie bag dari inkscape. Mau minta contoh gambar yang bagus buat dijadiin logo doong, makasiih :)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "semoga membantu dan bermanfaat",
+                    "attachments": [
+                        "answer-attachments/minta-saran-nih-disuruh-buat-logo-untuk-goodie-bag-dari-inkscape-755-1.jpg",
+                        "answer-attachments/minta-saran-nih-disuruh-buat-logo-untuk-goodie-bag-dari-inkscape-755-2.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "ada-yang-tahu-aplikasi-yang-bagus-dan-simple-untuk-membuat-presen-820",
+            "question": "Ada yang tahu aplikasi yang bagus dan simple untuk membuat presentasi lebih menarik ??",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "aplikasi yang bagus + keren :\u00a0keynote, prezi, atau google presentations",
+                    "attachments": []
+                },
+                {
+                    "answer": "menambahkan gambar gif, buat animasi 3d",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jawablah-soal-soal-ini-1-sistem-operasi-berbasis-teks-terdapat-p-316",
+            "question": "Jawablah Soal Soal ini    1. Sistem operasi berbasis teks terdapat pada ....\r\n\u00a0\u00a0 a. Novell\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 d. Microsoft Windows\r\n\u00a0\u00a0 b. Ms DOS\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 e. Apple Machintos\r\n\u00a0\u00a0 c. Linux\r\n2. Lapisan abstrak yang terdapat diantara brainware dan hardware adalah ...\r\n\u00a0\u00a0 a. CPU\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 d. software\r\n\u00a0\u00a0 b. RAM\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 e. perangkat keras\r\n\u00a0\u00a0 c. user\r\n3. Sistem operasi yang bersifat multiuser dan multitasking adalah ....\r\n\u00a0\u00a0 a. MS-DOS\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 d. Windows\r\n\u00a0\u00a0 b. PC-DOS\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 e. Prolog\r\n\u00a0\u00a0 c. Turbo Pascal\r\n4. Berikut merupakan sistem operasi berbasis grafis adalah ....\r\n\u00a0\u00a0 a. HP/UX\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 d. UNIX\r\n\u00a0\u00a0 b. MS-DOS\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 e. Linux\r\n\u00a0\u00a0 c. Free BSD\r\n6. Dalam Perkembangan sistem operasi di mulai dari program ... dan dikembangkan\u00a0 \u00a0 menjadi\u00a0 program berorientasi ....\r\n\u00a0\u00a0 a.\u00a0 DOS, GUI\r\n\u00a0\u00a0 b. GUI, DOS\r\n\u00a0\u00a0 c. IBM, DOS\r\n\u00a0\u00a0 d. DOS, UNIX\r\n\u00a0\u00a0 e. Linux, Windows\r\n7. Tampilan Control Panel untuk mengatur waktu dan Tanggal adalah ....\r\n\u00a0\u00a0 a. Accesibility Options\r\n\u00a0\u00a0 b. Printers and Other Hardware\r\n\u00a0\u00a0 c. Date, Time, Language, and Regional Options\r\n\u00a0\u00a0 d. Appearance and Themes\r\n\u00a0\u00a0 e. User Accounts\r\n8. Tampilan BIOS yang di gunakan untuk mengatur power komputer adalah ....\r\n\u00a0\u00a0 a. Set User Password\r\n\u00a0\u00a0 b. Integrated Peripheral\r\n\u00a0\u00a0 c. PnP/PCI Configurations\r\n\u00a0\u00a0 d. Power Management Setup\r\n\u00a0\u00a0 e. H/W Monitor\r\n9. Sistem operasi yang di buat oleh Linus Torvalds adalah ....\r\n\u00a0\u00a0 a. DOS\r\n\u00a0\u00a0 b. Windows\r\n\u00a0\u00a0 c. UNIX\r\n\u00a0\u00a0 d. Linux\r\n\u00a0\u00a0 e. Google\r\n10. Salah satu sifat yang dimiliki Windows adalah multitasking yang berarti ...\r\n\u00a0\u00a0 a. digunakan oleh banyak user\r\n\u00a0\u00a0 b. dilakukan oleh banyak komputer\r\n\u00a0\u00a0 c. digunakan oleh banyak workstations\r\n\u00a0\u00a0 d. digunakan untuk melakukan banyak tugas\r\n\u00a0\u00a0 e. digunakan untuk mengirim e-mail\r\n11. Berikut contoh dari sistem operasi yang bersifat open source dan berbasis teks, kecuali \r\n\u00a0\u00a0 a. Suse\r\n\u00a0\u00a0 b. MS-DOS\r\n\u00a0\u00a0 c. Mandrake\r\n\u00a0\u00a0 d. RedHat\r\n\u00a0\u00a0 e. Knoppix\r\n12. Linux merupakan varian dari sistem operasi ....\r\n\u00a0\u00a0 a. Windows\r\n\u00a0\u00a0 b. C/PM-86\r\n\u00a0\u00a0 c. UNIX\r\n\u00a0\u00a0 d. MS-DOS\r\n\u00a0\u00a0 e. Mac OS\r\n13. Dalam BIOS kita dapat mengatur sistem waktu, yaitu pada Bagian ....\r\n\u00a0\u00a0 a. System Time\r\n\u00a0\u00a0 b. System date\r\n\u00a0\u00a0 c. Legacy diskette\r\n\u00a0\u00a0 d. Primary master\r\n\u00a0\u00a0 e. Secondary master\r\n14. Bahasa yang di gunakan di seting BIOS tersebut adalah ....\r\n\u00a0\u00a0 a. Bahasa Indonesia\u00a0 \u00a0 \u00a0 d. Bahasa Belanda\r\n\u00a0\u00a0 b. Bahasa Inggris\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 e. Bahasa Rusia\r\n\u00a0\u00a0 c. Bahasa Spanyol\r\n15. Dari setting BIOS tersebut, status tidak ada permintaan password disebut ....\r\n\u00a0\u00a0 a. Yes\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 d. Disabled\r\n\u00a0\u00a0 b. No\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 e. None\r\n\u00a0\u00a0 c. Enabled\r\n\r\ndan satu soal lagi \r\n4. Apa Saja produk sistem operasi dari perusahaan Microsoft?\r\n\u00a0\u00a0 Jawabannya:\r\n\u00a0\u00a0 \r\n\r\ntolong tolong Jawablah secepat cepat mungkin karena ini sangat penting",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "urut dari no 1-selesai<br>bddeacddddcbbe<br>produk OS window win98,winME,win2000,winXP,win7,win8<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentang-microsoft-office-excel-1-pada-setiap-tab-terdapat-sat-751",
+            "question": "Tentang Microsoft Office\u00a0Excel\u00a0    1. pada setiap tab terdapat satu huruf yang digaris bawah. jelaskan fungsi hal tersebut dan berikan 2 contoh penggunaanya ?\r\n\r\n2. perintah apakah yang dapat di gunakan untuk memodifikasi suatu sel? jelaskan langkahnya\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "fungsinya adalah untuk sebagai shortcut, tekan tombol ALT maka setiap objek akan digaris bawahi, tekan tombol yg digaris bawahi dinkeyboard",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bagaimana-cara-instalasi-rinter-jenis-ip-di-ubuntu-maverick-jel-419",
+            "question": "Bagaimana cara instalasi rinter jenis ip di ubuntu maverick ? jelaskan?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Personalize -&gt; Printer and options -&gt; Ikuti langkah-langkah selanjutnya<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "gimana-cara-membuat-design-coreldraw-145",
+            "question": "Gimana cara membuat design coreldraw ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Cara Membuat Desain Kaos Distro dengan CorelDraw<br><span>1. Buka program coreldraw\u00a0</span><br>2. Buat pola baju / kaos, caranya klik Bezier Tool yang ada di toolbox coreldraw<br>3. Untuk memudahkan membuat pola, gunakan garis bantu, seperti dibawah ini<br><br>\u00a0<br><br><span>4. Supaya garis pola baju melengkung, klik\u00a0</span>Shape Tool<span>\u00a0lalu klik kanan dan pilih\u00a0</span>convert line to curve<span>, seperti dibawah ini\u00a0</span><br><br>\u00a0<br><br><span>5. Dan buat\u00a0</span>garis melengkung<span>\u00a0pada bagian pola kaos yang lain, seperti dibawah ini</span><br><br>\u00a0<br><br><span>6. Buat warna kaos dengan\u00a0</span>Fill Tool<span>, misalnya warna biru seperti ini\u00a0</span><br><br>\u00a0<br><br><span>7. Supaya kaos / t-shirt tidak terkesan kaku, kita akan memberi lipatan pada bagian lengan kanan, caranya masih menggunakan\u00a0</span>Bezier Tool<span>\u00a0seperti dibawah ini dan buat warnanya lebih tua.</span><br><br>\u00a0<br><br>8. Lalu letakkan lipatan yang baru dibuat di sebelah lengan kanan, lihat gambar dibawah ini.<br><br>\u00a0<br><br>9. Lalu buat lagi lipatan kaos untuk diletakkan pada bagian lengan kiri, seperti dibawah ini, langkah membuatnya sama seperti diatas yaitu dengan bezier tool<br><br>\u00a0<br><br>10. Letakkan lipatan kaos yang baru dibuat disebelah lengan kiri<br><br>\u00a0<br><br><span>11. Kita akan membuat kerah kaos dan caranya juga sama yaitu dengan Bezier tool. Untuk membuatnya terlebih dahulu buat persegi panjang, kalau sudah lalu klik\u00a0</span>Shape Tool<span>\u00a0dan lengkungkan garis dengan klik convert line to curve, seperti dibawah ini</span><br><br>\u00a0<br><br><br>12. Lalu letakkan kerah yang sudah jadi seperti dibawah ini<br><br>\u00a0<br><br><span>13. Selanjutnya buat lipatan untuk samping baju seperti pada nomor 7 diatas. Lalu buat variasi misalnya dengan menambah gambar atau teks pada kaos seperti dibawah ini</span><br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

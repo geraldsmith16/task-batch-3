@@ -1,0 +1,150 @@
+{
+    "question": "sebuah proyek di rencanakan selesai di kerjakan oleh 8 orang dalam waktu 15 hari. jika jumlah pekerja hanya ada 6 orang, waktu yang di perlukan untuk menyelesaikan proyek tersebut adalah....???",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "Pakai fungsi perbandingan berbalik, cepet nih :D<br><br>[tex] \\frac{8}{6} . 15 =  \\frac{120}{6} = 20 hari[/tex]",
+            "attachments": []
+        },
+        {
+            "answer": "<u>\u00a08\u00a0</u> \u00a0 x 15 hari = 20 hari<u><br></u>\u00a06 \u00a0<br><br>maaf klo salah",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "rio-menabung-pada-sebuah-bank-sebesar-rp1200000-dg-bunga-6-pe-290",
+            "question": "rio menabung pada sebuah bank sebesar Rp.1.200.000 dg bunga 6% per tahun.jika tabungannya menjadi Rp.1.254.000 maka lama tabungan rio adalah??",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex] \\frac{6}{1200000} [/tex] x 100 % = 72.000<br>72.000 : 12 = 6.000<br>1.254.000 - 1.200.000 = 54.000<br>54 : 6 = 9<br>Jadi rio udah menabung di bank selama 9 bulan",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pak-jodi-menabung-uang-sebesar-rp-240000000-pada-sebuah-bank-ya-273",
+            "question": "pak jodi menabung uang sebesar rp 2400.000.00 pada sebuah bank yang memberikan bunga tunggal sebesar 7% per tahun setelah diambil uang pak jodi menjadi rp\u00a0 2512000.00 lama waktu pak jodi menabung adalah ...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "2.512.000\u00a0- 2.400.000 = 112.000<br>7 % dari 2.400.000 = 168.000<br>1 bulan = (7/12) % = 24.000<br><br>112.000/24.000 = 14/3 %<u></u> =\u00a056/12 %<br>56/7 = 8 bulan",
+                    "attachments": []
+                },
+                {
+                    "answer": "Bunga pertahun = Rp 2.400.000 X 7/100 = Rp 168.000<br>Bunga perbulan = Rp 168.000/12 = Rp 14.000<br>Jadi, lama Pak Jodi menabung adalah Rp 2.512.000 - Rp 2.400.000 / Rp 14.000 = 8 bulan<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-k-x-3-lt-x-lt3-x-bilangan-bulat-l-296",
+            "question": "Diketahui:    K = {x |\u00a0\u207b3 &lt; x &lt;3, x\u00a0\u2208 bilangan bulat }\r\nL = {lima bilangan cacah pertama}\r\nM = {x | x&lt;5, x\u2208 bilangan asli}\r\n\r\ntentukan:\r\na.K U L\r\nb.K U M\r\nc.L U M\r\nd.K U L U M\r\ne.K\u00a0\u03a0 M\r\nf.K\u00a0\u03a0 L\r\ng.K\u00a0\u03a0 L M",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "K = {-2,-1,0,1,2}<br>L\u00a0= {0,1,2,3,4}<br>M = {1,2,3,4}<br><br>jawaban\u00a0<br>A. A={-2,-1,0,1,2,3,4}<br>B. B={-2,-1,0,1,2,3,4}<br>C. C={0,1,2,3,4}<br>D. D={-2,-1,0,1,2,3,4}<br>E. E={1,2}<br>F. F={0,1,2}<br>G. yang ini soalnya gak jelas",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dari-himpunan-himpunan-dibawah-ini-manakah-yang-merupakan-himpuna-642",
+            "question": "Dari himpunan-himpunan dibawah ini manakah yang merupakan himpunan yang ekuivalen?    a. P = {1, 2, 3, 4}\r\nb. Q = {a, b, c}\r\nc. R = {x, y, z, m, n}\r\nd. S = {a, i, u, o, f}\r\ne. T = [a, m, n}",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "b dan e<br>maaf kalau ada yang salah...,<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "b dan e<br>c dan d ...........................",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apa-pengertian-dari-bangun-datar-jajar-genjang-594",
+            "question": "Apa pengertian dari bangun datar jajar\u00a0genjang\u00a0?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "jajar genjang adalah\u00a0<span>angun datar\u00a0</span>dua dimensi<span>\u00a0yang dibentuk oleh dua pasang\u00a0</span>rusuk<span>\u00a0yang masing-masing sama panjang dan\u00a0</span>sejajar<span>\u00a0dengan pasangannya, dan memiliki dua pasang\u00a0</span>sudut<span>\u00a0bukan\u00a0</span>siku-siku<span>\u00a0yang masing-masing sama besar dengan sudut di hadapannya.</span>",
+                    "attachments": []
+                },
+                {
+                    "answer": "bangun datar jajar genjang adalah bangun datar yang luas bidangnya di dapat dengan mengalikan alas dan tinggi bangun tersebut",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-jumlah-dua-bilangan-adalah-100-dan-selisih-nya-adalah-4-770",
+            "question": "diketahui jumlah dua bilangan adalah 100 dan selisih nya adalah 40 bagaimana nilai dua bilangan tersebut dapat dinatakan dua linear variabel.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "jawabannya:<br>a+b = 100<br>a-b \u00a0= 40<br>truss lakukan proses eliminasi....<br>2b = 60<br>b = 30<br>substitusikan ke a+b=100<br>a+ 30 = 100<br>a= 70",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "cara-mencari-tembereng-amp-apotema-pada-lingkaran-896",
+            "question": "Cara Mencari Tembereng &amp; apotema pada lingkaran",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Cara mencari Tembereng :<br>Luas tembereng = Luas Juring \u2013 Luas Segitiga\u00a0<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "kalo apotema bisa pake konsep luas segitiga sama pythagoras<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "mau-tanya-setelah-9-bulan-tabungan-ali-menjadi-rp3815000ji-605",
+            "question": "Mau tanya,,,    setelah 9 bulan tabungan ali menjadi Rp.3.815.000.jika jasa yg dterima 12%/tahun mk tabungan awal ali adalah...??\r\nmohon jawaaabannyaa,,,,",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex] \\frac{100}{112} [/tex]\u00a0\u00d7 3.815.000 = 3.406.250",
+                    "attachments": []
+                },
+                {
+                    "answer": "Rp.3.500.000\u00a0<br>pokoknya itu hasilnya terlalu panjang \u00a0caranya\u00a0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "nilai-x-yang-memenuhi-persamaan-x-1-1-3-untuk-x-himpunan-b-989",
+            "question": "Nilai x yang memenuhi persamaan x-1 - 1= 3 untuk x \u2208 himpunan bilangan bulat adalah?.    \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 2",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "\u00a0<span><u>x-1 </u> - 1= 3</span><br>\u00a0 2<br><span><u>x-1\u00a0 </u>\u00a0 = 3</span>+1<br>\u00a02<br><span><u>x-1 </u> = 4<br>\u00a02<br>x-1 = 4 . 2<br>x-1 = 8<br>x = 8+1<br>x= 9<br></span><br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<u>x-1</u><em> -</em> 1 = 3<br>\u00a02<br><u>x-1</u> = 3+1<u><br></u>\u00a02<br><u>x-1</u> = 4<br> 2<br>x-1 = 4.2<br>x-1 = 8<br>x \u00a0 = 8+1<br>x \u00a0 = 9",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-penyelesaian-dari-35a2-33a-73a-1-453",
+            "question": "Tentukan penyelesaian dari 3(5a+2)-3(3a-7)=3(a-1)!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "3(5a+2)-3(3a-7)=3(a-1)<br>15a+6-9a+21 = 3a-3<br>6a+27 = 3a-3<br>6a-3a = -3-27<br>3a = -30<br>a = -10",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

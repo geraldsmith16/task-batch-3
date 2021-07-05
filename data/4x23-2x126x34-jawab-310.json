@@ -1,0 +1,134 @@
+{
+    "question": "4x+2/3-2x+1/2=6x+3/4 \r\njawab;",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "4x + 2/3 - 2x + 1/2 = 6x + 3/4<br>4x - 2x - 6x\u00a0 = 3/4 - 2/3 - 1/2<br>-4x\u00a0 = -5/12<br>x = -5/12/4<br>x = -5/12 x 1/4<br>x = -5/48<br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "tentukanlah-penyelesaian-dari-pertidaksamaan-berikut-a-12x-292",
+            "question": "Tentukanlah penyelesaian dari pertidaksamaan berikut :    a.\u00a01/2x + 5\u00a0&gt; 15\r\nb. 2 - (4 + x)\u00a0\u2265 - 22",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a. 1/2x + 5 &gt; 15<br>x + 10 &gt;30<br>x &gt; 20<br><br>b. 2-(4+x) <span>\u2265 -22<br>2 - 4 - x \u2265 -22<br>-2 - x \u2265 - 22<br>-x \u2265 -22<br>x \u2264 22</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "a-2757-67-b513-213613-247",
+            "question": "A.\u00a02\u221a7+5\u221a7-6\u221a7\r\nb.5\u221a13-2\u221a13+6\u221a13",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a.\u00a0[tex] \\sqrt{7} [/tex]<br>b. 9\u00a0<u></u>[tex] \\sqrt{13} [/tex]",
+                    "attachments": []
+                },
+                {
+                    "answer": "A.\u00a0\u00a0dari :\u00a0\u00a02\u221a7+5\u221a7-6\u221a7<br>B.\u00a09\u00a0<u></u>\u00a0dari :\u00a0<span>5\u221a13-2\u221a13+6\u221a13</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-pekarangan-berukuran-48-m-dan-lebar-24-m-skala-1800-abrp-592",
+            "question": "Sebuah pekarangan berukuran 48 m dan lebar 24 m skala 1:800    a.brp panjang pada peta?\r\nb.brp lebar pada peta? beserta cara\r\n\r\n\r\ntolong ya",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "48 m = 4.800 cm<br>24 m = 2.400 cm<br>maka<br>a. p pd peta = p sebenarnya : skala = 4.800 cm : 800 = 6 cm<br>b. l pd peta = l sebenarnya : skala = 2.400 cm : 800 = 3 cm<br><br>semoga membantu :)<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span>a. 48/ 800 = 0.06<br>b. 24/ 800 = 0.03<br>caranya dikali sama skalanya, skalanya 1 : 800 berarti dikali 1/800</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "manakah-yang-termasuk-persamaan-linear-satu-variable-a-2x-48-964",
+            "question": "Manakah yang termasuk persamaan linear satu variable?    A. 2x - 4=8\r\n B. -4 + 3s = 24\r\n C. -8 - d^2 = 32\r\n D. 5(u-2) = u-2",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "kalau ga salah semuanya juga satu variabel",
+                    "attachments": []
+                },
+                {
+                    "answer": "yang termasuk PLSV adalh a dan b<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "p13579-tuliskan-semua-himpunan-bagian-yang-mungkin-dari-p-581",
+            "question": "P={1,3,5,7,9} tuliskan semua himpunan bagian yang mungkin dari p dan hitung banyaknya",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "kalau 1 anggotanya = 5<br>kalau 2 anggotanya = 10<br>kalau 3 anggotanya = 10<br>kalau 4 anggotanya = 5<br>kalau 5 anggotanya = 1<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pada-kegiatan-rallysebuah-mobil-akan-sampai-di-garis-finis-dalam-340",
+            "question": "Pada kegiatan Rally,sebuah mobil akan sampai di garis finis dalam waktu 4,5 jam dengan kecepatan rata-rata 63 km/jam. Setelah 2 jam berjalan, ban mobil biru pecah sehingga terpaksa berhenti mengganti ban selama 15 menit. Berapa kecepatan mobil biru dinaikkan agar tetap sampai di finis tepat waktu?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "ditambah kecepatanya 7 km/jam\njadi 70 km/ jam",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-nilai-abdan-c-pada-soal-dibawah-ini-pakai-caranya-ya-986",
+            "question": "Tentukan nilai a,b,dan c pada soal dibawah ini !    pakai caranya yah ;)\r\n\r\n1. a/b=b/c, a+c=15 dan a=1/4 c\r\n2. a:b=4:5,a+b=90,dan b=1/3c\r\n3. 5a-b=24,a:b=5:2,dan c=1/7(a+b)\r\n\r\n4. a+c=144,a:c=5:7,dan b=1/6(a+c)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1, Jika a/b = b/c maka lakukan perkalian silang.<br>\u00a0\u00a0\u00a0 axc = bxb, maka ac = b\u00b2<br>\u00a0\u00a0\u00a0 jika a = 1/4 c, maka perbandingannya 1 : 4 = a : c<br>\u00a0\u00a0 maka jika a+c=15, maka a= 1/5 x 15 = 3. b= 4/5 x 15 = 12<br><br>2. a : b = 4 : 5, jika a + b = 90. maka nilai a = 4/9 x 90 = 40<br>\u00a0\u00a0\u00a0 b = 5/9 x 90 = 50<br>\u00a0\u00a0\u00a0 jika b= 1/3 c. Maka nilI c adalah 3xb = 3 x 50 = 150<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "harga-sebuah-baju-sama-dengan-harga-ketiga-buah-kaos-seorang-pe-638",
+            "question": "Harga sebuah baju sama\u00a0dengan harga ketiga buah kaos. seorang pedagang membeli 2 baju dan 3 kaos,pedagang itu harus membayar Rp.\u00a0420.000,00    a. buatlah model matematika dari keterangan diatas\r\nb. selesaikan model matematika tersebut,kemudian tentukan harga 5 baju dan 4 kaos.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a. b=baju<br>\u00a0 \u00a0 k=baju kaos<br>\u00a0 \u00a0\u00a01b=3k<br>\u00a0 \u00a0 2b+3k=420.000<br>b. jwb sendiri mls ngetik, kalau bener2 gk tau, komen aja ya.",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "disebuah-parkir-terdapat-75-kendaraan-yang-terdiri-dari-mobil-dan-563",
+            "question": "disebuah parkir terdapat 75 kendaraan yang terdiri dari mobil dan sepeda motor.banyak roda seluruhnya 210.jika tarif parkir untuk mobil rp:4.000 dan sepeda motor Rp;2.000 ,maka pendapatan uang parkir saat itu adalah ..",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "pemisalan mobil = x dan motor = y<br>x + y = 75<br>2x + 4y = 210<br>kedua persamaan tersebut terlebih dahulu ditentukan himpunan penyelesaiannya dengan metode eliminasi (agar lebih mudah)<br>jadi, x+y=75 dikali 2 = 2x+2y=150<br>maka, 2x+4y=210 dikurang dengan 2x+2y=150 dan hasilnya<br>2y=60<br>y=60/2<br>y=30<br>sedangkan x= x+y=75<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = x+30=75<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = x = 75-30<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 45<br>jadi HP = (45,30) berarti jumlah mobil = 45 dan motor = 30<br>penghasilan tukang parkir yaitu<br>1. Mobil = 45 x 4000<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 180.000<br>2. Motor = 30 x 2000<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 60.000<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-sekali-dijawab-yaa-pelajaran-kelas-z-matematika-perban-897",
+            "question": "Tolong sekali dijawab yaa.. PELAJARAN KELAS Z MATEMATIKA : PERBANDINGAN DAN SKALA\u00a0    soal: Untuk membangun ruang kelas baru sebanyak 2 kelas akan selesai dalam waktu 50 hari jika dikerjakan oleh 15 tukang.Setelah 20 hari bekerja bahan abis,pekerjaan terhenti 5 hari. berapa orang tukang ditambah agar ruang kelas itu tetap selesai tepat waktu?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "50 hari = 15 tukang<br>50 - 20 - 5 = x tukang<br>[tex] \\frac{50}{25} [/tex] =\u00a0[tex] \\frac{x}{15} [/tex]\u00a0<br>x = 2\u00a0\u00d7 15<br>x = 30<br><br>tambahan pekerja = 30 - 15 = 15",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

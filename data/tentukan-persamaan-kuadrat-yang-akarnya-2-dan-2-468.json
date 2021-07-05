@@ -1,0 +1,122 @@
+{
+    "question": "Tentukan persamaan kuadrat yang akarnya 2- dan 2+",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "[tex]PK\\ baru : x^2-(x_1+x_2)x+(x_1x_2)=0\\\\\nx_1+x_2=(2-\\sqrt{3})+(2+\\sqrt{3})\\\\\nx_1+x_2=4\\\\\n\\\\\nx_1x_2=(2-\\sqrt{3})(2+\\sqrt{3})\\\\\nx_1x_2=4-3=1\\\\\n\\\\\nPK\\ baru : x^2-4x+1=0\\\\[/tex]",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "suatu-percobaan-di-lakukan-dengan-melempar-undi-3-mata-uang-logam-833",
+            "question": "Suatu percobaan di lakukan dengan melempar undi 3 mata uang logam secara bersamaan sebanyak 64 kali frekuensi harapan munculnya sisi gambar lebih dari satu adalah.....    a.8 \u00a0 b.24 \u00a0 c.32 \u00a0 d.40 \u00a0 e.48\r\n\r\ntolong yang dengan cara kerjanya kalau bisa dengan rumusnya :)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "P (A) = n (A) / n (S) = 4/8<br>maka Fh (A) = P (A) X n<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 4/8 X 64<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 32 (c)<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "aku-punya-pr-tapi-aku-atak-tahu-bagaimana-cara-untuk-menemukan-ja-208",
+            "question": "Aku punya PR tapi aku atak tahu bagaimana cara untuk menemukan jalan solusinya,    pertanyaannya begini:\r\n\r\nTemukan grafik fungsi kuadrat f(X) = 4x\u00b2 - 8x +\u00a03, dari grafik fungsi kuadrat g(x) = 4x\u00b2 !\r\n\r\nMohon penjelasannya!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]f(x)=4x^2-8x+3\\\\\ncari\\ titik\\ potong\\ thdp\\ sb\\ x\\ (y=0)\\\\\n0=4x^2-8x+3\\\\\n(2x-3)(2x-1)=0\\\\\nx=\\frac{3}{2}\\ atau\\ x=\\frac{1}{2}\\\\\ndiperoleh\\ (\\frac{3}{2},0)\\ dan\\ (\\frac{1}{2},0)\\\\\\\\\ncari\\ tipot\\ thdp\\ sb\\ y\\ (x=0)\\\\\nf(x)=y=4x^2-8x+3\\\\\ny=4(0)^2-8(0)+3\\\\\ny=3\\\\\ndiperoleh\\ (0,3)\\\\\\\\\ncari\\ titik\\ puncak\\ P(\\frac{-b}{2a},\\frac{-(b^2-4ac)}{4a})\\\\\nP(\\frac{-(-8)}{2(4)},\\frac{-((-8)^2-4(4)(3))}{4(4)})\\\\\nP(1,-1)\\\\\nletakkan\\ semua\\ titik\\ pada\\ koordinat\\ kartesius\\\\\nlalu\\ gambar\\ grafiknya[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-jumlah-10-suku-pertama-barisan-aritmatika-adalah-1255-473",
+            "question": "diketahui jumlah 10 suku pertama barisan aritmatika adalah 1255, jika bedanya 6. tentukanlah suku pertama dan rumus suku ke-n?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "U1 + U2 +..... + U10 = 10U1 + (1\u00a0+\u00a02\u00a0+ 3 + 4 + 5 + 6 + 7 + 8 + 9)b =1225<br><br>10U1 + 45.6 = 1255<br>10U1 +\u00a0270 = 1255<br>10U1 = 985<br>U1 = 98,5<br><br>Un = U1 + (n-1)b<br>Un = 98,5 + (n-1)6<br>Un = 98,5 + 6n -\u00a06<br>Un = 6n + 92,5",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-akar-akar-persamaan-kuadrat-jika-23y252y1-yang-bisa-758",
+            "question": "Tentukan akar akar persamaan kuadrat jika 2/3y2+5/2y=1 ,yang bisa jawab jawab ya",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]\\frac{2}{3}y^2+\\frac{5}{2}y=1\\ kalikan\\ kedua\\ ruas\\ dengan\\ 6\\\\\n4y^2+15y-6=0\\\\\ny_{1,2}=\\frac{-b \\underline{+} \\sqrt{b^2-4ac}}{2a}\\\\\ny_{1,2}=\\frac{-15 \\underline{+} \\sqrt{15^2-4(4)(-6)}}{2(4)}\\\\\ny_{1,2}=\\frac{-15 \\underline{+} \\sqrt{225+96}}{8}\\\\\ny_{1,2}=\\frac{-15 \\underline{+} \\sqrt{321}}{8}\\\\[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-himp-selesaian-dari-2x25xlt3-xr-285",
+            "question": "Tentukan himp. selesaian dari 2x\u00b2+5x&lt;3, x\u2208R",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span> 2x\u00b2+5x&lt;3, x\u2208R<br></span><br><span>2x\u00b2 + 5x - 3 &lt; 0<br>(2x -1) (x+3) &lt; 0<br>2x = 1\u00a0 \u00a0 atau x = -3<br>x = 1/2<br>hp = {x|-3&lt;x&lt;1/2, </span><span><span>x\u2208R</span>}<br></span><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "log-x2-4x-4-leq-log-5x-10-685",
+            "question": "Log (X^{2} + 4X + 4 ) \\leq log ( 5X + 10 )",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]log(x^2+4x+4) \\leq log(5x+10)\\\\ x^2+4x+4 \\leq 5x+10\\\\ x^2-x-6 \\leq 0\\\\ (x-3)(x+2) \\leq 0\\\\ -2 \\leq x \\leq 3\\\\ syarat:\\\\ 1)\\ x^2+4x+4&gt;0\\\\ (x+2)^2&gt;0\\\\ x+2&gt;0\\\\ x&gt;-2\\\\ 2)\\ 5x+10&gt;0\\\\ 5x&gt;-10\\\\ x&gt;-2\\\\ maka\\ -2\\ tidak\\ memenuhi,\\ sehingga\\ Hp=\\{-2&lt;x\\leq3\\}[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "faktor2-linear-lain-dari-px-x4-4x3-9x216x20-429",
+            "question": "Faktor2 linear lain dari p(x) =\u00a0x^{4}-4x^{3}-9x^{2}+16x+20",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "dengan menggunakan cara horner diperoleh :<br>(x+1)(x+2)(x-2)(x-5)",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-peta-berskala-110000000-jarak-kota-jambi-dan-palembang-p-299",
+            "question": "sebuah peta berskala 1:10000000. jarak kota jambi dan palembang pada peta jaraknya 2,4 cm. seorang supir bus berangkat dari kota jambi menuju kota palembang dengan kecepatan rata rata 80 km per jam. selama perjalanannya, ia berhenti istirahat sebanyak 1 kali selama 30 menit. ia tiba di kota palembang pukul 10.30 wib . \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 pertanyaannya: berapa jam bis tu di perjalanan? \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 jawabannya di berikan cara penyelesaiannya",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Jarak = skala \u00d7 jarak pd peta<br>Jarak = 100 \u00d7 2,4<br>Jarak = 240 km<br><br>Waktu = Jarak \u00f7 Kecepatan<br>Waktu = 240 \u00f7 80<br>Waktu = 3 jam<br><br>waktu perjalanan = 3 jam - 30 menit = 2 jam 30 menit<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-siswa-direlasikan-dengan-tanggal-kelahirannya-apakah-relas-900",
+            "question": "jika siswa direlasikan dengan tanggal kelahirannya , apakah relasi itu merupakan fungsi ? berikan penjelasannya ??",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "tdak karena tdAK MENutup kemungkinan terdapat kesamaan tanggal lahir",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bentuk-sederhana-dari-3-akar-81-2-akar-27-3-akar-243-445",
+            "question": "Bentuk sederhana dari 3\u00a0akar 81 - 2 akar 27 + 3 akar 243",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex] \\sqrt[3]{81} = 9 -  \\sqrt[2]{27} = 13,5 +  \\sqrt[3]{243} = 81\u00a0<br>9-13,5+81= 76,5",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

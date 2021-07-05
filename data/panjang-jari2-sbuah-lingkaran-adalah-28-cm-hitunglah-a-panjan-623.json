@@ -1,0 +1,150 @@
+{
+    "question": "Panjang jari2 sbuah lingkaran adalah 28 cm. Hitunglah :    a. panjang busur dihadapan sudut pusat 45 derajat\r\nb. luas juring yg sudut pusatnya 120 drajat??",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "a. keliling=22/7.2.28 = 176<br>\u00a0 \u00a0busur=45/360.176= 22<br><br>b. luas = 22/7.28.28 = 2464<br>\u00a0 \u00a0juring = 120/360.2464 = 821,34",
+            "attachments": []
+        },
+        {
+            "answer": "a. panjang busur = phi*d*&lt;/360<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 22/7*56*45/360<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0  = 22<br>b. L juring = phi*r*r*&lt;/360<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0  = 22/7*28*28*120/360<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 821,33<br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "1-1-3-2-pke-cara-5-6-609",
+            "question": "1 1 + 3 2 = ??? pke cara\r\n\u00a0 \u00a05 \u00a0 \u00a0\u00a0\u00a0 6\r\n\u00a0\u00a0\u00a0\r\n \u00a0\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1 1/5 + 3 2/6 = 6/5 + 20/6 = 36/30 + 100/30 = 136/30 = 4,53<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "pakai cara hitung campuran<br><br>[tex] 1\\frac{1}{5} + 3\\frac{2}{6}  \\\\  \\\\ =  \\frac{6}{5} + \\frac{20}{6}  \\\\   \\\\ = \\frac{36+100}{30} =  \\frac{136}{30} = 4 \\frac{16}{30} = 4 \\frac{8}{15} [/tex]<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "himpunan-penyelesaian-dari-9-5x-2-gt-x-23-adalah-386",
+            "question": "Himpunan penyelesaian dari 9 - 5(x + 2) &gt; x + 23 adalah...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "9-5 ( x+2)= x + 23<br>4x+8=x+ 23<br>4x-x=23-8<br>3x=15<br>x=15/3=5",
+                    "attachments": []
+                },
+                {
+                    "answer": "9 - 5(x + 2)\u00a0<u>&gt;</u>\u00a0x + 23<br>9\u00a0-\u00a05x - 10\u00a0<u>&gt;</u>\u00a0x + 23<br>9 - 10 -23\u00a0<u>&gt;</u>\u00a0x + 5x<br>-24\u00a0<u>&gt;</u>\u00a06x<br>-6\u00a0<u>&gt;</u>\u00a0x<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bilangan-cacah-kurang-dari-15-852",
+            "question": "Bilangan cacah kurang dari 15",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "satu sampai empat belas<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "keliling-1-kuadran-dengan-jari-jari-lingkarang-14-cm-itu-berapa-y-350",
+            "question": "Keliling 1 kuadran dengan jari jari lingkarang 14 cm itu berapa ya?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "22/7x14x14=22x2x14=44x14=616",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "ubahlah-masalah-nyata-berikut-ke-dalam-bentuk-pertidaksaman-linea-706",
+            "question": "Ubahlah masalah nyata berikut ke dalam bentuk pertidaksaman linear satu variabel.    a) Sebuah bus dapat mengangkut tidak kurang dari enampuluh orang penumpang.\r\nb) Jarak rumah Beni ke sekolah lebih dari seratus meter.\r\nc) Penghasilan ibu Monika tidak lebih dari dua juta rupiah setiap bulannya.\r\nd) Sebuah pesawat berada diketinggian tidak kurang dari tiga ribu kaki di atas permukaanlaut.\r\ne) Kecepatan Udin berkendara tidak lebih dari 50 km/jam.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a. x&gt;=60<br>b.x&gt;100<br>c.x&lt;=2000000<br>d.x&gt;=3000<br>e.x&lt;=50",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-k-235711-tentukan-ahimpunan-bagian-k-yang-mem-547",
+            "question": "diketahui K = { 2,3,5,7,11} tentukan a.himpunan bagian K yang mempunyai dua anggota b.himpunan bagian K yang mempunyai tiga anggota c.himpunan bagian K yang mempunyai empat anggota",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a.) (2,3);(2,5);(2,7);(2,11);(3,5);(3,7);(3,11);(5,7);(5,11);(7,11)<br>b.)(2,3,5);(2,3,7);(2,3,11),(2,5,7);(2,5,11);(2,7,11);(3,5,7);(3,7,11);(5,7,11)<br>c.)(2,3,5,7);(2,3,5,11);(2,5,7,11);(3,5,7,11)<br>Maaf kalau kurang lengkap?!",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "un-2n2-5-nilai-dari-u4-u5-adalah-manurut-aku-jawabannya-677",
+            "question": "Un = 2n^2 -5. Nilai dari U4 + U5 adalah..    manurut aku jawabannya 72, tapi waktu cek jawabannya salah.. mohon bantuannya :) terimakasih",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "itu mksdunya gmn dlu ..gini (2n^2)-5 atau gini 2n^(2-5)<br><br>klo dipangkatin dlu br di kurang 5..hsilnya ya..<br><br>2 x 4^2 -5 = 27 trus 2 x 5^2 -5 = 45 br hsil 27 + 45 =72<br><br>tp klo pangkatnya dikurang 5 dlu tentu jd negatif pangkat nya..brrti angkanya jd pechan..<br>\u00a0&gt;&gt; 2.4^-3 = 2.1/64... trus 2.5^-3 = 2.1/125<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "3x6-2x8-10-tolon-dong-yang-bisa-756",
+            "question": "3(x+6) = 2(x+8)-10\u00a0\r\ntolon dong\u00a0yang bisa",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "3x+18 = 2x+16-10<br>3x-2x = 16-10-18<br>x = -12<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "3(x+6) = 2(x+8) -10<br>3x + 18 = 2x + 16 -10<br>3x - 2x = 6 - 18<br>x = -12<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "andi-dapat-menyelesaikan-pekerjaan-dalam-waktu-3jam-sedangkan-bu-213",
+            "question": "Andi dapat menyelesaikan pekerjaan dalam waktu 3jam, sedangkan budi dapat menyesaikan pekerjaan dalam waktu 2jam. Jika Andi dan Budi menyelesaikan pekerjaan tersebut bersama sama ,maka hitunglah waktu yang di perlukan keduanya ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "andi = 3 jam<br>budi = 2 jam<br><br>3-2 = 1<br><br>jadi jawabanya 1 jam<br><br>sorry, tadi salah baca soal",
+                    "attachments": []
+                },
+                {
+                    "answer": "Andi = 3 jam<br>Budi = 2 jam<br>Selisih = 3-2 = 1 jam.<br>Karena mereka mengerjakannya bersama-sama maka waktunya cuma 1 jam.\u00a0<br>Maaf klo salah",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "persamaan-kuadrat-yang-akar-karnya-12dan-34-adalah-477",
+            "question": "Persamaan kuadrat yang akar-karnya-1/2dan 3/4 adalah...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex](2x+1)(4x-3) =  8x^{2} -6x+4x-3 \\\\ 8x^{2} -2x-3[/tex]",
+                    "attachments": []
+                },
+                {
+                    "answer": "akar-akarnya<br>x = - 1/2 dan x = 3/4<br>maka, x = - 1/ 2 menjadi 2x + 1 = 0<br>dan x = 3 / 4 menjadi 4x - 3 = 0<br><br>masukan ke persamaan pemfaktoran ( dikalikan ):<br>\u00a0(4x - 3) (2x + 1) = 0<br>8[tex] x^{2} [/tex] - 2x - 3 = 0<br><br>semoga membantu :)<br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

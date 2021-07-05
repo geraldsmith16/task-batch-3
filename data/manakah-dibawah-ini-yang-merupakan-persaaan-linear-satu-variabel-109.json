@@ -1,0 +1,140 @@
+{
+    "question": "Manakah dibawah ini yang merupakan persaaan linear satu variabel ??     a. 2x - 4 = 8\r\nb. -4 + 3s + 24\r\nc. -8 - d\u00b2 = 32\r\nd. 5 (u - 2) + u - 2",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "a. 2x - 4 = 8<br>c. -8 - d2 = 32<br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "8y-52y-3-4-y-3-18-y-pake-cara-225",
+            "question": "8y - 5(2y - 3) = 4 (y-3) + 18\r\ny=\r\npake cara",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>8y - 5(2y - 3) = 4 (y-3) + 18<br></span>8y - 10y + 15 = 4y - 12 + 18<br>-2y +\u00a015 = 4y + 6<br>-6y = -9<br>y = 9/6 = 3/2",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jari-jari-lingkaran-20cm-carilah-luas-lingkaran-berjari-jari-20c-826",
+            "question": "Jari-jari lingkaran 20cm. carilah luas lingkaran berjari-jari 20cm . jwabn apa ya ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "luas :<br>3,14 x 20x20 =1256<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "L = 3,14 x 20 x 20<br>\u00a0\u00a0 = 3,14 x 400<br>\u00a0\u00a0 =1256<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-sebuah-dadu-dilempar-5-kaliberapakah-peluang-mata-dadu-yang-944",
+            "question": "Jika sebuah dadu dilempar 5 kali.Berapakah peluang mata dadu yang muncul selalu ganjil? Tolong ya di jawab dan jelaskan cara jalannya",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "sebuah dadu ada 1, 2,3,4,5,6 dilempar sebanyak 5 kai<br><br>\u00a0\u00a01 \u00a02 \u00a03\u00a0 4 \u00a05\u00a0<br>1\u00a02 \u00a03\u00a0 4 \u00a05 \u00a06<br>2 3 \u00a04 \u00a05 \u00a06 \u00a07<br>3 4\u00a0 5\u00a0 6 \u00a07 \u00a08\u00a0<br>4 5 \u00a06 \u00a07 \u00a08 \u00a09\u00a0<br>5 6 \u00a07 \u00a08 \u00a09 \u00a010<br>6 7 \u00a08 \u00a09 \u00a010 \u00a011<br><br>P (A) =\u00a0[tex] \\frac{banyaknya kejadian A}{banyaknya kejadian yang mungkin} [/tex]<br>[tex] \\frac{15}{30} [/tex] =\u00a0[tex] \\frac{1}{2} [/tex]<br><br>30 = banyaknya ruang sampel<br>15 = jumlah ganjil<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "help-kasih-caranya-juga-ya-thanks-783",
+            "question": "[HELP] kasih caranya juga ya thanks",
+            "attachments": [
+                "question-attachments/help-kasih-caranya-juga-ya-thanks-783-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "[tex]( \\sqrt[4]{2})^{6}  = (2^ \\frac{1}{4})^6 = 2^ \\frac{6}{4} = 2^ \\frac{3}{2} =  \\sqrt 2^{3}  = 2  \\sqrt{2} [/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-nilai-x-jika-2x-1-2x-2-2x-3-2x-5-999",
+            "question": "Tentukan nilai x jika (2x + 1) + (2x + 2) + (2x +3)+ ... + (2x+ 50) = 4275",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "U1=2x+1, U50=2x+50<br>S50=4275<br>S50=[tex] \\frac{1}{2} [/tex]. 50 (U1+U50)<br>4275=[tex] \\frac{1}{2} [/tex]. 50 (2x+1+2x+50)<br>4275=25(4x+51)<br>171=4x+51<br>171-51=4x<br>120=4x<br>x=30<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "roda-sepeda-motor-dengan-jari-jari-20-cm-jika-roda-itu-berputar-745",
+            "question": "roda sepeda motor dengan jari -jari 20 cm, jika roda itu berputar sebanyak 1.500 putaran,berapa panjang lintasan yang dilalui sepeda motor itu adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "k=2x3,14xr<br>k=2x3,14x20=125,6<br>125,6x1500=188400<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Keliling = 2[tex] \\pi [/tex]r\u00a0<br>K = 2 x 3,14 x 20<br>K = 125,6 cm<br><br>Panjang lintasan = K x Putaran<br>Pl = 125,6 x 1500<br>Pl = 188.400 cm<br>Pl = 1.884 m<br><br>Maaf jika ada kesalahan :)<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "hasil-dari-1223-254",
+            "question": "Hasil dari\u00a0\u221a12+2\u221a3 = ...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "hasilny\u00a04\u221a3.\u00a0\u221a12+2\u221a3=\u221a4\u00d73+2\u221a3=2\u221a3+2\u221a3=4\u221a3",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "2a-7-gt-5-merupakan-contoh-ptlsv-mengapa-981",
+            "question": "2a + 7 &gt;_ 5, merupakan contoh PTLSV mengapa",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Ada tiga alasan. Yaitu karena memiliki satu variabel. Dihubungkan dengan relasi lebih dari. Dan variabelnya berpangkat satu.<br><br>Btw, ini pelajaran kelas 7 SMP, pas banget aku juga lagi diajarin PLSV dan PTLSV sama guruku. Semoga bisa membantu ya :)<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-bangun-segitiga-berbentuk-segitiga-dengan-sisi-2xcm-2xcm-525",
+            "question": "Sebuah bangun Segitiga berbentuk segitiga dengan sisi 2xcm, 2xcm ,3xcm . Jika keliling segitiga 126 cm,tentukan panjang masing - masing sisi segitiga tersebut!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "k=s+s+s<br>126=2x+3x+2x<br>126=7x<br>x=126/7<br>x=18<br><br>disubtitusikan<br>2x= 2.18 = 36<br>3x= 3.18 = 54<br><br>jadi panjang masing\" sisi adalah 36cm,36cm dan 54cm<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "2x+2x+3x = 126<br>7x = 126<br>x = 18<br><br>jadi panjang sisi sisinya :<br>1. 2x = 2 . 18 = 36<br>2. 2x = 2. 18 = 36<br>3. 3x = 3 . 18 = 54",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jari-jari-sebuah-roda-adalah-84-cm-jika-sepeda-tersebut-menempuh-916",
+            "question": "jari jari sebuah roda adalah 84 cm. jika sepeda tersebut menempuh jarak 264 meter, maka roda sepeda harus berputar sebanyak?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "jari jari sebuah roda adalah 84 cm. jika sepeda tersebut menempuh jarak 264 meter, maka roda sepeda harus berputar sebanyak?<br>\u00a0kel = 2 x phi x r<br>\u00a0 \u00a0 \u00a0 = 2 x 22/7 x 84<br>\u00a0 \u00a0 \u00a0 = 2 x 12 x 22<br>\u00a0 \u00a0 \u00a0 = 528<br>banyak putar = 26400/528<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 50",
+                    "attachments": []
+                },
+                {
+                    "answer": "Keliling roda = 2.pi.r<br>= 2. 22/7 . 168<br>= 1056 cm<br>Jarak dalam cm = 264\u00d7100<br>= 26.400<br>Perlu berapa kali roda berputar?<br>26.400 : 1056<br>= 25 kali<br>Semoga betul dan dapat membantu ^^<br><br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

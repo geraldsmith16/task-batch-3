@@ -1,0 +1,136 @@
+{
+    "question": "Suspensi truk (sering memiliki \"pegas pembantu\"yang bekerja ketika beban truk sangat besar. pegas ayun\u00a0 dengan pegas pembantu berupa pegaskoil dipasang ditengah-tengahnya. Pegas pembantu akan bekerja ketika pegas ayun tertekan sejauh",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "sejauh pembatas yang ada pada mobil truk dan sesuai dengan kemampuan pegas ayun yang akan menekannya",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "apakah-semua-jenis-gaya-menyebabkan-pertambahan-panjang-pegas-177",
+            "question": "Apakah semua jenis gaya menyebabkan pertambahan panjang pegas ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "belum tentu, liat massa jga kk...<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "semua gaya mempengaruhi pegas<br>tetapi gaya tarik menyebabkan pertambahan panjang,sedangkan gaya dorong atau tekan menyebabkan pemendekann pada pegas :)",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "besarnya-tegangan-yang-dilakukan-pada-sebuah-batang-adalah-2x106-688",
+            "question": "Besarnya tegangan yang dilakukan pada sebuah batang adalah 2x10^6 N/m^2. jika panjang batang adalah 4 meter dan modulus young elastisitasnya 2,5x10^8 N/m^2, maka pertambahan panjang batang adalah.... A. 0,8 cm B. 1,6 cm C. 3,2 cm D. 5,0 cm E. 6,4 cm \u00a0 dengan pembahasannya \u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "modulus young = stres /strain<br>2,5 . 10 ^8 N/m^2 = 2 . 10^6 N/m^2 . strain<br>2,5 . 10^ 8 N/m^2 / 2. 10^6 N/m^2 = strain<br>1,25 . 10^2 = strain<br><br>strain = pertambhan panjang / panjang awal<br>1,25 . 10^2 = pertambahn panjang / 4<br>1,25 .10^2 / 4 = pertambahn panjang<br>125 /4 = pertambahan panjang<br>31,25 m = pertambahn panjang<br>saya dapatnya gitu &gt;_&lt;",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dua-buah-benda-muatan-besarnya-q1-dan-q2-berada-pada-jarak-r-memi-199",
+            "question": "Dua buah benda muatan besarnya Q1 dan Q2 berada pada jarak r memiliki gaya coulumb FC, berapa besar gaya coulumb jika\u00a0    a)muatan pertama diperbesar 6kali\u00a0\r\nb) jarak kedua muatan di perbesar 4 kali\u00a0\r\nc) kondisi jarak diperbesar r' = 7r\u00a0\r\n\r\npakai jalan dan penjelasannya ya ... please\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a)=6FC\u00a0 \u00a0\u00a0 karena k.q1.q2.6/r^2<br>b)=FC/16\u00a0 karena k.q1.q2/16r^2<br>c)=FC/49\u00a0 karena k.q1.q2/49r^2<br>CMIIW<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebutkan-dan-jelaskan-bagian-alat-optik-teropong-bintang-315",
+            "question": "Sebutkan dan jelaskan bagian alat optik teropong bintang!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "tripod = berfungsi untuk menegakan teropong<br>accessory tray = berfungsi untuk\u00a0penompang teropong<br>focusing knop = berfungsi sebagai tompol fokus kepada benda dilihat<br>eyepiece = mata lensa<br>diagonal mirror = kaca pendukung focussing knop<br>spotterscop = pencari gambar<br>tube = tabung<br>lensa shade = warna lensa",
+                    "attachments": []
+                },
+                {
+                    "answer": "1. lensa pembidik : berfungsi untuk membidik bayangan<br>2. lensa okuler : lensa yg di tempatkan dekat dengan mata ketika melihat teropong bintang<br>3. lensa objectif : lensa yg di ttujukan pada benda2 di luar angkasa<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-benda-yang-massanya-100-kg-digantung-pada-suatu-kawat-yang-112",
+            "question": "Sebuah benda yang massanya 100 kg digantung pada suatu kawat    yang dapat memikul beban maksimal sebesar 15000 N. jika g= 9,8 m/s^2 \r\n berapa nilai maksimum percepatan ke atas yang dapat diberikan kepada \r\n benda itu?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "sebuah benda yang massanya 100 kg digantung pada suatu kawat<br><span>yang dapat memikul beban maksimal sebesar 15000 N. jika g= 9,8 m/s^2\u00a0</span><br><span>berapa nilai maksimum percepatan ke atas yang dapat diberikan kepada\u00a0</span><br><span>benda itu?<br><br>W = m x a<br>\u00a0a = W/m<br>\u00a0 \u00a0= 15000/100<br>\u00a0 \u00a0= 150\u00a0</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "cara-mencari-dimensi-modulitas-young-258",
+            "question": "Cara mencari dimensi modulitas young?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "tegangan dibagi regangan",
+                    "attachments": []
+                },
+                {
+                    "answer": "E = tegangan / regangan =\u00a0[tex] \\frac{F . l}{A . delta l} [/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dimanakah-sebuah-benda-harus-diletakkan-didepan-cermin-cekung-yan-868",
+            "question": "dimanakah sebuah benda harus diletakkan didepan cermin cekung yang R=30cm yang diperbesar 3 kali dan nyata?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "30 X 3 = 90 benda yang akan diletakan di depan cermin adalah 90 cm<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "seorang-dengan-massa-60-kg-berada-dalam-lift-yang-sedang-bergerak-595",
+            "question": "Seorang dengan massa 60 kg berada dalam lift yang sedang bergerak ke bawah dengan percepatan 2m/s\u00b2. Jika g = 10m/s\u00b2 ,maka gesekan kaki orang pada lantai lift adalah....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kelas : X<br>Mata Pelajaran : Fisika<br>Kategori : Bab Dinamika partikel<br>Kata Kunci : Gerak pada Lift<br><br>Jawaban berupa lampiran<br><br><br><br>",
+                    "attachments": [
+                        "answer-attachments/seorang-dengan-massa-60-kg-berada-dalam-lift-yang-sedang-bergerak-595-1.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "apa-yang-dimaksud-efek-compton-831",
+            "question": "Apa yang dimaksud efek compton",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>suatu efek yang merupakan bagian interaksi sebuah penyinaran terhadap suatu materi.</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "empat-buah-pegas-masing-masing-mempunyai-konstanta-elastis-1600-n-216",
+            "question": "empat buah pegas masing masing mempunyai konstanta elastis 1600 N/m. Beban w di gantung menyebabkan pertambahan panjang 5 cm. Hitung berat beban w!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "k =1600n/m<br>delta x = 5 cm = 0.05 m<br>w? w=f=k. delta x<br>W=F=1600.0.05<br>W=80 N<br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

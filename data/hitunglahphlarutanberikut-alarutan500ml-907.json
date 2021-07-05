@@ -1,0 +1,138 @@
+{
+    "question": ".\u00a0\u00a0\u00a0Hitunglah\u00a0pH\u00a0larutan\u00a0berikut. a.\u00a0\u00a0\u00a0Larutan\u00a0500\u00a0mL\u00a0amonia\u00a00,1\u00a0M\u00a0(Kb\u00a0=\u00a0\u00a0\u00a04\u00a0\u00d7\u00a010\u20135).",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "#[OH-] = akar Kb x M = akar 4x10-5 x 10-1 =akar 4x10-6 = 2x10-3<br>#pOH = -Log[OH-]<br>= -log(2x10-3) = 3 -log 2<br>#PH = 14- pOH = 14 - 3-log 2 = 11+log 2<br>",
+            "attachments": []
+        },
+        {
+            "answer": "[OH-] = akar Kb x M = akar 4x10^-5 x 10-1 =akar 4x10^-6 = 2x10^-3<br><br>pOH = -Log[OH-]<br>= -log\u00a0(2x10-3) = 3 -log 2<br><br><span>PH = 14- pOH = 14 - 3-log 2 = 11+log 2</span>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "1-bijih-mineral-argentit-ag2s-mengandung-134-bb-massa-b-323",
+            "question": "1.\u00a0Bijih mineral argentit (Ag\u2082S) mengandung 1,34% b/b. Massa bijih yang harus diolah agar diperoleh 1 g endapan perak murni Ag adalah.. gram.    a. 74,6\r\nb. 85,7\r\nc. 107,9\r\nd. 134,0\r\ne. 171,4\r\n\r\n2.Sebanyak 2,5 gram unsur Ca direaksikan dengan 0,5 gram oksigen untuk membentuk CaO. Massa CaO yang terbentuk adalah .... gram. (Ar :Ca = 40, O = 16)\r\na. 0,5\r\nb.\u00a00,75\r\nc. 1,25\r\nd. 1,75\r\ne. 2,5",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "pertanyaan wuih keren dah :D<br>1.<br>pertama kita harus tahu rumus %massa-nya :)<br>%massa zat = (massa zat terlarut/total massa) x 100%<br>jika persen massa Ag dalam Ag2S adalah 1,34% dan massa Ag yang diinginkan (massa zat terlarut) adalah 1 gram, massa total?(tinggal masukan ke rumus saja )<br>1,34 % = (1/ massa total) x 100% (kita hilangkan % di kanan dan kiri)<br>1,34 = 1/ massa total x 100<br>1,34/100 = 1/ massa total<br>massa total = 74,62 (dalam pilihan gandanya 74,6)<br><br>2.<br>kita harus tahu perbandingan massa molekul relatif Ca dan O dalam CaO untuk mendapatkan angka perbandingan Ca dan O dalam CaO<br>Ca : O = 40 : 16 = 5 : 2<br>kemudian cari massa reaksi dengan membagi massa Ca dan O dengan angka perbandingan yang didapat tadi<br>Ca = 2,5/5 =\u00a0 0,5<br>O = 0,5/2 =\u00a0 0,25 <br>kemudian gunakan hasil bagi yang paling kecil yaitu 0,25 kemudian kita hitung massa Ca dan O yang bereaksi dengan mengalikan hasil bagi dengan angka perbandingannya :)<br>massa Ca yang bereaksi = 0,25 x 5 = 1,25 gram<br>massa O yang beraksi = 0,25 x 2 = 0,5 gram<br>massa CaO yang terbentuk = massa Ca yang bereaksi + massa O yang bereaksi = 1,25 + 0,5 = 1,75 gram<br><br>semoga bisa membantu :)<br>berikan label jawaban terbaik jika berkenan :)<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bantu-ya-ka-sebanyak-10-ml-larutan-cuka-dapur-20-ch3cooh-dalam-545",
+            "question": "Bantu ya ka    Sebanyak 10 mL larutan cuka dapur (20% CH3COOH dalam air) ditambah\r\nair sampai volumenya 1 liter. Massa jenis larutan cuka dapur 1 kg/L dan\r\nKa CH3COOH = 4 \u00d7 10\u20136. Tentukan:\r\na. derajat ionisasi CH3COOH sebelum dan sesudah diencerkan\r\nb. pH larutan CH3COOH sesudah diencerkan",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "10 mL larutan asam cuka (asam cuka 20% dalam larutan tersebut)<br>nah berarti ada 20% dari 10mL larutan tersebut adalah asam cuka murni<br>kita hitung volume asam cuka murninya :)<br>vol asam cuka = 20% x 10 mL larutan = 0,2 mL = 0,2 x 10^-3 L..... ^ dibaca pangkat :)<br>kita hitung massa larutan asam cuka<br>massa asam cuka = massa jenis x volume asam cuka <br>(ingat : massa jenis = massa/volume)<br>massa asam cuka = 1 Kg/L x 0,2 x 10^-3 L = 0,2 x 10^-3 Kg = 0,2 gram<br>Mr asam cuka (CH3COOH) = 60<br>derajat ionisasi kita sebut alpha ya :)<br><br>a. konsentrasi asam cuka<br>sebelum penambahan maka kita pakai volume larutan = 10 mL<br>M = gram/Mr x 1000/Volume (mL) = 0,2/60 x 1000/10 = 0,33333 M dibulatkan 0,3M<br>alpha = akar (Ka/Ma) = akar (4x10^-6/ 0,3) = akar(13,3 x 10^-6) = 3,65 x 10^-3<br><br>setelah penambahan maka volume larutan menjadi 1000mL (1 liter)<br>M = gram/Mr x 1000/volume(mL) = 0,2/60 x 1000/1000 = 0,003 M<br>alpha = akar (Ka/Ma) = akar (4x10^-6/ 0,003) = akar(1333,3 x 10^-6) = 36,5 x 10^-3<br><br><br>b.<br>pH larutan setelah di encerkan<br>[H+] = akar (Ka x Ma) = akar (4 x 10^-6 x 0,003) = akar(0,012 x 10^-6)<br>= 0,1 x 10^-6 = 10^-7<br><br>pH = - log [H+] = - log 10^-7 = 7<br><br>berarti larutan setelah pengenceran bisa di anggap larutan netral :)<br><br><br>semoga bisa membantu :)<br>beri label terbaik ya :)<br><br><br><br><br><br><br><br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tabung-yang-volume-nya-5liter-berisi-campuran-gas-ch4-dan-c2h2-ya-898",
+            "question": "tabung yang volume nya 5liter berisi campuran gas CH4 dan C2H2 yang dibakar sempurna menurut rreaksi: \u00a0 CH4 + O2 -&gt; CO2 +H2O \u00a0 C2H2 + O2 -&gt; CO2 + H2O \u00a0 jika volume gas CO2 yang dihasilkan pada pembakaran tersebut 8 liter, tentukan volume masing masing gas didalam campuran tersebut... minta bantuannya ya...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "setarakan reaksi.<br>CH\u2084 + 2O\u2082 -&gt; CO\u2082 + 2H\u2082O<br>1 \u00a0 \u00a0 \u00a0 \u00a02 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 1 \u00a0 \u00a0 \u00a0 \u00a0 2<br>C\u2082H\u2082 + \u2075/\u2082O\u2082 -&gt; 2CO\u2082 + H\u2082O<br>1 \u00a0 \u00a0 \u00a0 \u00a0 \u00a05/2 \u00a0 \u00a0 \u00a0 \u00a0 2 \u00a0 \u00a0 \u00a0 \u00a0 1<br><br>pada CH\u2084 tiap 1 liter gas metana tersebut bereaksi hanya menghasilkan 1 liter CO\u2082<br>pada C\u2082H\u2082 tiap 1 liter zat tersebut bereaksi menghasilkan 2 liter CO\u2082<br>bisa diasumsikan begini<br>CH\u2084 anggap x<br>C\u2082H\u2082 anggap y<br>pX + qY = 8<br>X = 1\u00a0<br>Y = 2<br>berapa nilai p dan q supaya hasilnya bisa 8? inisih asumsikan sendiri juga bisa<br>saya anggap nilai p= 2 dan q = 3<br>2(1) + 3(2) = 8 sama<br>berarti campuran gas tersebut adalah 2 liter gas CH\u2084 dan 3 liter gas C\u2082H\u2082<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apakah-larutan-elektrolit-selalu-bermuatan-netral-406",
+            "question": "Apakah larutan elektrolit selalu bermuatan netral?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Tidak karena di dalam larutan elektrolout mempunyai 3 muatan yaitu Positif, Negatif, dan Netral<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "tidak semua . karena ada 2 macan elektrolit . elektrolit lemah dan kuat<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebanyak-80ml-asam-sulfat-dapat-di-netralkan-dengan-50ml-larutan-241",
+            "question": "sebanyak 80ml asam sulfat dapat di netralkan dengan 50ml larutan kalium hidroksida 0,2M hitunglah molaritas dari larutan H2SO4",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "ini pakai <br>valensi asam sulfat = 2<br>Valensi KOH = 1<br>M1. V1. Valensi1 = M2 . V2 . Valensi2<br>M1 x 80 x 2 = 0,2 x 50 x 1<br>M1 = 160/10 = 16 M<br><br>tandai yang terbaik ya :)<br>semoga bermanfaat :)<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "massa nya ga diketahui kaka?<br><br>M = mol zat terlarut / volume larutan = m/mr / 80 + 50 = m/98 / 130<br>kaalo diketahui m nya brapa dpt hasilnya itu kaka :)<br><br>ntar kalo ada massanya send message ya ka :) kalo ga ada,maaf ya kalo salah persepsi :)",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apakah-sifat-yang-ditentukan-menggunakan-indikator-kertas-lakmus-577",
+            "question": "apakah sifat yang ditentukan menggunakan indikator kertas lakmus merupakan nilai yang akurat? jelaskan!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Tidak, karena kertas lakmus tidak menunjukkan nilai pH, melainkan hanya mengidentifikasikan apakah suatu zat bersifat asam/basa<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dik-ph-11log2-dit-h-703",
+            "question": "Dik : pH= 11+log2\r\n Dit : H+= ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "pH = 11+log2 = 11,30<br>H = -antilog pH (kalklator scientific : shift + log)<br>\u00a0 \u00a0= 2x10^11",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "gimana-yah-caranya-menghilangkan-noda-luntur-pada-baju-biruku-t-419",
+            "question": "Gimana yah caranya menghilangkan Noda luntur pada baju biru.Ku?\r\nTolong dong..",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Siapkan\n micin (MSG) dan deterjen, kemudian tuangkan deterjen dan micin tersebut\n ke dalam ember dengan takaran deterjen lebih sedikit daripada micin, \nkemudian tuangkan air panas/hangat ke dalam ember tadi yang sudah \nterdapat campuran micin dan deterjen, masukkan baju ke dalam ember \ntersebut, diamkan beberapa saat hingga air dingin kemudian cucilah, \nsetelah itu lakukan pencucian kedua dengan menggunakan deterjen saha \n(tanpa micin), karena pencucian kedua berfungsi untuk menghilangkan \nmicin yang menempel pada baju, lalu bilas hingga bersih dan jemur.Ambil\n asam cuka kemudian larutkan bersama deterjen ke dalam air, lalu rendam \npakaian yang terkena luntur selama \u00b1 30 menit, setelah itu bilas dengan \nair hingga bersih.\u00a0<span>Sista dapat memanfaatkan garam dapur secukupnya dan dengan cara yang sama pula.</span><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "dikasih pemutih baju aja biar bersih \u00a0. . kalo kagak gt kasih venish aja kalo bajunya berwarna :)",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-ph-campuran-100-ml-larutan-hcl-01-m-100-ml-larutan-na-216",
+            "question": "Tentukan ph campuran 100 ml larutan HCl 0,1 M + 100 ml larutan NaOH 0,1 M",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "7(netral) karena a.M.V=b.M.V<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "5cm3-01-m-larutan-h2so4-diencerkan-dengan-air-murni-hin-345",
+            "question": "5cm3\u00a00.1\u00a0M\u00a0larutan\u00a0H2SO4\u00a0diencerkan\u00a0dengan\u00a0air\u00a0murni\u00a0hingga\u00a0250\u00a0cm3.\u00a0Besarnya\u00a0pH\u00a0setelah\u00a0diencerkan\u00a0adalah...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "saya ubah dulu ke mL ya, cz lebih enak mL drpd cm3 (nulisnya satuan maksudnya) tp nilai tetap sama kok, OK :)<br>M1 = 0,1 M<br>V1 = 50 cm3 = 50 mL<br>V2 = 250 cm3 = 250 mL<br>Valensi Asam (Va) H2SO4 = 2<br>\u00a0<br>untuk mengetahui konsentrasi H2SO4 setelah pengenceran gunakan <br>M1 V1 = M2 V2<br>0,1 x 50 = M2 x 250<br>M2 = 0,02 M<br><br><br>cari [H+] = Ma x Va = 0,02 x 2 = 0,04 atau 4 x 10^-2<br>maka <br>pH = - log [H+] = - log 0,04 = 2 - log (kalau dihitung pakai kalkulator hasilnya 1,39 )<br><br>semoga bisa membantu :)<br>tandai sebagai yang terbaik ya :)<br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

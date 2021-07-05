@@ -1,0 +1,150 @@
+{
+    "question": "panjang diagonal sebuah persegi panjang adalah 10 cm. jika lebar persegi panjang tersebut adalah 6 cm . maka keliling persegi panjang adalah ...",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "keliling= 10x2+6x2 =32",
+            "attachments": []
+        },
+        {
+            "answer": "panjangnya 8cm<br>maka:<br>8+6+8+6=28cm<br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "3z11-28-itu-gimana-caranya-yah-506",
+            "question": "3z+11=-28 itu gimana caranya yah?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "3z+11=-28<br>3z=-28-11<br>3z=-39<br>z=-12",
+                    "attachments": []
+                },
+                {
+                    "answer": "3z +11 = -28<br>3z = -28 - 11<br>3z = -33<br>z = -11",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "gradien-garis-yang-mempunyai-persamaan-4x-3y-5-0-adalah-586",
+            "question": "Gradien garis yang mempunyai persamaan -4x + 3y -5 =0 adalah...........\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]m= \\frac{-a}{b} = \\frac{-(-4)}{3} = \\frac{4}{3} [/tex]",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span>-4x + 3y -5 =0<br>a= -4 ; b= 3<br>m=<u></u><u></u> -a<u></u><strong></strong>:b = -(-4) : 3 = 4: 3</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "ubahlah-pertidaksamaan-linear-berikut-ke-dalam-permasalahan-kehid-632",
+            "question": "Ubahlah pertidaksamaan linear berikut ke dalam permasalahan kehidupan sehari-hari.    a) x &gt; 10\r\nb) 2y \u2264 50\r\nc) 2x + 3 &gt; 4\r\nd) 5a \u2013 1 \u2265 6\r\ne) 7 &gt; 3x",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a. \u00a0agar tubuh kuat diperlukan minuman paling sedikut 10 gelas air sehari<br>b. 2y\u00a0\u2264 50 \u00a0 \u00a0harga dua buku paling mahal 50",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "cara-merasionalkan-bentuk-akar-5311-136",
+            "question": "Cara merasionalkan bentuk akar 5\u00f73\u221a11",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "5/3\u221a11x \u221a11/\u221a11 = 5<span>\u221a11/11<br><br></span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-jumlah-dua-bilangan-adalah-100-dan-selisih-nya-adalah-4-770",
+            "question": "diketahui jumlah dua bilangan adalah 100 dan selisih nya adalah 40 bagaimana nilai dua bilangan tersebut dapat dinatakan dua linear variabel.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "jawabannya:<br>a+b = 100<br>a-b \u00a0= 40<br>truss lakukan proses eliminasi....<br>2b = 60<br>b = 30<br>substitusikan ke a+b=100<br>a+ 30 = 100<br>a= 70",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "34-y-38-y-pake-cara-522",
+            "question": "- 3/4 y = -3/8\r\ny=\r\n\u00a0pake cara",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]- \\frac{3y}{4}=  -\\frac{3}{8}  \\\\  \\\\  \\frac{3y}{4}=  \\frac{3}{8}  \\\\  \\\\ 3y.8 = 4.3 \\\\  \\\\ 24y = 12 \\\\  \\\\ y= \\frac{12}{24}  \\\\  \\\\ y= \\frac{1}{2} [/tex]",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span>- 3/4 y = -3/8<br>y = -3/8 : -3/4\u00a0<br>\u00a0 \u00a0= -3/8 x -4/3<br>\u00a0 \u00a0= 12/24<br>\u00a0 \u00a0= 1/2 = 0,5</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "cari-nilai-x-144",
+            "question": "Cari nilai x..",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex] \\frac{x-5}{2} =0\n  [/tex]<br>x-5 = 0<br>x = 5<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "[tex]  \\sqrt{ 5^{x-5} } =1\n [/tex]<br>[tex] 5^{x-5} pngkt 1/2= 5^{0} [/tex]<br>(x-5)/2=0<br>x=5<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-himpunan-penyelesaian-dari-persamaan-linear-berikut-a-849",
+            "question": "Tentukan himpunan penyelesaian dari persamaan linear berikut:    \u00a0a) 24m= 12\r\nb)3z+ 11 = -28\r\nc) 25 - 4y = 6y + 15\r\nd) -4y - 15 = 1 - 8x \r\ne) 6/a + 2 = 4 \r\n\r\n\r\n\u00a0jgn lupa pake caranya\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "A.<u>24m=12<br></u> \u00a0 \u00a0 \u00a0 \u00a0m=2<br><u>b.</u>3z+ 11 = -28<u><br></u> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 3z=-28-11<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0<u>3z=39<br></u> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 z=13<br><u>c</u>.<span>25 - 4y = 6y + 15<br>\u00a0 \u00a0 4y-6y=15-25<br>\u00a0 \u00a0 \u00a0 \u00a0<u>-2y=-10</u><br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 y=5<br>.klo yang d sama e\u00a0 saya gk tau<br></span><span>maaf yahh klo salah\u00a0<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0</span>",
+                    "attachments": []
+                },
+                {
+                    "answer": "a. 24m = 12<br>\u00a0\u00a0 \u00a0 \u00a0  m = 24 : 12<br>\u00a0\u00a0 \u00a0 \u00a0 m = 2<br>HimpunanPenyelesaian = {2}<br><br>c.\u00a0 \u00a0\u00a0 25 - 4y = 6y + 15<br>\u00a0\u00a0 (=) 25 - 15 = 6y + 4y<br>\u00a0\u00a0 (=)\u00a0 \u00a0 \u00a0 \u00a0  10 = 10<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0  y\u00a0  = 10 : 10<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 y = 1<br>\u00a0HimpunanPenyelesaian = {1}<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "soal-matematika-kelas-7-smp-kurikulum-2013-halaman-367-nomor-4-se-551",
+            "question": "Soal Matematika Kelas 7 SMP Kurikulum 2013 Halaman 367 Nomor 4    Seorang Pedagang Perabot Rumah Tangga Menjual Sepasang Sofa dengan harga Rp 12.000.000,00. Dari penjualan tersebut, dia mendapatkan untung 20% dari modalnya. Dia berencana akan menggantikan sofa yang telah laku tersebut untuk dijual kembali, tetapi ternyata harga sofa tersebut sudah naik 10% dari modal sebelumnya. Berapakah sofa itu dijual agar keuntungannya sama dengan penjualan sofa yang pertama?\r\n\r\nMohon dijawab dengan caranya",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Modal awal = m <br><br>Harga jual sofa I = Untung + modal<br>12.000.000 = 20/100 m + m<br>12.000.000 = 20/100 m + 100/100 m<br>12.000.000 = 120/100 m<br>m = 12.000.000 \u00d7 100/120<br>m = 10.000.000<br><br>harga jual sofa II = (10 + 100)/100 \u00d7 10.000.000<br>= 110/100 \u00d7 10.000.000<br>= 11.000.000<br><br>Untung sofa I = 12.000.000 - 10.000.000<br>= 2.000.000<br><br>harga jual sofa II = 11.000.000 + 2.000.000<br>= 13.000.000",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "panjang-jari2-sbuah-lingkaran-adalah-28-cm-hitunglah-a-panjan-623",
+            "question": "Panjang jari2 sbuah lingkaran adalah 28 cm. Hitunglah :    a. panjang busur dihadapan sudut pusat 45 derajat\r\nb. luas juring yg sudut pusatnya 120 drajat??",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a. keliling=22/7.2.28 = 176<br>\u00a0 \u00a0busur=45/360.176= 22<br><br>b. luas = 22/7.28.28 = 2464<br>\u00a0 \u00a0juring = 120/360.2464 = 821,34",
+                    "attachments": []
+                },
+                {
+                    "answer": "a. panjang busur = phi*d*&lt;/360<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 22/7*56*45/360<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0  = 22<br>b. L juring = phi*r*r*&lt;/360<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0  = 22/7*28*28*120/360<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 821,33<br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

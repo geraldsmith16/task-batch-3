@@ -1,0 +1,142 @@
+{
+    "question": "kalo bisa dengan caranya yah. dua buah tiang berdampingan jaraknya 24 m. jika tiang a=22m dan tiang b=12m. hitunglah kawat penghubung kedua tiang tersebut.",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "^<br>^ \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0\u00a0 \u00a0 \u00a0 \u00a0 ^<br>^ \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0\u00a0 \u00a0 \u00a0 ^<br>^ \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0^<br>^ \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 ^<br>22 m \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 12 m<br>&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt; \u00a0 24 m<br><br>22 - 12 m = 10 m<br><br>terus di pitagoraskan<br><br>jarak kabel = \u221a10\u00b2+24\u00b2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0=\u00a0\u221a100 + 576<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0=\u00a0\u221a676<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 26 m",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "apa-itu-variabel-dan-apa-itu-persamaan-kuadrat-247",
+            "question": "Apa Itu Variabel ? Dan Apa Itu Persamaan Kuadrat ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span><span>Variabel\u00a0: (Lat) 1. berubah-ubah, tidak tetap;<br>\u00a02. deklarasi sesuatu yang memiliki variasi nilai <br>3. berbeda-beda dalam bahasa pemrograman disebut juga simbol yang mewakili nilai tertentu, variabel yang dikenal di sub program disebut variabel lokal. sedang yang di kenal secara umum/utuh dalam satu program disebut variabel global.<br></span><span>Variabel\u00a0: adalah objek penelitian, atau apa yang menjadi fokus di dalam suatu penelitian. Menurut F.N. Kerlinger variabel sebagai sebuah konsep. Variabel merupakan konsep yang mempunyai nilai yang bermacam-macam. Suatu konsep dapat diubah menjadi suatu variabel dengan cara memusatkan pada aspek tertentu dari variabel itu sendiri.<br><br><span>Persamaan kuadrat\u00a0adalah suatu persamaan polinomial berorde dua. Bentuk umum dari persamaan kuadrat adalah</span><br></span></span>",
+                    "attachments": []
+                },
+                {
+                    "answer": "variabel adalah lambang pengganti suatu bilangan\u00a0  yang belum diketahu nilainya dengan\u00a0 jelas. persamaan kuadrat adalah nilai peubah yang memenuhi pers kuadrat ,<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "manakah-dibawah-ini-yang-merupakan-persamaan-linear-satu-variabel-444",
+            "question": "manakah dibawah ini yang merupakan persamaan linear satu variabel ? a. 2x - 4 = 8 b. -4 + 3s = 24 c. -8 - d2 = 32 d. 5(u - 2) = u-2",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "menurut saya semuanya satu variabel. Karena\u00a0yang a) variabelnya x \u00a0b) s \u00a0c) d\u00b2 \u00a0d) u<br>semoga membantu :)",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-setigita-sama-kaki-memiliki-panjang-sisi-yang-sama-dengan-686",
+            "question": "Sebuah setigita sama kaki memiliki panjang sisi yang sama dengan 5 kali panjang sisi lainnya. Agar\u00a0keliling segitiga tersebut lebih besar dari 50 m, berapakah panjang masing-masing sisi segitiga\u00a0tersebut?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "ini yang untuk kakinya lebih panjang dari alasnya<br><br>keliling= ab + c.................... (a = b = kakiny)<br>50=2a+c<br>50=2(5c)+c.................... (a=b=5c)<br>50=10c+c<br>50=11c<br>c=4,545454...... bulatkan saja jadi 5<br><br>berarti, agar keliling tersebut lebih besar dari 50m, panjang masing2 sisi yaitu<br>a,b,c <br>= 5c, 5c,c<br>= 25, 25, 5<br><br>itu minimal, utk yg lain tinggal dikalikan saja<br>25, 25, 5<br>50, 50, 10<br>dll<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sifat-sifat-yang-berlaku-pada-bentuk-akar-460",
+            "question": "Sifat sifat yang berlaku pada bentuk akar?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>a^n x a</span><span>^n = a</span><span><span><span>^(</span>m + n) </span><br></span>a<span>^m : a</span><span>^n = a</span><span><span><span>^(</span>m \u2013 n)</span><br></span>(a<span>^m)</span><span>^n = a</span><span><span>^(m x n)</span><br></span>(a x b)<span>^m = a</span><span>^m x b</span><span>^m<br></span>(a\u00a0: b)<span>^m = a</span><span>^m : b</span><span>^m<br></span><br><span>^= pangkat</span><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Akar adalah bagian pokok di samping batang dan daun bagi tumbuhan yang tubuhnya telah merupakan kormus.<br><br>Sifat-sifat akar:<br>1. Merupakan bagian tumbuhan yang biasanya terdapat di dalam tanah, dengan arah tumbuh ke pusat bumi (geotrop) atau menuju ke air (hidrotrop), meninggalkan udara dan cahaya<br>2. Tidak berbuku-buku, jadi juga tidak beruas dan tidak mendukung daun-daun atau sisik-sisik maupun bagian-bagian lainnya<br>3. Warna tidak hijau, biasanya keputih-putihan atau kekuning-kuningan<br>4. Tumbuh terus pada ujungnya, tetapi umumnya pertumbuhannya masih kalah pesat jika dibandingkan dengan bagian permukaan tanah<br><span>5. Bentuk ujungnya seringkali meruncing, hingga lebih mudah untuk menembus tanah</span><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "rio-menabung-pada-sebuah-bank-sebesar-rp1200000-dg-bunga-6-pe-290",
+            "question": "rio menabung pada sebuah bank sebesar Rp.1.200.000 dg bunga 6% per tahun.jika tabungannya menjadi Rp.1.254.000 maka lama tabungan rio adalah??",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex] \\frac{6}{1200000} [/tex] x 100 % = 72.000<br>72.000 : 12 = 6.000<br>1.254.000 - 1.200.000 = 54.000<br>54 : 6 = 9<br>Jadi rio udah menabung di bank selama 9 bulan",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sudut-pada-jam-0830-mencari-sudut-terkecil-nya-gimana-412",
+            "question": "Sudut pada jam\u00a0 08:30 mencari sudut terkecil nya gimana?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Satu putaran penuh\u00a0pada jam itu sama dengan satu putaran penuh lingkaran yaitu 360 derajat.<br>Pada jam setiap bertambah itu besarnya 30 derajat.<br><br>Jadi, kalau pakai cara kakak untuk mencari besar sudut jam 08.30 kamu gambar dulu jenis sudut apa jam 08.30 itu kemudian kamu ukur pakai busur.<br><br>semoga bisa membantu ^_^,,,<br>maaf jika ada yang salah ^_^,,,",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "keliling-sebuah-lingkaran-adalah-30-cm-jika-ukuran-jari-jari-di-114",
+            "question": "Keliling sebuah lingkaran adalah 30 cm. Jika ukuran jari-jari di perpanjang 2 kalinya, maka keliling lingkaran sekarang adalah....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "2phiR=30<br>R=30/2phi<br><br>2R=60/2phi<br>\u00a0jadi, keliling skrng 60 CM\u00a0",
+                    "attachments": []
+                },
+                {
+                    "answer": "30 = 2. pi .r<br>15 = 3,14 .r<br>15/3,14 =r<br>4,7 =r<br>dikali 2 maka r = 9,4 cm<br>maka keliling = 2.3,14 .9,4 cm = 59,032 cm",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-kubus-abcdefgh-dengan-panjang-ab-hitunglah-a-272",
+            "question": "Diketahui kubus ABCDEFGH dengan panjang AB = (  ).    hitunglah : \r\na. panjang diagonal sisi\r\nb. luas permukaan \r\nc. panjang diagonal ruang \r\nd. volume",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a. diagonal sisi = \u221a(3\u221a5)\u00b2+(3\u221a5)\u00b2<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = \u221a45+45<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = \u221a90 = 3\u221a10<br>b.L = 6s\u00b2<br>\u00a0\u00a0 \u00a0\u00a0 = 6*(3\u221a5)\u00b2<br>\u00a0\u00a0 \u00a0\u00a0 = 270<br>c.diagonal sisi = \u221a(3\u221a5)\u00b2+(3\u221a5)\u00b2+(3\u221a5)\u00b2<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = \u221a45+45+45<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = \u221a135<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 3\u221a15<br>d.v = s\u00b3<br>\u00a0\u00a0 \u00a0  = (3\u221a5)\u00b3<br>\u00a0\u00a0 \u00a0  = 135\u221a5",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "untuk-membangun-ruang-kelas-baru-sebanyak-2-kelas-akan-selesai-da-253",
+            "question": "untuk membangun ruang kelas baru sebanyak 2 kelas akan selesai dalam waktu 50 hari jika dikerjakan oleh 15 orang tukang. setelah 20 hari bekerja bahan habis, pekerjaan terhenti 5 hari. berapa orang tukang ditambah agar ruang kelas itu tetap selesai tepat waktu?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<strong><em>Target selesai</em></strong>=50 hari<br><strong><em>Byk pekerja awal</em></strong>=15 org<br><strong><em>Libur</em></strong>=5 hr<br><strong><em>Sisa hari</em></strong>=50-(20+5)=25 hari<br><br><strong><em>Pekerja tambahan=byk pekerja awalxlibur/sisa hari</em></strong><br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0=[tex] \\frac{15.5}{25} \\\\  \\\\ 3 org [/tex]<br><br>Jadi <strong><em>tambaan pkerja 3 orang</em></strong> dan jumlah pekerja mnjadi 18 orang",
+                    "attachments": []
+                },
+                {
+                    "answer": "akan bertambah 17 tukang<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "seorang-pedagang-mainan-anak-anak-menjual-25-buah-boneka-dengan-h-528",
+            "question": "seorang pedagang mainan anak anak menjual 25 buah boneka dengan hasil penjualan Rp312.500,00.ternyata pedagang memperoleh untung Rp55.000,00.maka pembelian tiap boneka adalah...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Harga beli\u00a0<br>= 312.500 - 55.000<br>= 257.500<br><br>Harga Beli tiap\u00a0boneka<br>= 257.500 : 25<br>= 10.300",
+                    "attachments": []
+                },
+                {
+                    "answer": "[tex]u=hj-m \\\\ 55000=312500-m \\\\ 312500-m=55000 \\\\ -m=257500-312500 \\\\ m=257500 \\\\  \\\\ harga 1 buah boneka=257500/25=10300[/tex]",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

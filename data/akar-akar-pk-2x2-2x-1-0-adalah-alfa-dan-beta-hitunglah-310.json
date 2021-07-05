@@ -1,0 +1,134 @@
+{
+    "question": "Akar - akar PK 2x^2 + 2x + 1 = 0 adalah alfa dan beta.\r\nhitunglah : 1/alfa^2 + 1/beta^2",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "[tex]2x^2+2x+1=0\\\\\n\\frac{1}{ \\alpha ^2}+\\frac{1}{ \\beta ^2}=\\frac{\\beta ^2+\\alpha ^2}{ \\alpha ^2\\beta ^2}\\\\\n\\frac{1}{ \\alpha ^2}+\\frac{1}{ \\beta ^2}=\\frac{(\\alpha +\\beta )^2-2\\alpha \\beta}{ (\\alpha \\beta )^2}\\\\\n\\frac{1}{ \\alpha ^2}+\\frac{1}{ \\beta ^2}=\\frac{(-\\frac{2}{2} )^2-2(\\frac{1}{2})}{ (\\frac{1}{2})^2}\\\\\n\\frac{1}{ \\alpha ^2}+\\frac{1}{ \\beta ^2}=\\frac{1-1}{\\frac{1}{4}}\\\\\n\\frac{1}{ \\alpha ^2}+\\frac{1}{ \\beta ^2}=0[/tex]",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "hasil-dari-x2-3-x-2-575",
+            "question": "Hasil dari (x\u00b2 - (-3)) (x - 2)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "(x^2 - (-3)) (x - 2)<br>= (x^2 + 3) (x - 2)<br>= x^3 - 2x^2 + 3x - 6<br><br>Trims",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-nilai-x-yang-memenuhi-pertidaksamaan-irasional-berikut-384",
+            "question": "Tentukan nilai x yang memenuhi pertidaksamaan irasional berikut\r\n\u221ax\u00b2-x+2 per \u221ax+5 \u2265 1",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex] \\frac{ \\sqrt{ x^{2} -x+2} }{ \\sqrt{x+5} }  \\geq 1[/tex]<br><br>kalikan penyebut ke 1<br><br>[tex] \\sqrt{ x^{2}-x+2}  \\geq  \\sqrt{x+5} [/tex]<br><br>kuadratkan kedua ruas<br><br>[tex] x^{2} -x+2-(x+5)  \\geq 0[/tex]<br><br>[tex] x^{2} -2x+3 \\geq 0[/tex]<br><br>(x+1)(x-3)\u00a0[tex] \\geq 0[/tex]..........(1)<br><br>buat grafik koordinat garis x pada -1 dan 3 sehingga didapat nilai di antara -1 dan 3 misal 2 dimasukkan ke pers 1 dapet minus, padahal nilai yg diharapkan\u00a0[tex] \\geq 0[/tex] maka kedua nilai disebelah kanan dan kiri merupakan plus dg melakukan pembuktian yang sama, dapet x[tex] \\leq -1[/tex] atau x[tex] \\geq 3[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "contoh-soal-persamaan-dan-fungsi-kuadrat-585",
+            "question": "Contoh soal persamaan dan fungsi kuadrat ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]tentukan\\ akar-akar\\ dari\\ persamaan\\ kuadrat:x^2-x+1=0\\\\\\\\\ntentukan\\ titik\\ puncak\\ fungsi\\ f(x)=x^2-x+1\\\\[/tex]",
+                    "attachments": []
+                },
+                {
+                    "answer": "Selisih 2 bilangan bulat adalah 9. Jika hasil kali kedua bilangan tersebut adalah 36. Tentukan nilai dari kedua bilangan tersebut..<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "3-bilangan-membentuk-barisan-geometri-jumlah-ke-3-bilangan-terseb-126",
+            "question": "3 bilangan membentuk barisan geometri jumlah ke 3 bilangan tersebut adalah 14, dan hasil kalinya 64. Tentukan ke 3 bilangan tersebut",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Dik : <br>Barisan geometri\u00a0 U\u2081 + U\u2082 + U\u2083 = 14\u00a0 ; U\u2081 x U\u2082 x U\u2083 = 64<br>Dit : <br>U\u2081\u00a0 ;\u00a0  U\u2082\u00a0  dan U\u2083<br>Jawab : <br>U\u2081 x U\u2082 x U\u2083 = 64 ==&gt; a x ar x ar\u00b2 = 64<br>a\u00b3 x r\u00b3 = 64 .... ruas kiri dan kanan diakar pangkat 3<br>ar = 4 ..... pers(1)<br><br>U\u2081 + U\u2082 + U\u2083 = 14 \u00a0 ==&gt;\u00a0 a + ar + ar\u00b2 = 14 \u00a0 ==&gt;\u00a0 a + ar + ar.r = 14 <br>a + 4 + 4r = 14 ==&gt; 4/r + 4 + 4r - 14 = 0\u00a0 \u00a0 ==&gt;\u00a0 4/r + 4r - 10 = 0 <br>4 + 4r\u00b2 - 10r = 0 ==&gt; 4r\u00b2 - 10r + 4 = 0 ==&gt; (4r - 2)(r - 2) = 0 <br>r = 1/2 atau r = 2 <br>untuk r = 1/2 maka a = 4/0,5 = 8 <br>maka bilangan yang dimaksud adalah : 8 , 4 , 2 <br>untuk r = 2, maka a = 4/2 = 2 <br>bilangan yang dimaksud adalah : 2 . 4 , 8 <br><br><br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "U\u2081 x U\u2082 x U\u2083 = 64\u00a0<br><span>sifat barisan geometri : U\u2081 x U\u2083 = U\u2082\u00b2\u00a0</span><br>maka didapat : U\u2082\u00b3 = 64 ----&gt; U\u2082 = 4 dan U\u2081 x U\u2083 = 16 ..... pers (1)<br>U\u2081 + U\u2082 + U\u2083 = 14<br><span>U\u2081 + 4 + U\u2083 = 14 ----&gt; U\u2081 + U\u2083 = 10 ......pers (2)\u00a0</span><br><span>dari pers 1 dan pers 2 didapat bilangan yang hasil kalinya 16 dan hasil jumlahnya 10 adalah 2 dan 8\u00a0</span><br><span>jadi bilangan yang dimaksud adalah 2 , 4 dan 8\u00a0</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "gimana-nieh-sob-cara-ngerjain-tugas-ini-326",
+            "question": "Gimana nieh sob cara ngerjain tugas ini :\u00a0    \u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]  \\left[\\begin{array}{ccc}-12&amp;33\\\\16&amp;24\\end{array}\\right] [/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-barisan-5-8-11125-punya-suku-tengah-ut-maka-t-ut-310",
+            "question": "Jika barisan 5, 8, 11........125 punya suku tengah Ut maka t + Ut adalah    mnta tolong yha kl ada yg bsa bntuin\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a= 1, Un=131<br>\u00a0Ut= 1/2(a+ Un)<br>\u00a0\u00a0\u00a0 =1/2(5+131)<br>\u00a0\u00a0\u00a0 =1/2(136)<br>\u00a0\u00a0\u00a0 = 68<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "himpunan-selesaian-dari-y-x2-4x-5-350",
+            "question": "Himpunan selesaian dari y\u00a0\u2264\u00a0x\u00b2\u00a0+\u00a04x\u00a0-\u00a05",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "y \u2264 x\u00b2 + 4x - 5<br>y \u2264 (x-5) (x+1)<br>y \u2264 x-5\u00a0 //\u00a0  y \u2264 x+1<br>y-x \u2264 -5\u00a0 //\u00a0  y-x \u2264 1<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-bantuin-buat-2-soal-pertidaksamaan-irasional-sama-jawaban-227",
+            "question": "Tolong bantuin buat 2\u00a0soal pertidaksamaan irasional sama jawabannya plis",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "\u221a4x + 1\u00a0\u2264 3<br>jawab : <br>(\u00a0\u221a4x + 1 )\u00b2\u00a0\u2264 3\u00b2<br>4x + 1\u00a0\u2264 9<br>4x\u00a0\u2264 8<br>x\u00a0\u2264 2<br>syarat :<br>4x + 1\u00a0\u2265 0<br>4x\u00a0\u2265 -1<br>x\u00a0\u2265 -1/4<br><br>\u221ax\u00b2 - 4x + 4 &gt; 2<br>jawab :<br>(\u221ax\u00b2 - 4x +4)\u00a0\u00b2 &gt; 2\u00b2<br>x\u00b2 - 4x + 4 &gt; 4<br>x\u00b2 - 4x &gt; 0<br>x (x - 4) &gt; 0<br>x = 0 \u00a0 \u00a0 \u00a0x= 4<br>syarat :<br>x\u00b2 - 4x + 4\u00a0\u2265 0<br>(x\u00a0-\u00a02) (x - 2)<br>x\u00a0= 2 \u00a0 \u00a0x = 2<br><br><br>nb : untuk garis bilangan dan himpunan penyelesaian belum selesai",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "3-bil-positif-membentuk-barisan-geometri-dgn-rasio-rgt1-jika-s-285",
+            "question": "3 bil positif membentuk barisan geometri dgn rasio r&gt;1, jika suku tengah ditambah 4 maka terbentuk sebuah bil aritmatika yg jumlahnya 30. tentukan hasil kali dari ketiga bil tersebut",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a/r,a,ar \u00a0 \u00a0 \u00a0 \u00a0BG \u00a0 \u00a0 \u00a0 \u00a0 \u00a0suku tengah ditambah 4 jadi BA\u00a0<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 a+4 = (a/r+ar)/2 \u00a0 &lt;=&gt; 2a + 8 = a/r + ar\u00a0<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0dan \u00a0\u00a0a/r + a+4+ar = 30<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0berarti 2a + 8 +a+4 = 30 &lt;=&gt; 3a = 18 maka a = 6 <br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0dan r = 3( (dimasukkan per !)<br>jadi 2+6+18 = 26",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "umur-abc-235-jumlah-umur-b-dan-c-adalah-24-tahun-maka-umur-497",
+            "question": "Umur a:b:c = 2:3:5 jumlah umur b dan c adalah 24 tahun maka umur a adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "umur b ditambah c = 24<br>\u00a0pebandingan umur b ditambah c = 8<br><br>2/8 dikali 24 = 6<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Dik: a:b:c = 2:3:5<br>b+c =\u00a024<br>Dit: a?<br>Jawab:<br><br>b:c = 3:5<br>b+c = 24<br>b =\u00a0[tex] \\frac{3}{8} [/tex]\u00d724 = 9 tahun<br>c =\u00a0[tex] \\frac{5}{8} [/tex]\u00d724 = 15 tahun<br><br>a:b:c = 2:3:5 = a:9:15<br>a = 6 tahun<br><br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,134 @@
+{
+    "question": "Tentukan nilai a dan b jika\u00a0 X^4-ax^2+bx-1 habis dibagi oleh X^2-2x+1\r\n\r\nMohonnnn bantuannya!",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "[tex]x^4-ax^2+bx-1 habis\\ dibagi\\ (x-1)^2\\\\\nmaka\\ (1)^4-a(1^2)+b(1)-1=0\\\\\n1-a+b-1=0\\\\\n-a+b=0\\\\\na=b[/tex]",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "bantuin-dong-ixx-fx2x5-dan-gx2x2-6x5-tentukan-a-851",
+            "question": "Bantuin dong..    I(x)=x, f(x)=2x+5, dan g(x)=2x\u00b2-6x+5 tentukan:\r\na. Iof(x)\r\nb. foI(x)\r\nc. Iog(x)\r\nd. goI(x)\r\ntrm ksih bagi yg bs jwb :) dtunggu scpatnya",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "I o f(x)<br>I (2x + 5)<br>2x +5<br><br>f o I(x)<br>f (x)<br>2x + 5<br><br>l o g(x)<br>l (2x\u00b2 - 6x + 5)<br>2x\u00b2 - 6x + 5<br><br>g o l(x)<br>g (x)<br>2x\u00b2 - 6x + 5<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bagaimana-cara-menentukan-akar-akar-persamaan-kuadrat-baru-yang-a-112",
+            "question": "Bagaimana cara menentukan akar-akar persamaan kuadrat baru yang akar-akarnya berlawanan dan berkebalikan ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "persamaan kuadrat baru yang akar-akarnya berkebalikan<br>1.menghitung variabel baru berdasarkan rumus x1+x2=-b/a dan x1.x2=c/a<br>2.masukkan kerumus ax^2-bx+c<br>persamaan kuadrat baru yang akar-akarnya\u00a0 berlawanan<br>ubah tanda koefisien b<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "3-310-710-34-13-45-34-407",
+            "question": "3 3/10- 7/10=\r\n3/4-1/3=\r\n4/5-3/4=",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "3\u00a0 3/10 - 7/4 = 26/10 = 2\u00a0 6/10 = 2\u00a0 3/5<br>3/4 - 1/3 = 5/12<br>4/5 - 3/4 = 1/20<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sekeping-uang-logam-di-lempar-30-kali-frekuensi-muncul-gambar-9-840",
+            "question": "sekeping uang logam di lempar 30 kali. frekuensi muncul gambar 9 kali. frekuensi relatif muncul gambar.........",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "P (mcl gambar) = 9/30 = 0,3",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-bola-jatuh-dari-ketinggian-8m-dan-memantul-kembali-dengan-827",
+            "question": "sebuah bola jatuh dari ketinggian 8m dan memantul kembali dengan ketinggian 3/5 kali tinggi sebelumnya. Pemantulan ini berlangsung terus menerus hingga bola berhenti. Berapakah jarak lintasan seluruhnya?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "stidak terhingga=8 per 1-3/5<br>=8 per 2/5<br>=20m<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "n(5+3)/(5-3) = 8(8)/2 = 64/2 = 32m<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-jumlah-semua-suku-deret-geometri-tak-hingga-adalah-72-dan-ju-487",
+            "question": "Jika jumlah semua suku deret geometri tak hingga adalah 72 dan jumlah semua sukunya yang berindeks ganjil adalah 48, tentukan suku ke-3 deret tersebut !    Tolong di bantu..",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Jumlah Suku Tak hingga (S\u221e) :<br>S\u221e = a / (1 - r)\u00a0<br>72 = a / (1 - r)\u00a0<br><br>Jumlah semua suku ganjil : r&#039; = r\u00b2, Maka :\u00a0<br>Sg = a / (1 - r\u00b2)\u00a0<br>48 = a / (1 - r\u00b2)\u00a0<br><br>[tex] \\frac{72}{48} = \\frac{a/(1-r)}{a/(1-r^{2})} [/tex]<br><br>[tex] \\frac{3}{2} = \\frac{1-r ^{2}}{1-r} [/tex] \u00a0 (Jabarkan (1-r)\u00b2 menjadi (1-r)(1+r))<br><br>[tex] \\frac{3}{2} = \\frac{(1-r)(1+r)}{1-r} [/tex] \u00a0 \u00a0(Coret yg sama)<br><br>[tex] \\frac{3}{2} = 1 + r[/tex] \u00a0\u00a0(kali silang)<br><br>2 + 2r = 3\u00a0<br>2r = 1\u00a0<br>r =\u00a0[tex] \\frac{1}{2} [/tex]<br><br>Masukkan nilai r =\u00a0[tex] \\frac{1}{2} [/tex] ke :\u00a0<br>72 = a / (1 - r)\u00a0<br>72 = a / (1 -\u00a0[tex] \\frac{1}{2} [/tex])\u00a0<br>72 = a /\u00a0[tex] \\frac{1}{2} [/tex]\u00a0<br>2a = 72<br>a = 36\u00a0<br><br>Sehingga Untuk Urutan ke 3 :<br>\u21d2Un = [tex]a*r^{(n-1)} [/tex]\u00a0<br><br>\u21d2U\u2083 = 36 \u00d7\u00a0[tex](\\frac{1}{2})^{2} [/tex]\u00a0<br><br>\u21d2U\u2083\u00a0= 36\u00d7[tex] \\frac{1}{4} [/tex]\u00a0<br><br>\u21d2U\u2083\u00a0=\u00a0[tex] \\frac{36}{4} [/tex]<br><br>\u21d2U\u2083\u00a0= 9<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "nih-ada-pr-mtk-sains-gurunya-blm-nerangin-mohon-di-bantu-yok-c-359",
+            "question": "Nih ada pr mtk sains gurunya blm nerangin :( mohon di bantu yok cekidot nih soalny..    Tentukanlah himpunan penyelesaian dari persamaan trigonometri 2-2sin(2x+15\u00b0)=3 untuk 0\u00b0\u2264x\u2264360\u00b0\r\n\r\n\r\nnah tolong bantuin ngerjain soal di atas oke :) please gan sis",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span> 2-2sin(2x+15\u00b0)=3 <br><br>2sin(2x+15) = -1 <br><br></span><span>sin(2x+15) = -1/2 <br><br></span><span>sin(2x+15) = sin 210 <br><br></span>berarti himpunan penyelesaiannya = { 210 , 330 ) <br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jumlah-keliling-dua-buah-lingkaran-12-cm-jumlah-luasnya-20-cm-381",
+            "question": "Jumlah keliling dua buah lingkaran 12 cm,\u00a0 jumlah luasnya 20  cm, berapa jari-jari tiap lingkaran?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "k=2[tex] \\pi [/tex].diameter<br>12\\pi=[tex] \\pi [/tex].diameter<br>diameter= 12\u00a0<br>jari\"=12/2=6",
+                    "attachments": []
+                },
+                {
+                    "answer": "[tex]K_1+K_2=12 \\pi \\\\\n2 \\pi r_1+2 \\pi r_2=12 \\pi \\\\\nr_1+r_2=6\\\\\nr_2=6-r_1\\\\\\\\\nL_1+L_2=20 \\pi \\\\\n \\pi r^2_1+ \\pi r^2_2=20 \\pi \\\\\nr^2_1+r^2_2=20\\\\\nr^2_1+(6-r_1)^2=20\\\\\nr^2_1+36-12r_1+r^2_1=20\\\\\n2r^2_1-12r_1+16=0\\\\\nr^2_1-6r_1+8=0\\\\\n(r_1-2)(r_1-4)=0\\\\\nr_1=2\\ atau\\ r_1=4\\\\\nutk\\ r_1=2 \\rightarrow r_2=6-r_1=6-2=4\\\\\nutk\\ r_1=4 \\rightarrow r_2=6-r_1=6-4=2\\\\[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-nilaim-yang-memenuhi-a-fx-mx2-m1-x-8-b-f-910",
+            "question": "Tentukan nilai\"m\" yang memenuhi :    a. f(x) = mx2 - (m+1) x-8\r\nb. f(x) = mx2 + 12x + 9m\r\njika 1 memotong sumbu x\r\njika 1 menyinggung sumbu x\r\njika 1 tidak memotong/menyinggung sumbu x",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a. <br><span><br>b. </span><br><span><br><br>i&#039;m sorry if the fals answer..<br></span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "berapa-radian-putaran-sebuah-jarum-panjang-suatu-jam-apabila-berp-617",
+            "question": "Berapa radian putaran sebuah jarum panjang suatu jam apabila berputar selama 54 menit???",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "radian putaran sebuah jarum jam apabila berputar selama 54 menit adalah -22596",
+                    "attachments": []
+                },
+                {
+                    "answer": "radian sama kayak derajat dlm 5 mnt bukan?",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

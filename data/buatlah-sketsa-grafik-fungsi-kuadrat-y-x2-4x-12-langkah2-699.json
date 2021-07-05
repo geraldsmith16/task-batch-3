@@ -1,0 +1,133 @@
+{
+    "question": "Buatlah sketsa grafik fungsi kuadrat\u00a0    y= -x\u00b2 - 4x + 12\r\nlangkah2 langkah mencari titik potong dan titik puncak\u00a0saja..nanti saya yang mengambar..minta tolong plissss^^",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "1. nyari titik puncak, <br><span>y= -x\u00b2 - 4x + 12<br>untuk mencari titik puncak maka, y&#039;=0<br>y&#039;=</span><span> -2x - 4<br>-2x - 4=0<br>x= -2<br>(-2,16) titik puncak<br><br>2. mencari titik potong</span><br><span>y= -x\u00b2 - 4x + 12</span><br>(x + 6)(-x + 2)<br>x=-6 V x=-2<br><br>3. membuat tabel titik perpotongan<br>x -6 -5\u00a0 -4\u00a0\u00a0 -3\u00a0\u00a0\u00a0 -2\u00a0\u00a0 -1\u00a0\u00a0\u00a0 0\u00a0\u00a0 1\u00a0 2<br>y\u00a0 0\u00a0 7\u00a0 12\u00a0 15\u00a0\u00a0 16\u00a0 -15\u00a0 12\u00a0 7\u00a0 0<br><br>",
+            "attachments": []
+        },
+        {
+            "answer": "kalo titik puncak bukannya tinggal ( Xp , Yp ) = ( -b / 2a , D / -4a ) ?<br>dengan D = b kuadrat - 4ac = (-4)^2 - 4 (-1) 12 = 16+48 = 64<br>jadi puncak ( -2, 16 )<br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "akar-persamaan-x2a-1x20-adalah-a-dan-v-jika-a2v-d-156",
+            "question": "Akar persamaan\u00a0x\u00b2+(a-1)x+2=0 adalah\u00a0\u03b1 dan\u00a0\u03b2. jika\u00a0\u03b1=2\u03b2 dan a&gt;0 maka nilai a=......",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "x\u00b2+(a-1)x+2=0, <br><span><span>\u03b1=2\u03b2<br><br></span>\u03b1\u00b7\u03b2=c/a<br>2\u03b2 \u00b7 \u03b2=2<br>2\u03b2\u00b2=2<br>\u03b2= +-1<br><br>\u03b1+\u03b2= -b/a<br>2\u03b2+\u03b2= -(a-1)<br>3\u03b2= -a+1<br><br>substitusikan nilai \u03b2=1<br>3= -a+1<br>a= -4 (bukan a yg dimaksud)<br><br>\u03b2= -1<br>-3= -a+1<br>a=4 (memenuhi syarat a&gt;0)<br><br><br></span>\u00a0<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "nilai-dari-log-16-log-4-log-2-390",
+            "question": "Nilai dari log 16 - log 4 /log 2",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex] \\frac{log16-log 4}{log 2} \\\\   \\frac{log (16/4)}{log2} \\\\   \\frac{log4}{log2}  \\\\   2log2  ^{2}   \\\\ 2[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "3-bil-membentuk-barisan-aritmatika-jika-suku-ke-3-ditambah-3-dan-922",
+            "question": "3 bil membentuk barisan aritmatika jika suku ke 3 ditambah 3 dan suku ke 2 dikurangi 1, diperoleh barisan geometri, jika suku ke 3 barisan aritmatika ditambah 8 maka hasilnya menjadi 5 kali suku pertama. tentukan beda dari barisan aritmatika tersebut",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a-b,a,a+b ...... \u00a0 BA<br>a-b,a-1,a+b+3 ........ \u00a0 \u00a0BG \u00a0 \u00a0\u00a0 maka (a-1)^2= (a-b)(a+b+8) \u00a0 \u00a0persamaan 1<br>a+b+8=5(a-b)&lt;=&gt; 8= 4a - 6b &lt;=&gt; 4 = 2a - 3b...pers 2<br>pers 1 dan 2 \u00a0didapat 4a^2-43a-11=0 didapat a= - 1/4 atau a= 11<br>a= 11 maka b = 6<br>a = - 1/4 maka b = - 3/2",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-percobaan-mengundi-uang-logam-rp-10000-sebanyak-2-kali-208",
+            "question": "Tentukan Percobaan mengundi uang logam Rp. 100,00 sebanyak 2 kali",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "ruang sampel = gambar (G) dan angka (A)<br>pengundian uang logam 100 sebanyak dua kali --&gt; masing-masing sisi punya peluang 2/4 atau 1/2 <br>P(A)=2/4<br>P(G)=2/4<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "hitunglahsudut-antara-vektor-a-dan-b-berikut-ini-a-3i-2j-k-104",
+            "question": "Hitunglahsudut antara vektor A dan B berikut ini,\r\n\r\nA = 3i - 2j + k\r\nB = 4i - 3j +2k",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "A = (3,-2,1); B (4, -3, 2)<br>A.B = 12 + 6 + 2 = 20<br>|A| = akar ( 9 + 4 + 1 ) = akar (14)<br>|B| = akar (16 + 9 + 4 ) = akar (29)<br>cos = 20 / ((akar 14)* (akar 29)) = 0,9925<br>sudut =\u00a0 7 <br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pekerjaan-pak-suradi-adalah-pembuat-talang-airia-mendapat-pesana-415",
+            "question": "pekerjaan pak suradi adalah pembuat talang air.ia mendapat pesanan membuat talang air dari lembaran seng yang lebarnya 30cm dengan melipat lebarnya atas 3 bagian. bantulah pak suradi menentukan ukuran x agar volume tertampung maksimal ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "mav, soalnya ntu ada gambarnya nggak?<br>cz, x nya itu dmn?<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "himpunan-selesaian-dari-y-x2-4x-5-350",
+            "question": "Himpunan selesaian dari y\u00a0\u2264\u00a0x\u00b2\u00a0+\u00a04x\u00a0-\u00a05",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "y \u2264 x\u00b2 + 4x - 5<br>y \u2264 (x-5) (x+1)<br>y \u2264 x-5\u00a0 //\u00a0  y \u2264 x+1<br>y-x \u2264 -5\u00a0 //\u00a0  y-x \u2264 1<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "penyelesaian-34x-5lt11-444",
+            "question": "Penyelesaian 3\u2264(4x-5)&lt;11",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>3\u2264(4x-5)&lt;11=<br></span>2 \u2264x&lt;4 sorry, if the fals answer<br><br><br><br><br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "[tex]3  \\leq  4x-5&lt;11\\\\\n 3+5 \\leq 4x-5+5&lt;11+5\\\\\n8 \\leq 4x&lt;16\\\\\n\\frac{8}{4} \\leq \\frac{4x}{4}&lt;\\frac{16}{4}\\\\\n2 \\leq x&lt;4[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "gambarlah-grafik-fungsi-kuadrat-1-y-2x2-7x-2-12-2-y-640",
+            "question": "Gambarlah grafik fungsi kuadrat\r\n 1. y = 2x^2 - 7x + 2 1/2\r\n 2. y = -x^2 + 4x - 3",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "nih gambarnya, silakan dipelajari",
+                    "attachments": [
+                        "answer-attachments/gambarlah-grafik-fungsi-kuadrat-1-y-2x2-7x-2-12-2-y-640-1.png",
+                        "answer-attachments/gambarlah-grafik-fungsi-kuadrat-1-y-2x2-7x-2-12-2-y-640-2.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "jumlah-suku-4-dan-suku-ke-7-barisan-aritmatika-sama-dengan-67-sed-879",
+            "question": "Jumlah suku 4 dan suku ke 7 barisan aritmatika sama dengan 67 sedangkan suku ke 10 adalah 65 tentukan a.suku ke n    \u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 b.suku ke 20",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "U\u2084 + U\u2087 = 67 ---&gt; a + 3b + a + 6b = 67 ---&gt; 2a + 9b = 67 ......pers(1) <br>U\u2081\u2080 = 65 ----&gt; a + 9b = 65 ---&gt; 2a + 18b = 130 ........ pers (2) <br>(1) dan (2) ieliminasi <br>2a + 18b = 130<br>2a +\u00a0 9b = 67 <br>--------------------------- -<br>\u00a0 \u00a0 \u00a0 \u00a0 9b = 63 --------&gt; b = 7 , a = 2 <br>a. Un = a + (n - 1)b<br>\u00a0\u00a0  \u00a0 \u00a0\u00a0  = 2 + (n - 1)7<br>\u00a0\u00a0 \u00a0\u00a0 \u00a0 = 2 + 7n - 7 <br>\u00a0\u00a0 \u00a0\u00a0  \u00a0 = 7n - 5 <br>b. U\u2082\u2080 = 7(20) - 5 <br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 140 - 5 = 135 <br><br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

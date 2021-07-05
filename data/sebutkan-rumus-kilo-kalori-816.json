@@ -1,0 +1,158 @@
+{
+    "question": "Sebutkan rumus kilo kalori",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "1 kilo kalori = 10 pangkat 3 kalori<br><br>",
+            "attachments": []
+        },
+        {
+            "answer": "1 kilo kalori=10 pangkat\u00a0 3 kalori<br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "denibagusherman-wili-dan-andre-bermain-tarik-tambangdeni-dan-b-709",
+            "question": "deni,bagus,herman wili dan andre bermain tarik tambang.deni dan bagus berada di sebelah kiri dengan gaya masing-masing 160 N dan 300N. adapun herman ,willi,dan andre berada di sebelah kanan yng masing-masing gayanya 200N,150N,dan 50N. berapakah perpaduan gaya-gaya mereka da kemana arahnya.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "160+300=460<br>200+150+50=400<br>460-400=60 ke arahherman wili, andre\u00a0",
+                    "attachments": []
+                },
+                {
+                    "answer": "F (1) = 160 N + 300\u00a0N = 460 N<br>F (2) = 200 N + 150 N + 50 N = 400 N<br>R = 460 - 400 = 60 N ke kiri",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suatu-benda-ditmbang-dbumi-beratnya-1000n-jika-benda-tersebut-401",
+            "question": "suatu benda di'tmbang d;bumi beratnya 1000n ,jika benda tersebut dibawa ke bulan .hitunglah berapa berat benda dibulan jika gravitasi bumi =10m /s2 dan gravitasi bulan 1,6/s2",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "berat di bumi = 1000N<br>maka:<br>w = m \u00d7 g(bumi)<br>1000N = m \u00d7 10<br>m = 100 kg<br><br>berat d bulan :<br>w = m \u00d7 g(bulan)<br>w = 100 \u00d7 1,6<br>w = 160 N<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "berat:m.g<br>100. 1,6<br>160n<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-benda-yang-massanya-3kg-dijatuhkan-dari-ketinggian-10m-jika-g-712",
+            "question": "1. Benda yang massanya 3kg dijatuhkan dari ketinggian 10m. jika g=10m/s\u00b2 hitunglah    a. Energi potensia gravitasi maximal\r\nb.Energi potensial gravitasi pada ketinggian 3m dari tanah\r\nc. Energi kinetik pada ketinggian 3m dari tanah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Ep=m.g.h<br>\u00a0 \u00a0 \u00a0 3.10.10<br>\u00a0 \u00a0 \u00a0 300<br>Ep=m.g.h<br>\u00a0 \u00a0 \u00a0 3.3.10<br>\u00a0 \u00a0 \u00a0 90",
+                    "attachments": []
+                },
+                {
+                    "answer": "a. m.g.h = 3kg . 10m. 10m/s2 = 300 joule<br>b. m.g.h = 3kg . 3m . 10 m/s2 = 90 joule<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "siapa-yang-menemukan-gaya-gravitasi-114",
+            "question": "Siapa yang menemukan gaya gravitasi",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Issac Newton tahunnya ga tau<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Isaac Newton.............<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "manakah-yang-termasuk-besaran-turunan-dan-satuannya-dalam-sistem-344",
+            "question": "Manakah yang termasuk besaran turunan dan satuannya dalam sistem internasional?    1. intensitas cahaya (candela)\r\n2. kuat arus listrik (Ampere)\r\n3. luas (cm\u00b2)\r\n4. suhu (kelvin)\r\n5. tekanan (N/m\u00b2)\r\n6. panjang (m)\r\n7. masa (gram)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1,2,4<br>maaf klo slah ^.^",
+                    "attachments": []
+                },
+                {
+                    "answer": "yang termasuk besaran turunan adalah :<br>3. luas (cm^2) turunan dari panjang (m)<br>5. tekanan (N/m^2) turunan dari gaya dan panjang<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-dibantu-ya-hal-menarik-terjadi-pada-2-termometer-skala-cel-197",
+            "question": "Tolong dibantu ya    Hal menarik terjadi pada 2 termometer skala celcius dan skala fahrenheit, yakni kesamaan skala pada suhu benda tertentu. pada suhu berapakah kesamaan skala ini dapat terjadi? Buktikan perhitungannya!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Fahrenheit mempunyai suhu 32-212<br>Celcius mempunyai suhu 0-100<br>\u0394F : \u0394C = (212-32) : (100-0)<br>\u0394F : \u0394C = 180 : 100<br>(Tf - 32) : (Tc - 0) = 180 : 100<br><u></u>180/(Tf - 32) = 100/Tc, jika Tf = Tc<br>18/(Tc-32) = 10/Tc, kali silang<br>10Tc-320 = 18Tc<br>(10-18)Tc = 320<br><u></u>\u00a0 \u00a0 \u00a0  -8Tc = 320<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 Tc = -40 = Tf<br>maka, suhunya -40<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "elemen-yang-dapat-diisi-ulang-setelah-masa-pakai-disebut-237",
+            "question": "Elemen yang dapat diisi ulang setelah masa pakai disebut?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "elemen basah (akumulator)",
+                    "attachments": []
+                },
+                {
+                    "answer": "elemen yang dapat diisi ulang adalah akumulator (aki)<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apa-penyebab-terjadinya-badai-701",
+            "question": "Apa penyebab terjadinya\u00a0 badai?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "penyebab terjadinya badai adalah :<br>suhu udara - udara panas dikelilingi udara dingin, jadi badai.<br><br>kelembaban udara - jika suatu daerah lebih kering scara ekstrim dibanding daerah skitar yg lembab, bakal badai.<br><br>letak geografis - sub tropis lebih sering kena badai daripada daerh lain<br><br><span>musim - musim dingin banyak membawa angin badai<br></span><br><br>semoga bermanfaat",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span><strong><em>suhu udara - udara panas dikelilingi udara dingin, jadi badai.</em></strong><br><strong><em>kelembaban udara - jika suatu daerah lebih kering scara ekstrim dibanding daerah skitar yg lembab, bakal badai.</em></strong></span><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "menapa-kawat-lurus-yang-dialiri-arus-listrik-tidak-dapat-menjadi-707",
+            "question": "menapa kawat lurus yang dialiri arus listrik tidak dapat menjadi magnet? sedanglan jika kawat tersebut digulung menjadi kumparan dan dialiri arus listrik akan menjadi magnet?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "di karenakan jika menggulung derah yg menyebar rata dan dapat berkonduksi dengan magnet tersebut yang dialiri listrik tersebut :)",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jelaskan-mengapa-suatu-campuran-tidak-murni-dapat-di-pisahkan-den-908",
+            "question": "jelaskan mengapa suatu campuran tidak murni dapat di pisahkan dengan cara fisika, tetapi tidak dapat dipisahkan dengan cara kimia!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "karena perubahan fisikan tidak terbentuk nya zat baru, sedangkan perubahan kiama terbentuk zat baru<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Karena campuran murni tidak tercampur oleh apapun, pemisahan kimia dapat memisahkannya (dari guru kimia)<br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

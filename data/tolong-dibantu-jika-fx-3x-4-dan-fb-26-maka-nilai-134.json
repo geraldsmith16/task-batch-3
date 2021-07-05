@@ -1,0 +1,138 @@
+{
+    "question": "Tolong dibantu :) \u00a0 jika f(x) = 3x - 4 dan f(b) = 26, maka nilai b + 2 adalah.... please bantu,..\u00a0",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "f (x) = 3x-4<br>f (b) = 26<br><br>f(b) = 3.(b)-4= 26<br>\u00a0 \u00a0 \u00a0= 3b = 30<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0b = 10<br><br><br><br>b=2 = 10 =2 =12",
+            "attachments": []
+        },
+        {
+            "answer": "f(x) = 3x - 4<br><span>f(b) = 26<br><br>f(b) =&gt; 3x - 4 = 26<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 3x\u00a0 \u00a0\u00a0 = 26 + 4<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 3x\u00a0\u00a0 = 30<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 x\u00a0 \u00a0 = 30/3 <br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 x = 10<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0  b\u00a0 \u00a0  = 10<br><br></span><br><span><span>b + 2 = </span>10 + 2 = 12<br></span><br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "deret-geometri-dengan-u5-dan-u8-masing-masing-48-dan-384-tentuka-109",
+            "question": "Deret geometri dengan U5 dan U8 masing masing 48 dan 384.    Tentukan jumlah 9 suku pertama serta langkah2 nya.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]U_5=ar^4=48\\\\\nU_8=ar^7=384\\\\\\\\\nar^7=384\\\\\nar^4.r^3=384\\\\\n48r^3=384\\\\\nr^3=8\\\\\nr=2\\\\\nar^4=48\\\\\na(2^4)=48\\\\\n16a=48\\\\\na=3\\\\\\\\\nS_n=\\frac{a(r^n-1)}{r-1}\\\\\nS_9=\\frac{3(2^9-1)}{2-1}\\\\\nS_9=3(512-1)\\\\\nS_9=1533[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-jelaskan-pembuktian-dari-1-p-q-p-q-963",
+            "question": "Tolong jelaskan pembuktian dari 1.\u00a0~(p\u00a0\u2227 q)\u00a0\u2261 ~p\u00a0\u2228 ~q. 2. ~(p\u00a0\u2228 q)\u00a0\u2261 ~p\u00a0\u2227 ~q",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "pembuktiannya dengan tabel nilai kebenaran ( B &amp; S)<br><br><span>(p\u00a0\u2227 q) nilainya nanti BSSS<br></span><span>~p\u00a0\u2228 ~q nilainya nanti SBBB<br></span>makanya terbukti bahwa\u00a0ingkaran dari\u00a0(p\u00a0\u2227 q) adalah\u00a0\u00a0~p\u00a0\u2228 ~q<br><br>samahalnya dengan yang kedua",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-segitiga-pqr-dengan-pq8-qr6-pr5-tentukan-sudut-p-230",
+            "question": "Diketahui segitiga PQR, dengan PQ=8, QR=6, PR=5.    Tentukan sudut P, Q, dan R.\r\ndiketahui segitiga ABC, AB=3, BC=4, sudut B=135 derajat, panjang AC=?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "p=50,q=40,r=90<br>ac=6,5cm<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jumlah-ke-10-dari-barisan-3-5-7-9-adalah-222",
+            "question": "JUMLAH KE-10 DARI BARISAN\u00a0 : 3, 5, 7, 9 ...... ADALAH",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Sn = n/2 (2a+(n-1)b)<br>Sn\u00a0= 10/2 (2.3+(10-1)2)<br>Sn = 5 (6+18)<br>Sn = 5 . 24<br>Sn = 120",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-jika-x1-dan-x2-akar-akar-2xkuadrat-10x4-0-nilai-dari-x-912",
+            "question": "1. jika\u00a0 x1 dan x2\u00a0 akar akar 2xkuadrat-10x+4 = 0, nilai dari x1kuadrat+x2kuadrat-3x1x2=    \u00a0\u00a0 \u00a0 A. 20\r\n\u00a0\u00a0 \u00a0 B. 15\r\n\u00a0\u00a0 \u00a0 C. 10\r\n\u00a0\u00a0 \u00a0 D.\u00a0 5\r\n\u00a0\u00a0 \u00a0 E.\u00a0 1",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "2x\u00b2-10x+4 = 0<br>x1+x2= 5 dan x1.x2=2<br>x1\u00b2+x2\u00b2-3x1x2=(x1+x2)\u00b2- 2x1x1 - 3x1x2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0=(x1+x2)\u00b2-\u00a05x1x2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 25-10<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 15",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-2x-5-adalah-faktor-dari-2x3-13x2px-5-tentukan-nilai-p-d-441",
+            "question": "Jika (2x-5) adalah faktor dari 2x\u00b3-13x\u00b2+px-5 tentukan nilai p dan kemudian faktorkan",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "2x-5 = 0<br>x = 5/2<br><br>masukkan nilai X ke dalam persamaan.\u00a0 <br><br><span> 2x\u00b3-13x\u00b2+px-5<br>2(5/2)\u00b3 - 13(5/2) + p(5/2)-5 = 0<br>2 (125/8) - 65/2 + 5p/2 - 5 = 0<br>62,5 - 32,5 + 2,5P - 5 = 0<br>25 + 2,5P = 0<br>2,5P = -25<br>P = -25/2,5<br>P = -10<br><br><br>Semoga membantu.<br></span><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "[tex]f(x)=2x^3-13x^2+px-5\\\\\nkarena\\ (2x-5)\\ merupakan\\ faktor\\ dari\\ f(x), maka\\\\\nf(\\frac{5}{2})=0\\\\\n2(\\frac{5}{2})^3-13(\\frac{5}{2})^2+p(\\frac{5}{2})-5=0\\\\\n\\frac{125}{4}-\\frac{325}{4}+\\frac{5p}{2}-5=0\\\\\n\\frac{125-325+10p-20}{4}=0\\\\\n-220+10p=0\\\\\np=22\\\\\\\\\nf(x)=2x^3-13x^2+22x-5\\\\\n2x^3-13x^2+22x-5=(2x-5)(2x^2-8x+2)[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "ada-yang-ngerti-limit-trigonometri-ga-972",
+            "question": "Ada yang ngerti limit trigonometri ga???",
+            "attachments": [
+                "question-attachments/ada-yang-ngerti-limit-trigonometri-ga-972-1.docx"
+            ],
+            "answers": [
+                {
+                    "answer": "nih dek, cb dipelajari",
+                    "attachments": [
+                        "answer-attachments/ada-yang-ngerti-limit-trigonometri-ga-972-1.docx"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "3-bil-positif-membentuk-barisan-geometri-dgn-rasio-rgt1-jika-s-285",
+            "question": "3 bil positif membentuk barisan geometri dgn rasio r&gt;1, jika suku tengah ditambah 4 maka terbentuk sebuah bil aritmatika yg jumlahnya 30. tentukan hasil kali dari ketiga bil tersebut",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a/r,a,ar \u00a0 \u00a0 \u00a0 \u00a0BG \u00a0 \u00a0 \u00a0 \u00a0 \u00a0suku tengah ditambah 4 jadi BA\u00a0<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 a+4 = (a/r+ar)/2 \u00a0 &lt;=&gt; 2a + 8 = a/r + ar\u00a0<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0dan \u00a0\u00a0a/r + a+4+ar = 30<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0berarti 2a + 8 +a+4 = 30 &lt;=&gt; 3a = 18 maka a = 6 <br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0dan r = 3( (dimasukkan per !)<br>jadi 2+6+18 = 26",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-a-2-5-dan-b-2-5-nilai-dari-a2-b-771",
+            "question": "Diketahui a = 2 +\u221a5\u00a0dan b = 2 \u2013\u00a0\u221a5. \r\n\r\nNilai dari a\u00b2\u00a0\u2013 b\u00b2\u00a0= \u2026",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex] a^{2} [/tex]= (2+[tex] \\sqrt{5} [/tex] )[tex] {2} [/tex] = 4+[tex] \\sqrt{25} [/tex] = 4+5 = 9<br>[tex] b^{2} [/tex] = 4-[tex] \\sqrt{25} [/tex] = 4-5 = -1<br>Jadi, [tex] a^{2} [/tex] - [tex] b^{2} [/tex] = 9 - (-1) = 9+1 = 10<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tiga-buah-bilangan-membentuk-barisan-aritmatika-jika-jumlah-keti-567",
+            "question": "tiga buah bilangan membentuk barisan aritmatika. jika jumlah ketiga bilangan itu 30, sedangkan hasil kalinya 640, tentukan ketiga bilangan tersebut !",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "misal barisannya : (a-b) , a , dan (a+b)<br>(a-b) + a +(a+b) = 30<br>3a = 30<br>a = 10<br>Hasil kali : <br>(a-b).a.(a+b) = 640<br>(10-b).10.(10+b) = 640<br>100 - b\u00b2 = 64<br>100 - 64 - b\u00b2 = 0<br>36 - b\u00b2 =0<br>b = 6 \u2228 b =\u00a0- 6 =&gt; pilih saja b = 6<br>maka barisannya : (10-6) , 10 , (10+6)<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 4, 10, 16<br>\u00a0<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "a-b,a,a+b BA \u00a0jumlah ketiga bil = 30<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u21d4 \u00a0 \u00a0 \u00a0 3a = 30 maka a = 10<br>(a-b)a(a+b) = 640 maka \u00a010(10-b)(10+b) = 640\u21d4 100 - b\u00b2= 64 maka b = 6 <br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0atau b = -6<br>ketiga bil itu adalah 4,10,16 atau 16,10,4",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

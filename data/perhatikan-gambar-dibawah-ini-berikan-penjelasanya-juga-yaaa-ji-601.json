@@ -1,0 +1,138 @@
+{
+    "question": "Perhatikan gambar dibawah ini    Berikan penjelasanya juga yaaa..\r\n\r\nJika diketahui\u00a0\r\nI = 1,6 A\r\nI1 = 0,3 A\r\nI1 = I2 \u00a0dan\u00a0I3 =I4\r\nmaka\u00a0I4??\r\n\r\na. 0,3 A\r\nb. 0,5 A\r\nc. 1,3A\r\nd. 7A",
+    "attachments": [
+        "question-attachments/perhatikan-gambar-dibawah-ini-berikan-penjelasanya-juga-yaaa-ji-601-1.jpg"
+    ],
+    "answers": [
+        {
+            "answer": "sesuai hukum kirchof, jumlah arus yang masuk sama dengan jumlah arus yang kluar,\u00a0<br>maka : I = I1 +I2 + I3 + I4<br>karena I1=I2 , sehingga\u00a0jika I1=0,3, maka I2=0,3<br>juga I3 = I4 \u00a0 \u00a0 (substitusi semua ke pers awal)<br>I = I1 +I2 + I3 + I4<br>1,6= o,3 +0,3+ I3 + I3<br>1,6 = 0,6 +2(I3)<br>2(I3) = 1<br>I3 = 0,5<br>karena I3 = I4, maka I4 = 0,5<br>jawaban b)",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "seorang-dengan-massa-60-kg-berada-dalam-lift-yang-sedang-bergerak-595",
+            "question": "Seorang dengan massa 60 kg berada dalam lift yang sedang bergerak ke bawah dengan percepatan 2m/s\u00b2. Jika g = 10m/s\u00b2 ,maka gesekan kaki orang pada lantai lift adalah....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kelas : X<br>Mata Pelajaran : Fisika<br>Kategori : Bab Dinamika partikel<br>Kata Kunci : Gerak pada Lift<br><br>Jawaban berupa lampiran<br><br><br><br>",
+                    "attachments": [
+                        "answer-attachments/seorang-dengan-massa-60-kg-berada-dalam-lift-yang-sedang-bergerak-595-1.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "hitunglah-momen-inersia-suatu-benda-yang-berotasi-dengan-kecepata-322",
+            "question": "hitunglah momen inersia suatu benda yang berotasi dengan kecepatan sudut 10 rad/sekon dan memiliki energi kinetik 5 joule",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Dik Ek = 5 j<br>\u00a0 \u00a0 \u00a0\u00a0\u03c9 = 10 rad/s<br>Dit i ?<br>jawab.<br>rumus i = mr^2<br><br>Ek = 1/2 m (R.\u03c9)^2<br>5 \u00a0 = 1/2 m (R.10^2)<br>10 \u00a0= mr^2 . m.100\u00a0<br>mr^2 = 10 / 100 m<br>\u00a0 \u00a0 \u00a0 \u00a0 = \u00a00,1 kgm^2 /\u00a0m<br>i = 0,1 kgm<br><br>Klik bintang",
+                    "attachments": []
+                },
+                {
+                    "answer": "Rumus momen inersia (I) adalah\u00a0<br>bila percepatan sudut \u00a010 rad / s =\u00a0\u03b1<br>Energi kinetik = 5 Joule = F<br>[tex]I = mr^2[/tex]\u00a0<br><br>Pertama cari dulu persamaan 1\u00a0<br>[tex]F = m a_{tan} [/tex]<br>\u00a0--&gt;\u00a0Hubungan antara gaya (F), massa (m), dan percepatan tangensial (a tan) partikel\u00a0<br><br>Partikel berotasi sehingga partikel mempunyai percepatan sudut.<br>\u00a0<br>Hubungan antara percepatan tangensial dengan percepatan sudut dinyatakan melalui persamaan :<br>[tex] a_{tan}=r \\alpha  [/tex] Persamaan 2\u00a0<br><br>Subtitusikan atau gantikan percepatan tangensial (a tan) pada persamaan 1\u00a0 dengan percepatan tangensial (a tan) pada persamaan 2.<br><br>[tex]F = \\frac{1}{2}m r \\alpha[/tex]<br>[tex]\\gamma . r = \\frac{1}{2}m r \\alpha[/tex]]<br>[tex]5 = \\frac{1}{2}m . r^2 . 10[/tex]<br>[tex]mr^2 = 1 / 10 = 0.1 [/tex]<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "berapa-kalor-yg-di-butuhkan-es-bersuhu-2c-dengan-massa-4-kg-ag-909",
+            "question": "Berapa kalor yg di butuhkan es bersuhu -2\u00b0c dengan massa 4 kg agar mencapai suhu 5\u00b0c, jika dik.    L es=336.000 J/kg\r\nc es=500 J/kg\u00b0c\r\nc air=4200 J/kg\u00b0c",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "m.c.\u0394t=4\u00d72\u00d7500= 4000j<br>m.L=4\u00d7336000=1344000j<br>m.c.\u0394t=4\u00d75\u00d74200=84000j<br><br>kalor yg dibutuhkan=1432000j=1432kj",
+                    "attachments": []
+                },
+                {
+                    "answer": "Q es 1 = m.Ces.\u0394t<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 4 . 500 .(0- -2)<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0= 400 j<br>Q lebur 2\u00a0= m.L<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 4 . 336.000<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = \u00a01.344.000 j<br>Q cair 3\u00a0= m.Cair.\u0394t<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = \u00a04 . 4200 . (5-0)<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 84.000 j<br>kalor total Q = Q1+Q2+Q3<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 400 + 1.344.000 + 84.000<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 1.428.400 J<br>tolong klik bintang",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "mengapa-gear-sepeda-berbeda-dengan-gear-sepeda-motor-lalu-kenap-474",
+            "question": "mengapa gear sepeda berbeda dengan gear sepeda motor? lalu, kenapa sepeda tidak meniru gear sepeda motor?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Karena gear sepedah di kayuh secara manual oleh manusia yang tenaganya terbatas..<br>sedangkan gear motor tdk dikayuh melainkan dengan mesin..<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bagaimana-bentuk-permukaan-zat-cairsudut-kontak-untuk-air-alko-174",
+            "question": "bagaimana bentuk permukaan zat cair(sudut kontak) untuk air, alkohol dan raksa di dalam pipa kapiler ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "sudut kontak air dengan pipa kapiler adalah 0 derajat &lt; 0 &lt; 90 derajat<br>sudut kontak air raksa dengan pipa kapiler adalah 90 derajat &lt; 0 &lt; 180 derajat",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "seorang-siswa-memiliki-massa-60-kg-jika-percepatan-gravitasi-bum-135",
+            "question": "seorang siswa memiliki massa 60 kg, jika percepatan gravitasi bumi 10 m/s\u00b2, dan percepatan bulan 5,6 m/s\u00b2. htung berat siswa tsb di bumi dan di bulan? jelaskan dengan diket, tanya, dan jawab. trim's",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "diket:<br>m = 60 Kg<br>g bumi = 10 m/s\u00b2<br>g bulan= 5,6 m/s\u00b2<br><br>tanya :<br>W\u00a0bumi ...?<br>W bulan...?<br><br>jawab :<br>\u00a0W\u00a0bumi = m . g bumi<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 60 Kg . 10 m/s\u00b2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 600 kg.m/s\u00b2 atau 600 Newton<br><br>W\u00a0bulan = m. g bulan<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 60 kg. 5,6 m/s\u00b2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 336,0 kg.m/s\u00b2 atau 336 Newton",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pemanas-air-dengan-spesifikasi-200-watt-digunakan-untuk-memanaska-817",
+            "question": "Pemanas air dengan spesifikasi 200 watt digunakan untuk memanaskan air bersuhu 30 C sebanyak 0,5 kg. kalor jenis air 4200 J//kg C. Berapa lama waktu yang diperlukan hingga air mencapai suhu 10 C?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Q= M.C.\u0394t<br>m.c<u></u>/ Q=\u00a0\u0394t<br>0.5x4200/20 =105 menit",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-pada-magnet-bentuk-keping-lingkaran-bagaimana-letak-kutubnya-189",
+            "question": "Jika pada magnet bentuk keping lingkaran bagaimana letak kutubnya? \u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Sama saja. Kan bentuknya lingkaran, berarti lingkaran itu dibagi dua sisi. Menjadi dua bangun setengah lingkaran. Yang atasnya kutub utara dan yang bawahnya kutub selatan. Okay ? @Liwed",
+                    "attachments": []
+                },
+                {
+                    "answer": "setau aku g beda dah.. sma aj..?",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bola-05-kg-dijatuhkan-diatas-pegas-dari-ketinggian-2-m-ketika-t-576",
+            "question": "bola 0,5 kg dijatuhkan diatas pegas dari ketinggian 2 m. ketika tertimpa bola, pegas tersebut mampat sejauh 20cm. tentukan konstanta pegas tsb.. (g=10m/s^2)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "mgh=1/2 k \u0394x\u00b2<br>k=\u00a0[tex] \\frac{2mgh}{\u0394x\u00b2} [/tex]<br>tinggal masukin angkanya ntr dapet k=500 N/m.<br>jangan lupa 20 cm nya rubah dulu ke m",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apa-betul-jawaban-saya-tlng-di-cmnt-seorang-pelari-menempuh-2-412",
+            "question": "APA\u00a0BETUL JAWABAN SAYA? TLNG DI CMNT !    seorang\r\n pelari menempuh 2 km dalam 5 menit dan kemudian membutuhkan 10 menit untuk\r\n berjalan kembali ketitik awal. a) berapakah kecepatan rata-rata untuk 5 menit\r\n pertama? (b) berapakah kecepatan rata-rata selama waktu yang dipakai berjalan?\r\n (c) berapakah kecepatan rata-rata untuk total perjalanan? (d) berapakah\r\n kelajuan rata-rata untuk total perjalanan?\r\n\r\n JAWABAN\r\n\r\n\r\na)\u00a0dikt :s\r\n = 2 km ~\u00a02000 m,\u00a0t = 5 menit ~\u00a0300 second\r\n\r\n v = s/t = 2000/300 = 6,66 m/s\r\nb)\u00a0dikt :s\r\n = 2 km ~\u00a02000 m,\u00a0t = 10 menit ~ 600 second\r\n\r\n v = s/t = 2000/600 = 3,33 m/s\r\n\u00a0 \u00a0 P1 + P2 =\u00a06,66 + 3,33 = 9,99 m/s\r\n\r\n\r\nc)\r\nd)\u00a0dikt :s\r\n = 2 km ~ 2000 x 2 = 4000 m,\u00a0t = 5 + 10 = 15 menit ~\u00a0900 second\r\n\r\n\r\n\u00a0 \u00a0 v = s/t = 4000/900 = 4,44",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "semuanya betul semua<br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

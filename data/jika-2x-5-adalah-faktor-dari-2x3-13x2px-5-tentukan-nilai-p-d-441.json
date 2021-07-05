@@ -1,0 +1,142 @@
+{
+    "question": "Jika (2x-5) adalah faktor dari 2x\u00b3-13x\u00b2+px-5 tentukan nilai p dan kemudian faktorkan",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "2x-5 = 0<br>x = 5/2<br><br>masukkan nilai X ke dalam persamaan.\u00a0 <br><br><span> 2x\u00b3-13x\u00b2+px-5<br>2(5/2)\u00b3 - 13(5/2) + p(5/2)-5 = 0<br>2 (125/8) - 65/2 + 5p/2 - 5 = 0<br>62,5 - 32,5 + 2,5P - 5 = 0<br>25 + 2,5P = 0<br>2,5P = -25<br>P = -25/2,5<br>P = -10<br><br><br>Semoga membantu.<br></span><br>",
+            "attachments": []
+        },
+        {
+            "answer": "[tex]f(x)=2x^3-13x^2+px-5\\\\\nkarena\\ (2x-5)\\ merupakan\\ faktor\\ dari\\ f(x), maka\\\\\nf(\\frac{5}{2})=0\\\\\n2(\\frac{5}{2})^3-13(\\frac{5}{2})^2+p(\\frac{5}{2})-5=0\\\\\n\\frac{125}{4}-\\frac{325}{4}+\\frac{5p}{2}-5=0\\\\\n\\frac{125-325+10p-20}{4}=0\\\\\n-220+10p=0\\\\\np=22\\\\\\\\\nf(x)=2x^3-13x^2+22x-5\\\\\n2x^3-13x^2+22x-5=(2x-5)(2x^2-8x+2)[/tex]",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "tentukan-bilangan-enam-angka-n-yang-memenuhi-i-n-adalah-bilanga-617",
+            "question": "Tentukan bilangan enam angka n yang memenuhi (i) n adalah bilangan kuadrat sempurna, (ii) bilangan dibentuk dengan tiga angka terakhir n lebih satu dari tiga angka pertama n. (Sebagai ilustrasi n terlihat seperti 123124 tetapi itu bukan bilangan kuadrat)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span><span>Gini,,,<br><br>Misalkan tiga angka pertama n adalah a, maka n = 1000a + a + 1 = m^<br>m^ \u2212 1 = 1001a = 7 \u22c5 11 \u22c5 13 \u22c5 a<br>100000 \u2264 m^ \u2264 999999<br>316 &lt; m &lt; 1000<br>(m + 1) (m \u2212 1) = 7 \u22c5 11 \u22c5 13 \u22c5 a<br><br>\u2022 Jika m + 1 = 143b dan m \u2212 1 = 7c dengan bc = a<br>Karena 317 &lt; m + 1 &lt; 1001 maka 2 &lt; b &lt; 7.<br>Karena m \u2212 1 = 7c maka m \u2212 1 \u2261 0 (mod 7) ----&gt; m \u2261 1 (mod 7)<br>m + 1 \u2261 2 (mod 7) ----&gt; 143b \u2261 2 (mod 7)<br>143b = 7 \u22c5 20b + 3b<br>3b \u2261 2 (mod 7)<br>Karena 2 &lt; b &lt; 7 maka nilai b yang memenuhi hanya b = 3<br>Jika b = 3 maka m = 143 \u22c5 3 \u2212 1 = 428 ----&gt; 428 \u2212 1 = 7c ----&gt; c = 61<br>a = bc = 183 ----&gt; n = 183184 = 428^<br><br>\u2022 Jika m \u2212 1 = 143b dan m + 1 = 7c dengan bc = a<br>Karena 315 &lt; m \u2212 1 &lt; 999 maka 2 &lt; b &lt; 7.<br>Karena m + 1 = 7c maka m + 1 \u2261 0 (mod 7) ----&gt; m \u2261 \u22121 (mod 7)<br>m \u2212 1 \u2261 \u22122 (mod 7) ----&gt; 143b \u2261 \u22122 (mod 7)<br>143b = 7 \u22c5 20b + 3b<br>3b \u2261 \u22122 (mod 7) ----&gt; 3b \u2261 5 (mod 7)<br>Karena 2 &lt; b &lt; 7 maka nilai b yang memenuhi hanya b = 4<br>Jika b = 4 maka m = 143 \u22c5 4 + 1 = 573",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "buatlah-sketsa-grafik-fungsi-kuadrat-y-x2-4x-12-langkah2-699",
+            "question": "Buatlah sketsa grafik fungsi kuadrat\u00a0    y= -x\u00b2 - 4x + 12\r\nlangkah2 langkah mencari titik potong dan titik puncak\u00a0saja..nanti saya yang mengambar..minta tolong plissss^^",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1. nyari titik puncak, <br><span>y= -x\u00b2 - 4x + 12<br>untuk mencari titik puncak maka, y&#039;=0<br>y&#039;=</span><span> -2x - 4<br>-2x - 4=0<br>x= -2<br>(-2,16) titik puncak<br><br>2. mencari titik potong</span><br><span>y= -x\u00b2 - 4x + 12</span><br>(x + 6)(-x + 2)<br>x=-6 V x=-2<br><br>3. membuat tabel titik perpotongan<br>x -6 -5\u00a0 -4\u00a0\u00a0 -3\u00a0\u00a0\u00a0 -2\u00a0\u00a0 -1\u00a0\u00a0\u00a0 0\u00a0\u00a0 1\u00a0 2<br>y\u00a0 0\u00a0 7\u00a0 12\u00a0 15\u00a0\u00a0 16\u00a0 -15\u00a0 12\u00a0 7\u00a0 0<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "kalo titik puncak bukannya tinggal ( Xp , Yp ) = ( -b / 2a , D / -4a ) ?<br>dengan D = b kuadrat - 4ac = (-4)^2 - 4 (-1) 12 = 16+48 = 64<br>jadi puncak ( -2, 16 )<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-jika-x1-dan-x2-akar-akar-2xkuadrat-10x4-0-nilai-dari-x-912",
+            "question": "1. jika\u00a0 x1 dan x2\u00a0 akar akar 2xkuadrat-10x+4 = 0, nilai dari x1kuadrat+x2kuadrat-3x1x2=    \u00a0\u00a0 \u00a0 A. 20\r\n\u00a0\u00a0 \u00a0 B. 15\r\n\u00a0\u00a0 \u00a0 C. 10\r\n\u00a0\u00a0 \u00a0 D.\u00a0 5\r\n\u00a0\u00a0 \u00a0 E.\u00a0 1",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "2x\u00b2-10x+4 = 0<br>x1+x2= 5 dan x1.x2=2<br>x1\u00b2+x2\u00b2-3x1x2=(x1+x2)\u00b2- 2x1x1 - 3x1x2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0=(x1+x2)\u00b2-\u00a05x1x2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 25-10<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 15",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suatu-kotak-berisi-5-kelereng-merah-dan-3-kelereng-putihdua-kele-757",
+            "question": "suatu kotak berisi 5 kelereng merah dan 3 kelereng putih.dua kelereng di ambil satu persatu tanpa pengembalian kelereng pertama kedalam kotak.peluang terambilnya kelereng pertama\u00a0dan kedua berwarna merah adalah?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "klu ndasalh 1/4<br><br>maaf klau slahhhh<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "5\u00d73= 15<br>15:5 = 3<br>5= ADALAH kelereng pertama berwarna merah<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-f-r-r-dengan-fx-invers-fungsi-fx-adalah-163",
+            "question": "diketahui f : R\u00a0\u21d2 R dengan f(x) =\u00a0 invers fungsi f(x) adalah  =",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]f(x)=\\frac{x+1}{2x-4}\\\\ (2x-4)(f(x))=x+1\\\\ 2xf(x)-4f(x)=x+1\\\\ 2xf(x)-x=4f(x)+1\\\\ x(2f(x)-1)=4f(x)+1\\\\ x=\\frac{4f(x)+1}{2f(x)-1}\\\\ nyatakan\\ sebagai\\ f^{-1}(x)\\\\ f^{-1}(x)=\\frac{4x+1}{2x-1};syarat:x \\neq \\frac{1}{2}[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bagaimana-cara-membuat-komik-matematika-dan-berikan-contohnya-t-473",
+            "question": "bagaimana cara membuat\u00a0 komik matematika dan berikan contohnya tentang :pernyataan,kalimat terbuka???",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "iya itu merupakan kalimat terbuka <br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "contoh kalimat terbuka dalam matematika<br>4 + 5 = 9<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-nilai-kebenaran-implikasi-berikut-ajika-x4-maka-x2-328",
+            "question": "Tentukan nilai kebenaran implikasi berikut !    a.Jika x=4 maka x\u00b2=16\r\nb.Jika 0\u00a0\u2264 x\u00a0\u2264 2 maka x\u00b2\u00a0-\u00a0x\u00a0-\u00a06\u00a0\u2264 10 dengan x\u00a0\u2208 {Bil.Bulat}\r\nc.Jika x\u00b2 = 9 maka x\u00a0\u2265 3",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a. benar<br>b. benar<br>c. salah, karena nilai x di bolehkan lebih dari 3<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "x-a-nilai-dari-x2-455",
+            "question": "\u00a0 \u00a0 \u00a0 \u00a0x \u00a0 \u00a0\u00a0 \u00a0\u00a0 = a, nilai dari \u00a0\u00a0 \u00a0\u00a0 \u00a0 \u00a0 x\u00b2 \u00a0 \u00a0\u00a0 \u00a0\u00a0\u00a0 \u00a0= ...    \u00a0\u00a0x\u00b2+3x+1 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0x\u00b2\u00b7\u00b2+3x\u00b2+1",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "coba substitusikan x dengan ax\u00b2+3ax+a<br><br>semoga ketemu<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-13-11-9-un-1800-tentukan-banyak-suku-dere-197",
+            "question": "Jika : 13 + 11 + 9 +...... + Un = -1800\r\ntentukan banyak suku deret tersebut ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "cari dlu rumus suku ke-n atau Un<br>Un = (a +(n-1)b) = 13 +(n-1)-2 = 15 - 2n<br>kemudian masukkan rumus jumlah sukuk ke- n atau Sn<br>Sn= n/2(a + Un)<br>-1800=n/2(13 + 15 - 2n)<br>-1800=(28n - 2n^2)/2<br>-3600 = 28n - 2n^2 \u00a0 \u00a0 \u00a0 (pindahkan semua yang di ruas kanan ke ruas kiri)<br>2n^2 - 28n -3600 = 0 \u00a0 \u00a0 (bagi 2 kedua ruas)<br>n^2 - 14n -1800 = 0 \u00a0 \u00a0 \u00a0 \u00a0 (faktorkan)<br>(n-50)(n+36) = 0<br>n = 50 atau -36<br><br>jawabannya n adalah 50, karena harus bernilai positif, atau syarat di atas adalah n= bil . asli<br>(coba saja bayangkan apakah ada suku ke -36??) yang ada adalah suku ke 50,\u00a0<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jawablah-pertanyaan-berikut-ini-dengan-benar-5-tentukan-negasi-d-339",
+            "question": "Jawablah Pertanyaan berikut ini dengan benar    5. Tentukan negasi dari disjungsi- disjungsi berikut.\r\na. Susi Wanita yang cantik atau baik hati.\r\nb. 5 bialngan prima atau habis dibagi 2.\r\nc. 2x + 1 = 5 atau 3 bilangan ganjil.\r\nJawabannya:\r\n\r\ntolong Jawablah secepat mungkin karena ini penting",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a. baik hati<br>b. 2<br>c. 2x + 1 = 5<br>\u00a0\u00a0  2x = 5-1<br>\u00a0\u00a0 2x = 4<br>\u00a0\u00a0 x\u00a0\u00a0\u00a0 = 2<br><br>Itu jawabannya. Balas \"terimakasih\" ya ! :)<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "a. susi wanita yang tidak cantik dan tidak baik hati<br>b. 5 bukan bilangan prima dan tidak habis dibagi 2<br>c. 2x + 1 \u2260 5 dan 3 bukan bilangan ganjil<br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

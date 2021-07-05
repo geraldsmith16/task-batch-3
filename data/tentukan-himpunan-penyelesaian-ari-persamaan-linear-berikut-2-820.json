@@ -1,0 +1,150 @@
+{
+    "question": "Tentukan himpunan penyelesaian ari persamaan linear berikut:\u00a0\r\n2\u00a0+\u00a0x/4\u00a0= 5\r\n\u00a0 \u00a0/= per",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "2+x/4 = 5<br>x/4= 5-2<br>x/4 = 3<br>x = 12<br>begitu jawabannya",
+            "attachments": []
+        },
+        {
+            "answer": "2\u00a0+<u></u>\u00a0x/4\u00a0=\u00a05<br>2\u00a0.\u00a04\u00a0:\u00a0x\u00a0=\u00a05<br>8\u00a0:\u00a0x\u00a0=\u00a05<br>x\u00a0=\u00a05\u00a0-\u00a08<br>x\u00a0=\u00a0-3<br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "suatu-pekerjaan-dapat-diselesaikan-oleh-28-orang-dalam-waktu-9-ha-149",
+            "question": "Suatu pekerjaan dapat diselesaikan oleh 28 orang dalam waktu 9 hari. Setelah dikerjakan selama 2 hari pekerjaan terhenti selama 3 hari agar pekerjaan selesai tepat waktu, maka diperlukan pekerja tambahan sebanyak ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "21 orang pekerja tambahannya",
+                    "attachments": []
+                },
+                {
+                    "answer": "<u>28 x 3\u00a0</u>\u00a0 \u00a0\u00a0= 84/4 \u00a0 \u00a0= 21 orang.<br>9\u00a0-\u00a02\u00a0-\u00a03<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tiga-tahun-yg-lalu-jumlah-umur-budi-dan-anton-adalah-12-tahun-ji-391",
+            "question": "Tiga tahun yg lalu jumlah umur budi dan anton adalah 12 tahun. jika umur budi sekarang 12 tahun maka berapa umur anton sekarang?    yg tau tlng bantu yah kalau blh dngn caranya!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "12 + n = 18<br>\u00a0 \u00a0 \u00a0 \u00a0n = 18 - 12<br>\u00a0 \u00a0 \u00a0 \u00a0n = 6<br>jadi umur anto sekarang adalah 6 tahun<br>6 diperoleh dari 3 tahun umur anto dan 3 tahun umur budi",
+                    "attachments": []
+                },
+                {
+                    "answer": "(budi - 3)\u00a0 + (Anton - 3) =12<br>(12 - 3) + (Anton - 3) = 12<br>9 + Anton - 3 = 12<br>Anton = 12 - 9 +3<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 6<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-jari-jari-yang-mempunyai-luas-a-11304cm-b385-cm-se-331",
+            "question": "Tentukan jari-jari yang mempunyai luas\u00a0\r\na. 113,04cm\r\nb.38,5 cm\r\n\r\nsecepatnya tri makasih :)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]luas= \\pi r^2\\\\\\\\\nr= \\sqrt{ \\frac{luas}{ \\pi } } \\\\\\\\\\\\\na.\\\\r= \\sqrt{ \\frac{113,04}{ 3,14 } }\\\\\nr= \\sqrt{36}\\\\\nr=6\\\\\\\\\\\\\nb.\\\\\nr= \\sqrt{ \\frac{38,5}{ \\frac{22}{7} } } \\\\\nr= \\sqrt{12,25}\\\\\nr=3,5 [/tex]",
+                    "attachments": []
+                },
+                {
+                    "answer": "rumus luas lingkaran\u00a0[tex] \\pi [/tex] x r x r\u00a0<br>Pi: 22/7 / 3,14<br><br>a.\u00a0113,04:3,14=36 akar pangkat 36= 6cm\u00a0<br>b. 38,5x7= 269.5 : 22= 12.25 akar pangkat 12.25=3.5cm\u00a0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "alas-sebuah-limas-berbentuk-belah-ketupat-dengan-keliling-60-cm-d-163",
+            "question": "alas sebuah limas berbentuk belah ketupat dengan keliling 60 cm dan panjang salah satu diagonalnya adalah 18 cm serta tinggi limas 12 cm .maka volume limas tersebut adalah ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "V limas =\u00a0[tex] \\frac{1}{3} [/tex].Luas Alat.Tinggi<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0[tex] \\frac{1}{3} [/tex].198.12<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0792 cm3<br>L\u00a0alas=\u00a0[tex] \\frac{1}{2}\u00a0[/tex].d1.d2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0[tex] \\frac{1}{2}\u00a0[/tex].18.22<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0198",
+                    "attachments": []
+                },
+                {
+                    "answer": "panjang diagonal 1 = 18<br>panjang diagonal 2 = 24 (triple phytagoras)<br>v = 1/3*luas alas*t<br>\u00a0 = 1/3*(1/2*18*24)*12<br>\u00a0 = 1/3*216*12<br>\u00a0 = 864<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "perbandingan-2-x-senilai-dengan-y-27-dan-yx-16-tentukan-548",
+            "question": "Perbandingan 2 :\u00a0x senilai dengan y :27 dan y/x = 1/6. tentukan nilai x dan y!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "2\u00a0:\u00a0x=\u00a0y\u00a0:\u00a027 berarti xy = 54 \u00a0 ......1<br>y/x = 1/6 berarti x \u00a0= 6y.....2\u00a0<br>nilai di substitusikan pada pers 1 didxapat 6y\u00b2= 54&lt;=&gt; y= 3 maka x = 18<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 y = -3 maka x = -18",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span>2\u00a0:\u00a0x=\u00a0y\u00a0:\u00a027 berarti xy = 54 \u00a0 ......1<br>y/x = 1/6 berarti x \u00a0= 6y.....2\u00a0<br>nilai di substitusikan pada pers 1 didxapat 6y\u00b2= 54&lt;=&gt; y= 3 maka x = 18<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 y = -3 maka x = -18</span><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apa-pengertian-dari-bangun-datar-jajar-genjang-594",
+            "question": "Apa pengertian dari bangun datar jajar\u00a0genjang\u00a0?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "jajar genjang adalah\u00a0<span>angun datar\u00a0</span>dua dimensi<span>\u00a0yang dibentuk oleh dua pasang\u00a0</span>rusuk<span>\u00a0yang masing-masing sama panjang dan\u00a0</span>sejajar<span>\u00a0dengan pasangannya, dan memiliki dua pasang\u00a0</span>sudut<span>\u00a0bukan\u00a0</span>siku-siku<span>\u00a0yang masing-masing sama besar dengan sudut di hadapannya.</span>",
+                    "attachments": []
+                },
+                {
+                    "answer": "bangun datar jajar genjang adalah bangun datar yang luas bidangnya di dapat dengan mengalikan alas dan tinggi bangun tersebut",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "carilah-faktor-dari-x-pangkat-6-14x-pangkat-4-49x-pangkat-2-478",
+            "question": "Carilah faktor dari x pangkat 6 - 14x pangkat 4 + 49x pangkat 2 - 36\r\nTolong bantuin ya...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex](x-3)(x+3(x-2)(x+2)(x-1)(x+1)[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "help-berapakah-x-280",
+            "question": "[HELP]\u00a0 berapakah x?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "2^{x-5} = 4^{x+3}<br>2^{x-5} = 2^{2(x+3)}<br>x-5 = 2(x+3)<br>x-5 = 2x+6<br>x-2x = 6+5<br>-x = 11<br>x = -11",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "himpunan-penyelesaian-dari-2-3-x-5-2-7-x-3-931",
+            "question": "Himpunan penyelesaian dari 2\u00a0(\u00a03\u00a0x\u00a0+\u00a05\u00a0) - 2 (\u00a07 x - 3 ) = x + 7",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "= 6x + 10 - 14x + 6 = x + 7<br>= -8x + 16 \u00a0= x + 7<br>= -8x - x \u00a0= 7 - 16<br>= -9x = -9<br>= x = 1",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "ubahlah-pertidaksamaan-linear-berikut-kedalam-permasalahan-sehari-703",
+            "question": "Ubahlah pertidaksamaan linear berikut kedalam permasalahan sehari-hari!\r\n2+3&gt;4",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span> 2 kali umur chiko ditambah 3\u00a0 adalah lebih dari 4 tahun<br></span><br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

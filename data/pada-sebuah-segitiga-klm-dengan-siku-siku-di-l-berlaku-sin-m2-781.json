@@ -1,0 +1,130 @@
+{
+    "question": "pada sebuah segitiga KLM, dengan siku-siku di L, berlaku sin M=2/3 dan panjang sisi KL=\u221a10 cm, tentukanlah panjang sisi segitiga yang lain.",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "KL=LM=\u221a10<br>KM=akar dari <span>\u221a10 x </span><span>\u221a10</span>= akar 100=10<br>",
+            "attachments": []
+        },
+        {
+            "answer": "m/ sin M = l / sin L<br>\u221a10 \u00f7\u00a02/3 = l\u00a0\u00f7 1<br>l = 3/2 (dikali)\u00a0\u221a10 cm\u00a0= panjang KM<br><br>panjang\u00a0LM = k =\u00a0\u221a(3/2\u00d7\u221a10)\u00b2 - (\u221a10)\u00b2 = 90/4 -10 = (90-40)/4 = 50/4 = 12.5 cm<br><br>maaf jika kurang tetpat",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "bagaimana-cara-mencari-hasil-sisa-pembagian-suku-banyak-yg-pembag-975",
+            "question": "Bagaimana cara mencari hasil sisa pembagian suku banyak\r\nyg pembaginya berjumlah 3",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "dikali dengan 3<br>maaf hanya ini yang dapat saya jawab",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "mohon-bantuan-nya-dong-kakak-jika-u243-u636-maka-jumlah-4-suku-622",
+            "question": "Mohon bantuan nya dong kakak\r\njika U2=4/3 U6=36 maka jumlah 4 suku bernomor ganjil pertama adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "u2 = 4/3 maka ar = 4/3 \u00a0 \u00a0 \u00a0pers 1<br>u6 =36 maka ar^5 = 36 \u00a0 \u00a0 \u00a0pers 2<br>pers 1 dan 2 didapat \u00a0rpangat 4 = 27 berarti rpangkat 2 =\u00a0\u221a27<br>r =akar pangkat 4 dari 27<br>a =4/3 \u00a0dibagi r = 4/9 akar pangkat 4 dari 3<br>jadi a + arkuadrat + arpangkat 4 + ar pangkat 6<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "nilaixyyang-memenuhi-sistem-persamaan-2x-y5-x-2y7-687",
+            "question": "Nilai(x,y)yang memenuhi sistem persamaan\r\n2x + y=5\r\nx + 2y=7",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>2x + y=5<br>y= 5-2x.................(1)<br><br>x + 2y=7<br>x+ 2(5-2x)=7<br>x+10-4x=7<br>-3x=-3<br>x=1......................(2)<br><br><br>2x+y=5<br>2(1)+y=5<br>2+y=5<br>y=3.........................(3)<br><br><br></span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suatu-garis-melalui-titik-a-4-1-dan-b-2-3-gradien-ga-259",
+            "question": "Suatu garis melalui titik A(\u00a0-4, 1\u00a0) dan B( 2, -3 ).    Gradien garis tersebut adalah...\r\n\r\nA.\u00a0\u208b\r\nB.\u00a0\u208b\r\nC.\u00a0\r\nD.\u00a0\r\n\r\nsama cara mengerjakannya ya :)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "titik A (-4,1) maka x1 = -4 dan y1 = 1<br>titik B (2 , -3)\u00a0 maka x2 = 2 dan y2 = -3<br><br>gradien atau m = (y2 - y1) / (x2 - x1) = ( -3 - 1 ) / ( 2 - (-4) ) = -4/6 = -2/3<br><br>semoga membantu :)<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jumlah-suku-4-dan-suku-ke-7-barisan-aritmatika-sama-dengan-67-sed-879",
+            "question": "Jumlah suku 4 dan suku ke 7 barisan aritmatika sama dengan 67 sedangkan suku ke 10 adalah 65 tentukan a.suku ke n    \u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 b.suku ke 20",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "U\u2084 + U\u2087 = 67 ---&gt; a + 3b + a + 6b = 67 ---&gt; 2a + 9b = 67 ......pers(1) <br>U\u2081\u2080 = 65 ----&gt; a + 9b = 65 ---&gt; 2a + 18b = 130 ........ pers (2) <br>(1) dan (2) ieliminasi <br>2a + 18b = 130<br>2a +\u00a0 9b = 67 <br>--------------------------- -<br>\u00a0 \u00a0 \u00a0 \u00a0 9b = 63 --------&gt; b = 7 , a = 2 <br>a. Un = a + (n - 1)b<br>\u00a0\u00a0  \u00a0 \u00a0\u00a0  = 2 + (n - 1)7<br>\u00a0\u00a0 \u00a0\u00a0 \u00a0 = 2 + 7n - 7 <br>\u00a0\u00a0 \u00a0\u00a0  \u00a0 = 7n - 5 <br>b. U\u2082\u2080 = 7(20) - 5 <br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 140 - 5 = 135 <br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-bak-air-besar-berbentuk-tabung-yang-panjang-jari-jarinya-7-580",
+            "question": "sebuah bak air besar berbentuk tabung yang panjang jari-jarinya 70 cm dan tinggi 1,8 m, terisi penuh. setelah air dalam bak terpakai sebanyak 770 liter, berapakah tinggi sisa air dalam bak tersebut?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "v tabung = 22/7 x\u00a070 x 70 x 180 = 2.772.000 cm3 : 2.772 l<br>sisa air = 2.772 - 770 = 2.002 l",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "selidiki-persamaan-kuadrat-berikut-a-x2-2x10-b2x2-2x0-c3-574",
+            "question": "Selidiki persamaan kuadrat berikut:    a) x\u00b2-2x+1=0\r\nb)2x\u00b2-2x=0\r\nc)3x\u00b2-2x+10=0\r\nd)x\u00b2-10=0\r\nberikan jawabannya dengan cara jalannya\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1). (x-1).(x-1)<br>2). (2x-2).(x-0)<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "salah-satu-akar-dari-x2-9x7r-10-adalah-tiga-kurangnya-dari-du-173",
+            "question": "salah satu akar dari x2-9x+(7r-1)=0 adalah tiga kurangnya dari dua kali akar yang lain . tentukan nilai r !\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]x^2-9x+(7r-1)=0;misal\\ akar-akarnya\\ x_1\\ dan\\ x_2\\\\\nx_1=2x_2-3\\\\\nx_1+x_2=\\frac{-(-9)}{1}=9\\\\\n2x_2-3+x_2=9\\\\\n3x_2=12\\\\\nx_2=4\\\\\\\\\nx_1x_2=\\frac{7r-1}{1}\\\\\n(2x_2-3)x_2=7r-1\\\\\n(2(4)-3)(4)=7r-1\\\\\n20=7r-1\\\\\n7r=21\\\\\nr=3[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "contoh-soal-persamaan-dan-fungsi-kuadrat-585",
+            "question": "Contoh soal persamaan dan fungsi kuadrat ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]tentukan\\ akar-akar\\ dari\\ persamaan\\ kuadrat:x^2-x+1=0\\\\\\\\\ntentukan\\ titik\\ puncak\\ fungsi\\ f(x)=x^2-x+1\\\\[/tex]",
+                    "attachments": []
+                },
+                {
+                    "answer": "Selisih 2 bilangan bulat adalah 9. Jika hasil kali kedua bilangan tersebut adalah 36. Tentukan nilai dari kedua bilangan tersebut..<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-taman-berbentuk-lingkaran-dengan-diameter-40-mdisekelilin-489",
+            "question": "sebuah taman berbentuk lingkaran dengan diameter 40 m.disekeliling taman itu akan dibuat jalan dengan lebar 1 m (=22/7).hitunglah luas jalan tsb",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "d awal=40 m<br>R=r+1m<br>R=20+1=21m<br>luas lingkaran besar=22/7x21x21=1386<br>luas lingkaran kecil=22/7x20x20= 1257,14286<br>luas jalan=1386-1257,14286=128,8572m\u00b2",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

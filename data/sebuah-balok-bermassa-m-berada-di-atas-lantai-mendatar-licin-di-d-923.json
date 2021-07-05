@@ -1,0 +1,146 @@
+{
+    "question": "sebuah balok bermassa m berada di atas lantai mendatar licin di dorong dengan gaya mendatar 21,5 N sehingga mengalami percepatan 2m/s\u00b2.berapakah gaya yang harus diberikan agar percepatan menjadi 4m/s\u00b2??",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "F=m.a<br>21,5=m.2<br>m=10,75 kg<br><br>F=m.a<br>F=10,75.4<br>F=43N<br>",
+            "attachments": []
+        },
+        {
+            "answer": "kita buat perbandingan aja,karna massanya sama kan :)<br>maka\u00a0<br>F1= 21,5 N<br>a1= 2 m/s^2<br>F2 = ..?<br>a2= 4 m/s^2<br><br>maka ..<br>F1/F2 = a1/a2<br>21,5 N/F2 = 2/4<br>21,5 N/F2 = 1/2<br>21,5 N . 2 = F2<br>43 N = F2 :)",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "sebuah-tongkat-homogen-sepanjang-50-cm-bermasa-4-kg-pada-salah-sa-611",
+            "question": "sebuah tongkat homogen sepanjang 50 cm bermasa 4 kg pada salah satu ujung tongkat diberi beban ,sedangkan ujung tongkat lainnya sebagai tumpuan .jika f= 200 N Momen gaya pada titik O adalah......N.m\u00a0\u00a0\u00a0\u00a0 (g=9.8 m/s2)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "momen inersia terhadap batang = <span><span>1/12m.l kuadrat + m(1/2) kuadrat = 1/3 ml kuadrat</span></span><br><br><br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span>tinggal di masukkin nilainya<br>sepertinya itu</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "cara-mencari-dimensi-modulitas-young-258",
+            "question": "Cara mencari dimensi modulitas young?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "tegangan dibagi regangan",
+                    "attachments": []
+                },
+                {
+                    "answer": "E = tegangan / regangan =\u00a0[tex] \\frac{F . l}{A . delta l} [/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "ada-yg-tau-ngga-website-buat-download-ppt-fisika-tentang-pemanfaa-839",
+            "question": "ada yg tau ngga website buat download ppt fisika tentang pemanfaatan energi nuklr dan radioisotop? (ini materi kelas xii semester 2) sy sdhputus asa krn sejak 2 hari yg lalu smpe skrg ngga dapat-dapat",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Bisa cari di slideshare.com disitu banyak materi-materi yang dibutuhin",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-truk-bermassa-7500-kg-yang-bergerak-dengan-kecepatan-5-ms-402",
+            "question": "sebuah truk bermassa 7500 kg yang bergerak dengan kecepatan 5 m/s ditabrak mobil lain yang bermassa 15000 kg dengan keceptan 20 m/s.kedua kendaraan rjusak berat dan menjadi satu. kelajuan kedua mobil rusak itu adalah........",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "m1.v1 + m2.v2 = (m1+m2) V<br>7500.5 + 15000.20 = (7500+15000) V<br>37500 + 300000 = 22500 V<br>337500 = 22500 V<br>V= 337500 : 22500<br>V= 15 m/s<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "berapa-kalor-yg-di-butuhkan-es-bersuhu-2c-dengan-massa-4-kg-ag-909",
+            "question": "Berapa kalor yg di butuhkan es bersuhu -2\u00b0c dengan massa 4 kg agar mencapai suhu 5\u00b0c, jika dik.    L es=336.000 J/kg\r\nc es=500 J/kg\u00b0c\r\nc air=4200 J/kg\u00b0c",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "m.c.\u0394t=4\u00d72\u00d7500= 4000j<br>m.L=4\u00d7336000=1344000j<br>m.c.\u0394t=4\u00d75\u00d74200=84000j<br><br>kalor yg dibutuhkan=1432000j=1432kj",
+                    "attachments": []
+                },
+                {
+                    "answer": "Q es 1 = m.Ces.\u0394t<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 4 . 500 .(0- -2)<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0= 400 j<br>Q lebur 2\u00a0= m.L<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 4 . 336.000<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = \u00a01.344.000 j<br>Q cair 3\u00a0= m.Cair.\u0394t<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = \u00a04 . 4200 . (5-0)<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 84.000 j<br>kalor total Q = Q1+Q2+Q3<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 400 + 1.344.000 + 84.000<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 1.428.400 J<br>tolong klik bintang",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pada-rangkaian-paralel-pegask130nmk220nm-dan-m3kg-ktotal-365",
+            "question": "Pada rangkaian paralel pegas,k1=30n/m,k2=20n/m dan m=3kg. Ktotal?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Ktotal=K1+K2=20+30=50 N/m<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "kak-tolong-jelasin-tentang-rumus-hukum-newton-2-698",
+            "question": "Kak tolong jelasin tentang Rumus hukum newton 2",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "percepatan yg dihasilkan oleh resultan gaya bekerja pada suatu benda berbanding lurus dgn resultan gaya dan searah dengan resultan gaya dan berbanding terbalik dgnn massa",
+                    "attachments": []
+                },
+                {
+                    "answer": "\"Percepatan sebuah benda berbanding lurus dengan resultan gaya dan berbalik terbalik dengan massa benda.\"<br>a= F/m<br><u></u><strong>S\u00a0F= m a</strong><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dua-pegas-identik-memiliki-kostanta-gaya-400nm-apabila-kedua-peg-630",
+            "question": "dua pegas identik memiliki kostanta gaya 400N/m apabila kedua pegas tersebut disusun secara paralel,maka besarnya gaya yang dubutuhkan untuk menarik pegas sehingga bertambah panjang sebesar 5cm adalah...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "5 cm = 0,05 m<br>k = F/delta l<br>400 = F/0,05<br>400 X 0,05 =F<br>20 N = F<br><br>Jadi, gaya yang diperlukan adalah 20 N<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-saya-membutuhkan-3-soal-yang-berkaitan-dgn-vektor-645",
+            "question": "Tolong saya membutuhkan 3\u00a0soal yang berkaitan dgn Vektor.?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>vektor gaya yang sama, masing\u00b2 besarnya 10newton,<br>tentukan nilai resultan masing\u00b2 vektor.,?<br><br></span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "manfaat-dan-bahaya-radioisotop-dan-gelombang-elektromagnetik-209",
+            "question": "Manfaat dan bahaya radioisotop dan gelombang elektromagnetik",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "manfaat: memanfaatkan sinar-sinar radiasinya untuk berbagai kepetluan.sumber tenaga listrik<br>bahaya :dapat merusak jaringan pada makhluk hidup. dapat mengakibatkan tumor/ kanker",
+                    "attachments": []
+                },
+                {
+                    "answer": "manfaat : sebagai sumber tenaga listrik<br>bahaya : merusak jaringan, menyebabkan kanker<br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

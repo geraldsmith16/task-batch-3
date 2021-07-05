@@ -1,0 +1,150 @@
+{
+    "question": "Bagaimana prinsip kerja termometer kristal cair",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "terdapat keistal cair yg warnany dpt berubah jka suhu berubah. kristal ini dikemas dlm plastik tipis,utk menukur suhu tubuh,suhu akuarium,dan sebgainy.",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "torsi-yang-bekerja-pada-silinder-pejal-yang-massanya-05-kg-denga-844",
+            "question": "Torsi yang bekerja pada silinder pejal yang massanya 0,5 kg dengan jari-jari 12 cm adalah 3,6 x 10-2. Tentukan percepatan sudut yang dialami silinder tersebut?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "silinder pejal (I =[tex] \\frac{1}{2} [/tex] m.r\u00b2 )<br>m = 0,5 kg<br>r= 12cm =&gt; 0,12 m<br>I = 1/2 x 0,5 x (0,12)\u00b2<br>=3,6x10\u207b\u00b3<br>torsi = 3,6x10\u207b\u00b2<br>Torsi = I.\u03b1<br>\u03b1 = torsi\u00f7I<br>= 3,6x10\u207b\u00b2\u00f73,6x10\u207b\u00b3<br><strong>= 10 rad/s\u00b2</strong>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "serbuk-besi-jika-didekatkan-pada-batang-besi-yang-telah-digosok-d-447",
+            "question": "Serbuk besi jika didekatkan pada batang besi yang telah digosok dengan magnet permanen akan ??    #sama pembahasan nya",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "melekat pada dinding magnet<br>jika salah mohon maaf",
+                    "attachments": []
+                },
+                {
+                    "answer": "melekat pada batang besi karena batang besi yang telah digosokkan dgn magnet permanen akn memiliki medan magnet sama sperti magnet permanen",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-tuas-panjangnya-2-meter-jika-titik-tumpu-terletak-05-me-531",
+            "question": "sebuah tuas panjangnya 2 meter . jika titik tumpu terletak 0,5 meter dari beban dan gaya yg dikeluarkan 1000 newton, berat beban yg dapat diangkat adalah ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Dik : F = 1000 N \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0Dit : W ?<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0lb = 0.5 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0lk = 2 - 0.5 = 1.5<br>W/F = lk/lb<br>W/1000 = 1.5/0.5<br>W= 1000 x 1.5/0.5<br>W = 1500/0.5<br>W = 3000 N",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apa-yang-disebut-hukum-newton-3-113",
+            "question": "Apa yang disebut hukum newton 3?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "hukum newton 3 : gaya aksi dan reaksi dari dua benda memiliki besar yang sama, dengan \narah terbalik, dan segaris. Artinya jika ada benda A yang memberi gaya \nsebesar F pada benda B, maka benda B akan memberi gaya sebesar \u2013F kepada\n benda A. F dan \u2013F memiliki besar yang sama namun arahnya berbeda. Hukum\n ini juga terkenal sebagai hukum aksi-reaksi, dengan F disebut sebagai aksi dan \u2013F adalah reaksinya.<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Hukum 3 Newton menjelaskan bahwa setiap ada gaya aksi akan timbul gaya reaksi yang besarnya sama tetapi arahnya berlawanan. <span><br></span><span><br></span><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "12-x-2-x-10-cpt-yah-jawab-nya-ok-ok-487",
+            "question": "1/2 x 2 x 10 = \u00a0 \u00a0cpt yah jawab nya ok ok",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1/2 x 2 x 10 = 1 x 10 =10",
+                    "attachments": []
+                },
+                {
+                    "answer": "10........................<br><br><span>= 1/2 x 2 x 10 <br>= 1 x 10 <br>=10</span><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jelaskan-prinsip-kerja-bimetal-sebagai-sensor-suhu-pada-setrika-l-767",
+            "question": "Jelaskan prinsip kerja bimetal sebagai sensor suhu pada setrika listrik!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Bimetal terdiri dari dua lapisan logam (metal) yang memiliki koefisien  \npengembangan sangat berbeda. Pada suhu kamar (normal) keduanya memiliki \npanjang sama. Jika bimetal suhunya naik akan membengkok kearah lapisan  \ndengan koefisien pengembangan lebih kecil dan jika didinginkan akan \nmembengkok kearah yang koefisien pengembangannya lebih besar,<br>\nPada salah satu ujungnya (A) bimetal di keling (direvet) pada bagian \nlogam yang terimbas panas dari heater atau tahanan yang merubah energi \nlistrik menjadi energi panas (pada seterika listrik  atau pemanas \ndispenser. Jika suhu naik ujung yang lain dari bimetal (B) akan \nmembengkok kearah lapisan logam dengan koefisein muai (pengembangan) \nlebih kesil.<br>\nPada ujung B terdapat titik pengumpil yang berguna untuk mengangkat \nterminal  bebas  (C) dari sekaklar listrik yang pada suhu normal \nterhubung dengan terminal (D) sekaklar yang dapat mengatur \n\"kelekatannya\" terhadap terminal C (Biasanya dengan sebuah baut pengatur\n yang dihubungkan dengan knop/piringan yang diberi skala pengatur).<br>\nPada suhu tertentu ujung B akan mengangkat terminal D sehingga skaklar \nterbuka dan menyebabkan  aliran listrik pada pemanas terputus.<br>\nUntuk menghindari timbulnya bunga api dan agar terminal skaklar tak \nmudah hangus/terbakar, terminal skaklar harus dibuat dari logam yang tak\n mudah teroksidasi dan tahan panas (sejenis platina) dan ada mekanik \nyang mengatur agar skalkar terbuka secara mendadak/kejut  (tak \nberangsur).<br>\nTermostat pada kulkas dad AC banyak  yang menggunakan tabung udara dan \nlempeng logam anti karat yang lebih peka terhadap perubahan suhu, bahkan\n kini  banyak yang menggunakan dioda serta perangkat skaklar elektronik.\n Dioda yang sangat kecil ini ditempelkan pada bagian pendinginan, atau \nbagian expanser.<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span>\n<span>\nBimetal\nadalah alat yang terdiri dari dua logam yang berbeda nilai koefisien muai\npanjangnya atau yang berbeda kecepatan pemuaiannya, direkatkan menjadi satu.\nMisalnya bimetal terbuat dari besi dan tembaga sebelum dipanaskan bimetal itu\ndalam keadaan lurus kemudian setelah dipanaskan, bimetal akan melengkung ke\narah logam (besi) yang nilai koefisien muai panjangnya kecil atau lambat\nmemuai. Selanjutnya, apabila bimetal didinginkan akan melengkung ke arah logam\n(tembaga) yang nilai koefisien muai panjangnya besar atau cepat memuai.</span>\n</span>\n\n\n<span>Alat-alat\nteknologi yang menggunakan prinsip bimetal, antara lain termostat, sakelar\notomatis pada setrika, alat pemberitahu kebakaran, dan termometer.</span><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "buatlah-daftar-aplikasi-percobaan-dari-metode-pemisahan-campura-981",
+            "question": "buatlah daftar aplikasi (percobaan) dari metode pemisahan campuran dalam kehidupan sehari-hari dan dalam kegiatan industri",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>*Sentrifugasi --&gt; memisahkan<span>\u00a0sel-sel darah dari plasma darah\u00a0<br></span></span><span><span>*</span><span>Distilasi --&gt; penyulingan minyak\u00a0</span><span>bumi menjadi berbagai produk turunan<br></span></span><span><span>*Kromatografi --&gt; pengecekan kandungan tertentu dalam urin<br></span></span><span><span>*Sublimasi \u00a0--&gt; \u00a0</span><span>kapur barus\u00a0</span></span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apa-persamaan-mencari-panjang-periode-dan-amplitudo-gelombang-626",
+            "question": "Apa persamaan mencari panjang, periode, dan amplitudo\u00a0gelombang transversal?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "rumus <br><br>Y = A sin (wt-kx)<br>Y = A sin (2\u03c0/T - 2\u03c0/lamda)<br><br>wt= 2\u03c0/T \u00a0 \u00a0dan kx= 2\u03c0\u00a0/\u00a0lamda (panjang gelombang)<br><br>Semoga membantu :) D like",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span>y = A sin (wt-kx)<br>y = A sin (2\u03c0/T - 2\u03c0/lamda)<br>wt= 2\u03c0/T \u00a0 \u00a0dan kx= 2\u03c0\u00a0/lamda</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "buah-jambu-yang-bergantung-di-ketinggian-2-meter-dari-tanah-tiba-486",
+            "question": "Buah jambu yang bergantung di ketinggian 2 meter dari tanah, tiba2 jatuh. amir yang menemukan buah jambu tersebut menimbangnya, ternyata massanya 200 g. jika percepatan gravitasi di tempat itu 10 m/s2. hitunglah ! energi potensial, energi kinetik dan kecepatan buah jambu pada ketinggian 1 meter!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "hanya no 1<br>m =\u00a0200 gram = 0,2 kg<br>g = 10 m/s\u00b2<br>h = 2 meter<br>energi potensial = mgh<br>0,2 \u00d7\u00a010\u00d7 2 = 4<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Dik m = 200 g = 0,2 kg<br>\u00a0\u00a0 \u00a0\u00a0 g = 10 m/s<br>\u00a0\u00a0 \u00a0\u00a0 h = 2 m<br>\u00a0\u00a0 \u00a0\u00a0 a = 10 m/s<br>Dit Ep, Ek, dan v ?<br>jawab.<br>Ep = mgh <br>\u00a0\u00a0 \u00a0 = 0,2 . 10 . 2<br>\u00a0\u00a0 \u00a0 = 4 j<br><br>Ek =1/2 mv^2<br>\u00a0\u00a0 \u00a0 = 1/2 . 0,2 . 10^2<br>\u00a0\u00a0 \u00a0\u00a0 = 40 j<br><br>kecepatan pada saat ketingggian 1 m<br>v = \u221a2g(h2-h1)<br>\u00a0 = \u221a 2. 10 (2-1)<br>\u00a0 = \u221a20 m/s<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dik-f110n-kekiri-f220n-kekiri-f415n-kekana-985",
+            "question": "Dik: F1:10N KEKIRI    \u00a0\u00a0 \u00a0 F2:20N KEKIRI\r\n\u00a0\u00a0 \u00a0 \u00a0 F4:15N KEKANAN\r\n\u00a0\u00a0 \u00a0 \u00a0 \u00a0 F5:40N KEKANAN\r\n\u00a0\u00a0 \r\napabila resultan dari perpaduan gaya\" pada gambar diatas adalah0, besar F3?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "10+20+F3 = 30 + ... = 55<br>f3= 55-30= 15N<br><br>15+40 = 55<br><br>karena 55N -55N = 0",
+                    "attachments": []
+                },
+                {
+                    "answer": "jawab.<br>perumpamaan\u00a0<br>ke\u00a0kiri =\u00a0 -<br>ke kanan = \u00a0+<br>F = F1 + F2 + F3 + F4 + F5 = 0<br>\u00a0 \u00a0= -10 - 20 + f3 + 15 + 40 = 0<br>\u00a0 \u00a0= - 30 + F3 + 55 = 0<br>F3 = - 55 + 30<br>\u00a0 \u00a0 \u00a0= l-25l<br>\u00a0 \u00a0 \u00a0= 25<br>berarti arah ke kiri\u00a0<br><br>Semoga membantu :) D like",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

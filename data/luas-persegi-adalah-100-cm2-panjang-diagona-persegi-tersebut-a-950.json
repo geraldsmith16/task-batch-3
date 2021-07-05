@@ -1,0 +1,136 @@
+{
+    "question": "Luas persegi adalah 100 cm\u00b2 . panjang diagona persegi tersebut adalah\u00a0\r\ndengan cara nya\u00a0",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "L = sisi x sisi<br>100 = sisi x sisi<br>sisi = 10<br><br>p. diagonal = s akar 2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 10 akar 2 atau\u00a0[tex] \\sqrt{2} [/tex]",
+            "attachments": []
+        },
+        {
+            "answer": "luas persegi= sisi x sisi<br>100= S^2<br>S^2= akar 100<br>S= 10<br><br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "ubahlah-masalah-nyata-berikut-ke-dalam-bentuk-pertidaksaman-linea-706",
+            "question": "Ubahlah masalah nyata berikut ke dalam bentuk pertidaksaman linear satu variabel.    a) Sebuah bus dapat mengangkut tidak kurang dari enampuluh orang penumpang.\r\nb) Jarak rumah Beni ke sekolah lebih dari seratus meter.\r\nc) Penghasilan ibu Monika tidak lebih dari dua juta rupiah setiap bulannya.\r\nd) Sebuah pesawat berada diketinggian tidak kurang dari tiga ribu kaki di atas permukaanlaut.\r\ne) Kecepatan Udin berkendara tidak lebih dari 50 km/jam.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a. x&gt;=60<br>b.x&gt;100<br>c.x&lt;=2000000<br>d.x&gt;=3000<br>e.x&lt;=50",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sederhanakanlah-a27-b125-c180-d570-ubahlah-me-734",
+            "question": "Sederhanakanlah\u00a0    A.\u221a27\u00a0\r\nB.\u221a125\r\nC.\u221a180\r\nD.\u221a570\r\n\r\nUbahlah menjadi pangkat pecahan\u00a0\r\nA.\u221b15\r\nB.5\u221a12\u00b3\r\nC.\u221b12\r\nD.4\u221a48\u00b3",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a. 3\u221a3<br>b. 5\u221a5<br>c. 6\u221a5<br>d.\u00a0\u221a3.19.2.5\u00a0\u21d2hitung sendiri ajalahhhh<br><br>a. 15 pangkat 1/3<br>b. 300 pangkat 3/2<br>c. 12 pangkat 1/3<br>d. 767 pangkat 3/2<br>itulah hasilnyaaaa........<br>tolong di like yaaa",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-nilai-x-jika-2x12x22x32x504275-502",
+            "question": "Tentukan nilai x jika , (2x+1)+(2x+2)+(2x+3)+...+(2x+50)=4275",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "(2x + 1) + (2x + 2) + (2x + 3) +...+(2x + 50) = 4275<br> = (2x) x 50\u00a0+ (1 + 2 + 3\u00a0+...+ 50)<br>=\u00a0100x + 1275<br>100x = 4275\u00a0- 1275<br>100x = 3000<br>\u00a0 \u00a0 \u00a0x =\u00a0[tex] \\frac{3000}{100} [/tex]<br>\u00a0 \u00a0 \u00a0x = 30<br><br>jadi, nilai x adalah 30",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebidang-tanah-dengan-bntuk-persg-memiliki-ukran-72m-x-72m-tanah-978",
+            "question": "Sebidang tanah dengan bntuk persg memiliki ukran 72m x 72m tanah itu digambar dengan ukuran 12cm x 12cm    a. Besar skalanya\r\n b. Perbandingan luas gmbar dengn luas sebenarnya",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "luas sebenarnya : 72m*72m =5184m =518400 cm<br>luas pada peta : 12cm*12cm = 144 cm<br>a. skala = jp : js = 144 : 518400 = 1 : 3600 cm = 1 : 360.000.000<br>b. perbandingan = 1 : 3600",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "penderita-kanker-dan-jantung-dirumah-sakit-sebanyak-86-orang-kan-935",
+            "question": "Penderita kanker dan jantung dirumah sakit sebanyak 86 orang.    kanker 35 orang.\r\n15 orang menderita kanker dan jantung\r\npertanyaan:\r\n1.banyak penderita yang sakit jantung ada berapa orang ???",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]S=86 \\\\ K=35-15=20 \\\\ keduanya=15 \\\\ Jantung=86-(20+15) \\\\ =86-35 \\\\ =51[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "cara-nyari-rumus-fungsi-dari-grafik-gimana-341",
+            "question": "Cara nyari rumus fungsi dari grafik gimana?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "grafik yang sudah diketahui miniman 2\u00a0titik<br>[tex] \\frac{y-y1}{y2-y1} = \\frac{x-x1}{x2-x1} [/tex]<br><br>kalau grafiknya sudah diketahui gradien dan salah satu titiknya<br>y\u00a0-\u00a0y1 = m(x\u00a0-\u00a0x1)",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "amir-berlatih-naik-mobil-dengan-mengelilingi-lintasan-berbentuk-l-863",
+            "question": "Amir berlatih naik mobil dengan mengelilingi lintasan berbentuk lingkaran berjari jari 15 m. Tentukanlah jarak yang ditempuh amir untuk:    a. 1 kali putaran\r\n b.1,5 putaran \r\n c. 2 putaran\r\n d. 2 3/4 putaran",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Lintasan=keliling<br>2r=d=15<br>A)Kell.=\u03c0\u00b7d<br>\u00a0\u00a0  =3,14\u00b730.1<br>\u00a0\u00a0 =<strong>94,2<br></strong>B)Kell.=\u03c0\u00b7d<br>\u00a0\u00a0 =3,14\u00b730\u00b71,5<br>\u00a0\u00a0 =<strong>141,3</strong><br>C)kell.=\u03c0\u00b7d<br>\u00a0\u00a0 =3,14\u00b730\u00b72<br>\u00a0\u00a0 =<strong>188,4</strong><br>D)kell.=\u03c0\u00b7d<br>\u00a0\u00a0 =3,14\u00b730\u00b72 3/4<br>\u00a0\u00a0 =<strong>141,3</strong><br><br><strong></strong>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "ini-caranya-bagaimana-625",
+            "question": "Ini caranya bagaimana?",
+            "attachments": [
+                "question-attachments/ini-caranya-bagaimana-625-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "Caranya : Luas persegi panjang - Luas bagian yang tidak diarsir<br><br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "L. arsir = (35 x 15) - L.setengah lingkaran - L.persegi<br>= 525 - 77 - 36<br>= 412 cm^2",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-hitunglah-panjang-tali-yg-diperlukan-untuk-melilitkan-sebuah-999",
+            "question": "1 . Hitunglah Panjang Tali yg diperlukan untuk melilitkan sebuah drum berjari jari 3 cm sebanyak lima putaran",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "cari dulu keliling lingkaranya<br>k=6x3,14=18,84<br>panjang tali seluruhnya=kelilingx5=18,84x5=94,2",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span>cari dulu keliling lingkaranya<br>k=6x3,14=18,84<br>panjang tali seluruhnya=kelilingx5=18,84x5=94,2</span><span></span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-jumlah-dua-bilangan-adalah-100-dan-selisih-nya-adalah-4-770",
+            "question": "diketahui jumlah dua bilangan adalah 100 dan selisih nya adalah 40 bagaimana nilai dua bilangan tersebut dapat dinatakan dua linear variabel.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "jawabannya:<br>a+b = 100<br>a-b \u00a0= 40<br>truss lakukan proses eliminasi....<br>2b = 60<br>b = 30<br>substitusikan ke a+b=100<br>a+ 30 = 100<br>a= 70",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

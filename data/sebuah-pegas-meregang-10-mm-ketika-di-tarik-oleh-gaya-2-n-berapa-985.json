@@ -1,0 +1,134 @@
+{
+    "question": "sebuah pegas meregang 10 mm ketika di tarik oleh gaya 2 N. berapa pertambahan panjang ketika ditarik gaya 5 N",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "m1/m2 = F2/F1<br>10/m2 = akar5/2<br>10/m2 = akar2,5<br>10/m2 = 1,58<br>m2 = 10/1,58<br>m2 = 6,3 mm",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "faktor-yang-mempengaruhi-elastisitas-sebuah-benda-479",
+            "question": "Faktor yang mempengaruhi elastisitas sebuah benda",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "sifat fisik yang utama adalah karena dipengaruhi oleh struktur penyusunnya<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-sebuah-katrol-berbentuk-silinder-homogen-dengan-massa-2-241",
+            "question": "Diketahui sebuah katrol berbentuk silinder homogen dengan massa 2 kg,jari jari 20 cm,dan F=10 N.tentukan    a.momen gaya yang dikerjakan F pada katrol\r\n b.momen inersia katrol\r\n c.percepatan sudut katrol",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a.) momen gaya= F . r = 10 . 0,2 = 2 Nm\u00a0<br>b.) I = MR\u00b2 / 2 = 2 . 0,2\u00b2 = 0,08 kgm\u00b2\u00a0<br>c.) momen gaya = I .\u00a0\u03b1\u00a0\u21d4\u00a0\u03b1 = momen gaya / I = 2 / 0,08 = 25 rad/s\u00b2\u00a0<br>maaf kalau salah\u00a0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-benda-jatuh-dari-ketinggian-100m-kecepatan-benda-pada-ket-606",
+            "question": "1.\u00a0\u00a0 benda jatuh dari ketinggian 100m. kecepatan benda pada ketinggian 95 m adalah. 2.\u00a0 sebuah mobil yang mempunyai daya penggerak 50 kW bergerak dengan kecepatan\u00a0 20m/s. gaya dorong mobil tersebut? \u00a0 pleaseee jwbnya agak cepet ya buat besok soal'a.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1. h =100m , v pd h = 95 m adalah? g = 10 m/s^2<br>v= akar 2.g.h<br>v = akar 2 .10m/s . (100-95) = akar 2 . 50 = akar 100 = 10 m/s<br><br>2. p = w/t<br>\u00a0 \u00a050 kw = w/s<br>\u00a0 \u00a050 n = w (f)<br>w = m.g<br>50 = m . 10<br>5 kg =m<br>f = m.a = 5 .10 = 50 N<br><br>kalau menurut saya gitu mbak &gt;_&lt;",
+                    "attachments": []
+                },
+                {
+                    "answer": "no 2 <br>Dik v = 20 m/s<br>\u00a0\u00a0 \u00a0  P = 50 kw = 50 000 w<br>Dit F ?<br>jawab.<br>F = P/v = 50 000/20 = 2500 N<br><br>mohon maaf bila ada kesalahan<br>\u00a0\u00a0 \u00a0 <br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-pada-magnet-bentuk-keping-lingkaran-bagaimana-letak-kutubnya-189",
+            "question": "Jika pada magnet bentuk keping lingkaran bagaimana letak kutubnya? \u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Sama saja. Kan bentuknya lingkaran, berarti lingkaran itu dibagi dua sisi. Menjadi dua bangun setengah lingkaran. Yang atasnya kutub utara dan yang bawahnya kutub selatan. Okay ? @Liwed",
+                    "attachments": []
+                },
+                {
+                    "answer": "setau aku g beda dah.. sma aj..?",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apa-yang-dimaksud-dengan-peluruhan-552",
+            "question": "Apa yang dimaksud dengan peluruhan ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>Peluruhan radioaktif adalah peristiwa berubahnya sebuah materi radioaktif menjadi materi lainnya dengan pemancaran radiasi.<br><br><br>semogA MEMBANTu :)\u00a0</span>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span><strong><u><em>Peluruhan\u00a0</em></u></strong></span><strong><u><em>adalah kumpulan beragam\u00a0di mana sebuah\u00a0</em></u></strong><strong><u><em>inti atom</em></u></strong><strong><u><em>\u00a0yang tidak stabil memancarkan\u00a0</em></u></strong><strong><u><em>partikel subatomik</em></u></strong><strong><u><em>\u00a0(</em></u></strong><strong><u><em>partikel radiasi</em></u></strong><strong><u><em>). Peluruhan terjadi pada sebuah\u00a0</em></u></strong><strong><u>nukleus induk</u></strong><strong><u><em>\u00a0dan menghasilkan sebuah\u00a0</em></u></strong><strong><u>nukleus anak</u></strong><strong><u><em>. Ini adalah sebuah proses \"acak\" (</em></u></strong><strong><u>random</u></strong><strong><u><em>) sehingga sulit untuk memprediksi peluruhan sebuah atom.</em></u></strong>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-batu-bata-dengan-massa-3-kg-jatuh-dari-ketinggian-20-meter-ma-863",
+            "question": "1. Batu bata dengan massa 3 kg jatuh dari ketinggian 20 meter, maka kecepatan batu bata sesaat sebelum menyentuh tanah ?    2. Pegas panjang 20 cm digantungkan beban 200 gram sehingga panjang pegas menjadi 25 cm. untuk menarik pegas 2 cm dari titik seimbang hingga 8 cm dari titik seimbang diperlukan usaha sebesar ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1. Kecepatan sebuah benda jatuh bebas dapat dicari menggunakan\u00a0\u221a2gh sehingga V=\u00a0\u221a2.10.20=\u221a400\u2261\u00a020 m/s<br>2. Sebelum mencari besar usaha kita harus mencari koefisien elastisitas pegas terlebih\u00a0dahulu dari F = k.\u0394x sehingga k = F/\u0394x = 0,2.10/0,05 = 40 N/m<br>Kemudian Usaha untuk menarik pegas W = 1/2kx\u00b2\u00a0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "rumus-reaksi-sempurna-kimia-apa-ya-374",
+            "question": "Rumus reaksi sempurna kimia apa ya?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>C8H18 (l) +12 \u00bd O2 (g) \u2013&gt; 8 CO2 (g) + 9 H2O (g) \u0394H = -5460 kJ</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sifat-sifat-resonansi-427",
+            "question": "Sifat-sifat resonansi ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Dapat dituliskan dalam beberapa struktur Lewis yang disebut dengan struktur resonan. Tetapi tidak satupun struktur tersebut melambangkan bentuk asli molekul yang bersangkutan.Di antara struktur yang saling beresonansi bukanlah isomer. Perbedaan antar struktur hanyalah pada posisi elektron, bukan posisi inti.Masing-masing struktur Lewis harus mempunyai jumlah elektron valensi dan elektron tak berpasangan. yang sama.Ikatan yang mempunyai orde ikatan yang berbeda pada masing-masing struktur tidak mempunyai panjang ikatan yang khas.Struktur yang sebenarnya mempunyai energi yang lebih rendah dibandingkan energi masing-masing struktur resonan.",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "batang-logam-panjangnya-60cm-dan-luas-penampangnya-3cm-modulus-753",
+            "question": "batang logam panjangnya 60cm dan luas penampangnya 3cm . modulus elastisnya sebesar 4x10^{6}N/m . tentukan tetapan pertambahan panjang , dan tegangan batang saat diberi gaya 15N !",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Dik l = 60 cm = 0,6 m<br>\u00a0 \u00a0 \u00a0A = 3 cm = 0,0003 m^2<br>\u00a0 \u00a0 \u00a0E = 4x10^6<br>Dit F dan\u00a0\u0394l<br>jawab.<br><br>E =\u00a0[tex] \\frac{F.l}{A.l0-l1} [/tex]<br><br>E . A .\u00a0\u0394l = F . l<br>4x10^6 . 3x10^-4 .\u00a0\u0394l = F . 0,6<br>12x10^2 \u0394l = 0,6 F<br>\u0394l = 0,6F / 12x10^2<br>\u0394l\u00a0 = 5x10^-4F<br><br>F = k .\u00a0\u0394l atau E.A / l x\u00a0\u0394l<br>F = 12x10^2\u00a0\u0394l / 0,6<br>\u00a0 \u00a0= 2000\u00a0\u0394l<br><br><br><br>tegangan = F / A<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 2000\u00a0\u0394l / 3x10^-4<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 6 666 666 , 667\u00a0\u0394l N/m^2<br><br>semoga membantu :) D like<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apakah-semua-jenis-gaya-menyebabkan-pertambahan-panjang-pegas-269",
+            "question": "Apakah semua jenis gaya menyebabkan pertambahan panjang pegas ?\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "semua jenis gaya mungkin bisa <br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

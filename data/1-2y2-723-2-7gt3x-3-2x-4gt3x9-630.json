@@ -1,0 +1,134 @@
+{
+    "question": "1. 2y/2-7/2\u22643=\r\n2. 7&gt;3x =\r\n3. 2x-4&gt;3x+9=",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "[tex]\\frac{2y}{2}-\\frac{7}{2} \\leq 3\\\\\n\\frac{2y-7}{2} \\leq 3\\\\\n2y-7 \\leq 6\\\\\n2y \\leq 13\\\\\ny \\leq \\frac{13}{2}\\\\\\\\\n7&gt;3x\\\\\n\\frac{7}{3}&gt;x\\\\\nx&lt;\\frac{7}{3}\\\\\\\\\n2x-4&gt;3x+9\\\\\n-x&gt;13\\\\\nx&lt;-13[/tex]",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "tentukan-radian-dari-a180-derajat-b100derajat-c270-194",
+            "question": "Tentukan radian dari\u00a0\r\n\r\na.180 derajat \u00a0 \u00a0b.100derajat \u00a0 \u00a0c.270",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a)[tex] \\frac{180}{180} [/tex]\u00a0x\u00a0[tex] \\pi [/tex]=\u00a01\u00a0x\u00a03,14 = 3,14<br><br>b)[tex] \\frac{100}{180} [/tex]\u00a0x\u00a0[tex] \\pi [/tex]=\u00a00,555\u00a0x\u00a03,14\u00a0=\u00a01,744<br><br>c)[tex] \\frac{270}{180} [/tex]\u00a0x\u00a0[tex] \\pi [/tex]= 1,5 x 3,14 = 4,71",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-nilai-x-jika-2x12x22x32x504275-502",
+            "question": "Tentukan nilai x jika , (2x+1)+(2x+2)+(2x+3)+...+(2x+50)=4275",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "(2x + 1) + (2x + 2) + (2x + 3) +...+(2x + 50) = 4275<br> = (2x) x 50\u00a0+ (1 + 2 + 3\u00a0+...+ 50)<br>=\u00a0100x + 1275<br>100x = 4275\u00a0- 1275<br>100x = 3000<br>\u00a0 \u00a0 \u00a0x =\u00a0[tex] \\frac{3000}{100} [/tex]<br>\u00a0 \u00a0 \u00a0x = 30<br><br>jadi, nilai x adalah 30",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-nilai-x-1-2-3-1-4-5-261",
+            "question": "Tentukan nilai x    1.\r\n2.\r\n3. = 1\r\n4.\r\n5.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Jawaban di word..<br>silahkan liat sndiri, kalau ada yg salah, boleh di kmentarin..<br><br><br><br><br>",
+                    "attachments": [
+                        "answer-attachments/tentukan-nilai-x-1-2-3-1-4-5-261-1.docx"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "misalkan-suatu-persegi-diletakkan-berimpitan-di-kanan-persegi-lai-846",
+            "question": "misalkan suatu persegi diletakkan berimpitan di kanan persegi lainnya. tentukan keliling persegi yang terdiri dari : \u00a0 a. 1 persegi b.gabungan 2 persegi c.gabungan 3 persegi d.gabungan n persegi e. berikan alasan yang digunakan untuk menggeneralisasi soal butir d !",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "coba dilihat dan\u00a0dipelajari",
+                    "attachments": [
+                        "answer-attachments/misalkan-suatu-persegi-diletakkan-berimpitan-di-kanan-persegi-lai-846-1.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "jika-naik-bentor-dheni-akan-sampai-di-sekolah-dalam-waktu-45-men-905",
+            "question": "jika naik bentor, dheni akan sampai di sekolah dalam waktu 45 menit dengan kecepatan rata-rata bentor 20 km/jam. berapa kecepatan rata-rata bentor agar dheni sampai di sekolah dalam waktu 30 menit?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "kecepatannya menjadi 30 km / jam<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "ini-soalnya-tentang-perbandingan-berbalik-nilai-dheni-akan-sam-235",
+            "question": "Ini soalnya tentang perbandingan berbalik nilai :)    Dheni akan sampai disekolah dalam waktu 45 menit,dengan kecepatan rata-rata 20km/jam\r\nBerapa kecepatan rata-rata agar dheni sampaai disekolah dalam waktu 30 menit ?\r\n\r\n\r\ntolong dijwab ya,sama caranya,nanti aku jadika solusi terbaik",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "\u00a0\u00a0 \u00a0 \u00a0 t\u00a0 \u00a0 \u00a0 \u00a0\u00a0  \u00a0 \u00a0 \u00a0 \u00a0 v<br>\u00a0\u00a0 \u00a0  45\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 20<br>\u00a0\u00a0 \u00a0  30\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 x<br><br>45<u></u>/30 = x/20<br>30x\u00a0  =\u00a0  900<br>x\u00a0 \u00a0 = 30 km/jam<br><br>kalo waktunya diubah dari menit ke jam jg, hasilnya tetep sama. semoga bener.<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "dik : waktu1 = 45 menit ,dengan v1= 20 km/jam<br>\u00a0 \u00a0 \u00a0 \u00a0 waktu 2=30 menit ,dengan v2 = ..?<br><br>logikanya jika 20 km/jam sampainya 45 menit,maka jarak tempat yang akan dituju<br>= (45 menit ubah ke jam dulu) lalu di kali 20km.jam<br>= 3/4 jam . 20 km/jam<br>= 15 km (jarak total)<br><br>maka untuk sampai dalam waktu 30 menit,kecepatan yang dibutuhkan adalah<br>jarak total = waktu. kecepatan<br>15 km = 1/2 jam(ubah kejam yang 30 menit td) . kecepatn<br>15 km/1/2 jam)= kecepatan<br>30 km/jam = kecepatn :)<br><br>cara ke dua perbandingan berbalik nilai<br>45/30 = x/20<br>45.20 = 30.x<br>900=30 x<br>900/30 = x<br>30 km/jam = x :)<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "amir-berlatih-naik-mobil-dengan-mengelilingi-lintasan-berbentuk-l-863",
+            "question": "Amir berlatih naik mobil dengan mengelilingi lintasan berbentuk lingkaran berjari jari 15 m. Tentukanlah jarak yang ditempuh amir untuk:    a. 1 kali putaran\r\n b.1,5 putaran \r\n c. 2 putaran\r\n d. 2 3/4 putaran",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Lintasan=keliling<br>2r=d=15<br>A)Kell.=\u03c0\u00b7d<br>\u00a0\u00a0  =3,14\u00b730.1<br>\u00a0\u00a0 =<strong>94,2<br></strong>B)Kell.=\u03c0\u00b7d<br>\u00a0\u00a0 =3,14\u00b730\u00b71,5<br>\u00a0\u00a0 =<strong>141,3</strong><br>C)kell.=\u03c0\u00b7d<br>\u00a0\u00a0 =3,14\u00b730\u00b72<br>\u00a0\u00a0 =<strong>188,4</strong><br>D)kell.=\u03c0\u00b7d<br>\u00a0\u00a0 =3,14\u00b730\u00b72 3/4<br>\u00a0\u00a0 =<strong>141,3</strong><br><br><strong></strong>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "ubahlah-masalah-nyata-berikut-ke-dalam-bentuk-pertidaksamaan-lini-273",
+            "question": "Ubahlah masalah nyata berikut ke dalam bentuk pertidaksamaan linier 1 variabel:    a.Sebuah bus dapat mengangkut tidak kurang dari 60 orang penumpang\r\nb.Jarak rumah beni ke sekolah lebih dari 100 m\r\nc.Penghasilan ibu Monika tidak lebih dari Rp.2.000.000 setiap bulan\r\nd.Sebuah pesawat berada di ketinggian tidak kurang dari 3.000 kaki di atas permukaan laut\r\ne.Kecepatan udin berkendara tidak lebi dari 50 km/jam",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "banyak penumpang bus = a<br>a\u226560<br>jarak rumah beni ke sekolah dalam meter = b<br>b&gt;100<br>penghasilan ibu mona dalam rupiah = c<br>c\u22642.000.000<br>ketinggian pesawat diatas permukaan laut = d<br>d\u22653000<br>kecepatan udin berkendara dalam km/jam = e<br>e\u226450<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "3x6-2x8-10-tolon-dong-yang-bisa-756",
+            "question": "3(x+6) = 2(x+8)-10\u00a0\r\ntolon dong\u00a0yang bisa",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "3x+18 = 2x+16-10<br>3x-2x = 16-10-18<br>x = -12<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "3(x+6) = 2(x+8) -10<br>3x + 18 = 2x + 16 -10<br>3x - 2x = 6 - 18<br>x = -12<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-mobil-memerlukan-bahan-bakar-12-liter-untuk-menempuh-jarak-612",
+            "question": "sebuah mobil memerlukan bahan bakar 12 liter untuk menempuh jarak 120 km dengan kondisi mendatar 84 km dan sisanya menanjak. pada saat menanjak bahan bakar yang diperlukan 2 kali lipat\u00a0daripada jalan mendatar. jika suatu ketika mobil tersebut menempuh jarak 312 km dengan kondisi jalan mendatar saja,maka\u00a0banyak bahan bakar yang diperlukan?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "12 L\u00a0 untuk 120 km<br>bahan bakar utk 312 km ?<br><br><u>12</u> = <u>120</u><br>x\u00a0\u00a0 = 312<br><br>120 x = 312 x 12<br>120 x = 3744<br>x = 3744 \u00f7 120<br>x = 31,2<br>maka bahan bakar yang dibutuhkan 31,2 L<br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

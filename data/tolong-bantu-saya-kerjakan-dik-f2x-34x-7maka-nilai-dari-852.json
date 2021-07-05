@@ -1,0 +1,130 @@
+{
+    "question": "Tolong Bantu saya kerjakan\u00a0 \r\nDIK=\u00a0 f(2x-3)=4x-7,maka nilai dari F(17)-F(7) adalah...",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "f(17) = 117\u00a0<br>f(7) = 37\u00a0<br>jadi hasilnya 80. kalo enggak salah yaaa",
+            "attachments": []
+        },
+        {
+            "answer": "f = 4(2x-3) - 7<br>\u00a0= 8x - 12 - 7<br>\u00a0= 8x - 19<br>f 17 = 8(17) - 19 = 117<br>f 7 = 8 (7) - 19 = 37<br><br>nilai f17-f7 = 117 - 37 = 80<br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "jika-siswa-direlasikan-dengan-tanggal-kelahirannya-apakah-relas-900",
+            "question": "jika siswa direlasikan dengan tanggal kelahirannya , apakah relasi itu merupakan fungsi ? berikan penjelasannya ??",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "tdak karena tdAK MENutup kemungkinan terdapat kesamaan tanggal lahir",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "buatlah-contoh-soal-barisan-dan-deret-aritmatika-dalam-teknologi-634",
+            "question": "Buatlah contoh soal barisan dan deret aritmatika dalam teknologi informasi",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Barisan aritmatika:<br>Hitung suku ke-n,<br>1)3,8,13,18............ U50<br>2)24,21,18..............U20<br><br>Deret aritmatika:<br>5,8,11,14<br>Tentukan:<br>a.Suku yg ke -20<br>b. jumah bilangan sampai suku yang ke 20(Sn)<br><br>Semoga membantu.<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tuliskan-persamaan-x-y3-258",
+            "question": "Tuliskan persamaan {x-y=3}    \u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 {3x-2y=16} dalam bentukan matriks , lalu tentukan nilai 2x+5y",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "x - y = 3<br>3x -2y = 16<br><br>2x - 2y = 6<br><u>3x - 2y = 16</u> _<br><u></u>-x\u00a0 \u00a0 \u00a0 \u00a0 = -10<br><br>10 - y = 3<br>\u00a0\u00a0 \u00a0\u00a0 y = 7<br><br>2x +5y =<br>2*10 + 5*7 = 55<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-rumus-suku-n-dari-barisan-bilangan-aritmatika-jika-suku-549",
+            "question": "tentukan rumus suku n dari barisan bilangan aritmatika jika suku ke delapan sama dengan 18 dan suku ke lima belas sama dengan 46",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "U8 = 18<br>U15 = 46<br>Un?<br>Un = a+(n-1)b<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-b-dan-c-dan-determinan-dari-matriks-bc-adalah-k-885",
+            "question": "diketahui B =\u00a0, dan C = dan determinan dari matriks B.C adalah K. jika garis 2x - y = 5 dan x + y = 1 berpotongan di titik A, maka persamaan garis melalui A dan bergradien K adalah...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "det B = -2<br>det C = -6<br>K = det B . det C = -2 . -6 = 12<br><br>eliminasi y<br><span>2x - y = 5<br>x + y = 1<br></span>3x = 6<br>x = 2<br><br>subs ke x + y = 1<br>2 + y = 1<br>y = -1<br><br>(x, y) = (2, -1)<br>persamaan baru dengan gradien 12<br>y = 12x - 25",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "gimana-cara-faktorin-persamaan-pangkat-3-548",
+            "question": "gimana cara faktorin persamaan pangkat 3?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "pake cara horner <br>3 | 1\u00a0 \u00a0\u00a0 -6 \u00a0 \u00a0 \u00a0 -9 \u00a0\u00a0 \u00a0  54 <br>\u00a0\u00a0 |_____3____-9___-54____ <br>\u00a0\u00a0 \u00a0 1\u00a0 \u00a0  -3\u00a0 \u00a0 \u00a0 \u00a0 -18\u00a0 \u00a0  0 <br>\u00a0\u00a0 \u00a0 x\u00b2 -3x - 18 = (x - 6) (x + 3) <br>jadi didapat faktornya adalah <br>(x - 3) (x + 3) (x - 6) <br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-persamaan-bidang-yang-melalui-titik-titik-p-321-557",
+            "question": "Tentukan persamaan bidang yang melalui\u00a0titik- titik\u00a0P ( 3,2,1,); Q ( 4,1,5 ); R ( 2,4,3 )",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "3x + 2y + z = 0\u00a0 \u00a0 <br>4x + y + 5z = 0<br>2x + 4y + 3z = 0<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dik-fx12-x22-dan-gx-x10-fungsi-komposisi-f-lingkaran-199",
+            "question": "Dik: f(x)=1/2 x2+2 dan g(x) = x+10 fungsi komposisi (f lingkaran g) (x)=..........................",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]f o g(x) =  \\frac{1}{2} ( x^{2} +20x+100)+2=   \\frac{1}{2}x^{2} +10x+50+2 \\\\  \\\\ \\frac{1}{2}x^{2} +10x+52[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "3-bilangan-membentuk-barisan-geometri-jumlah-ke-3-bilangan-tsb-ad-686",
+            "question": "3 bilangan membentuk barisan geometri jumlah ke-3 bilangan tsb adalah 14, dan hasil kalinya adalah 64.tentukan 3 bilangan tsb?    dengan cara barisan geometri!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "U\u2081 x U\u2082 x U\u2083 = 64 <br>sifat barisan geometri : U\u2081 x U\u2083 = U\u2082\u00b2 <br>maka didapat : U\u2082\u00b3 = 64 ----&gt; U\u2082 = 4 dan U\u2081 x U\u2083 = 16 ..... pers (1)<br>U\u2081 + U\u2082 + U\u2083 = 14<br>U\u2081 + 4 + U\u2083 = 14 ----&gt; U\u2081 + U\u2083 = 10 ......pers (2) <br>dari pers 1 dan pers 2 didapat bilangan yang hasil kalinya 16 dan hasil jumlahnya 10 adalah 2 dan 8 <br>jadi bilangan yang dimaksud adalah 2 , 4 dan 8 <br><br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "ketiga bilangan tersebut adalah 2,4,8<br>\u00a0dengan rasio = 2",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "deret-4-10-16-k-374-jadi-tentukan-nilai-k-adalah-338",
+            "question": "Deret 4 + 10 +16 +.....+k = 374. Jadi tentukan nilai K adalah...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]a=4,b=4,U_n=k\\\\\nU_n=a+(n-1)b\\\\\nk=4+(n-1)6\\\\\n\\frac{k-4}{6}+1=n\\\\\n\\frac{k-4+6}{6}=n\\\\\n\\frac{k+2}{6}=n\\\\\n\nS_n=\\frac{n}{2}(a+U_n)\\\\\n374=\\frac{\\frac{k+2}{6}}{2}(4+k)\\\\\n374=\\frac{k+2}{12}(4+k)\\\\\n4488=(k+2)(k+4)\\\\\nk^2+6k+8=4488\\\\\nk^2+6k-4480=0\\\\\nk_{1,2}=\\frac{-6 \\underline{+}\\sqrt{6^2-4(1)(-4480)}}{2}\\\\\nk_{1,2}=\\frac{-6 \\underline{+}\\sqrt{17956}}{2}\\\\\nk_{1,2}=\\frac{-6 \\underline{+}134}{2}\\\\\nk_{1,2}=-3 \\underline{+}67\\\\k_1=-3+67=64\\\\k_2=-3-67=-70(tidak memenuhi)[/tex]",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,132 @@
+{
+    "question": "Jumlah suku 4 dan suku ke 7 barisan aritmatika sama dengan 67 sedangkan suku ke 10 adalah 65 tentukan a.suku ke n    \u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 b.suku ke 20",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "U\u2084 + U\u2087 = 67 ---&gt; a + 3b + a + 6b = 67 ---&gt; 2a + 9b = 67 ......pers(1) <br>U\u2081\u2080 = 65 ----&gt; a + 9b = 65 ---&gt; 2a + 18b = 130 ........ pers (2) <br>(1) dan (2) ieliminasi <br>2a + 18b = 130<br>2a +\u00a0 9b = 67 <br>--------------------------- -<br>\u00a0 \u00a0 \u00a0 \u00a0 9b = 63 --------&gt; b = 7 , a = 2 <br>a. Un = a + (n - 1)b<br>\u00a0\u00a0  \u00a0 \u00a0\u00a0  = 2 + (n - 1)7<br>\u00a0\u00a0 \u00a0\u00a0 \u00a0 = 2 + 7n - 7 <br>\u00a0\u00a0 \u00a0\u00a0  \u00a0 = 7n - 5 <br>b. U\u2082\u2080 = 7(20) - 5 <br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 140 - 5 = 135 <br><br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "jika-barisan-5-8-11125-punya-suku-tengah-ut-maka-t-ut-310",
+            "question": "Jika barisan 5, 8, 11........125 punya suku tengah Ut maka t + Ut adalah    mnta tolong yha kl ada yg bsa bntuin\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a= 1, Un=131<br>\u00a0Ut= 1/2(a+ Un)<br>\u00a0\u00a0\u00a0 =1/2(5+131)<br>\u00a0\u00a0\u00a0 =1/2(136)<br>\u00a0\u00a0\u00a0 = 68<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "rata-rata-berat-badan-apri-danbambang-49-kg-rata-rata-apri-dan-489",
+            "question": "Rata-rata berat badan Apri danBambang 49 kg . Rata-rata apri dan cici 47 kg sedangkan rata-rata b ambang dan Cici 48 kg . Berapakah rata-rata berat bambang apri ,bambang dan cici .??\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "apri = x<br>bambang = y<br>cici = z<br><br>x+y = 98<br>x+z = 94<br>y+z= 96<br><br>x+y= 98<br><u>x+z = 94</u> -<br>y-z= 4<br><br>y+z= 96<br><u>y-z= 4</u> -<br>2z = 92<br>z= 46<br><br>y+z = 96<br>y+46=96<br>y= 40<br><br>x+y= 98<br>x+40=98<br>x= 48<br><br>(46+48+40) : 3 =45 kg<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1aisyah-memiliki-sebuah-kain-yang-berbentuk-persegipanjang-ia-b-910",
+            "question": "1.Aisyah memiliki sebuah kain yang berbentuk persegipanjang. Ia berencana menghias sekeliling kain tersebut dengan renda. Jika ternyata renda yang diperlukan Aisyah paling sedikit 450 cm, perkirakan ukuran kain yang dimiliki Aisyah!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "sisi 2. panjang\u00a0 + 2. lebar .. menurut ku sisi yang panjang = 150.2= 300 dan lebarnya 75.2=150 sehingga kelilingnya = 300+150=450<br><br>lalu luasnya adalah panjang.lebar = 150.75=11.250<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-y-2-cos-x-1-dari-030609012015018021024-743",
+            "question": "Tentukan\u00a0\r\ny = 2 cos x + 1\u00a0\r\ndari : 0,30,60,90,120,150,180,210,240,270,300,330,360 \u00a0(derajat)\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "2 cos x+1=0<br>2cos x=-1<br>cos x = - 1/2<br>cos yang bernilai 1/2 adalah 60 secara umum<br>diketahui dari soal nilainya minus berarti di kuadran 2 dan 3<br><br>yaitu 120 dan 240",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-sebuah-talang-air-dari-lembaran-seng-yang-lebarnya-30-c-350",
+            "question": "Diketahui sebuah talang air dari lembaran seng yang lebarnya 30 cm dengan melipat lebarnya atas 3 bagian, seperti gambar dibawah    ditanyakan : a. ukuran x ?\r\n\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0b. volume air maks yg dapat ditampung ?",
+            "attachments": [
+                "question-attachments/diketahui-sebuah-talang-air-dari-lembaran-seng-yang-lebarnya-30-c-350-1.png"
+            ],
+            "answers": [
+                {
+                    "answer": "X= 10\u00a0<br>V=\u00a0[tex] 10^{3} [/tex]=1000cm3",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jelaskanapa-yg-dimaksud-invers-941",
+            "question": "Jelaskanapa yg dimaksud invers ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Invers biasanya merupakan lawan dari sesuatu.<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Invers secara umum artinya lawan dari sesuatu hal.<br><br>dalam matematika, invers itu sering disebut fungsi kebalikan.<br>yang apabila suatu fungsi misalnya f, inversnya ditulis[tex]f^{-1} [/tex]<br><br>sifat khusus dari invers<br>[tex]f. f^{-1} =1[/tex]<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tinggi-badan-andi-kurang-3cm-dari-tinggi-badan-johan-sedangkan-j-232",
+            "question": "tinggi badan andi kurang 3cm dari tinggi badan johan, sedangkan jumlah tinggi badan kedua orang tersebut 329 cm. bentuklah persamaan dalam x kemudian selesaikan!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "johan \u00a0= x\u00a0<br>andi = x - 3\u00a0<br>x + ( x - 3 ) = 329<br>2x - 3 = 329<br>2x = 332<br>x = 166<br>johan = 166\u00a0<br>andi = x - 3 = 166-3 = 163<br>jika disesuaikan\u00a0<br>andi + johan harus = 329<br>163 + 166 = 329<br>329 = 329",
+                    "attachments": []
+                },
+                {
+                    "answer": "[tex]andi=x, johan=y\\\\\nx=y-3 \\rightarrow y=x+3\\\\\nx+y=329\\\\\nx+x+3=329\\\\\n2x=326\\\\\nx=163\\\\\ny=166[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-di-ketahui-fx-2x5-g-x-4-x-t-551",
+            "question": "1. di ketahui f(x) = 2x+5    \u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 g (x) = 4-x\r\ntentukan a. fog (x)\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 c. gof (x)\r\n\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 b. fog -1 (x)\u00a0 \u00a0 \u00a0 d. gof -1 (x)\r\n\r\ngimana caranya ni aku gx ngerti ka mohon di bantu ya\r\nmakasih",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]f(x)=2x+5\\\\\ng(x)=4-x\\\\\nfog(x)=f(g(x))\\\\\nfog(x)=f(4-x)\\\\\nfog(x)=2(4-x)+5=13-2x\\\\\n\\\\\nfog(x)=13-2x\\\\\nfog(x)-13=-2x\\\\\nx=\\frac{fog(x)-13}{-2}\\\\\nnyatakan\\ sebagai\\ fog^{-1}(x)\\\\\nfog^{-1}(x)=\\frac{13-x}{2}\\\\\\\\\ngof(x)=g(f(x))\\\\\ngof(x)=g(2x+5)=4-(2x+5)\\\\\ngof(x)=-2x-1\\\\\\\\\ngof(x)=-2x-1\\\\\ngof(x)+1=-2x\\\\\nx=\\frac{-gof(x)-1}{2}\\\\\nnyatakan\\ sebagai\\ gof^{-1}(x)\\\\\ngof^{-1}(x)=\\frac{-x-1}{2}\\\\[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "deret-geometri-dengan-u5-dan-u8-masing-masing-48-dan-384-tentuka-109",
+            "question": "Deret geometri dengan U5 dan U8 masing masing 48 dan 384.    Tentukan jumlah 9 suku pertama serta langkah2 nya.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]U_5=ar^4=48\\\\\nU_8=ar^7=384\\\\\\\\\nar^7=384\\\\\nar^4.r^3=384\\\\\n48r^3=384\\\\\nr^3=8\\\\\nr=2\\\\\nar^4=48\\\\\na(2^4)=48\\\\\n16a=48\\\\\na=3\\\\\\\\\nS_n=\\frac{a(r^n-1)}{r-1}\\\\\nS_9=\\frac{3(2^9-1)}{2-1}\\\\\nS_9=3(512-1)\\\\\nS_9=1533[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diana-mempunyai-sejumlah-uang-sebanyak-bagian-uang-tersebut-di-983",
+            "question": "Diana mempunyai sejumlah uang. sebanyak\u00a0 bagian uang tersebut digunakan untuk membeli sepatu. jika setelah membeli sepatu sisa uang Diana kurang dari Rp50.000,00 . uang Diana mula-mula ...    A. Kurang dari Rp150.000,00\r\nB. Kurang dari Rp100.000,00\r\nC. lebih dari Rp100.000,00\r\nD. Lebih dari Rp150.000,00\r\n\r\nSuatu fungsi f:R\u00a0\u21d2 R dinyatakan dengan rumus f(x) = 5x + b. Jika f(3) = 12 , rumus fungsi f(x) adalah...\r\n\r\nA. \u00a0f(x) = 5x - 7\r\nB.\u00a0 f(x) = 5x - 3\r\nC. \u00a0f(x) = 5x + 3\r\nD. \u00a0f(x) = 5x + 7",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]misal\\ jumlah\\ uang\\ awal = x\\\\dibelanjakan\\ sebanyak\\ \\frac{2}{3}x,\\ sisa\\ \\frac{1}{3}x\\\\sisa\\ uang\\ &lt;Rp50.000,00\\\\\\frac{1}{3}x&lt;Rp50.000,00\\\\x&lt;Rp150.000,00\\\\\\\\f(3)=5(3)+b=12\\\\15+b=12\\\\b=-3\\\\<span>f(x)=5x-3[/tex]</span>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

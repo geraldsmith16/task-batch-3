@@ -1,0 +1,126 @@
+{
+    "question": "PERSAMAAN LINGKARAN - xi sma tentukan persamaan lingkaran yang melalui (0,0) dengan jari2 akar 5 dan titik pusatnya terletak pada garis y= x-1 \u00a0",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "[tex]misal\\ titik\\ pusatnya\\ (a,b)\\\\\n(x-a)^2+(y-b)^2=r^2\\ melalui\\ titik\\ (0,0)\\\\\n(0-a)^2+(0-b)^2=(\\sqrt{5})^2\\\\\na^2+b^2=5\\\\\nkarena\\ (a,b)\\ berada\\ pada\\ garis\\ y=x-1,\\ maka\\\\\nb=a-1\\\\\na^2+b^2=5\\\\\na^2+(a-1)^2=5\\\\\n2a^2-2a-4=0\\\\\n(2a+2)(a-2)=0\\\\\na=-1\\ atau\\ a=2\\\\\nutk\\ a=-1,b=-2 \\rightarrow (x+1)^2+(y+2)^2=5\\\\\nutk\\ a=2,b=1 \\rightarrow (x-2)^2+(y-1)^2=5[/tex]",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "coba-tolong-dilihat-dulu-ada-yang-bisa-bantu-1-2-557",
+            "question": "Coba tolong dilihat dulu, ada yang bisa bantu?    1. \r\n2.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]\\int (4x-3)dx= \\int 4xdx-\\int 3dx\\\\\n\\int (4x-3)dx= 2x^2-3x+C\\\\\\\\\n\\int \\frac{2}{\\sqrt{2}-5}dx=\\frac{2x}{\\sqrt{2}-5}+C[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bagaimana-cara-menentukan-akar-akar-persamaan-kuadrat-baru-yang-a-112",
+            "question": "Bagaimana cara menentukan akar-akar persamaan kuadrat baru yang akar-akarnya berlawanan dan berkebalikan ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "persamaan kuadrat baru yang akar-akarnya berkebalikan<br>1.menghitung variabel baru berdasarkan rumus x1+x2=-b/a dan x1.x2=c/a<br>2.masukkan kerumus ax^2-bx+c<br>persamaan kuadrat baru yang akar-akarnya\u00a0 berlawanan<br>ubah tanda koefisien b<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "fx-12-x2-2-gx-x10-f-komposisi-g-x-318",
+            "question": "F(x) = 1/2 x^2 + 2 \r\ng(x) = x+10\r\n(f komposisi g) (x) =...... ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "fog = 1/2(x+10)^2 + 2<br>\u00a0\u00a0 \u00a0  = x^2/2 + 10x + 52<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "voulum-prisma-yang-alasnya-berbentuk-layang-layang-dengan-panjang-999",
+            "question": "voulum prisma yang alasnya berbentuk layang-layang dengan panjang diagonal 15 cm dan 12 cm serta tinggi prisma 9 cm adalah ...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "v = (1/2*15*12)*9<br>\u00a0 = 810<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "V\u00a0=\u00a0La . t<br>V\u00a0= 1/2 . 15 .12 . 9<br>V = 810 cm\u00b3",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "koordinat-titik-puncak-grafik-fungsi-kuadrat-adalah25-jika-gra-477",
+            "question": "koordinat titik puncak grafik fungsi kuadrat adalah(2,5) jika grafik fungsi kuadrat melalui titik (-1,23) maka tentukan rumus fungsi kuadrat ! tolong bantu yah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "hasilnya nti jadi 18x-3y-51=0<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "gradien-garis-dri-persamaan-3x-6y-5-yaitu-133",
+            "question": "Gradien garis dri persamaan 3x-6y=-5 yaitu ....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kelas : 8<br>Mapel : Matematika<br>Kategori :\u00a0Bab 3 - Persamaan Garis<br>Kata Kunci : persamaan garis, gradien<br>Kode : 8.2.3 [Kelas 8 Matematika Bab 3 - Persamaan Garis]<br><br>Pembahasan :<br><p>Persamaan garis lurus adalah persamaan berbentuk\u00a0<br>ax + by = c<br>dengan a, b, dan c merupakan bilangan-bilangan real, a\u00a0\u2260 0 atau b\u00a0\u2260 0.</p><br>Gradien adalah nilai yang menyatakan kecondongan suatu garis yang dinotasikan dengan m.<br><br>Garis dengan persamaan ax + by = c memiliki gradien\u00a0<br>m =\u00a0[tex]- \\frac{a}{b} [/tex]<br><br>Garis yang melalui titik P(x\u2081, y\u2081) dan Q(x\u2082, y\u2082) memiliki gradien\u00a0<br>m =\u00a0[tex] \\frac{y_2-y_1}{x_2-x_1} [/tex]<br><br>Mari kita lihat soal tersebut.<br>Tentukan gradien garis dengan persamaan 3x - 6y = -5!<br><br>Jawab :<br>Diketahui persamaan<br>3x - 6y = -5<br>\u21d4 -6y = -5 - 3x<br>\u21d4 y =\u00a0[tex] \\frac{5}{-6} [/tex] -\u00a0[tex] \\frac{3}{-6} [/tex]x<br>\u21d4 y = -[tex] \\frac{5}{6} [/tex] + [tex] \\frac{3}{6} [/tex]x<br>\u21d4 y = -[tex] \\frac{5}{6} [/tex] + [tex] \\frac{1}{2} [/tex]x<br>\u21d4 m = [tex] \\frac{1}{2} [/tex]<br><br>Jadi, persamaan 3x - 6y = -5 memiliki gradien [tex] \\frac{1}{2} [/tex].<br><br>Soal lain untuk belajar :\u00a0<br>1.\u00a0https://brainly.co.id/tugas/12602883<br>2.\u00a0https://brainly.co.id/tugas/1686609<br>3.\u00a0https://brainly.co.id/tugas/130401<br>4.\u00a0https://brainly.co.id/tugas/1398763<br>5.\u00a0https://brainly.co.id/tugas/3136258<br>6.\u00a0https://brainly.co.id/tugas/12689804<br><br>Semangat!<br><br>Stop Copy Paste!",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentang-konjungsi-dik-pxx3-x0-qx-8-9lt0-dit-tentu-592",
+            "question": "Tentang konjungsi    dik : p(x)=x\u00b3-x=0 ; q(x)= 8-9&lt;0\r\ndit : tentukan nilai x agar p\u2227q bernilai benar dan bernilai salah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "di cari dulu persamaannnya mbak \"D<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "transpos-matriks-m-adalah-tolong-dijelaskan-230",
+            "question": "Transpos matriks M adalah ...\r\ntolong dijelaskan..",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "gol indonesia menang 3gol dari ac milan<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-jelaskan-pembuktian-dari-1-p-q-p-q-963",
+            "question": "Tolong jelaskan pembuktian dari 1.\u00a0~(p\u00a0\u2227 q)\u00a0\u2261 ~p\u00a0\u2228 ~q. 2. ~(p\u00a0\u2228 q)\u00a0\u2261 ~p\u00a0\u2227 ~q",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "pembuktiannya dengan tabel nilai kebenaran ( B &amp; S)<br><br><span>(p\u00a0\u2227 q) nilainya nanti BSSS<br></span><span>~p\u00a0\u2228 ~q nilainya nanti SBBB<br></span>makanya terbukti bahwa\u00a0ingkaran dari\u00a0(p\u00a0\u2227 q) adalah\u00a0\u00a0~p\u00a0\u2228 ~q<br><br>samahalnya dengan yang kedua",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "hitunglah-jumlah-25-suku-pertama-bilangan-ganjil-yang-pertama-dar-552",
+            "question": "Hitunglah jumlah 25 suku pertama bilangan ganjil yang pertama dari bilangan asli?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1,3,5.......... ampe yg ke 47, 49<br>U13= 25<br><br>total nya adalah<br><br><br>=(49+1)/2 x 12+25<br>=25x12+25<br>=325<br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

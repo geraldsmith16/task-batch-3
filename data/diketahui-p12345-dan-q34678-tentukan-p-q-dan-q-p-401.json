@@ -1,0 +1,142 @@
+{
+    "question": "Diketahui P={1,2,3,4,5} dan Q={3,4,6,7,8}\r\ntentukan P-Q dan Q-P",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "Q-P= 6,7,8<br>P-Q= 1,2,5<br><br>",
+            "attachments": []
+        },
+        {
+            "answer": "p-q = 1,2,5<br>q-p = 6,7,8",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "jumlah-uang-kk-dan-adik-rp180ribu-jika-uang-kk-3kali-uang-adik-t-326",
+            "question": "Jumlah uang kk dan adik rp.180ribu    jika uang kk 3kali uang adik\r\n\r\n tentukan perbandingan uang kk dan adik",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "perbandingan uang kakak dan adik = 3 : 1",
+                    "attachments": []
+                },
+                {
+                    "answer": "uang kk : uang adik = 3:1 :)",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "nilai-k-yang-memenuhi-persamaan-1-2kk-3-adalah-855",
+            "question": "Nilai k yang memenuhi persamaan 1-2k=k-3 adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "nilai k yang memenuhi 1-2k = k-3<br>\u00a0=\u00a0 1 + 3 = k + 2k<br>\u00a0= 4 = 3k<br>\u00a0k = 4/3<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0",
+                    "attachments": []
+                },
+                {
+                    "answer": "-2k-k\u00a0=\u00a0-3-1<br>-3k \u00a0= -4<br>k = 4/3<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-suku-ke-5-dan-suku-ke-8-barisan-aritmetika-masing-masin-963",
+            "question": "diketahui suku ke-5 dan suku ke-8 barisan aritmetika masing masing 16 dan 25 . jumlah 22 suku pertama ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]U_{8} - U_{5} = a + 7b - (a + 4b) = 9 \\\\ 3b = 9 \\\\ b = 3, a = 4 \\\\ S_{22} =  \\frac{22}{2}(8+63) = 11.71 = 781 [/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "seorang-walikota-merencanakan-membuat-taman-rekreasi-berbentuk-li-127",
+            "question": "Seorang walikota merencanakan membuat taman rekreasi berbentuk lingkaran dengan diameter 1.400 m. Oleh karena kurang dana, dalam realisasinya hanya dibangun taman dengan diameter 700 m. Berapa persen biaya yang dapat dihemat dari biaya pembebasan tanah untuk taman itu dari rencana semula?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "50% <br><br>Maaf kalo salah yaaa<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "karena 700 itu setengah dari 1400 berarti dana yang di hemat juga setengahnya atau 50%",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "andi-dapat-menyelesaikan-pekerjaan-dalam-waktu-3jam-sedangkan-bu-213",
+            "question": "Andi dapat menyelesaikan pekerjaan dalam waktu 3jam, sedangkan budi dapat menyesaikan pekerjaan dalam waktu 2jam. Jika Andi dan Budi menyelesaikan pekerjaan tersebut bersama sama ,maka hitunglah waktu yang di perlukan keduanya ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "andi = 3 jam<br>budi = 2 jam<br><br>3-2 = 1<br><br>jadi jawabanya 1 jam<br><br>sorry, tadi salah baca soal",
+                    "attachments": []
+                },
+                {
+                    "answer": "Andi = 3 jam<br>Budi = 2 jam<br>Selisih = 3-2 = 1 jam.<br>Karena mereka mengerjakannya bersama-sama maka waktunya cuma 1 jam.\u00a0<br>Maaf klo salah",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "ubahlah-pertidaksamaan-linear-berikut-ke-dalam-permas-389",
+            "question": "Ubahlah\u00a0\u00a0pertidaksamaan\u00a0\u00a0linear\u00a0berikut\u00a0ke\u00a0\u00a0dalam\u00a0permasalahan\u00a0kehidupan\u00a0\u00a0sehari-hari.    a.\u00a02x\u00a0+\u00a03\u00a0&gt;\u00a04\r\nb.\u00a05a\u00a0\u2013\u00a01\u00a0\u2265\u00a06\r\nc.\u00a07\u00a0&gt;\u00a03x",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>a.\u00a02x\u00a0+\u00a03\u00a0&gt;\u00a04<br>2x &gt; 4-3<br>2x &gt; 1<br>x &gt; 1/2<br><br>b.\u00a05a\u00a0\u2013\u00a01\u00a0\u2265\u00a06<br>[5a] \\geq [6+1]<br>[5a] \\geq [7]<br>[a] \\geq [7/5]<br><br>c.\u00a07\u00a0&gt;\u00a03x</span><br>7/3 &gt; x<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "carilah-faktor-dari-x-pangkat-6-14x-pangkat-4-49x-pangkat-2-478",
+            "question": "Carilah faktor dari x pangkat 6 - 14x pangkat 4 + 49x pangkat 2 - 36\r\nTolong bantuin ya...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex](x-3)(x+3(x-2)(x+2)(x-1)(x+1)[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "perbaikan-jalan-akan-selesai-dikerjakan-dalam-waktu-3-bulan-1-b-335",
+            "question": "Perbaikan jalan akan selesai dikerjakan dalam waktu 3 bulan ( 1 bulan=30 hari),jika dikerjakan oleh 16 orang tenaga.setiap hari minggu (1 bulan ada 5 hari minggu) buruh libur bekerja.Berapa orang buruh pekerja yang harus ditambah agar jalan tersebut tetap selesai tepat waktu ?    make caranya ya,nanti aku jadikan solusi terbaik :)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "waktu (hari)\u00a0 \u00a0 \u00a0 \u00a0  pekerja<br>90\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 16<br>75\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 16 + x<br><u><br></u>90/75\u00a0 =16+x/16<br>(75 x 16) + 75x = 90 x 16<br>1200 + 75x = 1440<br>75x =240<br>x = 3.2 orang (3 orang)<br><br>menurut saya sih kayak gini ya. maaf kalo salah.<br><u></u>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-peta-berskala-1-10000000-jarak-kota-jambi-dan-palemba-564",
+            "question": "Sebuah peta berskala 1 : 10.000.000. Jarak kota Jambi dan Palembang pada peta jaraknya 2, 4 cm. Seorang sopir bis berangkat dari kota Jambi menuju kota Palembang dengan kecepatan rata-rata 80 km per jam. Selama perjalanannya ia berhenti istirahat sebanyak 1 kali selama 30 menit. Ia tiba di kota Palembang pukul 10.30 WIB.\u00a0    A. Berapa jam bis itu diperjalanan?\r\nB. Pukul berapa sopir bis itu berangkat dari kota Jambi?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Jarak Sebenarnya = 2,4\u00a0\u00d7 10.000.000<br>= 24.000.000 cm / 240 km<br>Waktu yang dibutuhkan untuk tiba di palembang tanpa istirahat =<br>240 : 80 = 3 jam<br>Dengan istirahat = 3 jam 30 menit<br>A. Di perjalanan membutuhkan waktu 3 jam (apabila istirahat tidak dihitung) dan 3 jam 30 menit (apabila istirahat dihitung)<br>B. Sopir berangkat pada pukul =<br>10.30 - 3.30 = 7.00<br>Semoga betul dan bermanfaat ^^",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "irsan-adalah-seorang-agen-minyak-tanahdia-membeli-500-liter-miny-696",
+            "question": "irsan adalah seorang agen minyak tanah.dia membeli 500 liter minyak,kemudian dijual eceran dengan harga 11.500,00 tiap liter.untung yang diperoleh \u00a0irsan adalah 200.000,00.berapa rupiahkah yang harus dikeluarkan irsan untuk membeli minyak tanah tersebut ? tolong dijawab bingung nih !",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Harga jual = 11.500 x 500 = 5.750.000<br>untung = 200.000<br>jadi, harga belinya = 5.750.000 - 200.000 = 5.550.000<br><br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

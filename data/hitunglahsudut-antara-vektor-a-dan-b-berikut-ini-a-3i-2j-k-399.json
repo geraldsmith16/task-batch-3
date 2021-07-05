@@ -1,0 +1,142 @@
+{
+    "question": "Hitunglahsudut antara vektor A dan B berikut ini,\r\n\r\nA = 3i - 2j + k\r\nB = 4i - 3j +2k",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "cos a= a.b/panjanga xpanjangb<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0=(12+6+2)/\u221a14\u221a29",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "tentang-konjungsi-dik-pxx3-x0-qx-8-9lt0-dit-tentu-592",
+            "question": "Tentang konjungsi    dik : p(x)=x\u00b3-x=0 ; q(x)= 8-9&lt;0\r\ndit : tentukan nilai x agar p\u2227q bernilai benar dan bernilai salah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "di cari dulu persamaannnya mbak \"D<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-persamaan-kuadrat-x2-2kx-3k-2-0-a-tentukan-dis-604",
+            "question": "Diketahui persamaan kuadrat x\u00b2 - 2kx + 3k -2 = 0    a. Tentukan diskriminannya\r\nb. Tentukan nilai k agar persamaan kuadrat tersebut memiliki\r\n\u00a0 1) dua akar real berbeda\r\n\u00a0 2) dua akar real sama\r\n\u00a0 3) dua akar tidak real",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]x^2-2kx+3k-2=0\\\\ D=b^2-4ac=(-2k)^2-4(1)(3k-2)\\\\ D=4k^2-12k+8\\\\ D=4(k^2-3+2)\\\\ D=4(k-1)(k-2)\\\\\\\\ 1)\\ 2\\ akar\\ real\\ berbeda\\ (D&gt;0)\\\\ 4(k-1)(k-2)&gt;0\\\\ (k-1)(k-2)&gt;0\\\\ k&lt;1\\ atau\\ k&gt;2\\\\\\\\ 2)\\ 2\\ akar\\ real\\ kembar\\ (D=0)\\\\ 4(k-1)(k-2)=0\\\\ (k-1)(k-2)=0\\\\ k=1\\ atau\\ k=2\\\\\\\\ 3)\\ 2\\ akar\\ imajiner\\ D(&lt;0)\\\\ 4(k-1)(k-2)&lt;0\\\\ (k-1)(k-2)&lt;0\\\\ 1&lt;k&lt;2 [/tex]",
+                    "attachments": []
+                },
+                {
+                    "answer": "b^2-4.a.c=0<br>(-2k)^2-4.1.(3k-2)=0<br>4k^2-12k+8=0<br>maka, difaktorkan menjadi<br>(k-1)(4k-8)<br>maka bil. diskriminannya adalah...<br>1 atau 2<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-jumlah-n-suku-pertama-suatu-deret-aritmatika-dirumuskan-492",
+            "question": "Diketahui jumlah n suku pertama suatu deret aritmatika dirumuskan Sn=4n\u00b2-3n. Tentukan suku ke-2n deret aritmatika tersebut!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>Dik : Sn=4n\u00b2-3n<br>Dit : U2 =.. ?<br>Jawab :</span><br><span><span>a = U1 = S1 = 4(1)\u00b2-3(1)</span> = 4 - 3 = 1</span><br><span>S2 = 4(2)\u00b2-3(2) = 16 - 6 = 10<br><br>S2 = U1 + U2<br>10 = 1 + U2<br>U2 = 10 - 1<br>U2 = 9<br></span><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-ab-dan-c-adl-sudut2-pda-sebuah-segtiga-dan-nilai-dari-tan-367",
+            "question": "jika A,B, dan C adl sudut2 pda sebuah segtiga dan nilai dari tan A = 4, tan B = 3, maka nilai dari tan C=.......?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]A,\\ B\\ dan\\ C\\ merupakan\\ sudut2\\ dlm\\ segitiga,\\ maka\\\\\nA+B+C=180^{o}\\\\\nA+B=180^{o}-C\\\\\nTan(A+B)=Tan(180^{o}-C)\\\\\n\\frac{Tan A+Tan B}{1-TanATanB}=-TanC\\\\\n\\frac{4+3}{1-4(3)}=-TanC\\\\\n\\frac{7}{-11}=-TanC\\\\\nTanC=\\frac{7}{11}\n[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "hasil-penjumlahan-suku-ke-4-dan-suku-ke-8-sebuah-barisan-aritmeti-975",
+            "question": "Hasil penjumlahan suku ke 4 dan suku ke 8 sebuah barisan aritmetika adalah -46. Suku terakhir barisan tersebut adalah 47. Tentukan : A.suku ke 6...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Un = a + (n-1)b<br><br>U\u2084 + U\u2088 = -46<br>(a + 3b) + (a + 7b) = -46<br><strong>2a + 10b = -46 \u00a0</strong>dibagi 2 \u00a0=\u00a0<strong>a + 5b = -23<br><br><br>a+ 5b =\u00a0U</strong>\u2086 = -23<strong><br><br></strong>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-penyelesaian-dan-himpunan-penyelesaian-dari-x-8-6-153",
+            "question": "Tentukan penyelesaian dan himpunan penyelesaian dari x + 8 = 6",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "x + 8= 6<br>x= 6-8<br>x=-2<br>maaf hanya ini jawaban a ga tw bener ap ga, semoga aj bener ea<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "x+8= 6<br>x= 6-8<br>\u00a0 = -2<br>Kalau persamaan itu hanya ada satu penyelesaian. Jadi, jawabannya -2.<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suatu-kotak-berisi-5-kelereng-merah-dan-3-kelereng-putihdua-kele-757",
+            "question": "suatu kotak berisi 5 kelereng merah dan 3 kelereng putih.dua kelereng di ambil satu persatu tanpa pengembalian kelereng pertama kedalam kotak.peluang terambilnya kelereng pertama\u00a0dan kedua berwarna merah adalah?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "klu ndasalh 1/4<br><br>maaf klau slahhhh<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "5\u00d73= 15<br>15:5 = 3<br>5= ADALAH kelereng pertama berwarna merah<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "untuk-membangun-2-ruang-kelas-butuh-15-orang-pekerja-dalam-waktu-370",
+            "question": "Untuk membangun 2 ruang kelas\u00a0butuh 15 orang pekerja dalam waktu 50 hari, setelah 20 hari\u00a0berjalan terhenti karena suatu sebab selama 5 hari. berapa tambahan pekerja agar tetap selesai dalam waktu 50 hari ?    hayo siapa yang bisa,\u00a0tolong ya teman-teman saya lupa maaf nih..",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "50 hari = 15 pekerja<br><br>setellah bekerja 20 hari,sisa<br>30 hari = 15 pekerja yang selesaikan<br><br>libur 5 hari<br>25 hari = x orang<br><br>jawab:<br>30 / 25 = x / 15<br>30 \u00d7 15 = 25x<br>450 = 25x<br>18 orang = x<br><br>jumlah yang harus ditambah:<br>18 - 15 = 3 orang<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-titik-a-1-2-8-titik-b-3-4-0-jika-vektor-ab-960",
+            "question": "diketahui titik a= 1, -2, -8 titik b= 3, -4, 0. jika vektor AB= -3 vektor PB dan P terletak pada perpanjangan AB, maka tentukan vektor P.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "-8,3,0 klo gk slah sih kaya gitu",
+                    "attachments": []
+                },
+                {
+                    "answer": "Vektor P = -8, 0 , 3<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-himpunan-penyelesaian-dari-persamaan-berikut-w-961",
+            "question": "Tentukan himpunan penyelesaian dari persamaan berikut : w",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "himpunan semesta yg mungkin darin ( balok, kubus ) adalah",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span>3^(4x+1) \u2013 8. 3^(x-3) = 0</span>\n<br><span><span>=&gt;\u00a0</span>(3^x)^4.3 \u2013 8. (3^x).3^(-3)\n= 0 <br></span><span><span>=&gt;\u00a0\u00a0</span>3.(3^x)^4 \u2013 8/27 (3^x)\n= 0 , misalkan: y = 3x</span>\n<br><span>=&gt;\u00a03y^4 \u2013 8/27 y = 0 =&gt; y (3y^3\n\u2013 8/27) = 0 =&gt; y=0 (tidak memenuhi) dan<br></span><span>=&gt;\u00a03y^3 \u2013 8/27 =0</span>\n<br><span>=&gt;\u00a03y^3 = (2/3)^3 =&gt; y^3\n= 3^(-1).(2/3)^3</span>\n<br><span>\u00a0=&gt; Y\u00a0= 3^(-1/3).(2/3) =&gt; y = 2. 36(-4/3)<br></span>\n\n<span>Dari pemisalan: y = 3^x</span>\n\n<span>Diperoleh: 2.3^(-4/3) = 3^x =&gt; log 2. 3^(-4/3)\n= log 3^x</span>\n\n<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 log\n2 + log 3^(-4/3) = x log 3 <br>=&gt; log 2 + (-4/3)log 3 = x log 3</span>\n\n<span>jadi\u00a0 x = <u>( log\n2 + (-4/3)log 3)</u> = <strong>log 2/log 3 \u2013 4/3</strong> </span><span>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 log 3<br><br></span>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

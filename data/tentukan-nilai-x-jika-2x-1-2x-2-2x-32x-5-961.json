@@ -1,0 +1,136 @@
+{
+    "question": "Tentukan nilai x, jika (2x + 1) + (2x + 2) + (2x + 3)+...+(2x + 50) = 4275. Tolong dijawab yaa, pleaseee",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "jawabannya 30<br><br>Sn = n/2 { a +Un } = 4275<br>&gt; 50/2 { (2x+1) + (2x+50) } = 4275<br>&gt; 25 { 4x + 51 } = 4275<br>&gt; 100x + 1275 = 4275<br>&gt;100x = 4275 - 1275<br>&gt;100x = 3000<br>&gt;x = 30<br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "1-12x5-gt15y-2-23p48-2-2-4x-22-470",
+            "question": "1. 1/2x+5\u00a0&gt;15y\r\n2. 2/3p+4\u22648\r\n2.\u00a02-(4+x)\u2265-22",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1. 1/2x + 5 &gt; 15y<br>\u00a0\u00a0\u00a0 x + 5 &gt; 30 y<br>\u00a0\u00a0 x/y &gt; 30 - 5<br>\u00a0\u00a0 x/y &gt; 25<br>\u00a0 x &gt; 25y<br><br>2. 2/3p + 4 \u2264 8<br>\u00a0\u00a0 2/3p \u2264 8 - 4<br>\u00a0\u00a0 2/3p \u2264 4<br>\u00a0\u00a0 p \u2264 4 x 3/2<br>\u00a0\u00a0 p \u2264 6<br><br>2. 2 - (4 +x) \u2265 - 22<br>\u00a0\u00a0 2 (-4-x) \u2265 -22<br>\u00a0\u00a0 -8 - 2x \u2265 - 22<br>\u00a0\u00a0 -8 + 22 \u2265 2x<br>\u00a0\u00a0 14 \u2265 2x<br>\u00a0\u00a0 x \u2265 7<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-penyelesaian-setiap-pertidaksamaan-berikut-ini-23-x-739",
+            "question": "Tentukan penyelesaian setiap pertidaksamaan berikut ini :\r\n2/3 x - 1/6 &gt; 3/4 x",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "2/3x-1/6&gt;3/4x<br>2/3x-3/4x&gt;1/6<br>8x-9x&gt;2<br>-x&gt;2<br>x&lt;-2",
+                    "attachments": []
+                },
+                {
+                    "answer": "2/3 x - 1/6 &gt; 2/4 x<br>= 4x-1/6 ? 3x/4<br>= 4 (4x-1) &gt; 6 (3x)<br>= 16x - 4 &gt; 18x<br>= 16x - 18x &gt; 4<br>= -2x &gt; 4<br>= 2x &lt; -4<br>= x &lt; -2",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jari-jari-sebuah-roda-adalah-84-cm-jika-sepeda-tersebut-menempuh-916",
+            "question": "jari jari sebuah roda adalah 84 cm. jika sepeda tersebut menempuh jarak 264 meter, maka roda sepeda harus berputar sebanyak?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "jari jari sebuah roda adalah 84 cm. jika sepeda tersebut menempuh jarak 264 meter, maka roda sepeda harus berputar sebanyak?<br>\u00a0kel = 2 x phi x r<br>\u00a0 \u00a0 \u00a0 = 2 x 22/7 x 84<br>\u00a0 \u00a0 \u00a0 = 2 x 12 x 22<br>\u00a0 \u00a0 \u00a0 = 528<br>banyak putar = 26400/528<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 50",
+                    "attachments": []
+                },
+                {
+                    "answer": "Keliling roda = 2.pi.r<br>= 2. 22/7 . 168<br>= 1056 cm<br>Jarak dalam cm = 264\u00d7100<br>= 26.400<br>Perlu berapa kali roda berputar?<br>26.400 : 1056<br>= 25 kali<br>Semoga betul dan dapat membantu ^^<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-penyelesaiaan-persamaan-linear-a-x-12-2x-36-b-5x-834",
+            "question": "Tentukan penyelesaiaan persamaan linear\r\na. x-12 = 2x + 36\r\nb. -5x - 4r +10 = 1\r\nc. 2+ x/4 = 5",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a. x - 12 + 12 = 2x + 36+12<br>\u00a0\u00a0 \u00a0X=2x-2x+48<br>\u00a0\u00a0 \u00a0x - 2x = 48<br>\u00a0\u00a0 \u00a0-x = 48<br>\u00a0\u00a0 \u00a0x = -48<br>b. -5x - 4x + 10 - 10 = 1 - 10<br>\u00a0\u00a0 \u00a0-9x : -9 = -9 : -9<br>\u00a0\u00a0 \u00a0 x = 1<br>c. 2 + x/4<br>\u00a0\u00a0 \u00a05 = 2 +3<br>\u00a0\u00a0 \u00a0x = 4 x 3<br>x =\u00a012",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dimas-meminjam-uang-di-koperasi-rp-900000000-dengan-suku-bunga-184",
+            "question": "dimas meminjam uang di koperasi rp 9.000.000.00 dengan suku bunga 6 % per tahun ketika akan melunasi pinjaman tersebut ia harus membayar rp 9360.000.00 maka lama pinjaman dimas ....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Bunga = waktu / 12 bulan x persen bunga x uang awal<br>360.000 = w / 12 x 6 / 100 x 9.000.000<br>360.000 = w / 2 x 90.000<br>360.000 = w x 45.000<br>w = 8 bulan",
+                    "attachments": []
+                },
+                {
+                    "answer": "bunga = modal x n/12 x %bunga<br>360000 = 9000000 x n/12 x 6/100<br>360000 = 45000 x n<br>360000 / 45000 = n<br>8 bulan = n<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "perbandingan-a-b-berbalik-nilai-dengan-c-d-bila-bd-175-dan-378",
+            "question": "Perbandingan a : b berbalik nilai dengan c : d. Bila bd = 175 dan a = 5 ,maka nilai d =",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a/b = d/c<br>ac=bd<br>5c=175<br>c=175/5<br>c=35<br><br>itu yg d buku ctak matematika soalnya salah yg D hrsnya C krna yg D udah diketahui",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-nilai-x-jika-2x-1-2x-2-2x-3-471",
+            "question": "Tentukan nilai x , jika ( 2x + 1 ) + ( 2x +2 ) + ( 2x + 3 ) + ..........+ ( 2x + 50 ) = 4275",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kelas : IX (3 SMP)<br>Materi : Barisan dan Deret<br>Kata Kunci : suku, beda, jumlah suku<br>Pembahasan :<br>Barisan Aritmetika\nadalah suatu barisan dengan beda atau selisih antara dua suku berurutan selalu\ntetap atau konstan.<span><br>\nBentuk umum barisan aritmetika adalah<br>\nU</span>\u2081, U\u2082, U\u2083, ...,\nUn atau a, a + b, a + 2b, ..., a + (n - 1)b<span><br>\nSuku ke-n dari barisan aritmetika, yaitu : Un =\na + (n - 1)b.<br><span>Beda atau selisih antara dua suku berurutan,\nyaitu :\u00a0</span><br>\nb = Un - U(n - 1)<br>\nDeret Aritmetika adalah jumlah suku-suku barisan\naritmetika.<br>\nBentuk umum deret aritmetika adalah<br>\nSn = U</span>\u2081 + U\u2082 + U\u2083 + ...\n+ U(n - 1) + Un<span><br></span>\u21d4 Sn =\na + a + b + a + 2b + ... + a + (n - 1)b<span><br></span>\u21d4 Sn =\nn/2(2a + (n - 1)b)<span><br></span>\u21d4 Sn =\nn/2(a + a + (n - 1)b)<span><br></span>\u21d4 Sn =\nn/2(a + Un)<span><br>\nS(n - 1) = U</span>\u2081 + U\u2082 + U\u2083 + ...\n+ U(n - 1)<span><br>\nSn - S(n - 1) = Un.<br><span>Mari kita lihat soal tersebut.\u00a0<br></span></span>Jika (2x + 1) + (2x + 2) + (2x + 3) + ... + (2x + 50) = 4275, maka<br>a = 2x + 1<br>b = 2x + 2 - (2x + 1)<br>\u21d4 b = 2x - 2x + 2 - 1<br>\u21d4 b = 1<br>Un = 2x + 50<br>\u21d4 Un = a + (n - 1)b<br>\u21d4 2x + 50 = (2x + 1) + (n - 1) . 1<br>\u21d4 2x + 50 = 2x + 1 + n - 1<br>\u21d4 2x - 2x + 50 - 1 + 1 = n<br>\u21d4 n = 50<br>Sn = n/2{a + Un}<br>\u21d4 4275 = 50/2 . {2x + 1 + 2x + 50}<br>\u21d4 4275 = 25 . {4x + 51}<br>\u21d4 4275/25 = 4x + 51<br>\u21d4 171 = 4x + 51<br>\u21d4 171 - 51 = 4x<br>\u21d4 4x = 120<br>\u21d4 x = 120/4<br>\u21d4 x = 30<br><br>Jadi, nilai x adalah 30.<br><br>Semangat!<br>\u00a0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-besar-sudut-x-dan-y-dalam-derajat-pada-segitiga-siku-s-333",
+            "question": "tentukan besar sudut x dan y (dalam derajat) pada segitiga siku-siku berikut.. tolong dijawab ya beserta penjelasannya :) thanks!",
+            "attachments": [
+                "question-attachments/tentukan-besar-sudut-x-dan-y-dalam-derajat-pada-segitiga-siku-s-333-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "sudut x dan y = masing\" 45 derajat<br>Kenapa?<br>karena jumlah semua sudut dalam suatu segitiga adalah 180, dan besar sudut siku siku adalah 90.<br>180-90 = x+y<br>90 = x+y<br>karena segitiga tersebut adalah segitiga siku siku sama kaki, maka besar sudut x dan y adalah SAMA<br>jadi,<br>90:2 = 45<br>x= 45<br>y=45<br>semoga betul ^^",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "harga-1-lusin-pensil-rp-1800000maka-tentukan-harga-9-pensil22-594",
+            "question": "Harga 1 lusin pensil Rp 18.000,00,maka tentukan harga 9 pensil,22 pensil dan 1 gros pensil !",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "\u00a0 9 pensil = Rp. 13.500<br>\u00a022 pensil =\u00a0Rp. 33.000<br>1 gros (144buah) = Rp. 216.000<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "untuk-x-peubah-pada-a23581321maka-himpunan-penyelesaian-621",
+            "question": "Untuk x peubah pada A={2,3,5,8,13,21},maka himpunan penyelesaian dari 2x + 3 &lt;_ - 2 adalah.........    \u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "2x+3&lt;-2<br>2x + 3 - 3 &lt; -2 -3<br>2x &gt; -5<br>2x:2x &gt; -5:2<br>x &gt; -2,5<br>jadi, himpunan penyelesainnya {} himpunan kosong",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

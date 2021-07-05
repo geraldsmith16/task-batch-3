@@ -1,0 +1,138 @@
+{
+    "question": "Sebuah mobil bermassa 1,5 ton melesat di jalan raya dgn energi kinetik 468,75 kilo/joule. Hitunglah kecepatannya ! (km/jam)",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "ek=1/2.massa.v\u00b2<br>468,75joule=1/2.1500.v\u00b2<br>\u21d4v\u00b2=468,75\u00f7750<br>\u21d2v\u00b2=0.625<br>\u21d4v=\u221a0.625<br>\u21d4v=0.25<br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "dua-mobil-a-dan-b-massanya-sama-masing-masing-bergerak-dengan-ke-185",
+            "question": "Dua mobil A dan B massanya sama, masing masing bergerak dengan kecepatan 2 m/s dan 4m/s. hitung perbandingan energi kinetik mobil a dan b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "EKa=1/2 ( m\u00d7v\u00b2)<br>EKb = 1/2 (m\u00d7v\u00b2<br><br>EKa/EKb = 1/2\u00d7 2\u00b2 / 1/2\u00d74\u00b2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 2 : 8<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 1 : 4",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "ubahlah-suhu-suhu-berikut-ini-a0-derajat-ke-kelvin-b0k-ke-de-184",
+            "question": "Ubahlah suhu-suhu berikut ini !!    a.0 derajat ke kelvin\r\nb.0K ke derajat Celcius\r\nc.273 derajat Celcius ke Kelvin\r\nd.273 K ke derajat Celcius",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a. 0 nya dlm shu apa?<br>b. 0 K ke C = -273 derajat C<br>c. 273 drjt C ke K = 546 K<br>d. 273 K ke C = 0 drjt C<br><br>klo C ke\u00a0K itu dtambah 273<br><br>klo terbaik tndai y...",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "hitunglah-kalor-yang-dibutuhkan-sebutr-es-batu-untuk-mencair-yang-649",
+            "question": "hitunglah kalor yang dibutuhkan sebutr es batu untuk mencair yang memiliki kalor lebur 336\u00d710\u00b3 J/KG, bila massa es batu 60 gr",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Q = m \u00d7 L<br>Q = 0,06 kg \u00d7 336000<br>Q = 2016 J<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "dik ; L= 336 x 10\u00b3, m= 6 gr = 0,06 kg<br>dit; Q=...?<br>Q= mx L<br>\u00a0 \u00a0 =0,06kg x 336 x 10\u00b3<br>\u00a0 \u00a0 \u00a0= 20,16 x 10 \u00b3<br>\u00a0 \u00a0 \u00a0 = 20160 J",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bagaimna-hubungan-antara-beda-potensial-dan-kuat-arus-listrik-587",
+            "question": "Bagaimna hubungan antara beda potensial dan kuat arus listrik",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Besarnya arus yang mengalir pada kawat penghantar<br>\ntidak hanya bergantung pada tegangan, tetapi juga pada<br>\nhambatan yang  dimiliki kawat terhadap aliran elektron.<br>\nKuat arus listrik berbanding terbalik  dengan hambatan:<br>\nI  \u221d 1/R<br>\n. Aliran elektron pada kawat penghantar diperlambat<br>\nkarena adanya interaksi dengan atom-atom kawat. Makin<br>\nbesar hambatan ini, makin kecil arus untuk suatu tegangan<br>\nV. Dengan  demikian, arus  I yang mengalir berbanding<br>\nlurus  dengan beda potensial antara ujung-ujung  peng-<br>\nhantar  dan berbanding terbalik  dengan hambatannya.<br>\nPernyataan ini dikenal dengan Hukum Ohm, dan dinyatakan<br>\ndengan persamaan:<br>\n     I = V/R<br>\nDengan R adalah hambatan kawat atau suatu alat lainnya,<br>\nV adalah beda potensial antara kedua ujung penghantar,<br>\ndan I adalah arus yang mengalir. Hubungan ini sering dituliskan<br>\n   V = I . R ........................................\u2026<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-benda-bermassa-2-kg-yang-mula-mula-diam-gaya-sebesar-8n-b-589",
+            "question": "sebuah benda bermassa 2 kg yang mula mula diam. gaya sebesar 8N bekerja pada benda tersebut. maka percepatan benda setelah 2 detik adalah? bagaimana cara mengerjakannya dan kasih tau yaa rumusnya",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a = F/m<br>\u00a0 = 8N/2 kg<br>\u00a0 = 8 kg m/s\u00b2 dibagi 2 kg<br>\u00a0 = 4 m/s\u00b2<br>\u00a0(mungkin, kalau gak gitu dikali 4 --&gt; dari 2\u00b2, aja soalnya 1 detik itu di pangkatkan. jadi mungkin jawabnya 4 m/s\u00b2 . 4 = 16 m/s\u00b2)<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "8N=2kg*(percepatan benda+2 detik)<br>(percepatan benda + 2 detik) = 8:2<br>(percepatan benda + 2 detik) = 4<br>(percepatan benda) = 4 - 2<br>percepatan benda = 2 <br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dik-f110n-kekiri-f220n-kekiri-f415n-kekana-985",
+            "question": "Dik: F1:10N KEKIRI    \u00a0\u00a0 \u00a0 F2:20N KEKIRI\r\n\u00a0\u00a0 \u00a0 \u00a0 F4:15N KEKANAN\r\n\u00a0\u00a0 \u00a0 \u00a0 \u00a0 F5:40N KEKANAN\r\n\u00a0\u00a0 \r\napabila resultan dari perpaduan gaya\" pada gambar diatas adalah0, besar F3?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "10+20+F3 = 30 + ... = 55<br>f3= 55-30= 15N<br><br>15+40 = 55<br><br>karena 55N -55N = 0",
+                    "attachments": []
+                },
+                {
+                    "answer": "jawab.<br>perumpamaan\u00a0<br>ke\u00a0kiri =\u00a0 -<br>ke kanan = \u00a0+<br>F = F1 + F2 + F3 + F4 + F5 = 0<br>\u00a0 \u00a0= -10 - 20 + f3 + 15 + 40 = 0<br>\u00a0 \u00a0= - 30 + F3 + 55 = 0<br>F3 = - 55 + 30<br>\u00a0 \u00a0 \u00a0= l-25l<br>\u00a0 \u00a0 \u00a0= 25<br>berarti arah ke kiri\u00a0<br><br>Semoga membantu :) D like",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-gelombang-merambat-dengan-kecepatan-20-ms-maka-frekuensi-ge-572",
+            "question": "Jika gelombang merambat dengan kecepatan 20 m/s maka frekuensi gelombang nya adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Dik\u00a0\u03c9 = 20 m/s<br><br>Dit f ?<br><br>jawab.<br><br>\u03c9 = 2\u03c0f<br>20 = 2\u03c0f<br>f = 20 / 2\u03c0<br>\u00a0= 10\u00a0\u03c0 Hz<br><br>semoga membantu :)\u00a0D like",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "massa-sebuah-batu-dibumi-10-kg-jika-percepatan-gravitasi-bumi-9-535",
+            "question": "massa sebuah batu dibumi 10 kg. jika percepatan gravitasi bumi 9,8 N/kg dan percepatan gravitasi bulan seperenam percepatan gravi bumi. berapakah berat batu yang hilang ketika dibawa ke bulan? #dengan cara",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Berat benda di bulan adalah 49/3 kalau berat benda yg hilang kurangi aja 98-49/3",
+                    "attachments": []
+                },
+                {
+                    "answer": "berat di bumi = 9,8 x 10.\nberat di bln = 9,8 : 6 x 10\nhasilnya dikurangkan",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-termometer-x-titik-tetap-bawahnya-0x-dan-titik-tetap-ata-354",
+            "question": "sebuah termometer X titik tetap bawahnya 0\u00b0X dan titik tetap atasnya 60\u00b0X. Jika sebuah benda bersuhu 25\u00b0C,berapakah suhu benda itu jika diukur dengan termometer X ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Titik bawah 0*X<br>Titik atas 60*X<br>25*X<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apa-fungsi-batu-untuk-alat-penjernih-air-sederhana-369",
+            "question": "Apa\u00a0fungsi batu untuk alat penjernih air sederhana ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "untuk menahan ijuk agar \u00a0tidak kebawah dan terisap",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

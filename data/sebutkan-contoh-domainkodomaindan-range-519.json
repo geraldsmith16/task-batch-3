@@ -1,0 +1,122 @@
+{
+    "question": "Sebutkan contoh domain,kodomain,dan range ;)",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "Domain adalah Daerah Asal<br>Kodomain adalah Daerah Kawan<br>Range adalah daerah Hasil..<br><br>Misalnya ada sebuah contoh soal Relasi<br>\"1 Kurangnya Dari\", dan Domainnya adalah A={0,1,2,3,4}<br>Kodomainnya adalah B={1,2,3,4,5}<br>Maka Rangenya adalah R={(Domain,Kodomain)}--&gt; R={(0,1)(1,2)(2,3)(3,4)(4,5)}<br>Dibacanya R={(0 satu kurangnya dari 1) (1 satu kurangnya dari 2) dst..}<br><br><br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "x-1-dan-x-2-adalah-akar-akar-persamaan-kuadrat-2x2-768",
+            "question": "\u00a0x_{1}\u00a0dan\u00a0\u00a0x_{2} adalah akar akar persamaan kuadrat 2x^{2} + 3x -6 = 0.Tentukan 2x1x2^{2} + 2 x1^{2}x2",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]2x_1x^2_2+2x^2_1x_2=2x_1x_2(x_1+x_2)\\\\\\\\\n2x_1x^2_2+2x^2_1x_2=2(\\frac{-6}{2})(-\\frac{3}{2})\\\\\\\\\n2x_1x^2_2+2x^2_1x_2=9[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-nilaim-yang-memenuhi-a-fx-mx2-m1-x-8-b-f-910",
+            "question": "Tentukan nilai\"m\" yang memenuhi :    a. f(x) = mx2 - (m+1) x-8\r\nb. f(x) = mx2 + 12x + 9m\r\njika 1 memotong sumbu x\r\njika 1 menyinggung sumbu x\r\njika 1 tidak memotong/menyinggung sumbu x",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a. <br><span><br>b. </span><br><span><br><br>i&#039;m sorry if the fals answer..<br></span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-di-ketahui-fx-2x5-g-x-4-x-t-551",
+            "question": "1. di ketahui f(x) = 2x+5    \u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 g (x) = 4-x\r\ntentukan a. fog (x)\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 c. gof (x)\r\n\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 b. fog -1 (x)\u00a0 \u00a0 \u00a0 d. gof -1 (x)\r\n\r\ngimana caranya ni aku gx ngerti ka mohon di bantu ya\r\nmakasih",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]f(x)=2x+5\\\\\ng(x)=4-x\\\\\nfog(x)=f(g(x))\\\\\nfog(x)=f(4-x)\\\\\nfog(x)=2(4-x)+5=13-2x\\\\\n\\\\\nfog(x)=13-2x\\\\\nfog(x)-13=-2x\\\\\nx=\\frac{fog(x)-13}{-2}\\\\\nnyatakan\\ sebagai\\ fog^{-1}(x)\\\\\nfog^{-1}(x)=\\frac{13-x}{2}\\\\\\\\\ngof(x)=g(f(x))\\\\\ngof(x)=g(2x+5)=4-(2x+5)\\\\\ngof(x)=-2x-1\\\\\\\\\ngof(x)=-2x-1\\\\\ngof(x)+1=-2x\\\\\nx=\\frac{-gof(x)-1}{2}\\\\\nnyatakan\\ sebagai\\ gof^{-1}(x)\\\\\ngof^{-1}(x)=\\frac{-x-1}{2}\\\\[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-banyak-bilangan-asli-yang-kurang-dari-999-yang-tidak-hab-872",
+            "question": "Tentukan banyak bilangan asli yang kurang dari 999 yang tidak habis dibagi 3 atau 5.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>3,6,12,15,18,....<br><br>Un=a+(n-1).b<br>996=3+(n-1).3<br>996=3+3n-3<br>996=3n<br>\u00a0\u00a0 n=<u> 996</u> = 332<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 3<br><br>5,10,15,20,...<br><br>Un=a+(n-1).b<br>995=5+(n-1).5<br>995=5+5n-5<br>995=5n<br>\u00a0\u00a0 n= <u>995</u> = 119<br>\u00a0 \u00a0 \u00a0 \u00a0\u00a0 5<u><br><br></u>15,30,45,....990<br><br>Un=a+(n-1).b<br>990=15+(n-1).15<br>990=15+15n-15<br>990=15n<br>\u00a0\u00a0 n=66<br><br>\u00a0 Banyaknya angka yang tidak habis=<br>\u00a0\u00a0 \u00a0 998-(332+199)+66<br>\u00a0\u00a0 \u00a0 998-531+66 = <u><span>533</span></u></span><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-3log-2-x-dan-2log-5y-nilai-5log-15-beserta-car-876",
+            "question": "Diketahui\u00a03log 2 = x dan\u00a0\r\n 2log 5=y. Nilai 5log 15 =\r\n\r\n\r\nBeserta caranya ya",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "3log2= x , diubah jadi 2log3=1/x<br>2log5=y<br><br>5log15 = 2log15 / 2log5<br>= 2log 3 x 2log5 / 2log5<br>= 1/x + y / y<br>= ( y + xy /xy) / y<br>= y + xy / y(xy)<br>= y + xy / xy^2<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "faktor2-linear-lain-dari-px-x4-4x3-9x216x20-429",
+            "question": "Faktor2 linear lain dari p(x) =\u00a0x^{4}-4x^{3}-9x^{2}+16x+20",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "dengan menggunakan cara horner diperoleh :<br>(x+1)(x+2)(x-2)(x-5)",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-persamaan-kuadrat-yang-akarnya-2-dan-2-468",
+            "question": "Tentukan persamaan kuadrat yang akarnya 2- dan 2+",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]PK\\ baru : x^2-(x_1+x_2)x+(x_1x_2)=0\\\\\nx_1+x_2=(2-\\sqrt{3})+(2+\\sqrt{3})\\\\\nx_1+x_2=4\\\\\n\\\\\nx_1x_2=(2-\\sqrt{3})(2+\\sqrt{3})\\\\\nx_1x_2=4-3=1\\\\\n\\\\\nPK\\ baru : x^2-4x+1=0\\\\[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "aku-punya-pr-tapi-aku-atak-tahu-bagaimana-cara-untuk-menemukan-ja-208",
+            "question": "Aku punya PR tapi aku atak tahu bagaimana cara untuk menemukan jalan solusinya,    pertanyaannya begini:\r\n\r\nTemukan grafik fungsi kuadrat f(X) = 4x\u00b2 - 8x +\u00a03, dari grafik fungsi kuadrat g(x) = 4x\u00b2 !\r\n\r\nMohon penjelasannya!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]f(x)=4x^2-8x+3\\\\\ncari\\ titik\\ potong\\ thdp\\ sb\\ x\\ (y=0)\\\\\n0=4x^2-8x+3\\\\\n(2x-3)(2x-1)=0\\\\\nx=\\frac{3}{2}\\ atau\\ x=\\frac{1}{2}\\\\\ndiperoleh\\ (\\frac{3}{2},0)\\ dan\\ (\\frac{1}{2},0)\\\\\\\\\ncari\\ tipot\\ thdp\\ sb\\ y\\ (x=0)\\\\\nf(x)=y=4x^2-8x+3\\\\\ny=4(0)^2-8(0)+3\\\\\ny=3\\\\\ndiperoleh\\ (0,3)\\\\\\\\\ncari\\ titik\\ puncak\\ P(\\frac{-b}{2a},\\frac{-(b^2-4ac)}{4a})\\\\\nP(\\frac{-(-8)}{2(4)},\\frac{-((-8)^2-4(4)(3))}{4(4)})\\\\\nP(1,-1)\\\\\nletakkan\\ semua\\ titik\\ pada\\ koordinat\\ kartesius\\\\\nlalu\\ gambar\\ grafiknya[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "deret-4-10-16-k-374-jadi-tentukan-nilai-k-adalah-338",
+            "question": "Deret 4 + 10 +16 +.....+k = 374. Jadi tentukan nilai K adalah...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]a=4,b=4,U_n=k\\\\\nU_n=a+(n-1)b\\\\\nk=4+(n-1)6\\\\\n\\frac{k-4}{6}+1=n\\\\\n\\frac{k-4+6}{6}=n\\\\\n\\frac{k+2}{6}=n\\\\\n\nS_n=\\frac{n}{2}(a+U_n)\\\\\n374=\\frac{\\frac{k+2}{6}}{2}(4+k)\\\\\n374=\\frac{k+2}{12}(4+k)\\\\\n4488=(k+2)(k+4)\\\\\nk^2+6k+8=4488\\\\\nk^2+6k-4480=0\\\\\nk_{1,2}=\\frac{-6 \\underline{+}\\sqrt{6^2-4(1)(-4480)}}{2}\\\\\nk_{1,2}=\\frac{-6 \\underline{+}\\sqrt{17956}}{2}\\\\\nk_{1,2}=\\frac{-6 \\underline{+}134}{2}\\\\\nk_{1,2}=-3 \\underline{+}67\\\\k_1=-3+67=64\\\\k_2=-3-67=-70(tidak memenuhi)[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "gimana-cara-faktorin-persamaan-pangkat-3-548",
+            "question": "gimana cara faktorin persamaan pangkat 3?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "pake cara horner <br>3 | 1\u00a0 \u00a0\u00a0 -6 \u00a0 \u00a0 \u00a0 -9 \u00a0\u00a0 \u00a0  54 <br>\u00a0\u00a0 |_____3____-9___-54____ <br>\u00a0\u00a0 \u00a0 1\u00a0 \u00a0  -3\u00a0 \u00a0 \u00a0 \u00a0 -18\u00a0 \u00a0  0 <br>\u00a0\u00a0 \u00a0 x\u00b2 -3x - 18 = (x - 6) (x + 3) <br>jadi didapat faktornya adalah <br>(x - 3) (x + 3) (x - 6) <br><br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,154 @@
+{
+    "question": "panji melakukan tarik tambang melawan amri. panji dengan gaya 150 N dan amri 250N. berapakah resultan gaya tersebut?",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "panji = 150 N<br>amri = 250 N<br>R = F1 - F2 = 250 - 150 = 100 N ke amri",
+            "attachments": []
+        },
+        {
+            "answer": "R = F (Amri) - F (Panji)<br>R = 250 N -150 N<br>R = 100N",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "1sebutkanlah-metode-pemisahan-komponen-dari-bahan-berikut-aai-957",
+            "question": "1.Sebutkanlah metode pemisahan komponen dari bahan berikut\u00a0 a.air murni dan air laut\u00a0 b.garam dari campuran garam dan pasir c.minyak kelapa dari santan \u00a0 2.klasifikasi zat2 dibawah ini ke dalam campuran , senyawa , dan unsur a.serbuk w , yg dibuat dri kristal putih dan kristal biru b.cairan y , yg dibuat dari melarutkan zat padat berwarna putih dalam air\u00a0 c.cairan a , yg terurai menjadi dua jenos gas yg tidak berwarna ketika dielektrolisis d.sereal z , terbuat dati jagung kering , gula dan susu",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "yg nomor satu A ,, yg nomor dua yg B<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pemuaian-itu-apa-sich-788",
+            "question": "Pemuaian itu apa sich",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "pemuaian yang terjadi karena molekul-molekul logam bergetar dan bertumbukan satu sama lain",
+                    "attachments": []
+                },
+                {
+                    "answer": "Pemuaian \u00a0: perubahan suatu benda yang dapat bertambah panjang,volume/luasnya karna terkena kalor.panas .<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "denibagusherman-wili-dan-andre-bermain-tarik-tambangdeni-dan-b-709",
+            "question": "deni,bagus,herman wili dan andre bermain tarik tambang.deni dan bagus berada di sebelah kiri dengan gaya masing-masing 160 N dan 300N. adapun herman ,willi,dan andre berada di sebelah kanan yng masing-masing gayanya 200N,150N,dan 50N. berapakah perpaduan gaya-gaya mereka da kemana arahnya.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "160+300=460<br>200+150+50=400<br>460-400=60 ke arahherman wili, andre\u00a0",
+                    "attachments": []
+                },
+                {
+                    "answer": "F (1) = 160 N + 300\u00a0N = 460 N<br>F (2) = 200 N + 150 N + 50 N = 400 N<br>R = 460 - 400 = 60 N ke kiri",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-sebutkan-3-contoh-gaya-besar-2-sebutkan-3-contoh-merugikan-232",
+            "question": "1. sebutkan 3 contoh gaya besar\u00a0    2. sebutkan 3 contoh merugikan \r\n3. sebutkAN 3 contoh gaya gesekan \r\n4. semakin kasar permukaan suatu benda maka gaya gesekannya semakin......?\r\n5.sebutkan 3 contoh gesejan yg menguntungkan",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>\n<span>no. 3 aja <br>a.\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 </span>Alat\npengasah pisau dapat menanjamkan pisau</span>\n<span>\n<span><br>b.\u00a0\u00a0\u00a0\u00a0\u00a0 </span>Permukaan\njalan raya dibuat kasar, agar mobil tidak tergelincir sewaktu bergerak.</span> <br><span></span><span><span>c. \u00a0\u00a0\u00a0\u00a0\u00a0 </span><span>Ban\nkendaraan menjadi halus karena adanya gesekan dengan jalan.</span></span><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "2.gaya yang merugikan\u00a0<br>c0ntoh :<br>a. gaya gesekan yang terjadi antara kopling dengan mesin mobil menimbulkan panas yang berlebihan sehingga mesin cepat rusak.<br>b. gaya gesekan antara ban mobil dengan jalan<br>c. gaya gesekan antara mobil dengan angin\u00a0yang dapat menghambat jalanya mobil<br><br>3.contoh gaya gesekan<br>a. gesekan antara\u00a0kaki dengan permukaan jalan<br>b. gaya gesekan pada rem<br>c. gesekan ban mobil dengan jalan<br><br>4.gesekanya\u00a0semakin besar<br><br>5. contoh gesekan yang menguntungkan\u00a0<br>a. gesekan antara\u00a0kaki dengan permukaan jalan<br>b. gaya gesekan pada rem<br>c. gesekan ban mobil yang kasar\u00a0dengan jalan yang dibuat licin.<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-trafo-memiliki-efisiensi-75-tegangan-inputnya-220-v-dan-737",
+            "question": "sebuah trafo memiliki efisiensi 75%. tegangan inputnya 220 V dan tegangan outputnya 110 V . jika kekuatan arus primer yang mengalir 2A berapakah kekuatan arus sekundernya? \u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "220/2=Is/110<br>2Is=24200<br>Is=14100<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "rumusnya Vp / Vs= Is / Ip<br>\u00a0220 / 110 = Is / 2<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 2 = Is / 2<br>Jadi, Is ( Kuat arus sekunder) = 2 x 2 = 4 Ampere<br>\u00a0\u00a0\u00a0 \u00a0 <br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "upaya-upaya-apa-yang-dapat-dilakukan-agar-masyarakat-indonesia-me-939",
+            "question": "upaya upaya apa yang dapat dilakukan agar masyarakat indonesia mengurangi kebergantungan pada beras sebagai sumber bahan makanan pokoknya?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "menanam jagung atau gandum sebagai pengganti beras .. <br>menernakkan sapi untuk diambil susunya ..<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Melakukan sosialisasi dan penyuluhan tentang alternatif\u00a0bahan makanan pokok pengganti beras seperti jagung, ketela pohon, pisang , roti\u00a0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-benda-yang-massanya-3kg-dijatuhkan-dari-ketinggian-10m-jika-g-712",
+            "question": "1. Benda yang massanya 3kg dijatuhkan dari ketinggian 10m. jika g=10m/s\u00b2 hitunglah    a. Energi potensia gravitasi maximal\r\nb.Energi potensial gravitasi pada ketinggian 3m dari tanah\r\nc. Energi kinetik pada ketinggian 3m dari tanah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Ep=m.g.h<br>\u00a0 \u00a0 \u00a0 3.10.10<br>\u00a0 \u00a0 \u00a0 300<br>Ep=m.g.h<br>\u00a0 \u00a0 \u00a0 3.3.10<br>\u00a0 \u00a0 \u00a0 90",
+                    "attachments": []
+                },
+                {
+                    "answer": "a. m.g.h = 3kg . 10m. 10m/s2 = 300 joule<br>b. m.g.h = 3kg . 3m . 10 m/s2 = 90 joule<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apa-faktor-yang-memengaruhi-energi-potensial-pegas-910",
+            "question": "Apa faktor yang memengaruhi energi potensial pegas ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Faktor yang mempengaruhi energi potensial suatu pegas yaitu massa dan ketinggian sehingga diperoleh rumus Ep = mgh dengan grafitasi bumi g\u00a0 tetap.<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-jelaskan-tentang-hukum-kekekalan-mekanikk-kak-makasih-686",
+            "question": "Tolong jelaskan tentang hukum kekekalan mekanikk kak:) makasih",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "hukum kekalan artinya energi tdk dapat di ciptakann atau di musnahkan\u00a0tetapi dapat di ubah dari bentuk yg satu ke bentuk \u00a0yg lain<br><br>semoga membantu :)",
+                    "attachments": []
+                },
+                {
+                    "answer": "Apabila benda selama bergerak naik dan turun hanya\u00a0dipengaruhi oleh gaya gravitasi, besar energi mekanik selalu\u00a0tetap. atau jumlah energi potensial dan kinetik itu selalu tetap. itu disebut hukum kekekalan mekanik<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-mobil-balap-memiliki-gaya-10000n-yang-dikerjakan-oleh-mes-755",
+            "question": "sebuah mobil balap memiliki gaya 10.000N yang dikerjakan oleh mesinnya dan total hambatan oleh gesekan angin dan jalan adalah 2.000N. Jika percepatan mobil adalah 2m/s2, hitung massa mobil balap itu (dalam kg)!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "F = m.a<br>10.000 N = m . 2 m/s^2<br>10.000 N/2 = m<br>5000 kg = m :)",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

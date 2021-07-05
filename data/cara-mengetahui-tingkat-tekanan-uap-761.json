@@ -1,0 +1,130 @@
+{
+    "question": "Cara mengetahui tingkat tekanan uap?",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "x = n air / (n sukrosa + n air) <br>",
+            "attachments": []
+        },
+        {
+            "answer": "dengan menggunakan rumus Satuan adalah kg/m2/sekon. Jika laju penguapan tersebut hanya dalam \nsatuan kg/m2, tidak per sekon, maka disebut sebagai evaporation rate<br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "jenis-elektrolit-berdasarkan-ikatannya-658",
+            "question": "Jenis elektrolit berdasarkan ikatannya",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "elektrolit kuat,elektrolit lemah,non elektrolit , koreksi kalau salah ya",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "adam-hx-01-mempunyai-ph-yang-sama-dengan-larutan-hcl-0001mtent-905",
+            "question": "Adam HX 0,1 mempunyai pH yang sama dengan larutan HCL 0,001M.tentukan nilai tetapan ionisasi (ka)asam HX itu",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "H+^2=Ka x Ma= 10^-6=Ka.0,1....Ka=10^-5<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apa-itu-ikatan-kovalen-dan-ikatan-ion-582",
+            "question": "Apa itu ikatan kovalen dan ikatan ion?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Ikatan kovalen<span>\u00a0adalah sejenis\u00a0</span>ikatan kimia<span>\u00a0yang dikarakterisasikan oleh pasangan elektron yang saling terbagi (kongsi elektron) di antara atom-atom yang berikatan. Singkatnya, stabilitas tarikan dan tolakan yang terbentuk di antara atom-atom ketika mereka berbagi elektron dikenal sebagai ikatan kovalen.<br></span>Ikatan ion<span>\u00a0(atau\u00a0</span>ikatan elektrokovalen<span>) adalah jenis\u00a0</span>ikatan kimia<span>\u00a0yang dapat terbentuk antara ion-ion\u00a0</span>logam<span>\u00a0dengan\u00a0</span>non-logam<span>\u00a0(atau ion poliatomik seperti amonium) melalui gaya tarik-menarik elektrostatik. Dengan kata lain, ikatan ion terbentuk dari gaya tarik-menarik antara dua ion yang berbeda muatan.</span><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "berapakah-massa-gas-argon-ar40grammol-yang-dapat-menempati-ru-396",
+            "question": "berapakah massa gas argon (ar=40gram/mol) yang dapat menempati ruang 82cm3 pada tekanan 228mm hg dan suhu 27darjat celsius (R=0,082L atm mol pangkat min satu K pangkat min satu",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "hmmm...pertama kita menubah satuan yang diketahui dulu<br>V = 82 cm3 = 0,082 dm3 = 0,082 L<br>T = 27 C = 273 + 27 = 300 K<br>P = 228 mmHg = 0,3 atm \u00a0 \u00a0 \u00a0 \u00a0\u00a0( ingat 1 atm = 760 mmHg)<br><br>kemudian masukkan ke dalam rumus (untuk mencari mol (n))<br>PV =n R T<br>0,3 x 0,082 = n 0,082 x 300<br>n = 0,001 mol<br><br>maka massa gas argon<br>massa = mol x Mr = 0,001 x 40 = 0,04 gram\u00a0<br><br><br>semoga bisa membantu :)<br>berikan label terbaik ya :)",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pada-suhup-dan-tekanant-40-cm3-gs-p2-tetap-habis-bereaksi-100-611",
+            "question": "pada suhu(P) dan tekanan(T) 40 cm3 gs P2 tetap habis bereaksi 100 cm3 gas O2 menghasilkan 40 cm3 gas PxOy , maka tentukan harga X dan Y dan tentukan rumus molekul dan namanya ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "sama dengan soal unsur Nitrogen dan Oksigen yang sebelumnya kamu tanyakan<br>\"perbandingan volume = perbandingan koefisien\"<br>P2\u00a0  +\u00a0  O2\u00a0  ----&gt; PxOy<br>40......100........40<br>2.........5............2<br>\u00a0<br>maka reaksi di atas menjadi<br>2P2\u00a0 +\u00a0 5O2\u00a0 ---&gt; 2PxOy<br>jumlah atom pada ruas kanan harus sama dengan jumlah atom pada ruas kiri<br>P<br>4 = 2x maka x = 2<br>O<br>10 = 2y maka y = 5<br><br>jadi rumus posfor oksida di atas adalah P2O5 :)<br><br>jika jawaban saya terbaik kasih label terbaik ya :)<br>makasih :)<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebutkan-nama-unsur-periodik-golongan-va-397",
+            "question": "Sebutkan nama unsur periodik golongan VA",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "hidrogen, litium, natrium, kalium, rubidium, sesium, fransium",
+                    "attachments": []
+                },
+                {
+                    "answer": "Nitrogen = N<br>Posfor = P<br>Arsen = As<br>Stibium / Antimon = Sb<br>Bismuth = Bi<br><br>semoga bisa membantu :)<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-mengapa-reaksi-berikut-ini-tidak-merupakan-reaksi-redo-728",
+            "question": "1.\u00a0Mengapa\u00a0reaksi\u00a0berikut\u00a0ini\u00a0tidak\u00a0merupakan\u00a0reaksi\u00a0redoks?    HCl+NaOH\u2192NaCl+H2O\r\n2.\u00a0Apakah\u00a0reaksi\u00a0ini\u00a0mengalami\u00a0reaksi\u00a0disproporsionasi?\r\nCl2(g)+2NaOH(aq)\u2192NaCl(aq)+NaClO(aq)+H2O(l)\r\n3.\u00a0Pada\u00a0reaksi\u00a0redoks\u00a0:\r\n2KMnO4+10Kl+8H2SO4\u21922MnSO4+5l2+6K2SO4+8H2O\r\nBagaimana\u00a0perubahan\u00a0bilangan\u00a0oksidasi\u00a0Mn\u00a0dan\u00a0l?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1. karena reaksi redok harus mengalami reduksi dan oksidasi, bilok H yang dikiri sama dengan satu dan yang kanan sama dengan satu, jadi tidak mengalami reduksi atau oksidasi, dan Na yang dikiri memiliki bilok satu dan dikanan juga satu, jadi pada reaksi diatas tidak mengalami reduksi ataupun oksidasi<br>2. ya,karena pada reaksi diatas Cl mampu menjadi oksidator maupun reduktor<br>3.MN reaksi kiri mamiliki bilok +6, sedangkan MN reaksi yang dikanan memiliki bolok +2, jika I di reaksi kiri mamiliki bilok -1, dan di reaksi kanan memiliki bilok+1<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tulislah-2-cara-pembuatan-eter-beserta-contohnya-177",
+            "question": "Tulislah 2 cara pembuatan eter beserta contohnya!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a) mereaksikan alkil halida dan senyawa alkoksida (sintesis<span>\u00a0Williamson), (b) mereaksikan alkil halida dan perak oksida, dan (c) dehidrasi\u00a0</span>alkohol<span>.\u00a0</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bagaimana-cara-uji-saponin-pada-tanaman-lidah-mertua-973",
+            "question": "Bagaimana cara uji saponin pada tanaman lidah mertua?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>Lidah mertua (Sansevieria trifasciata Prain) merupakan tanaman obat yang banyak dimanfaatkan\n oleh masyarakat untuk pengobatan influenza, borok, bisul, radang saluran pernafasan, batuk dan\n gigitan ular berbisa, karena mengandung saponin. Penelitian ini bertujuan untuk mengetahui\n variasi metode ekstraksi yang efektif dalam menghasilkan aktivitas antibakteri optimum terhadap\n Staphylococcus aureus IFO 13276 dan Pseudomonas aeruginosa IFO 12689, serta mengetahui\n sifat antibakteri ekstrak etanol daun lidah mertua. Pada penelitian ini variasi metode ekstraksi\n yang diamati adalah lama waktu maserasi dan jumlah daur sokletasi. Lama waktu maserasi\n adalah 4, 6 dan 8 hari, sedangkan jumlah daur sokletasi adalah 1, 2 dan 3 kali penyarian. Pelarut\n yang digunakan etanol absolut. Sebagai kontrol negatif digunakan pelarut etanol tanpa ekstrak,\n sedangkan sebagai kontrol positif digunakan ampisilin dan streptomisin. Parameter yang diukur\n adalah luas zona penghambatan dan uji sifat antibakteri. Uji aktivitas antibakteri ekstrak etanol\n daun lidah mertua dengan metode difusi agar. Berdasarkan hasil penelitian, diketahui maserasi 4\n hari dan sokletasi 2 kali penyarian menghasilkan ekstrak etanol daun lidah mertua dengan\n aktivitas antibakteri optimum terhadap Staphylococcus aureus IFO 13276 dan Pseudomonas\n aeruginosa IFO 12689, ekstrak etanol daun lidah mertua hasil sokletasi dan maserasi optimum\n memiliki aktivitas antibakteri yang lebih rendah daripada ampisilin dan streptomisin dalam\n menghambat Staphylococcus aureus IFO 13276, tetapi lebih tinggi dari ampisilin dalam\n menghambat Pseudomonas aeruginosa IFO 12689 dan Sifat antibakteri ekstrak etanol daun lidah\n mertua terhadap Staphylococcus aureus IFO 13276 adalah bakteriosidal, sedangkan sifat\n antibakteri ekstrak etanol daun lidah mertua terhadap Pseudomonas aeruginosa IFO 12689\n adalah bakteriostatik.</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apa-yang-dimaksud-dengan-pereaksi-fehling-apa-kegunaan-pereaksi-400",
+            "question": "Apa yang dimaksud dengan pereaksi fehling? apa kegunaan pereaksi in ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "kegunaannya untuk menunjukan adanya karbohidrat reduksi.",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,128 @@
+{
+    "question": "1. 1/2x+5\u00a0&gt;15y\r\n2. 2/3p+4\u22648\r\n2.\u00a02-(4+x)\u2265-22",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "1. 1/2x + 5 &gt; 15y<br>\u00a0\u00a0\u00a0 x + 5 &gt; 30 y<br>\u00a0\u00a0 x/y &gt; 30 - 5<br>\u00a0\u00a0 x/y &gt; 25<br>\u00a0 x &gt; 25y<br><br>2. 2/3p + 4 \u2264 8<br>\u00a0\u00a0 2/3p \u2264 8 - 4<br>\u00a0\u00a0 2/3p \u2264 4<br>\u00a0\u00a0 p \u2264 4 x 3/2<br>\u00a0\u00a0 p \u2264 6<br><br>2. 2 - (4 +x) \u2265 - 22<br>\u00a0\u00a0 2 (-4-x) \u2265 -22<br>\u00a0\u00a0 -8 - 2x \u2265 - 22<br>\u00a0\u00a0 -8 + 22 \u2265 2x<br>\u00a0\u00a0 14 \u2265 2x<br>\u00a0\u00a0 x \u2265 7<br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "disebuah-parkir-terdapat-75-kendaraan-yang-terdiri-dari-mobil-dan-563",
+            "question": "disebuah parkir terdapat 75 kendaraan yang terdiri dari mobil dan sepeda motor.banyak roda seluruhnya 210.jika tarif parkir untuk mobil rp:4.000 dan sepeda motor Rp;2.000 ,maka pendapatan uang parkir saat itu adalah ..",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "pemisalan mobil = x dan motor = y<br>x + y = 75<br>2x + 4y = 210<br>kedua persamaan tersebut terlebih dahulu ditentukan himpunan penyelesaiannya dengan metode eliminasi (agar lebih mudah)<br>jadi, x+y=75 dikali 2 = 2x+2y=150<br>maka, 2x+4y=210 dikurang dengan 2x+2y=150 dan hasilnya<br>2y=60<br>y=60/2<br>y=30<br>sedangkan x= x+y=75<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = x+30=75<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = x = 75-30<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 45<br>jadi HP = (45,30) berarti jumlah mobil = 45 dan motor = 30<br>penghasilan tukang parkir yaitu<br>1. Mobil = 45 x 4000<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 180.000<br>2. Motor = 30 x 2000<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 60.000<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bagaimana-mencari-segi-empat-tali-busur-102",
+            "question": "Bagaimana mencari segi empat tali busur?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Mencari Luas Segiempat Talibusur menggunakan Rumus\u00a0Brahmagupta\n\t\n\t\t<span>Sekitar abad ke tujuh Masehi, dalam Geometri Euclidean,\u00a0 Brahmagupta,\n seorang matematikawan asal India menemukan Rumus untuk mencari luas \nsegiempat talibusur yang telah diketahui panjang sisi-sisinya dan \nbeberapa sudutnya.</span>\n\n\nRumus Umum:\n<span>Jika diketahui segiempat talibusur memiliki sisi-sisi , , , dan  serta setengah keliling , maka luas segiempat tali busur  dapat dinyatakan dengan</span>\n\n<span>.</span>\nBukti:\n<span>Salah satu metode sederhana untuk membuktikannya adalah dengan memanfaatkan trigonometri. Misalkan dalam segiempat talibusur  (Lihat ilustrasi berikut)<span>, </span>merupakan titik sudut antara  dan , , merupakan titik sudut antara  dengan , dan  merupakan diagonal yang menghubungkan kedua sudut yang lain.</span>\n\n<span>Karena , diperoleh:</span>\n<span> dan </span>\n<span>Dengan menggunakan Aturan Cosinus,</span>\n\n\u00a0 yang mana dapat diperoleh:\n\nPerhatikan pula bahwa Luas segiempat talibusur:\n<span>,</span>\ndari sini kita juga memperoleh:\n<span>Dengan mengkuadratkan  dan  kemudian dijumlahkan, akan diperoleh</span>\n\nyang dapat disederhanakan menjadi\n<span>Tentunya kita sudah tahu bahwa . dengan mengaplikasikan identitas ini berkali-kali akan diperoleh:</span>\n<span>Dimana </span>\nBagi dengan 16, kemudian ambil akar kuadrat dari masing-masing ruas diperoleh :\n<span>Bentuk spesial rumus ini adalah saat  yang mengakibatkan segiempat talibusur ini merupakan suatu segitiga yang memiliki sisi-sisi , , , dan setengah keliling , dengan luas:</span>\n<span>yang terkenal dengan nama Rumus Heron.</span>\nRumus Brahmagupta sendiri dapat diperluas untuk segiempat yang bukan merupakan segiempat talibusur\n<span>di mana  merupakan jumlah dua buah sudut yang berlawanan. Pada segiempat talibusur, karena jumlah kedua sudut yang berlawanan , maka .</span><br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "panjang-jari2-sbuah-lingkaran-adalah-28-cm-hitunglah-a-panjan-623",
+            "question": "Panjang jari2 sbuah lingkaran adalah 28 cm. Hitunglah :    a. panjang busur dihadapan sudut pusat 45 derajat\r\nb. luas juring yg sudut pusatnya 120 drajat??",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a. keliling=22/7.2.28 = 176<br>\u00a0 \u00a0busur=45/360.176= 22<br><br>b. luas = 22/7.28.28 = 2464<br>\u00a0 \u00a0juring = 120/360.2464 = 821,34",
+                    "attachments": []
+                },
+                {
+                    "answer": "a. panjang busur = phi*d*&lt;/360<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 22/7*56*45/360<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0  = 22<br>b. L juring = phi*r*r*&lt;/360<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0  = 22/7*28*28*120/360<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 821,33<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "help-plus-caranya-juga-ya-thanks-158",
+            "question": "[HELP] plus caranya juga ya, thanks",
+            "attachments": [
+                "question-attachments/help-plus-caranya-juga-ya-thanks-158-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "8x^-4/2x^-6<br>= 2x^6/8x^4<br>= 2x^6/2x^3(4)<br>= 2x^6/2x^12<br>= 4x^3/4x^6<br>= 4x^3",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "harga-1-lusin-pensil-rp-1800000maka-tentukan-harga-9-pensil22-594",
+            "question": "Harga 1 lusin pensil Rp 18.000,00,maka tentukan harga 9 pensil,22 pensil dan 1 gros pensil !",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "\u00a0 9 pensil = Rp. 13.500<br>\u00a022 pensil =\u00a0Rp. 33.000<br>1 gros (144buah) = Rp. 216.000<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pada-hari-raya-supermarket-menjual-pakaian-dengan-diskon-besar-b-191",
+            "question": "pada hari raya, supermarket menjual pakaian dengan diskon besar-besaran. ibu membeli kemeja adik dengan harga Rp 150.000setelah di diskon sebesar 30% (+15%), artinya akan terjadi diskon harga lagi sebesar 15% dari total harga setelah di diskon 30%. berapakan harga kemeja tsb. jika tidak ada diskon?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "150.000 x 15/100 =Rp 22.500\u00a0<br>= 150.000 + 22.500<br>= Rp\u00a0172.500<br><br>Jika tidak ada diskon = 172.000 : 45%<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 172.000 x 100/45<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= Rp 382.222\u00a0<br><br>Maaf jika salah :)",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahi-sebuah-segitiga-abc-dengan-besar-salah-satu-sudutnya-18-189",
+            "question": "Diketahi sebuah segitiga ABC dengan besar salah satu sudutnya 18, segitiga apakah ABC itu? Jelaskan!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "segitiga yang salah satu sudutnya itu 18 adalah segitiga lancip",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-persegi-panjang-memiliki-luas-8cm-dan-lebar-2sqrt2c-519",
+            "question": "sebuah persegi panjang memiliki luas 8cm, dan lebar (2+\\sqrt{2})cm. ditanya: a.panjang? b.keliling?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "L =\u00a0 p \u00d7 l<br>8 = p \u00d7 (2 +\u221a2)<br><u>\u00a0\u00a0\u00a0 8\u00a0\u00a0\u00a0 </u>\u00a0 = p<br>2 + \u221a2<br><u>\u00a0\u00a0 \u00a0 8 (2 - \u221a2) \u00a0 \u00a0 </u>\u00a0 = p \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 <br>(2 + \u221a2) (2 - \u221a2)<br><u>16 - 8\u221a2\u00a0</u>  = p<br>\u00a0\u00a0 4 - 2<br>8 - 4\u221a2 = p<br><br>K = 2 ( p + l )<br>K = 2 ( (8 - 4\u221a2) + (2 + \u221a2))<br>K = 2 ( 10 - 2\u221a2)<br>K = 20 - 4\u221a2",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "ubahlah-pertidaksamaan-linear-berikut-ke-dalam-permasalahan-kehid-632",
+            "question": "Ubahlah pertidaksamaan linear berikut ke dalam permasalahan kehidupan sehari-hari.    a) x &gt; 10\r\nb) 2y \u2264 50\r\nc) 2x + 3 &gt; 4\r\nd) 5a \u2013 1 \u2265 6\r\ne) 7 &gt; 3x",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a. \u00a0agar tubuh kuat diperlukan minuman paling sedikut 10 gelas air sehari<br>b. 2y\u00a0\u2264 50 \u00a0 \u00a0harga dua buku paling mahal 50",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-penyelesaiaan-persamaan-linear-a-x-12-2x-36-b-5x-834",
+            "question": "Tentukan penyelesaiaan persamaan linear\r\na. x-12 = 2x + 36\r\nb. -5x - 4r +10 = 1\r\nc. 2+ x/4 = 5",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a. x - 12 + 12 = 2x + 36+12<br>\u00a0\u00a0 \u00a0X=2x-2x+48<br>\u00a0\u00a0 \u00a0x - 2x = 48<br>\u00a0\u00a0 \u00a0-x = 48<br>\u00a0\u00a0 \u00a0x = -48<br>b. -5x - 4x + 10 - 10 = 1 - 10<br>\u00a0\u00a0 \u00a0-9x : -9 = -9 : -9<br>\u00a0\u00a0 \u00a0 x = 1<br>c. 2 + x/4<br>\u00a0\u00a0 \u00a05 = 2 +3<br>\u00a0\u00a0 \u00a0x = 4 x 3<br>x =\u00a012",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

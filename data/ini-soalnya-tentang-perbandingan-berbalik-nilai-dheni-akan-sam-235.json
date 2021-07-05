@@ -1,0 +1,146 @@
+{
+    "question": "Ini soalnya tentang perbandingan berbalik nilai :)    Dheni akan sampai disekolah dalam waktu 45 menit,dengan kecepatan rata-rata 20km/jam\r\nBerapa kecepatan rata-rata agar dheni sampaai disekolah dalam waktu 30 menit ?\r\n\r\n\r\ntolong dijwab ya,sama caranya,nanti aku jadika solusi terbaik",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "\u00a0\u00a0 \u00a0 \u00a0 t\u00a0 \u00a0 \u00a0 \u00a0\u00a0  \u00a0 \u00a0 \u00a0 \u00a0 v<br>\u00a0\u00a0 \u00a0  45\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 20<br>\u00a0\u00a0 \u00a0  30\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 x<br><br>45<u></u>/30 = x/20<br>30x\u00a0  =\u00a0  900<br>x\u00a0 \u00a0 = 30 km/jam<br><br>kalo waktunya diubah dari menit ke jam jg, hasilnya tetep sama. semoga bener.<br>",
+            "attachments": []
+        },
+        {
+            "answer": "dik : waktu1 = 45 menit ,dengan v1= 20 km/jam<br>\u00a0 \u00a0 \u00a0 \u00a0 waktu 2=30 menit ,dengan v2 = ..?<br><br>logikanya jika 20 km/jam sampainya 45 menit,maka jarak tempat yang akan dituju<br>= (45 menit ubah ke jam dulu) lalu di kali 20km.jam<br>= 3/4 jam . 20 km/jam<br>= 15 km (jarak total)<br><br>maka untuk sampai dalam waktu 30 menit,kecepatan yang dibutuhkan adalah<br>jarak total = waktu. kecepatan<br>15 km = 1/2 jam(ubah kejam yang 30 menit td) . kecepatn<br>15 km/1/2 jam)= kecepatan<br>30 km/jam = kecepatn :)<br><br>cara ke dua perbandingan berbalik nilai<br>45/30 = x/20<br>45.20 = 30.x<br>900=30 x<br>900/30 = x<br>30 km/jam = x :)<br><br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "tentukan-himpunan-penyelesaian-dari-persamaan-berikut-a-6x-10-297",
+            "question": "Tentukan HIMPUNAN PENYELESAIAN dari persamaan berikut!    a. 6x - 10 = 2x + 2\r\nb. 5x - 4 = 3x - 8\r\nc. -7 - 2a = 4a - 19\r\nd. Jika diketahui 15x - 7 = 8 - 10x , maka tentukan nilai 2x + 1",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]a.6x-2x=2+10 \\\\ 4x=12 \\\\ x=3 \\\\  \\\\ b.5x-3x=-8+4 \\\\ 2x=-4 \\\\ x=-2 \\\\  \\\\c.-2a-4a=-19+7 \\\\ -6a=-12 \\\\ a=2 \\\\  \\\\ d.15x+10x=8+7 \\\\25x=15 \\\\ x=15/25  \\\\ x=3/5 \\\\  \\\\ 2x+1=2(3/5)+1 \\\\ 6/5+1=2,2[/tex]",
+                    "attachments": []
+                },
+                {
+                    "answer": "6x - 10 =2x +2<br>6x - 2x = 2 + 10<br>4x = 12<br>x = 3<br><br>5x - 4 =3x - 8<br>5x - 3x = -8+4<br>2x = -4<br>x = -2<br><br>-7 - 2a = 4a - 19<br>-2a - 4a = -19 + 7<br>-6a = -12<br>a = 2<br><br>15x - 7 =8 - 10 x<br>15x + 10x = 8 +7<br>25x = 15<br>x = 3/5<br>Nilai<br>2x + 1<br>2 x 3/5 + 1<br>6/5 + 1<br>6/5 + 5/5<br>11/5 = 2 1/5<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "ubahlah-pertidaksamaan-linear-berikut-ke-dalam-permasalahan-kehid-632",
+            "question": "Ubahlah pertidaksamaan linear berikut ke dalam permasalahan kehidupan sehari-hari.    a) x &gt; 10\r\nb) 2y \u2264 50\r\nc) 2x + 3 &gt; 4\r\nd) 5a \u2013 1 \u2265 6\r\ne) 7 &gt; 3x",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a. \u00a0agar tubuh kuat diperlukan minuman paling sedikut 10 gelas air sehari<br>b. 2y\u00a0\u2264 50 \u00a0 \u00a0harga dua buku paling mahal 50",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apa-itu-variabel-dan-apa-itu-persamaan-kuadrat-247",
+            "question": "Apa Itu Variabel ? Dan Apa Itu Persamaan Kuadrat ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span><span>Variabel\u00a0: (Lat) 1. berubah-ubah, tidak tetap;<br>\u00a02. deklarasi sesuatu yang memiliki variasi nilai <br>3. berbeda-beda dalam bahasa pemrograman disebut juga simbol yang mewakili nilai tertentu, variabel yang dikenal di sub program disebut variabel lokal. sedang yang di kenal secara umum/utuh dalam satu program disebut variabel global.<br></span><span>Variabel\u00a0: adalah objek penelitian, atau apa yang menjadi fokus di dalam suatu penelitian. Menurut F.N. Kerlinger variabel sebagai sebuah konsep. Variabel merupakan konsep yang mempunyai nilai yang bermacam-macam. Suatu konsep dapat diubah menjadi suatu variabel dengan cara memusatkan pada aspek tertentu dari variabel itu sendiri.<br><br><span>Persamaan kuadrat\u00a0adalah suatu persamaan polinomial berorde dua. Bentuk umum dari persamaan kuadrat adalah</span><br></span></span>",
+                    "attachments": []
+                },
+                {
+                    "answer": "variabel adalah lambang pengganti suatu bilangan\u00a0  yang belum diketahu nilainya dengan\u00a0 jelas. persamaan kuadrat adalah nilai peubah yang memenuhi pers kuadrat ,<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "p13579-tuliskan-semua-himpunan-bagian-yang-mungkin-dari-p-581",
+            "question": "P={1,3,5,7,9} tuliskan semua himpunan bagian yang mungkin dari p dan hitung banyaknya",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "kalau 1 anggotanya = 5<br>kalau 2 anggotanya = 10<br>kalau 3 anggotanya = 10<br>kalau 4 anggotanya = 5<br>kalau 5 anggotanya = 1<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "barapakah-hasil-dari-19999999999999828782428-694",
+            "question": "Barapakah hasil dari 19999999999999828782+428",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "jawabannya :20.000.000.000.427<br><br>maaf kalau salah :)",
+                    "attachments": []
+                },
+                {
+                    "answer": "19.999.999.999.999.829.210<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-nilai-x-jika-2x-1-2x-2-2x-32x-5-961",
+            "question": "Tentukan nilai x, jika (2x + 1) + (2x + 2) + (2x + 3)+...+(2x + 50) = 4275. Tolong dijawab yaa, pleaseee",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "jawabannya 30<br><br>Sn = n/2 { a +Un } = 4275<br>&gt; 50/2 { (2x+1) + (2x+50) } = 4275<br>&gt; 25 { 4x + 51 } = 4275<br>&gt; 100x + 1275 = 4275<br>&gt;100x = 4275 - 1275<br>&gt;100x = 3000<br>&gt;x = 30<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-penyelesaian-persamaan-15-3x-9-adalah-2-himpunan-penyeles-716",
+            "question": "1. penyelesaian persamaan 15-3x= 9 adalah ..    2. himpunan penyelesaian dari x- 2 = 1, x\u00a0\u2208 bilangan cacah adalah ..\r\n3. himpunan penyelesaian pertidaksamaan x-5&gt; 10, x\u00a0\u2208 blngan asli adalah ..\r\n4. himpunan pnyelesaian pertidaksamaan 2x &lt; 8 , x\u00a0\u2208 blngan asli adalah ..\r\n5.himpunan penyelesaian pertidaksamaan 7x &gt; 28 , x\u00a0\u2208\u00a0A \u00a0adalah ..",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1) 15 - 3x = 9<br>15 - 9 = 3x<br>6 = 3x<br>2 = x<br>2) x - 2 = 1<br>x = 1+2<br>x = 3<br>3) x - 5 &gt; 10<br>x &gt; 10 + 5<br>x &gt; 15<br>4) 2x &lt; 8<br>x &lt; 4<br>5) 7x &gt; 28<br>x &gt; 4<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "1. 15 - 3x= 9<br>3x = 6<br>x = 2<br><br>2. x - 2 = 1<br>x = 3 <br>HP = {x|x = 3}<br><br>3. x - 5 &gt; 10<br>x &gt; 15<br>HP = {x|x &gt; 15}<br><br>4. 2x &lt; 8<br>x &lt; 4<br>HP = {x|x &lt; 4}<br><br>5. 7x &gt; 28<br>x &gt; 4<br>HP = {x|x &gt; 4}<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "2-per-3-2a35-per-6-a-5-506",
+            "question": "2 per 3 (2a+3)=5 per 6 (a-5)=",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "2/6a+9 = 5/6a-30<br>12a-60 = 30a+45<br>-105 = 18a<br>a= -105/18",
+                    "attachments": []
+                },
+                {
+                    "answer": "[tex] \\frac{2}{3} (2a+3)= \\frac{5}{6} (a-5)  [/tex]<br><br>[tex] \\frac{4a+6}{3} =  \\frac{5a-25}{6} [/tex]<br><br>3(5a-25)=6(4a+6)<br><br>[tex]15a-75=24a+36[/tex]<br><br>15a-24a=36+75<br>-9a=111<br>a=111/-9<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "693",
+            "question": "",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "jadi 10+6=16<br><br>begitu saja kak jawabanyy<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "harga-1-lusin-pensil-rp-1800000maka-tentukan-harga-9-pensil22-594",
+            "question": "Harga 1 lusin pensil Rp 18.000,00,maka tentukan harga 9 pensil,22 pensil dan 1 gros pensil !",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "\u00a0 9 pensil = Rp. 13.500<br>\u00a022 pensil =\u00a0Rp. 33.000<br>1 gros (144buah) = Rp. 216.000<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,134 @@
+{
+    "question": "Jelaskan turunan fungsi dari :\r\n1.\u00a0y=\u00a0\u221asinx\r\n2. y=\u00a0x\u00b2\u00a0\u00d7\u00a0sinx",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "[tex]y=\\sqrt{sin(x)}\\\\\ny=(sin(x))^{\\frac{1}{2}}\\\\\ny&#039;=\\frac{1}{2}(sin(x))^{\\frac{1}{2}-1}.cos(x).(1)\\\\\ny&#039;=\\frac{1}{2}(sin(x))^{-\\frac{1}{2}}.cos(x)\\\\\ny&#039;=\\frac{cos(x)}{2\\sqrt{sin(x)}}\\\\\\\\\ny=x^2sin(x)\\\\\ny&#039;=2x^{2-1}sin(x)+2x^2.cos(x).(1)\\\\\ny&#039;=2x.sin(x)+x^2.cos(x)\\\\[/tex]",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "tentukan-nilai-a-dan-b-jika-x4-ax2bx-1-habis-dibagi-oleh-x2-321",
+            "question": "Tentukan nilai a dan b jika\u00a0 X^4-ax^2+bx-1 habis dibagi oleh X^2-2x+1\r\n\r\nMohonnnn bantuannya!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]x^4-ax^2+bx-1 habis\\ dibagi\\ (x-1)^2\\\\\nmaka\\ (1)^4-a(1^2)+b(1)-1=0\\\\\n1-a+b-1=0\\\\\n-a+b=0\\\\\na=b[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-siswa-direlasikan-dengan-tanggal-kelahirannya-apakah-relas-900",
+            "question": "jika siswa direlasikan dengan tanggal kelahirannya , apakah relasi itu merupakan fungsi ? berikan penjelasannya ??",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "tdak karena tdAK MENutup kemungkinan terdapat kesamaan tanggal lahir",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "x4-3x3-5x2x-6-x25x-2-917",
+            "question": "(x4-3x3- 5x2+x-6)\r\n : ( x2+5x-2)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "hasil pembagiannya x= -16648 dan x=42112<br>x4-3x3-5x+x-6 ;x2+5x-2<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "penyelesaian-34x-5lt11-444",
+            "question": "Penyelesaian 3\u2264(4x-5)&lt;11",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>3\u2264(4x-5)&lt;11=<br></span>2 \u2264x&lt;4 sorry, if the fals answer<br><br><br><br><br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "[tex]3  \\leq  4x-5&lt;11\\\\\n 3+5 \\leq 4x-5+5&lt;11+5\\\\\n8 \\leq 4x&lt;16\\\\\n\\frac{8}{4} \\leq \\frac{4x}{4}&lt;\\frac{16}{4}\\\\\n2 \\leq x&lt;4[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-suatu-barisan-aritmetika-136-131-75-127-5-jik-991",
+            "question": "Diketahui suatu barisan aritmetika : 136; 131, 75; 127, 5;... Jika suku ke-n barisan tersebut bernilai nol, n = ...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a= 136<br>b= 131-136= -5<br>Un = a+(n-1)b<br>\u00a00\u00a0 = 136+(n-1)-5<br>\u00a00\u00a0 = 136-5n+5<br>\u00a00\u00a0 =\u00a0 141-5n<br>\u00a05n = 141-0<br>\u00a0 n = 141\u00f75 = 28<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "koordinat-titik-puncak-grafik-fungsi-kuadrat-adalah25-jika-gra-477",
+            "question": "koordinat titik puncak grafik fungsi kuadrat adalah(2,5) jika grafik fungsi kuadrat melalui titik (-1,23) maka tentukan rumus fungsi kuadrat ! tolong bantu yah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "hasilnya nti jadi 18x-3y-51=0<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "contoh-perhitungan-uji-kenormalan-data-dengan-mengunakan-tabel-go-601",
+            "question": "Contoh perhitungan uji kenormalan data dengan mengunakan tabel goodness of fit",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Ini sepertinya soal per kuliahan ini, goodness of fit adalah uji untuk mengetahui tingkat normalitas dari sebuah data agar dipastikan terhindar dari autokorelasi, heteroskedastisitas, dan multikolininearitas <br><br>Saya kurang tahu apakah di tingkat SMA hal ini sudah diajarkan, tapi karena ditanyakan maka saya berusaha menjawab. <br><br>Untuk uji auto korelasi berfungsi mencari apakah ada gangguan pada data karena data yang digunakan berhubungan dengan data pada periode peridoe sebelumnya yang membuat sampel random menjadi tidak efektif. Rule of thumb nya pake uji durbit watson.<br>Kemudian untuk uji heterokedastisitas adalah menguji apakah ada varian yang besar sehingga membuat standar deviasi melebihi rata ratanya dan membuat bias dalam membaca hasil. Kalau ini bisa menggunakan uji table t.<br>Sedangkan uji multikolineritas adalah mencari apakah hubungan antar variabel independen lebih besar dari dependen kalau ini menggunakan uji F -test.<br><br>Kalau model sudah terbebas dari semua kesalahan ini (3) maka bisa dilihat dari tabel anova apakah adj r square nya besar. Contoh apabila r square nya (50%) maka artinya 50% dari fenomena yang diteliti bisa dicari / direpresentasikan dengan model tersebut.<br><br>Materi ini sudah masuk ke materi ekonometri untuk anak kuliah tingkat akhir, tapi dibahas tidak apa apa karena berkaitan juga dengan matematika.\u00a0 <br><br>Sukses ya<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "persaman-m-14x2m0-mempunyai-akar-real-tentukan-m-yang-memen-534",
+            "question": "Persaman (m-1)+4x+2m=0 mempunyai akar real. Tentukan m yang memenuhi",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>(m-1)+4x+2m=0<br></span><br><span>m-1+4x+2m=0<br>3m</span><span>+4x=1<br>3m=1-4x<br>m=(1-4x)/3<br>m=(1/3)-(4x/3)<br>maybe :D<br></span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-suatu-segitiga-siku-siku-dengan-nilai-sinus-salah-satu-124",
+            "question": "diketahui suatu segitiga siku-siku dengan nilai sinus salah satu sudut lancipnya adalah\u221a3/2. tentukanlah nilai cosinus, tangen sudut tersebut.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "cos nya 1/2 <br>tangen nya \u221a3",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span>cos nya 1/2 <br>tangen nya \u221a3</span><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pak-daniel-seorang-karyawan-perusahaan-ia-membeli-sebuah-mobil-513",
+            "question": "pak\u00a0daniel seorang karyawan perusahaan. ia membeli sebuah mobil bekas seharga Rp90.000.000,00.\u00a0dan dikenakan pajak\u00a0penjualan\u00a0sebesar 5%.berapa rupiah uang yang harus dibayar pak daniel untuk pembelian mobilnya?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Rp4500000, karena 90000000 x 5/100",
+                    "attachments": []
+                },
+                {
+                    "answer": "90000000x5/100 = 4500000<br>90000000+4500000=94500000<br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

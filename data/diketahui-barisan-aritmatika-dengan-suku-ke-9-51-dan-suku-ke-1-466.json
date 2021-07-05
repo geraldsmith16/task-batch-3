@@ -1,0 +1,128 @@
+{
+    "question": "Diketahui barisan aritmatika dengan suku ke-9 = 51, dan suku ke-13= 79. suku ke 6 adalah...",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "13-9 = 4<br>Jadi jarak antar kedua suku adalah 4<br>79-51= 28<br>Jadi selisih kedua suku adalah 28<br>4 = 28<br>1= 7<br>Jadi, beda antar suku adalah 7<br>Jadi, barisan aritmatikanya adalah<br>-5,2,9,16,23,30,37,44,51<br>Suku ke 6 adalah 30 ^^<br>semoga betul kak :D",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "jika-ab-dan-c-adl-sudut2-pda-sebuah-segtiga-dan-nilai-dari-tan-367",
+            "question": "jika A,B, dan C adl sudut2 pda sebuah segtiga dan nilai dari tan A = 4, tan B = 3, maka nilai dari tan C=.......?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]A,\\ B\\ dan\\ C\\ merupakan\\ sudut2\\ dlm\\ segitiga,\\ maka\\\\\nA+B+C=180^{o}\\\\\nA+B=180^{o}-C\\\\\nTan(A+B)=Tan(180^{o}-C)\\\\\n\\frac{Tan A+Tan B}{1-TanATanB}=-TanC\\\\\n\\frac{4+3}{1-4(3)}=-TanC\\\\\n\\frac{7}{-11}=-TanC\\\\\nTanC=\\frac{7}{11}\n[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "panjang-busur-lingkaran-dengan-sudut-pusat-120-dan-panjang-diam-570",
+            "question": "Panjang busur lingkaran dengan sudut pusat 120\u00b0 dan panjang diameter 21 cm adalah..",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "21.98 jadi 22<br>cari keliling dulu, trs 120/360.kliling lingkaran",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-sebuah-talang-air-dari-lembaran-seng-yang-lebarnya-30-c-350",
+            "question": "Diketahui sebuah talang air dari lembaran seng yang lebarnya 30 cm dengan melipat lebarnya atas 3 bagian, seperti gambar dibawah    ditanyakan : a. ukuran x ?\r\n\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0b. volume air maks yg dapat ditampung ?",
+            "attachments": [
+                "question-attachments/diketahui-sebuah-talang-air-dari-lembaran-seng-yang-lebarnya-30-c-350-1.png"
+            ],
+            "answers": [
+                {
+                    "answer": "X= 10\u00a0<br>V=\u00a0[tex] 10^{3} [/tex]=1000cm3",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-sin-ao-12-13-untuk-2-lt-a-lt-p-nilai-dari-sin-217",
+            "question": "Diketahui sin Ao = 12 13 untuk 2 &lt; A &lt; \u03c0 . Nilai dari Sin ( \u03c0 - A)o adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "sepertinya soal yang anda masukan ada kesalahan<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sederhanakan-bentuk-logaritma-berikut-a-2log242log-852",
+            "question": "Sederhanakan bentuk logaritma berikut.\r\n\r\na.\u00a0\u00b2log24+\u00b2log",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]^2log24+\\ ^2log\\frac{1}{3}=\\ ^2log(24(\\frac{1}{3}))\\\\\n^2log24+\\ ^2log\\frac{1}{3}=\\ ^2log8\\\\\n^2log24+\\ ^2log\\frac{1}{3}=\\ ^2log2^3\\\\\n^2log24+\\ ^2log\\frac{1}{3}=\\ 3[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "75x25x05-hasil-pangkat-56-adalah-301",
+            "question": "75x25x0+5=\r\nhasil pangkat 56 adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "72 . 25 . 0 + 5 = hasil pangkat 56<br>0+5 = hasil pangkat 56<br>hasil sama dengan 5<br>kalau soalnya hasilnya harus di pangkat 56 lagi maka<br>hasil akhir = 5 pangkat 56\u00a0<br><br>tapi kalo maskudnya bukan seperti itu,maka hasilnya tetap 5 :)<br>karna tidak ada variabel disana yang harus dicari nilainya :)",
+                    "attachments": []
+                },
+                {
+                    "answer": "Maaf mungkin bisa di cek lagi soalnya,,karena hasil penghitungan 75x25x0+5 itu kalo dalam matematika bisa di tafsirkan (75x25x0)+5=5,,atau mungkin 75x25x(0+5)=9375<br>mungkin perlu di perjelas lagi cara penulisannya,,terima kasih<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diket-x1-dan-x2-akar-akar-persamaan-kuadrat-2-x-4-0-susun-552",
+            "question": "diket x1 dan x2 akar akar persamaan kuadrat 2\u00a0- x + 4 = 0. susunlah persamaan kuadrat baru yg akar akarnya x1 . x2 dan x1 + x2",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "jika pers x\u00b2-x+4=0 maka x1 + x2 = 1 dan x1x2= 4<br>mis\u00a0\u03b1 dan\u03b2 akar2 pk baru maka<br>\u03b1+\u03b2=x1x2 +(x1+x2) = 5 dan\u00a0\u03b1\u03b2= x1x2.(x1+x2)=4<br>jadi pk baru x\u00b2-( jumlah akar)x + hasil kali akar = 0<br>\u00a0 \u00a0x\u00b2- 5)x + 4r = 0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suku-ke-3-deret-geometri-adalah-20-jumlah-suku-ke-5-dan-suku-ke-101",
+            "question": "suku ke-3 deret geometri adalah 20, jumlah suku ke-5 dan suku ke-6 adalah -80. jumlah 5 suku pertama deret ini adalah?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "suku ke 3 = ar^(3-1)=ar^2<br>suku ke 5 = ar^(5-1)=ar^4<br>suku ke 6\u00a0= ar^(6-1)=ar^5<br><br>ar^2=20.............(1)<br><br>ar^4+ar^5=\u00a0-\u00a080<br>ar^4(r+1)= - 80<br><br>ar^2x r^2 (r+1)= - 80<br>20 xr^2 (r+1)= - 80<br>r^2 (r+1)= - 4<br><br>r^3+r^2+4=0........(2)<br><br>faktorkan dg cara horner dapat (r+2)(r+1)(r-2)<br><br>r yang dpt memenuhi ke2 persamaan adalah r=\u00a0- 2<br><br>maka ar^2=20<br>a=5<br><br>S5=a(1-r^5)/(1-r)<br>=5(1-(-32))/(1-(-2))<br>=5(33)/(1+2)<br>=55",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-tentukan-hasil-kali-akar-akar-persamaan-kuadrat-dari-px-qx-749",
+            "question": "1.\u00a0Tentukan hasil kali akar-akar persamaan kuadrat dari\u00a0px = qx\u00b2    2, jika diketahui persamaan kuadrat 6x\u00b2 - 48x + 90 = 0\r\n\u00a0 tentukan ;\r\n\u00a0 \u00a0a. X1\u00b2 . X2\u00b2 + X2\u00b2 . X1\u00b2\r\n\u00a0 \u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1. px = qx2<br>qx2-px=0<br>x(qx-p)=0<br>x1=0 atau qx-p=0<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 x2 = p/q<br>x1.x2= 0.p/q=0<br><br>2. 6x\u00b2-48x+90=0<br>x\u00b2+8x-15=0<br>(x-3) atau (x-5)<br>x1=3 atau x2=5<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentang-konjungsi-dik-pxx3-x0-qx-8-9lt0-dit-tentu-592",
+            "question": "Tentang konjungsi    dik : p(x)=x\u00b3-x=0 ; q(x)= 8-9&lt;0\r\ndit : tentukan nilai x agar p\u2227q bernilai benar dan bernilai salah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "di cari dulu persamaannnya mbak \"D<br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

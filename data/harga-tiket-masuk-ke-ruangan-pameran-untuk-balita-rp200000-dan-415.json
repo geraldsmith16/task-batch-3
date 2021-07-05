@@ -1,0 +1,134 @@
+{
+    "question": "harga tiket masuk ke ruangan pameran untuk balita Rp.2000,00 dan untuk dewasa Rp.3000,00.Pada hari minggu terjual 540 tiket adengan hasil penjualan Rp1.260.000,00.banyak masing-masing tiket masuk balita dan dewasa terjual berturut turut adalah...",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "balita = 360 tiket = 720.000<br>dewasa = 180 riket = 540.000<br>total = 1.260.000",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "sekeping-uang-logam-di-lempar-30-kali-frekuensi-muncul-gambar-9-840",
+            "question": "sekeping uang logam di lempar 30 kali. frekuensi muncul gambar 9 kali. frekuensi relatif muncul gambar.........",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "P (mcl gambar) = 9/30 = 0,3",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-matriks-a-x1-2-b-x-3-dan-526",
+            "question": "Diketahui matriks A = ( x+1 \u00a02), B = ( \u00a0\u00a0x \u00a0 \u00a0\u00a0 3 \u00a0 ), dan C (\u00a03 \u00a05). Jika A\u00a0+ B\u00a0= C\u00a0    \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 3 \u00a0 \u00a05 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a02 \u00a0 \u00a0y+\u00a02 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 5 \u00a04\u00a0\r\n\r\nMaka nilai x + y adalah....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]  \\left[\\begin{array}{cc}{x+1}&amp;2\\\\3&amp;5\\\\\\end{array}\\right] + \\left[\\begin{array}{cc}x&amp;3\\\\2&amp;{y+2}\\\\\\end{array}\\right] = \\left[\\begin{array}{cc}3&amp;5\\\\5&amp;4\\\\\\end{array}\\right] \\\\\\\\\n\\left[\\begin{array}{cc}{(x+1)+x}&amp;2+3\\\\3+2&amp;5+(y+2)\\\\\\end{array}\\right] = \\left[\\begin{array}{cc}3&amp;5\\\\5&amp;4\\\\\\end{array}\\right] \\\\\\\\\n\\left[\\begin{array}{cc}{2x+1}&amp;5\\\\5&amp;{y+6}\\\\\\end{array}\\right] = \\left[\\begin{array}{cc}3&amp;5\\\\5&amp;4\\\\\\end{array}\\right] \\\\\\\\\nmaka\\\\\n2x+1=3 \\rightarrow x=1\\\\\ny+6=4 \\rightarrow y=-2\\\\\nsehingga\\ x+y=1+(-2)=-1[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-bak-air-besar-berbentuk-tabung-yang-panjang-jari-jarinya-7-580",
+            "question": "sebuah bak air besar berbentuk tabung yang panjang jari-jarinya 70 cm dan tinggi 1,8 m, terisi penuh. setelah air dalam bak terpakai sebanyak 770 liter, berapakah tinggi sisa air dalam bak tersebut?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "v tabung = 22/7 x\u00a070 x 70 x 180 = 2.772.000 cm3 : 2.772 l<br>sisa air = 2.772 - 770 = 2.002 l",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "luas-jajargenjang-pqrs-adalah-72cm-pq12cm-dan-su8cm-tentukan-575",
+            "question": "Luas jajargenjang PQRS adalah 72cm, PQ=12cm, dan SU=8cm. tentukan keliling PQRS!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "12x2= 24<br>8x2=16<br>24+16= 40",
+                    "attachments": []
+                },
+                {
+                    "answer": "12x2= 24<br>8x2=16<br><span>24+16= 40<br>semoga btul</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-barisan-5-8-11125-punya-suku-tengah-ut-maka-t-ut-310",
+            "question": "Jika barisan 5, 8, 11........125 punya suku tengah Ut maka t + Ut adalah    mnta tolong yha kl ada yg bsa bntuin\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a= 1, Un=131<br>\u00a0Ut= 1/2(a+ Un)<br>\u00a0\u00a0\u00a0 =1/2(5+131)<br>\u00a0\u00a0\u00a0 =1/2(136)<br>\u00a0\u00a0\u00a0 = 68<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-suatu-fungsi-kuadrat-yx24-carilah-diskriminannya-643",
+            "question": "Diketahui suatu fungsi kuadrat y=x\u00b2+4 . carilah diskriminannya!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "D = b^2 - 4ac<br>= 0^2 - (4)(1)(4)<br>= 0 - 16<br>= -16<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Diskriminan =<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 =<span>b2 - 4ac<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 0 - (4 x1 x 4)<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 0 - 16<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = -16 + 0<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = -16<br></span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jumlah-n-suku-pertama-suata-deret-artmetika-adalah-sn12n11-n-918",
+            "question": "Jumlah n suku pertama suata deret artmetika adalah Sn=1/2n(11-n).rumus sukuke-n adalah....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "rumus jumlah suku ke n = n/2(2a+(11-1)b)<br>jadi rumus suku ke n = a+(11-1)b<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-f-1x-a-fx-12-x-5-831",
+            "question": "Tentukan f-1(x)\r\n\r\n\r\na. f(x) = 1/2 (x + 5 )",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]ini\\ langkahnya\\ dek\\\\\n\\\\\nf(x)=\\frac{x+5}{2}\\\\\\\\\nkalikan\\ dengan\\ 2\\\\\\\\\n2f(x)=x+5\\\\\\\\\nkedua\\ ruas\\ dikurang\\ dengan\\ 5\\\\\\\\\n2f(x)-5=x+5-5\\\\\\\\\n2f(x)-5=x\\\\\\\\\nnyatakan\\ bentuk\\ di atas\\ sebagai\\ f^{-1}(x)\\\\\\\\\nf^{-1}(x)=2f(x)-5[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "ibu-membeli-40-kg-gula-pasir-gula-itu-akan-dijual-eceran-denga-816",
+            "question": "\u00a0Ibu membeli 40 kg gula pasir. Gula itu akan dijual eceran dengan dibungkus plastik masing-masing beratnya\u00a0\u00a0kg. Banyak kantong plastik berisi gula yang dihasilkan adalah........    A.10 kantong\r\nB.80 kantong\r\nC.120 kantong\r\nD.160 kantong",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "40 kg x 2<br>= 80 kantong<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "A. 40:10= 4 kg<br>B. 40:80=1/2 kg<br>C. 40:120= 1/3 kg<br>D. 40:160=1/4 kg",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-tentukan-hasil-kali-akar-akar-persamaan-kuadrat-dari-px-qx-749",
+            "question": "1.\u00a0Tentukan hasil kali akar-akar persamaan kuadrat dari\u00a0px = qx\u00b2    2, jika diketahui persamaan kuadrat 6x\u00b2 - 48x + 90 = 0\r\n\u00a0 tentukan ;\r\n\u00a0 \u00a0a. X1\u00b2 . X2\u00b2 + X2\u00b2 . X1\u00b2\r\n\u00a0 \u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1. px = qx2<br>qx2-px=0<br>x(qx-p)=0<br>x1=0 atau qx-p=0<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 x2 = p/q<br>x1.x2= 0.p/q=0<br><br>2. 6x\u00b2-48x+90=0<br>x\u00b2+8x-15=0<br>(x-3) atau (x-5)<br>x1=3 atau x2=5<br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

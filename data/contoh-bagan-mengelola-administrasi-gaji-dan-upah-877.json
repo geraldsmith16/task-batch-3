@@ -1,0 +1,142 @@
+{
+    "question": "Contoh Bagan mengelola administrasi gaji dan upah",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "Gaji dan Upah merupakan pengeluaran perusahaan yang masuk dalam kegiatan operasional\u00a0<br>bagan gaji terbagi dalam satuan\u00a0<br>- jam<br>\u00a0- hari<br>- bulan\u00a0<br><br>sehingga variabel di atas menjadi variabel pengali dari besarnya gaji setiap orang\u00a0<br><br>contoh\u00a0<br>No \u00a0| Nama \u00a0 | Satuan (jam/hari/bulan) \u00a0| besaran gaji | jumalh total\u00a0",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "bantu-saya-saya-lupa-cara-soal-yang-ini-misal-dibayar-sewa-tem-465",
+            "question": "Bantu saya, Saya lupa cara soal yang ini:    misal; dibayar sewa tempat usaha sebesar Rp 1.500.000\r\nyg mau saya tanyakan:\r\ndi latihan Persamaan akuntansi saya tdk mmiliki Kolom sewa, bagaimana cara memasukkan transaksi diatas? tlg britau dgn jawaban terbaik anda.\r\nbagi yang tidak tau, tdk usah trtrakan jawaban anda.. trima kasih",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>Sewa tempat masuk ke <br>aset tetap dengan kurung waktu yang lama<br>\u00a0oleh karena itu pertambahannya akan masuk ke Debit<br>Sewa di bayar di muka \u00a0Rp 1.500.000<br>\u00a0 \u00a0 \u00a0 Kas \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 1500 000\u00a0<br><br>Kalaupun di bayar dengan hutang<br>Sewa di bayar di muka \u00a0Rp. 1500 000<br>\u00a0 \u00a0 \u00a0 Kas \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 1500 000<br><br>Nah dalam pencatatan hal ini akan masuk ke buku besar dengan persamaan\u00a0<br><br>Pertambahan aktiva tetap\u00a0<br>Sewa gedung \u00a0\u00a0<br>1500 000 (aktiva)\u00a0<br><br>Dan kas berkurang juga di aktiva\u00a0<br>1500 000\u00a0<br><br>Kemudian bila dibayar menggunakan hutang di pasiva akan bertambah sebesar 1500 000<br><br></span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "mengapa-di-indonesia-pemberdayaan-sumber-energi-alternatif-tidak-444",
+            "question": "mengapa di indonesia pemberdayaan sumber energi alternatif tidak berkembang? padahal banyak sumber alternatif yang potensial seperti: sinar matahari, aliran sungai dan laut, geotermal, dll, dan perkembangan teknologi yang ada di indonesia juga sebenarnya sudah berkembang dan bisa mengaplikasikan sumber energi alternatif.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Karena SDM (Sumber Daya Manusia) di Indonesia belum memiliki kapasitas/kemampuan yang mumpuni untuk melakukannya",
+                    "attachments": []
+                },
+                {
+                    "answer": "dikarenakan sumber daya manusia nya belum memadai. adapun teknologi yang dikembangkan juga masih belum se-canggih luar negeri yang telah sukses mengekplor sumber daya alamnya.<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "mengapa-penanaman-modal-jangka-panjang-harus-dilakukan-dengan-hat-693",
+            "question": "Mengapa penanaman modal jangka panjang harus dilakukan dengan hati-hati ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Setiap investasi kita selalu melihat cost of investment dan rasio keuntungan. Di konsep ekonomi ada yang namanya opportunity cost. Nah jangka panjang ini karena biasanya nilai mature dari investasi nya cukup panjang maka kita harus berhati hati dalam memilih opportunity cost. Contoh misal kita investasi di deposito dengan untung 10% per tahun selama 5 tahun. Tiba tiba kita tahu kalau investasi di emas bisa untuk 12 % per tahun selama 5 tahun maka kita sudah rugi secara opportunity sebesar 2%. <br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jelaskan-pentingnya-bank-dalam-kehidupan-sehari-hari-654",
+            "question": "Jelaskan pentingnya bank dalam kehidupan sehari-hari!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "salah satunya, untuk memanajemen uang. kalo uangnya disimpan di rumah, ada sedikit perlu diambil, sedikit sedikit diambil. kalo di bank enggak<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "agar tidak hidup boros .",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "makalah-pengelolaan-rencana-proyek-sistem-informasi-842",
+            "question": "Makalah pengelolaan rencana proyek sistem informasi",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Dalam sistem informasi ada konsep yang disebut sebagai konsep waterfall<br>yaitu di mulai dari<br>1. perencanaan<br>2. audiensi dengan user<br>3. implementasi dan pengembangan sistem<br>4. mendapat masukan dari user\u00a0<br>5. evaluasi\u00a0<br><br>kemudian apabila evaluasi sudah dilaksanakan kembali lagi ke konsep awal yaitu perencanaan. Nah di sini variasi pengembangan makalah akan sangat tergantung pada user, besarnya sistem, dan keamanan sistem\u00a0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-data-dari-bagian-litbang-pt-rekayasa-pratama-bandung-s-706",
+            "question": "Diketahui Data dari bagian Litbang PT. Rekayasa Pratama Bandung Sbb:    TCm = 12.000.000 + 4.550 K\r\ndimana TCm adalah fungsi biaya total per tahun untuk alternatif membuat komponen, sedangkan K adalah unit komponen yang dibuat.\r\nTCb = 8.550 K\r\nDimana TCb adalah biaya total per tahun untuk alternatif membeli komponen, sedangkan K adalah unit komponen yang di beli\r\nDiminta kepada Saudara untuk menentukan kebijakan dari perusahaan tersebut yaitu pada saat kapan perusahaan tesebut harus membuat sendiri komponen yang dibutuhkannya dan pada saat kapan harus membelinya dari pihak lain",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Menurut saya jika TCm lebih Tinggi Dibandingkan TCb maka anda boleh Membeli komponen dari pihak lain dan anda Harus membuatnya jika TCm lebih rendah Dibandingkan TCb",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "mengapa-bpr-tidak-boleh-mengadakan-valuta-asing-dan-apa-yang-di-502",
+            "question": "Mengapa BPR tidak boleh mengadakan valuta asing ? dan apa yang dimaksud prinsip bagi hasil ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "BPR pada dasarnya memfokuskan diri pada usaha mikro yang terdiri dari masyarakat usaha kecil dengan klien yang memiliki jumlah pegawai kurang dari 50 orang. Di khawatirkan bila BPR mengadakan valuta asing maka akan merubah bisnis pokok perusahaan yang berorientasi pada masyarakat. Di tambah klien dari BPR tidak ada yang berasal dari luar negeri.\u00a0<br><br>Prinsip bagi hasil artinya seluruh keuntungan perusahaan akan dibagikan kepada pemegang entitas perusahaan sesuai besaran ekuitas yang mereka miliki.\u00a0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-dibantu-yah-pr-buat-besok-nih-dalam-menghitung-pesana-ko-228",
+            "question": "Tolong dibantu yah pr buat besok nih ?    dalam menghitung pesana konsumen kita dapat mengukurnya dengan permintaan pasar . benar atau salah ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "tidak, karena kebutuhan manusia tidak terbatas<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "tidak karena mengukur permintaan itu tidak sama dengan menghitung pesanan konsumen",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-sebutkan-jenjang-jenjang-karir-account-officer-bank-butu-338",
+            "question": "Tolong sebutkan jenjang-jenjang karir account officer bank ?\r\nbutuh cepat nih....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "junior officer,senior officer,suferfisor,direktor.<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "biasanya masuk melalui jalur ODP, kemudian di angkat menjadi junior officer, di angkat menjadi senior officer, kemudian naik ke supervisor, asistant manager, dan akhirnya manajer. <br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebutkan-aneka-karya-kerajinan-tekstil-748",
+            "question": "Sebutkan aneka karya kerajinan tekstil?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "songket, kain batik, kain kebaya, kain sutra, sarung, tenun",
+                    "attachments": []
+                },
+                {
+                    "answer": "songket,kain batik kain kebaya kain sutra sarung,tenun<br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

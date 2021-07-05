@@ -1,0 +1,138 @@
+{
+    "question": "Sebuah bola bermassa 0,4 kg bergerak dengan laju 6 m/s dan menumbuk bola lain bermassa 0,6 Kg yang sedang bergerak mendekatinya dengan laju 8 m/s. Kedua bola tersebut bertumbuk tidak lenting sempurna. Laju kedua bola setelah tumbukan adalah..",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "<p>m1.v1 + m2.v2= (m1+v1) v&#039;</p><p>0.4.6 + 0.6.8= (0,4+0,6) v&#039;</p><p>2,4 + 4,8 = 1. v&#039;</p><p>7,2= v&#039;</p><p>jadi laju kedua bola setelah tumbukan adalah 7,2 m/s<br></p>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "bidang-lingkaran-dan-persegi-terbuat-dari-bahan-yang-sama-dan-lua-356",
+            "question": "bidang lingkaran dan persegi terbuat dari bahan yang sama dan luas lingkaran dua kali luas persegi pada suhu 20 derajat C. berapakah perbandingan pertambahan luas kedua bidang. jika bidang lingkaran dipanasi\u00a0hingga 30 derajat C. sedangkan pesegi dipanaskan hingga 35 derajat C\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "m\u00d7c\u00d7\u0394t<br>massa di umpamakan luasnya<br>1xcx(30-25)=5c<br>2xcx(35-25)=20c<br>5:20=1:4<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "mengapa-air-laut-bsa-menimbulkan-bencana-alam-yaitu-sunami-apakah-667",
+            "question": "Mengapa air laut bsa menimbulkan bencana alam yaitu sunami apakah yg terjadi didlm air laut???",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "tsunami terjadi karena gempa dan getaran dahsyat yang terjadi di dasar laut sehingga gelombang laut menjadi tidak terkendali sehingga menimbulkan bencana tsunami<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "terjadinya gempa didalam laut yang di akibatkan pergeseran lempengan bumi, sehingga air laut menjadi ombak yang begitu besar",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-manakah-yang-memiliki-massa-lebih-besar-sebuah-truk-berat-yan-267",
+            "question": "1. manakah yang memiliki massa lebih besar, sebuah truk berat yang sedang diam, ataukah\u00a0anak kecil yang sedang begerak dengan sepatu roda?    2. manakah yang memiliki momentum lebih besar dari keduanya?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>anak kecil yang sedang begerak dengan sepatu roda</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-tali-dengan-panjang-08-m-dapat-mengerjakan-gaya-sebesar-4-345",
+            "question": "sebuah tali dengan panjang 0,8 m dapat mengerjakan gaya sebesar 4 N tanpa putus. tali itu digunakan untuk mengayunkan suatu benda bermassa 0,5 kg dalam suaru lingkaran horizontal. tentukan periode minimum agar benda dapat diayun tanpa menyebabkan tali putus.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "F= 4 N<br>r= 0,8m<br>m= 0,5 kg<br><br>T=F=mv^2/r<br>v^2 = F . r/m<br>v^2 = 4 . 8/5 =32/5 = 6,4<br><br>v= omega . r<br>v^2= omega^2 . r^2<br>6,4 = omega^2 . 0,8^2<br>omega^2= 6,4/0,64<br>omega^2 = 10<br>omega =\u221a10<br><br>omega= 2 phi /T<br>T= 2 phi / omega<br>T = 2 phi/ \u221a10<br><br>(maaf kalo salah, mata ane udah tinggal 5 watt)<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "contoh-rangkaian-campuran-732",
+            "question": "Contoh rangkaian campuran",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "kendaraan bermotor yang sebagian besar komponennya terdapat beban listrik yang lebih banyak dari rangkaian seri<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "rangkaian antara rangkaian pararel dan rangkaian seri. contohnya rangkaian dalam kendaraan bermotor",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bagaimana-cara-menentukan-titik-tangkap-resultan-pada-keseimbanga-991",
+            "question": "bagaimana cara menentukan titik tangkap resultan pada keseimbangan benda tegar yg tersusun dari beberapa gaya yang sejajar berlawanan arah?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "resultan gaya sejajar segaris dan berlawanan arah sama dengan <u>&#039;&#039;selisih kedua gaya&#039;&#039;</u>. jadi rumusnya : R = F1 - F2<br>R : Resultan gaya",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "rumus-alfa-jika-hanya-diketahui-womega-massa-jari-jari-waktu-343",
+            "question": "Rumus alfa jika hanya diketahui W(OMEGA), massa, jari jari, waktu(s), frekuensi",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "\u03b1 = \u0394\u03c9/\u0394t<br>\u03b1 = torsi/inersia<br>\u03b1 = \u03c9t-\u03c9o/t-to",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suatu-lensa-bikonveks-jari-jari-kelengkungannya-masing-masing-10-648",
+            "question": "Suatu lensa bikonveks ,jari-jari kelengkungannya masing-masing 10 cm dan 40 cm, indeks bias kacanya nk =1,5 . Kemudian, lensa dimasukkan ke dalam minyak yang indeks biasnya n =1,2. Maka kekuatan lensanya dalam minyak ialah.... dioptri.    a. 3,125 \r\nb. 3,250\r\nc. 4,125\r\nd. 4,250\r\ne. 5,250\r\n\r\njawabnya ,tolong pakek cara,ya!!! Biar ngerti cara ngerjain soalnya juga :D",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "tiga dua lima puluh bukan<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "rumus-berat-dalam-fisika-386",
+            "question": "Rumus berat dalam fisika?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "W = m . g<br><br>m = massa \u00a0(kg)<br>g \u00a0= gravitasi \u00a0(m/s\u00b2 )<br>W = berat (N)",
+                    "attachments": []
+                },
+                {
+                    "answer": "yang dimaksud berat kan? w = m x g, massa x gravitasi",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apakah-betul-jawaban-saya-seorang-pelari-menempuh-2-km-dalam-5-me-217",
+            "question": "APAKAH BETUL JAWABAN SAYA    seorang pelari\r\n menempuh 2 km dalam 5 menit dan kemudian membutuhkan 10 menit untuk berjalan\r\n kembali ketitik awal. a) berapakah kecepatan rata-rata untuk 5 menit pertama?\r\n (b) berapakah kecepatan rata-rata selama waktu yang dipakai berjalan? (c)\r\n berapakah kecepatan rata-rata untuk total perjalanan? (d) berapakah kelajuan\r\n rata-rata untuk total perjalanan?\r\n\r\n JAWABAN\r\n\r\na)\u00a0dikt :s = 2 km\u00a0\u21d2\u00a02000 m,\u00a0t= 5 menit\u00a0\u21d2\u00a0300 sekon,\r\n\r\n v = s/t = 2000/300 = 6,66 m/s\r\n\r\nb)\u00a0dikt :\u00a0s = 2 km\u00a0\u21d2\u00a02000 m,\r\n\r\n\r\n\r\nt = 10 menit\u00a0\u21d2\u00a0600 sekon,\r\n\r\n v = s/t = 2000/600 = 3,33 m/s\r\n\r\nP1 + P2\r\n\r\n 6,66 + 3,33 = 9,99 m/s,\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "iya ,betul betul betul<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "setau saya kecepatan rata2nya nol karena tidak ada perpindahan tetapi kalau lajunya pakai rumus ==&gt; laju rata2 = jarak tempuh / total waktu <br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = (2000 + 2000) / 900 = [tex] \\frac{40}{9} [/tex] m/s<br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,128 @@
+{
+    "question": "Diana mempunyai sejumlah uang. sebanyak\u00a0 bagian uang tersebut digunakan untuk membeli sepatu. jika setelah membeli sepatu sisa uang Diana kurang dari Rp50.000,00 . uang Diana mula-mula ...    A. Kurang dari Rp150.000,00\r\nB. Kurang dari Rp100.000,00\r\nC. lebih dari Rp100.000,00\r\nD. Lebih dari Rp150.000,00\r\n\r\nSuatu fungsi f:R\u00a0\u21d2 R dinyatakan dengan rumus f(x) = 5x + b. Jika f(3) = 12 , rumus fungsi f(x) adalah...\r\n\r\nA. \u00a0f(x) = 5x - 7\r\nB.\u00a0 f(x) = 5x - 3\r\nC. \u00a0f(x) = 5x + 3\r\nD. \u00a0f(x) = 5x + 7",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "[tex]misal\\ jumlah\\ uang\\ awal = x\\\\dibelanjakan\\ sebanyak\\ \\frac{2}{3}x,\\ sisa\\ \\frac{1}{3}x\\\\sisa\\ uang\\ &lt;Rp50.000,00\\\\\\frac{1}{3}x&lt;Rp50.000,00\\\\x&lt;Rp150.000,00\\\\\\\\f(3)=5(3)+b=12\\\\15+b=12\\\\b=-3\\\\<span>f(x)=5x-3[/tex]</span>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "sebuah-kotak-berisi-10-kelereng-biru8-kelereng-kuningdan-2-kele-236",
+            "question": "sebuah kotak berisi 10 kelereng biru,8 kelereng kuning,dan 2 kelereng merah.jika diambil dua kelereng sekaligus,peluang terambil keduanya kelereng biru atau keduanya kelereng kuning adalah...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Biru = 10<br>Kuning = 8<br>Merah = 2<br>Total kelereng = 20<br><br>Peluang terambil keduanya kelereng biru = 10C2 = 10!/((10 - 2)! * 2!) = (9 * 10)/(2) = 45<br>Peluang terambil keduanya kelereng kuning = 8C2 = 8!/((8 - 2)! * 2!) = (7 * 8)/(2) = 28<br>Peluang terambil keduanya dari total = 20C2 = 19 * 20 / 2 = 190<br><br>Peluang keduanya biru = 45/190 <br>Keduanya merah = 28/190<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-nilai-a-dan-b-jika-x4-ax2bx-1-habis-dibagi-oleh-x2-321",
+            "question": "Tentukan nilai a dan b jika\u00a0 X^4-ax^2+bx-1 habis dibagi oleh X^2-2x+1\r\n\r\nMohonnnn bantuannya!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]x^4-ax^2+bx-1 habis\\ dibagi\\ (x-1)^2\\\\\nmaka\\ (1)^4-a(1^2)+b(1)-1=0\\\\\n1-a+b-1=0\\\\\n-a+b=0\\\\\na=b[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-jika-x1-dan-x2-akar-akar-2xkuadrat-10x4-0-nilai-dari-x-912",
+            "question": "1. jika\u00a0 x1 dan x2\u00a0 akar akar 2xkuadrat-10x+4 = 0, nilai dari x1kuadrat+x2kuadrat-3x1x2=    \u00a0\u00a0 \u00a0 A. 20\r\n\u00a0\u00a0 \u00a0 B. 15\r\n\u00a0\u00a0 \u00a0 C. 10\r\n\u00a0\u00a0 \u00a0 D.\u00a0 5\r\n\u00a0\u00a0 \u00a0 E.\u00a0 1",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "2x\u00b2-10x+4 = 0<br>x1+x2= 5 dan x1.x2=2<br>x1\u00b2+x2\u00b2-3x1x2=(x1+x2)\u00b2- 2x1x1 - 3x1x2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0=(x1+x2)\u00b2-\u00a05x1x2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 25-10<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 15",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-suku-banyak-px-di-bagi-x-2-bersisa-6-dan-dibagi-x-709",
+            "question": "diketahui suku banyak p(x) di bagi (x-2) bersisa -6 dan dibagi (x+2) bersisa 8. tentukan sisa pembagian suku banyak p(x) oleh (x\u00b2-4)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>Dibagi (x-2) sisa -6<br>\ndibagi (x+2) sisa 8</span>\n\n<span><br>Dibagi (x2-4) sisa px+q</span>\n\n<span>(x2-4) = (x-2) (x+2)<br>\u00a0</span><span>(x-2) --&gt;\nf(2)= 2p+q<br>\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 -6 = 2p+q</span>\n\n<br><span>(x+2) --&gt; f(-2)= -2p+q<br>\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 8 = -2p+q</span>\n\n<br>disubtitusikan:\n\n<span>2p+q= -6\u00a0 dengan -2p+q=\n8 mendapat hasil p= -7/2 dan q= 1</span>\n\n<br><span>Jadi sisa pembagian suku banyak p(x) oleh (x2-4)\nadalah px+q= -7/2 <span>x\n+ 1</span></span>\n\n<br><br><br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span><span>Dibagi (x-2) sisa -6<br>\ndibagi (x+2) sisa 8</span>\n\n<span><br>Dibagi (x2-4) sisa px+q</span>\n\n<span>(x2-4) = (x-2) (x+2)<br>\u00a0</span><span>(x-2) --&gt;\nf(2)= 2p+q<br>\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 -6 = 2p+q</span>\n\n<br><span>(x+2) --&gt; f(-2)= -2p+q<br>\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 8 = -2p+q</span>\n\n<br>disubtitusikan:\n\n2p+q= -6\u00a0 dengan -2p+q=\n8 mendapat hasil p= -7/2 dan q= 1\n\n<br><span>\u00a0sisa pembagian suku banyak p(x) oleh (x2-4)\nadalah px+q= -7/2 x\n+ 1</span>\n\n<br></span><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-kasih-tau-jawaban-dan-penyelesaiannya-juga-dong-banyak-369",
+            "question": "Tolong kasih tau jawaban dan penyelesaiannya juga dong :)    Banyak bilangan antara 2000 dan 6000 yang dapat disusun dari angka 0,1,2,3,4,5,6,7 dan tidak ada angka yang sama adalah...\r\nTerimah kasih sebelumnya yaa :)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "buat 4 kotak\u00a0 |ribuan|ratusan|puluhan|satuan|<br>|5|7|6|5| = 5 x 7 x 6 x 5 = 1050.<br><br>nb:<br>kotak pertama = dari 0 - 7 yang memenuhi tempat ribuan ada 5 (2, 3, 4, 5, 6)<br>kotak kedua\u00a0 \u00a0  = dari 0 - 7 yang memenuhi tempat ratusan ada 7<br>(jika syaratnya tidak ada angka yang sama, peluang setiap kotaknya di kurang 1, kemudian setiap angka dikalikan, dan itulah hasilnya)<br>dst..<br>:D<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-bilangan-enam-angka-n-yang-memenuhi-i-n-adalah-bilanga-617",
+            "question": "Tentukan bilangan enam angka n yang memenuhi (i) n adalah bilangan kuadrat sempurna, (ii) bilangan dibentuk dengan tiga angka terakhir n lebih satu dari tiga angka pertama n. (Sebagai ilustrasi n terlihat seperti 123124 tetapi itu bukan bilangan kuadrat)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span><span>Gini,,,<br><br>Misalkan tiga angka pertama n adalah a, maka n = 1000a + a + 1 = m^<br>m^ \u2212 1 = 1001a = 7 \u22c5 11 \u22c5 13 \u22c5 a<br>100000 \u2264 m^ \u2264 999999<br>316 &lt; m &lt; 1000<br>(m + 1) (m \u2212 1) = 7 \u22c5 11 \u22c5 13 \u22c5 a<br><br>\u2022 Jika m + 1 = 143b dan m \u2212 1 = 7c dengan bc = a<br>Karena 317 &lt; m + 1 &lt; 1001 maka 2 &lt; b &lt; 7.<br>Karena m \u2212 1 = 7c maka m \u2212 1 \u2261 0 (mod 7) ----&gt; m \u2261 1 (mod 7)<br>m + 1 \u2261 2 (mod 7) ----&gt; 143b \u2261 2 (mod 7)<br>143b = 7 \u22c5 20b + 3b<br>3b \u2261 2 (mod 7)<br>Karena 2 &lt; b &lt; 7 maka nilai b yang memenuhi hanya b = 3<br>Jika b = 3 maka m = 143 \u22c5 3 \u2212 1 = 428 ----&gt; 428 \u2212 1 = 7c ----&gt; c = 61<br>a = bc = 183 ----&gt; n = 183184 = 428^<br><br>\u2022 Jika m \u2212 1 = 143b dan m + 1 = 7c dengan bc = a<br>Karena 315 &lt; m \u2212 1 &lt; 999 maka 2 &lt; b &lt; 7.<br>Karena m + 1 = 7c maka m + 1 \u2261 0 (mod 7) ----&gt; m \u2261 \u22121 (mod 7)<br>m \u2212 1 \u2261 \u22122 (mod 7) ----&gt; 143b \u2261 \u22122 (mod 7)<br>143b = 7 \u22c5 20b + 3b<br>3b \u2261 \u22122 (mod 7) ----&gt; 3b \u2261 5 (mod 7)<br>Karena 2 &lt; b &lt; 7 maka nilai b yang memenuhi hanya b = 4<br>Jika b = 4 maka m = 143 \u22c5 4 + 1 = 573",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "panjang-busur-lingkaran-dengan-sudut-pusat-120-dan-panjang-diam-570",
+            "question": "Panjang busur lingkaran dengan sudut pusat 120\u00b0 dan panjang diameter 21 cm adalah..",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "21.98 jadi 22<br>cari keliling dulu, trs 120/360.kliling lingkaran",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-barisan-aritmetika-jumlah-suku-kedua-dan-keempat-adalah-880",
+            "question": "diketahui barisan aritmetika jumlah suku kedua dan keempat adalah 24 dan jumlah suku ketiga dan kelima adalah 32 suku ke 9 barisan tersebut adalah??",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a=4<br>b=4<br><br>u9=a+8b<br>\u00a0\u00a0  =4+32<br>\u00a0\u00a0 =36<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "inilah-triple-phytagoras-tadi-ada-yg-request-271",
+            "question": "Inilah \"TRIPLE PHYTAGORAS\"..\r\n#tadi ada yg request",
+            "attachments": [
+                "question-attachments/inilah-triple-phytagoras-tadi-ada-yg-request-271-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "tq bro...........................<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "hitunglahsudut-antara-vektor-a-dan-b-berikut-ini-a-3i-2j-k-399",
+            "question": "Hitunglahsudut antara vektor A dan B berikut ini,\r\n\r\nA = 3i - 2j + k\r\nB = 4i - 3j +2k",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "cos a= a.b/panjanga xpanjangb<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0=(12+6+2)/\u221a14\u221a29",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

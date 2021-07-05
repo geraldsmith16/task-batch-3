@@ -1,0 +1,142 @@
+{
+    "question": "Diketahui harga 1 kg buah anggur adalah tiga kali harga 1 kg buah duku. Jika Tino membeli 2 kg buah anggur dan 5 kg buah duku, ia harus membayar Rp38.500,00.    a) Berapakah harga 1 kg buah anggur dan 1 kg buah duku ?\r\nb) Jika ia ingin membeli 4 kg buah anggur dan 5 kg buah duku, berapa yang harus dibayarnya ?",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "a)buah aggur:10.500 dan buah duku:3.500 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 b)42.000 +17.500=59.500",
+            "attachments": []
+        },
+        {
+            "answer": "1 a\u00a0= 3d<br>a.\u00a02 a + 5d\u00a0= 3.2d + 5d = 6d + 5d = 11d =38.500<br>duku\u00a0= 38.500/11d =3500\u00a0<br>anggur= 3d = 3. 3500 = 10500<br>jadi harga 1 kg duku adalah Rp.3500 dan harga 1 kg anggur adalah Rp.10500<br>b. 4a+5d= 4(10500) + 5(3500) = 42000 + 17500 = 59500<br>jadi harga 4 kg\u00a0anggur dan 5 kg duku adalah Rp.59500\u00a0<br>ket:<br>a= anggur<br>d=\u00a0duku<br><br><br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "ke-dalam-sebuah-kaleng-akan-dimasukkan-5o-keping-uang-logam-yang-759",
+            "question": "ke dalam sebuah kaleng akan dimasukkan 5o keping uang logam yang terdiri atas uang\u00a0Rp200,00-an\u00a0dan\u00a0Rp500,00-an. Agar nilai uang dalam kaleng paling sedikit Rp16.000,00, banyak uang\u00a0Rp200,00-an adalah...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Rp.500 koin = 20 koin<br>Rp.200 koin = 30 koin<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "seorang-pedagang-buah-membeli-15-kg-jeruk-dengan-harga-rp60000-da-360",
+            "question": "seorang pedagang buah membeli 15 kg jeruk dengan harga Rp60000 dan 18 kg mangga dengan harga Rp54000 setiap 1 kg jeruk ia jual dengan harga Rp5.200 . supaya pedagang untung Rp54000 dari seluruh penjualan maka harga jual mangga per kg-nya adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "harga beli jeruk = 60000/15 = 4000 perkilo<br>keuntungan jeruk = 5200 - 4000 = rp 1200,-<br>total keuntungan menjual jeruk = 15 x 1200 =18000<br><br>keuntungan yang masih perlu didapat = 54000 - 18000 =36000<br><br>harga beli mangga = 54000<br>harga jual 18 kg mangga = 54000 + 36000 = 90000<br>harga jual 1 kilo mangga = 90000/18 kilo = Rp 5000,-<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "059-10-a-0002481-nilai-a-adalah-181",
+            "question": "(0,59)\r\n(10 \u00a0 ) = a + 0,002481. nilai a adalah\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "0,59 / 10= a + 0,002481<br><br>nilai a ialah<br>0,59=10a + 0,02481<br>-10a = 0,02481-0,59<br>-10a = -0,56519<br>a= -0,56519/-10<br>a=0,056519<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "0.059=a+0.002481<br>a=0.059-0.002481<br>a=0.056519<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-suatu-barisan-geometri-memiliki-suku-pertama-3-dan-rasio-4-a-513",
+            "question": "1. Suatu barisan geometri memiliki suku pertama 3 dan rasio 4.    a. tuliskan barisan geometri tsb.\r\nb. tuliskan deret geometri tsb.\r\n\r\n2. Tentukanlah jumlah setiap deret geometri berikut.\r\na. 2+6+18+54+162+...+U7\r\nb. 3+15+75+...+U6\r\nc. 1+4+16+64+...+U7\r\nd. 5+10+20+40+80+...+U8\r\ne. 1/4+1/2+1+2+...+U10",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1.dik a= 3 r=4 <br>deret geometrinya\u00a0 un=ar^n-1<br>un = 3,12,48,192, . . . <br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "persamaan-garis-melalui-a2-1-dan-sejajar-garis-3x-2y50-adala-981",
+            "question": "Persamaan garis melalui A(2,-1) dan sejajar garis 3x-2y+5=0 adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "y = -1 x= 2<br><br>3x - 2y + 5 = 0<br>3x - 2y = -5<br>3.2 - 2.-1 = -5<br>6 - (-2) = -5<br>8 + 5 = 13<br><br><br>Jadi, 3x - 2y = 13<br>Atau 3x - 2y -13 = 0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "untuk-1-hari-1-malam-24-jam-ada-berapa-kali-putaran-jam-menent-746",
+            "question": "Untuk 1 hari 1 malam (24 jam), ada berapa kali putaran jam menentukan ukuran sudut terbesar dari :    a. 90\u00b0\r\nb. 150\u00b0\r\nc. 180\u00b0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a. 48x<br>b. 48x<br>c.24x<br>a dan b : 1 jam 2x putaran<br>c : 1 jam 1x putaran.<br>jadi, a dan b : 2x24 = 48<br>c : 1x24 = 24<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-jumlah-dua-bilangan-adalah-100-dan-selisihnya-adalah-4-897",
+            "question": "diketahui\u00a0jumlah dua bilangan adalah 100 dan selisihnya adalah 40.\u00a0bagaimana nilai dua bilangan tersebut dapat dinyatakan dua linier satu variabel",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a+b=100<br>a-b=40----&gt;a=40+b<br>a+b=100<br>40+b+b=100<br>40+2b=100<br>2b=60<br>b=30<br>a=40+b<br>a=40+30=70<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "fungsi-hx-5x-3-mempunyai-nilai-12-untuk-x-a-3-b-490",
+            "question": "Fungsi h(x) = 5x - 3 mempunyai nilai 12 untuk x =\u00a0 \u00a0 a. -3 b. -2 c. 2 b. 3",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "5x-3 = 12<br>5x = 12+3 <br>5x = 15<br>x = 15 : 5 = 3<br>b. 3<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "jawabannya d :<br>5x - 3 = 12<br>\u00a0\u00a0 \u00a0   5x = 12 + 3<br>\u00a0\u00a0 \u00a0 5x = 15<br>\u00a0\u00a0 \u00a0 \u00a0 x = 3<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "65-p30-tentukan-nilai-p-583",
+            "question": "6:5 = p:30 tentukan nilai P",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "30: 5 = 6<br>6 x 6= 36<br>jawabannya 36<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "6:5=p:30<br>30:5= 6<br>6x6=36<br>jadi p=36",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-proyek-di-rencanakan-selesai-di-kerjakan-oleh-8-orang-dala-413",
+            "question": "sebuah proyek di rencanakan selesai di kerjakan oleh 8 orang dalam waktu 15 hari. jika jumlah pekerja hanya ada 6 orang, waktu yang di perlukan untuk menyelesaikan proyek tersebut adalah....???",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Pakai fungsi perbandingan berbalik, cepet nih :D<br><br>[tex] \\frac{8}{6} . 15 =  \\frac{120}{6} = 20 hari[/tex]",
+                    "attachments": []
+                },
+                {
+                    "answer": "<u>\u00a08\u00a0</u> \u00a0 x 15 hari = 20 hari<u><br></u>\u00a06 \u00a0<br><br>maaf klo salah",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

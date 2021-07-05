@@ -1,0 +1,138 @@
+{
+    "question": "Logika matematika    1. Manakah yang merupakan pernyataan, kalimat terbuka atau bukan pernyataan dari kalimat kalimat berikut ini.\r\na. Gunung Kerinci terletak di Bali\r\nb. Oslo ibukota Norwegia.\r\nc. Pergilah engkau sekarang!\r\nd. x adalah bilangan prima kurang dari 30.\r\ne. 9 adalah faktor dari 63\r\njawabannya\r\n\u00a0\u00a0 \u00a0",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "Kalimat terbuka : D<br>pernyataan : a,b,e<br>bukan pernyataan : c",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "jika-a2-a-3-0-maka-nilai-terbesar-yang-mungkin-dari-a3-444",
+            "question": "Jika \u00a0a\u00b2 + a - 3 = 0, maka nilai terbesar yang mungkin dari a\u00b3 + 4a\u00b2 + 9988 adalah ..    dibantu yaahh .. :(",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a\u00b2+a-3 = 0<br>persamaan a\u00b2=3-a<br>persamaan a\u00b3=3a-a\u00b2<br><br>=a\u00b3+4a\u00b2+9988<br>=3a-a\u00b2+4(3-a)+9988<br>=3a-a\u00b2+12-4a+9988<br>=-a-a\u00b2+10000<br>=-a-(3-a)+10000<br>=-a-3+a+10000<br>=-3+10000<br>=9997 <br><br><br>voila dapat hasilnya :D<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dketahui-barisan-geometri-u1-u2-45-dan-u3-u4-20-tentukan-119",
+            "question": "Dketahui barisan geometri U1 + U2 = 45 DAN U3 + U4 = 20 tentukan rasiaonya ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "U1 + U2 = a + ab = 45<br>U3 + U4 = abb + abbb = 20<br><br>(a + ab = 45) &lt;&lt; dikali dengan bb<br>(a + ab)bb = 45bb<br>abb + abbb = 45bb<br><br>45bb = 20<br>bb = 20/45 = 4/9<br>b = akar (4/9)<br>b\u00a0= 2/3",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jelaskan-turunan-fungsi-dari-1-2-900",
+            "question": "Jelaskan turunan fungsi dari :\r\n1.\u00a0\r\n2.\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]y=cosec(x)=\\frac{1}{sin(x)}\\\\\ny=(sin(x))^{-1}\\\\\ny&#039;=(-1)(sin(x))^{-1-1}.cos(x).(1)\\\\\ny&#039;=-(sin(x))^{-2}.cos(x)\\\\\ny&#039;=-\\frac{cos(x)}{(sin(x))^2)}\\\\\ny&#039;=-\\frac{cos(x)}{sin(x)}.\\frac{1}{sin(x)}\\\\\ny&#039;=-cot(x).cosec(x)\\\\\\\\\ny=x.sin(3x)\\\\\ny&#039;=(1)sin(3x)+x.cos(3x).(3)\\\\\ny&#039;=sin(3x)+3x.cos(3x)[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bagaimana-cara-menjelaskan-bahwa-5-kuadrat-sama-dengan-25-490",
+            "question": "Bagaimana cara menjelaskan bahwa 5 kuadrat sama dengan 25.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "5\u00b2 artinya 5 \u00d7 5 .<br>5\u00d75 =25<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "5x5=25<br>25 : 5 = 5<br>akar kuadrat dari bilangan x sama dengan bilangan r sedemikian sehingga r2 = x, atau, di dalam perkataan lain, bilangan r yang bila di\u00a0  kuadratkan sama dengan x.<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pak-daniel-seorang-karyawan-perusahaan-ia-membeli-sebuah-mobil-513",
+            "question": "pak\u00a0daniel seorang karyawan perusahaan. ia membeli sebuah mobil bekas seharga Rp90.000.000,00.\u00a0dan dikenakan pajak\u00a0penjualan\u00a0sebesar 5%.berapa rupiah uang yang harus dibayar pak daniel untuk pembelian mobilnya?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Rp4500000, karena 90000000 x 5/100",
+                    "attachments": []
+                },
+                {
+                    "answer": "90000000x5/100 = 4500000<br>90000000+4500000=94500000<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "penerapan-sudut-pada-bidang-fisika-apa-ya-721",
+            "question": "Penerapan sudut pada bidang fisika apa ya",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "penerapan sudut dalam bidang fisika yaitu dalam mencari percepatan sudut, momen gaya, momen sudut,\u00a0vektor posisi benda\u00a0pada katrol dan lain lain",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "himpunan-selesaian-dari-y-x2-4x-5-350",
+            "question": "Himpunan selesaian dari y\u00a0\u2264\u00a0x\u00b2\u00a0+\u00a04x\u00a0-\u00a05",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "y \u2264 x\u00b2 + 4x - 5<br>y \u2264 (x-5) (x+1)<br>y \u2264 x-5\u00a0 //\u00a0  y \u2264 x+1<br>y-x \u2264 -5\u00a0 //\u00a0  y-x \u2264 1<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jumlah-keliling-dua-buah-lingkaran-12-cm-jumlah-luasnya-20-cm-381",
+            "question": "Jumlah keliling dua buah lingkaran 12 cm,\u00a0 jumlah luasnya 20  cm, berapa jari-jari tiap lingkaran?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "k=2[tex] \\pi [/tex].diameter<br>12\\pi=[tex] \\pi [/tex].diameter<br>diameter= 12\u00a0<br>jari\"=12/2=6",
+                    "attachments": []
+                },
+                {
+                    "answer": "[tex]K_1+K_2=12 \\pi \\\\\n2 \\pi r_1+2 \\pi r_2=12 \\pi \\\\\nr_1+r_2=6\\\\\nr_2=6-r_1\\\\\\\\\nL_1+L_2=20 \\pi \\\\\n \\pi r^2_1+ \\pi r^2_2=20 \\pi \\\\\nr^2_1+r^2_2=20\\\\\nr^2_1+(6-r_1)^2=20\\\\\nr^2_1+36-12r_1+r^2_1=20\\\\\n2r^2_1-12r_1+16=0\\\\\nr^2_1-6r_1+8=0\\\\\n(r_1-2)(r_1-4)=0\\\\\nr_1=2\\ atau\\ r_1=4\\\\\nutk\\ r_1=2 \\rightarrow r_2=6-r_1=6-2=4\\\\\nutk\\ r_1=4 \\rightarrow r_2=6-r_1=6-4=2\\\\[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "b-x-x-lt-10-x-eur-bilangan-prima-837",
+            "question": "B = { x | x &lt; 10 ; x \u20ac bilangan prima }",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "2,3,5,7<br>itu adalah angka prima yang kurang dari 10",
+                    "attachments": []
+                },
+                {
+                    "answer": "B = {x l x &lt; 10 , x elemen bilangan prima}<br>Jawab :<br>B = { 2,3,5,7}<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "transpos-matriks-m-adalah-tolong-dijelaskan-230",
+            "question": "Transpos matriks M adalah ...\r\ntolong dijelaskan..",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "gol indonesia menang 3gol dari ac milan<br><br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

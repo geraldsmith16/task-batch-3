@@ -1,0 +1,140 @@
+{
+    "question": "Inilah \"TRIPLE PHYTAGORAS\"..\r\n#tadi ada yg request",
+    "attachments": [
+        "question-attachments/inilah-triple-phytagoras-tadi-ada-yg-request-271-1.jpg"
+    ],
+    "answers": [
+        {
+            "answer": "tq bro...........................<br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "pada-fungsi-kuadrat-apa-yang-terjadi-jika-a-gt-0-dan-apa-yang-847",
+            "question": "Pada fungsi kuadrat, apa yang terjadi jika a &gt; 0 dan apa yang terjadi jika a &lt; 0 ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Jika nilai a &gt; 0 maka parabola terbuka ke atas dan mempunyai nilai ekstrem minimum<br><br>\nJika nilai a &lt; 0 maka parabola terbuka ke bawah dan mempunyai nilai ekstrem maksimum<br><br><br><br>",
+                    "attachments": [
+                        "answer-attachments/pada-fungsi-kuadrat-apa-yang-terjadi-jika-a-gt-0-dan-apa-yang-847-1.jpg"
+                    ]
+                },
+                {
+                    "answer": "untuk a\u00a0&gt;\u00a00, grafik/kurvanya menghadap ke atas, dan memiliki nilai minimum (puncaknya ada di bawah)<br><br>untuk a\u00a0&lt;\u00a00, grafik/kurvanya menghadap ke bawah, dan memiliki nilai maksimum\u00a0(puncaknya ada di atas)<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-persamaan-kuadrat-yang-akarnya-2-dan-2-468",
+            "question": "Tentukan persamaan kuadrat yang akarnya 2- dan 2+",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]PK\\ baru : x^2-(x_1+x_2)x+(x_1x_2)=0\\\\\nx_1+x_2=(2-\\sqrt{3})+(2+\\sqrt{3})\\\\\nx_1+x_2=4\\\\\n\\\\\nx_1x_2=(2-\\sqrt{3})(2+\\sqrt{3})\\\\\nx_1x_2=4-3=1\\\\\n\\\\\nPK\\ baru : x^2-4x+1=0\\\\[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "berapa-luas-daerah-yang-diarsir-168",
+            "question": "Berapa luas daerah yang diarsir..?",
+            "attachments": [
+                "question-attachments/berapa-luas-daerah-yang-diarsir-168-1.docx"
+            ],
+            "answers": [
+                {
+                    "answer": "setengah lingkaran besar<br>\u21d2 1/2 x \u03c0 x r\u00b2<br>\u00a0 = 1/2 x 22/7 x 7/2 x 7/2<br>\u00a0 = 77/4 = 19,25<br>lingkaran kecil<br>\u21d2 \u03c0 x r\u00b2<br>\u00a0 = 22/7 x 1,4 x 1,4<br>\u00a0 = 6,16<br>luas yang diarsir = 19,25 - 6,16 = 13.09<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apa-pengertian-algoritma-557",
+            "question": "Apa pengertian algoritma",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "algoritma (matematika)\u00a0adalah prosedur atau cara kerja atau proses yang dilakukan untuk menyelesaikan suatu permasalahan\u00a0(dalam\u00a0matematika)",
+                    "attachments": []
+                },
+                {
+                    "answer": "operasi matematika yang merupakan kebalikan dari eksponen \u00a0atau pemangkatan",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pada-kubus-abcd-diketahui-panjang-sisi-be48cmtentukan-panjan-128",
+            "question": "Pada kubus ABCD diketahui panjang sisi BE=\u221a48cm.tentukan panjang AB",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]perhatikan\\ segitga\\ ABE\\\\\nmisal\\ panjang\\ AB=AE=s\\\\\ngunakan\\ teorema\\ pythagoras\\\\\nAB^2+AE^2=BE^2\\\\\ns^2+s^2=(\\sqrt{48})^2\\\\\n2s^2=48\\\\\ns^2=24\\\\\ns=AB=\\sqrt{24}\\ atau\\ s=-\\sqrt{24}\\ (TM)[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "persamaan-4x2-px250-akar-akarnya-sama-nilai-p-adalah-a-20-424",
+            "question": "Persamaan 4x\u00b2-px+25=0 ,akar-akarnya sama.    Nilai p adalah\r\na. -20 atau 20\r\nb.-10 atau 10\r\nc. -5 atau 5\r\nd. -2 atau 2\r\ne. -1 atau 1\r\n\r\nMohon dibantu dan jangan lupa memberikan pembahasannya\r\n\r\nTerima kasih.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "akar - akar sama -&gt; D = 0<br>[tex] b^{2} [/tex] - 4ac = 0<br>[tex] p^{2} [/tex] - 4 x 4 x 25 = 0<br>[tex] p^{2} [/tex] = 400<br>p = 20 atau -20",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sederhanakanlah-1-812-43-2-82045-25-3-4-894",
+            "question": "Sederhanakanlah??    1. 8\u221a12-4\u221a3 =\r\n2. 8\u221a20+4\u221a5-2\u221a5 =\r\n3. 4\u221a54+5\u221a216-2\u221a294 =\r\n4. 4\u221a3+6\u221a3 =\r\n\r\nPake caranya....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1.] 8 akar 4 * 3 - 4 akar 3 = 8.2 akar 3 - 4 akar 3 = 16 akar 3 - 4 akar 3 = 12 akar 3<br>2.] 8 akar 20 + 4 akar 5 - 2 akar 5= 8 akar 4 * 5 + 4 akar 5 - 2 akar 5 = 8.2 akar 5 + 4 akar 5 - 2 akar 5 = 16 akar 5 + 4 akar 5 - 2 akar 5 = 20 akar 5 - 2 akar 5 = 18 akar 5<br>3.] 4 akar 54 + 5 akar 216 -\u00a02 akar 294 = 4 akar 6 * 9 + 5 akar 6 * 36 - 2 akar 6 * 49\u00a0\u00a0--&gt; 4.3 akar 6 + 5.6 akar 6 - 2 .7 akar 6 = 12 akar 6 + 30 akar 6 - 14 akar 6 = 42 akar 6 - 14 akar 6 = 28 akar 6<br>4.] 4 akar 3 + 6 akar 3 = 10 akar 3",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "ingkaran-dari-p-q-adalah-bentuk-ekuivalen-p-gt-q-adalah-533",
+            "question": "Ingkaran dari p ^ q adalah....\r\nbentuk ekuivalen -p -&gt; q adalah...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "ingkaran dari p ^ q adalah p v q<br>soal ke 2 itu bener ya?<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-dua-barisan-aritmetika-pada-barisan-pertama-berlaku-u2-357",
+            "question": "diketahui dua barisan aritmetika. pada barisan pertama berlaku U2+U4+U6+U8=32 dengan beda barisan 5. pada barisan kedua berlaku V2+V4+V6+V8=52 dengan beda barisan 4 nilai dari(U1+U3+U5)-(V1+V3+V5)=.....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "U2 + U4 + U6 + U8\u00a0 = 32 (beda = 5)<br>V2 + V4 + V6 + V8 = 52 (beda = 4)<br><br>(a + 5) + (a + 15) + (a + 25) + (a + 35) = 32<br>4a + 80 = 32<br>4a = -48<br>a = -12<br><br>(a + 4) + (a + 12) + (a + 20) + (a + 28) = 52<br>4a + 64 = 52<br>4a = 12<br>a = 3<br><br><span>(U1+U3+U5)-(V1+V3+V5) = (-12 + (-2) + 8) - (3 + 11 + 19) = -39 </span><br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "U1 + U3 + U5 = U2 + U4 + U6 + U8 - 4b -\u00a0<br><br>U2 + U4 + U6 + U8 = 4U1 + (1+3+5+7)b = 32<br>4U1 + 16.5 = 32<br>4U1 = 32-80<br>U1 = -48/4<br>U1 = -12<br><br><span>V2\u00a0+\u00a0V4\u00a0+\u00a0V6\u00a0+\u00a0V8\u00a0=\u00a052<br></span>4V1 + 16.b = 52<br>4V1 + 16.4 = 52<br>4V1 = 52-64<br>V1 = -12/4<br>V1 = -3<br><br>jadi jawabannya<br>(-12 -\u00a07 - 2) - (-3 + 1 + 5) = -21 - 3 = <strong>-18</strong>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "persamaan-m-1x2-4x-2m-0-mempunyai-akar-akar-real-tent-796",
+            "question": "Persamaan (m - 1)x\u00b2 + 4x + 2m = 0 mempunyai akar-akar real. Tentukan nilai m yang memenuhi!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "(m - 1)x\u00b2 + 4x + 2 = 0 memunyai akar-akar real <br>syarat : b\u00b2 - 4ac \u2265 0<br>16 - 4.2(m - 1) \u2265 0<br>16 - 8m + 8 \u2265 0 <br>24 - 8m \u2265 0 <br>-8m \u2265 -24 ruas kiri n kanan dikali -1 (jangan lupa tanda \"\u2265\" dibali jadi \"\u2264\")<br>m \u2264 -24/-8<br>m \u2264 3<br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

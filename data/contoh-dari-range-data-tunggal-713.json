@@ -1,0 +1,130 @@
+{
+    "question": "Contoh dari range data tunggal\u00a0",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "<span>Range adalah salah satu ukuran statistik yang menunjukan jarak penyebaran data antara nilai terendah (Xmin) dengan nilai\u00a0tertinggi (Xmax). Ukuran ini sudah digunakan pada pembahasan daftar distribusi frekuensi. Adapun rumusnya adalah<br>Contoh :\u00a0<span>Berikut ini nilai ujian semester dari 3 mahasiswa<br>A\u00a0= 60 55 70 65 50 80 40<br>B\u00a0= 50 55 60 65 70 65 55<br>C\u00a0= 60 60 60 60 60 60 60<br></span><span>Dari data diatas dapat diketahui bahwa<br>A\u00a0= memiliki Xmax=80, Xmin= 40 , R = 40 , meanya 60<br>B\u00a0= memiliki Xmax=70, Xmin= 50 , R = 20 , meanya 60<br>C\u00a0= memiliki Xmax=60, Xmin= 60 , R = 0 , meanya 60<br></span><span>Dari contoh di atas dapat disimpulkan bahwa :<br>a. Semakin kecil rangenya maka semakin homogen distribusinya<br>b. Semakin besar rangenya maka semakin heterogen distribusinya<br>c. Semakin kecil rangenya, maka meannya merupakan wakil yang representatif<br>d. Semakin besar rangenya maka meannya semakin kurang representatif</span></span>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "jika-salah-satu-akar-dari-2x2-ax-3-0-adalah-3-maka-ni-188",
+            "question": "Jika salah satu akar dari 2x^2 \u2013 ax + 3 = 0 ,\u00a0adalah 3 maka nilai a dan akar yang lain adalah?    a. a=7 akar lain -1/2\r\nb. a =7 akar lain 1/2\r\nc. a= -7 akar lain -1/2\r\nd. a = -7/2 akar lain 1/2\r\ne, a = -7/2 akar lain - 1/2",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]bentuk\\ umum\\ persamaan\\ kuadrat : px^2+qx+c=0 ; p \\neq 0\\\\\nuntuk\\ PK : 2x^2-ax+3=0,\\ p=2,\\ q=-a\\ dan\\ r=3\\\\\nkarena\\ 3\\ merupakan\\ salah\\ satu\\ akar\\ PK\\ tersebut,\\ maka\\\\\n2(3^2)-a(3)+3=0\\\\\n3a=21\\\\\na=7\\\\\n\nsehingga\\ PK\\ tersebut\\ menjadi\\ 2x^2-7x+3=0\\\\\nhasil\\ jumlah\\ akar-akarnya\\ (x_1+x_2)=-\\frac{q}{p}\\\\\nkarena\\ salah\\ satu\\ akarnya\\ adalah\\ 3, maka\\\\\n3+x_2=-\\frac{-7}{2}\\\\\nx_2=\\frac{7}{2}-3\\\\\nx_2=\\frac{1}{2}[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-nilai-x-yang-memenuhi-bentuk-bentuk-logaritma-berikut-a-895",
+            "question": "Tentukan nilai x yang memenuhi bentuk bentuk logaritma berikut\r\na. 3log 27 = x\r\nb. 5 log 625 =x",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "x = 3 log 27 <br>\u00a0\u00a0 = 3 log 3\u00b3<br>\u00a0\u00a0 = 3<br><br>x = 5 log 625 <br>\u00a0\u00a0 = 5 log 5\u2074<br>\u00a0\u00a0 = 4<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "x-a-nilai-dari-x2-455",
+            "question": "\u00a0 \u00a0 \u00a0 \u00a0x \u00a0 \u00a0\u00a0 \u00a0\u00a0 = a, nilai dari \u00a0\u00a0 \u00a0\u00a0 \u00a0 \u00a0 x\u00b2 \u00a0 \u00a0\u00a0 \u00a0\u00a0\u00a0 \u00a0= ...    \u00a0\u00a0x\u00b2+3x+1 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0x\u00b2\u00b7\u00b2+3x\u00b2+1",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "coba substitusikan x dengan ax\u00b2+3ax+a<br><br>semoga ketemu<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "contoh-perhitungan-uji-kenormalan-data-dengan-mengunakan-tabel-go-601",
+            "question": "Contoh perhitungan uji kenormalan data dengan mengunakan tabel goodness of fit",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Ini sepertinya soal per kuliahan ini, goodness of fit adalah uji untuk mengetahui tingkat normalitas dari sebuah data agar dipastikan terhindar dari autokorelasi, heteroskedastisitas, dan multikolininearitas <br><br>Saya kurang tahu apakah di tingkat SMA hal ini sudah diajarkan, tapi karena ditanyakan maka saya berusaha menjawab. <br><br>Untuk uji auto korelasi berfungsi mencari apakah ada gangguan pada data karena data yang digunakan berhubungan dengan data pada periode peridoe sebelumnya yang membuat sampel random menjadi tidak efektif. Rule of thumb nya pake uji durbit watson.<br>Kemudian untuk uji heterokedastisitas adalah menguji apakah ada varian yang besar sehingga membuat standar deviasi melebihi rata ratanya dan membuat bias dalam membaca hasil. Kalau ini bisa menggunakan uji table t.<br>Sedangkan uji multikolineritas adalah mencari apakah hubungan antar variabel independen lebih besar dari dependen kalau ini menggunakan uji F -test.<br><br>Kalau model sudah terbebas dari semua kesalahan ini (3) maka bisa dilihat dari tabel anova apakah adj r square nya besar. Contoh apabila r square nya (50%) maka artinya 50% dari fenomena yang diteliti bisa dicari / direpresentasikan dengan model tersebut.<br><br>Materi ini sudah masuk ke materi ekonometri untuk anak kuliah tingkat akhir, tapi dibahas tidak apa apa karena berkaitan juga dengan matematika.\u00a0 <br><br>Sukses ya<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jawablah-pertanyaan-berikut-ini-dengan-benar-4-diketahui-pernyat-491",
+            "question": "Jawablah pertanyaan berikut ini dengan benar    4. Diketahui pernyataan-pernyataan:\r\n\u00a0\u00a0 p : Hari ini hujan deras\r\n\u00a0\u00a0 q : Hari ini berangin kencang.\r\n\u00a0\u00a0 Tentukan pernyataan-pernyataan majemuk yang dinyatakan dengan notasi berikut ini.\r\n\u00a0\u00a0 a. p ^ q\r\n\u00a0\u00a0 b. q ^ p\r\n\u00a0\u00a0 c. ~p ^ q\r\n\u00a0\u00a0 d. ~(p ^ q)\r\n\u00a0\u00a0 e. ~(p ^ ~q)\r\n\u00a0\u00a0 Jawabanya :\r\n\r\ntolong jawab secepatnya\r\n\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a.hari ini hujan deras dan hari ini berangin kencang<br>b.hari ini berangin kencang dan hari ini hujan deras<br>c.hari ini tidak hujan deras dan hari ini berangin kencang<br>yang d sama e nunggu komentar dari orang lain aja ya :)<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "a. hari ini hujan deras dan berangin kencang<br>b. hari ini berangin kencang dan hujan deras<br>c. hari ini tidak hujan deras dan berangin kencang<br>d. hari ini tidak hujan deras atau tidak berangin kencang<br>e. hari ini tidak hujan deras atau berangin kencang<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "hitunglah-jumlah-25-suku-pertama-bilangan-ganjil-yang-pertama-dar-552",
+            "question": "Hitunglah jumlah 25 suku pertama bilangan ganjil yang pertama dari bilangan asli?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1,3,5.......... ampe yg ke 47, 49<br>U13= 25<br><br>total nya adalah<br><br><br>=(49+1)/2 x 12+25<br>=25x12+25<br>=325<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "luas-sebidang-tanah-yang-berbentuk-persegi-panjang-adalah-96-m2-968",
+            "question": "luas sebidang tanah yang berbentuk persegi panjang adalah 96 m2. panjang tanah adalah 6 kali lebarnya. tentukan panjang dan lebar tanah tersebut",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "panjang = 6a<br>lebar = a<br>96 = 6a X a<br>96 = 6a\u00b2<br>a\u00b2 = 96/6<br>a\u00b2 = 16<br>a = 4<br>panjang = 6a = 6x4 = 24 cm<br>lebar = a = 4",
+                    "attachments": []
+                },
+                {
+                    "answer": "Dik : L = 96 m2<br>\u00a0\u00a0 \u00a0 \u00a0  p = 6 l<br><br>Dit : p , l .. ?<br>Jwb :<br>L = p x l<br>96 = 6l x l<br>96 = 6 l(kuadrat)<br>96/6 = l kuadrat<br>l = <em><u></u></em>[tex] \\sqrt{16} [/tex]<br>l = 4 m<br><br>p = 6 l<br>p = 6 (4)<br>p = 24 m<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-keliling-suatu-lingkaran-77-cm-panjang-jari-jari-lingkaran-te-685",
+            "question": "1. Keliling suatu lingkaran 77 cm, panjang jari-jari lingkaran tersebut berapa?    2. Diketahui tali busur AB melalui pusat lingkaran dengan panjang AB = 20 cm, berapakah luas lingkaran?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1. k = 2 phi r<br>77 = 2 . 22/7 . r<br>11 = 44 r<br>r = 0,25<br><br>bagian kedua ntar ya, mau mandi bentar -_-",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-percobaan-mengundi-uang-logam-rp-10000-sebanyak-2-kali-208",
+            "question": "Tentukan Percobaan mengundi uang logam Rp. 100,00 sebanyak 2 kali",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "ruang sampel = gambar (G) dan angka (A)<br>pengundian uang logam 100 sebanyak dua kali --&gt; masing-masing sisi punya peluang 2/4 atau 1/2 <br>P(A)=2/4<br>P(G)=2/4<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebutkan-contoh-domainkodomaindan-range-519",
+            "question": "Sebutkan contoh domain,kodomain,dan range ;)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Domain adalah Daerah Asal<br>Kodomain adalah Daerah Kawan<br>Range adalah daerah Hasil..<br><br>Misalnya ada sebuah contoh soal Relasi<br>\"1 Kurangnya Dari\", dan Domainnya adalah A={0,1,2,3,4}<br>Kodomainnya adalah B={1,2,3,4,5}<br>Maka Rangenya adalah R={(Domain,Kodomain)}--&gt; R={(0,1)(1,2)(2,3)(3,4)(4,5)}<br>Dibacanya R={(0 satu kurangnya dari 1) (1 satu kurangnya dari 2) dst..}<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

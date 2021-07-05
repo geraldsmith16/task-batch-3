@@ -1,0 +1,142 @@
+{
+    "question": "Persegi ABCD dengan panjang sisinya a cm. pada sisi AB diberi titik E dengan panjang AE adalah x cm. Diantara sisi BC diberi titik F dengan panjang BF\u00a0= AE. Panjang EB = FC. Tentukan luas minimum DEF !",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "sama halnya dengan rumus persegi biasa yaitu sisi x sisi = a kuadrat<br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "berapa-luas-daerah-yang-di-arsir-614",
+            "question": "\u00a0 Berapa Luas Daerah Yang di arsir\u00a0 ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "mana gambarnya yg mau di cari luasnya ???",
+                    "attachments": []
+                },
+                {
+                    "answer": "Daerah Mana Yang Dimaksud??<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "contoh-soal-persamaan-dan-fungsi-kuadrat-585",
+            "question": "Contoh soal persamaan dan fungsi kuadrat ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]tentukan\\ akar-akar\\ dari\\ persamaan\\ kuadrat:x^2-x+1=0\\\\\\\\\ntentukan\\ titik\\ puncak\\ fungsi\\ f(x)=x^2-x+1\\\\[/tex]",
+                    "attachments": []
+                },
+                {
+                    "answer": "Selisih 2 bilangan bulat adalah 9. Jika hasil kali kedua bilangan tersebut adalah 36. Tentukan nilai dari kedua bilangan tersebut..<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "buktikan-identitas-berikut-1-sin-atan-a-cosa-1cosa-480",
+            "question": "Buktikan identitas berikut!\r\n\r\n1. sin \u03b1tan \u03b1 + cos\u03b1 = 1/cos\u03b1",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "sin\u03b1 tan\u03b1 + cos\u03b1 = 1/cos\u03b1<br>ruas kiri kita rubah menjadi :<br>sin\u03b1.sin\u03b1/cos\u03b1 + cos\u03b1 <br>&lt;=&gt; sin\u00b2\u03b1 /cos\u03b1 + cos\u00b2\u03b1 / cos\u03b1 karena sin\u00b2\u03b1 + cos\u00b2\u03b1 = 1<br>&lt;=&gt; 1/cos\u03b1<br>terbuktikan?<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-13-11-9-un-1800-tentukan-banyak-suku-dere-197",
+            "question": "Jika : 13 + 11 + 9 +...... + Un = -1800\r\ntentukan banyak suku deret tersebut ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "cari dlu rumus suku ke-n atau Un<br>Un = (a +(n-1)b) = 13 +(n-1)-2 = 15 - 2n<br>kemudian masukkan rumus jumlah sukuk ke- n atau Sn<br>Sn= n/2(a + Un)<br>-1800=n/2(13 + 15 - 2n)<br>-1800=(28n - 2n^2)/2<br>-3600 = 28n - 2n^2 \u00a0 \u00a0 \u00a0 (pindahkan semua yang di ruas kanan ke ruas kiri)<br>2n^2 - 28n -3600 = 0 \u00a0 \u00a0 (bagi 2 kedua ruas)<br>n^2 - 14n -1800 = 0 \u00a0 \u00a0 \u00a0 \u00a0 (faktorkan)<br>(n-50)(n+36) = 0<br>n = 50 atau -36<br><br>jawabannya n adalah 50, karena harus bernilai positif, atau syarat di atas adalah n= bil . asli<br>(coba saja bayangkan apakah ada suku ke -36??) yang ada adalah suku ke 50,\u00a0<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sekeping-uang-logam-dilempar-10-kali-berapa-frekuensi-harapan-mu-577",
+            "question": "Sekeping uang logam dilempar 10 kali. berapa frekuensi harapan munculnya sisi gambar?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "kesempatan msg\" sisi = 1/2<br>1/2 x 10 = 5<br>:D",
+                    "attachments": []
+                },
+                {
+                    "answer": "peluang gambar = 1/2<br><br>frekuansi harapan = peluang x banyak pelemparan = (1/2) x 10<br>frekuensi harapan sisi gambar = 5",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-rumus-suku-n-dari-barisan-bilangan-aritmatika-jika-suku-549",
+            "question": "tentukan rumus suku n dari barisan bilangan aritmatika jika suku ke delapan sama dengan 18 dan suku ke lima belas sama dengan 46",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "U8 = 18<br>U15 = 46<br>Un?<br>Un = a+(n-1)b<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "selesaikan-dengan-rumus-abc-9x2-12x-2-0-744",
+            "question": "Selesaikan dengan rumus abc\r\n9x\u00b2 - 12x + 2 = 0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "144+akar kuadrat dari 72 per 18 atau<br>144-akar kuadrat dari 72 per 18<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "[tex]9x^2-12x+2=0\\ ; a=9,b=-12,c=2\\\\\nx_{1,2}=\\frac{-b \\underline{+} \\sqrt{b^2-4ac}}{2a}\\\\\nx_{1,2}=\\frac{-(-12) \\underline{+} \\sqrt{(-12)^2-4(9)(2)c}}{2(9)}\\\\\nx_{1,2}=\\frac{12 \\underline{+} \\sqrt{144-72}}{18}\\\\\nx_{1,2}=\\frac{12 \\underline{+} \\sqrt{72}}{18}\\\\\nx_{1,2}=\\frac{12 \\underline{+} 6\\sqrt{2}}{18}\\\\\nx_{1,2}=\\frac{2 \\underline{+} \\sqrt{2}}{3}\\\\[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dengan-berjalan-kaki-askar-memerlukan-waktu-6-menit-untuk-sampai-824",
+            "question": "Dengan berjalan kaki, askar memerlukan waktu 6 menit untuk sampai ke kampusnya. jarak antara rumah dan kampus 5/8 km. berapa kecepatan rata-rata askar berjalan?    dengan caranya ya",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "6 menit= 360 s<br>5/8 : 360<br>= 1800m/28 s",
+                    "attachments": []
+                },
+                {
+                    "answer": "6 menit = 360 s<br>5/8 km = 625 m<br>k = j/w<br>\u00a0 = 625/360<br>\u00a0\u00a0 = 1,74m/s<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "himpunan-selesaian-dari-y-x2-4x-5-350",
+            "question": "Himpunan selesaian dari y\u00a0\u2264\u00a0x\u00b2\u00a0+\u00a04x\u00a0-\u00a05",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "y \u2264 x\u00b2 + 4x - 5<br>y \u2264 (x-5) (x+1)<br>y \u2264 x-5\u00a0 //\u00a0  y \u2264 x+1<br>y-x \u2264 -5\u00a0 //\u00a0  y-x \u2264 1<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "koordinat-titik-puncak-grafik-fungsi-kuadrat-adalah25-jika-gra-477",
+            "question": "koordinat titik puncak grafik fungsi kuadrat adalah(2,5) jika grafik fungsi kuadrat melalui titik (-1,23) maka tentukan rumus fungsi kuadrat ! tolong bantu yah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "hasilnya nti jadi 18x-3y-51=0<br><br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

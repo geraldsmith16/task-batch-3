@@ -1,0 +1,138 @@
+{
+    "question": "mencari luas pizza segi 12 beraturan, jika potongan kecilnya juga berbentuk segi tiga diketahui sisi luar 5 cm berapa luas seluruhnya pizza tersebut ?\u00a0",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "Itu jadi 12x luas segitiga sama kaki dengan sudut atasnya 30\u00b0  <br>\n(didapatkan dari 360\u00b0/12 = 30\u00b0) <br><br>\nBuat nyari luas segitiganya, pake rumus : <br><br>\nL\u0394 = 1/2 r\u00b2 sin 30 <br><br>\nL\u0394 = 1/2 * 5 * 5 * sin 30 <br><br>\nL\u0394 = 10 cm\u00b2 <br><br>\nLuas 12x segitiga : <br><br>\u00a0\n10x 12 = 120 cm\u00b2 <br><br>\nJadi, luas segi-12 beraturan dgn lingkaran luar 5 cm adalah 120 cm\u00b2 <br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "alas-sebuah-limas-berbentuk-belah-ketupat-dengan-keliling-60-cm-d-163",
+            "question": "alas sebuah limas berbentuk belah ketupat dengan keliling 60 cm dan panjang salah satu diagonalnya adalah 18 cm serta tinggi limas 12 cm .maka volume limas tersebut adalah ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "V limas =\u00a0[tex] \\frac{1}{3} [/tex].Luas Alat.Tinggi<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0[tex] \\frac{1}{3} [/tex].198.12<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0792 cm3<br>L\u00a0alas=\u00a0[tex] \\frac{1}{2}\u00a0[/tex].d1.d2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0[tex] \\frac{1}{2}\u00a0[/tex].18.22<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0198",
+                    "attachments": []
+                },
+                {
+                    "answer": "panjang diagonal 1 = 18<br>panjang diagonal 2 = 24 (triple phytagoras)<br>v = 1/3*luas alas*t<br>\u00a0 = 1/3*(1/2*18*24)*12<br>\u00a0 = 1/3*216*12<br>\u00a0 = 864<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "53-35-232-7-45-665",
+            "question": "5\u221a3-3\u221a5 =\r\n-2\u221a3+\u221a2 =\r\n\u221a7- 4\u221a5 =",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1. hasilnya 2\u221a5<br>yang no. 2 sudah tdk bisa dikurangi lagi, begitu juga yang no. 3 nya<br><br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "ikhsan-memiliki-3-orang-anak-pada-suatu-hari-ketiga-anaknya-terk-417",
+            "question": "ikhsan memiliki 3 orang anak. pada suatu hari ketiga anaknya terkena flu. sampai dirumah sakit diperoleh data bahwa suhu badan ketiga anak itu masing-masing, 40 drjat C,\u00a0 39,5 drrjt C, dan 40,6 drjt C. ubahlah ketiga suhu badan itu dalam derajat reamur dan Fahrenheit!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Reamur: <br>1. 40<span>\u2070C= </span>(4/5 x 40)<span>\u2070R= (4 x 8)</span><span>\u2070R= 32</span><span>\u2070R<br>2. 39,5</span><span>\u2070C= (4/5 x 39,5)</span><span>\u2070R= </span>( 4/5 x 395 . 10\u2227-1 )\u2070R = ( 4 x 79 . 10\u2227-1 )\u2070R = 316 . 10^-1 <span>\u2070R = 31,6</span><span>\u2070R<br>3. 40,6</span><span>\u2070C = ( 4/5 x 40,6 )</span>\u2070R =  ( 4/5 x 406 . 10^-1 )\u2070R= ( 4 x 8,12 x 10^-1 )<span>\u2070R = </span>( 4 x 812 x 10^-3 )\u2070R = 3248 x 10^-3 \u2070R = 3,248 \u2070R<br><br>Fahrenheit:<br>1. 40\u2070C= (9/5 x 40) +32 \u2070F= 72 + 32 \u2070F= 104<span>\u2070F<br>2. 39,5</span>\u2070C= (9/5 x 39,5) + 32 \u2070F = ( 9/5 x 395 . 10\u2227-1 ) + 32 \u2070F = ( 9 x 79 . 10\u2227-1 ) + 32 \u2070F = ( 711 . 10^-1) + 32 \u2070F = 71,1+ 32 <span>\u2070F = 103,1 </span>\u2070F<span><br>3. 40,6</span>\u2070C = ( 9/5 x 40,6 ) + 32 \u2070F =  ( 9/5 x 406 . 10^-1 )+ 32 \u2070F= ( 9 x 8,12 x 10^-1 )+ 32 \u2070F = ( 9 x 812 x 10^-3 )+ 32 \u2070F = (7308 x 10^-3) + 32 \u2070F = 7,308 + 32 \u2070F = 39,308 \u2070F <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diberikan-tiga-buah-himpinan-masing-masing-himpunan-p2368-298",
+            "question": "diberikan tiga buah himpinan masing-masing himpunan P={2,3,6,8}, Q={1,3,5,8,10]dan R={3,6}.dari data tersebut maka P\u2227(Q\u2227R)...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "\u00a0jawaban\u00a0dari\u00a0soal\u00a0diatas P\u2227(Q\u2227R)=3",
+                    "attachments": []
+                },
+                {
+                    "answer": "jawabnya3<br>caranya;p{2368}\u2227[Q\u2227R][Q=1358]dan[R=36].Qdan R cari\u00a0anggota yg sama,jadi irisan Q dan R adalah 3.selanjutnya cari lagi antara hasil Q dan R tadi dengan anggota P,jadi anggota yg sama lagi adalah 3dan jawabnyapun 3.<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-peta-berskala-1-10000000-jarak-kota-jambi-dan-palemba-564",
+            "question": "Sebuah peta berskala 1 : 10.000.000. Jarak kota Jambi dan Palembang pada peta jaraknya 2, 4 cm. Seorang sopir bis berangkat dari kota Jambi menuju kota Palembang dengan kecepatan rata-rata 80 km per jam. Selama perjalanannya ia berhenti istirahat sebanyak 1 kali selama 30 menit. Ia tiba di kota Palembang pukul 10.30 WIB.\u00a0    A. Berapa jam bis itu diperjalanan?\r\nB. Pukul berapa sopir bis itu berangkat dari kota Jambi?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Jarak Sebenarnya = 2,4\u00a0\u00d7 10.000.000<br>= 24.000.000 cm / 240 km<br>Waktu yang dibutuhkan untuk tiba di palembang tanpa istirahat =<br>240 : 80 = 3 jam<br>Dengan istirahat = 3 jam 30 menit<br>A. Di perjalanan membutuhkan waktu 3 jam (apabila istirahat tidak dihitung) dan 3 jam 30 menit (apabila istirahat dihitung)<br>B. Sopir berangkat pada pukul =<br>10.30 - 3.30 = 7.00<br>Semoga betul dan bermanfaat ^^",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "seorang-ayah-berumur-28-tahunketika-anaknya-lahirberaakah-umur-773",
+            "question": "Seorang ayah berumur 28 tahun,ketika anaknya lahir.Beraakah umur anak itu ketika jumlah umur mereka 48 tahun?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "ketika ayahnya berumur 48 tahun,anaknya berumur 20 tahun<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "x=umur ayah<br>y= umur anak <br>x=48<br>x-y=28<br>(48)-y=28<br>y=48-28=20<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-jawab-dan-berikan-caranya-suatu-pekerjaan-di-selesaikan-193",
+            "question": "Tolong jawab dan berikan caranya !!    Suatu pekerjaan di selesaikan oleh 24 pekerja, akan selesai dalam 60 hari setelah di kerjakan 25 hari , Pekerjaan berhenti selama 5 hari karena hujan, berapa pekarja tambahan yang di perlukan agar pekerjaan itu cepat selesai tepat waktu sesuai rencana?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]pekerja tambahan= \\frac{byk pekerja awal x libur}{sisa hari}=\\frac{24.5}{30}  \\\\=120/30=4[/tex]<br><br><strong><em><u>Jadi pekerja tambahan=4 orang</u></em></strong>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1mobil-ketika-mesinnya-di-hidupkandapat-melaju-dengan-kecepatan-128",
+            "question": "1.mobil ketika mesinnya di hidupkan,dapat melaju dengan kecepatan tertentu.setelah beberapa saat,mobil tersebut di rem sehingga jalannya menadi lambat da ber lahan-lahan berhenti.    \u00a0a) Adakah dorongan atau tarikan yang mempengaruhi bendah tersebut?apakah itu?\r\n\u00a0b)Ketika melaju,gaya apakah yang bekerja pada mobil?\r\n\u00a0c)Pada saat mobil ber lahan-lahan berhenti,gaya apakah yang bekarja pada mobil tersebut?\r\n\r\n2.Apakah yang akan terjadi jika :\r\n\u00a0a. pegas di tarik\r\n\u00a0b. Roti di tekan\r\n\u00a0c.Sepeda di kayuh,dan\r\n\u00a0d. bola di tendang?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1c. gaya gesek<br>2a. memantul<br>2b. mengempes<br>2c. berjalan<br>2d. berjalan lurus kearah tendangan tersebut<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "1A = Ada, yakni gaya dari mesin mobil<br>1B = Gaya gesek pula<br>1C = Gaya gesek<br>2A = Jika ada bendanya, akan melempar benda itu. Bila tidak ada, cuman memantul.<br>2B = Hancur atau mengempis<br>2C = Sepeda akan bergerak dan menghadapi gaya gesek<br>2D = Terlempar tergantung pada gerakan kakinya, tidak mesti lurus dengan tendangan<br>Okay ? @Liwed Maaf kalo salah",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "ltglh-60-ltklj-70-a-jika-luas-juring-klj-420-cm-552",
+            "question": "&lt;GLH = 60\u00b0 ; &lt;KLJ = 70\u00b0    a. Jika luas juring KLJ = 420 cm\u00b2 , hitung luas juring GHL\r\nb. Jika panjang busu HG = 420 cm , hitung panjang busur KJ",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<u></u>a. luas juring KLJ/ sudut KLJ = Luas juring GHL/ sudut GHL<br>420/ 70 = LJ KLJ/60<br>420 x 60 = 70 x LJ KLJ<br>360\u00a0 \u00a0 =\u00a0  Luas Juring KLJ<br>\u00a0<br>b. PBusur HG/ sudut GHL = PBusur KJ/ sudur KLJ<br>420 / 60 = PB KJ / 70<br>60 x PB KJ = 420 x 70<br>PBusur KJ = 490 cm<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pada-suatu-lingkaran-dengan-pusat-o-di-ketahui-titik-a-b-c-dan-439",
+            "question": "pada suatu lingkaran dengan pusat O di ketahui titik A, B, C, dan D pada keliling lingkaran, sehingga sudut AOB = 35 derajat dan sudut\u00a0 COD = 140 derajat. jika panjang lengkung AB = 14 cm , hitunglah panjang lengkung CD",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "panjang\u00a0lengkung cd=56",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,142 @@
+{
+    "question": "Tentukan himpuna semesta yng mungkin dri himpuna-himpuna berikut.    a. {gelas,,piring,sendok,garpu}\r\nb. {9,16,25,36,49}",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "a. Semesta yang mungkin = Peralatan makan<br><br>b. Semesta yang mungkin = Bilangan kuadrat",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "3x6-2x8-10-tolon-dong-yang-bisa-756",
+            "question": "3(x+6) = 2(x+8)-10\u00a0\r\ntolon dong\u00a0yang bisa",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "3x+18 = 2x+16-10<br>3x-2x = 16-10-18<br>x = -12<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "3(x+6) = 2(x+8) -10<br>3x + 18 = 2x + 16 -10<br>3x - 2x = 6 - 18<br>x = -12<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "penderita-kanker-dan-jantung-dirumah-sakit-sebanyak-86-orang-kan-935",
+            "question": "Penderita kanker dan jantung dirumah sakit sebanyak 86 orang.    kanker 35 orang.\r\n15 orang menderita kanker dan jantung\r\npertanyaan:\r\n1.banyak penderita yang sakit jantung ada berapa orang ???",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]S=86 \\\\ K=35-15=20 \\\\ keduanya=15 \\\\ Jantung=86-(20+15) \\\\ =86-35 \\\\ =51[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-pesawat-mula-mula-terbang-pada-ketinggian-3500-kaki-di-at-573",
+            "question": "sebuah pesawat mula-mula terbang pada ketinggian 3.500 kaki di atas permukaan laut. karena gumpalan awan, pesawat terbang naik sampai ketinggian 8.000 kaki. tentukan posisi pesawat dengan penjumlahan bilangan bulat !",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "8000 + (-3500) = 4500",
+                    "attachments": []
+                },
+                {
+                    "answer": "3500 + n = 8000<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0n = 8000 - 3500<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0n = 4500 m<br>Jadi kenaikan pesawat 4500 m<br>atau<br>0+3500 m + n = 8000<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0n = 8000-0-3500<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0n = 4500\u00a0m<br>0 meter = posisi pesawat saat belum terbang\u00a0<br>3500 meter = posisi pesawat ketika terbang<br>8000 meter = posisi kenaikan pesawat",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "65-p30-tentukan-nilai-p-583",
+            "question": "6:5 = p:30 tentukan nilai P",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "30: 5 = 6<br>6 x 6= 36<br>jawabannya 36<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "6:5=p:30<br>30:5= 6<br>6x6=36<br>jadi p=36",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "luas-lingkaran-pertama-80-cm2-hitunglah-a-luas-lingkaran-k-196",
+            "question": "Luas lingkaran pertama = 80 cm^2. Hitunglah : A) luas lingkaran kedua yang panjang jari-jarinya 3 kali panjang jari-jari lingkaran pertama. B) luas lingkaran ketiga yang panjang jari-jarinya 1/4 kali jari-jari lingkaran pertama.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "80=3,14.r^2<br>r^2=80/3,14 =25,47<br>r= akar 25,47 ..krn ga ada klakulator.. anggap aja 25..r=5\u00a0<br>luas 3x jari\" mula.. 3 x 5 =15..\u00a0<br>L= 3,14.15.15 =706,5<br><br>1/4 x 5 = 1.25\u00a0<br>L= 3,14 . 1,25 . 1,25 =4.9",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "rasionalkan-bentuk-akar-ab-a-b-5-302",
+            "question": "Rasionalkan bentuk akar \r\n\u221aa+b\r\n\u221aa-b-\u221a5",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "maaf aku hanya memberi contoh nya\u00a0<br><span>* Bentuk Rasional Akar<br>Mengalikan penyebut dengan akar sekawannya.<br><br>a. a/Vb\u00a0<br>akar sekawan Vb adalah Vb<br>a/Vb x (Vb/Vb) = (aVb)/b = a/b Vb<br><br>Contoh :<br>2/V3 = 2/V3 x (V3/V3) = 2V3/3 = 2/3 V3<br><br>b.c/(a +- Vb)<br>akar sekawan (a+Vb) adalah (a-Vb)<br>c/(a + Vb) x (a - Vb)/(a - Vb) = c (a \u2013 Vb)/(a^2 \u2013b)<br><br>akar sekawan (a-Vb) adalah (a+Vb)<br>c/(a \u2013 Vb) x (a + Vb)/(a + Vb) = c (a + Vb)/ (a^2 \u2013 b)<br><br>Contoh :<br>3/(3 + V6) = 3/(3+V6) x (3-V6)/(3-V6) = 3(3+V6)/(9-6) = 3(3+V6)/3 = 3+V6<br><br>c. c/(Va +- Vb)<br>akar sekawan (Va+Vb) adalah (Va-Vb)<br>c/(Va+Vb) x (Va-Vb)/(Va-Vb) = c(Va-Vb)/(a-b)<br><br>akar sekawan (Va-Vb) adalah (Va+Vb)<br>c/(Va-Vb) x (Va+Vb)/(Va+Vb) = c(Va+Vb)/(a-b)<br><br>Contoh :<br>8/(V5\u2013V2) = 8/(V5-V2) x (V5+V2)/(V5+V2) = 8(V5+V2)/(5-2) = 8(V5+V2)/3 = 8/3(V5+V2)<br></span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apabila-besar-sebuah-segitigan-4x-7-5x-2-x-9-tent-735",
+            "question": "Apabila besar sebuah segitigan ( 4x + 7 ),( 5x + 2 ),( x-9 )    tentukan :\r\n1. Nilai X\r\n2. Jenis segitiga",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a. jika yang dimaksud sudut segitiga, maka :<br>(4x + 7 )\u00b0 + ( 5x + 2 )\u00b0 + ( x - 9 )\u00b0 = 180\u00b0<br>10x = 180\u00b0<br>x = 18\u00b0<br><br>b. sudut masing\"<br>@ 4x + 7<br>\u00a0\u00a0\u00a0 4 ( 18 ) + 7 =79\u00b0<br>@ 5x + 2<br>\u00a0\u00a0\u00a0 5 ( 18 ) + 2 = 92\u00b0<br>@ x - 9<br>\u00a0\u00a0\u00a0 18 - 9 = 9\u00b0<br>maka dari sudut yang tertera diatas maka segitiga tersebut adalah segitiga tumpul<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-penyelesaian-2y-7-3-661",
+            "question": "Tentukan penyelesaian\u00a0\u00a02y - 7\u00a0 \u00a0\u2264 3\r\n \u00a0\u00a0\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a02",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<u>2y - 7\u00a0</u><span>\u00a0\u00a0\u2264 3</span><u><br></u><span>\u00a0 \u00a0 2<br></span>2y-7\u22643.2<br>2y-7\u22646<br>2y\u226413<br>y\u22646.5",
+                    "attachments": []
+                },
+                {
+                    "answer": "2y-7\u22646<br>2y\u22646+7<br>2y\u226413<br>\u00a0jadi y\u22646,5",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jari-jari-sebuah-roda-adalah-84-cm-jika-sepeda-tersebut-menempuh-916",
+            "question": "jari jari sebuah roda adalah 84 cm. jika sepeda tersebut menempuh jarak 264 meter, maka roda sepeda harus berputar sebanyak?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "jari jari sebuah roda adalah 84 cm. jika sepeda tersebut menempuh jarak 264 meter, maka roda sepeda harus berputar sebanyak?<br>\u00a0kel = 2 x phi x r<br>\u00a0 \u00a0 \u00a0 = 2 x 22/7 x 84<br>\u00a0 \u00a0 \u00a0 = 2 x 12 x 22<br>\u00a0 \u00a0 \u00a0 = 528<br>banyak putar = 26400/528<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 50",
+                    "attachments": []
+                },
+                {
+                    "answer": "Keliling roda = 2.pi.r<br>= 2. 22/7 . 168<br>= 1056 cm<br>Jarak dalam cm = 264\u00d7100<br>= 26.400<br>Perlu berapa kali roda berputar?<br>26.400 : 1056<br>= 25 kali<br>Semoga betul dan dapat membantu ^^<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-keliling-persegi-panjang-205-cm-dan-panjangnya-5cm-lebihnya-d-155",
+            "question": "1. keliling persegi panjang= 205 cm dan panjangnya 5cm lebihnya dari lebarnya. \u00a0 \u00a0a) jika lebarnya = x \u00a0 \u00a0 \u00a0 \u00a0 buatlah kalimat terbuka dalam persamaan \u00a0 \u00a0b)tentukan panjang, lebar, dan luas persegi panjang tersebut \u00a0 2. Dua buah bilangan berselisih 35, jika 2 kali bilangan yang besar dikurangi bilangan yang kecil adalah 185, tentukan kedua bilangan tersebut.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "A=bilangan yang lebih besar, B=bilangan yang lebih kecil<br>2A-B=185<br>A-B=35<br>Dieleminasi<br>maka A=150 dan B=115<br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

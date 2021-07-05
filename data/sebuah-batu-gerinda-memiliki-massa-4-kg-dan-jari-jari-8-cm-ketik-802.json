@@ -1,0 +1,136 @@
+{
+    "question": "Sebuah batu gerinda memiliki massa 4 kg dan jari-jari 8 cm. ketika sebuah momen gaya tetap dikerjakan, roda mencapai kecepatan sudut 1200 rpm dalam 15 sekon. anggap roda mulai dari keadaan diam dan batu gerinda berbentuk silinder pejal. tentukan:    a. percepatan sudut\r\nb. resultan momen gaya\r\nc. sudut putaran yang ditempuh dalam 15 sekon",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "(a.)<br>\u00a0\u03c9=at<br>\u00a0(1200/60) (2\u03c0)=\u03b1(15)<br>\u03b1=8\u03c0/3rad/s\u00b2<br>\u00a0(b.) momen inersianya adlh<br>I=1/2 m r\u00b2 <br>momen gaya <br>T=I \u03b1<br>\u00a0=1/2 m r\u00b2 \u03b1<br>\u00a0=1/2 (4) (0.08)\u00b2(8\u03c0/3)<br>\u00a0=0.107233 N.m<br>(c.)<br>\u03b8=1/2 \u03b1 t\u00b2<br>\u03b8=1/2 (8\u03c0/3) (15)\u00b2<br>\u03b8=300\u03c0 rad<br><br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "suatu-lensa-bikonveks-jari-jari-kelengkungannya-masing-masing-10-648",
+            "question": "Suatu lensa bikonveks ,jari-jari kelengkungannya masing-masing 10 cm dan 40 cm, indeks bias kacanya nk =1,5 . Kemudian, lensa dimasukkan ke dalam minyak yang indeks biasnya n =1,2. Maka kekuatan lensanya dalam minyak ialah.... dioptri.    a. 3,125 \r\nb. 3,250\r\nc. 4,125\r\nd. 4,250\r\ne. 5,250\r\n\r\njawabnya ,tolong pakek cara,ya!!! Biar ngerti cara ngerjain soalnya juga :D",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "tiga dua lima puluh bukan<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apakah-yang-dimaksud-dengan-proyektor-219",
+            "question": "Apakah yang dimaksud dengan proyektor",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>Proyektor LCD adalah suatu jenis proyektor video untuk menampilkan video, gambar atau data komputer di layar atau permukaan datar lainnya. Ini adalah analog modern dari proyektor slide atau proyektor overhead. Untuk menampilkan gambar, LCD (liquid crystal display) Proyektor biasanya mengirim cahaya dari lampu halida logam melalui prisma yang memisahkan cahaya untuk tiga panel silikon poli - masing-masing untuk komponen merah, hijau, dan biru dari sinyal video. Sebagai cahaya terpolarisasi melewati panel (kombinasi polarizer, panel LCD dan analyzer), piksel individu dapat dibuka untuk memungkinkan cahaya untuk lulus atau tertutup untuk memblokir cahaya. Kombinasi piksel terbuka dan tertutup dapat menghasilkan berbagai macam warna dan nuansa pada gambar yang diproyeksikan.</span>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Menurut Saya, : Proyektor merupakan alat optik yg digunakan untuk menampilkan media dalam sebuah layar permukaan yg serupa<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "seorang-penari-balet-dengan-tangan-terentang-berputar-pada-kecepa-806",
+            "question": "seorang penari balet dengan tangan terentang berputar pada kecepatan sudut diatas lantai mendatar yang licin. jika penari tersebut melipat tangannya, momen inersiannya akan berkurang sebesar 20% dari semula. perbandingan energi kinetik rotasi saat tangan dilipat dengan saat tangan terentang adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kategori: Fisika Bab Energi <br>Kelas: XI SMA IPA <br><br><br><br><br>Perhitungan dapat dilihat pada lampiran",
+                    "attachments": [
+                        "answer-attachments/seorang-penari-balet-dengan-tangan-terentang-berputar-pada-kecepa-806-1.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "seorang-penyelam-mampu-berada-pada-kedalaman-40-m-di-bawah-permuk-504",
+            "question": "Seorang penyelam mampu berada pada kedalaman 40 m di bawah permukaan laut. Jikamassa jenis air laut 1,2 g/cm3 dan percepatan gravitasi 10 m/s\u00b2, maka hitunglah besar tekanan hidrostatis yang dialami penyelam!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "rho= 1,2 g/cm\u00b3=1,2\u00d7(10^-3/10^-6)=1,2\u00d710^3=1200<br>Ph=rho\u00d7g\u00d7h=1200\u00d710\u00d740=480000 N/m\u00b2",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-elevator-bermuatan-1200-kg-untuk-menaikkan-setinggi-20-met-345",
+            "question": "Sebuah elevator bermuatan 1200 kg untuk menaikkan setinggi 20 meter dalam waktu 30 detik diperlukan daya ? Minta sekalian sama rumus nya ya...guru ku gak jelas ngasitaunya",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Daya = P(Usaha)/ Waktu (t)<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 1200\u00d720/30 = 800 J/s<br>Usahan (W)= F(Gaya) x Perubahan Jarak",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-truk-bermassa-7500-kg-yang-bergerak-dengan-kecepatan-5-ms-402",
+            "question": "sebuah truk bermassa 7500 kg yang bergerak dengan kecepatan 5 m/s ditabrak mobil lain yang bermassa 15000 kg dengan keceptan 20 m/s.kedua kendaraan rjusak berat dan menjadi satu. kelajuan kedua mobil rusak itu adalah........",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "m1.v1 + m2.v2 = (m1+m2) V<br>7500.5 + 15000.20 = (7500+15000) V<br>37500 + 300000 = 22500 V<br>337500 = 22500 V<br>V= 337500 : 22500<br>V= 15 m/s<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dua-mobil-a-dan-b-mula-mula-diam-massa-mobil-a-dua-kali-mobil-b-777",
+            "question": "Dua mobil A dan B mula mula diam, Massa Mobil A dua kali mobil B agar dalam waktu yang sama kecepatan mobil B dua kali mobil A. Perbandingan usaha yang dilakukan mobil A dan Mobil B yang tepat adalah ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1:2<br>dapat diperoleh dari teori usaha = perubahan energi kinetik dengan rumus 1/2mv\u00b2<br>Untuk memastikan dapat dicoba.",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "kecepatan-pada-ayunan-524",
+            "question": "Kecepatan pada ayunan",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "V = A w cos wt<br>V = A 2phif cos 2phif t<br>V = A 2phi f : t cos 2phi :t t",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suatu-gaya-menyinggungtepi-silinder-pejal-homogen-yang-massanya-932",
+            "question": "Suatu gaya menyinggungtepi silinder pejal homogen, yang massanya 200 gram. jari - jari 50 cm, akibat gaya tersebut silinder memiliki percepatan 4rad/s2, nilai gaya momen silinder sebesar...    A.0,1 b. 0,2 c.0,3 d.0,4 e. 0,5",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Dik : m = 200 g = 0,2 kg <br>\u00a0\u00a0 \u00a0 \u00a0\u00a0 r = 50 cm = 0,5 m <br>\u00a0\u00a0 \u00a0 \u00a0 \u03b1 = 4 rad/s2 <br>Dit : \u03c3 = ...?<br>Jwb : <br>silinder pejal ---&gt; I = 1/2 m r^2 <br>I = 1/2 . 0,2 . 0,5^2 = 0,025 <br>\u03c3 = I . \u03b1<br>\u00a0\u00a0 = 0,025 . 4 = 0,1 <br>(A) <br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Dik m = 200 gr = 0,2 kg<br>\u00a0 \u00a0 \u00a0 r = 50 cm = 0,5 m<br>\u00a0 \u00a0 \u00a0\u00a0\u03b1 = 4 rad/s<br>Dit torsi ?<br>jawab.<br>i =\u00a0[tex] \\frac{1}{2} m r^{2} [/tex]<br>\u00a0 = 1/2 . 0,2 . 0,5^2<br>\u00a0\u00a0= 0,025 kgm^2<br><br>torsi = \u00a0i .\u00a0\u03b1<br>\u00a0 \u00a0 \u00a0 \u00a0= 0,025 . 4<br>\u00a0 \u00a0 \u00a0 \u00a0= 0,1 Nm",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-roda-pejal-massanya-45-kg-dengan-jari-jari-15-m-berada-p-988",
+            "question": "sebuah roda pejal massanya 4,5 kg dengan jari-jari 1,5 m berada pada lantai kasar melalui sumbunya roda tersebut ditarik dengan gaya 20N, sehingga roda menggelinding pada arah mendatar pada saat 15s tentukan energi kinetik totalnya?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "900 kah jawabnnya ???",
+                    "attachments": []
+                },
+                {
+                    "answer": "energi kinetik total dari sebuah roda pejal yaitu 900",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

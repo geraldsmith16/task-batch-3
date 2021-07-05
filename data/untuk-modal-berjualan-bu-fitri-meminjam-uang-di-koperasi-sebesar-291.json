@@ -1,0 +1,140 @@
+{
+    "question": "untuk modal berjualan bu fitri meminjam uang di koperasi sebesar rp 5.000.000.00 dengan bunga 1% per bulan ,ansuran tiap bulan yang harus di bayar bu fitri jika meminjam selama 10 bulan adalah",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "bunga perbulan = 1% x 5jt = 50.000<br>angsuran perbulan = (1/10) x 5.000.000 + bunga perbulan = 500.000 + 50.000<br>angsuran perbulan = Rp 550.000<br>dengan total yang harus dibayar Rp 5.500.000 selama 10 bulan",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "dalam-suku-deret-aritmatika-diketahui-suku-ke3-9-dan-suku-ke7-878",
+            "question": "Dalam suku deret aritmatika diketahui, suku ke3 = 9 dan suku ke7 = 37. suku ke 30 adalah...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "U3=9 -&gt; a+2b=9\nU7=37-&gt; a+6b = 37\n               ---------- -\n-4b = -28\n   b = 7 -&gt; a +2.7 = 9\n                 a= -5\nNanti tinggal disubsitusi ke\nUn = a+ (n- 1 ) b",
+                    "attachments": []
+                },
+                {
+                    "answer": "U3=9\u00a0<br>U7=37<br>-4b=-28<br>b=-28/-4<br>b=7<br><br>a+2b=9 \u00a0 \u00a0\u00a0a+2.7=9<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 a+14=9<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 a=-5<br><br>U30= a+(n-1)\u00a0b<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0-5+29.7<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0-5+203<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0198",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-13-11-9-un-1800-tentukan-banyak-suku-dere-197",
+            "question": "Jika : 13 + 11 + 9 +...... + Un = -1800\r\ntentukan banyak suku deret tersebut ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "cari dlu rumus suku ke-n atau Un<br>Un = (a +(n-1)b) = 13 +(n-1)-2 = 15 - 2n<br>kemudian masukkan rumus jumlah sukuk ke- n atau Sn<br>Sn= n/2(a + Un)<br>-1800=n/2(13 + 15 - 2n)<br>-1800=(28n - 2n^2)/2<br>-3600 = 28n - 2n^2 \u00a0 \u00a0 \u00a0 (pindahkan semua yang di ruas kanan ke ruas kiri)<br>2n^2 - 28n -3600 = 0 \u00a0 \u00a0 (bagi 2 kedua ruas)<br>n^2 - 14n -1800 = 0 \u00a0 \u00a0 \u00a0 \u00a0 (faktorkan)<br>(n-50)(n+36) = 0<br>n = 50 atau -36<br><br>jawabannya n adalah 50, karena harus bernilai positif, atau syarat di atas adalah n= bil . asli<br>(coba saja bayangkan apakah ada suku ke -36??) yang ada adalah suku ke 50,\u00a0<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-bola-menggelinding-sepanjang-bidang-miringjarak-yang-dite-483",
+            "question": "Sebuah bola menggelinding sepanjang bidang miring,jarak yang ditempuh S dari titik asal selama t detik dinyatakan dengan rumus s=3/2t\u00b2+0,6t ( s dalam satuan meter dan t dalam detik)    a)tentukan ds/dt\r\nb)tentukan kecepatan sesaat pda saat t=0,3 detik\r\nc)carilah waktu yg diperlukan shg kecepatan sesaat mencapai 6,6m/detik",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a. 3t + 0,6<br>b. kecepatan itu turunan dari jarak (s) jadi persamaan pada s diturunkan\u00a0<br>\u00a0 \u00a0 \u00a0v= 3t+ 0,6<br>\u00a0 \u00a0 t(0,30 = 3 (0,3) + 0,6<br>\u00a0 \u00a0 \u00a0V = 0,9 + 0,6<br>\u00a0 \u00a0 \u00a0V = 1,5 m/s<br>c. v = 3t +0,6<br>\u00a0 \u00a0 \u00a06,6 = 3t + 0,6<br>\u00a0 \u00a0 \u00a06,6 - 0,6 = 3t<br>\u00a0 \u00a0 \u00a06 = 3t\u00a0<br>\u00a0 \u00a0 \u00a0t = 2\u00a0<br>inysaAllah gt :)",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-nilaim-yang-memenuhi-a-fx-mx2-m1-x-8-b-f-910",
+            "question": "Tentukan nilai\"m\" yang memenuhi :    a. f(x) = mx2 - (m+1) x-8\r\nb. f(x) = mx2 + 12x + 9m\r\njika 1 memotong sumbu x\r\njika 1 menyinggung sumbu x\r\njika 1 tidak memotong/menyinggung sumbu x",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a. <br><span><br>b. </span><br><span><br><br>i&#039;m sorry if the fals answer..<br></span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-persamaan-bidang-yang-melalui-titik-titik-p-321-557",
+            "question": "Tentukan persamaan bidang yang melalui\u00a0titik- titik\u00a0P ( 3,2,1,); Q ( 4,1,5 ); R ( 2,4,3 )",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "3x + 2y + z = 0\u00a0 \u00a0 <br>4x + y + 5z = 0<br>2x + 4y + 3z = 0<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "banyak-anggota-matriks-adalah-170",
+            "question": "Banyak anggota matriks\u00a0 adalah....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "antara 12 dan\u00a0tidak ada........................",
+                    "attachments": []
+                },
+                {
+                    "answer": "jelaskan awal mula berdirinya kerajaan singhasari<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "ada-yang-ngerti-limit-trigonometri-ga-972",
+            "question": "Ada yang ngerti limit trigonometri ga???",
+            "attachments": [
+                "question-attachments/ada-yang-ngerti-limit-trigonometri-ga-972-1.docx"
+            ],
+            "answers": [
+                {
+                    "answer": "nih dek, cb dipelajari",
+                    "attachments": [
+                        "answer-attachments/ada-yang-ngerti-limit-trigonometri-ga-972-1.docx"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "diskiriminan-pk-panjang-suatu-persegi-panjang-adalah-2m-lebih-pan-398",
+            "question": "Diskiriminan pk    panjang suatu persegi panjang adalah 2m lebih panjang dari lebarnya . jika luasnya 960m\u00b2. tentukan panjang persegi tersebut\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]p=2+l\\\\\nL=pl=960\\\\\n(2+l)l=960\\\\\nl^2+2l-960=0\\\\\n(l-30)(l+32)=0\\\\\nl=30\\ atau\\ l=-32(TM)\\\\\np=32[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "mohon-penjelasan-cara-mengerjakan-nya-terimakasih-482",
+            "question": "Mohon penjelasan cara mengerjakan nya, terimakasih",
+            "attachments": [
+                "question-attachments/mohon-penjelasan-cara-mengerjakan-nya-terimakasih-482-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "insyaallah<br>tapi man soalnya?",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "barisan-geometri-u3-12-dan-u696-s4-350",
+            "question": "Barisan Geometri. U3= 12, dan U6=96. S4. . . ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "u6 = 96 = rumus\u00a0 ar^n-1<br>u3 = 12 <br>s4 ?<br><br>u6 = ar^5\u00a0 u3 = ar^2<br>96 = ar^5\u00a0 12 = ar^2<br><br>r = 6-3\u221a96/12 = \u221b8 = 2<br>S4 = u3 x r<br>\u00a0\u00a0 \u00a0 = 12 x 2 = 24<br>S4 = 3 + 6 + 12 + 24 = 45<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "U3 = 12<br>U6 = 96<br>dit : S4<br><br>U6 = U3 . rrr<br>96 = 12 . rrr<br>rrr = 8<br>r = 2<br><br>S4 = 3 + 6 + 12 + 24 = 45",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

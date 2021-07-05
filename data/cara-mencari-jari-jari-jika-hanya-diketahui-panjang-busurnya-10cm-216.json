@@ -1,0 +1,148 @@
+{
+    "question": "Cara mencari jari-jari jika hanya diketahui panjang busurnya 10cm",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "Exp:<br>Diameter =10<br>\u00a0Berarti=1/2 x d<br>= 1/2x10= 5<br>jari-jarinya adalah: 5<br>",
+            "attachments": []
+        },
+        {
+            "answer": "<span>Diameter =10<br>=1/2 x d<br>= 1/2x10<br>= 5</span><br><br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "deni-memiliki-pita-yang-panjangnya-10-meter-pita-tersebut-dipoto-412",
+            "question": "Deni memiliki pita yang panjangnya 10 meter. Pita tersebut dipotong 5/8 meter diberikan kepada Yudi. Berapa panjang pita Deni sekarang?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex] \\frac{3}{8} [/tex]\u00a0\u00d7 10 = 3,75 m",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "465",
+            "question": "",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex] 10^{2+12+2/3} =\u00a010^{14.2/3} [/tex]",
+                    "attachments": []
+                },
+                {
+                    "answer": "[tex] 10^{2 + 12+ \\frac{2}{3} } [/tex] =\u00a0[tex] 10^{14,6}[/tex]<br><br>Maaf jika salah",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "volume-kubus-19683-dm3-sisinya-adalah-493",
+            "question": "VOLUME KUBUS 19,683 dm\u00b3. SISINYA ADALAH?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "sisinya adalah\u00a027 centimeter\u00a0<br>hitung lagi aja ya\u00a0",
+                    "attachments": []
+                },
+                {
+                    "answer": "2,7 * 2,7 * 2,7 = 19,683 dm3<br>jadi sisinya adalah 2,7 dm\u00a0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-per-tiga-dikali-44-berapa-ya-ka-604",
+            "question": "1 per tiga dikali 44 berapa ya ka?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1/3 * 44 =14.66 dibulatkan 14.7<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-maka-487",
+            "question": "Jika\u00a0 maka\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]Tg^2 x + 1 = a^2 [/tex]<br>[tex]Tg^2 x = a^2 -1[/tex]<br>[tex]Tg x = \\sqrt{a^2-1}[/tex]<br><br>Maka\u00a0[tex]sin^2 x = \\frac{a^1 - 1}{a^2}[/tex]",
+                    "attachments": [
+                        "answer-attachments/jika-maka-487-1.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "soal-trigonometri-25-poin-ayo-ayo-bantuin-dong-jika-sin-a-582",
+            "question": "Soal Trigonometri 25 poin! ayo ayo bantuin dong!\u00a0    Jika sin\u00a0\u03b1 =\u00a0 dan tang\u00a0\u03b1 =\u00a0\u00a0 dan\u00a0\u03b2 adalah sudut lancip, maka nilai sin (\u03b1+\u03b2) adalah\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Coba jawab ya<br>sin (\u03b1+\u03b2) = sin\u00a0\u03b1 . cos\u00a0\u03b2 + cos\u00a0\u03b1 . sin\u00a0\u03b2\u00a0<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 =\u00a0[tex] \\frac{3}{5}  \\frac{3}{5} + \\frac{4}{5}  \\frac{4}{5} [/tex]<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 1",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "berapakah-digit-terakhir-dari-20122013-201320122-926",
+            "question": "Berapakah digit terakhir dari (20122013 + 20132012)2 ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "hasilnya 80508050 ada 8 digit <br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "8 digit hasilnya 80508050",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "seorang-pedagang-pakaian-pada-hari-satu-berhasil-menjual-4-kodi-b-647",
+            "question": "Seorang pedagang pakaian pada hari Satu berhasil menjual 4 kodi baju. Pada hari Minggu berhasil menjual 5 lusin baju. . Pada hari Senin hanya menjual 4 potong baju.    \u00a0a. Berapa lusine baju yang telah terjual selama 3 hari itu?\r\n\u00a0b. Berapa gros seluruh baju yang terjual\u00a0selama 3 hari itu?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a. 80 + 60 + 4 = 144<br>b.1 gros . karena 1 gros = 12 lusin<br>\u00a0144/ 12= 12 lusin ( 1 gross)<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "a. 4 kodi = 20 x 4 = 80 buah<br>\u00a0\u00a0  5 lusin = 12 x 5 = 60 buah<br>\u00a0\u00a0 4 potong = 4 buah<br>\u00a0\u00a0 =&gt; 80 + 60 + 4 = 144<br>\u00a0\u00a0  =&gt; 144 : 12 = 12 lusin<br>\u00a0\u00a0  yg terjual selama 3hari sebanyak 12 lusin<br>b. 1 gros = 12 lusin<br>\u00a0\u00a0  yg terjual selama 3hari sebanyak 1 gros<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "zendy-dapat-merakit-komputer-dalam-waktu-30-menit-sedangkan-ginan-736",
+            "question": "Zendy dapat merakit komputer dalam waktu 30 menit sedangkan Ginanjar 45 menit. Jika mereka merakit 3 komputer bersama sama, berapa menit yang mereka buhtukan untuk merakit3 komputer itu ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "30 menit<br>30 = 2x3x5<br>45=3x3x5<br>kpk = 2x3x5<br>\u00a0 \u00a0 \u00a0 = 30",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "hasil-dari-118512-02-413",
+            "question": "Hasil dari 11/8+5/12-0,2",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1,375 + 0,416 - 0,2 = 1,591<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "191/120 ...............................",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

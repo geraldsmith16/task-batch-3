@@ -1,0 +1,134 @@
+{
+    "question": "Jika -999,-997,-995,... Adalah barisan aretmatika, maka suku brnilai positif yg muncul prtama kali adalah suku ke .. \u00a0",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "1 = a + (n-1)b<br>1\u00a0=- 999 + 2n -2<br>3 = -999 + 2n<br>1112 = 2n<br>556 = n :)",
+            "attachments": []
+        },
+        {
+            "answer": "a = -999<br>b = -997 - (-999) = 2<br><br>suku positif pertama<br>Un = -999 + 2(n-1)<br><br>yang cocok pada saat n-1 bernilai 500<br>jadi<br>Un = -999 + 2(500) = -999 + 1000 = 1<br><br>jadi<br>n - 1 = 500<br>n = 501<br><br>jadi suku ke 501",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "tentukan-nilaim-yang-memenuhi-a-fx-mx2-m1-x-8-b-f-910",
+            "question": "Tentukan nilai\"m\" yang memenuhi :    a. f(x) = mx2 - (m+1) x-8\r\nb. f(x) = mx2 + 12x + 9m\r\njika 1 memotong sumbu x\r\njika 1 menyinggung sumbu x\r\njika 1 tidak memotong/menyinggung sumbu x",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a. <br><span><br>b. </span><br><span><br><br>i&#039;m sorry if the fals answer..<br></span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "nilaixyyang-memenuhi-sistem-persamaan-2x-y5-x-2y7-687",
+            "question": "Nilai(x,y)yang memenuhi sistem persamaan\r\n2x + y=5\r\nx + 2y=7",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>2x + y=5<br>y= 5-2x.................(1)<br><br>x + 2y=7<br>x+ 2(5-2x)=7<br>x+10-4x=7<br>-3x=-3<br>x=1......................(2)<br><br><br>2x+y=5<br>2(1)+y=5<br>2+y=5<br>y=3.........................(3)<br><br><br></span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "persaman-m-14x2m0-mempunyai-akar-real-tentukan-m-yang-memen-534",
+            "question": "Persaman (m-1)+4x+2m=0 mempunyai akar real. Tentukan m yang memenuhi",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>(m-1)+4x+2m=0<br></span><br><span>m-1+4x+2m=0<br>3m</span><span>+4x=1<br>3m=1-4x<br>m=(1-4x)/3<br>m=(1/3)-(4x/3)<br>maybe :D<br></span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-siswa-direlasikan-dengan-tanggal-kelahirannya-apakah-relas-900",
+            "question": "jika siswa direlasikan dengan tanggal kelahirannya , apakah relasi itu merupakan fungsi ? berikan penjelasannya ??",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "tdak karena tdAK MENutup kemungkinan terdapat kesamaan tanggal lahir",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "3-bil-membentuk-barisan-aritmatika-jika-suku-ke-3-ditambah-3-dan-922",
+            "question": "3 bil membentuk barisan aritmatika jika suku ke 3 ditambah 3 dan suku ke 2 dikurangi 1, diperoleh barisan geometri, jika suku ke 3 barisan aritmatika ditambah 8 maka hasilnya menjadi 5 kali suku pertama. tentukan beda dari barisan aritmatika tersebut",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a-b,a,a+b ...... \u00a0 BA<br>a-b,a-1,a+b+3 ........ \u00a0 \u00a0BG \u00a0 \u00a0\u00a0 maka (a-1)^2= (a-b)(a+b+8) \u00a0 \u00a0persamaan 1<br>a+b+8=5(a-b)&lt;=&gt; 8= 4a - 6b &lt;=&gt; 4 = 2a - 3b...pers 2<br>pers 1 dan 2 \u00a0didapat 4a^2-43a-11=0 didapat a= - 1/4 atau a= 11<br>a= 11 maka b = 6<br>a = - 1/4 maka b = - 3/2",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-dua-fungsi-fxx-5-dan-gxx2x2-jika-fx2-1-g-578",
+            "question": "Diketahui dua fungsi f(x)=x-5 dan g(x)=x\u00b2+x+2, jika f(x\u00b2-1)= g(x-1) maka x=",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]f(x^2-1)=g(x-1)\\\\\n(x^2-1)-5=(x-1)^2+(x-1)+2\\\\\nx^2-6=x^2-2x+1+x+1\\\\\nx=8[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "daerah-asal-dari-fungsi-yfxx-1x-adalah-751",
+            "question": "Daerah asal dari fungsi \r\ny=f(x)=(x-1)/x adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]y=\\frac{x-1}{x}\\\\\ndaerah\\ asal\\ fungsi\\ tsb\\ (domain)\\ adalah\\ \\{x \\neq 0, x \\in Real\\} [/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "faktor-dari-418",
+            "question": "Faktor dari",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex] x^{2} -9x = x(x-9)[/tex]<br><br>x = 0<br>x = 9",
+                    "attachments": []
+                },
+                {
+                    "answer": "[tex](x - 3x) (x + 3x)[/tex]<br><br>.<br>. [tex]ax^2 - bx = c[/tex]<br>.<br>Semoga membantu ^_^<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "persamaan-m-1-x2-4x-2m-0-mempunyai-akar-akar-real-te-829",
+            "question": "Persamaan (m - 1)\u00a0x\u00b2 + 4x + 2m = 0 mempunyai akar-akar real. Tentukan nilai m yg memenuhi!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "JAWAB.<br>akar akarnya<br>x= -2 m= 2<br>x= 0 m=0<br>x=1 m= -1<br>x=4 m=0<br><br>nilai m = 1 dan x = -1/2<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "D&gt;0<br>x\u00b2+4x+2m&gt;0<br>b\u00b2-4ac<br>(4)\u00b2-4.1.2m&gt;0<br>16-8m&gt;0<br>-8&gt;-16<br>m&lt;2<br>jadi m nya : 1<br>mungkin begitu, semoga benar :D",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-jumlah-10-suku-pertama-barisan-aritmatika-adalah-1255-473",
+            "question": "diketahui jumlah 10 suku pertama barisan aritmatika adalah 1255, jika bedanya 6. tentukanlah suku pertama dan rumus suku ke-n?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "U1 + U2 +..... + U10 = 10U1 + (1\u00a0+\u00a02\u00a0+ 3 + 4 + 5 + 6 + 7 + 8 + 9)b =1225<br><br>10U1 + 45.6 = 1255<br>10U1 +\u00a0270 = 1255<br>10U1 = 985<br>U1 = 98,5<br><br>Un = U1 + (n-1)b<br>Un = 98,5 + (n-1)6<br>Un = 98,5 + 6n -\u00a06<br>Un = 6n + 92,5",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

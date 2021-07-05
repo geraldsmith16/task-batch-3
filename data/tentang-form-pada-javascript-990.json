@@ -1,0 +1,137 @@
+{
+    "question": "Tentang form pada javascript ?",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "<span>pembuatan form pada HTML dengan menggunakan Java Script<span><br>&lt;html&gt;<span>\u00a0\u00a0&lt;head&gt;&lt;title&gt;JavaScript-Mid&lt;/title&gt;&lt;/head&gt;</span><span>\u00a0\u00a0&lt;body&gt;</span><span>\u00a0\u00a0\u00a0\u00a0&lt;script languange =\"JavaScript\"&gt;</span><span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0function Proses()</span><span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0{</span><span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0var npm = (document.formnilai.inpm.value);</span><span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0var nama = (document.formnilai.inama.value);</span><span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0var nt = (document.formnilai.int.value);</span><span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0var nk = (document.formnilai.ink.value);</span><span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0var nm = (document.formnilai.inm.value);</span><span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0var ns = (document.formnilai.ins.value);\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0na = 0.2*nt+0.1*nk+0.3*nm+0.4*ns;</span><span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0if (na&gt;=85)</span><span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0nh=&#039;A&#039;;</span><span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0else if (na&gt;=70)</span><span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0nh=&#039;B&#039;;</span><span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0else if (na&gt;=55)</span><span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0nh=&#039;C&#039;;</span><span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0else if (na&gt;=40)</span><span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0nh=&#039;D&#039;;</span><span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0else</span><span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0nh=&#039;E&#039;;</span><span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0if (nh==&#039;A&#039; || nh==&#039;B&#039; || nh==&#039;C&#039;)</span><span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0ket = \"Lulus\";</span><span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0else</span><span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0ket = \"Gagal\";</span><span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0document.formnilai.onpm.value = npm;\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0document.formnilai.onama.value = nama;</span><span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0document.formnilai.ona.value = na;</span><span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0document.formnilai.onh.value = nh;</span><span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0document.formnilai.oket.value = ket;</span><span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0}</span><span>\u00a0\u00a0\u00a0\u00a0&lt;/script&gt;</span><span>\u00a0\u00a0\u00a0\u00a0&lt;form name =\"formnilai\"&gt;</span><span>\u00a0\u00a0\u00a0\u00a0&lt;h2&gt; Pengolahan Data Nilai Pemrograman Web &lt;/h2&gt;</span><span>\u00a0\u00a0\u00a0&lt;h3&gt; Input Data Nilai Mahasiswa &lt;/h3&gt;</span><span>\u00a0\u00a0\u00a0\u00a0&lt;pre&gt;</span><span>\u00a0\u00a0\u00a0\u00a0\u00a0NPM\u00a0\u00a0\u00a0\u00a0: &lt;input type=\"text\" size=\u201c10\" name=\"inpm\"&gt; &lt;br&gt;</span><span>\u00a0\u00a0\u00a0\u00a0\u00a0Nama\u00a0\u00a0\u00a0: &lt;input type=\"text\" size=\u201c20\" name=\"inama\"&gt; &lt;br&gt;</span><span>\u00a0\u00a0\u00a0\u00a0\u00a0Nilai Tugas\u00a0\u00a0\u00a0\u00a0\u00a0: &lt;input type=\"text\" size=\"5\" name=\"int\"&gt; &lt;br&gt;</span><span>\u00a0\u00a0\u00a0\u00a0\u00a0Nilai Kuis\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0: &lt;input type=\"text\" size=\"5\" name=\"ink\"&gt; &lt;br&gt;</span><span>\u00a0\u00a0\u00a0\u00a0\u00a0Nilai Mid\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0: &lt;input type=\"text\" size=\"5\" name=\"inm\"&gt; &lt;br&gt;</span><span>\u00a0\u00a0\u00a0\u00a0\u00a0Nilai Semester\u00a0\u00a0: &lt;input type=\"text\" size=\"5\" name=\"ins\"&gt;</span><span>\u00a0\u00a0\u00a0\u00a0&lt;/pre&gt;</span><span>\u00a0\u00a0\u00a0\u00a0&lt;input type=\"button\" value=\"Proses Nilai\" onclick=\"Proses()\"&gt;</span><span>\u00a0\u00a0\u00a0\u00a0&lt;input type=\"reset\" value=\"Ulang\"&gt;</span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0<span>\u00a0\u00a0\u00a0\u00a0&lt;h3&gt;Hasil Proses &lt;/h3&gt;</span><span>\u00a0\u00a0\u00a0\u00a0&lt;pre&gt;</span><span>\u00a0\u00a0\u00a0\u00a0\u00a0NPM\u00a0\u00a0\u00a0\u00a0: &lt;input type=\"text\" size=\u201c10\" name=\"onpm\"&gt; &lt;br&gt;</span><span>\u00a0\u00a0\u00a0\u00a0\u00a0Nama\u00a0\u00a0\u00a0: &lt;input type=\"text\" size=\u201c20\" name=\"onama\"&gt; &lt;br&gt;</span><span>\u00a0\u00a0\u00a0\u00a0\u00a0Nilai Akhir\u00a0\u00a0\u00a0\u00a0: &lt;input type=\"text\" size=\"5\" name=\"ona\"&gt; &lt;br&gt;</span><span>\u00a0\u00a0\u00a0\u00a0\u00a0Nilai Huruf\u00a0\u00a0\u00a0\u00a0: &lt;input type=\"text\" size=\"5\" name=\"onh\"&gt; &lt;br&gt;</span><span>\u00a0\u00a0\u00a0\u00a0\u00a0Keterangan\u00a0\u00a0\u00a0\u00a0\u00a0: &lt;input type=\"text\" size=\"7\" name=\"oket\"&gt; &lt;br&gt;\u00a0\u00a0\u00a0\u00a0</span><span>\u00a0\u00a0\u00a0\u00a0&lt;/pre&gt;</span><span>\u00a0\u00a0\u00a0\u00a0&lt;/form&gt;</span><span>\u00a0\u00a0\u00a0&lt;/body&gt;</span>&lt;/html&gt;<br><span><br><br>kurng pham juga dengan pertanyaannya :)<br>maaf kalau salah, soalnya meragukan</span></span></span>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "mengapa-ilmu-pengetahuan-dan-teknologi-saat-ini-banyak-dikuasai-o-245",
+            "question": "mengapa ilmu pengetahuan dan teknologi saat ini banyak dikuasai oleh umat nonmuslim, padahal al-Quran banyak memerintahkan kaum muslimin mengeksplorasi ilmu pengetahuan dan alam semesta? analisislah hal tersebut dan kemukakan alasannya!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Mungkin karena kebanyakan yang tidak bersungguh sungguh dlam belajar,,,<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "kenapa-sih-windows-7-tidak-bisa-update-otomatis-lagi-ketika-diu-167",
+            "question": "Kenapa sih Windows 7 tidak bisa update otomatis lagi ?    Ketika diupdate, malah gagal.\r\n\r\nSolusi mengatasinya gimana ya ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "lebih baik anda langsung membawanya ke tempat2 yg memang ahli untuk menginstal perangkat anda..krn jika salah program..bisa-bisa file/data2 dalam perangkat anda akan hilang.",
+                    "attachments": []
+                },
+                {
+                    "answer": "coba di cek pengaturan windows update nya, biasanya kalo gitu masalahnya itu karena settingan windows updatenya mati #kayapunyaku :x",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bagaimanakah-cara-membuat-blog-pribadi-380",
+            "question": "Bagaimanakah cara membuat Blog Pribadi?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "cara yang paling mudah adalah dengan anda memiliki email GMAIL. gmail sudah terintegrasi dengan Blogger sehingga mudah untuk digunakan<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "tinggal buat aja di\u00a0blogger.com,tapi km hrus daftar dulu di google,biar bisa punya akunnya. sudah itu kamu ikuti petunjuknya.",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "maaf-mengganggu-saya-mau-tanya-hp-saya-kan-ada-memori-telepon-431",
+            "question": "Maaf mengganggu,\u00a0saya mau tanya    hp saya kan ada memori telepon, sama memori eksternal, nah memori telepon saya terformat waktu lagi di hubung USB ke komputer, kira2 cara ngembali in nya gimana?\r\n\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "saya udah coba recovery itu, tapi ga bisa-bisa.. ya bagaimana lagi, data hilang semua, kecuali kalau datanya di memori eksternal<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "aplikasi-converter-yang-bisa-ngubah-format-video-mp4-jadi-format-977",
+            "question": "Aplikasi converter yang bisa ngubah format video mp4 jadi format lain?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "freemake video converter<br>gom converter",
+                    "attachments": []
+                },
+                {
+                    "answer": "software total\u00a0video converter",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentang-microsoft-office-excel-1-pada-setiap-tab-terdapat-sat-751",
+            "question": "Tentang Microsoft Office\u00a0Excel\u00a0    1. pada setiap tab terdapat satu huruf yang digaris bawah. jelaskan fungsi hal tersebut dan berikan 2 contoh penggunaanya ?\r\n\r\n2. perintah apakah yang dapat di gunakan untuk memodifikasi suatu sel? jelaskan langkahnya\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "fungsinya adalah untuk sebagai shortcut, tekan tombol ALT maka setiap objek akan digaris bawahi, tekan tombol yg digaris bawahi dinkeyboard",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-jelaskan-hierarchy-chomsky-735",
+            "question": "1.\u00a0\u00a0\u00a0\u00a0\u00a0\r\nJelaskan Hierarchy Chomsky",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>Dalam bidang ilmu komputer, khususnya di bidang bahasa formal, hirarki Chomsky (kadang-kadang disebut sebagai hirarki Chomsky-Schutzenberger) adalah sebuah hirarki penahanan kelas tata bahasa formal. Ini hirarki tata bahasa digambarkan oleh Noam Chomsky pada tahun 1956. [1] Hal ini juga dinamai Marcel-Paul Schutzenberger, yang memainkan peran penting dalam pengembangan teori bahasa formal. The Chomsky Hierarchy, pada dasarnya, memungkinkan kemungkinan bagi pemahaman dan penggunaan model ilmu komputer yang memungkinkan programmer untuk mencapai tujuan linguistik bermakna secara sistematis</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-caralangkahtips-melakukan-pemasaran-online-di-google-plus-2-423",
+            "question": "1 cara/langkah/tips melakukan pemasaran online di google plus? 2 cara/langkah/tips melakukan pemasaran online di socl? 3 cara/langkah/tips melakukan pemasaran online d- friendster? 4 cara/langkah/tips melakukan pemasaran online di linkedin? \u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1. \u00a0yang mau di pasarkan di post di G+ , add circle yg banyak.<br>2. \u00a0socl, gak pernah make.<br>3. \u00a0Friendster, dah BANGKRUT!!<br>4. \u00a0Linked in, bukan tempat promosi, kecuali mau promosiin diri!",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "minta-saran-nih-disuruh-buat-logo-untuk-goodie-bag-dari-inkscape-755",
+            "question": "minta saran nih, disuruh buat logo untuk goodie bag dari inkscape. Mau minta contoh gambar yang bagus buat dijadiin logo doong, makasiih :)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "semoga membantu dan bermanfaat",
+                    "attachments": [
+                        "answer-attachments/minta-saran-nih-disuruh-buat-logo-untuk-goodie-bag-dari-inkscape-755-1.jpg",
+                        "answer-attachments/minta-saran-nih-disuruh-buat-logo-untuk-goodie-bag-dari-inkscape-755-2.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "perintah-include-commanconfigphp-adalah-458",
+            "question": "Perintah include (\"comman/config.php\") adalah?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "&lt;? <br>include \"config.php\"; <br>?&gt;<br><br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

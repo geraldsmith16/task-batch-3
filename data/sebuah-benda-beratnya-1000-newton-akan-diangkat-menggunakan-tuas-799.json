@@ -1,0 +1,146 @@
+{
+    "question": "Sebuah benda beratnya 1000 newton akan diangkat menggunakan tuas yang panjangnya 6 meter. 2 meter dari beban diletakkan penumpu. hitunglah :    a. panjang lengan kuasa\r\nb. gaya yang diperlukan\r\nc. keuntungan mekanik\r\nd. jika benda terangkat 0,5 meter, berapakah usaha yang dilakukan?",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "w = 1000 N<br>lw = 2 m<br><br>a. lf = 6 -2 = 4m<br><br>b. w \u00d7 lw = F \u00d7 lf<br>\u00a0\u00a0\u00a0 1000 \u00d7 2 = F \u00d7 4<br>\u00a0\u00a0 \u00a0 <u>2000</u>\u00a0 =\u00a0 F<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 4<br>\u00a0\u00a0 \u00a0 500 N = F<br><br>c. KM = w / F<br>\u00a0\u00a0\u00a0 KM = 1000 / 500<br>\u00a0\u00a0\u00a0 KM = 2<br><br>d. W = F \u00d7 s<br>\u00a0\u00a0 W = 500 \u00f7 0,5<br>\u00a0 \u00a0 W = 1000 J\u00a0",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "sebuah-mobil-balap-memiliki-gaya-10000n-yang-dikerjakan-oleh-mes-755",
+            "question": "sebuah mobil balap memiliki gaya 10.000N yang dikerjakan oleh mesinnya dan total hambatan oleh gesekan angin dan jalan adalah 2.000N. Jika percepatan mobil adalah 2m/s2, hitung massa mobil balap itu (dalam kg)!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "F = m.a<br>10.000 N = m . 2 m/s^2<br>10.000 N/2 = m<br>5000 kg = m :)",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "massa-sebuah-batu-dibumi-10-kg-jika-percepatan-gravitasi-bumi-9-535",
+            "question": "massa sebuah batu dibumi 10 kg. jika percepatan gravitasi bumi 9,8 N/kg dan percepatan gravitasi bulan seperenam percepatan gravi bumi. berapakah berat batu yang hilang ketika dibawa ke bulan? #dengan cara",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Berat benda di bulan adalah 49/3 kalau berat benda yg hilang kurangi aja 98-49/3",
+                    "attachments": []
+                },
+                {
+                    "answer": "berat di bumi = 9,8 x 10.\nberat di bln = 9,8 : 6 x 10\nhasilnya dikurangkan",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apa-arti-tachyon-jelaskan-please-need-259",
+            "question": "Apa arti tachyon\u00a0\r\njelaskan!!!!!\r\nplease need",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "objek atau materi yang dapat mencapai kecepatan cahaya<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebutkan-dan-jelaskan-dua-besaran-yang-sangat-memengaruhi-nilai-t-805",
+            "question": "sebutkan dan jelaskan dua besaran yang sangat memengaruhi nilai tekanan hidrostatis? tolong di jawab ya :)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "lihatt aja di rumusnya :<br>Ph:p x g x h<br>Ph;satuannya (Pa)<br>p satuannya (kg/m3)<br>h satuannya m<br>g satuannya m/s 2",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "roni-bermain-tarik-tambang-dengan-doni-apabila-gaya-roni-15n-dan-338",
+            "question": "Roni bermain tarik tambang dengan doni apabila gaya roni 15N dan doni 20N, resultan gayanya adalah?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "R1-R2<br>20-15N = 5N ke arah Doni",
+                    "attachments": []
+                },
+                {
+                    "answer": "resultan gaya = r1 - r2<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 = 20 - 15<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0  = 5 N<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-benda-berbentuk-kubus-diletakkan-pada-jarak-15-cm-di-depan-210",
+            "question": "Sebuah benda berbentuk kubus diletakkan pada jarak 15 cm di depan cermin cekung yang titik fokusnya 5 cm. jarak bayangan bendak kubus terbentuk pada jarak.....cm di depan cermin.    a. 7,5\r\nb. 6,0\r\nc. 5,0\r\nd. 4,5",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex] \\frac{1}{f} =  \\frac{1}{s1} +  \\frac{1}{s} [/tex]<br>[tex] \\frac{1}{5} =  \\frac{1}{s1} + \\frac{1}{15} [/tex]<br>[tex] \\frac{3}{15} -  \\frac{1}{15} =  \\frac{1}{s1} [/tex]<br>[tex] \\frac{1}{s1} = \\frac{2}{15} [/tex]<br>s\u2081 = 7,5<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "1/f = 1/s + 1/s&#039; jadi jawabannya a.7,5 cm",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-benda-yang-massanya-3kg-dijatuhkan-dari-ketinggian-10m-jika-g-712",
+            "question": "1. Benda yang massanya 3kg dijatuhkan dari ketinggian 10m. jika g=10m/s\u00b2 hitunglah    a. Energi potensia gravitasi maximal\r\nb.Energi potensial gravitasi pada ketinggian 3m dari tanah\r\nc. Energi kinetik pada ketinggian 3m dari tanah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Ep=m.g.h<br>\u00a0 \u00a0 \u00a0 3.10.10<br>\u00a0 \u00a0 \u00a0 300<br>Ep=m.g.h<br>\u00a0 \u00a0 \u00a0 3.3.10<br>\u00a0 \u00a0 \u00a0 90",
+                    "attachments": []
+                },
+                {
+                    "answer": "a. m.g.h = 3kg . 10m. 10m/s2 = 300 joule<br>b. m.g.h = 3kg . 3m . 10 m/s2 = 90 joule<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apakah-gerhana-bulan-itu-428",
+            "question": "Apakah gerhana bulan itu?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Gerhana bulan terjadi saat sebagian atau keseluruhan penampang bulan tertutup oleh bayangan bumi. Itu terjadi bila bumi berada di antara matahari dan bulan pada satu garis lurus yang sama, sehingga sinar Matahari tidak dapat mencapai bulan karena terhalangi oleh bumi.<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "gerhana bulan adalah fenomena alam yg umum terjadi. Gerhana bulan terjadi karena sebagian atau keseluruhan penampang bulan tertutup oleh bayangan bumi. itu terjadi bila bumi berada diantara matahari dan bulan pada satu garis yg sama, sehingga sinar matahari tdak dapat mencapai bulan karena terhalang oleh bumi<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "elemen-yang-dapat-diisi-ulang-setelah-masa-pakai-disebut-237",
+            "question": "Elemen yang dapat diisi ulang setelah masa pakai disebut?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "elemen basah (akumulator)",
+                    "attachments": []
+                },
+                {
+                    "answer": "elemen yang dapat diisi ulang adalah akumulator (aki)<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dalam-peristiwa-memalu-paku-yang-manakah-energi-potensialnya-ene-674",
+            "question": "dalam peristiwa memalu paku yang manakah energi potensialnya? energi kinetiknya? jelasan hukum kekekalan energi mekanik yang berlaku.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "kinetik : saat memukul paku menggunakan palu. karna mempunyai ayunan dan tenaga utk memukul paku. potensial : paku saat di pukul2 akan smakin kedalam dan menampakkan perubahan.<br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

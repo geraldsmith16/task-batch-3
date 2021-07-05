@@ -1,0 +1,142 @@
+{
+    "question": "Tentukan penyelesaian dari pertidaksamaan berikut:    a. 2x &gt; 12\r\nb. 20 - y \u2265 2y + 5\r\nc. 6x - 18 &gt; 18",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "[tex]a.2x&gt;12 \\\\ x&gt;12/2 \\\\ x&gt;6 \\\\  \\\\ b.20-y \\geq 2y+5 \\\\ -y-2y=5-20 \\\\ -3y=-15 \\\\ y=15/3 \\\\ y=5 \\\\  \\\\ c.6x-18&gt;18 \\\\6x&gt;18+18 \\\\ 6x&gt;36 \\\\ x&gt;6[/tex]",
+            "attachments": []
+        },
+        {
+            "answer": "a. x&gt;6<br>b.20 - 5\u00a0[tex] \\geq [/tex] 2y + y<br>\u00a0 \u00a015\u00a0[tex] \\geq [/tex] 3y<br>\u00a0 \u00a0 y\u00a0[tex] \\geq [/tex] 5<br>c. 6x &gt; 36<br>\u00a0 \u00a0 x &gt; 6",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "perbandingan-kelereng-maya-dan-aldo-47-jika-selihih-kelereng-mer-892",
+            "question": "perbandingan kelereng maya dan aldo 4:7 jika selihih kelereng mereka ber dua 21 , maka jumlah kerereng mereka adalah\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<u></u>7-4= 3<br>maya = 4/3 \u00d7 21= 4 \u00d7 7 = 28<br>aldo = 7/3 \u00d7 21= 7 \u00d7 7 = 49<br>jumlah semua klereng = 28 + 49 = 77<br><u></u>",
+                    "attachments": []
+                },
+                {
+                    "answer": "4:7\u00a0<br>selisih adalah 21, selisih perbandingan terkecil adalah 7-4 =3<br>lalu 21/3 = 7<br>umur maya\u00a07x 4= 28<br>umur aldo\u00a07x 7 = 49<br>jadi jumlahnya\u00a028 + 49= 77",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "seorang-ayah-berumur-28-tahunketika-anaknya-lahirberaakah-umur-773",
+            "question": "Seorang ayah berumur 28 tahun,ketika anaknya lahir.Beraakah umur anak itu ketika jumlah umur mereka 48 tahun?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "ketika ayahnya berumur 48 tahun,anaknya berumur 20 tahun<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "x=umur ayah<br>y= umur anak <br>x=48<br>x-y=28<br>(48)-y=28<br>y=48-28=20<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "himpunan-penyelesaian-dari-2-3-x-5-2-7-x-3-931",
+            "question": "Himpunan penyelesaian dari 2\u00a0(\u00a03\u00a0x\u00a0+\u00a05\u00a0) - 2 (\u00a07 x - 3 ) = x + 7",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "= 6x + 10 - 14x + 6 = x + 7<br>= -8x + 16 \u00a0= x + 7<br>= -8x - x \u00a0= 7 - 16<br>= -9x = -9<br>= x = 1",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-belah-ketupat-pqrs-dengan-besar-tps-30-dan-panjang-297",
+            "question": "Diketahui belah ketupat PQRS dengan besar TPS = 30\u00b0 dan panjang PT = 24cm    hitunglah :\r\na. keliling, dan\r\nb. luas belah ketupat\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "PQ=QR=RS=SP=<em></em>\u221a24\u00b2+24\u00b2 =\u00a0\u221a576+576 = 33,9<br>Keliling = 4\u00a0\u00d7 PQ = 4\u00a0\u00d7 33,9 = 135,6 cm<br>Luas = 1/2 d1\u00a0\u00d7 d2 = 1/2\u00a0\u00d7 48\u00d7 48 = 1152 cm\u00b2<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-dijawabnya-nyatakan-himpunan-berikut-sebagai-himpunan-kos-426",
+            "question": "tolong dijawabnya !nyatakan himpunan berikut sebagai himpunan kosong atau bukan himpunan kosong! petanyaan himpuan bilangan kuadrat antara 30 dan 50 !! dijawabnyaa",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]A=\\{36,49\\}[/tex]",
+                    "attachments": []
+                },
+                {
+                    "answer": "{36,49}<br>semoga jawabanku mmbantu<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "ikhsan-memiliki-3-orang-anak-pada-suatu-hari-ketiga-anaknya-terk-417",
+            "question": "ikhsan memiliki 3 orang anak. pada suatu hari ketiga anaknya terkena flu. sampai dirumah sakit diperoleh data bahwa suhu badan ketiga anak itu masing-masing, 40 drjat C,\u00a0 39,5 drrjt C, dan 40,6 drjt C. ubahlah ketiga suhu badan itu dalam derajat reamur dan Fahrenheit!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Reamur: <br>1. 40<span>\u2070C= </span>(4/5 x 40)<span>\u2070R= (4 x 8)</span><span>\u2070R= 32</span><span>\u2070R<br>2. 39,5</span><span>\u2070C= (4/5 x 39,5)</span><span>\u2070R= </span>( 4/5 x 395 . 10\u2227-1 )\u2070R = ( 4 x 79 . 10\u2227-1 )\u2070R = 316 . 10^-1 <span>\u2070R = 31,6</span><span>\u2070R<br>3. 40,6</span><span>\u2070C = ( 4/5 x 40,6 )</span>\u2070R =  ( 4/5 x 406 . 10^-1 )\u2070R= ( 4 x 8,12 x 10^-1 )<span>\u2070R = </span>( 4 x 812 x 10^-3 )\u2070R = 3248 x 10^-3 \u2070R = 3,248 \u2070R<br><br>Fahrenheit:<br>1. 40\u2070C= (9/5 x 40) +32 \u2070F= 72 + 32 \u2070F= 104<span>\u2070F<br>2. 39,5</span>\u2070C= (9/5 x 39,5) + 32 \u2070F = ( 9/5 x 395 . 10\u2227-1 ) + 32 \u2070F = ( 9 x 79 . 10\u2227-1 ) + 32 \u2070F = ( 711 . 10^-1) + 32 \u2070F = 71,1+ 32 <span>\u2070F = 103,1 </span>\u2070F<span><br>3. 40,6</span>\u2070C = ( 9/5 x 40,6 ) + 32 \u2070F =  ( 9/5 x 406 . 10^-1 )+ 32 \u2070F= ( 9 x 8,12 x 10^-1 )+ 32 \u2070F = ( 9 x 812 x 10^-3 )+ 32 \u2070F = (7308 x 10^-3) + 32 \u2070F = 7,308 + 32 \u2070F = 39,308 \u2070F <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1nilai-t-yang-memenuhi-persamaan-21-2t232t-adalah-2nilai-y-178",
+            "question": "1.Nilai t yang memenuhi persamaan 2(1-2t)=23+2t adalah    2.nilai y yang memenuhi persamaan 9-y=3y-7-2y-6 adalah\r\n3.solusi dari persamaan 5(2z-1)-3=4z-3 adalah z=\r\n4.akar persamaan 6t-7=5(t-2)+3 adalah\r\n5.akar dari persamaan 1-(5+9p)=6-(4p-1) adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1.) 2 ( 1 - 2t ) = 23 + 2t<br>\u00a0\u00a0 \u00a0 2 - 4t\u00a0 =\u00a0 23 + 2t<br>\u00a0\u00a0 \u00a0 2 - 23 = 4t + 2t<br>\u00a0\u00a0 \u00a0 - 21 = 6t<br>\u00a0\u00a0 \u00a0 - 3\u00a0<u> 1\u00a0 </u>= t<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 2<br><br>2.) 9 - y = 3y - 7 - 2y -6<br>\u00a0\u00a0 \u00a0 9 + 7 + 6 = 3y - 2y + y<br>\u00a0\u00a0 \u00a0 22 = 2y<br>\u00a0\u00a0 \u00a0 11 = y<br><br>3.) 5 ( 2z - 1 ) - 3 = 4z - 3<br>\u00a0\u00a0\u00a0 10z - 5 - 3 = 4z - 3<br>\u00a0\u00a0\u00a0 10z - 4z = -3 + 5 + 3<br>\u00a0\u00a0\u00a0 6z = 5<br>\u00a0\u00a0 \u00a0 z = <u>5</u><br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 6<br><br>4.) 6t - 7 = 5 ( t - 2 ) + 3<br>\u00a0\u00a0 \u00a0 6t - 7 = 5t - 10 + 3<br>\u00a0\u00a0 \u00a0 6t - 5t = - 10 + 7 + 3<br>\u00a0\u00a0 \u00a0 t = 0<br><br>4.) 1 - ( 5 + 9p ) = 6 - ( 4p - 1 )<br>\u00a0\u00a0 \u00a0 1 - 5 - 9p = 6 - 4p + 1<br>\u00a0\u00a0 \u00a0  1 - 5 - 6 - 1 = 9p - 4p<br>\u00a0\u00a0 \u00a0  - 11 = 5p<br>\u00a0\u00a0 \u00a0  - 2\u00a0<u> 1\u00a0</u> = p<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 5<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1dari-42-siswa-12-siswa-menyukai-atletik-20-menyukai-senam-da-331",
+            "question": "1.dari 42 siswa ,12 siswa menyukai atletik ,20 menyukai senam ,dan 8 menyukai keduanya . banyak siswa yang\u00a0tidak menyukai atletik dan senam adalah ........    2. terdapat 30 pengendara speda motor yang trkena tilang . pengendara yang yidak membawa sim ada 15 orang , 17 tidak membawa stnk dan 5 pengendara melakukan pelanggaran lain. banyaknya pengendara yang terkena tilang, tidak membawa sim , dan stnk adalah ......\r\n\r\ntolong bantu pakai caranya jga ea.......",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1.42-12-20-8= 2 orang<br><br>2. tdk jelas",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "keliling-segitiga-abc-sama-dengan-36-cm-dan-perbandingan-sisi-ab-243",
+            "question": "Keliling segitiga ABC sama dengan 36 cm dan perbandingan sisi AB:BC:AC = 4:3:2 . Tentukan panjang masing - masing sisi segitiga ABC!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "AB = <u>4</u> \u00a0x 36<u><br></u>\u00a0 \u00a0 \u00a0 \u00a0 \u00a09<br>\u00a0 \u00a0 \u00a0 = 16 cm<br>BC =<u> 3</u> \u00a0x 36<u><br></u> \u00a0 \u00a0 \u00a0 \u00a09<br><u></u> \u00a0 \u00a0 \u00a0= 12 cm<br>CD = <u>2</u> \u00a0x 36<u><br></u> \u00a0 \u00a0 \u00a0 \u00a0 9\u00a0<br>\u00a0 \u00a0 \u00a0 = 8 cm",
+                    "attachments": []
+                },
+                {
+                    "answer": "k = 36 cm<br>AB+BC+AC=36cm<br>4x+3x+2x=36<br>9x=36<br>x=4<br>jadi AB=16, BC=12, AC=8",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "648",
+            "question": "",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]3a^{4} + (6a^{2})^{2} - (3a^{4}) [/tex]maka<br>[tex] 3a^{4} [/tex][tex]+ 36a^{4} [/tex]-[tex] 3a^{4} [/tex]=<br><strong>[tex] 39a^{4} [/tex]<br></strong><br>:)",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

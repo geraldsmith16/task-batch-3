@@ -1,0 +1,138 @@
+{
+    "question": "1.suku ke-2 dan suku ke-5 dari barisan geometri adalah 12dan 4/9 tentukan rumus suku ke -n besarnya suku ke-4     2.tiga bilangan membentuk barisan geometri jumlah ketiga bilangan tersebut adalah 14 dan hasil kalinya 64 tentukan ketiga bilangan",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "U2=12 &lt;=&gt; ar = 12 \u00a0 \u00a0 ....1<br>U5 = 4/9&lt;=&gt; ar^4= 4/9....2<br>1 dan 2 didapat r\u00b3 = 4/(12x 9 \u00a0= 1/27 jadi r = 1/3 dan a = 36<br>Un = ar^(n-1) = \u00a036 (1/3)^(n-1)",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "hasil-dari-7log8-x-2log9-x-3log17-816",
+            "question": "Hasil dari \u2077log8 x\u00a0\u00b2log9 x\u00a0\u00b3log1/7",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "soal itu \u00a0bisa kamu sama dengankan 2.2log3 * -1.3log7 * 3.7log2. sehingga menjadi 2 * -1 * 3 = -6 :)\u00a0<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-siswa-direlasikan-dengan-tanggal-kelahirannya-apakah-relas-900",
+            "question": "jika siswa direlasikan dengan tanggal kelahirannya , apakah relasi itu merupakan fungsi ? berikan penjelasannya ??",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "tdak karena tdAK MENutup kemungkinan terdapat kesamaan tanggal lahir",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "hitung-jumlah-bilangan-yg-habis-dibagi-3-tapi-tidak-habis-dibagi-361",
+            "question": "Hitung jumlah bilangan yg habis dibagi 3 tapi tidak habis dibagi 5. Dari 1-75\r\ntolong bantuuu u.u",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "3,6,9,12,18,21,24,27,33,36,39,42,48,51,54,57,63,66,69,72<br>berarti jumlah ada 20 bilangan yang habis dibagi 3 dan tidak habis dibagi 5",
+                    "attachments": []
+                },
+                {
+                    "answer": "3, 6.9.12,18,21,24,27,33,36,39,42,48,51,54,57,63,66,69,72<br><br>jadi ada 20",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bagaimana-cara-menjelaskan-bahwa-5-kuadrat-sama-dengan-25-490",
+            "question": "Bagaimana cara menjelaskan bahwa 5 kuadrat sama dengan 25.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "5\u00b2 artinya 5 \u00d7 5 .<br>5\u00d75 =25<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "5x5=25<br>25 : 5 = 5<br>akar kuadrat dari bilangan x sama dengan bilangan r sedemikian sehingga r2 = x, atau, di dalam perkataan lain, bilangan r yang bila di\u00a0  kuadratkan sama dengan x.<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-fungsi-kuadrat-mempunyai-nilai-maksimum-3-pada-saat-x-2-852",
+            "question": "sebuah fungsi kuadrat mempunyai nilai maksimum -3 pada saat x = 2, sedangkan untuk x = -2 fungsi bernilai -11. Tentukan fungsi kuadrat tersebut.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "f(x) = 2xkuadrat + 2x - 15",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-13-11-9-un-1800-tentukan-banyak-suku-dere-197",
+            "question": "Jika : 13 + 11 + 9 +...... + Un = -1800\r\ntentukan banyak suku deret tersebut ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "cari dlu rumus suku ke-n atau Un<br>Un = (a +(n-1)b) = 13 +(n-1)-2 = 15 - 2n<br>kemudian masukkan rumus jumlah sukuk ke- n atau Sn<br>Sn= n/2(a + Un)<br>-1800=n/2(13 + 15 - 2n)<br>-1800=(28n - 2n^2)/2<br>-3600 = 28n - 2n^2 \u00a0 \u00a0 \u00a0 (pindahkan semua yang di ruas kanan ke ruas kiri)<br>2n^2 - 28n -3600 = 0 \u00a0 \u00a0 (bagi 2 kedua ruas)<br>n^2 - 14n -1800 = 0 \u00a0 \u00a0 \u00a0 \u00a0 (faktorkan)<br>(n-50)(n+36) = 0<br>n = 50 atau -36<br><br>jawabannya n adalah 50, karena harus bernilai positif, atau syarat di atas adalah n= bil . asli<br>(coba saja bayangkan apakah ada suku ke -36??) yang ada adalah suku ke 50,\u00a0<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "3-bilangan-membentuk-barisan-geometri-jumlah-ke-3-bilangan-tsb-ad-686",
+            "question": "3 bilangan membentuk barisan geometri jumlah ke-3 bilangan tsb adalah 14, dan hasil kalinya adalah 64.tentukan 3 bilangan tsb?    dengan cara barisan geometri!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "U\u2081 x U\u2082 x U\u2083 = 64 <br>sifat barisan geometri : U\u2081 x U\u2083 = U\u2082\u00b2 <br>maka didapat : U\u2082\u00b3 = 64 ----&gt; U\u2082 = 4 dan U\u2081 x U\u2083 = 16 ..... pers (1)<br>U\u2081 + U\u2082 + U\u2083 = 14<br>U\u2081 + 4 + U\u2083 = 14 ----&gt; U\u2081 + U\u2083 = 10 ......pers (2) <br>dari pers 1 dan pers 2 didapat bilangan yang hasil kalinya 16 dan hasil jumlahnya 10 adalah 2 dan 8 <br>jadi bilangan yang dimaksud adalah 2 , 4 dan 8 <br><br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "ketiga bilangan tersebut adalah 2,4,8<br>\u00a0dengan rasio = 2",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-luas-belah-ketupat-abcd-480-cm2-jika-panjang-diagona-923",
+            "question": "Diketahui luas belah ketupat ABCD = 480 cm\u00b2 jika panjang diagonal AC = 20 cm, keliling belah ketupat ABCD adalah....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "d1 . d2 / 2 = 480<br>20 . d2 / 2 = 480<br>d2 = 48 cm<br><br>nanti cari sisi miring dengan phytagoras 10\u00b2 + 24\u00b2 = s\u00b2<br>baru keliling = 4 x sisi miring",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "barisan-dan-deret-sebuah-bola-jatuh-dari-ketinggian-8m-dan-meman-782",
+            "question": "Barisan dan deret!    sebuah bola jatuh dari ketinggian 8m dan memantul kembali dengan ketinggian 3/5 kali tinggi sebelumnya. pemantulan ini berlangsung terus menerus hingga bola berhenti. berapakah jarak lintasan seluruhnya? HELP DONK!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Maaf kak aku gak pakek cara resminya\u00a0<br><br>ketinggian bola awal\u00a0a = 8 m\u00a0<br><br>r =\u00a0[tex] \\frac{x}{y} =  \\frac{3}{5} [/tex] jadi nilai y = 3 dan x = 5<br><br>jadi S~ = a [tex] \\frac{x + y}{x - y} [/tex]<br><br>\u00a0 \u00a0 \u00a0 S~ = 8 [tex] \\frac{5 + 3}{5 - 3} [/tex]<br><br>\u00a0 \u00a0 \u00a0 S~ = 8 . 4<br><br>\u00a0 \u00a0 \u00a0 S~ = 32 m<br><br>jadi panjang lintasan yang di tempuh 32 m<br><br>Semoga membantu :) D",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span>\u21d4ketinggian bola awal = 8 m\u00a0<br><br>R\u00a0 = 3/5 <br>Lintasan = tinggi bola x (5+3)/(5-3)<br><br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 \u00a0  = 8 x 8/2<br>\u00a0\u00a0\u00a0\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 = 8 x 4<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 =32<br>jadi, lintasan yang di tempuh 32 m</span><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-a2-a-3-0-maka-nilai-terbesar-yang-mungkin-dari-a3-444",
+            "question": "Jika \u00a0a\u00b2 + a - 3 = 0, maka nilai terbesar yang mungkin dari a\u00b3 + 4a\u00b2 + 9988 adalah ..    dibantu yaahh .. :(",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a\u00b2+a-3 = 0<br>persamaan a\u00b2=3-a<br>persamaan a\u00b3=3a-a\u00b2<br><br>=a\u00b3+4a\u00b2+9988<br>=3a-a\u00b2+4(3-a)+9988<br>=3a-a\u00b2+12-4a+9988<br>=-a-a\u00b2+10000<br>=-a-(3-a)+10000<br>=-a-3+a+10000<br>=-3+10000<br>=9997 <br><br><br>voila dapat hasilnya :D<br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

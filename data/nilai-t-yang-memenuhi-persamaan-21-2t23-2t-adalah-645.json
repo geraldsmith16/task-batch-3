@@ -1,0 +1,146 @@
+{
+    "question": "Nilai t yang memenuhi persamaan 2(1-2t)=23-2t adalah",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "2 (1-2t) =23-2t<br>2-4t=23-2t<br>-4t+2t=23-2<br>-2t=21<br>t=-10,5<br>",
+            "attachments": []
+        },
+        {
+            "answer": "2 (1-t)=23-2t\n2-4t=23-2t\n-4t+2t=23 -2\n-2t=21\n t= -21/2",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "bagaimana-mencari-segi-empat-tali-busur-102",
+            "question": "Bagaimana mencari segi empat tali busur?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Mencari Luas Segiempat Talibusur menggunakan Rumus\u00a0Brahmagupta\n\t\n\t\t<span>Sekitar abad ke tujuh Masehi, dalam Geometri Euclidean,\u00a0 Brahmagupta,\n seorang matematikawan asal India menemukan Rumus untuk mencari luas \nsegiempat talibusur yang telah diketahui panjang sisi-sisinya dan \nbeberapa sudutnya.</span>\n\n\nRumus Umum:\n<span>Jika diketahui segiempat talibusur memiliki sisi-sisi , , , dan  serta setengah keliling , maka luas segiempat tali busur  dapat dinyatakan dengan</span>\n\n<span>.</span>\nBukti:\n<span>Salah satu metode sederhana untuk membuktikannya adalah dengan memanfaatkan trigonometri. Misalkan dalam segiempat talibusur  (Lihat ilustrasi berikut)<span>, </span>merupakan titik sudut antara  dan , , merupakan titik sudut antara  dengan , dan  merupakan diagonal yang menghubungkan kedua sudut yang lain.</span>\n\n<span>Karena , diperoleh:</span>\n<span> dan </span>\n<span>Dengan menggunakan Aturan Cosinus,</span>\n\n\u00a0 yang mana dapat diperoleh:\n\nPerhatikan pula bahwa Luas segiempat talibusur:\n<span>,</span>\ndari sini kita juga memperoleh:\n<span>Dengan mengkuadratkan  dan  kemudian dijumlahkan, akan diperoleh</span>\n\nyang dapat disederhanakan menjadi\n<span>Tentunya kita sudah tahu bahwa . dengan mengaplikasikan identitas ini berkali-kali akan diperoleh:</span>\n<span>Dimana </span>\nBagi dengan 16, kemudian ambil akar kuadrat dari masing-masing ruas diperoleh :\n<span>Bentuk spesial rumus ini adalah saat  yang mengakibatkan segiempat talibusur ini merupakan suatu segitiga yang memiliki sisi-sisi , , , dan setengah keliling , dengan luas:</span>\n<span>yang terkenal dengan nama Rumus Heron.</span>\nRumus Brahmagupta sendiri dapat diperluas untuk segiempat yang bukan merupakan segiempat talibusur\n<span>di mana  merupakan jumlah dua buah sudut yang berlawanan. Pada segiempat talibusur, karena jumlah kedua sudut yang berlawanan , maka .</span><br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-1-3-2-pke-cara-5-6-609",
+            "question": "1 1 + 3 2 = ??? pke cara\r\n\u00a0 \u00a05 \u00a0 \u00a0\u00a0\u00a0 6\r\n\u00a0\u00a0\u00a0\r\n \u00a0\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1 1/5 + 3 2/6 = 6/5 + 20/6 = 36/30 + 100/30 = 136/30 = 4,53<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "pakai cara hitung campuran<br><br>[tex] 1\\frac{1}{5} + 3\\frac{2}{6}  \\\\  \\\\ =  \\frac{6}{5} + \\frac{20}{6}  \\\\   \\\\ = \\frac{36+100}{30} =  \\frac{136}{30} = 4 \\frac{16}{30} = 4 \\frac{8}{15} [/tex]<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "ltglh-60-ltklj-70-a-jika-luas-juring-klj-420-cm-552",
+            "question": "&lt;GLH = 60\u00b0 ; &lt;KLJ = 70\u00b0    a. Jika luas juring KLJ = 420 cm\u00b2 , hitung luas juring GHL\r\nb. Jika panjang busu HG = 420 cm , hitung panjang busur KJ",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<u></u>a. luas juring KLJ/ sudut KLJ = Luas juring GHL/ sudut GHL<br>420/ 70 = LJ KLJ/60<br>420 x 60 = 70 x LJ KLJ<br>360\u00a0 \u00a0 =\u00a0  Luas Juring KLJ<br>\u00a0<br>b. PBusur HG/ sudut GHL = PBusur KJ/ sudur KLJ<br>420 / 60 = PB KJ / 70<br>60 x PB KJ = 420 x 70<br>PBusur KJ = 490 cm<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-penyelesaian-dari-pertidaksamaan-berikut-a-2x-gt-12-434",
+            "question": "Tentukan penyelesaian dari pertidaksamaan berikut:    a. 2x &gt; 12\r\nb. 20 - y \u2265 2y + 5\r\nc. 6x - 18 &gt; 18",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]a.2x&gt;12 \\\\ x&gt;12/2 \\\\ x&gt;6 \\\\  \\\\ b.20-y \\geq 2y+5 \\\\ -y-2y=5-20 \\\\ -3y=-15 \\\\ y=15/3 \\\\ y=5 \\\\  \\\\ c.6x-18&gt;18 \\\\6x&gt;18+18 \\\\ 6x&gt;36 \\\\ x&gt;6[/tex]",
+                    "attachments": []
+                },
+                {
+                    "answer": "a. x&gt;6<br>b.20 - 5\u00a0[tex] \\geq [/tex] 2y + y<br>\u00a0 \u00a015\u00a0[tex] \\geq [/tex] 3y<br>\u00a0 \u00a0 y\u00a0[tex] \\geq [/tex] 5<br>c. 6x &gt; 36<br>\u00a0 \u00a0 x &gt; 6",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "keliling-1-kuadran-dengan-jari-jari-lingkarang-14-cm-itu-berapa-y-350",
+            "question": "Keliling 1 kuadran dengan jari jari lingkarang 14 cm itu berapa ya?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "22/7x14x14=22x2x14=44x14=616",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "4x-151-8x-tlong-dijwb-secepat-nya-yah-546",
+            "question": "-4x-15=1-8x tlong dijwb secepat nya yah!!!!!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "-4x-15=1-8x<br>-4x+8x=1+15<br>4x+16<br>x = 16 : 4<br>x = 4",
+                    "attachments": []
+                },
+                {
+                    "answer": "jawabannya :<br>x = 4<br><br>menggunakan cara persamaan<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-jawab-dan-berikan-caranya-suatu-pekerjaan-di-selesaikan-193",
+            "question": "Tolong jawab dan berikan caranya !!    Suatu pekerjaan di selesaikan oleh 24 pekerja, akan selesai dalam 60 hari setelah di kerjakan 25 hari , Pekerjaan berhenti selama 5 hari karena hujan, berapa pekarja tambahan yang di perlukan agar pekerjaan itu cepat selesai tepat waktu sesuai rencana?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]pekerja tambahan= \\frac{byk pekerja awal x libur}{sisa hari}=\\frac{24.5}{30}  \\\\=120/30=4[/tex]<br><br><strong><em><u>Jadi pekerja tambahan=4 orang</u></em></strong>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "gradien-garis-3y-5x120-adalah-426",
+            "question": "Gradien garis 3y-5x+12=0 adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]Gradien \\\\  \\\\  \\frac{-a}{ b}= \\frac{-(-5)}{3}= \\frac{5}{3}   \\\\  \\\\ gradien=5/3[/tex]",
+                    "attachments": []
+                },
+                {
+                    "answer": "3y= 5x-12<br>y = 5/3x - 12/3<br>y\u00a0 = 5/3x - 4<br>m= 5/3<br>lupa gradien garis yang \"y\" atau yang \"m\" <br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-ya-ni-tugas-numpuk-tolong-a-12x-583",
+            "question": "Tolong ya..... ni tugas numpuk tolong    \u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 a. 1/2x + 5 &gt; 15\r\n\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 b. 2 - (4+x) \u2265 - 22\r\n\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 c. 2/3p + 4 \u2264 8\r\n\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 d. 2x _4 &gt;3X + 9\r\n\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 e. 2y - 7/2\u2264 3\r\nnote. / adalah PER\r\n\u00a0\u00a0 makasih bantu ya...:)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a. <u>1 </u>x\u00a0 +\u00a0 5 &gt; 15<br>\u00a0\u00a0\u00a0 2<br><u>x\u00a0</u> &gt;\u00a0 15 - 5<br>2<br><u>x </u>&gt; 10<br>2<br>x &gt; 20<br><br>b. 2 - ( 4 + x ) \u2265 - 22<br>\u00a0\u00a0 2 - 4 - x \u2265 - 22<br>\u00a0- 2 - x \u2265 - 22<br>\u00a0- x \u2265 - 20<br>\u00a0x \u2264 20<br><br>c.<u> 2\u00a0</u> p\u00a0 + 4 \u2264 8<br>\u00a0\u00a0 3<br>\u00a0<u>2p</u>\u00a0 \u2264 8 - 4<br>\u00a03<br><u>2p</u> \u2264 4<br>3<br>2p \u2264 12<br>p \u2264 6<br><br>d. 2x - 4 &gt; 3x + 9<br>\u00a0 -3x + 2x &gt; 9 + 4<br>\u00a0 -x &gt; 13<br>\u00a0 x &lt; - 13 <br><br>e. 2y - <u>7</u> \u2264 3\u00a0 \u00a0 \u00a0 (kedua ruas dikalikan 2)<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0\u00a0 2<br>\u00a0\u00a0 4y - 7 \u2264 6<br>\u00a0\u00a0 4y \u2264 13<br>\u00a0\u00a0 y\u00a0  \u2264 <u>13</u><br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 4<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pada-peta-yang-berskala-1-1500000-terdapat-gambar-hutan-yang-212",
+            "question": "pada peta yang berskala 1 : 1.500.000 terdapat gambar hutan yang berbentuk persegi panjang 12 cm dan lebar 8 cm . luas hutan sebenarnya",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1440 KM<br>Sorry kalo salah ya",
+                    "attachments": []
+                },
+                {
+                    "answer": "1.500.000:96=15625 cm<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0=0,15625",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

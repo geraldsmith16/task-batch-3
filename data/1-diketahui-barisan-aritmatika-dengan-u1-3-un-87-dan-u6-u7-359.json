@@ -1,0 +1,142 @@
+{
+    "question": "1. Diketahui barisan aritmatika dengan U1= 3, Un= 87, dan U6 + U7 = 9. Tentukan : a) b=...? b) n=...? c) U50=....?    Pake caraa .. please jawab yaaa:)",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "U1 = a = 3<br><br><span>U6 + U7 = 9<br>[a + (6-1)b] + [a + (7-1)b] = 9<br>[3 + 5b] + [3 + 6b] = 9<br>6 + 11b = 9<br>11 b = 9 - 6<br>11b = 3<br>b = [tex] \\frac{11}{3} [/tex] <br><br><br><br><br></span><span>Un= 87<br>a + (n-1)b = 87<br>3 + (n-1) </span>[tex] \\frac{11}{3} [/tex] = 87<br>3 + [tex] \\frac{3}{11} n[/tex] - [tex] \\frac{3}{11} [/tex] = 87<br>[tex] \\frac{36}{11} [/tex] + [tex] \\frac{3}{11} n[/tex] = 87<br>[tex] \\frac{3}{11} n[/tex] = 87 - [tex] \\frac{36}{11} [/tex]<br>[tex] \\frac{3}{11} n[/tex] = [tex] \\frac{957}{11} [/tex]<br>3n = 957<br>n = 319<br><br><br><span>U50 = 3 + 49b<br>\u00a0\u00a0 \u00a0\u00a0\u00a0 = 3 + 49 [tex] \\frac{3}{11} [/tex]<br>\u00a0\u00a0 \u00a0 \u00a0 = 3 + 13,3<br>\u00a0\u00a0 \u00a0 \u00a0 = 16,3<br><br><br><br>semoga membantu :)<br></span><br><br><br><br><br><br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "jika-titik-o-merupakan-pusat-lingkaran-luas-juring-aob-314-cm-522",
+            "question": "jika titik O merupakan pusat lingkaran, luas juring AOB =3,14 cm persegi dan besar sudut AOB = 100 derajat, diameter lingkaran adalah = .... cm",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "L juring=(sudut/360) . L lingkaran<br>3,14=(100/360) . (1/4) . [tex] \\pi d ^{2} [/tex]<br>3,14=10/36 .1/4 . 3,14 . [tex] d^{2} [/tex]<br>[tex] \\frac{36 . 4}{10 . 1} [/tex]=[tex] d^{2} [/tex]<br>d=[tex] \\sqrt{14,4} [/tex]<br>d=3,79<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "keliling-belah-ketupat-68cm-dan-panjang-salah-satu-diagonal-nya-3-903",
+            "question": "Keliling belah ketupat 68cm dan panjang salah satu diagonal nya 30 cm .luas belah ketupat adalah    plise bantu ya..\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "mungkin 17 x 30 : 2 =255<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-2y2-723-2-7gt3x-3-2x-4gt3x9-630",
+            "question": "1. 2y/2-7/2\u22643=\r\n2. 7&gt;3x =\r\n3. 2x-4&gt;3x+9=",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]\\frac{2y}{2}-\\frac{7}{2} \\leq 3\\\\\n\\frac{2y-7}{2} \\leq 3\\\\\n2y-7 \\leq 6\\\\\n2y \\leq 13\\\\\ny \\leq \\frac{13}{2}\\\\\\\\\n7&gt;3x\\\\\n\\frac{7}{3}&gt;x\\\\\nx&lt;\\frac{7}{3}\\\\\\\\\n2x-4&gt;3x+9\\\\\n-x&gt;13\\\\\nx&lt;-13[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "luas-lingkaran-dengan-diameter-175-adalah-493",
+            "question": "Luas lingkaran dengan diameter 17,5 adalah....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "L = (22/7 atau 3,14) . Jari2<br>\u00a0\u00a0 = 22/7.17.5.17,5<br>\u00a0\u00a0  = 22.0,4.17,5<br>\u00a0\u00a0 = 8,8.17,5<br>\u00a0\u00a0 = 154 cm2<br><br>L = 3,14.17,5.17,5<br>\u00a0\u00a0 = 54,95.17,5<br>\u00a0\u00a0 = 961,625<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "rumus : 1/4 x phi x d pangkat dua<br>1/4 x 3,14x17,5x17,5 = 240,406<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1dari-sekelompok-siswa-yang-terdiri-dari-35-orang-ternyata-18-o-400",
+            "question": "1.)Dari Sekelompok Siswa Yang Terdiri Dari 35 Orang Ternyata 18 Orang Gemar Matematika 22 Orang Gemar B Inggris, Dan 7 Orang Tidak Gemar Matematika Maupun B Inggris.    a) Buatlah Diagram Venn Berdasarkan Keterangan Diatas!\r\nB) Berapa Orang Yang Gemar Matematika Maupun B.Inggris\u00a0\r\n\r\n2.)Tuliskan semua himpunan bagian dari {xl-10&lt;x&lt;10,x\u2208\u00a0bilangan bulat yg habis dibagi 3} yg mempunyai 3 anggota\r\n\r\n3.) Diketahui n(A) =35,n(B)=29,dan n(AUB)=50\r\n\u00a0\u00a0 \u00a0Dketahuin(p)=28,n(Q)=27,dan (PNQ)={}\r\n\u00a0\u00a0 \u00a0Diketahuin(k)=59,n(LNK)=13,DAN n(kUl=110\r\n\u00a0\u00a0 \u00a0Tentukan n(L)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "kalo buat diagram venn disini caranya gimana?<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-3z-11-28-itu-nilai-z-nya-brp-gan-314",
+            "question": "Jika 3z + 11 =-28 itu nilai z nya brp gan?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "3z + 11 = -28<br>3z = -28 - 11<br>3z = - 39<br>z = -39/3<br>z = -13",
+                    "attachments": []
+                },
+                {
+                    "answer": "3z+11\u00a0 \u00a0 =-28<br>3z+11-11=-28-11<br>3z\u00a0 \u00a0 \u00a0 \u00a0\u00a0 =-39<br>1/3(3z)\u00a0\u00a0 =1/3(-39)<br>\u00a0 \u00a0 z\u00a0 \u00a0 \u00a0\u00a0 =-13<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-hitunglah-panjang-tali-yg-diperlukan-untuk-melilitkan-sebuah-999",
+            "question": "1 . Hitunglah Panjang Tali yg diperlukan untuk melilitkan sebuah drum berjari jari 3 cm sebanyak lima putaran",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "cari dulu keliling lingkaranya<br>k=6x3,14=18,84<br>panjang tali seluruhnya=kelilingx5=18,84x5=94,2",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span>cari dulu keliling lingkaranya<br>k=6x3,14=18,84<br>panjang tali seluruhnya=kelilingx5=18,84x5=94,2</span><span></span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "2q3-3q-4-9-q-pake-cara-474",
+            "question": "2(q+3) + (3q-4) = 9\r\nq=\r\npake cara",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "2(q\u00a0+\u00a03) + (3q - 4) = 9<br>2q + 6 + 3q - 4 = 9<br>5q +\u00a02 = 9<br>5q = 7<br>q = 7/5",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span>2(q+3) + (3q-4) \u00a0 \u00a0 = 9<br>2q + (2)(3) + 3q-4 = 9<br>\u00a02q + 6 + 3q - 4 \u00a0\u00a0= 9<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a05q + 2 \u00a0 \u00a0 \u00a0 = 9<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a05q \u00a0 \u00a0 \u00a0 \u00a0\u00a0 = 9 -2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a05q \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 7<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0q \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 7/5 = 1 2/5</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "harga-1-kg-alpukat-satu-bulan-yang-lalu-rp600000-karena-sekara-935",
+            "question": "Harga 1 kg alpukat satu bulan yang lalu Rp6.000,00. Karena sekarang sedang musim alpukat, harganya di pasaran Rp2.000,00 per kg. Coba tentukan harga penurunan alpukat dengan penjumlahan bilangan bulat !",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "maksud dengan penjumlahan bilangan bulat?<br><br>setahu saya dengan persen = 2000/6000 x 100 = 33 1/3 %",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "untuk-membangun-ruang-kelas-baru-sebanyak-2-kelas-akan-selesai-da-253",
+            "question": "untuk membangun ruang kelas baru sebanyak 2 kelas akan selesai dalam waktu 50 hari jika dikerjakan oleh 15 orang tukang. setelah 20 hari bekerja bahan habis, pekerjaan terhenti 5 hari. berapa orang tukang ditambah agar ruang kelas itu tetap selesai tepat waktu?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<strong><em>Target selesai</em></strong>=50 hari<br><strong><em>Byk pekerja awal</em></strong>=15 org<br><strong><em>Libur</em></strong>=5 hr<br><strong><em>Sisa hari</em></strong>=50-(20+5)=25 hari<br><br><strong><em>Pekerja tambahan=byk pekerja awalxlibur/sisa hari</em></strong><br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0=[tex] \\frac{15.5}{25} \\\\  \\\\ 3 org [/tex]<br><br>Jadi <strong><em>tambaan pkerja 3 orang</em></strong> dan jumlah pekerja mnjadi 18 orang",
+                    "attachments": []
+                },
+                {
+                    "answer": "akan bertambah 17 tukang<br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

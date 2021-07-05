@@ -1,0 +1,138 @@
+{
+    "question": "1. Batu bata dengan massa 3 kg jatuh dari ketinggian 20 meter, maka kecepatan batu bata sesaat sebelum menyentuh tanah ?    2. Pegas panjang 20 cm digantungkan beban 200 gram sehingga panjang pegas menjadi 25 cm. untuk menarik pegas 2 cm dari titik seimbang hingga 8 cm dari titik seimbang diperlukan usaha sebesar ?",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "1. Kecepatan sebuah benda jatuh bebas dapat dicari menggunakan\u00a0\u221a2gh sehingga V=\u00a0\u221a2.10.20=\u221a400\u2261\u00a020 m/s<br>2. Sebelum mencari besar usaha kita harus mencari koefisien elastisitas pegas terlebih\u00a0dahulu dari F = k.\u0394x sehingga k = F/\u0394x = 0,2.10/0,05 = 40 N/m<br>Kemudian Usaha untuk menarik pegas W = 1/2kx\u00b2\u00a0",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "1-mobil-a-bergerak-dengan-kelajuan-40-kmjam-5-menit-kemudian-m-571",
+            "question": "1. mobil A bergerak    dengan kelajuan 40 km/jam, 5 menit kemudian mobil B bergerak dengan 90 km/jam. Kapan\r\n dan dimana mobil B bisa menyusul A?\r\n\r\n\r\n\r\n2. mobil A dengan\r\n kecepatan 70 km/jam ke barat, mobil B dengan kecepatan 50 km/jam ke timur,\r\n jarak mula mula 10 km. kapan dan dimana mobil A dan B bisa bertemu?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "kita konversi dulu kecepatannya<br>mobil A = 11,1 m/s<br>mobil B = 25 m/s<br>jaraknya 300 s<br>jarak tempuh 1 = jarak tempuh 2<br>11,1 x\u00a0(t+300) = 25 x t<br>11,1t + 3330 = 25t<br>13,9t = 3330<br>t = 239,56835 s<br><br>tempat ketemu\u00a0<br>=25 x 239,56835<br>=5989,2088 meter dari kedudukan awal",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "rumus-berat-dalam-fisika-386",
+            "question": "Rumus berat dalam fisika?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "W = m . g<br><br>m = massa \u00a0(kg)<br>g \u00a0= gravitasi \u00a0(m/s\u00b2 )<br>W = berat (N)",
+                    "attachments": []
+                },
+                {
+                    "answer": "yang dimaksud berat kan? w = m x g, massa x gravitasi",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "silinder-tipis-berongga-silinder-pejal-bola-tipis-berongga-dan-889",
+            "question": "silinder tipis berongga, silinder pejal, bola tipis berongga, dan bola pejal diletakkan diam dipuncak suatu bidang miring. semua benda tersebut memiliki masa dan jari jari sama. benda benda itu kemudian di bebaskan pada saat yang bersamaan. bagaimanakah urutan benda benda itu ketika mencapai dasar bidang?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "BOLA PEJAL, SILINDER TIPIS BERONGGA, BOLA TIPIS BERONNGA LALU SILINDER PEJAL",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-balok-dengan-massa-15-kg-berada-pada-bidang-datarkemudian-973",
+            "question": "sebuah balok dengan massa 15 kg berada pada bidang datar,kemudian didorongoleh dua gaya 20 N dan 10N dalam arah yg sama .jika kondisi bidang datar dalam keadaan licin,tentukan percepatan yg dialamo balok tersebut ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "m=15kg<br>F= 20N + 10N = 30N<br>a?<br>F=m a<br>30=15a<br>a=2",
+                    "attachments": []
+                },
+                {
+                    "answer": "m = 15 kg<br>F = 20 N + 10 N = 30 N<br>gaya gesek tidak ada karna lantai licin<br><br>maka a..?<br>ingat F = m.a<br>30 N = 15 kg .a<br>30 N/15 kg =a<br>2 m/s^2 = a :)",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "ada-yg-tau-ngga-website-buat-download-ppt-fisika-tentang-pemanfaa-839",
+            "question": "ada yg tau ngga website buat download ppt fisika tentang pemanfaatan energi nuklr dan radioisotop? (ini materi kelas xii semester 2) sy sdhputus asa krn sejak 2 hari yg lalu smpe skrg ngga dapat-dapat",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Bisa cari di slideshare.com disitu banyak materi-materi yang dibutuhin",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apa-yang-anda-ketahui-tentang-gaya-satu-newton-467",
+            "question": "Apa yang anda ketahui tentang gaya satu newton?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "disebut juga hukum kelembaman. suatu benda akan tetap diam jika tidak ada resultan gaya yang mengenainya",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span>Gaya Satu newton adalah besarnya gaya yang diperlukan untuk membuat benda\nbermassa\nsatu kilogram\nmengalami percepatan\nsebesar satu meter\nper detik</span>\n\n<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dari-beberapa-drum-yang-berisi-udara-yang-memiliki-massa-keseluru-729",
+            "question": "dari beberapa drum yang berisi udara yang memiliki massa keseluruhan 30 kg dan volum rata-rata 2,5 m\u00b3, digunakan untuk membuat jembatan ponton yang terapung di atas permukaan air. Berapa berat beban maksimum yang dapat ditahan oleh drum tersebut?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "kalau berat maksimum berarti w=F(archimedes) <br>w=Fa\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 w= \u03c1(rho air) . V(benda dalam fluida) . g <br>w=1000 . 2.5 .10 = 25000N <br>semoga membantu , kalau ada yg tidak paham tanya aja<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1apa-pengaruh-gaya-pada-pegas-2apa-yang-mempengaruhi-elastisi-991",
+            "question": "1.Apa pengaruh gaya pada pegas??    2.apa yang mempengaruhi elastisitas sebuah bahan??\r\n 3.apakah semua jenis menyebabkan pertambahan panjang pegas??\r\n 4.apakah yang dimaksud energi potensial??dan apakah energi potensial pada pegas yang disusun seri sama dengan yang disusun paralel??",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1. jika gaya yang diberikan pada pegas lebih besar maka pegas akan mengalami putus atau tidak dapat memendek seperti semula.<br>2. tegangan dan regangan, gaya , jenis bahan<br>3. ya<br>4. energi potensial adalah hasilkali antara massa . grafitasi dan perubahan panjang pegas<br>susunan seria. gaya pengganti F yang menarik seluruh pegas \u00a0adalah sama dengan gaya yang bekerja pada masing masing pegas.Fp=F1=F2=F3b. bertambahnya panjang x pegas pengganti sama dengan jumlah pertambahan pangjang pada masing masing pegas.Xs=x1+x2+x3 . . . .\u00a0<br>susunan pararela. gaya pengganti F yang menarik seluruh pegas adalah sama dengan jumlah gaya yang bekerja pada masing masing pegas. Fp=F1+F1+ . . . +F5b. pertambahan pada pegas pengganti X \u00a0sama besar dengan partambahan panjang pada masing masing pegas.Xp=x1=x2=x3<br>modulus elastisitas atau modulus young adalah angka yang menggambarkan tingkat elastisitas bahan. semakin tinggi elastisitasnya, berarti bahan semakin kaku.<span>rumus \u2208=tegangan/regangan</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "gelombang-elektromagnetik-yang-memiliki-energi-foton-paling-besa-917",
+            "question": "Gelombang elektromagnetik\u00a0yang memiliki energi foton paling besar adalah....    A. Sinar - X\r\nB. Cahaya Merah\r\nC. Cahaya Ungu\r\nD. Gelombang Radio\r\nE. Sinar Gamma",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "c sinar ungu<br>karena memiliki f terbesar dan panjang gelombang terpendek",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jarak-kota-surabaya-dan-jakarta-936-km-andi-berangkat-pukul-17-841",
+            "question": "jarak kota surabaya dan jakarta 936 km . andi berangkat pukul 17.00 hari sabtu dengan mengendarai mobilnya dan sampai di jakarta pukul 05.00 .hari minggu . kelajuan rata\" mobil andi adalah ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "936 dibagi 12 aja<br>kan perjalanannya 12 jam tuh. berarti kecepatannya 78km per jam<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<u>936 km</u>\u00a0<u></u><strong></strong><u></u>=12 km/jam<u><br></u>12 jam<u><br></u>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,138 @@
+{
+    "question": "lanjutkan 3 bilangan berikutnya,,, a.5,11,17,23,29,.... b.3,6,11,18,.... c.81,27,9,3,... d.1,1,2,3,5,8,13,....",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "a. tiga puluh enam<br>b.\u00a0",
+            "attachments": []
+        },
+        {
+            "answer": "yang a. itu berkelipatan 6 yaitu ...29, 35, 41, 47...<br>b. itu ganjil.. yaitu ..18, 27, 38, 51...<br>c. dibagi 3 ...3, 1, 3/10, 1/10 ..<br>d. yaitu 2 angka dibelakangnya ditambahkan sehingga menjadi hasil depannya<br>\u00a0...13, 21, 34, 55,....<br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "1dari-42-siswa-12-siswa-menyukai-atletik-20-menyukai-senam-da-331",
+            "question": "1.dari 42 siswa ,12 siswa menyukai atletik ,20 menyukai senam ,dan 8 menyukai keduanya . banyak siswa yang\u00a0tidak menyukai atletik dan senam adalah ........    2. terdapat 30 pengendara speda motor yang trkena tilang . pengendara yang yidak membawa sim ada 15 orang , 17 tidak membawa stnk dan 5 pengendara melakukan pelanggaran lain. banyaknya pengendara yang terkena tilang, tidak membawa sim , dan stnk adalah ......\r\n\r\ntolong bantu pakai caranya jga ea.......",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1.42-12-20-8= 2 orang<br><br>2. tdk jelas",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-suku-ke-5-dan-suku-ke-8-barisan-aritmetika-masing-masin-963",
+            "question": "diketahui suku ke-5 dan suku ke-8 barisan aritmetika masing masing 16 dan 25 . jumlah 22 suku pertama ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]U_{8} - U_{5} = a + 7b - (a + 4b) = 9 \\\\ 3b = 9 \\\\ b = 3, a = 4 \\\\ S_{22} =  \\frac{22}{2}(8+63) = 11.71 = 781 [/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "cara-menyelesaikan-12x-5-gt-15-ptlsv-bagaimana-647",
+            "question": "Cara menyelesaikan 1/2x + 5 &gt; 15 (PtLSV) bagaimana??",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1/2 X + 5 &gt; 15<br>1/2 X &gt; 15 -5<br>1/2 X &gt; 10<br>X &gt; 10/ 0,5<br>X &gt; 20",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "2057-87-83-untuk-test-978",
+            "question": "20+(57-87)-83 =\r\n\r\nuntuk test",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "20 + (57-87) - 83 =<br>Dahulukan yang di dalam kurung<br>57 - 87 = -30<br>20 + -30 - 83 = -93<br>Jadi jawabannya -93",
+                    "attachments": []
+                },
+                {
+                    "answer": "20+(-30)-83 = 20-30-83 = -93 <br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bentuk-sederhana-dari-32432-3-adalah-bantu-ya-m-334",
+            "question": "Bentuk sederhana dari (3\u221a2+4\u221a3)(\u221a2-\u221a3) adalah? bantu ya makasih",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "6 - akar 6 + 4 akar 2\n\nmaaf kalo salah",
+                    "attachments": []
+                },
+                {
+                    "answer": "kerjain biasa? V6 - 6",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "akar-dari-1825-akar-dari-13-752",
+            "question": "Akar dari 18,25 . . . akar dari 13 . . .",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "akar 18,25=\u00a0 4,27<br>akar 13 = 3,6<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-jumlah-dua-bilangan-adalah-100-dan-selisih-nya-adalah-4-770",
+            "question": "diketahui jumlah dua bilangan adalah 100 dan selisih nya adalah 40 bagaimana nilai dua bilangan tersebut dapat dinatakan dua linear variabel.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "jawabannya:<br>a+b = 100<br>a-b \u00a0= 40<br>truss lakukan proses eliminasi....<br>2b = 60<br>b = 30<br>substitusikan ke a+b=100<br>a+ 30 = 100<br>a= 70",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "p13579-tuliskan-semua-himpunan-bagian-yang-mungkin-dari-p-581",
+            "question": "P={1,3,5,7,9} tuliskan semua himpunan bagian yang mungkin dari p dan hitung banyaknya",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "kalau 1 anggotanya = 5<br>kalau 2 anggotanya = 10<br>kalau 3 anggotanya = 10<br>kalau 4 anggotanya = 5<br>kalau 5 anggotanya = 1<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "untuk-1-hari-1-malam-24-jam-ada-berapa-kali-putaran-jam-menent-746",
+            "question": "Untuk 1 hari 1 malam (24 jam), ada berapa kali putaran jam menentukan ukuran sudut terbesar dari :    a. 90\u00b0\r\nb. 150\u00b0\r\nc. 180\u00b0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a. 48x<br>b. 48x<br>c.24x<br>a dan b : 1 jam 2x putaran<br>c : 1 jam 1x putaran.<br>jadi, a dan b : 2x24 = 48<br>c : 1x24 = 24<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-p12345-dan-q34678-tentukan-p-q-dan-q-p-401",
+            "question": "Diketahui P={1,2,3,4,5} dan Q={3,4,6,7,8}\r\ntentukan P-Q dan Q-P",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Q-P= 6,7,8<br>P-Q= 1,2,5<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "p-q = 1,2,5<br>q-p = 6,7,8",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

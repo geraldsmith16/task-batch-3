@@ -1,0 +1,140 @@
+{
+    "question": "tekanan gas yang berada dalam suatu ruangan dikurangi sehingga menjadi 1/2 nya hal ini menyebabkan suhu gas tersebut turun menjadi 3/4 nya ,tentukan perbandingan volume gas akhir dan awal",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "[tex] \\frac{1}{2} [/tex] :\u00a0[tex] \\frac{3}{4} [/tex] =\u00a0[tex] \\frac{6}{4} [/tex] = 3 : 2<br>",
+            "attachments": []
+        },
+        {
+            "answer": "[tex] \\frac{P1 x V1}{T1} =  \\frac{P2 x V2}{T2} [/tex]\u00a0 ( di soal kamu P1=1/2 P2 dan T1=3/4 T2 ) paham kak? <br>lalu masukan ke persamaan <br>[tex] \\frac{P1 x V1}{T1} =  \\frac{1/2 P1 x V2}{3/4 T1} [/tex]<br>( coret T1 dan P1 )\u00a0 <br>V1=[tex] \\frac{1}{2}: \\frac{3}{4} [/tex] V2 <br>V1/V2 = 2/3 <br><br><br><br><br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "help-me-1-tepat-di-tengah-batang-ditancapkan-paku-masa-bata-439",
+            "question": "HELP ME!!    1)\u00a0Tepat di tengah\u00a0batang ditancapkan paku. Masa batang adalah 0,4 kg. Berapakah kecepatan sudut yg dialami batang jika diputar dari keadaan diam selama 5 menit?\r\n\r\n2)\u00a0Dari keadaan diam sebuah lempeng silinder pejal tipis berdiameter 400 cm menuruni sebuah bidang miring seperti gambar. Berapa kecepatan silinder di titik x?",
+            "attachments": [
+                "question-attachments/help-me-1-tepat-di-tengah-batang-ditancapkan-paku-masa-bata-439-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "yang nomor 2 pakai hukum kekekalan energi .....<br>Em1=Em2 <br>Ep=EK ( Rotasi) + EK ( Translasi )\u00a0 { sudah diajarkan kan persamaan ini????} <br>m.g.h=[tex] \\frac{1}{2} [/tex] m.[tex] v^{2} [/tex] + [tex] \\frac{1}{2} [/tex] I . [tex]w^{2} [/tex]<br>m.g.h= [tex] \\frac{1}{2} [/tex] { m . [tex] v^{2} [/tex] + [tex] \\frac{1}{2} [/tex] m.[tex] r^{2} [/tex] . [tex] \\frac{ v^{2} }{ r^{2} } [/tex] } } <br>\u00a0\u00a0 g.h = [tex] \\frac{1}{2} [/tex] m.[tex] v^{2} [/tex] + [tex] \\frac{1}{4} [/tex] m.[tex] v^{2} [/tex]<br>\u00a0\u00a0 v = [tex] \\sqrt{ \\frac{4}{3}  . gh} [/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bagaimanakah-momentum-benda-sebelum-dan-sesudah-tumbukan-218",
+            "question": "Bagaimanakah momentum benda sebelum dan sesudah tumbukan ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Berdasarkan hukum kekekalan momentum,\"jika tidak ada gaya luar yang bekerja pada benda,maka jumlah momentum sebelum tumbukan = jumlah momentum setelah tumbukan\"",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apa-itu-elastisitas-dan-apa-hubunganyaa-dengan-hukum-hooke-677",
+            "question": "Apa itu elastisitas? dan apa hubunganyaa dengan hukum hooke",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "elastisitas\u00a0penambahan panjang",
+                    "attachments": []
+                },
+                {
+                    "answer": "elastisitas adalah kemampuan benda untuk kembali ke bentuk semula<br>hubungannya dengan hukum hooke adalah,\u00a0<span>Pada daerah elastisitas benda, gaya yang bekerja pada benda sebanding dengan pertambahan panjang benda</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pa-saya-mau-nanya-ada-sebuah-mobil-mainan-dgn-masa-2kg-melaju-dgn-651",
+            "question": "pa saya mau nanya ada sebuah mobil mainan dgn masa 2kg melaju dgn kecepatan 6m2/s berapakah energi mobil kinetik itu???",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1/2 kali 2 kali 12 = 12 joule<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "klo gx salah sih<br>kan rumus nya<br>1/2.m.v= 1/2. 2kg. 6km/s<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a01/2. 2kg. 6km/s<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 =1/2. 12 {12tu dibagi 2 dan dapat 12 dari 6km/s dikali 2kg<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0=6j<br>jadi energi kinetik nya yaitu 6j<br>maaf klu salh",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "roda-yang-berupa-silinder-pejal-massanya-3-kg-dan-jari-jari-20-cm-867",
+            "question": "Roda yang berupa silinder pejal massanya 3 kg dan jari jari 20 cm. Roda tersebut menggelinding dengan kecepatan sudut 100 rad/s. Tentukan energi kinetik total gerak roda tersebut?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Momen inersia nya =\u00a0[tex] \\frac{2}{5} mr^2[/tex]<br><br>[tex] \\frac{2}{5} 3 * 0.20^2[/tex]<br>\u03b1 = 100 rad / s\u00a0<br><br>berdasar hukum newton II terkait benda berotasi\u00a0<br><br>[tex]r F = m r^2  \\alpha [/tex]\u00a0<br><br>Energi kinetik pada bola pejal =\u00a0<br>[tex] \\frac{2}{5} 3 * 0.0400* 100 rad /s = 4.8 kg m s^{-1}[/tex]<br><br>di cek sekali lagi ya kalau kalau ada yang salah\u00a0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebatang-tembaga-dipanaskan-sampai-3000-c-lalu-dijepit-dengan-560",
+            "question": "Sebatang tembaga dipanaskan sampai 300^{0} C, lalu dijepit dengan kuat, sehingga tidak dapat menyusut ketika suhunya turun. Jika tegangan patahnya 220 x 10^{6} N/m^{2}, pada suhu berapakah batang akan mulai putus saat suhunya diturunkan? Diketahui modulus Young tembaga 110 x 10^{9} N/m^{2} dan koefisien muai panjang 15 x ^{-6} K.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "menurut Teori elastisitas, <br><br>\ntegangan = modulus Elastisitas *  regangan <br><br>\n\u03c3 = E \u03b5 <br><br>\n\u03c3 = E \u0394L/L <br><br>\n\u03c3 = E \u03b1 \u0394T <br><br>\n220 * 10^6 = (110 * 10^9)(15 * 10^-6)(300 - t) <br><br>\nt = 166.67 \u00b0C  <br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "penyebab-terjadinya-gerak-translasi-289",
+            "question": "Penyebab terjadinya gerak translasi",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Gya yg searah atau berlawanan arah dengan gerak benda yang menyebabkan benda bergrak translasi diprcepat or diperlambat<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "karena terjadi gaya yang bekerja pada benda bulat dan menyebabkan benda tersbut\u00a0bergerak",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "kenapa-energi-potensial-pada-listrik-statis-skalar-ttapi-medan-da-869",
+            "question": "Kenapa energi potensial pada listrik statis skalar ttapi medan dan gaya listrik vektor?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "karena energi memiliki nilai saja\u00a0tidak memiliki arah maka merupakan\u00a0vektor<br>medan dan gaya listrik memiliki nilai dan\u00a0arah yaitu muatan + ke - sehinnga merupakan besaran skalar",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-pegas-meregang-10-mm-ketika-di-tarik-oleh-gaya-2-n-berapa-985",
+            "question": "sebuah pegas meregang 10 mm ketika di tarik oleh gaya 2 N. berapa pertambahan panjang ketika ditarik gaya 5 N",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "m1/m2 = F2/F1<br>10/m2 = akar5/2<br>10/m2 = akar2,5<br>10/m2 = 1,58<br>m2 = 10/1,58<br>m2 = 6,3 mm",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-elevator-bermuatan-1200-kg-untuk-menaikkan-setinggi-20-met-345",
+            "question": "Sebuah elevator bermuatan 1200 kg untuk menaikkan setinggi 20 meter dalam waktu 30 detik diperlukan daya ? Minta sekalian sama rumus nya ya...guru ku gak jelas ngasitaunya",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Daya = P(Usaha)/ Waktu (t)<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 1200\u00d720/30 = 800 J/s<br>Usahan (W)= F(Gaya) x Perubahan Jarak",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,136 @@
+{
+    "question": "sebuah bola pejal bermassa 0,036 kg dan jari-jari 1,2 cm menggelinding menuruni suatu bidang miring. Bola pejal itu mula-mula bergerak dengan kecepatan 0,5 m/s. Berapakah kecepatan bola itu ketika ketinggiannya berkurang 14 cm? g=10 m/s \u00a0",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "1. hukum kekekalan massa<br>1/2 m v\u00b2+m g h+ 1/2 I \u03c9\u00b2-1/2 m v\u00b2- I \u03a9\u00b2=0<br>1/2 m v\u00b2+m g h+1/2 I (v/r)\u00b2-1/2 m v\u00b2- 1/2 I (v/r)\u00b2=0<br>1/2 m v\u00b2+m g h+1/2 (2/5) (mr\u00b2) (v/r)\u00b2- 1/2 m v\u00b2- 1/2 ((2/5)(mr\u00b2))(v/r)\u00b2=0<br>sederhanakan<br>gh+7v\u00b2/10-7v\u00b2/10=0<br>(9.8)(0.14)+7(0.5)\u00b2/10-7v\u00b2/10=0<br>v=1.48661 m/s<br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "tinggi-nada-senar-gitar-tergantung-1-4-558",
+            "question": "Tinggi nada senar gitar tergantung ?\u00a0\r\n( 1-4)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "frekuensi gelombang longitudinal nya<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "frekuensi dari gelombang longitudinal\u00a0gitar itu sendiri",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pada-titik-titik-sudut-abc-dan-d-sebuah-persegi-abcd-dengan-pan-854",
+            "question": "Pada titik-titik sudut A,B,C dan D sebuah persegi ABCD dengan panjang a ditempatkan muatan berturut-turut +q, -q, -q, dan -q. akibatnya muatan +q mengalami resultan gaya dari muatan lain sebesar ( q^/ (4\u03c0    a^2) x. nilai x adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "benda mengalami resultan gaya istrik bersudut 90 derajat. Sehingga mendapatkan rumus F=\u221a(Fab\u00b2 tambah Fad\u00b2)<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 =\u221a((k.q.q/r\u00b2)\u00b2 ditambah\u00a0(k.q.q/r\u00b2)\u00b2)<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 =\u221a2.(k.q.q/r\u00b2)\u00b2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 =k.q.q/r\u00b2.\u221a2<br><br>(q kuadrat per 4 phi epsilon a kuadrat)x=k.q\u00b2/a\u00b2.\u221a2<br>sehingga nilai x adalah \u00a0\u221a2 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-balok-terapung-diatas-permukaan-air-volume-balok-yg-muncu-254",
+            "question": "sebuah balok terapung diatas permukaan air. volume balok yg muncul diatas permukaan air 100 cm\u00b3 dan massa jenis balok 0,75g/cm\u00b3 jika p air 1 g/cm\u00b3 hitunglah massa balok seluruhnya...???",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Dik vb=vc\u00a0 = 100 cm^3<br>\u00a0 \u00a0 \u00a0 Rho balok = 0,75 g/cm^3<br>\u00a0 \u00a0 \u00a0 rho cair = 1 g/cm^3<br>dit m balok seluruhnya ?<br>jawab.<br><br>Fa = rho cair.volume cair . g<br>\u00a0 \u00a0 \u00a0= 1 . 100. 10<br>\u00a0 \u00a0 \u00a0= 1000 N<br><br>Fa = wb = mb . g \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 mb2 = rho benda . v<br>\u00a01000 \u00a0= mb . 10 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 0,75 . 100<br>mb1 = 1000 / 10 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 75 gr<br>\u00a0 \u00a0 \u00a0= 100 gr<br>\u00a0<br>m total = 100 + 75 = 175 gr",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apa-rumus-tekanan-dan-cara-penyelesaian-nya-gmna-350",
+            "question": "Apa rumus tekanan...\r\n dan cara penyelesaian nya gmna..",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "rumus tekanan P = F/A<br>P = tekanan (pa)<br>F = gaya (N)<br>A = luas bidang tekan (m^2)",
+                    "attachments": []
+                },
+                {
+                    "answer": "Tekanan adalah hasil bagi gaya tekan dengan luas bidang tekan. <br>&gt; Luas bidang yg kecil menghasilkan tekanan yg besar dan sebaliknya, dan semakin besar gaya yg bekerja pd benda semakin besar pula tekanannya..<br>rumus nya : P = <u>F</u><br>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0A<br>P = tekanan(N/m\u00b2)<br>F = gaya(N)<br>A = luas bidang tekan(m\u00b2)<br>N : Newton <br>m : meter<br>_langsung aja dikerjakan pake rumusnya..<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "2-buah-kawat-panjang-lurus-sejajar-terpisah-pada-jarak-12cm-kawa-818",
+            "question": "2 buah kawat panjang lurus sejajar terpisah pada jarak 12cm. kawat pertama dialiri arus 4A, kawat kedua 6A. tentukan besar induksi magnet pada titik yang berada diantara 2 kawat tersebut dan berjarak 4cm dari kawat pertama?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "besar\u00a0induksi magnet=12",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "benda-bermassa-10-kg-di-atas-bidang-datar-licin-dipengaruhi-gaya-694",
+            "question": "Benda bermassa 10 kg di atas bidang datar licin dipengaruhi gaya 40 N membentuk sudut 60 derajat terhadap horizontal,jika g= 10 m/s^2.tentukan perpindahan benda setelah gaya bekerja 60 \u00a0sekon",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "karena permukaannya licin, maka fg (gaya gesek) = 0<br>cari\u00a0\u03a3 F = m.a<br>\u00a0 \u00a0 \u00a0F + w cos 30 = m .a \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0w = m .g<br>\u00a0 \u00a0 \u00a040 + (10.10.1/2\u221a3) = 10.a<br>\u00a0 \u00a0 \u00a0 40 + 50\u221a3 = 10.a<br>\u00a0\u221a3 = 1,73<br>40 + 50 (1,73) = 10a<br>40 + 86,5 = 10a<br>126,5 = 10 a<br>a = 126,5 /10<br>\u00a0 \u00a0= 12,65 m/s\u00b2<br>mudah2an benar -_-",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "perhatikan-gambar-dibawah-ini-berikan-penjelasanya-juga-yaaa-ji-601",
+            "question": "Perhatikan gambar dibawah ini    Berikan penjelasanya juga yaaa..\r\n\r\nJika diketahui\u00a0\r\nI = 1,6 A\r\nI1 = 0,3 A\r\nI1 = I2 \u00a0dan\u00a0I3 =I4\r\nmaka\u00a0I4??\r\n\r\na. 0,3 A\r\nb. 0,5 A\r\nc. 1,3A\r\nd. 7A",
+            "attachments": [
+                "question-attachments/perhatikan-gambar-dibawah-ini-berikan-penjelasanya-juga-yaaa-ji-601-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "sesuai hukum kirchof, jumlah arus yang masuk sama dengan jumlah arus yang kluar,\u00a0<br>maka : I = I1 +I2 + I3 + I4<br>karena I1=I2 , sehingga\u00a0jika I1=0,3, maka I2=0,3<br>juga I3 = I4 \u00a0 \u00a0 (substitusi semua ke pers awal)<br>I = I1 +I2 + I3 + I4<br>1,6= o,3 +0,3+ I3 + I3<br>1,6 = 0,6 +2(I3)<br>2(I3) = 1<br>I3 = 0,5<br>karena I3 = I4, maka I4 = 0,5<br>jawaban b)",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-bus-bergerak-dengan-kecepatan-60-kmjam-seorang-pedagang-396",
+            "question": "sebuah bus bergerak dengan kecepatan 60 km/jam. seorang pedagang asongan di dalam bus berjalan dari depan ke belakang dengan kecepatan 1 km/jam. kecepatan pedagang asongan menurut pengamat yang diam ditepi jalan ..... km/jam",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "kecepatan\u00a0pejualan asongan\u00a0 3m/sec menurut pejalan kaki",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apakah-kekekalan-momentum-linear-konsisten-dengan-hukum-kedua-dan-871",
+            "question": "Apakah kekekalan momentum linear konsisten dengan hukum kedua\r\n dan ketiga Newton?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Hukum Kedua: sebuah benda dengan massa M mengalami gaya resultan sebesar\n F akan mengalami percepatan a yang arahnya sama dengan arah gaya, dan \nbesarnya berbanding lurus terhadap F dan berbanding terbalik terhadap M.\n atau F=Ma. Bisa juga diartikan resultan gaya yang bekerja pada suatu \nbenda sama dengan turunan dari momentum linear benda tersebut terhadap \nwaktu.<br>\u00a0 <br>Hukum Ketiga: gaya aksi dan reaksi dari dua benda memiliki besar yang sama, dengan arah terbalik, dan segaris.<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "saat-beban-digantungkan-pada-pegas-apakah-beban-melakukan-gaya-532",
+            "question": "Saat beban digantungkan pada pegas, apakah beban melakukan gaya?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "tidak,,,,,,,,,,,,,,,",
+                    "attachments": []
+                },
+                {
+                    "answer": "melakukan gaya,apabila sebua pegas yang digantung diberi beban m pada ujungnya kemudian benda tersebut disimpangkan dari titik setimbangnya,maka beban pegas tersebut akan melakukan gerak bolak-balik (gaya) pada titik setimbangnya.<br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

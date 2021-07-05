@@ -1,0 +1,158 @@
+{
+    "question": "Tentukan HIMPUNAN PENYELESAIAN dari persamaan berikut!    a. 6x - 10 = 2x + 2\r\nb. 5x - 4 = 3x - 8\r\nc. -7 - 2a = 4a - 19\r\nd. Jika diketahui 15x - 7 = 8 - 10x , maka tentukan nilai 2x + 1",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "[tex]a.6x-2x=2+10 \\\\ 4x=12 \\\\ x=3 \\\\  \\\\ b.5x-3x=-8+4 \\\\ 2x=-4 \\\\ x=-2 \\\\  \\\\c.-2a-4a=-19+7 \\\\ -6a=-12 \\\\ a=2 \\\\  \\\\ d.15x+10x=8+7 \\\\25x=15 \\\\ x=15/25  \\\\ x=3/5 \\\\  \\\\ 2x+1=2(3/5)+1 \\\\ 6/5+1=2,2[/tex]",
+            "attachments": []
+        },
+        {
+            "answer": "6x - 10 =2x +2<br>6x - 2x = 2 + 10<br>4x = 12<br>x = 3<br><br>5x - 4 =3x - 8<br>5x - 3x = -8+4<br>2x = -4<br>x = -2<br><br>-7 - 2a = 4a - 19<br>-2a - 4a = -19 + 7<br>-6a = -12<br>a = 2<br><br>15x - 7 =8 - 10 x<br>15x + 10x = 8 +7<br>25x = 15<br>x = 3/5<br>Nilai<br>2x + 1<br>2 x 3/5 + 1<br>6/5 + 1<br>6/5 + 5/5<br>11/5 = 2 1/5<br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "tentukan-sebuah-himpunan-semesta-untuk-himpunan-berikut-ini-1-ab-679",
+            "question": "Tentukan sebuah himpunan semesta untuk himpunan berikut ini 1 a,b,c,d,e \u00a02 ( 3,5,7,11 ) 3 ( 2,4,6,8,10 )",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<strong><em>1.S={Himpunan huruf abjad}</em></strong><br><strong><em>2.S={Himpunan Bilangan prima}</em></strong><br><strong><em>3.S={Himpunan Bilangan genap}</em></strong>",
+                    "attachments": []
+                },
+                {
+                    "answer": "S = {a,b,c,d,e,2,3,4,5,6,7,8,10,11}",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "cara-mencari-masing2-diagonal-belah-ketupat-amp-layang-layang-g-985",
+            "question": "Cara mencari masing2 diagonal belah ketupat &amp; layang-layang gimana yah ? Kasi tau dong :D",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>Misal : perpotongan antara diagonal AC dan diagonal BD adalah titik O<br></span><span>BO^2 = AB^2 - AO^2<br></span>(ini untuk belahketupat)<br><span>Luas Layang2 = 1/2 diagonal x diagonal (lainnya)</span><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "fungsi-hx-5x-3-mempunyai-nilai-12-untuk-x-a-3-b-490",
+            "question": "Fungsi h(x) = 5x - 3 mempunyai nilai 12 untuk x =\u00a0 \u00a0 a. -3 b. -2 c. 2 b. 3",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "5x-3 = 12<br>5x = 12+3 <br>5x = 15<br>x = 15 : 5 = 3<br>b. 3<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "jawabannya d :<br>5x - 3 = 12<br>\u00a0\u00a0 \u00a0   5x = 12 + 3<br>\u00a0\u00a0 \u00a0 5x = 15<br>\u00a0\u00a0 \u00a0 \u00a0 x = 3<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pak-dani-akan-mengecat-bangunan-yang-seperti-gambar-biaya-setia-818",
+            "question": "pak Dani akan mengecat bangunan yang seperti gambar.. Biaya setiap m2 adalah 20.000,00 . berapa biaya seluruh nya ?",
+            "attachments": [
+                "question-attachments/pak-dani-akan-mengecat-bangunan-yang-seperti-gambar-biaya-setia-818-1.png"
+            ],
+            "answers": [
+                {
+                    "answer": "jumlah biaya seluruhnya\u00a01560000",
+                    "attachments": []
+                },
+                {
+                    "answer": "13 m2 + 5 m2 + 4 m2 = 19 m2<br>19 \u00d7 20.000 = Rp 380.000<br><br>Jadi,biaya yang di butuhkan membiayai orang tersebut adalah Rp 380.000<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "berapa-nilai-x-dari-persamaan-3-per-5-x-2-per-6-x-2-312",
+            "question": "Berapa nilai x dari persamaan\u00a03 per 5\u00a0X\u00a0- 2 per 6 X = 2",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex] \\frac{3x}{5}  -  \\frac{2x}{6} = 2 \\\\ \\\\   \\frac{18x}{30} -  \\frac{10x}{30} = 2 \\\\  \\\\  \\frac{8x}{30} = 2 \\\\  \\\\ 8x = 60 \\\\  \\\\  \\frac{15}{4} = x[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dalil-pythagoras-dalam-bentuk-rumus-pada-segitiga-siku-siku-apa-325",
+            "question": "Dalil pythagoras dalam bentuk rumus pada segitiga siku siku apa\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "semoga membantu dan bermanfaat :)",
+                    "attachments": [
+                        "answer-attachments/dalil-pythagoras-dalam-bentuk-rumus-pada-segitiga-siku-siku-apa-325-1.jpg"
+                    ]
+                },
+                {
+                    "answer": "\u221aA = \u221aB +\u221aC untuk sisi miring<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-1-3-2-pke-cara-5-6-609",
+            "question": "1 1 + 3 2 = ??? pke cara\r\n\u00a0 \u00a05 \u00a0 \u00a0\u00a0\u00a0 6\r\n\u00a0\u00a0\u00a0\r\n \u00a0\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1 1/5 + 3 2/6 = 6/5 + 20/6 = 36/30 + 100/30 = 136/30 = 4,53<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "pakai cara hitung campuran<br><br>[tex] 1\\frac{1}{5} + 3\\frac{2}{6}  \\\\  \\\\ =  \\frac{6}{5} + \\frac{20}{6}  \\\\   \\\\ = \\frac{36+100}{30} =  \\frac{136}{30} = 4 \\frac{16}{30} = 4 \\frac{8}{15} [/tex]<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "3z-3-z-6-tentukan-nilai-z5-169",
+            "question": "3z-3 = z + 6 tentukan nilai z+5",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "3z-3 = z+6<br>2z = 9<br>z = 4,5\u00a0<br><br>z+5 =\u00a0<br>4,5 + 5 = 9,5",
+                    "attachments": []
+                },
+                {
+                    "answer": "3z-3 = z+6<br>3z-z=6+3<br>2z = 9<br>z = 9/2<br>z= 4,5<br><br>nilai z + 5 = 4,5 + 5 = 9,5<br>ini jawaban saya<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pada-sebuah-lingkaran-besaran-luas-sama-dengan-besaran-kelilingn-858",
+            "question": "Pada sebuah lingkaran, besaran luas sama dengan besaran kelilingn. Tentukan panjang jari-jari lingkaran tersebut!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "2.[tex] \\pi [/tex].r=[tex] \\pi [/tex].[tex] r^{2} [/tex]<br>2.r=[tex] r^{2} [/tex] ([tex] \\pi [/tex]nya dicoret)<br>2=[tex]  r^{2}[/tex]:r<br>2=r",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bisa-bantuin-saya-mencari-rumus-mencari-sudut-dalam-jarum-jam-863",
+            "question": "Bisa bantuin saya mencari rumus mencari sudut dalam jarum jam",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>am panjang pada jam.<br>\nCoba perhatikan penjelasan berikut :<br>\n1. Dalam 1 jam pergerakan jarum jam pendek adalah :<br>\n360 derajat : 12 = 30 derajat per jam<br>\n2. Dalam 1 jam atau 60 menit pergerakan jarum jam panjang adalah :<br>\n360 derjat : 60 = 6 derajat</span>\n<span>Sehingga sudut yang dibentuk antara jarum pendek dan jarum panjang pada pukul 02.30<br><br></span><span>1. Pergerakan jarum Pendek :<br>\n2.30/60 jam x 30 derajat = (2\u00d730) derajat + (30/60 x 60 ) derajat<br>\n= (60 + 15) derajat = 75 derajat<br>\n2. Pergerakan jarum panjang :<br>\n30 x 6 derajat = 180 derajat</span>\n<span>Jadi sudut yang dibentuk adalah = ( sudut terbesar dikurangi sudut terkecil)<br>\n= (180 \u2013 75) derajat = 105 derajat</span>",
+                    "attachments": []
+                },
+                {
+                    "answer": "kalau saya: setiap bertambah 5 menit itu sama dengan bertambah 30 derajat<br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

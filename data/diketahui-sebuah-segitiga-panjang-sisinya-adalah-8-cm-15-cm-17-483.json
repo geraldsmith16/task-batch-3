@@ -1,0 +1,136 @@
+{
+    "question": "Diketahui sebuah segitiga panjang sisinya adalah 8 cm, 15 cm, 17 cm. hitunglah panjang jari-jari lingkaran dari dalam segitiga dan luas segitiga.    tolong dijawab. besok mau dikumpul..",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "\u00a0 \u00a0 \u00a0segitiga dengan sisi 8 , 15 dan 17\u00a0<br>\u00a0adalah segitiga siku2 jadi luas = 1/2 alas x tinggi \u00a0= 1/2 x8 x 15<br>s = 1/2(8+15+17)=20<br>r lingkaran dalam adalah r = (s - a)tan 1/2\u03b1<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0=( 20 - 17) tan 1/2 90<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 3 tan 45\u00a0<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 3<br><br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "seorang-pedagang-membeli-2-jenis-kopi-masing-masing-sebanyak-18kg-740",
+            "question": "Seorang pedagang membeli 2 jenis kopi masing-masing sebanyak 18kg dengan harga Rp 3.500 per kg dan 12 kg dengan harga Rp 3.000 per kg. kedua jenis kopi kemudian dicampur menjadi satu dan dijual dengan harga Rp 3.200 per kg. pedagang kopi tersebut akan mengalami ...    a. Rugi Rp 3.000 per kg \r\nb. Rugi Rp 3.000 \r\nc. Untung Rp 200 per kg\r\nd. Untung Rp 5.000 \r\n\r\ntolong bantu saya ya! dengan caranya Terima Kasih :)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "kopi 1 = 18 x 3.500 = 63.000<br>kopi 2 = 12 x 3.000 = 36.000<br>maka total nya 99.000 <br><br>kopi 1 di campur kopi 2 = 30kg x 3.200 = 96.000<br><br>maka 96.000 - 99.000 = - 3000<br>maka rugi 3.000<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-bangun-segitiga-berbentuk-segitiga-dengan-sisi-2xcm-2xcm-525",
+            "question": "Sebuah bangun Segitiga berbentuk segitiga dengan sisi 2xcm, 2xcm ,3xcm . Jika keliling segitiga 126 cm,tentukan panjang masing - masing sisi segitiga tersebut!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "k=s+s+s<br>126=2x+3x+2x<br>126=7x<br>x=126/7<br>x=18<br><br>disubtitusikan<br>2x= 2.18 = 36<br>3x= 3.18 = 54<br><br>jadi panjang masing\" sisi adalah 36cm,36cm dan 54cm<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "2x+2x+3x = 126<br>7x = 126<br>x = 18<br><br>jadi panjang sisi sisinya :<br>1. 2x = 2 . 18 = 36<br>2. 2x = 2. 18 = 36<br>3. 3x = 3 . 18 = 54",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "misalkan-suatu-persegi-diletakkan-berimpitan-di-kanan-persegi-lai-846",
+            "question": "misalkan suatu persegi diletakkan berimpitan di kanan persegi lainnya. tentukan keliling persegi yang terdiri dari : \u00a0 a. 1 persegi b.gabungan 2 persegi c.gabungan 3 persegi d.gabungan n persegi e. berikan alasan yang digunakan untuk menggeneralisasi soal butir d !",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "coba dilihat dan\u00a0dipelajari",
+                    "attachments": [
+                        "answer-attachments/misalkan-suatu-persegi-diletakkan-berimpitan-di-kanan-persegi-lai-846-1.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-luas-layang2-420-cm-dan-panjang-diagonalnya1-30-cm-t-184",
+            "question": "Diketahui luas layang2 420 cm dan panjang diagonalnya1\u00a030 cm . tentukan panjang diagonal2",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "L =<u> d1 \u00d7 d2</u><br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0  2<br>420 =<u> 30 \u00d7 d2</u><br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0  2<br>420 = 15 \u00d7 d2<br>28 = d2<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "caranya-segitiga-pascal-483",
+            "question": "Caranya segitiga pascal?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kelas : VII (1 SMP)<br>Materi : Operasi dan Faktorisasi Bentuk Aljabar<br>Kata Kunci : aljabar, segitiga, pascal<br><br>Pembahasan :<br>Menggunakan pola bilangan segitiga Pascal untuk menjabarkan bentuk aljabar (a + b)\u207f.<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 1 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u2192 (a + b)\u2070<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a01 \u00a0 \u00a0 \u00a0 \u00a0 1 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u2192 (a + b)\u00b9<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 1 \u00a0 \u00a0 \u00a0 \u00a0 2 \u00a0 \u00a0 \u00a0 \u00a0 \u00a01 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u2192 (a + b)\u00b2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 1 \u00a0 \u00a0 \u00a0 \u00a0 \u00a03 \u00a0 \u00a0 \u00a0 \u00a0 3 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 1 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u2192 (a + b)\u00b3<br>\u00a0 \u00a0 \u00a01 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 4 \u00a0 \u00a0 \u00a0 \u00a0 6 \u00a0 \u00a0 \u00a0 \u00a0 \u00a04 \u00a0 \u00a0 \u00a0 \u00a0 \u00a01 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u2192 (a + b)\u2074<br>1 \u00a0 \u00a0 \u00a0 \u00a0 \u00a05 \u00a0 \u00a0 \u00a0 \u00a0 10 \u00a0 \u00a0 \u00a0 \u00a0 10 \u00a0 \u00a0 \u00a0 \u00a0 5 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a01 \u00a0 \u00a0 \u00a0 \u2192 (a + b)\u2075<br>\u2191 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u2191<br>Koefisien suku ke-1 \u00a0 \u00a0 \u00a0... \u00a0 Koefisien suku ke-6<br><br>Contoh :<br>(x + 3y)\u00b3 = x\u00b3 + 3.x\u00b2.3y + 3.x.(3y)\u00b2 + (3y)\u00b3 = x\u00b3 + 9x\u00b2y + 27xy\u00b2 + 27y\u00b3.<br><br>(a - 2b)\u2074 = a\u2074 + 4.a\u00b3.(-2b) + 6.a\u00b2.(-2b)\u00b2 + 4.a.(-2b)\u00b3 + (-2b)\u2074 = a\u2074 - 8a\u00b3b + 24a\u00b2b\u00b2 - 32ab\u00b3.<br><br>(-2x + 5y)\u2075 = (-2x)\u2075 + 5.(-2x)\u2074.(5y) + 10.(-2x)\u00b3.(5y)\u00b2 + 10.(-2x)\u00b2.(5y)\u00b3 + 5.(-2x).(5y)\u2074 + (5y)\u2075 = -32x\u2075 + 400x\u2074y - 2.000x\u00b3y\u00b2 + 5.000x\u00b2y\u00b3 - 6.250xy\u2074 + 3125y\u2075.<br><br>Semangat!",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "un-2n2-5-nilai-dari-u4-u5-adalah-manurut-aku-jawabannya-677",
+            "question": "Un = 2n^2 -5. Nilai dari U4 + U5 adalah..    manurut aku jawabannya 72, tapi waktu cek jawabannya salah.. mohon bantuannya :) terimakasih",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "itu mksdunya gmn dlu ..gini (2n^2)-5 atau gini 2n^(2-5)<br><br>klo dipangkatin dlu br di kurang 5..hsilnya ya..<br><br>2 x 4^2 -5 = 27 trus 2 x 5^2 -5 = 45 br hsil 27 + 45 =72<br><br>tp klo pangkatnya dikurang 5 dlu tentu jd negatif pangkat nya..brrti angkanya jd pechan..<br>\u00a0&gt;&gt; 2.4^-3 = 2.1/64... trus 2.5^-3 = 2.1/125<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-tentukan-himpunan-penyelesaian-dari-persamaan-linier-berikut-122",
+            "question": "1. tentukan himpunan penyelesaian dari persamaan linier berikut    \u00a0\u00a0 \u00a0 a. 24m=12\r\n\u00a0\u00a0 \u00a0 b. 3z+11=-28\r\n\u00a0\u00a0 \u00a0 c. 25-4y=6y+15\r\n\u00a0\u00a0 \u00a0 d. -4x-15=1-8x\r\n\u00a0\u00a0 \u00a0 e. (enam per a) +2=4\r\n\r\n2. jika x adalah bilangan asli, tentukanlah himpunan penyelesaian dari persamaan linier berikut\r\n\u00a0\u00a0 \u00a0 a. 6x+5=26-x\r\n\u00a0\u00a0 \u00a0 b. 2-4x=3\r\n\u00a0\u00a0 \u00a0 c. x-12=2x+36\r\n\u00a0\u00a0 \u00a0 d. -5x - 4x + 10 = 1\r\n\u00a0\u00a0 \u00a0 e. 2 + x per empat = 5\r\n3. jika 3x +12 =7x - 8, tentukanlah nilai x + 2\r\n4. seorang ayah berumur 28 thn, ketika anaknya lahir. berapa umur anak itu ketika jumlah umur mereka 48 thn???\r\n\r\nplissss tlong jawab secepatnya ???",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "6x ditambah 5 sama dengan 26 negatif x 6x negatif 26 sama dengan x negatif 15 10x sama dengan 14 x x sama dengan 14/10 sama dengan 1.4",
+                    "attachments": []
+                },
+                {
+                    "answer": "1. m=1/2<br>2. z=-13<br>3. y=1<br>4. x=4<br>5. a=12<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-persegi-panjang-memiliki-luas-8cm-dan-lebar-2sqrt2c-519",
+            "question": "sebuah persegi panjang memiliki luas 8cm, dan lebar (2+\\sqrt{2})cm. ditanya: a.panjang? b.keliling?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "L =\u00a0 p \u00d7 l<br>8 = p \u00d7 (2 +\u221a2)<br><u>\u00a0\u00a0\u00a0 8\u00a0\u00a0\u00a0 </u>\u00a0 = p<br>2 + \u221a2<br><u>\u00a0\u00a0 \u00a0 8 (2 - \u221a2) \u00a0 \u00a0 </u>\u00a0 = p \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 <br>(2 + \u221a2) (2 - \u221a2)<br><u>16 - 8\u221a2\u00a0</u>  = p<br>\u00a0\u00a0 4 - 2<br>8 - 4\u221a2 = p<br><br>K = 2 ( p + l )<br>K = 2 ( (8 - 4\u221a2) + (2 + \u221a2))<br>K = 2 ( 10 - 2\u221a2)<br>K = 20 - 4\u221a2",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-sekali-dijawab-yaa-pelajaran-kelas-z-matematika-perban-897",
+            "question": "Tolong sekali dijawab yaa.. PELAJARAN KELAS Z MATEMATIKA : PERBANDINGAN DAN SKALA\u00a0    soal: Untuk membangun ruang kelas baru sebanyak 2 kelas akan selesai dalam waktu 50 hari jika dikerjakan oleh 15 tukang.Setelah 20 hari bekerja bahan abis,pekerjaan terhenti 5 hari. berapa orang tukang ditambah agar ruang kelas itu tetap selesai tepat waktu?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "50 hari = 15 tukang<br>50 - 20 - 5 = x tukang<br>[tex] \\frac{50}{25} [/tex] =\u00a0[tex] \\frac{x}{15} [/tex]\u00a0<br>x = 2\u00a0\u00d7 15<br>x = 30<br><br>tambahan pekerja = 30 - 15 = 15",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "panjang-diagonal-sebuah-persegi-panjang-adalah-10-cm-jika-lebar-660",
+            "question": "panjang diagonal sebuah persegi panjang adalah 10 cm. jika lebar persegi panjang tersebut adalah 6 cm . maka keliling persegi panjang adalah ...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "keliling= 10x2+6x2 =32",
+                    "attachments": []
+                },
+                {
+                    "answer": "panjangnya 8cm<br>maka:<br>8+6+8+6=28cm<br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

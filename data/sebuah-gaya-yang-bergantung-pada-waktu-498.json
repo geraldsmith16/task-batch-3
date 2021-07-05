@@ -1,0 +1,132 @@
+{
+    "question": "Sebuah gaya yang bergantung pada waktu",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "gaya potensial, gaya kinetik, gaya apung, setau saya itu",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "tentukan-kelajuan-sebuah-elektron-yang-memiliki-massa-tiga-kali-m-371",
+            "question": "Tentukan kelajuan sebuah elektron yang memiliki massa tiga kali massa diamnya!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "M=3M\u2080<br><br>M=M\u2080/[tex] \\sqrt{1 - V^2/C^2} [/tex]<br>3M\u2080=M\u2080/[tex] \\sqrt{1 - V^2/C^2} [/tex]<br>[tex] \\sqrt{1 - V^2/C^2} [/tex]=1/3<br>1 - V\u00b2/C\u00b2\u00a0= 1/9<br>9/9\u00a0- 1/9 = V\u00b2/C\u00b2<br>8/9C\u00b2 = V\u00b2<br>V = 2[tex] \\sqrt{2} [/tex]/3C",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-uji-dilakukan-terhadap-seutas-kawat-tembaga-dengan-jari-ja-661",
+            "question": "Sebuah uji dilakukan terhadap seutas kawat tembaga dengan jari-jari 1,00 mm untuk menentukan bagaimana kawat tembaga akan menahan tumpukan es ketika kawat digunakan sebagai jaringan listrik. Diperoleh hasil bahwa suatu gaya 300 N akan menyebabkan kawat tertarik dari panjang 100,00 m menjadi 100,11 m, dan ketika tumpukan es dibersihkan (dihilangkan), kawat kembali kepada panjang asalnya. Tegangan, regangan, dan modulus elastis kawat tembaga dalam satuan SI berturut-turut adalah ....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Dik F = 300 N<br>\u00a0\u00a0 \u00a0  lo = 100,00 m<br>\u00a0\u00a0 \u00a0 l = 100,11 m<br>Dit\u00a0 tegangan , regangan , modulus yong<br>jawab.<br><br>\u2208 regangan = \u0394l / lo<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 100,11-100,00 / 100,00<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 0,11 / 100,00<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0  = 0,0011 tanpasatuan<br><br>E elastisitas tembaga = 11.10^10 pa satuan dan tetapan elastisitas young untuk tembaga Sl<br><br>Tegangn = E young . \u2208regangan<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 11x10^10 .0,0011<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 121x10^6 N/m^2<br><br>like<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-truk-bermassa-7500-kg-yang-bergerak-dengan-kecepatan-5-ms-402",
+            "question": "sebuah truk bermassa 7500 kg yang bergerak dengan kecepatan 5 m/s ditabrak mobil lain yang bermassa 15000 kg dengan keceptan 20 m/s.kedua kendaraan rjusak berat dan menjadi satu. kelajuan kedua mobil rusak itu adalah........",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "m1.v1 + m2.v2 = (m1+m2) V<br>7500.5 + 15000.20 = (7500+15000) V<br>37500 + 300000 = 22500 V<br>337500 = 22500 V<br>V= 337500 : 22500<br>V= 15 m/s<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jarak-kota-surabaya-dan-jakarta-936-km-andi-berangkat-pukul-17-841",
+            "question": "jarak kota surabaya dan jakarta 936 km . andi berangkat pukul 17.00 hari sabtu dengan mengendarai mobilnya dan sampai di jakarta pukul 05.00 .hari minggu . kelajuan rata\" mobil andi adalah ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "936 dibagi 12 aja<br>kan perjalanannya 12 jam tuh. berarti kecepatannya 78km per jam<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<u>936 km</u>\u00a0<u></u><strong></strong><u></u>=12 km/jam<u><br></u>12 jam<u><br></u>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bagaimanakah-momentum-benda-sebelum-dan-sesudah-tumbukan-218",
+            "question": "Bagaimanakah momentum benda sebelum dan sesudah tumbukan ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Berdasarkan hukum kekekalan momentum,\"jika tidak ada gaya luar yang bekerja pada benda,maka jumlah momentum sebelum tumbukan = jumlah momentum setelah tumbukan\"",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-bola-pejal-i25-mrpngkat-2-bertranslasi-dan-berotasi-957",
+            "question": "sebuah bola pejal (I=2/5 mR[pngkat 2 ) bertranslasi dan berotasi dengan kecepatan linear dan kecepatan sudut v dan w. tentukan energi kinetik total bola pejal tsb",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "EkRotasi : 1/2 M.V^2 + 1/2 . I . W^2<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "4-buah-pegas-identik-masingmasing-mempunyai-konstanta-elavasitas-344",
+            "question": "4 buah pegas identik masingmasing mempunyai konstanta elavasitas 1600N.M-1, disusun seri-paralel (lihat gambar)    beban w yang di gantung menyebabkan sistem pegas mengalami pertambahan panjang secara keseluruhan sebesar 5cm. berat beban w adalah",
+            "attachments": [
+                "question-attachments/4-buah-pegas-identik-masingmasing-mempunyai-konstanta-elavasitas-344-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "Ktotal = (4800x1600) : 4800 + 1600 = 1200 N/m<br>w=Fpegas<br>w=kx<br>w= 1200(0.05)<br>\u00a0 =60 n",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "seseorang-mengendarai-mobil-dengan-kecepatan-90-kmjam-tiba-tiba-318",
+            "question": "seseorang mengendarai mobil dengan kecepatan 90 km/jam. tiba-tiba mobil tersebut direm dengan perlambatan maksimum. Besarnya jarak yg di butuhkan adalah...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "ya kagak ada jawabannya\u00a0<br>karena rumus GLBB diperlambat itu<br>v = v0 . t - a .t<br>s = v0 . t - 1/2 a . t\u00b2<br>vt\u00b2 = v0\u00a0\u00b2 - 2 a . s",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-bola-pejal-yang-berjari-jari-r20-cm-bermassa-m2-kg-dilep-457",
+            "question": "sebuah bola pejal yang berjari-jari R=20 cm bermassa m=2 kg dilepas di titik A pada bidang miring kasar tanpa kecepatan awal,berapa energi kinetik rotasi bola ketika mencapai titik B(di ujung)?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "I=2/5mR\u00b2<br><br>EK=Ek rotasi<br>EK=\u00bd I \u03c9\u00b2<br>EK=\u00bd (\u2156 mr\u00b2) (v/r)\u00b2<br>EK=\u2155 m v\u00b2<br>EK=1/5 . 2 . v\u00b2<br>EK=2/5 v\u00b2<br><br>saya dak tau cara nyari V nya berapa. hanya ini yg bisa saya bantu<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span>I=2/5mR\u00b2<br><br>EK=Ek rotasi<br>EK=\u00bd I \u03c9\u00b2<br>EK=\u00bd (\u2156 mr\u00b2) (v/r)\u00b2<br>EK=\u2155 m v\u00b2<br>EK=1/5 . 2 . v\u00b2<br>EK=2/5 v\u00b2<br><br></span><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apa-yang-dimaksud-efek-compton-831",
+            "question": "Apa yang dimaksud efek compton",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>suatu efek yang merupakan bagian interaksi sebuah penyinaran terhadap suatu materi.</span>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

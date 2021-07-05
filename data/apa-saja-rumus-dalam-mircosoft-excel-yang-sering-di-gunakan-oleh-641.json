@@ -1,0 +1,150 @@
+{
+    "question": "Apa saja rumus dalam mircosoft excel yang sering di gunakan oleh seorang Akuntan?",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "SUM , AVERAGE , MAX , biasanya itu,,<br>",
+            "attachments": []
+        },
+        {
+            "answer": "kalo menurut saya<br>rumus sum (penjumlahan)<br>average (rata rata)<br>nilai maz,nilai min,count,if(logika)<br>wah banyak kaka :)<br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "bagaimana-penerapan-php-dalam-web-browser-386",
+            "question": "Bagaimana penerapan PHP dalam web browser",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "digunakan untuk menampilkan web/halaman dinamis, biasanya kalau tidak berbasis php bisa menggunakan JSP\u00a0",
+                    "attachments": []
+                },
+                {
+                    "answer": "cara menjalankannya di web browser<br><br>http://localhost/nama_folder/file.php",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bagaimana-cara-instalasi-rinter-jenis-ip-di-ubuntu-maverick-jel-419",
+            "question": "Bagaimana cara instalasi rinter jenis ip di ubuntu maverick ? jelaskan?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Personalize -&gt; Printer and options -&gt; Ikuti langkah-langkah selanjutnya<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-jelaskan-hierarchy-chomsky-973",
+            "question": "1.\u00a0\u00a0\u00a0\u00a0\u00a0\r\nJelaskan Hierarchy Chomsky",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Hierarchy Chomsky adalah menyusun grammar dalam urutan yang dia sebut tipe 0,1,2,3, dan seterusnya. tipe o adalah bentuk yang paling bebas dan paling sulit dikenali<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "ada-yang-tahu-aplikasi-yang-bagus-dan-simple-untuk-membuat-presen-820",
+            "question": "Ada yang tahu aplikasi yang bagus dan simple untuk membuat presentasi lebih menarik ??",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "aplikasi yang bagus + keren :\u00a0keynote, prezi, atau google presentations",
+                    "attachments": []
+                },
+                {
+                    "answer": "menambahkan gambar gif, buat animasi 3d",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "cara-membuat-cover-novel-keren-dari-coreldraw-814",
+            "question": "Cara membuat cover novel keren dari coreldraw",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "caranya tinggal diedit-edit ajalah",
+                    "attachments": []
+                },
+                {
+                    "answer": "Caranya dengan mendownload gbr yang anda suka, lalu di edit dengan corel draw dengan tool yang ada dan bisa di trim juga. Bisa divariasikan dgn gmbr lain sesuai imajinasi, tambahkan teks dengan text tool",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "berikan-contoh-teori-jarum-hipodermik-beserta-penjelasanya-706",
+            "question": "Berikan contoh teori jarum hipodermik beserta penjelasanya",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "teori peluru ini merupaka konsep awal efek komunikasi masa yang oleh para pakar komunikasi tahun 1970-an dinamakan pula HYPHODERMIC NEEDLY THEORY (teori jarum hipodermik). teori ini ditampilkan tahun 1950-an setelah peristiwa penyiaran kalaidoskop\u00a0 stasiun radio siaran CBS di amerika berjudul = THE INVANSION FROM MARS. <br><br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Teori peluru semoga dapat membantu\u00a0<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentang-microsoft-office-excel-1-pada-setiap-tab-terdapat-sat-751",
+            "question": "Tentang Microsoft Office\u00a0Excel\u00a0    1. pada setiap tab terdapat satu huruf yang digaris bawah. jelaskan fungsi hal tersebut dan berikan 2 contoh penggunaanya ?\r\n\r\n2. perintah apakah yang dapat di gunakan untuk memodifikasi suatu sel? jelaskan langkahnya\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "fungsinya adalah untuk sebagai shortcut, tekan tombol ALT maka setiap objek akan digaris bawahi, tekan tombol yg digaris bawahi dinkeyboard",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "kenapa-sih-windows-7-tidak-bisa-update-otomatis-lagi-ketika-diu-167",
+            "question": "Kenapa sih Windows 7 tidak bisa update otomatis lagi ?    Ketika diupdate, malah gagal.\r\n\r\nSolusi mengatasinya gimana ya ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "lebih baik anda langsung membawanya ke tempat2 yg memang ahli untuk menginstal perangkat anda..krn jika salah program..bisa-bisa file/data2 dalam perangkat anda akan hilang.",
+                    "attachments": []
+                },
+                {
+                    "answer": "coba di cek pengaturan windows update nya, biasanya kalo gitu masalahnya itu karena settingan windows updatenya mati #kayapunyaku :x",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pengertian-jaringan-komputer-462",
+            "question": "Pengertian jaringan komputer",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Jaringan komputer (jaringan) adalah sebuah sistem yang terdiri atas komputer-komputer\n yang didesain untuk dapat berbagi sumber daya (printer, CPU), \nberkomunikasi (surel, pesan instan), dan dapat mengakses \ninformasi(peramban web).<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Jaringan Komputer adalah sebuah sistem/perangkat komputer\u00a0yang memberdayakan berbagai macam perkara teknologi, seperti mencari informasi dan menginput informasi. Okay ? @Liwed",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "teks-percakapan-pemesanan-barang-mealui-telepon-118",
+            "question": "Teks percakapan pemesanan barang mealui telepon",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "A: Halo saya ingin pesan 10 modem<br>B : yang spesifikasinya apa ya pak?<br>A : yang bisa tersambung dengan kabel : FTP dan UTP sekaligus, apabila ada yang bisa tersambung dengan kabel fiber optic maka lebih bagus<br>B : ada pak tapi kita hanya punya 5 dengan merk CISCO<br>A : nomor seri berapa ya<br>B : yang nomor seri nya A5510<br>A : oke saya pesan 5<br>B : baik pak, akan kami emailkan invoicenya dan akan kami kirim barang stelah bapak bayar invoice nya<br>A: oke hari ini saya selesaikan transaksinya\u00a0<br>B : terima kasih pak\u00a0",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

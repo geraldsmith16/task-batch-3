@@ -1,0 +1,140 @@
+{
+    "question": "1.\u00a0\u00a0\u00a0\u00a0\u00a0\r\nJelaskan Hierarchy Chomsky",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "Hierarchy Chomsky adalah menyusun grammar dalam urutan yang dia sebut tipe 0,1,2,3, dan seterusnya. tipe o adalah bentuk yang paling bebas dan paling sulit dikenali<br><br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "mengapa-ilmu-pengetahuan-dan-teknologi-saat-ini-banyak-dikuasai-o-245",
+            "question": "mengapa ilmu pengetahuan dan teknologi saat ini banyak dikuasai oleh umat nonmuslim, padahal al-Quran banyak memerintahkan kaum muslimin mengeksplorasi ilmu pengetahuan dan alam semesta? analisislah hal tersebut dan kemukakan alasannya!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Mungkin karena kebanyakan yang tidak bersungguh sungguh dlam belajar,,,<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apa-yang-kalian-ketahui-tentang-memory-ram-pc-ddr3-sebutkan-se-268",
+            "question": "Apa yang kalian ketahui tentang memory RAM PC DDR3???\r\nSEButkan sejarah singkatnya???",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>DDR3 sudah menggunakan teknologi 90 nm sehingga konsusmsi daya yang diperlukan hanya 1.5v. Ia mampu mentransfer data dengan clock efektif sebesar 800-1600 MHzDDR3 memiliki clock internal 400-800 MHz (Random Access Memory) ditemukan oleh Robert Dennard dan diproduksi secara besar-besaran oleh intel pada tahun 1968</span><br>Sejarah Perkembangan RAM<br><span>1 . DRAMmunculpadatahun 1970,IBMmenciptakansebuahmemori yang dinamakan DRAM(Dynamic Random Access Memory) yang mempunyaifrekuensikerja yang bervariasi,yaituantara 4,77MHz hingga 40MHz</span><span>2 . FPM RAMmunculpadatahun 1987,RAMjenis FPM (Fast Page Mode) merupakan RAM paling kerap digunakan dalam system komputer pada masa itu,FPM bekerja pada rentangfrekuensi 16MHz hingga 66MHz dengan access time sekitar 50ns.selain itu FPM mampumengolah transfer data (bandwith) sebesar 188,71MB/detik, FPM jugadikenalisebagai DRAM (Dynamic Random Access Memory) saja,FPMmenggunakanmodulmemori SIMM 30 pin &amp; SIMM 72 pin</span><span>3 . EDORAMmunculpadatahun 1995,Extended Data Output Dynamic Random Access Memory yang merupakanpenyempurnaandari FPM. EDORAM mempunyai access time sekitar 70ns hingga 50ns &amp;bekerjapadafrekuensi 33MHz hingga 75MHz.</span><span>4. SDRAMmunculpadaperalihan 1996-1997,Synchronous Dynamic Random AccsessMemory,lebihdikenalsebagai PC66 karenabekerjapadafrekuensi bus 66MHz.,tegangan hanya 3,3volt, access time sebesar 10ns &amp;mampumenghantarkan data dengankecepatanmaksimal 55MB/det</span><span>5.\u00a0 RDRAMmunculpadatahun 1999,yangmenggunakanmodulRIMM,transfer data secara serial pada data bus 16-bit,dengan kecepatan 16GB/det.</span><span>6. SDRAM PC 133bekerjapada bus berfrekuensi 133MHz dengan access time sebesar 1,06GB/det.</span><span>7. SDRAM PC 150padatahun 2000 memori PC150 mempunyaiaccsess time 7ns &amp;mampumengalirkan data sebesar 1,28GB/det</span><span>8. DDR-SDRAMpadatahun 2000 menggunakansistem bus denganfrekuensisebesar 100-133MHz</span><span>9. DDR2 SDRAMpadatahun 2004 memilkikelebihan High clock speed 400-800MHz,memiliki 1 keping 2 GB &amp;dipasangkanpada single bank sertamenggunakanteknologikoneksi Ball Grid Array (BGA)</span><span>10. DDR3 2GBpada 2007, memilikibandwithsampaidengan 1600MHz&amp;mampu mentransfer data dengan clock efektif 800-1600MHz.</span>",
+                    "attachments": []
+                },
+                {
+                    "answer": "DDR3 sudah menggunakan teknologi 90 nm sehingga konsusmsi daya yang \ndiperlukan hanya 1.5v. Ia mampu mentransfer data dengan clock efektif \nsebesar 800-1600 MHz. DDR3 memiliki clock internal 400-800 MHz.Prototipe\n dari DDR3 yang memiliki 240 pin. Sejarah: (Random Access Memory) \nditemukan oleh Robert Dennard dan diproduksi secara besar-besaran oleh \nintel pada tahun 1968<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apa-script-yang-digunakan-dalam-php-apabila-dalam-1-form-terdapa-849",
+            "question": "Apa\u00a0script yang digunakan dalam php apabila dalam 1 form terdapat\u00a03 proses logika...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "bisa menggunakan if,,,bisa menggunakan case<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "maaf-mengganggu-saya-mau-tanya-hp-saya-kan-ada-memori-telepon-431",
+            "question": "Maaf mengganggu,\u00a0saya mau tanya    hp saya kan ada memori telepon, sama memori eksternal, nah memori telepon saya terformat waktu lagi di hubung USB ke komputer, kira2 cara ngembali in nya gimana?\r\n\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "saya udah coba recovery itu, tapi ga bisa-bisa.. ya bagaimana lagi, data hilang semua, kecuali kalau datanya di memori eksternal<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "perintah-include-commanconfigphp-adalah-458",
+            "question": "Perintah include (\"comman/config.php\") adalah?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "&lt;? <br>include \"config.php\"; <br>?&gt;<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "ada-yang-tahu-aplikasi-yang-bagus-dan-simple-untuk-membuat-presen-820",
+            "question": "Ada yang tahu aplikasi yang bagus dan simple untuk membuat presentasi lebih menarik ??",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "aplikasi yang bagus + keren :\u00a0keynote, prezi, atau google presentations",
+                    "attachments": []
+                },
+                {
+                    "answer": "menambahkan gambar gif, buat animasi 3d",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apa-yang-dimaksud-dengan-sistem-komputer-484",
+            "question": "Apa yang dimaksud dengan sistem komputer",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Sistem komputer adalah suatu jaringan elektronik yang terdiri dari perangkat lunak dan perangkat keras yang melakukan tugas tertentu (menerima input, memproses input, menyimpan perintah-perintah, dan menyediakan output\n dalam bentuk informasi). Selain itu dapat pula diartikan sebagai \nelemen-elemen yang terkait untuk menjalankan suatu aktivitas dengan \nmenggunakan komputer.<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apa-saja-rumus-dalam-mircosoft-excel-yang-sering-di-gunakan-oleh-641",
+            "question": "Apa saja rumus dalam mircosoft excel yang sering di gunakan oleh seorang Akuntan?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "SUM , AVERAGE , MAX , biasanya itu,,<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "kalo menurut saya<br>rumus sum (penjumlahan)<br>average (rata rata)<br>nilai maz,nilai min,count,if(logika)<br>wah banyak kaka :)<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bagaimana-cara-mengimplementasikan-php-dengan-css-untuk-menampilk-651",
+            "question": "Bagaimana cara mengimplementasikan PHP dengan CSS untuk menampilkan data dari database ?",
+            "attachments": [
+                "question-attachments/bagaimana-cara-mengimplementasikan-php-dengan-css-untuk-menampilk-651-1.docx"
+            ],
+            "answers": [
+                {
+                    "answer": "Pertama ada perbedaan antara PHP dengan CSS, PHP adalah bahasa pemrograman sedangkan CSS adalah pelengkap dalam pemrograman web, yang pada artinya CSS bukan lah bahasa pemrograman itu sendiri.<br><br>PHP degan CSS, artinya PHP di gunakan dalam CSS. yang seharusnya CSS dengan PHP, yang dengan nalar bahasa indonesia yag baik dan benar dapat di artikan bahwa CSS di gunakan untuk PHP.<br><br>penggunaan pengaksesan database menggunakan credential HANYA pada PHP, dengan pengelogikaan sesuai logika masing-masing.<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bagaimanakah-cara-membuat-blog-pribadi-475",
+            "question": "Bagaimanakah cara membuat Blog Pribadi?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "buat email, kunjungiHttp://www.Blogger.com dan ikuti langkah selanjutnya di bloger<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "daftarkan diri anda ke blogger/gmail lalu buatlah dngan mengikuti petunjuk tersebut<br><br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

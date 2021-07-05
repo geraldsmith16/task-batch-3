@@ -1,0 +1,150 @@
+{
+    "question": "1 1 + 3 2 = ??? pke cara\r\n\u00a0 \u00a05 \u00a0 \u00a0\u00a0\u00a0 6\r\n\u00a0\u00a0\u00a0\r\n \u00a0\u00a0",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "1 1/5 + 3 2/6 = 6/5 + 20/6 = 36/30 + 100/30 = 136/30 = 4,53<br>",
+            "attachments": []
+        },
+        {
+            "answer": "pakai cara hitung campuran<br><br>[tex] 1\\frac{1}{5} + 3\\frac{2}{6}  \\\\  \\\\ =  \\frac{6}{5} + \\frac{20}{6}  \\\\   \\\\ = \\frac{36+100}{30} =  \\frac{136}{30} = 4 \\frac{16}{30} = 4 \\frac{8}{15} [/tex]<br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "cara-menggunakan-kpk-1-1416818-2-814-514-3-3035-1214-287",
+            "question": "Cara menggunakan KPK \r\n1. 14/16+8/18=\r\n2. 8/14-5/14=\r\n3 30/35-12/14=\r\n4 8/12-2/10=\r\n.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Jawab:<br>1. 14/18 + 8/18 = 22/18 (KPK penyebut sudah sama jadi bisa langsung dijumlahkan pembilangnya).<br>2. 8/14 - 5/14 = 3/14 (KPK penyebut sudah sama jadi bisa langsung dikurangkan pembilangnya).<br>3. 30/35 - 5/14 = 60/70 - 5/70 = 55/70 : 5/5= 11/70 (bentuk paling sederhana).<br>\u00a0 \u00a0(KPK penyebut belum sama jadi harus disamakan dulu KPK nya:<br>\u00a0 \u00a0 35 = 5 x 7<br>\u00a0 \u00a014 = 2 x 7<br>\u00a0 \u00a0KPK = 2 x 5 x 7 = 70)<br>4. 8/12 - 2/10 = 40/60 - 12/60 = 28/60 : 2/2 = 19/30.<br>\u00a0 \u00a0(KPK penyebut belum sama jadi harus disamakan dulu KPK nya:<br>\u00a0 \u00a0 12 = 2 x 2 x 3 =\u00a0[tex] 2^{2} [/tex] x 3<br>\u00a0 \u00a0 10 = 2 x 5<br>\u00a0 \u00a0 KPK =\u00a0\u00a0[tex] 2^{2} [/tex]\u00a0x 2 x 3 = 60).<br><br><br>semoga bisa membantu ^_^,,,<br>maaf kalau ada kesalahan ^_^,,,<br>jika tidak mengerti, silahkan ditanyakan ^_^,,,",
+                    "attachments": []
+                },
+                {
+                    "answer": "1.\u00a0[tex]\\frac{14}{16}+\\frac{8}{18}[/tex]<br>KPK (16,18)\u00a0= 16x9 = 144<br>[tex]\\frac{14}{16}+\\frac{8}{18}=\\frac{14\\times 9}{144}+\\frac{8\\times 8}{144}=\\frac{126}{144}+\\frac{64}{144}= \\frac{190}{144} [/tex]<br><br>2.<br>[tex] \\frac{8}{14} - \\frac{5}{14}= \\frac{8-5}{14} = \\frac{3}{14}  [/tex]<br><br>3.<br>[tex] \\frac{30}{35}- \\frac{12}{14}= \\frac{6}{7}   - \\frac{6}{7} = 0[/tex]<br><br>4.<br>[tex] \\frac{8}{12}- \\frac{2}{10}= \\frac{2}{3}- \\frac{1}{5}=     \\frac{2\\times 5}{15}- \\frac{1\\times 3}{15} =\\frac{10}{15}- \\frac{ 3}{15}=\\frac{ 7}{15}[/tex]<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "65-p30-tentukan-nilai-p-583",
+            "question": "6:5 = p:30 tentukan nilai P",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "30: 5 = 6<br>6 x 6= 36<br>jawabannya 36<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "6:5=p:30<br>30:5= 6<br>6x6=36<br>jadi p=36",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "mengurutkan-berbagai-macam-pecahan-urutkan-dari-yang-terkecil-1-606",
+            "question": "Mengurutkan berbagai macam pecahan urutkan dari yang terkecil :    1. 0.6 , 35% , 2/3 =\r\n2. 2/5 , 30% , 0.45 =\r\n3. 7/8 , 0.375 , 15% =\r\n4. 80% , 0.75 , 4/8 =\r\n5. 6/10 , 0.56 , 70% =",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1. 35% , 0,6 , 2/3<br>2. 30%, 2/5 , 0,4<br>3. 15%, 0,375 , 7/8 , <br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "himpunan-penyelesaian-dari-2-3-x-5-2-7-x-3-931",
+            "question": "Himpunan penyelesaian dari 2\u00a0(\u00a03\u00a0x\u00a0+\u00a05\u00a0) - 2 (\u00a07 x - 3 ) = x + 7",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "= 6x + 10 - 14x + 6 = x + 7<br>= -8x + 16 \u00a0= x + 7<br>= -8x - x \u00a0= 7 - 16<br>= -9x = -9<br>= x = 1",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "12x-5-gt-15-816",
+            "question": "1/2x + 5 &gt; 15 = ....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1/2x + 5\u00a0&gt; 15<br>semua kalikan 2<br>x + 10 &gt; 30<br>x + 10 - 10 &gt; 30 -10<br>x &gt; 20<br>Jadi penyelesaiannya x &gt; 20",
+                    "attachments": []
+                },
+                {
+                    "answer": "1/2x +5 &gt; 15<br>1/2x \u00a0 \u00a0 \u00a0&gt; 15-5<br>1/2x \u00a0 \u00a0 \u00a0&gt; 10<br>1/2x :1/2&gt; 10 :1/2<br><u></u><br>\u00a0 \u00a0 \u00a0 \u00a0x \u00a0 \u00a0&lt; 20<u></u>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "34-y-38-y-pake-cara-522",
+            "question": "- 3/4 y = -3/8\r\ny=\r\n\u00a0pake cara",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]- \\frac{3y}{4}=  -\\frac{3}{8}  \\\\  \\\\  \\frac{3y}{4}=  \\frac{3}{8}  \\\\  \\\\ 3y.8 = 4.3 \\\\  \\\\ 24y = 12 \\\\  \\\\ y= \\frac{12}{24}  \\\\  \\\\ y= \\frac{1}{2} [/tex]",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span>- 3/4 y = -3/8<br>y = -3/8 : -3/4\u00a0<br>\u00a0 \u00a0= -3/8 x -4/3<br>\u00a0 \u00a0= 12/24<br>\u00a0 \u00a0= 1/2 = 0,5</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-k-235711-tentukan-ahimpunan-bagian-k-yang-mem-547",
+            "question": "diketahui K = { 2,3,5,7,11} tentukan a.himpunan bagian K yang mempunyai dua anggota b.himpunan bagian K yang mempunyai tiga anggota c.himpunan bagian K yang mempunyai empat anggota",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a.) (2,3);(2,5);(2,7);(2,11);(3,5);(3,7);(3,11);(5,7);(5,11);(7,11)<br>b.)(2,3,5);(2,3,7);(2,3,11),(2,5,7);(2,5,11);(2,7,11);(3,5,7);(3,7,11);(5,7,11)<br>c.)(2,3,5,7);(2,3,5,11);(2,5,7,11);(3,5,7,11)<br>Maaf kalau kurang lengkap?!",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "2057-87-83-untuk-test-978",
+            "question": "20+(57-87)-83 =\r\n\r\nuntuk test",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "20 + (57-87) - 83 =<br>Dahulukan yang di dalam kurung<br>57 - 87 = -30<br>20 + -30 - 83 = -93<br>Jadi jawabannya -93",
+                    "attachments": []
+                },
+                {
+                    "answer": "20+(-30)-83 = 20-30-83 = -93 <br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "persegi-panjang-dengan-panjang-sisi-4x-cm-a-tentukan-kelilingnya-973",
+            "question": "Persegi panjang dengan panjang sisi 4x cm    a. Tentukan kelilingnya dinyatakan dengan x\r\nb. Jika kelilingnya kurang dari 64 cm . Susunlah dalam BC kemudian selesaikan\r\nc. Tentukan pengganti x jika variabel pada bilangan 1,2,3,4 dan 5",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "itu persegi panjang atau persegi?<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "yang-bukan-triple-phytagoras-a-6-8-10-b-9-12-15-c-7-24-30-d-115",
+            "question": "Yang bukan triple phytagoras\u00a0\r\na. 6 8 10\r\nb. 9 12 15\r\nc. 7 24 30\r\nd. 8 15 17",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "kayaknya c. 7, 24, 30",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span><strong><em>yang bukan triple phytagoras :</em></strong><br></span><span>c. 7, 24, 30</span><br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

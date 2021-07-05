@@ -1,0 +1,136 @@
+{
+    "question": "Komponen-komponen visual basic dan berikan penjelasannya ?",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "<span>\nVisual\nBasic merupakan salah satu bahasa pemrograman\u00a0\nyang merupakan bagian dari produk pemrograman yang dikeluarkan oleh\nMicrosoft, yaitu Microsoft Visual Studio 2010. Visual Basic 2010 sudah\nmenggunakan Framework berbasis .NET, sehingga anda dapat membuat Console Application, Windows Application, serta Web Application secara mudah dan\nterstruktur.</span>\n<span>\n<br></span>\n\n<span>2.\u00a0\u00a0\u00a0\n</span>Menjalankan Visual Studio 2010\n<span>\nBerikut\nini adalah tahapan \u2013 tahapan dalam membuka aplikasi Visual Studio 2010, beserta\ntahapan dalam membuat sebuah Project Visual Basic 2010.</span>\n<span>\n1.\u00a0\u00a0\u00a0\nKlik tombol Start -&gt; All Program\n-&gt; Microsoft Visual Studio 2010\n-&gt; Microsoft Visual Studio 2010<br></span><span>\n2.\u00a0\u00a0\u00a0\nTunggu beberapa saat sampai keluar tamplian\nsebagai berikut</span>\n<span>\n</span>",
+            "attachments": [
+                "answer-attachments/komponen-komponen-visual-basic-dan-berikan-penjelasannya-154-1.png"
+            ]
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "gimana-cara-membuat-design-coreldraw-145",
+            "question": "Gimana cara membuat design coreldraw ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Cara Membuat Desain Kaos Distro dengan CorelDraw<br><span>1. Buka program coreldraw\u00a0</span><br>2. Buat pola baju / kaos, caranya klik Bezier Tool yang ada di toolbox coreldraw<br>3. Untuk memudahkan membuat pola, gunakan garis bantu, seperti dibawah ini<br><br>\u00a0<br><br><span>4. Supaya garis pola baju melengkung, klik\u00a0</span>Shape Tool<span>\u00a0lalu klik kanan dan pilih\u00a0</span>convert line to curve<span>, seperti dibawah ini\u00a0</span><br><br>\u00a0<br><br><span>5. Dan buat\u00a0</span>garis melengkung<span>\u00a0pada bagian pola kaos yang lain, seperti dibawah ini</span><br><br>\u00a0<br><br><span>6. Buat warna kaos dengan\u00a0</span>Fill Tool<span>, misalnya warna biru seperti ini\u00a0</span><br><br>\u00a0<br><br><span>7. Supaya kaos / t-shirt tidak terkesan kaku, kita akan memberi lipatan pada bagian lengan kanan, caranya masih menggunakan\u00a0</span>Bezier Tool<span>\u00a0seperti dibawah ini dan buat warnanya lebih tua.</span><br><br>\u00a0<br><br>8. Lalu letakkan lipatan yang baru dibuat di sebelah lengan kanan, lihat gambar dibawah ini.<br><br>\u00a0<br><br>9. Lalu buat lagi lipatan kaos untuk diletakkan pada bagian lengan kiri, seperti dibawah ini, langkah membuatnya sama seperti diatas yaitu dengan bezier tool<br><br>\u00a0<br><br>10. Letakkan lipatan kaos yang baru dibuat disebelah lengan kiri<br><br>\u00a0<br><br><span>11. Kita akan membuat kerah kaos dan caranya juga sama yaitu dengan Bezier tool. Untuk membuatnya terlebih dahulu buat persegi panjang, kalau sudah lalu klik\u00a0</span>Shape Tool<span>\u00a0dan lengkungkan garis dengan klik convert line to curve, seperti dibawah ini</span><br><br>\u00a0<br><br><br>12. Lalu letakkan kerah yang sudah jadi seperti dibawah ini<br><br>\u00a0<br><br><span>13. Selanjutnya buat lipatan untuk samping baju seperti pada nomor 7 diatas. Lalu buat variasi misalnya dengan menambah gambar atau teks pada kaos seperti dibawah ini</span><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-jelaskan-hierarchy-chomsky-973",
+            "question": "1.\u00a0\u00a0\u00a0\u00a0\u00a0\r\nJelaskan Hierarchy Chomsky",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Hierarchy Chomsky adalah menyusun grammar dalam urutan yang dia sebut tipe 0,1,2,3, dan seterusnya. tipe o adalah bentuk yang paling bebas dan paling sulit dikenali<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jenis-keyboard-yang-diproduksi-oleh-perusahaan-remington-pada-tah-460",
+            "question": "Jenis keyboard yang diproduksi oleh perusahaan Remington pada tahun 1873 adalah???",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "keyboard QWERTY, diproduksi oleh perusahaan Remington pada 1873 dan digunakan pertama kali pada 1874 pada mesin ketik di USA.<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "jenis keyboard yang diproduksi adalah QWERTY<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "maaf-mengganggu-saya-mau-tanya-hp-saya-kan-ada-memori-telepon-431",
+            "question": "Maaf mengganggu,\u00a0saya mau tanya    hp saya kan ada memori telepon, sama memori eksternal, nah memori telepon saya terformat waktu lagi di hubung USB ke komputer, kira2 cara ngembali in nya gimana?\r\n\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "saya udah coba recovery itu, tapi ga bisa-bisa.. ya bagaimana lagi, data hilang semua, kecuali kalau datanya di memori eksternal<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "perintah-include-commanconfigphp-adalah-458",
+            "question": "Perintah include (\"comman/config.php\") adalah?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "&lt;? <br>include \"config.php\"; <br>?&gt;<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "ada-yang-tahu-aplikasi-yang-bagus-dan-simple-untuk-membuat-presen-820",
+            "question": "Ada yang tahu aplikasi yang bagus dan simple untuk membuat presentasi lebih menarik ??",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "aplikasi yang bagus + keren :\u00a0keynote, prezi, atau google presentations",
+                    "attachments": []
+                },
+                {
+                    "answer": "menambahkan gambar gif, buat animasi 3d",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-jelaskan-hierarchy-chomsky-735",
+            "question": "1.\u00a0\u00a0\u00a0\u00a0\u00a0\r\nJelaskan Hierarchy Chomsky",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>Dalam bidang ilmu komputer, khususnya di bidang bahasa formal, hirarki Chomsky (kadang-kadang disebut sebagai hirarki Chomsky-Schutzenberger) adalah sebuah hirarki penahanan kelas tata bahasa formal. Ini hirarki tata bahasa digambarkan oleh Noam Chomsky pada tahun 1956. [1] Hal ini juga dinamai Marcel-Paul Schutzenberger, yang memainkan peran penting dalam pengembangan teori bahasa formal. The Chomsky Hierarchy, pada dasarnya, memungkinkan kemungkinan bagi pemahaman dan penggunaan model ilmu komputer yang memungkinkan programmer untuk mencapai tujuan linguistik bermakna secara sistematis</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "buat-rumus-microsoft-excel-menentukan-angsuran-dari-pinjaman-deng-155",
+            "question": "buat rumus microsoft excel menentukan angsuran dari pinjaman dengan cicilan per minggu atau per bulan\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "=(average) atau auuto custom",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "aplikasi-converter-yang-bisa-ngubah-format-video-mp4-jadi-format-977",
+            "question": "Aplikasi converter yang bisa ngubah format video mp4 jadi format lain?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "freemake video converter<br>gom converter",
+                    "attachments": []
+                },
+                {
+                    "answer": "software total\u00a0video converter",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "buat-halaman-html-untuk-menampilkan-aplikasi-program-tiket-pesawa-977",
+            "question": "Buat halaman html untuk menampilkan aplikasi program tiket pesawat dengan menggunakan javascript",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Program osTicket,Bisa Di Download Penginstallan Nya Juga Mudah<br>Bisa Di Download Lewat\u00a0osticket.com/download",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

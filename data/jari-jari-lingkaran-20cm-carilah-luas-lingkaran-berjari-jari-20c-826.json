@@ -1,0 +1,136 @@
+{
+    "question": "Jari-jari lingkaran 20cm. carilah luas lingkaran berjari-jari 20cm . jwabn apa ya ?",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "luas :<br>3,14 x 20x20 =1256<br>",
+            "attachments": []
+        },
+        {
+            "answer": "L = 3,14 x 20 x 20<br>\u00a0\u00a0 = 3,14 x 400<br>\u00a0\u00a0 =1256<br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "sebuah-segitiga-sama-kaki-memiliki-panjang-sisi-yang-sama-dengan-835",
+            "question": "Sebuah segitiga sama kaki memiliki panjang sisi yang sama dengan 5 kali panjang sisi lainnya. Agar keliling segitiga tersebut lebih besar dari 50 m, berapakah panjang masing-masing sisi segitiga tersebut?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "5x+x+x&gt;50<br>7x&gt;50<br>x&gt;50/7 sisi(1) dan (2)<br>x&gt;250/7 sisi alas (3)<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "perbaikan-jalan-akan-selesai-dikerjakan-dalam-waktu-3-bulan-1-b-335",
+            "question": "Perbaikan jalan akan selesai dikerjakan dalam waktu 3 bulan ( 1 bulan=30 hari),jika dikerjakan oleh 16 orang tenaga.setiap hari minggu (1 bulan ada 5 hari minggu) buruh libur bekerja.Berapa orang buruh pekerja yang harus ditambah agar jalan tersebut tetap selesai tepat waktu ?    make caranya ya,nanti aku jadikan solusi terbaik :)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "waktu (hari)\u00a0 \u00a0 \u00a0 \u00a0  pekerja<br>90\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 16<br>75\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 16 + x<br><u><br></u>90/75\u00a0 =16+x/16<br>(75 x 16) + 75x = 90 x 16<br>1200 + 75x = 1440<br>75x =240<br>x = 3.2 orang (3 orang)<br><br>menurut saya sih kayak gini ya. maaf kalo salah.<br><u></u>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "yusuf-menabung-uang-di-bank-sebesar-rp-200000000-dengan-bunga-787",
+            "question": "yusuf menabung uang di bank sebesar rp 2.000.000.00 dengan bunga 7% setiap tahun.setelah diambil uangnya menjadi rp 2.105.000.00 setelah berapa bulan yusuf menabung di bank ... bulan",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Besar bunga = waktu / 12 bulan x persen bunga x uang awal<br>105.000 = w / 12 x 7 / 100 x 2.000.000<br>w = 105.000 x 12 x 100 / 7 x 2.000.000<br>w = 15000 x 12 x 100 / 2.000.000<br>w = 180.000 / 20.000<br>w = 9 bulan",
+                    "attachments": []
+                },
+                {
+                    "answer": "jika setahun maka yusuf akan mendapat 140.000<br>sedangkan jika sebulan yusuf akan mendapat 11.666<br>berarti jika yusuf mendapat bunga sebesar 105.000, artinya lama yusuf menabung di bank adalah 9 bulan",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-suatu-barisan-geometri-memiliki-suku-pertama-3-dan-rasio-4-a-209",
+            "question": "1. Suatu barisan geometri memiliki suku pertama 3 dan rasio 4. a. tuliskan barisan geometri tsb. b. tuliskan deret geometri tsb. 2. Tentukanlah jumlah setiap deret geometri berikut. a. 2+6+18+54+162+...+U7 b. 3+15+75+...+U6 c. 1+4+16+64+...+U7 d. 5+10+20+40+80+...+U8 e. 1/4+1/2+1+2+...+U10",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1.a 3, 12, 48,.....<br>\u00a0 \u00a0b. 3 + 15+ 63,......<br>2. a.s7= 1886<br>\u00a0 \u00a0 b. s6=57318<br>\u00a0 \u00a0c. s7=21845<br>\u00a0 d. s8=1275<br>e. s10=255,75",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-tenda-yang-terbuat-dari-kain-parasut-berbentuk-limas-denga-831",
+            "question": "Sebuah tenda yang terbuat dari kain parasut berbentuk limas dengan alas persegi jika panjang sisi alas nya 100 cm dan tinggi limas 120 cm maka hitunglah\u00a0    a.luas kain yang diperlukan utk membuat 1 tenda\r\nb.besar biaya yg di perlukan membuat 3 tenda yg sama jika harga 1 m2 kain adlah Rp.50.000\r\ntolong plise",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]<br>a.\\ L_{permukaan\\ limas}=L_{alas}+4L_{sisi\\ tegak}\\\\<br>L_{permukaan\\ limas}=100(100)+4\\frac{(100)(130)}{2}\\\\<br>L_{permukaan\\ limas}=10000+26000\\\\<br>L_{permukaan\\ limas}=36000\\ cm^2\\\\<br>L_{permukaan\\ limas}=3,6\\ m^2\\\\<br><br>b.\\ 3(3,6)(Rp50.000)=Rp140.000,00<br>[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-harga-sepasang-sepatu-dua-kali-harga-sandal-seorang-pe-782",
+            "question": "diketahui harga sepasang sepatu dua kali harga sandal. seorang pedagang membeli 4 pasang sepatu dan 3 pasang sandal.pedagang tersebut harus membayar Rp.275.000,00. A.buat model matematika? B.tentukan harga 3 pasang sepatu dan 5 pasang sandal! tolong di bantu....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "A. Harga sepatu = x<br>\u00a0\u00a0 \u00a0  harga sandal = y<br>x=2y<br>4x+3y=275000<br>B. 3x+5y= 3.2y+5y<br>\u00a0\u00a0 \u00a0 \u00a0 =11y<br>=11.53000=\u00a0 hitung sendiri<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sederhanakan-dan-tuliskan-dalam-bentuk-pangkat-positif-a-2x-pang-775",
+            "question": "Sederhanakan dan tuliskan dalam bentuk pangkat positif    a. 2x pangkat -1 + y pangkat -2\r\n b. a1/5b1/6 per 2ab pangkat 2",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>2x^-1 + y^-2<br>=<br>1/</span><span>(2x^1) + 1/(y^2)</span><br>=<br>y\u00b2/2xy\u00b2 + 2x/2xy\u00b2........................... samakan penyebutnya<br>=<br>(y\u00b2+2x)/2xy\u00b2<br><br><br>soalny yang b gak jelas<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bilangan-terkecil-manakah-yang-harus-di-kurangkan-dari-549-162-a-738",
+            "question": "bilangan terkecil manakah yang harus di kurangkan dari 549, 162 agar dapat menjadikannya bilangan kuadrat?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "20,162<br><br><br>gugun764yeahhhh<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pak-dani-akan-mengecat-bangunan-yang-seperti-gambar-biaya-setia-818",
+            "question": "pak Dani akan mengecat bangunan yang seperti gambar.. Biaya setiap m2 adalah 20.000,00 . berapa biaya seluruh nya ?",
+            "attachments": [
+                "question-attachments/pak-dani-akan-mengecat-bangunan-yang-seperti-gambar-biaya-setia-818-1.png"
+            ],
+            "answers": [
+                {
+                    "answer": "jumlah biaya seluruhnya\u00a01560000",
+                    "attachments": []
+                },
+                {
+                    "answer": "13 m2 + 5 m2 + 4 m2 = 19 m2<br>19 \u00d7 20.000 = Rp 380.000<br><br>Jadi,biaya yang di butuhkan membiayai orang tersebut adalah Rp 380.000<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bagaimana-mencari-segi-empat-tali-busur-102",
+            "question": "Bagaimana mencari segi empat tali busur?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Mencari Luas Segiempat Talibusur menggunakan Rumus\u00a0Brahmagupta\n\t\n\t\t<span>Sekitar abad ke tujuh Masehi, dalam Geometri Euclidean,\u00a0 Brahmagupta,\n seorang matematikawan asal India menemukan Rumus untuk mencari luas \nsegiempat talibusur yang telah diketahui panjang sisi-sisinya dan \nbeberapa sudutnya.</span>\n\n\nRumus Umum:\n<span>Jika diketahui segiempat talibusur memiliki sisi-sisi , , , dan  serta setengah keliling , maka luas segiempat tali busur  dapat dinyatakan dengan</span>\n\n<span>.</span>\nBukti:\n<span>Salah satu metode sederhana untuk membuktikannya adalah dengan memanfaatkan trigonometri. Misalkan dalam segiempat talibusur  (Lihat ilustrasi berikut)<span>, </span>merupakan titik sudut antara  dan , , merupakan titik sudut antara  dengan , dan  merupakan diagonal yang menghubungkan kedua sudut yang lain.</span>\n\n<span>Karena , diperoleh:</span>\n<span> dan </span>\n<span>Dengan menggunakan Aturan Cosinus,</span>\n\n\u00a0 yang mana dapat diperoleh:\n\nPerhatikan pula bahwa Luas segiempat talibusur:\n<span>,</span>\ndari sini kita juga memperoleh:\n<span>Dengan mengkuadratkan  dan  kemudian dijumlahkan, akan diperoleh</span>\n\nyang dapat disederhanakan menjadi\n<span>Tentunya kita sudah tahu bahwa . dengan mengaplikasikan identitas ini berkali-kali akan diperoleh:</span>\n<span>Dimana </span>\nBagi dengan 16, kemudian ambil akar kuadrat dari masing-masing ruas diperoleh :\n<span>Bentuk spesial rumus ini adalah saat  yang mengakibatkan segiempat talibusur ini merupakan suatu segitiga yang memiliki sisi-sisi , , , dan setengah keliling , dengan luas:</span>\n<span>yang terkenal dengan nama Rumus Heron.</span>\nRumus Brahmagupta sendiri dapat diperluas untuk segiempat yang bukan merupakan segiempat talibusur\n<span>di mana  merupakan jumlah dua buah sudut yang berlawanan. Pada segiempat talibusur, karena jumlah kedua sudut yang berlawanan , maka .</span><br><br><br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

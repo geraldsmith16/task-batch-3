@@ -1,0 +1,136 @@
+{
+    "question": "Sebuah pipa berbentuk pipa U berisi air dan minyak. Tinggi kolom minyak 20 cm dan tinggi kolom air 10 cm. Jika massa jenis air 1.000 kg/m3, maka hitunglah massa jenis minyak!",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "Massa jenis air = row1<br>massa jenis minyak = row 2<br>Tinggi air = A1<br>Tinggi minyak = A2<br><br>Row 2/A2 = Row 1/A1<br>Row 2/20 cm = 1000kg.m3/10cm<br>Row 2/ 0.2 m = 1000kg.m3/0.1 m<br>Row 2 = 1000kg.m3/0.1 m * 0.2 m<br><br>Row 2 =\u00a0 2000kg.M3<br><br>NB : / itu per<br><br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "buatkan-dua-contoh-dari-bilangan-kuantum-orbital-dari-metode-bohr-195",
+            "question": "Buatkan dua contoh dari bilangan kuantum orbital dari metode bohr!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "dalam file word aja ya :) biar lebih mudah kamu mempelajarinnya :)<br>",
+                    "attachments": [
+                        "answer-attachments/buatkan-dua-contoh-dari-bilangan-kuantum-orbital-dari-metode-bohr-195-1.docx"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "plis-siapa-yang-bisa-tolong-bantu-sebuah-tongkat-menyodok-bola-605",
+            "question": "Plis siapa yang bisa tolong bantu.\u00a0    sebuah tongkat menyodok bola biliard dengan gaya 80N selama selang waktu 0,5 sekon. jika massa bola adalah 200 gram. tentukan kelajuan bola sesaat setelah disodok.\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "I = momentum akhir - momentum awal <br>I = m.v - 0 ( karena kecepatan awal 0 ) <br>F.\u0394t = m.v <br>80 x 0.5=0,2 x v ( ingat semua harus diubah ke kg m sekon ) <br>v = 200m/s <br>mohon maaf kalau ada salah , semoga jawaban saya membantu<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-roda-pejal-massanya-45-kg-dengan-jari-jari-15-m-berada-p-988",
+            "question": "sebuah roda pejal massanya 4,5 kg dengan jari-jari 1,5 m berada pada lantai kasar melalui sumbunya roda tersebut ditarik dengan gaya 20N, sehingga roda menggelinding pada arah mendatar pada saat 15s tentukan energi kinetik totalnya?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "900 kah jawabnnya ???",
+                    "attachments": []
+                },
+                {
+                    "answer": "energi kinetik total dari sebuah roda pejal yaitu 900",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-benda-yang-massanya-100-kg-digantung-pada-suatu-kawat-yang-379",
+            "question": "sebuah benda yang massanya 100 kg digantung pada suatu kawat yang dapat memikul beban maksimal sebesar 15000 N. jika g= 9,8 m/s^2 berapa nilai maksimum percepatan ke atas yang dapat diberikan kepada benda itu?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "mungkin 14700000 J..<br>Maaf klo slah..<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-balok-terapung-diatas-permukaan-air-volume-balok-yg-muncu-254",
+            "question": "sebuah balok terapung diatas permukaan air. volume balok yg muncul diatas permukaan air 100 cm\u00b3 dan massa jenis balok 0,75g/cm\u00b3 jika p air 1 g/cm\u00b3 hitunglah massa balok seluruhnya...???",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Dik vb=vc\u00a0 = 100 cm^3<br>\u00a0 \u00a0 \u00a0 Rho balok = 0,75 g/cm^3<br>\u00a0 \u00a0 \u00a0 rho cair = 1 g/cm^3<br>dit m balok seluruhnya ?<br>jawab.<br><br>Fa = rho cair.volume cair . g<br>\u00a0 \u00a0 \u00a0= 1 . 100. 10<br>\u00a0 \u00a0 \u00a0= 1000 N<br><br>Fa = wb = mb . g \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 mb2 = rho benda . v<br>\u00a01000 \u00a0= mb . 10 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 0,75 . 100<br>mb1 = 1000 / 10 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 75 gr<br>\u00a0 \u00a0 \u00a0= 100 gr<br>\u00a0<br>m total = 100 + 75 = 175 gr",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-tiga-buah-pegas-dua-disusun-paralel-dengan-konstanta-1-771",
+            "question": "Diketahui tiga buah pegas. Dua disusun paralel dengan konstanta 100 n/m. Dan satu disuaun dengan seri dengan konstanta 200n/m. Susunan pegas dipengaruhi oleh beban, sehingga mengalami pertambahan 5cm. Jika pertambahan panjang pegas 1 dan 2 sama, maka berapakah: a) konstanta gaya total penyusunnya. b) massa beban jika g= 10 m/s",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a) rangkaian paralel ==&gt; kp = 100 + 100 = 200 N/m<br>\u00a0\u00a0 kp diseri dengan k3 = 200 ===&gt; 1/ks = 1/200 + 1/200 <br>\u00a0\u00a0 1/ks = 2/200 ===&gt; 1/ks = 1/100 ==&gt; ks = 100 N/m<br>\u00a0\u00a0 Jadi knstanta gaya total = 100 N/m<br>b) dik : \u0394x = 5 cm = 0,05 m\u00a0 \u00a0 ; k total = 100 N/m <br>F = k \u0394x <br>m . g = k . \u0394x ---&gt; m . 10 = 100 . 0,05 ----&gt; m = 0,5 kg <br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span>a) rangkaian paralel ==&gt; kp = 100 + 100 = 200 N/m<br>\u00a0\u00a0 kp diseri dengan k3 = 200 ===&gt; 1/ks = 1/200 + 1/200 <br>\u00a0\u00a0 1/ks = 2/200 ===&gt; 1/ks = 1/100 ==&gt; ks = 100 N/m<br>\u00a0\u00a0 Jadi knstanta gaya total = 100 N/m<br>b) dik : \u0394x = 5 cm = 0,05 m\u00a0 \u00a0 ; k total = 100 N/m <br>F = k \u0394x <br>m . g = k . \u0394x ---&gt; m . 10 = 100 . 0,05 ----&gt; m = 0,5 kg </span><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "modulus-elastisitas-alumunium-7x10-pangkat-10-nm2-jika-kawat-a-176",
+            "question": "modulus elastisitas alumunium 7x10 pangkat 10 n/m\u00b2. jika kawat alumunium berdiameter 1,5 mm dan panjang 50 cm direnggangkan 10 mm. hitunglah gaya yg di kerjakan pd kawat tsb",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "E = F kali\u00a0panjang mula-mula dibagi A (luas penampang) kali delta l (pertambahan panjang)<br>tuh<br>rumusnya, cari ayo :D",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-mobil-bermassa-500-kg-bergerak-di-jalan-lurus-dengan-kelaj-911",
+            "question": "Sebuah mobil bermassa 500 kg bergerak di jalan lurus dengan kelajuan 72 km/jam. Karena mendekati traffic light yang menyala merah, mobil direm dengan gaya sebesar 10.000 N hingga berhenti. Hitunglah :    a. usaha yang dilakaukan oleh gaya pengereman\r\nb. perpindahan truk dari saat pengereman sampai berhenti.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "72 km/h = 20 m/s<br>W = f.s<br>W = E.K<br>W = 1/2 m.v\u00b2<br>1/2\u00b7500\u00b720\u00b2 = 10.000s<br>100.000 = 10.000s<br>s = 100.000/10.000<br><strong>s = 10 m</strong><br>usaha yang dilakukan gaya pengereman = 100.000 joule",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "faktor-yang-mempengaruhi-elastisitas-sebuah-benda-479",
+            "question": "Faktor yang mempengaruhi elastisitas sebuah benda",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "sifat fisik yang utama adalah karena dipengaruhi oleh struktur penyusunnya<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "mengapa-air-laut-bsa-menimbulkan-bencana-alam-yaitu-sunami-apakah-667",
+            "question": "Mengapa air laut bsa menimbulkan bencana alam yaitu sunami apakah yg terjadi didlm air laut???",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "tsunami terjadi karena gempa dan getaran dahsyat yang terjadi di dasar laut sehingga gelombang laut menjadi tidak terkendali sehingga menimbulkan bencana tsunami<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "terjadinya gempa didalam laut yang di akibatkan pergeseran lempengan bumi, sehingga air laut menjadi ombak yang begitu besar",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

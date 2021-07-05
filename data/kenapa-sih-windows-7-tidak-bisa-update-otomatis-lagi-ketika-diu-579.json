@@ -1,0 +1,137 @@
+{
+    "question": "Kenapa sih Windows 7 tidak bisa update otomatis lagi ?    Ketika diupdate, malah gagal.\r\n\r\nSolusi mengatasinya gimana ya ?",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "ori gk? sejak kapan?",
+            "attachments": []
+        },
+        {
+            "answer": "virusnya udah numpuk X , hixhixhix ,\u00a0mungkin bisa juga kendala dari jaringan ketika nge update...!",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "perintah-include-commanconfigphp-adalah-458",
+            "question": "Perintah include (\"comman/config.php\") adalah?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "&lt;? <br>include \"config.php\"; <br>?&gt;<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bagaimana-cara-mengkoneksikan-antara-desain-web-php-dengan-databa-616",
+            "question": "Bagaimana cara mengkoneksikan antara desain web PHP dengan Databases Mysql",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "bila kamu memakai Dreamweaver harus membuat site definition dahulu, agar database kamu connect dengan php<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jawablah-soal-soal-ini-1-sistem-operasi-berbasis-teks-terdapat-p-316",
+            "question": "Jawablah Soal Soal ini    1. Sistem operasi berbasis teks terdapat pada ....\r\n\u00a0\u00a0 a. Novell\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 d. Microsoft Windows\r\n\u00a0\u00a0 b. Ms DOS\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 e. Apple Machintos\r\n\u00a0\u00a0 c. Linux\r\n2. Lapisan abstrak yang terdapat diantara brainware dan hardware adalah ...\r\n\u00a0\u00a0 a. CPU\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 d. software\r\n\u00a0\u00a0 b. RAM\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 e. perangkat keras\r\n\u00a0\u00a0 c. user\r\n3. Sistem operasi yang bersifat multiuser dan multitasking adalah ....\r\n\u00a0\u00a0 a. MS-DOS\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 d. Windows\r\n\u00a0\u00a0 b. PC-DOS\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 e. Prolog\r\n\u00a0\u00a0 c. Turbo Pascal\r\n4. Berikut merupakan sistem operasi berbasis grafis adalah ....\r\n\u00a0\u00a0 a. HP/UX\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 d. UNIX\r\n\u00a0\u00a0 b. MS-DOS\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 e. Linux\r\n\u00a0\u00a0 c. Free BSD\r\n6. Dalam Perkembangan sistem operasi di mulai dari program ... dan dikembangkan\u00a0 \u00a0 menjadi\u00a0 program berorientasi ....\r\n\u00a0\u00a0 a.\u00a0 DOS, GUI\r\n\u00a0\u00a0 b. GUI, DOS\r\n\u00a0\u00a0 c. IBM, DOS\r\n\u00a0\u00a0 d. DOS, UNIX\r\n\u00a0\u00a0 e. Linux, Windows\r\n7. Tampilan Control Panel untuk mengatur waktu dan Tanggal adalah ....\r\n\u00a0\u00a0 a. Accesibility Options\r\n\u00a0\u00a0 b. Printers and Other Hardware\r\n\u00a0\u00a0 c. Date, Time, Language, and Regional Options\r\n\u00a0\u00a0 d. Appearance and Themes\r\n\u00a0\u00a0 e. User Accounts\r\n8. Tampilan BIOS yang di gunakan untuk mengatur power komputer adalah ....\r\n\u00a0\u00a0 a. Set User Password\r\n\u00a0\u00a0 b. Integrated Peripheral\r\n\u00a0\u00a0 c. PnP/PCI Configurations\r\n\u00a0\u00a0 d. Power Management Setup\r\n\u00a0\u00a0 e. H/W Monitor\r\n9. Sistem operasi yang di buat oleh Linus Torvalds adalah ....\r\n\u00a0\u00a0 a. DOS\r\n\u00a0\u00a0 b. Windows\r\n\u00a0\u00a0 c. UNIX\r\n\u00a0\u00a0 d. Linux\r\n\u00a0\u00a0 e. Google\r\n10. Salah satu sifat yang dimiliki Windows adalah multitasking yang berarti ...\r\n\u00a0\u00a0 a. digunakan oleh banyak user\r\n\u00a0\u00a0 b. dilakukan oleh banyak komputer\r\n\u00a0\u00a0 c. digunakan oleh banyak workstations\r\n\u00a0\u00a0 d. digunakan untuk melakukan banyak tugas\r\n\u00a0\u00a0 e. digunakan untuk mengirim e-mail\r\n11. Berikut contoh dari sistem operasi yang bersifat open source dan berbasis teks, kecuali \r\n\u00a0\u00a0 a. Suse\r\n\u00a0\u00a0 b. MS-DOS\r\n\u00a0\u00a0 c. Mandrake\r\n\u00a0\u00a0 d. RedHat\r\n\u00a0\u00a0 e. Knoppix\r\n12. Linux merupakan varian dari sistem operasi ....\r\n\u00a0\u00a0 a. Windows\r\n\u00a0\u00a0 b. C/PM-86\r\n\u00a0\u00a0 c. UNIX\r\n\u00a0\u00a0 d. MS-DOS\r\n\u00a0\u00a0 e. Mac OS\r\n13. Dalam BIOS kita dapat mengatur sistem waktu, yaitu pada Bagian ....\r\n\u00a0\u00a0 a. System Time\r\n\u00a0\u00a0 b. System date\r\n\u00a0\u00a0 c. Legacy diskette\r\n\u00a0\u00a0 d. Primary master\r\n\u00a0\u00a0 e. Secondary master\r\n14. Bahasa yang di gunakan di seting BIOS tersebut adalah ....\r\n\u00a0\u00a0 a. Bahasa Indonesia\u00a0 \u00a0 \u00a0 d. Bahasa Belanda\r\n\u00a0\u00a0 b. Bahasa Inggris\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 e. Bahasa Rusia\r\n\u00a0\u00a0 c. Bahasa Spanyol\r\n15. Dari setting BIOS tersebut, status tidak ada permintaan password disebut ....\r\n\u00a0\u00a0 a. Yes\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 d. Disabled\r\n\u00a0\u00a0 b. No\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 e. None\r\n\u00a0\u00a0 c. Enabled\r\n\r\ndan satu soal lagi \r\n4. Apa Saja produk sistem operasi dari perusahaan Microsoft?\r\n\u00a0\u00a0 Jawabannya:\r\n\u00a0\u00a0 \r\n\r\ntolong tolong Jawablah secepat cepat mungkin karena ini sangat penting",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "urut dari no 1-selesai<br>bddeacddddcbbe<br>produk OS window win98,winME,win2000,winXP,win7,win8<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "berikan-contoh-teori-jarum-hipodermik-beserta-penjelasanya-706",
+            "question": "Berikan contoh teori jarum hipodermik beserta penjelasanya",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "teori peluru ini merupaka konsep awal efek komunikasi masa yang oleh para pakar komunikasi tahun 1970-an dinamakan pula HYPHODERMIC NEEDLY THEORY (teori jarum hipodermik). teori ini ditampilkan tahun 1950-an setelah peristiwa penyiaran kalaidoskop\u00a0 stasiun radio siaran CBS di amerika berjudul = THE INVANSION FROM MARS. <br><br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Teori peluru semoga dapat membantu\u00a0<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-jelaskan-hierarchy-chomsky-973",
+            "question": "1.\u00a0\u00a0\u00a0\u00a0\u00a0\r\nJelaskan Hierarchy Chomsky",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Hierarchy Chomsky adalah menyusun grammar dalam urutan yang dia sebut tipe 0,1,2,3, dan seterusnya. tipe o adalah bentuk yang paling bebas dan paling sulit dikenali<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "contoh-skripsi-bab-1-teknik-informatika-132",
+            "question": "Contoh skripsi bab 1 teknik informatika",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "bagaimana maksud kamu ?",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "minta-saran-nih-disuruh-buat-logo-untuk-goodie-bag-dari-inkscape-755",
+            "question": "minta saran nih, disuruh buat logo untuk goodie bag dari inkscape. Mau minta contoh gambar yang bagus buat dijadiin logo doong, makasiih :)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "semoga membantu dan bermanfaat",
+                    "attachments": [
+                        "answer-attachments/minta-saran-nih-disuruh-buat-logo-untuk-goodie-bag-dari-inkscape-755-1.jpg",
+                        "answer-attachments/minta-saran-nih-disuruh-buat-logo-untuk-goodie-bag-dari-inkscape-755-2.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "saya-butuh-contoh-dan-spesifikasi-dari-teknologi-terbaru-seperti-764",
+            "question": "Saya butuh contoh dan spesifikasi dari teknologi terbaru seperti smartphone, tablet, dll\u00a0yang paling canggih,modern,tapi harganya terjangkau.    Yoroshiku Onegaishimasu ! Buat tugas jurnalistik.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "SAMSUNG GALAXY GRAND<br>Samsung memperkenalkan smartphone terbarunya Samsung Galaxy Grand yang hadir dengan layar sentuh berukuran 5 inci. Dibekali dengan prosesor Dual-core 1.2 GHz serta memori RAM 1 GB untuk kemudahan melakukan berbagai pekerjaan dan hiburan multimedia. Samsung Galaxy Grand mendukung jaringan HSDPA 21 Mbps dan Wi-Fi untuk berinternet dengan cepat, serta Bluetooth v4.0 untuk terhubung dengan berbagai perangkat Bluetooth.<span><br>Kamera Resolusi Tinggi<br>Samsung Galaxy Grand dilengkapi dengan kamera depan beresolusi 8 MP yang mampu menangkap gambar resolusi tinggi untuk foto dan video. Anda dapat merekam video dengan kualitas Full HD beresolusi 1920 x 1080 pada 30 fps. Dengan kemampuan mengatur resolusi pada kamera ini sehingga memudahkan penyesuaian jumlah kapasitas pemakaian untuk setiap file video. Kamera belakang dilengkapi dengan LED flash yang mampu memberi penerangan ketika Anda melakukan pengambilan gambar pada situasi minim cahaya. Selain kamera belakang, terdapat kamera depan beresolusi 2 MP yang dapat Anda gunakan untuk melakukan panggilan video atau sekedar memotret foto sendiri.<br><br>Fitur Tambahan<br>Samsung Galaxy Grand dilengkapi dengan fitur Auto Focus, Geo-tagging, Touch Focus serta Face Detection. Selain itu terdapat fitur image stabilizer dan smile detector yang membantu Anda menangkap gambar dengan baik. Aplikasi image editor pada smartphone ini membantu memperkaya hasil jepretan foto Anda yang kemudian bisa Anda pamerkan kepada teman atau keluarga Anda melalui media jejaring sosial.</span><span>Baterai<br>Untuk mendukung penggunaan, Samsung Galaxy Grand dilengkapi dengan baterai Lithium-Ion berkapasitas 2100 mAh. Baterai dapat bertahan seharian dengan penggunaan yang normal untuk mendengarkan musik, menonton video atau mengambil gambar.<br><br>Layar Sentuh 5 Inci<br>Samsung Galaxy Grand dilengkapi dengan layar sentuh berukuran 5 inci yang memiliki resolusi 480 x 800 piksel. Dengan kedalaman 16 juta warna, pastinya membuat tampilan layar menjadi cerah dan nyaman dilihat. Mendukung kemampuan multi-touch yang memudahkan dan mengoptimalkan pengoperasian di lingkungan sistem operasi Android.<br><br>Penyimpanan &amp; Konektivitas<br>Samsung Galaxy Grand memiliki kapasitas penyimpanan internal sebesar 8 GB yang dapat Anda perluas menggunakan kartu microSD hingga 64 GB. Smartphone ini mendukung koneksi internet 2G dan 3G serta Wi-Fi yang memudahkan Anda memilih koneksi. Terdapat A-GPS dan GLONASS yang dapat Anda padukan dengan Google Maps untuk memandu arah ketika berada di suatu lokasi.</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "ada-yang-tahu-aplikasi-yang-bagus-dan-simple-untuk-membuat-presen-820",
+            "question": "Ada yang tahu aplikasi yang bagus dan simple untuk membuat presentasi lebih menarik ??",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "aplikasi yang bagus + keren :\u00a0keynote, prezi, atau google presentations",
+                    "attachments": []
+                },
+                {
+                    "answer": "menambahkan gambar gif, buat animasi 3d",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "buat-rumus-microsoft-excel-menentukan-angsuran-dari-pinjaman-deng-155",
+            "question": "buat rumus microsoft excel menentukan angsuran dari pinjaman dengan cicilan per minggu atau per bulan\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "=(average) atau auuto custom",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

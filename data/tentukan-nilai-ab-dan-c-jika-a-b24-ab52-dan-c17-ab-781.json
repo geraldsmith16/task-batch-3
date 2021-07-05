@@ -1,0 +1,154 @@
+{
+    "question": "Tentukan nilai a,b, dan c jika a-b=24; a:b=5:2; dan c=1/7 (a+b)",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "[tex]a-b=24 \\\\  \\frac{a}{b}= \\frac{5}{2}   \\\\ 5-2=3 \\\\ a= \\frac{5}{3}.24=40 \\\\ b= \\frac{2}{3}.24=16 \\\\ c= \\frac{1}{7}.(a+b) \\\\ c=   \\frac{1}{7}.(40+16)=8[/tex]",
+            "attachments": []
+        },
+        {
+            "answer": "a-b = 24<br>a:b = 5:2<br>maka :<br>5x - 2x = 24<br>3x = 24<br>x = 8<br><br>maka a= 5x=5.8 = 40<br>dan b = 2x=2.8 = 16<br><br>c= 1/7 .(a+b) = 1/7 . (40+16) = 1/7 . 56 = 8 :)<br><br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "perbandingan-ab-berbalik-nilai-dengan-208jika-nilai-a2maka-n-766",
+            "question": "Perbandingan a:b berbalik nilai dengan 20:8.Jika nilai a=2,maka nilai b=",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Jika a\u00a0:\u00a0b berbalik nilai dengan 20\u00a0:\u00a08<br>maka, a : b = 8 : 20<br><br>Jika a = 2<br>maka, b = (20/8) x 2<br>b =\u00a05",
+                    "attachments": []
+                },
+                {
+                    "answer": "a/b=8/20<br>2/b=8/20<br>8b=40<br>b=40/8<br>b= 5",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sederhanakanlah-bentuk-akar-tersebut-53-1212-974",
+            "question": "Sederhanakanlah bentuk akar tersebut! 5\u221a3-12\u221a12=",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "5\u221a3 - 12\u00a0\u221a 3 . 4<br>5\u221a3 - 12 . 2\u00a0\u221a3<br>5\u221a3 - 24\u00a0\u221a3<br>- 19\u00a0\u221a3",
+                    "attachments": []
+                },
+                {
+                    "answer": "[tex]5 \\sqrt{3} -12 \\sqrt{12} = 5 \\sqrt{3} -12 \\sqrt{4.3} = 5 \\sqrt{3} -12.2 \\sqrt{3} \\\\ 5 \\sqrt{3} -24 \\sqrt{3}=(5-24) \\sqrt{3} = -19 \\sqrt{3} [/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-pesawat-mula-mula-terbang-pada-ketinggian-3500-kaki-di-at-573",
+            "question": "sebuah pesawat mula-mula terbang pada ketinggian 3.500 kaki di atas permukaan laut. karena gumpalan awan, pesawat terbang naik sampai ketinggian 8.000 kaki. tentukan posisi pesawat dengan penjumlahan bilangan bulat !",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "8000 + (-3500) = 4500",
+                    "attachments": []
+                },
+                {
+                    "answer": "3500 + n = 8000<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0n = 8000 - 3500<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0n = 4500 m<br>Jadi kenaikan pesawat 4500 m<br>atau<br>0+3500 m + n = 8000<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0n = 8000-0-3500<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0n = 4500\u00a0m<br>0 meter = posisi pesawat saat belum terbang\u00a0<br>3500 meter = posisi pesawat ketika terbang<br>8000 meter = posisi kenaikan pesawat",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-penyelesaian-dari-persamaan-berikut-124q-5-q51-638",
+            "question": "Tentukan penyelesaian dari persamaan berikut!!!\r\n1/2(4q-5) = q+51/4 bagaimana caranya???...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1/2(4q-5) = q+51/4<br>2q-5/2 = q+51/4<br>2q-q = 51/4 + 5/2<br>q = 51/4 +10/4<br>q = 61/4",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-him-penyelesaian-dari-persamaanlinear-berikut-a-4y-10-277",
+            "question": "Tentukan him. penyelesaian dari persamaanlinear berikut?    a. 4y-10=14\r\nb. 7a+3= 0\r\nc. 8-4b= 6\r\nd. 24y-11=33-20y",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a. 4y-10 = 14<br>\u00a0\u00a0 4y = 14+10 <br>\u00a0\u00a0  4y = 24<br>\u00a0\u00a0 y = 24\u00f74<br>\u00a0\u00a0 y = 6<br>d. 24y - 11 = 33 - 20y<br>\u00a0\u00a0  24y + 20y = 33 + 11 <br>\u00a0\u00a0  44y = 44<br>\u00a0\u00a0 y = 44\u00f744<br>\u00a0\u00a0 y = 1 <br><br>yang saya tau hanya a dan d saja..<br>maaf kalau salah, ini jawaban saya :) <br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span>a. 4y-10=14<br>y = 14+10 / 4 = 24 / 4 = 6<br>b. 7a+3= 0<br>a = -3/7 <br>c. 8-4b= 6<br>b = 6-8 / -4 = 1/2<br>d. 24y-11=33-20y</span><br>24y+20y = 33 + 11<br>44y = 44<br>y = 44/44 = 1<br>itu jawaban saya, semoga benar dan bermanfaat<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-p12345-dan-q34678-tentukan-p-q-dan-q-p-401",
+            "question": "Diketahui P={1,2,3,4,5} dan Q={3,4,6,7,8}\r\ntentukan P-Q dan Q-P",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Q-P= 6,7,8<br>P-Q= 1,2,5<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "p-q = 1,2,5<br>q-p = 6,7,8",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1dua-bilangan-selisih-5jika-dikali-bilangan-yang-besar-dikurang-454",
+            "question": "1.Dua Bilangan selisih 5.jika dikali bilangan yang besar dikurangi bilangan yang kecil adalah 175,tentukan bilangan itu jawab : 2.diketahui jumlah bilangan 100 dan selisihnya adalah 40.bagaimana nilai dua bilangan tersebut.dapat dinyatakan linear 1 variabel jawab : \u00a0 \u00a0 tolongg dijawab besok dikumpullll:'(",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "hanya tuhan yang tau",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1gaji-ayah-rp2500000jika-tiap-bulan-ayah-harus-membayar-paja-102",
+            "question": "1.gaji ayah rp.2.500.000.jika tiap bulan ayah harus membayar pajak sebesar 2,5% dari gaji nya ,maka tentukanlah gaji bersih yg di terima ayah..??\\    2.hitunglah bunga tunggal\u00a0 pada modal awal Rp.550.000 dengan suku bunga 5% tiap tahun selama satu tahun 5 bulan !\r\n3.harga penjualan sebuah pesawat tv adalah Rp.552.000 jika keuntungan yg diperoleh 15%,maka tentukan harga pembeliannya..??\r\nbeserta caranya yhaa\r\nthank sblm'a",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1\u00a0.2,5/100x 2.500.000 =62.500<br>\u00a02.500.000-62.500=.........<br>3.15/100 x\u00a0552000=82.800<br>harga pembelian 552000-82800=......",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "persamaan-garis-yg-melalui-titik-a-15dan-tegak-lurus-garis-y-472",
+            "question": "Persamaan garis yg melalui titik A(-1,5)dan tegak lurus garis y =1/4X-3 adalah ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "y=1/4x-3, 1/4x-y-3=0<br>m= -a/b<br>-1/4/-1= 1/4<br>y-y1= M(x-x1)<br>y+1= 1/4(X-1/4)<br>y+1=1/4x-1/16<br>1/4x-y-1 1/16 (dikali 16)<br>4x-16y-17<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "[tex]y=\\frac{1}{4}x-3 \\rightarrow m_1=\\frac{1}{4}\\\\\nagar\\ tegak\\ lurus\\, maka\\ m_1.m_2=-1\\\\\n\\frac{1}{4}m_2=-1\\\\\nm_2=-4\\\\\npersamaan\\ yg\\ tegak\\ lurus\\ garis\\ y=\\frac{1}{4}x-3\\ dan\\ melalui\\ A(-1,5)\\\\\ny-y_1=m(x-x_1)\\\\\ny-5=(-4)(x-(-1))\\\\\ny=-4x-4+5\\\\\n4x+y=1[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "3a-5b-a-4b-bentuk-sederhana-adalah-572",
+            "question": "3a - 5b -a -4b bentuk sederhana adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "samain dlu sukunya\u00a0 3a - 5b - a - 4b ,,,,, jadi\u00a0 3a - a - 5b - 4b<br>baru dijawab ,,,, jwaban.a 2a - b<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Jawabnya adalah 2a-9b :))",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

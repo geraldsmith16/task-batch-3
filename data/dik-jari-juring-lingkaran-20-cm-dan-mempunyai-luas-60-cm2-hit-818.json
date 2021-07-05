@@ -1,0 +1,130 @@
+{
+    "question": "dik: jari\" juring lingkaran 20 cm dan mempunyai luas 60 cm\u00b2. hitunglah sudut juring tersebut dalam ukuran derajad !",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "[tex]\\frac{sudut\\ yg\\ dibentuk\\ oleh\\ juring}{360^o}=\\frac{luas\\ juring}{luas\\ lingkaran}\\\\\nsudut\\ yg\\ dibentuk\\ oleh\\ juring=\\frac{60}{ \\pi (20^2)}360^o\\\\\nsudut\\ yg\\ dibentuk\\ oleh\\ juring=\\frac{54}{\\pi }^o\\\\[/tex]",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "sebuah-fungsi-kuadrat-mempunyai-nilai-maksimum-3-pada-saat-x-2-852",
+            "question": "sebuah fungsi kuadrat mempunyai nilai maksimum -3 pada saat x = 2, sedangkan untuk x = -2 fungsi bernilai -11. Tentukan fungsi kuadrat tersebut.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "f(x) = 2xkuadrat + 2x - 15",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tiga-bilangan-positif-membenrik-barisan-geometri-dengan-rasio-rg-198",
+            "question": "Tiga bilangan positif membenrik barisan geometri dengan rasio r&gt;1.jika suku tengah ditambah 4,maka terbentuk sebuah barisan aritmatika yang jumlahnya 30.tentukan hasil kali dari ketiga bilangan tersebut.    Tolong dongg",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a,b,c,nanti saat di barisan aritmatika b+4<br>a+b+c = 30<br>b= a.r^n-1,<br>6=a.r^1 = 6/r = a , c = a.r^n-1= 6/r . r^2 = 6.r<br>maka. a + b + c = 30<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a06/r + 6 + 6r = 30<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 6/r + 6r = 24<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 6r+ 6 = 24<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a06r = 18<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 r = 3<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0<br><br>a= 2<br>b = 6<br>c = 18<br>r= 3<br>jika b +4 = 6+ 4 =10,maka a+b+c= 30 :)<br>sehingga 2 x 6 x18 =156 :)",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "nih-ada-pr-mtk-sains-gurunya-blm-nerangin-mohon-di-bantu-yok-c-359",
+            "question": "Nih ada pr mtk sains gurunya blm nerangin :( mohon di bantu yok cekidot nih soalny..    Tentukanlah himpunan penyelesaian dari persamaan trigonometri 2-2sin(2x+15\u00b0)=3 untuk 0\u00b0\u2264x\u2264360\u00b0\r\n\r\n\r\nnah tolong bantuin ngerjain soal di atas oke :) please gan sis",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span> 2-2sin(2x+15\u00b0)=3 <br><br>2sin(2x+15) = -1 <br><br></span><span>sin(2x+15) = -1/2 <br><br></span><span>sin(2x+15) = sin 210 <br><br></span>berarti himpunan penyelesaiannya = { 210 , 330 ) <br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "hasil-dari-7log8-x-2log9-x-3log17-816",
+            "question": "Hasil dari \u2077log8 x\u00a0\u00b2log9 x\u00a0\u00b3log1/7",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "soal itu \u00a0bisa kamu sama dengankan 2.2log3 * -1.3log7 * 3.7log2. sehingga menjadi 2 * -1 * 3 = -6 :)\u00a0<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-jumlah-semua-suku-deret-geometri-tak-hingga-adalah-72-dan-ju-487",
+            "question": "Jika jumlah semua suku deret geometri tak hingga adalah 72 dan jumlah semua sukunya yang berindeks ganjil adalah 48, tentukan suku ke-3 deret tersebut !    Tolong di bantu..",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Jumlah Suku Tak hingga (S\u221e) :<br>S\u221e = a / (1 - r)\u00a0<br>72 = a / (1 - r)\u00a0<br><br>Jumlah semua suku ganjil : r&#039; = r\u00b2, Maka :\u00a0<br>Sg = a / (1 - r\u00b2)\u00a0<br>48 = a / (1 - r\u00b2)\u00a0<br><br>[tex] \\frac{72}{48} = \\frac{a/(1-r)}{a/(1-r^{2})} [/tex]<br><br>[tex] \\frac{3}{2} = \\frac{1-r ^{2}}{1-r} [/tex] \u00a0 (Jabarkan (1-r)\u00b2 menjadi (1-r)(1+r))<br><br>[tex] \\frac{3}{2} = \\frac{(1-r)(1+r)}{1-r} [/tex] \u00a0 \u00a0(Coret yg sama)<br><br>[tex] \\frac{3}{2} = 1 + r[/tex] \u00a0\u00a0(kali silang)<br><br>2 + 2r = 3\u00a0<br>2r = 1\u00a0<br>r =\u00a0[tex] \\frac{1}{2} [/tex]<br><br>Masukkan nilai r =\u00a0[tex] \\frac{1}{2} [/tex] ke :\u00a0<br>72 = a / (1 - r)\u00a0<br>72 = a / (1 -\u00a0[tex] \\frac{1}{2} [/tex])\u00a0<br>72 = a /\u00a0[tex] \\frac{1}{2} [/tex]\u00a0<br>2a = 72<br>a = 36\u00a0<br><br>Sehingga Untuk Urutan ke 3 :<br>\u21d2Un = [tex]a*r^{(n-1)} [/tex]\u00a0<br><br>\u21d2U\u2083 = 36 \u00d7\u00a0[tex](\\frac{1}{2})^{2} [/tex]\u00a0<br><br>\u21d2U\u2083\u00a0= 36\u00d7[tex] \\frac{1}{4} [/tex]\u00a0<br><br>\u21d2U\u2083\u00a0=\u00a0[tex] \\frac{36}{4} [/tex]<br><br>\u21d2U\u2083\u00a0= 9<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jumlah-n-bilangan-asli-ganjil-pertama-dirumuskan-dengan-265",
+            "question": "Jumlah n bilangan asli ganjil pertama dirumuskan dengan ...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "bilangan ganjil: Un = 2n -1<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Bilangan ganjil un : 2n-1",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-kasih-tau-jawaban-dan-penyelesaiannya-juga-dong-banyak-369",
+            "question": "Tolong kasih tau jawaban dan penyelesaiannya juga dong :)    Banyak bilangan antara 2000 dan 6000 yang dapat disusun dari angka 0,1,2,3,4,5,6,7 dan tidak ada angka yang sama adalah...\r\nTerimah kasih sebelumnya yaa :)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "buat 4 kotak\u00a0 |ribuan|ratusan|puluhan|satuan|<br>|5|7|6|5| = 5 x 7 x 6 x 5 = 1050.<br><br>nb:<br>kotak pertama = dari 0 - 7 yang memenuhi tempat ribuan ada 5 (2, 3, 4, 5, 6)<br>kotak kedua\u00a0 \u00a0  = dari 0 - 7 yang memenuhi tempat ratusan ada 7<br>(jika syaratnya tidak ada angka yang sama, peluang setiap kotaknya di kurang 1, kemudian setiap angka dikalikan, dan itulah hasilnya)<br>dst..<br>:D<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jumlah-mobil-yang-diproduksi-suatu-pabrik-selama-1-hari-setelah-400",
+            "question": "jumlah mobil yang diproduksi suatu pabrik selama 1 hari setelah\u00a0t jam operasi adalah\u00a0n(t)\u00a0= 200\u00a0t\u00a0- 10t\u00b2, 0\u00a0\u2264\u00a0t\u00a0&lt; 10. jika biaya produksi\u00a0n\u00a0mobil (dalam dolar) adalah\u00a0B\u00a0(n) = 30.000 + 8.000n , tentukan biaya\u00a0B\u00a0sebagai fungsi dari waktu ,\u00a0B (t).\u00a0berapakah biaya memproduksi mobil selama 1 bulan?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "n = 200t-10t^2=0<br>\u00a0 \u00a0= 200 - 20t=0<br>t = 200 / 20 = 10\u00a0<br><br>berarti dalam 1 hari memproduksi 10 mobil dalam 1 bulan = 30 hari<br>B\u00a0= 30.000+8000(10.30)<br>\u00a0 \u00a0= 30 000 + 2.400 000<br>\u00a0 \u00a0= 2 430 000 dolar",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-suatu-fungsi-kuadrat-yx24-carilah-diskriminannya-643",
+            "question": "Diketahui suatu fungsi kuadrat y=x\u00b2+4 . carilah diskriminannya!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "D = b^2 - 4ac<br>= 0^2 - (4)(1)(4)<br>= 0 - 16<br>= -16<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Diskriminan =<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 =<span>b2 - 4ac<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 0 - (4 x1 x 4)<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 0 - 16<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = -16 + 0<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = -16<br></span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "persamaan-lingkaran-xi-sma-tentukan-persamaan-lingkaran-yang-me-878",
+            "question": "PERSAMAAN LINGKARAN - xi sma tentukan persamaan lingkaran yang melalui (0,0) dengan jari2 akar 5 dan titik pusatnya terletak pada garis y= x-1 \u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]misal\\ titik\\ pusatnya\\ (a,b)\\\\\n(x-a)^2+(y-b)^2=r^2\\ melalui\\ titik\\ (0,0)\\\\\n(0-a)^2+(0-b)^2=(\\sqrt{5})^2\\\\\na^2+b^2=5\\\\\nkarena\\ (a,b)\\ berada\\ pada\\ garis\\ y=x-1,\\ maka\\\\\nb=a-1\\\\\na^2+b^2=5\\\\\na^2+(a-1)^2=5\\\\\n2a^2-2a-4=0\\\\\n(2a+2)(a-2)=0\\\\\na=-1\\ atau\\ a=2\\\\\nutk\\ a=-1,b=-2 \\rightarrow (x+1)^2+(y+2)^2=5\\\\\nutk\\ a=2,b=1 \\rightarrow (x-2)^2+(y-1)^2=5[/tex]",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

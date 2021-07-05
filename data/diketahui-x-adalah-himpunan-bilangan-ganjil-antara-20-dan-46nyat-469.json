@@ -1,0 +1,146 @@
+{
+    "question": "Diketahui x adalah himpunan bilangan ganjil antara 20 dan 46,nyatakan x dengan :1)dengan kata kata\u00a0 2).notasi pembentuk himpunan\u00a0 3)dengan mendaftarkan anggota-anggotanya Tolong dijawabnya",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "[tex]X=\\{20&lt;2n+1&lt;46\\ ;n=10,11,...,22 \\}\\\\\n\\\\\nX=\\{21, 23, 25,27,29,31,33, 35, 37, 39,41,43,45\\}[/tex]",
+            "attachments": []
+        },
+        {
+            "answer": "1) Menyatakan Sifat Yang Dimiliki : {bilangan ganjil lebih dari 20 dan kurang dari 46}<br>2) Notasi Pembentuk Himpunan : {x | 20\u00a0\u2264 x\u00a0\u2264 46 , x bilangan ganjil}<br>3) Mendaftar Anggota : {21,23,25,27,29,31,...,45}<br>Okay ? @Liwed",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "sebuah-pesawat-mula-mula-terbang-pada-ketinggian-3500-kaki-di-at-573",
+            "question": "sebuah pesawat mula-mula terbang pada ketinggian 3.500 kaki di atas permukaan laut. karena gumpalan awan, pesawat terbang naik sampai ketinggian 8.000 kaki. tentukan posisi pesawat dengan penjumlahan bilangan bulat !",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "8000 + (-3500) = 4500",
+                    "attachments": []
+                },
+                {
+                    "answer": "3500 + n = 8000<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0n = 8000 - 3500<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0n = 4500 m<br>Jadi kenaikan pesawat 4500 m<br>atau<br>0+3500 m + n = 8000<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0n = 8000-0-3500<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0n = 4500\u00a0m<br>0 meter = posisi pesawat saat belum terbang\u00a0<br>3500 meter = posisi pesawat ketika terbang<br>8000 meter = posisi kenaikan pesawat",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-proyek-di-rencanakan-selesai-di-kerjakan-oleh-8-orang-dala-413",
+            "question": "sebuah proyek di rencanakan selesai di kerjakan oleh 8 orang dalam waktu 15 hari. jika jumlah pekerja hanya ada 6 orang, waktu yang di perlukan untuk menyelesaikan proyek tersebut adalah....???",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Pakai fungsi perbandingan berbalik, cepet nih :D<br><br>[tex] \\frac{8}{6} . 15 =  \\frac{120}{6} = 20 hari[/tex]",
+                    "attachments": []
+                },
+                {
+                    "answer": "<u>\u00a08\u00a0</u> \u00a0 x 15 hari = 20 hari<u><br></u>\u00a06 \u00a0<br><br>maaf klo salah",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "ubalah-satuan-sudut-berikut-ke-dalam-derajat-1-360-menit-2-948-227",
+            "question": "Ubalah satuan sudut berikut ke dalam derajat    1. 360 menit\r\n 2. 948 menit\r\n 3. 1.020 menit\r\n 5. 75.600 detik",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1. (360*60)/360 = 60<br>2. (948*60)/360 = 158<br>3. (1020*60)/360 = 170<br>4. (75600/360) = 210<br><br>mungkin seperti itu yang dimaksud!!!<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-himpunan-penyelesaian-ari-persamaan-linear-berikut-2-820",
+            "question": "Tentukan himpunan penyelesaian ari persamaan linear berikut:\u00a0\r\n2\u00a0+\u00a0x/4\u00a0= 5\r\n\u00a0 \u00a0/= per",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "2+x/4 = 5<br>x/4= 5-2<br>x/4 = 3<br>x = 12<br>begitu jawabannya",
+                    "attachments": []
+                },
+                {
+                    "answer": "2\u00a0+<u></u>\u00a0x/4\u00a0=\u00a05<br>2\u00a0.\u00a04\u00a0:\u00a0x\u00a0=\u00a05<br>8\u00a0:\u00a0x\u00a0=\u00a05<br>x\u00a0=\u00a05\u00a0-\u00a08<br>x\u00a0=\u00a0-3<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bilangan-cacah-kurang-dari-15-852",
+            "question": "Bilangan cacah kurang dari 15",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "satu sampai empat belas<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diberikan-tiga-buah-himpinan-masing-masing-himpunan-p2368-298",
+            "question": "diberikan tiga buah himpinan masing-masing himpunan P={2,3,6,8}, Q={1,3,5,8,10]dan R={3,6}.dari data tersebut maka P\u2227(Q\u2227R)...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "\u00a0jawaban\u00a0dari\u00a0soal\u00a0diatas P\u2227(Q\u2227R)=3",
+                    "attachments": []
+                },
+                {
+                    "answer": "jawabnya3<br>caranya;p{2368}\u2227[Q\u2227R][Q=1358]dan[R=36].Qdan R cari\u00a0anggota yg sama,jadi irisan Q dan R adalah 3.selanjutnya cari lagi antara hasil Q dan R tadi dengan anggota P,jadi anggota yg sama lagi adalah 3dan jawabnyapun 3.<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-penyelesaian-dari-pertidaksamaan-berikut-pakai-cara-1-849",
+            "question": "Tentukan penyelesaian dari pertidaksamaan berikut (pakai cara)    1.2x - 4\u00a0&gt; 3x + 9\r\n2.\u00a02/3p + 4\u00a0\u2264 8\r\n3. 2y - 7 \u00a0 \u00a0 \u00a0 \u00a0\r\n--------------- \u00a0\u2264\u00a03\r\n\u00a0\u00a0 \u00a0 \u00a02",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1.2x-4&gt;3x+9<br>=2x-3x&gt;4+9<br>=-x&gt;13<br>=x&lt;-13<br>ni jawaban no 1<br><span>2/3p + 4\u00a0\u2264 8<br>=2/3p&lt;8-4<br>=p&lt;2/3:4<br>=p&lt;3/2.4<br>=p&lt;6 <br>ni jawban no 2<br></span><br><span> 2y - 7\u00a0 /2\u00a0 \u2264\u00a03<br>=y-7/2&lt;3<br>=y&lt;3+7/2<br>=y&lt;6 1/3<br></span>jadi nya 6 satu per dua dek <br>ni jawb nya<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "ubalah-pertidaksamaan-linear-satu-variebel-berikut-kedalam-kehidu-786",
+            "question": "Ubalah pertidaksamaan linear satu variebel berikut kedalam kehidupan sehari-hari    a.x &gt; 10\r\nb.2y\u00a0\u2264 50\r\nc.2x + 3 &gt; 4",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a. jumlah kelereng Andi lebih dari sepuluh<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "keliling-sebuah-segi-tiga-sama-sisi-adalah-36cm-jika-garis-inginn-595",
+            "question": "Keliling sebuah segi tiga sama sisi adalah 36cm jika garis inginnya 10 cm maka luas segitiga itu adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a+b+c= 36<br>36:3= 12<br>Luas= alasxtinggi /2<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 12x10/2<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 =60<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-banyak-himunan-bagian-dari-hiimpunan-tersebut-ahimpuna-715",
+            "question": "Tentukan banyak himunan bagian dari hiimpunan tersebut,    a.himpunan bilangan asli kurang dari 6.\r\nb.himpunan bilangan prima antara 4 dan 20\r\nc.q={nama nama hari dalam seminggu }",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a {1,2,3,4,5} = 5 anggota himp.<br>b. {5,7,11,13,17} = 5 anggota himp.<br>c. {senin, selasa , rabu, kamis, jumat, sabtu, minggu} = 7 anggota himp<br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

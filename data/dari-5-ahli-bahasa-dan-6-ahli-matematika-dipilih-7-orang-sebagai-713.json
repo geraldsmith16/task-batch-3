@@ -1,0 +1,150 @@
+{
+    "question": "dari 5 ahli bahasa dan 6 ahli matematika, dipilih 7 orang sebagai anggota tim ahli dengan tiga diantaranya ahli matematika. banyak cara yang digunakan dalam pemilihan itu ada berapa?",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "<span>dari 5 ahli bahasa <br>dan 6 ahli matematika, <br>dipilih 7 orang sebagai anggota tim ahli, dengan 3 diantaranya ahli matematika. banyak cara yang digunakan dalam pemilihan itu ada berapa?<br>-----------------&gt; ans = 4</span>",
+            "attachments": []
+        },
+        {
+            "answer": "3|6|5|4 = 360 cara<br>maaf klo ada salah dalam penghitungan dan analisis nya",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "1aisyah-memiliki-sebuah-kain-yang-berbentuk-persegipanjang-ia-b-910",
+            "question": "1.Aisyah memiliki sebuah kain yang berbentuk persegipanjang. Ia berencana menghias sekeliling kain tersebut dengan renda. Jika ternyata renda yang diperlukan Aisyah paling sedikit 450 cm, perkirakan ukuran kain yang dimiliki Aisyah!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "sisi 2. panjang\u00a0 + 2. lebar .. menurut ku sisi yang panjang = 150.2= 300 dan lebarnya 75.2=150 sehingga kelilingnya = 300+150=450<br><br>lalu luasnya adalah panjang.lebar = 150.75=11.250<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-penyelesaian-dan-himpunan-penyelesaian-dari-x-8-6-153",
+            "question": "Tentukan penyelesaian dan himpunan penyelesaian dari x + 8 = 6",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "x + 8= 6<br>x= 6-8<br>x=-2<br>maaf hanya ini jawaban a ga tw bener ap ga, semoga aj bener ea<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "x+8= 6<br>x= 6-8<br>\u00a0 = -2<br>Kalau persamaan itu hanya ada satu penyelesaian. Jadi, jawabannya -2.<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "carilah-nilai-abc-dan-d-yang-memenuhi-persamaan-berikut-a-a-316",
+            "question": "Carilah nilai a,b,c, dan d yang memenuhi persamaan berikut.    a. [a\u00a0 b\u00a0 c] + [-5\u00a0 6\u00a0 7] = [3\u00a0\u00a0 2\u00a0 -1]\r\nb. \r\n\r\n+",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a - 5 = 3<br>a = 3 + 5<br>a = 8<br><br>b + 6 = 2<br>b = 2 - 6<br>b = -4<br><br>c + 7 = -1<br>c = -1 -\u00a07<br>c = -8",
+                    "attachments": []
+                },
+                {
+                    "answer": "nilai yang memenuhi pertidak samaan tersebut<br>a - 5 = 3\u00a0  menjadi a = 3 + 5 = 8<br>b + 6 = 2 menjadi b = 2 - 6 = - 4<br>c + 7 = -1 menjadi c = -1 - 7 = -8<br><br>jadi nilai a = 8\u00a0 \u00a0 b = -4\u00a0 c = -8<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "maaf-sebelumnya-kali-ini-aku-lagi-ada-masalah-besok-bakal-ada-r-646",
+            "question": "Maaf sebelumnya. kali ini aku lagi ada masalah. besok bakal ada razia jilbab,    jlbab aku masih di loundry dan bukanya siang aku lupa ngambil. gimana caranya biar besok aku bisa sakit (pura-pura sakit) dan ngga ketauan\r\n\r\n\"sekolahku bording school :(",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Pake jilbab orangtua aja , ato minjem temen<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "pukul kepela ke tembok aja kak-_-\" ato pagi2 basahin air ke jidat biar kelihatan berkeringat disangka sakit deh..<br><br>kalau ga pake jilbab gmn emg? jilbab temen yg lain?",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-bantuin-buat-2-soal-pertidaksamaan-irasional-sama-jawaban-227",
+            "question": "Tolong bantuin buat 2\u00a0soal pertidaksamaan irasional sama jawabannya plis",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "\u221a4x + 1\u00a0\u2264 3<br>jawab : <br>(\u00a0\u221a4x + 1 )\u00b2\u00a0\u2264 3\u00b2<br>4x + 1\u00a0\u2264 9<br>4x\u00a0\u2264 8<br>x\u00a0\u2264 2<br>syarat :<br>4x + 1\u00a0\u2265 0<br>4x\u00a0\u2265 -1<br>x\u00a0\u2265 -1/4<br><br>\u221ax\u00b2 - 4x + 4 &gt; 2<br>jawab :<br>(\u221ax\u00b2 - 4x +4)\u00a0\u00b2 &gt; 2\u00b2<br>x\u00b2 - 4x + 4 &gt; 4<br>x\u00b2 - 4x &gt; 0<br>x (x - 4) &gt; 0<br>x = 0 \u00a0 \u00a0 \u00a0x= 4<br>syarat :<br>x\u00b2 - 4x + 4\u00a0\u2265 0<br>(x\u00a0-\u00a02) (x - 2)<br>x\u00a0= 2 \u00a0 \u00a0x = 2<br><br><br>nb : untuk garis bilangan dan himpunan penyelesaian belum selesai",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "temukan-fungsi-fx-pada-r-a-f2-3x-3x-4-b-fx-2-x-663",
+            "question": "Temukan fungsi f(x) pada R : \r\na.\u00a0f(2-3x) = 3x + 4\r\nb. f(x + 2) = x2 + 4x",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "2-3x = 3x+4<br>-6x = 2<br>x \u00a0 = -2/6<br>x \u00a0= -1/3<br><br>x+2= x2 +4x<br>-x2 - 3x + 2 = 0 dikali -1 agar -x2 menjadi positif<br>x2 + 3x - 2 = 0<br>\u00a0tidak ketemu jawabannya<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "f(2-3x) = 3x + 4<br>f(2-3x) = -(-3x+2)+6<br>f(2-3x) = -(2-3x)+6<br>f(x) = -x+6<br><br>f(x+2) = x^2 + 4x<br>f(x+2) = x^2 + 4x + 4 - 4<br>f(x+2) = (x+2)^2 -4<br><span>f(x) \u00a0 \u00a0 = x^2 -4<br></span><br>dari kak reanind nih",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-suatu-barisan-aritmetika-136-131-75-127-5-jik-991",
+            "question": "Diketahui suatu barisan aritmetika : 136; 131, 75; 127, 5;... Jika suku ke-n barisan tersebut bernilai nol, n = ...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a= 136<br>b= 131-136= -5<br>Un = a+(n-1)b<br>\u00a00\u00a0 = 136+(n-1)-5<br>\u00a00\u00a0 = 136-5n+5<br>\u00a00\u00a0 =\u00a0 141-5n<br>\u00a05n = 141-0<br>\u00a0 n = 141\u00f75 = 28<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dik-fx12-x22-dan-gx-x10-fungsi-komposisi-f-lingkaran-199",
+            "question": "Dik: f(x)=1/2 x2+2 dan g(x) = x+10 fungsi komposisi (f lingkaran g) (x)=..........................",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]f o g(x) =  \\frac{1}{2} ( x^{2} +20x+100)+2=   \\frac{1}{2}x^{2} +10x+50+2 \\\\  \\\\ \\frac{1}{2}x^{2} +10x+52[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-bantu-yaa-trimakasih-890",
+            "question": "Tolong bantu yaa... :-)\r\ntrimakasih",
+            "attachments": [
+                "question-attachments/tolong-bantu-yaa-trimakasih-890-1.docx"
+            ],
+            "answers": [
+                {
+                    "answer": "\u00a0silakan dipelajari, sekalian diperiksa kalo ada yg salah",
+                    "attachments": [
+                        "answer-attachments/tolong-bantu-yaa-trimakasih-890-1.docx"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "contoh-soal-persamaan-dan-fungsi-kuadrat-585",
+            "question": "Contoh soal persamaan dan fungsi kuadrat ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]tentukan\\ akar-akar\\ dari\\ persamaan\\ kuadrat:x^2-x+1=0\\\\\\\\\ntentukan\\ titik\\ puncak\\ fungsi\\ f(x)=x^2-x+1\\\\[/tex]",
+                    "attachments": []
+                },
+                {
+                    "answer": "Selisih 2 bilangan bulat adalah 9. Jika hasil kali kedua bilangan tersebut adalah 36. Tentukan nilai dari kedua bilangan tersebut..<br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

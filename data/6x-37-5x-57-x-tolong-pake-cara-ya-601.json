@@ -1,0 +1,138 @@
+{
+    "question": "6x + 3/7 = 5x + 5/7\r\nx =\r\ntolong pake cara ya",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "6x\u00a0+\u00a03/7\u00a0=\u00a05x + 5/7 (all kalikan 7)<br><br>42x + 3 = 35x + 5<br><br>42x -\u00a035x = 5-3<br><br>7x = 2<br><br>x = 2/7",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "tolong-kasih-soaljawaban-dan-keterangannya-tentang-pertidak-s-437",
+            "question": "Tolong :)    kasih soal,jawaban dan keterangannya tentang pertidak samaan liner satu varriable....\r\nbuat kelas 7 ya... terimakasaih :)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "2x + 5 = 11<br>2x + 5 - 5 = 11 - 5<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 2x = 6<br>1/2\u00a0 x\u00a0 2x = 1/2 x 6<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0  x = 3<br>jadi x = 3 disebut penyelesaian dari 2x + 5 = 11<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "harga-sebuah-topi-lebih-murah-rp5000-dari-sebuah-ikat-pinggang-469",
+            "question": "harga sebuah topi lebih murah rp.5000 dari sebuah ikat pinggang. harga 3 topi &amp; 2 ikat pinggang rp.45000 (misalkan harga sebuah ikat pinggang x rupiah)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1 buah topi= 4000<br>1 buah ikat pinggang= 16500<br>\u00a0<br>3 buah topi= 4000\u00d73= 12000<br>2 buah ikat pinggang= 16500\u00d72=33000<br>33000+12000=45000<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "misalkan-f-adalah-suatu-fungsi-yang-memenuhi-f1x-12-f-x-2-663",
+            "question": "Misalkan F adalah suatu fungsi yang memenuhi    F(1/x)+ 1/2 F(-x)= 2x untuk setiap x tidak sama dengan 0. Berapakah F(2)?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]f(\\frac{1}{x})+\\frac{1}{2}f(-x)=2x\\ ; x \\neq 0\\\\\n\\\\\nuntuk\\ x=-2\n\\\\\nf(\\frac{1}{-2})+\\frac{1}{2}f(-(-2))=2(-2)\\\\\n\\\\ f(-\\frac{1}{2})+\\frac{1}{2}f(2)=-4\\\\\n\\\\\nuntuk\\ x=\\frac{1}{2} \\\\\nf(\\frac{1}{\\frac{1}{2}})+\\frac{1}{2}f(-\\frac{1}{2})=2(\\frac{1}{2})\\\\\n\\\\ f(2)+\\frac{1}{2}f(-\\frac{1}{2})=1\\\\\\\\\neliminasi\\ f(-\\frac{1}{2})\\ pada\\ kedua\\ persamaan\\\\\nf(-\\frac{1}{2})+\\frac{1}{2}f(2)=-4\\\\\n\\underlined{f(-\\frac{1}{2})+2f(2)=2\\ \\ \u2013}\\\\\n\\\\\n-\\frac{3}{2}f(2)=-6\\\\\nf(2)=4[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "seorang-ayah-berumur-28-tahunketika-anaknya-lahirberaakah-umur-773",
+            "question": "Seorang ayah berumur 28 tahun,ketika anaknya lahir.Beraakah umur anak itu ketika jumlah umur mereka 48 tahun?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "ketika ayahnya berumur 48 tahun,anaknya berumur 20 tahun<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "x=umur ayah<br>y= umur anak <br>x=48<br>x-y=28<br>(48)-y=28<br>y=48-28=20<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-3z-11-28-itu-nilai-z-nya-brp-gan-314",
+            "question": "Jika 3z + 11 =-28 itu nilai z nya brp gan?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "3z + 11 = -28<br>3z = -28 - 11<br>3z = - 39<br>z = -39/3<br>z = -13",
+                    "attachments": []
+                },
+                {
+                    "answer": "3z+11\u00a0 \u00a0 =-28<br>3z+11-11=-28-11<br>3z\u00a0 \u00a0 \u00a0 \u00a0\u00a0 =-39<br>1/3(3z)\u00a0\u00a0 =1/3(-39)<br>\u00a0 \u00a0 z\u00a0 \u00a0 \u00a0\u00a0 =-13<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "semua-himpunan-dari-10ltxlt10-xbilangan-bulat-yang-habis-278",
+            "question": "Semua himpunan dari -10&lt;x&lt;10    x\u2208bilangan bulat yang habis dibagi 3\r\nyang mempunyai 3 anggota",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "{-9,-8,-7,-6,-5,-4,-3,-2,-1,0,1,2,3,4,5,6,7,8,9}",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "ada-dua-buah-kubus-vol-kubus1-8-x-dari-vol-kubus-2-jika-panja-645",
+            "question": "Ada dua buah kubus. Vol kubus1 = 8 x dari Vol kubus 2. Jika panjang sisi kubus 1 = y x p kubus 2, maka berapa y ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Dik :<br>V1 = 8 V2<br>p1 = y p2<br><br>Dit : y = ?<br>Jawab :<br>V1 = 8 x V2<br>(p1)pangkat 3 = 8 x (p2)pangkat 3<br>(y x p2)pangkat 3 = 8 x (p2)pangkat 3<br>y pangkat 3 x p2 pangkatt 3 = 8 x p2 pangkat 3<br>y pangkat 3 = 8<br>y = akar pangkat 3 dari 8<br>y = 2<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "cara-menyelesaikan-12x-5-gt-15-ptlsv-bagaimana-647",
+            "question": "Cara menyelesaikan 1/2x + 5 &gt; 15 (PtLSV) bagaimana??",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1/2 X + 5 &gt; 15<br>1/2 X &gt; 15 -5<br>1/2 X &gt; 10<br>X &gt; 10/ 0,5<br>X &gt; 20",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jumlah-umur-fani-dan-rian-adalah-36-tahunsedangkan-perbandingan-697",
+            "question": "jumlah umur fani dan rian adalah 36 tahun,sedangkan perbandingan umur fani terhadap umur rian adalah 4:5 umur rian adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "perbandingan = 4:5<br>4+5= 9 = 36<br>1= 36 : 9 = 4<br>perbandingan umur rian = 5<br>maka umur rian adalah 4.5 = 20",
+                    "attachments": []
+                },
+                {
+                    "answer": "misal fani = x, dan rian = y.<br><br>fani + rian = 36 menjadi x + y = 36<br>fani/rian = 4/5 menjadi x/y = 4/5 maka, x = 4/5 y ( masukan ke persamaan x + y = 36)<br><br>menjadi : 4/5 y + y = 36<br>9/5 y = 36<br>y = 36*5 / 9<br>y= 20<br><br>jadi umur rian adalah 20<br>semoga membantu :)<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "seorang-walikota-merencanakan-membuat-taman-rekreasi-berbentuk-li-127",
+            "question": "Seorang walikota merencanakan membuat taman rekreasi berbentuk lingkaran dengan diameter 1.400 m. Oleh karena kurang dana, dalam realisasinya hanya dibangun taman dengan diameter 700 m. Berapa persen biaya yang dapat dihemat dari biaya pembebasan tanah untuk taman itu dari rencana semula?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "50% <br><br>Maaf kalo salah yaaa<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "karena 700 itu setengah dari 1400 berarti dana yang di hemat juga setengahnya atau 50%",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

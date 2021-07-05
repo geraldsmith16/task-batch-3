@@ -1,0 +1,138 @@
+{
+    "question": "Romus keliling pythagoras",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "<strong>untuk segitiga siku-siku di titik A, berlaku</strong><br><strong>AB\u00b2 + AC\u00b2 = BC\u00b2</strong>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "ubahlah-masalah-nyata-berikut-ke-dalam-bentuk-pertidaksaman-linea-706",
+            "question": "Ubahlah masalah nyata berikut ke dalam bentuk pertidaksaman linear satu variabel.    a) Sebuah bus dapat mengangkut tidak kurang dari enampuluh orang penumpang.\r\nb) Jarak rumah Beni ke sekolah lebih dari seratus meter.\r\nc) Penghasilan ibu Monika tidak lebih dari dua juta rupiah setiap bulannya.\r\nd) Sebuah pesawat berada diketinggian tidak kurang dari tiga ribu kaki di atas permukaanlaut.\r\ne) Kecepatan Udin berkendara tidak lebih dari 50 km/jam.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a. x&gt;=60<br>b.x&gt;100<br>c.x&lt;=2000000<br>d.x&gt;=3000<br>e.x&lt;=50",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "ubahlah-pertidaksamaan-linear-berikut-kedalam-permasalahan-sehari-703",
+            "question": "Ubahlah pertidaksamaan linear berikut kedalam permasalahan sehari-hari!\r\n2+3&gt;4",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span> 2 kali umur chiko ditambah 3\u00a0 adalah lebih dari 4 tahun<br></span><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dari-40-siswa-terdapat-23-siswa-gemar-bermain-basket-9-siswa-gem-676",
+            "question": "Dari 40 siswa terdapat 23 siswa gemar bermain basket, 9 siswa gemar bermain basket dan voli, 5 siswa tidak gemar bermain basket mau pun voli.Banyak siswa yang hanya gemar bermain voli adalah..    2.Disebuah lapangan parkir terdapat 105 kendaraan terdiri dari sepeda motor dan mobil.Jika seluruh roda kendaraan tersebut (tanpa ban serep) adalah 290 roda, maka banyak mobil dilapangan parkir tersebut adalah...\r\n\r\n3.Sepotong bambu dipotong menjadi 5 bagian yang panjang nya membentuk barisan geometri.Panjang potongan terpendek 5 cm\u00a0dan potongan terpanjang 80 cm.Panjang bambu semula adalah...\r\n\r\n4.Deni akan membuat topi ulang tahun dari karton berbentuk kerucut dengan diameter alas 20 cm dan tinggi topi 24 cm.Jika ingin membuat sebanyak 50 topi, luas karton minimal yang dibutuhkan adalah...\r\n(r= 3,14)\r\n\r\n5. Diketahui banyak sisi dan rusuk prisma segi-8 masing-masing a buah dan b buah, banyak sisi dan rusuk limas segi-5 masing-masing c buah dan d buah.Hasil dari a+b-c-d adalah...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "cuma\u00a0tahu nomor 1 jawabannya 3<br>kalau nomor 2 tidak diberi tahu umlah motornya<br>dan kalau nomor 3 saya tidak mengerti\u00a0barisan geometri... (maap yak)",
+                    "attachments": []
+                },
+                {
+                    "answer": "jawaban no 5<br>sisi prisma = n+2<br>sisi prisma 8 = 8+2 = 10 (a)<br>rusuk prisma = 3n -----&gt; 3\u00d78= 24 (b)<br>sisi limas = n+1------&gt; 5+1= 6 (c)<br>rusuk limas = 2n-----&gt; 2\u00d75=10 (d)<br>a+b-c-d=<br>10+24-6-10= 18<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "manakah-dibawah-ini-yang-merupakan-persamaan-linear-satu-variabel-444",
+            "question": "manakah dibawah ini yang merupakan persamaan linear satu variabel ? a. 2x - 4 = 8 b. -4 + 3s = 24 c. -8 - d2 = 32 d. 5(u - 2) = u-2",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "menurut saya semuanya satu variabel. Karena\u00a0yang a) variabelnya x \u00a0b) s \u00a0c) d\u00b2 \u00a0d) u<br>semoga membantu :)",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-penyelesaiaan-persamaan-linear-a-x-12-2x-36-b-5x-834",
+            "question": "Tentukan penyelesaiaan persamaan linear\r\na. x-12 = 2x + 36\r\nb. -5x - 4r +10 = 1\r\nc. 2+ x/4 = 5",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a. x - 12 + 12 = 2x + 36+12<br>\u00a0\u00a0 \u00a0X=2x-2x+48<br>\u00a0\u00a0 \u00a0x - 2x = 48<br>\u00a0\u00a0 \u00a0-x = 48<br>\u00a0\u00a0 \u00a0x = -48<br>b. -5x - 4x + 10 - 10 = 1 - 10<br>\u00a0\u00a0 \u00a0-9x : -9 = -9 : -9<br>\u00a0\u00a0 \u00a0 x = 1<br>c. 2 + x/4<br>\u00a0\u00a0 \u00a05 = 2 +3<br>\u00a0\u00a0 \u00a0x = 4 x 3<br>x =\u00a012",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-persamaan-linear-a-3s11-28-b-25-4y-6y15-c-64-112",
+            "question": "Tentukan persamaan linear    a). 3s+11=-28\r\nb). 25-4y = 6y+15\r\nc). 6/4 + 2 = 4\r\nd). 6x + 5 = 26-x\r\ne). 2-4x =3\r\npliaa tlng d jawab yah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "3s+11=-28<br>3s=-28-11<br>3s=-39<br>s=-13<br><br>25-4y=6y+15<br>4y+6y=25-15<br>10y=10<br>y=1<br><br>6x+5=26-x<br>6x+x=26-5<br>7x=21<br>x=3<br><br>2-4x=3<br>4x=2-3<br>4x=-1<br>x=-1/4<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-3x-12-7x-8-tentukanlah-nilai-dari-x-2-274",
+            "question": "Jika 3x + 12 = 7x - 8, tentukanlah nilai dari x +2",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]3x-7x=-8-12 \\\\-4x=-20 \\\\x=5 \\\\  \\\\ x+2=5+2=7[/tex]",
+                    "attachments": []
+                },
+                {
+                    "answer": "3x+12=7x-8<br>7x-3x-8-12=0<br>4x-20=0<br>4x=20<br>x=5<br><br>x+2<br>=5+2=7<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "4x23-2x126x34-jawab-310",
+            "question": "4x+2/3-2x+1/2=6x+3/4 \r\njawab;",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "4x + 2/3 - 2x + 1/2 = 6x + 3/4<br>4x - 2x - 6x\u00a0 = 3/4 - 2/3 - 1/2<br>-4x\u00a0 = -5/12<br>x = -5/12/4<br>x = -5/12 x 1/4<br>x = -5/48<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "rasionalkan-penyebut-bilangan-brkt-6-2-3-381",
+            "question": "Rasionalkan penyebut bilangan brkt:\r\n \u221a6\u00a0 \u00a0 \r\n2 \u221a3",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span><u>\u221a6\u00a0 \u00a0 <br></u>2 \u221a3<br>=</span><br><u>\u221a6</u><span><u>\u221a3\u00a0 \u00a0 <br></u>2 \u221a3</span><span>\u221a3<br>=<br></span><u>\u221a18</u><span><u>\u00a0 \u00a0 <br></u>2 x 3<br>=<br></span><u>3\u221a2</u><br>6<br>=(1/2)\u221a2<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<u>\u221a6</u> \u00a0\u00a0 \u00d7 \u221a3<br>2 \u221a3\u00a0 \u00d7 \u221a3<br><br><u>\u221a18</u><br>\u00a0 6<br><br><u>\u221a9 \u221a2</u><br>\u00a0\u00a0 6<br><br>maka:<br><u>3 \u221a2</u><br>\u00a0 6<br><br><u>1 </u>\u221a2<br>2<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-jawab-pertanyaan-ini-dengan-cara-yang-jelas-jika-naik-b-923",
+            "question": "Tolong jawab pertanyaan ini dengan cara yang jelas !!    jika naik bentor , Dinda akan sampai di sekolah dalam waktu 45 \r\n menit dengan kecepatan rata rata 20 km/jam. Berapa kecepatan rata rata \r\n bentor agar Dinda sampai di sekolah dalam waktu 30 menit ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<strong><em>Cara:</em></strong><br>pecahan berbalik nilai:<br>t1=45 mnt<br>v1=20 km/jam<br>t2=30 mnt<br>v2=?<br><br>[tex]30x=45.20 \\\\ 30x=900 \\\\ x=900/30 \\\\x=30 km/jam[/tex]<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Sederhananya pakai perbandingan waktu aja, dalam hal ini waktu akan berbanding terbalik dengan kecepatan jika jarak yang ditempuh sama.<br>Maka hasilnya :<br><br>[tex] \\frac{45}{30} .20 =  \\frac{900}{30} = 30km/jam[/tex]",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

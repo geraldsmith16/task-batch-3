@@ -1,0 +1,134 @@
+{
+    "question": "Pada rangkaian seri pegas, k1=30N/m dan k2=20N/m, massanya 3kg. Berapa ktotal?",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "1/Ks=1/K1+1/K2<br>\u00a0\u00a0 \u00a0 \u00a0 =1/30 + 1/20<br>\u00a01/Ks=10/120<br>\u00a0\u00a0 \u00a0 Ks=120/10=12<br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "coba-jelasin-bagaimana-transformasi-lorentz-itu-soalnya-masih-921",
+            "question": "Coba jelasin bagaimana transformasi lorentz itu? \u00a0soalnya masih kurang ngerti aku. Thx:)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Transformasi Lorenz menyatakan transformasi ruang-waktu yang melandasi \nteori relativitas khusus antara dua pengamat yang bergerak dengan \nkecepatan konstan.<br>Transformasi Lorentz hanya berlaku untuk kerangka acuan yang bergerak \nseragam (tanpa percepatan) terhadap kerangka acuan lain. Pada \nkenyataannya kehadiran percepatan tidak dapat dipungkiri dalam kehidupan\n sehari-hari. Contohnya adalah: jika penumpang keretaapi tadi menarik \nrem darurat tiba-tiba, maka ia akan merasakan percepatan ke arah \nlokomotif, atau keretaapi mengalami perlambatan. Jika hanya bermodalkan \nTRK, maka keraguan terhadap prinsip relativitas akan merasuki kita untuk\n kasus ini. Namun Einstein berusaha mencari pemecahannya dengan motivasi\n bahwa hukum alam tetap sama untuk kerangka acuan jenis apapun.         \n <br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span>\u00a0transformasi Lorentz ditemukan pengabaian fundamental pada arah sebaran cahaya dari objek kepada pengamat yang mengakibatkan tidak terpenuhinya kondisi tertentu dalam konsep koordinat ruang dan waktu.</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-lensa-cembung-mempunyai-fokus-sebesar-15-cm-jika-sebuah-b-783",
+            "question": "Sebuah lensa cembung mempunyai fokus sebesar 15 cm. Jika sebuah benda diletakkan 20 cm dari lensa. Tentukan :    a. Jarak bayangan;\r\nb. Perbesaran bayangan; dan\r\nc. Sifat bayangan",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Diketahui :<br>f = 15<br>s = 20<br><br>a. [tex] \\frac{1}{f} =  \\frac{1}{s} + \\frac{1}{s\u2081} [/tex]<br>[tex] \\frac{1}{15} = \\frac{1}{20} + \\frac{1}{s\u2081} \n \\frac{1}{s\u2081} =\u00a0 \\frac{1}{15} - \\frac{1}{20} \n \\frac{1}{s\u2081} = \\frac{4-3}{60} [/tex]<br>s\u2081 = 60<br><br>b. |M| = [tex] \\frac{\\frac{60}{20} [/tex]<br>|M| = 3<br><br>c. Sifat Bayangan:<br>maya, tegak, diperbesar<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-bola-pejal-bermassa-0036-kg-dan-jari-jari-12-cm-menggeli-832",
+            "question": "sebuah bola pejal bermassa 0,036 kg dan jari-jari 1,2 cm menggelinding menuruni suatu bidang miring. Bola pejal itu mula-mula bergerak dengan kecepatan 0,5 m/s. Berapakah kecepatan bola itu ketika ketinggiannya berkurang 14 cm? g=10 m/s \u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1. hukum kekekalan massa<br>1/2 m v\u00b2+m g h+ 1/2 I \u03c9\u00b2-1/2 m v\u00b2- I \u03a9\u00b2=0<br>1/2 m v\u00b2+m g h+1/2 I (v/r)\u00b2-1/2 m v\u00b2- 1/2 I (v/r)\u00b2=0<br>1/2 m v\u00b2+m g h+1/2 (2/5) (mr\u00b2) (v/r)\u00b2- 1/2 m v\u00b2- 1/2 ((2/5)(mr\u00b2))(v/r)\u00b2=0<br>sederhanakan<br>gh+7v\u00b2/10-7v\u00b2/10=0<br>(9.8)(0.14)+7(0.5)\u00b2/10-7v\u00b2/10=0<br>v=1.48661 m/s<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-sebuah-katrol-berbentuk-silinder-homogen-dengan-massa-2-241",
+            "question": "Diketahui sebuah katrol berbentuk silinder homogen dengan massa 2 kg,jari jari 20 cm,dan F=10 N.tentukan    a.momen gaya yang dikerjakan F pada katrol\r\n b.momen inersia katrol\r\n c.percepatan sudut katrol",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a.) momen gaya= F . r = 10 . 0,2 = 2 Nm\u00a0<br>b.) I = MR\u00b2 / 2 = 2 . 0,2\u00b2 = 0,08 kgm\u00b2\u00a0<br>c.) momen gaya = I .\u00a0\u03b1\u00a0\u21d4\u00a0\u03b1 = momen gaya / I = 2 / 0,08 = 25 rad/s\u00b2\u00a0<br>maaf kalau salah\u00a0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-partikel-bermassa-1-g-berputar-mengelilingi-poros-dengan-k-562",
+            "question": "Sebuah partikel bermassa 1 g berputar mengelilingi poros dengan kecepatan 90 rpm.Jika jarak partikel ke poros 50 cm,tentukan besar momentum sudutnya?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "massa 1 gram = 0,001 kg<br>kecepatan = 90 putaran/menit<br>frekuensi = 90/60 Hz = 1,2 Hz<br>momentum sudut = 2. phi. f = 2 . phi . 1,2 Hz = 2,4 rad/s<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "contoh-rangkaian-campuran-732",
+            "question": "Contoh rangkaian campuran",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "kendaraan bermotor yang sebagian besar komponennya terdapat beban listrik yang lebih banyak dari rangkaian seri<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "rangkaian antara rangkaian pararel dan rangkaian seri. contohnya rangkaian dalam kendaraan bermotor",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "mengapa-cahaya-tampak-tidak-mengakibatkan-kulit-menjadi-hitam-te-684",
+            "question": "Mengapa cahaya tampak tidak mengakibatkan kulit menjadi hitam, tetapi cahaya ultraviolet mampu menghanguskan kulit? Jelaskan!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "karena ultraviolet itu di hasilkan oleh pemakaian patfum , kendaraan ,dll sebagainnya yg mengandung apa gituh dan jika terkena kulit bisa jga kena kangker...<br>#maafudhgkLHlglupa -_-",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebatang-tembaga-dipanaskan-sampai-3000-c-lalu-dijepit-dengan-560",
+            "question": "Sebatang tembaga dipanaskan sampai 300^{0} C, lalu dijepit dengan kuat, sehingga tidak dapat menyusut ketika suhunya turun. Jika tegangan patahnya 220 x 10^{6} N/m^{2}, pada suhu berapakah batang akan mulai putus saat suhunya diturunkan? Diketahui modulus Young tembaga 110 x 10^{9} N/m^{2} dan koefisien muai panjang 15 x ^{-6} K.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "menurut Teori elastisitas, <br><br>\ntegangan = modulus Elastisitas *  regangan <br><br>\n\u03c3 = E \u03b5 <br><br>\n\u03c3 = E \u0394L/L <br><br>\n\u03c3 = E \u03b1 \u0394T <br><br>\n220 * 10^6 = (110 * 10^9)(15 * 10^-6)(300 - t) <br><br>\nt = 166.67 \u00b0C  <br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "kak-tolong-jelasin-tentang-rumus-hukum-newton-2-698",
+            "question": "Kak tolong jelasin tentang Rumus hukum newton 2",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "percepatan yg dihasilkan oleh resultan gaya bekerja pada suatu benda berbanding lurus dgn resultan gaya dan searah dengan resultan gaya dan berbanding terbalik dgnn massa",
+                    "attachments": []
+                },
+                {
+                    "answer": "\"Percepatan sebuah benda berbanding lurus dengan resultan gaya dan berbalik terbalik dengan massa benda.\"<br>a= F/m<br><u></u><strong>S\u00a0F= m a</strong><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "rumus-reaksi-sempurna-kimia-apa-ya-374",
+            "question": "Rumus reaksi sempurna kimia apa ya?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>C8H18 (l) +12 \u00bd O2 (g) \u2013&gt; 8 CO2 (g) + 9 H2O (g) \u0394H = -5460 kJ</span>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

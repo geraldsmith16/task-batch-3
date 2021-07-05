@@ -1,0 +1,140 @@
+{
+    "question": "HELP ME!!    1)\u00a0Tepat di tengah\u00a0batang ditancapkan paku. Masa batang adalah 0,4 kg. Berapakah kecepatan sudut yg dialami batang jika diputar dari keadaan diam selama 5 menit?\r\n\r\n2)\u00a0Dari keadaan diam sebuah lempeng silinder pejal tipis berdiameter 400 cm menuruni sebuah bidang miring seperti gambar. Berapa kecepatan silinder di titik x?",
+    "attachments": [
+        "question-attachments/help-me-1-tepat-di-tengah-batang-ditancapkan-paku-masa-bata-439-1.jpg"
+    ],
+    "answers": [
+        {
+            "answer": "yang nomor 2 pakai hukum kekekalan energi .....<br>Em1=Em2 <br>Ep=EK ( Rotasi) + EK ( Translasi )\u00a0 { sudah diajarkan kan persamaan ini????} <br>m.g.h=[tex] \\frac{1}{2} [/tex] m.[tex] v^{2} [/tex] + [tex] \\frac{1}{2} [/tex] I . [tex]w^{2} [/tex]<br>m.g.h= [tex] \\frac{1}{2} [/tex] { m . [tex] v^{2} [/tex] + [tex] \\frac{1}{2} [/tex] m.[tex] r^{2} [/tex] . [tex] \\frac{ v^{2} }{ r^{2} } [/tex] } } <br>\u00a0\u00a0 g.h = [tex] \\frac{1}{2} [/tex] m.[tex] v^{2} [/tex] + [tex] \\frac{1}{4} [/tex] m.[tex] v^{2} [/tex]<br>\u00a0\u00a0 v = [tex] \\sqrt{ \\frac{4}{3}  . gh} [/tex]",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "sebuah-bola-pejal-yang-massanya-10-kg-dan-jari-jarinya-20-cm-meng-777",
+            "question": "sebuah bola pejal yang massanya 10 kg dan jari-jarinya 20 cm menggelinding dengan kecepatan 8 m/s . berapakah energi kinetiknya?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "ek = 1/2 . mv^2 = 1/2 . 10 kg . 8^2 = 1/2 . 10. 64 = 320 joule<br>ingat ya m= 10 kg<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 v = 8 m/s<br>jika m dan v sudah diketahui kita uda bisa ngerjain energi kinetiknya :)",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-pegas-yang-digantung-vertikal-kebawah-dengan-panjang-mula2-917",
+            "question": "Sebuah pegas yang digantung vertikal kebawah dengan panjang mula2 12cm , setelah ujung bawah dibebani massa 150 gram , makapanjang pegas menjadi 15cm, kostanta elastisitas pegas tsb adalah... N/m (g 10m/s) \u00a0 beserta caranya",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "diket : lo= 12 cm = 12 x 10\u00a0^ -2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 m = 150 g = 0,15 kg\u00a0<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 Lt= 15 cm = 15 x 10^ -2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 x = 3 cm = 3 x 10 ^ -2<br>tanya : K<br>jawab : k= m.g / x<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 k= 15 x 10^-2 : 3 x 10^-2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 k= 5<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apakah-pengertian-gaya-berat-dan-contoh-gaya-berat-588",
+            "question": "Apakah pengertian gaya berat dan contoh gaya berat?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "gaya berat adalah resultan gaya tarik bumi dan gaya sentrifugal yang bekerja pada suatu benda",
+                    "attachments": []
+                },
+                {
+                    "answer": "kemampuan untuk melakukan usaha",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bola-bowling-memiliki-berat-70-n-bola-itu-diam-pada-dinding-yang-914",
+            "question": "bola bowling memiliki berat 70 N, bola itu diam pada dinding yang licin jika bola dianggap homogen tentukan gaya normal di titik a dan b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Maaf sebelumnya,apakah mizzpurple66 salah menulis soal.karna saat bola berada di dinding otomatis bola akn bergerak ke bawah.saya misalkan dinding itu menjadi lantai dan mengapa tidak ada gambar?titik a dan b apakah seperti ini ?a\u00a0\u208b\u208b\u208b\u208b\u208b\u208b\u208b\u208b\u208b\u208b\u208b\u208b\u208bb<br>\u00a0jadi:<br>W=N<br>70=N<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apa-rumus-tekanan-dan-cara-penyelesaian-nya-gmna-350",
+            "question": "Apa rumus tekanan...\r\n dan cara penyelesaian nya gmna..",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "rumus tekanan P = F/A<br>P = tekanan (pa)<br>F = gaya (N)<br>A = luas bidang tekan (m^2)",
+                    "attachments": []
+                },
+                {
+                    "answer": "Tekanan adalah hasil bagi gaya tekan dengan luas bidang tekan. <br>&gt; Luas bidang yg kecil menghasilkan tekanan yg besar dan sebaliknya, dan semakin besar gaya yg bekerja pd benda semakin besar pula tekanannya..<br>rumus nya : P = <u>F</u><br>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0A<br>P = tekanan(N/m\u00b2)<br>F = gaya(N)<br>A = luas bidang tekan(m\u00b2)<br>N : Newton <br>m : meter<br>_langsung aja dikerjakan pake rumusnya..<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "seorang-siswa-menyelidiki-tinggi-sebuah-gedung-dengan-menjatuhkan-601",
+            "question": "seorang siswa menyelidiki tinggi sebuah gedung dengan menjatuhkan benda dari lantai teratas. teman lain mengukur ternyata benda tersebut sampi di tanah dalam waktu 3 sekon. (percepatan gravitasi=10 ms) dapat disimpulkan bahwa tinggi gedung adalah?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "h= 1/2 gt ^2=\u00a045 m<br>\u00a0tinggal di subt saja<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "dik : \u00a0h= benda<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0t\u00a0= 3 s<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0g=10 m/s<br>dit = tinggi gedung....?<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pemanas-air-dengan-spesifikasi-200-watt-digunakan-untuk-memanaska-817",
+            "question": "Pemanas air dengan spesifikasi 200 watt digunakan untuk memanaskan air bersuhu 30 C sebanyak 0,5 kg. kalor jenis air 4200 J//kg C. Berapa lama waktu yang diperlukan hingga air mencapai suhu 10 C?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Q= M.C.\u0394t<br>m.c<u></u>/ Q=\u00a0\u0394t<br>0.5x4200/20 =105 menit",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apa-itu-sebenarnya-momentum-311",
+            "question": "Apa itu sebenarnya momentum?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "momentum adalah saat yang menentukan<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Dalam\u00a0fisika<span>,\u00a0</span>momentum<span>\u00a0atau\u00a0</span>pusa<span>\u00a0adalah besaran yang berhubungan dengan\u00a0</span>kecepatan<span>\u00a0dan\u00a0</span>massa<span>\u00a0suatu benda.</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-saya-membutuhkan-3-soal-yang-berkaitan-dgn-vektor-645",
+            "question": "Tolong saya membutuhkan 3\u00a0soal yang berkaitan dgn Vektor.?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>vektor gaya yang sama, masing\u00b2 besarnya 10newton,<br>tentukan nilai resultan masing\u00b2 vektor.,?<br><br></span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-partikel-bermassa-1-g-berputar-mengelilingi-poros-dengan-k-562",
+            "question": "Sebuah partikel bermassa 1 g berputar mengelilingi poros dengan kecepatan 90 rpm.Jika jarak partikel ke poros 50 cm,tentukan besar momentum sudutnya?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "massa 1 gram = 0,001 kg<br>kecepatan = 90 putaran/menit<br>frekuensi = 90/60 Hz = 1,2 Hz<br>momentum sudut = 2. phi. f = 2 . phi . 1,2 Hz = 2,4 rad/s<br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

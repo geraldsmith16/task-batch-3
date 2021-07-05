@@ -1,0 +1,138 @@
+{
+    "question": "1. dari sejumlah siswa diketahui 25 siswa gemar matematika , 21 siswa gemar bahasa inggris , dan 9 siswa gemar keduanya ..jumlah siswa pada kelompok itu adalah........    2. terdapat 30 pengendara sepeda motor yang terkena tilang .pengendara tidak membawa sim ada 15orang , 17 tidak membawa stnk dan 5 pengendara melakukan pelanggaran lain. banyaknya pengendara yang terkena tilang ,tidak membawa sin dan stnk adalah .....\r\n\r\n3.didalam suatu kelas terdiri dari 43 siswa , siswa yang gemar matematika 29 orang , sedangkan yang gemar bahasa ada 27 orang . jika ada 6 orang yang tidak gemar matematika \u00a0maupun bahasa maka berapa banyaknya siswa yang gemar keduanya ?\u00a0\r\n\r\ntolong dikasih caranya ya ......\r\ntolaong dibantu ......",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "1. ( 25 - 9 ) + ( 21 - 9 )<br>= 16 + 12<br>= 28<br>jadi,\u00a0jumlah siswa di kelompok itu adalah 28 siswa<br><br>2. maaf yg no. 2 kurang tau<br><br>3. 29 + 27 + 6 = 62 - 43<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0= 19<br>jadi, banyak siswa yg gemar keduanya adalah 19 siswa<br><br>kalau hitungan nya ada yg salah mohon maaf :)",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "1berikut-ini-yg-tdk-ekuivalen-dgn-4x-5-17-adalah-2penye-210",
+            "question": "1.berikut ini yg tdk ekuivalen dgn 4x + 5 = 17 adalah ...    2.penyelesaian dari 5x\u00a0+ 4 = 2x - 8 adalah ..",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "2. 5x + 4 = 2x -8 =<br>5x - 2x +8 - 4<br>3x + 4<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "1. 4x + 5 = 17<br>4x = 12<br>x = 3 (untuk jawaban yang tidak ekuivalen, cari jawaban yang mana Xnya bukan 3)<br><br>2. 5x + 4 = 2x - 8<br>3x = -12<br>x = -4<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "keliling-sebuah-segi-tiga-sama-sisi-adalah-36cm-jika-garis-inginn-595",
+            "question": "Keliling sebuah segi tiga sama sisi adalah 36cm jika garis inginnya 10 cm maka luas segitiga itu adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a+b+c= 36<br>36:3= 12<br>Luas= alasxtinggi /2<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 12x10/2<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 =60<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pola-bilangan-ganjil-bentuk-umum-un-a-n-1-b-ten-448",
+            "question": "Pola bilangan ganjil \u00a0    bentuk umum Un = a + ( n-1) b \u00a0 \u00a0\u00a0\r\n\r\ntentukan suku n \u00a0=\r\n\r\n1) 7,13,,19,25,31,...\r\n2) 50,41,38,32,...\r\n3)\u00a012,7,2,-3,-8,...\r\n\r\n*jwbnnya pakai rumus dan cara ya?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1.) a = 7<br>b = 6<br>Un<span> = a + ( n-1) b <br></span><span>Un = 7+ (n-1)6<br></span><span><span>Un = </span>7+6n-6<br></span><span>Un =6n+1<br>3.) a= 12<br>b= -5</span><br>Un = a + ( n-1) b <br>Un<span> =</span> 12+ (n-1)-5<br>Un= 12 - 5n + 5<br>Un= 17-5n<br><br><br><br><br><br><br><br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "setelah-9-bulan-uang-tabungan-suci-di-koperasi-berjumlah-381400-418",
+            "question": "setelah 9 bulan uang tabungan suci di koperasi berjumlah 3.814.000. koperasi memberikan jasa bunga berupa 12% per tahun. tabungalawal sucidi koperasi adalah ........",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "3814:9 =423,78 x1000 = 423780 x12 =5085360 x88/100 =4475117 :12 =372926,5",
+                    "attachments": []
+                },
+                {
+                    "answer": "Tab.Awal=tab.akhir.100/100+%b<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0=381400000/109<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0=3.499.082,5",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "faktor-dari-2x2-5x-12-pangkat-154",
+            "question": "Faktor dari (2x^2 - 5x -12) =\r\n^ : pangkat\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "2x^2 - 5x -12 = (2x + 3)(x - 4)<br>x1 = 2x + 3 = 0<br>\u00a0\u00a0 \u00a0 \u00a0  2x = -3<br>\u00a0\u00a0 \u00a0 \u00a0 x = -3/2<br><br>X2 = x - 4 = 0<br>\u00a0\u00a0 \u00a0 \u00a0  x = 4<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-dijawabnya-nyatakan-himpunan-berikut-sebagai-himpunan-kos-426",
+            "question": "tolong dijawabnya !nyatakan himpunan berikut sebagai himpunan kosong atau bukan himpunan kosong! petanyaan himpuan bilangan kuadrat antara 30 dan 50 !! dijawabnyaa",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]A=\\{36,49\\}[/tex]",
+                    "attachments": []
+                },
+                {
+                    "answer": "{36,49}<br>semoga jawabanku mmbantu<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-nilai-xjika-2x12x22x32x504275-589",
+            "question": "Tentukan nilai x,jika (2x+1)+(2x+2)+(2x+3)+....+(2x+50)=4275",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Sn = U1 + U2 + U3 .....+ U50\u00a0<br>Sn = a + (a+b) + (a+2b) + ....\u00a0<br>a / U1 = 2x + 1<br>Sn = 4725\u00a0<br>n = 50\u00a0<br>b = U2 - U1<br>b\u00a0= (2x + 2) - (2x +1)<br>b= 1<br><br>Rumus Sn = n/2 (2a + (n-1) b)\u00a0<br>4725 = 50 / 2 (2 (2x + 1) + (50 - 1) 1)<br>4275 = 25 ( 4x +2 + 49)<br>4275 = 25 ( 4x + 51)\u00a0<br>4275 = 100x + 1275<br>4275 - 1275 = 100x<br>3000 = 100x\u00a0<br>30 = x",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-jawab-dan-berikan-caranya-suatu-pekerjaan-di-selesaikan-193",
+            "question": "Tolong jawab dan berikan caranya !!    Suatu pekerjaan di selesaikan oleh 24 pekerja, akan selesai dalam 60 hari setelah di kerjakan 25 hari , Pekerjaan berhenti selama 5 hari karena hujan, berapa pekarja tambahan yang di perlukan agar pekerjaan itu cepat selesai tepat waktu sesuai rencana?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]pekerja tambahan= \\frac{byk pekerja awal x libur}{sisa hari}=\\frac{24.5}{30}  \\\\=120/30=4[/tex]<br><br><strong><em><u>Jadi pekerja tambahan=4 orang</u></em></strong>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-sebuah-segitiga-panjang-sisinya-adalah-8-cm-15-cm-17-483",
+            "question": "Diketahui sebuah segitiga panjang sisinya adalah 8 cm, 15 cm, 17 cm. hitunglah panjang jari-jari lingkaran dari dalam segitiga dan luas segitiga.    tolong dijawab. besok mau dikumpul..",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "\u00a0 \u00a0 \u00a0segitiga dengan sisi 8 , 15 dan 17\u00a0<br>\u00a0adalah segitiga siku2 jadi luas = 1/2 alas x tinggi \u00a0= 1/2 x8 x 15<br>s = 1/2(8+15+17)=20<br>r lingkaran dalam adalah r = (s - a)tan 1/2\u03b1<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0=( 20 - 17) tan 1/2 90<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 3 tan 45\u00a0<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 3<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sederhanakanlah-bentuk-akar-tersebut-4268-323",
+            "question": "Sederhanakanlah bentuk akar tersebut! 4\u221a2+6\u221a8=",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]4\\sqrt{2}+12\\sqrt{2}=16\\sqrt{2}[/tex]",
+                    "attachments": []
+                },
+                {
+                    "answer": "4\u221a2 + 6 \u00d7 2\u221a2\u00a0 (\u221a8 = \u221a4\u00d72)<br>4\u221a2 + 12\u221a2<br>16 \u221a2",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

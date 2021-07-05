@@ -1,0 +1,144 @@
+{
+    "question": "Tentukan penyelesaian dari pertidaksamaan berikut (pakai cara)    1.2x - 4\u00a0&gt; 3x + 9\r\n2.\u00a02/3p + 4\u00a0\u2264 8\r\n3. 2y - 7 \u00a0 \u00a0 \u00a0 \u00a0\r\n--------------- \u00a0\u2264\u00a03\r\n\u00a0\u00a0 \u00a0 \u00a02",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "1.2x-4&gt;3x+9<br>=2x-3x&gt;4+9<br>=-x&gt;13<br>=x&lt;-13<br>ni jawaban no 1<br><span>2/3p + 4\u00a0\u2264 8<br>=2/3p&lt;8-4<br>=p&lt;2/3:4<br>=p&lt;3/2.4<br>=p&lt;6 <br>ni jawban no 2<br></span><br><span> 2y - 7\u00a0 /2\u00a0 \u2264\u00a03<br>=y-7/2&lt;3<br>=y&lt;3+7/2<br>=y&lt;6 1/3<br></span>jadi nya 6 satu per dua dek <br>ni jawb nya<br><br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "ada-dua-buah-kubus-vol-kubus1-8-x-dari-vol-kubus-2-jika-panja-645",
+            "question": "Ada dua buah kubus. Vol kubus1 = 8 x dari Vol kubus 2. Jika panjang sisi kubus 1 = y x p kubus 2, maka berapa y ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Dik :<br>V1 = 8 V2<br>p1 = y p2<br><br>Dit : y = ?<br>Jawab :<br>V1 = 8 x V2<br>(p1)pangkat 3 = 8 x (p2)pangkat 3<br>(y x p2)pangkat 3 = 8 x (p2)pangkat 3<br>y pangkat 3 x p2 pangkatt 3 = 8 x p2 pangkat 3<br>y pangkat 3 = 8<br>y = akar pangkat 3 dari 8<br>y = 2<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "persamaan-garis-yang-melali-titik-23-tegak-lurus-dengan-garis-786",
+            "question": "Persamaan garis yang melali titik (2,3) tegak lurus dengan garis y=3x+2",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "tegak lurus berarti: m1 x m2 = -1<br>maka gradien garis: 3 x m2 = -1<br>m2 = - 1/3<br>(2,3) adalah titik (x1,y1)<br><br>rumus persamaan<br>y - y1 = m2 ( x - x1)<br>y - 3 = - 1/3 ( x - 2)<br>y - 3 = - x/3 + 2/3<br>y = -x/3 + 2/3 + 3<br><strong>( </strong>y = 11/ 3 - x/3 <strong>)</strong> dikali 3<br>3y = 11 - x<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-penyelesaian-dari-persamaan-berikut-124q-5-q51-638",
+            "question": "Tentukan penyelesaian dari persamaan berikut!!!\r\n1/2(4q-5) = q+51/4 bagaimana caranya???...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1/2(4q-5) = q+51/4<br>2q-5/2 = q+51/4<br>2q-q = 51/4 + 5/2<br>q = 51/4 +10/4<br>q = 61/4",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-him-penyelesaian-dari-persamaanlinear-berikut-a-4y-10-277",
+            "question": "Tentukan him. penyelesaian dari persamaanlinear berikut?    a. 4y-10=14\r\nb. 7a+3= 0\r\nc. 8-4b= 6\r\nd. 24y-11=33-20y",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a. 4y-10 = 14<br>\u00a0\u00a0 4y = 14+10 <br>\u00a0\u00a0  4y = 24<br>\u00a0\u00a0 y = 24\u00f74<br>\u00a0\u00a0 y = 6<br>d. 24y - 11 = 33 - 20y<br>\u00a0\u00a0  24y + 20y = 33 + 11 <br>\u00a0\u00a0  44y = 44<br>\u00a0\u00a0 y = 44\u00f744<br>\u00a0\u00a0 y = 1 <br><br>yang saya tau hanya a dan d saja..<br>maaf kalau salah, ini jawaban saya :) <br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span>a. 4y-10=14<br>y = 14+10 / 4 = 24 / 4 = 6<br>b. 7a+3= 0<br>a = -3/7 <br>c. 8-4b= 6<br>b = 6-8 / -4 = 1/2<br>d. 24y-11=33-20y</span><br>24y+20y = 33 + 11<br>44y = 44<br>y = 44/44 = 1<br>itu jawaban saya, semoga benar dan bermanfaat<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "2-buah-lingkaran-masing-masing-memiliki-jari-jari-4-cm-dan-8-cm-430",
+            "question": "2 buah lingkaran masing-masing memiliki jari-jari= 4 cm, dan 8 cm. Perbandingan luas dari kedua lingkaran tersebut...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "L =\u00a0[tex] \\pi [/tex] r1\u00b2 :\u00a0L =\u00a0[tex] \\pi [/tex] r2\u00b2<br>4\u00b2 : 8\u00b2 = 16 : 64 = 1 :\u00a04",
+                    "attachments": []
+                },
+                {
+                    "answer": "LuasO =\u00a0[tex] \\pi  r^{2} [/tex]<br><br>LuasO1 =\u00a0[tex] \\pi  4^{2} [/tex]<br>LuasO2 =\u00a0[tex] \\pi  8^{2} [/tex]<br><br>Perbandingan luas = LuasO1 : LuasO2<br>Perbandingan luas =\u00a0[tex] \\pi [/tex]16 :\u00a0[tex] \\pi [/tex]64<br>Perbandingan luas = 1 : 4<br><br><strong>Note : Phi nya di coret<br></strong><strong><em><br>Semoga membantu :)</em></strong>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-lingkaran-memiliki-jari-jari-8m-berapakah-panjang-lintasan-108",
+            "question": "Jika lingkaran memiliki jari jari 8m, berapakah panjang lintasan yang ditempuh?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "k O = 2\u03c0r<br>\u00a0\u00a0 \u00a0 =\u00a0 2 x 3,14 x 8<br>\u00a0\u00a0 \u00a0 =\u00a0 50,24<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Lintasan=Keliling<br>2r=d=16<br>Kell.=\u03c0\u00b7d<br>=3,14\u00b716<br>=<strong>50,24</strong><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "andi-dapat-menyelesaikan-pekerjaan-dalam-waktu-3jam-sedangkan-bu-213",
+            "question": "Andi dapat menyelesaikan pekerjaan dalam waktu 3jam, sedangkan budi dapat menyesaikan pekerjaan dalam waktu 2jam. Jika Andi dan Budi menyelesaikan pekerjaan tersebut bersama sama ,maka hitunglah waktu yang di perlukan keduanya ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "andi = 3 jam<br>budi = 2 jam<br><br>3-2 = 1<br><br>jadi jawabanya 1 jam<br><br>sorry, tadi salah baca soal",
+                    "attachments": []
+                },
+                {
+                    "answer": "Andi = 3 jam<br>Budi = 2 jam<br>Selisih = 3-2 = 1 jam.<br>Karena mereka mengerjakannya bersama-sama maka waktunya cuma 1 jam.\u00a0<br>Maaf klo salah",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-yg-tw-gw-kasih-poin-banyak-787",
+            "question": "Tolong yg tw gw kasih poin banyak :)",
+            "attachments": [
+                "question-attachments/tolong-yg-tw-gw-kasih-poin-banyak-787-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "4. jumlah siswa 40<br>30 gemar mat, 26 gemar fisika, 2 org tidak gemar keduanya, yang gemar keduanya dianggap x<br>maka :<br>40 = (30 - x) + x + (26 - x) +2<br>40 = 58 - x<br>x = 18<br><br>5. 23 gemar bakso dan mie, 45 gemar bakso, 34 gemar mie, 6 org tidak kedua nya, jumlah dianggp x maka :<br>x = 23 + (45 - 23) + (34 - 23) + 6<br>x = 62<br><br>1. jumlah smua 60, gemar basket 50, bulu tangkis 40, 35 gemar keduanya<br>maka :<br>60 = (50 - 35) + (40 - 35) + 35 + x<br>60 = 55 + x<br>5 = x<br><br>2. jumlah 38, menjahit 27, lukis 23, kedua nya 15, ketidak 2\" nya dianggap x<br>maka :<br>38 = (27 - 15) + (23 - 15) + 15 + x<br>38 = 35 + x<br>3 = x<br><br>3. jumlah 30, gemar bacca 25, nyanyi 20, 4 tidak keduanya, gemar keduanya dianggap x<br>maka :<br>30 = (25 - x) + (20 - x) + x + 4<br>30 = 49 - x<br>x = 19<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-penyelesaian-dari-pertidaksamaan-berikut-a12x-5-509",
+            "question": "tentukan penyelesaian dari pertidaksamaan berikut : a).1/2x + 5 &gt;15 b).2-(4 + x) tidak lebih dari-22 c).2/3p + 4 tidak kurang dari 8 d).2x-4&gt;3x+9 \u00a0 prtidaksamaan dalam variebel",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a)x&gt;20<br><br>c)p tdk kurang dari 2<br><br>d)x&gt;-12<br><br>sorry kalau salah",
+                    "attachments": []
+                },
+                {
+                    "answer": "a)1/2x + 5 - 5 &gt; 15 - 5<br>1/2x &gt; 10<br>x &gt; 20<br>x = {21,22,23,24,.......}<br><br>b)<span>.2-(4 + x) tidak lebih dari-22<br>maksudnya gmn -_- gk tau<br><br>c)</span><span>2/3p + 4 tidak kurang dari 8<br>2/3p + 4 - 4\u00a0&gt; 8 - 4<br>2/3p &gt; 4<br>2/3p x 3 &gt; 4 x 3<br>2p &gt; 12<br>p &gt; 6<br>p = {9,10,11,12,....}<br><br>d) ( gk tau ) -_-</span><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dalam-sebuah-kelas-terdapat-48-anak-anak-yang-gemar-matematika-3-838",
+            "question": "dalam sebuah kelas terdapat 48 anak ,anak yang gemar matematika 35 anak ,yang gemar fisiika 40 anak dan yang gemar kedua-duanya 30 anak .berapa anak yang tidak gemar matematika fiisika",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "48 - ( 35+40-30) = 48 - 45 = 3<br>Jadi ada 3 orang yang tidak gemar matematika dan fisika.",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

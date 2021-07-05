@@ -1,0 +1,136 @@
+{
+    "question": "Diketahui sebuah katrol berbentuk silinder homogen dengan massa 2 kg,jari jari 20 cm,dan F=10 N.tentukan    a.momen gaya yang dikerjakan F pada katrol\r\n b.momen inersia katrol\r\n c.percepatan sudut katrol",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "a.) momen gaya= F . r = 10 . 0,2 = 2 Nm\u00a0<br>b.) I = MR\u00b2 / 2 = 2 . 0,2\u00b2 = 0,08 kgm\u00b2\u00a0<br>c.) momen gaya = I .\u00a0\u03b1\u00a0\u21d4\u00a0\u03b1 = momen gaya / I = 2 / 0,08 = 25 rad/s\u00b2\u00a0<br>maaf kalau salah\u00a0",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "dimanakah-sebuah-benda-harus-diletakkan-didepan-cermin-cekung-yan-868",
+            "question": "dimanakah sebuah benda harus diletakkan didepan cermin cekung yang R=30cm yang diperbesar 3 kali dan nyata?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "30 X 3 = 90 benda yang akan diletakan di depan cermin adalah 90 cm<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sumber-bunyi-a-menghasilkan-taraf-intensitas-10-db-ketika-dibunyi-675",
+            "question": "Sumber bunyi A menghasilkan taraf intensitas 10 dB ketika dibunyikan terpisah, sedangkan sumber bunyi B menghasilkan traf intensitas 20 dB ketika dibunyikan terpisah. Jika dua sumber bunyi tersebut dibunyikan bersama maka intensitas bunyi gabungan dinyatakan dengan intensitas ambang pendengar Io adalah ......",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "jawab.<br>Tl = 10 log l/lo<br>10 db = 10^1<br>20 db = 10^2<br><br>(10+20) db = 10 l/10^-12<br>30 db = 10 log l/10^-12<br>l = 10^3 x 10^-12/10 log<br>\u00a0= 10^-9 W/m^2<br>\u00a0<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "penjelasan-tentang-momen-inersia-berbagai-benda-tegar-homogen-706",
+            "question": "Penjelasan tentang momen inersia berbagai benda tegar homogen",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Benda tegar tersusun dari banyak partikel yang tersebar di seluruh \nbagian benda. Momen inersia suatu benda tegar merupakan jumlah semua \nmomen inersia masing-masing partikel penyusun benda tegar.<br><br><br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span>Benda tegar tersusun dari banyak partikel yang tersebar di seluruh \nbagian benda. Momen inersia suatu benda tegar merupakan jumlah semua \nmomen inersia masing-masing partikel penyusun benda tegar.<br></span><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "rumus-rumus-menurut-teori-atom-planck-yang-benar-adalah-825",
+            "question": "Rumus-rumus menurut teori atom planck yang benar adalah?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "E= h.\u00b7v<br>E= ENEGI<br>H= KONSTANTA<br>V= FREKUENSI RADIASI<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "seorang-dengan-massa-60-kg-berada-dalam-lift-yang-sedang-bergerak-595",
+            "question": "Seorang dengan massa 60 kg berada dalam lift yang sedang bergerak ke bawah dengan percepatan 2m/s\u00b2. Jika g = 10m/s\u00b2 ,maka gesekan kaki orang pada lantai lift adalah....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kelas : X<br>Mata Pelajaran : Fisika<br>Kategori : Bab Dinamika partikel<br>Kata Kunci : Gerak pada Lift<br><br>Jawaban berupa lampiran<br><br><br><br>",
+                    "attachments": [
+                        "answer-attachments/seorang-dengan-massa-60-kg-berada-dalam-lift-yang-sedang-bergerak-595-1.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "rumus-alfa-jika-hanya-diketahui-womega-massa-jari-jari-waktu-343",
+            "question": "Rumus alfa jika hanya diketahui W(OMEGA), massa, jari jari, waktu(s), frekuensi",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "\u03b1 = \u0394\u03c9/\u0394t<br>\u03b1 = torsi/inersia<br>\u03b1 = \u03c9t-\u03c9o/t-to",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "satuan-momen-gaya-torsi-adalah-a-kg-m2s2-c-535",
+            "question": "Satuan momen gaya ( torsi ) adalah...    a. kg m\u00b2s\u00b2 \u00a0 \u00a0 \u00a0 \u00a0 c. kg\u00b2 m\u00b2 s \u00a0 \u00a0 \u00a0 \u00a0 \u00a0e. kg\u00b2 / m\u00b2 s\u00b2\r\nb. kg m\u00b2 / s\u00b2 \u00a0 \u00a0 \u00a0 d. kg\u00b2 m\u00b2 / s\u00b2\r\n\r\nseorang penari balet berputar dengan kecepatan\u00a0\u03c91 sambil ,merentangkan tangannya dengan momen inersia I1. penari tersebut kemudian melipat tangannya hingga kecepatan sudutnya menjadi\u00a0\u03c92 dan momen inersianya menjadi I2. jika\u00a0\u03c92 = 2\u00a0\u03c92 maka...\r\na. I2 = I1/4\r\nb. I2 = I1/2\r\nc. I2 = I1\r\nd. I2 = 2 I1\r\ne. I2 = 4 I1",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "I2 = I1/4<br>b. I2 = I1/2<br>c. I2 = I1<br><span>d. I2 = 2 I<br>ini jawabnya gan</span>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Maaf mohon diperiksa kembali soalnya sepertinya terdapat kesalahan Satuan Momen Gaya(Torsi/Torka) = Nm atau Kgm\u00b2<br>Untuk Soal ke 2 tolong diperiksa kembali karena\u00a0\u03c92=\u00a02\u03c92 bagaimana dikerjakan ?",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apa-yang-dimaksud-dengan-peluruhan-552",
+            "question": "Apa yang dimaksud dengan peluruhan ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>Peluruhan radioaktif adalah peristiwa berubahnya sebuah materi radioaktif menjadi materi lainnya dengan pemancaran radiasi.<br><br><br>semogA MEMBANTu :)\u00a0</span>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span><strong><u><em>Peluruhan\u00a0</em></u></strong></span><strong><u><em>adalah kumpulan beragam\u00a0di mana sebuah\u00a0</em></u></strong><strong><u><em>inti atom</em></u></strong><strong><u><em>\u00a0yang tidak stabil memancarkan\u00a0</em></u></strong><strong><u><em>partikel subatomik</em></u></strong><strong><u><em>\u00a0(</em></u></strong><strong><u><em>partikel radiasi</em></u></strong><strong><u><em>). Peluruhan terjadi pada sebuah\u00a0</em></u></strong><strong><u>nukleus induk</u></strong><strong><u><em>\u00a0dan menghasilkan sebuah\u00a0</em></u></strong><strong><u>nukleus anak</u></strong><strong><u><em>. Ini adalah sebuah proses \"acak\" (</em></u></strong><strong><u>random</u></strong><strong><u><em>) sehingga sulit untuk memprediksi peluruhan sebuah atom.</em></u></strong>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-tali-dengan-panjang-08-m-dapat-mengerjakan-gaya-sebesar-4-345",
+            "question": "sebuah tali dengan panjang 0,8 m dapat mengerjakan gaya sebesar 4 N tanpa putus. tali itu digunakan untuk mengayunkan suatu benda bermassa 0,5 kg dalam suaru lingkaran horizontal. tentukan periode minimum agar benda dapat diayun tanpa menyebabkan tali putus.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "F= 4 N<br>r= 0,8m<br>m= 0,5 kg<br><br>T=F=mv^2/r<br>v^2 = F . r/m<br>v^2 = 4 . 8/5 =32/5 = 6,4<br><br>v= omega . r<br>v^2= omega^2 . r^2<br>6,4 = omega^2 . 0,8^2<br>omega^2= 6,4/0,64<br>omega^2 = 10<br>omega =\u221a10<br><br>omega= 2 phi /T<br>T= 2 phi / omega<br>T = 2 phi/ \u221a10<br><br>(maaf kalo salah, mata ane udah tinggal 5 watt)<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pemain-bilyar-menyodok-bola-dengan-gaya-50-n-jika-impuls-yang-te-838",
+            "question": "Pemain bilyar menyodok bola dengan gaya 50 N. Jika impuls yang terjadi adalah 25Ns, tentukan lama bola bersentuhan dengan tongkat penyodok. Berserta caranya !",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "I=F\u0394t<br>25 Ns=50 N\u00a0\u00d7\u00a0\u0394t<br>\u0394t=[tex] \\frac{25}{50} [/tex]=[tex] \\frac{1}{2} [/tex]=0,5 sekon<br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

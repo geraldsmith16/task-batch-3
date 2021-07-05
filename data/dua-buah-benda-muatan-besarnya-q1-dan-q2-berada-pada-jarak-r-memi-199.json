@@ -1,0 +1,136 @@
+{
+    "question": "Dua buah benda muatan besarnya Q1 dan Q2 berada pada jarak r memiliki gaya coulumb FC, berapa besar gaya coulumb jika\u00a0    a)muatan pertama diperbesar 6kali\u00a0\r\nb) jarak kedua muatan di perbesar 4 kali\u00a0\r\nc) kondisi jarak diperbesar r' = 7r\u00a0\r\n\r\npakai jalan dan penjelasannya ya ... please\u00a0",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "a)=6FC\u00a0 \u00a0\u00a0 karena k.q1.q2.6/r^2<br>b)=FC/16\u00a0 karena k.q1.q2/16r^2<br>c)=FC/49\u00a0 karena k.q1.q2/49r^2<br>CMIIW<br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "benda-bermassa-10-kg-di-atas-bidang-datar-licin-dipengaruhi-gaya-694",
+            "question": "Benda bermassa 10 kg di atas bidang datar licin dipengaruhi gaya 40 N membentuk sudut 60 derajat terhadap horizontal,jika g= 10 m/s^2.tentukan perpindahan benda setelah gaya bekerja 60 \u00a0sekon",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "karena permukaannya licin, maka fg (gaya gesek) = 0<br>cari\u00a0\u03a3 F = m.a<br>\u00a0 \u00a0 \u00a0F + w cos 30 = m .a \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0w = m .g<br>\u00a0 \u00a0 \u00a040 + (10.10.1/2\u221a3) = 10.a<br>\u00a0 \u00a0 \u00a0 40 + 50\u221a3 = 10.a<br>\u00a0\u221a3 = 1,73<br>40 + 50 (1,73) = 10a<br>40 + 86,5 = 10a<br>126,5 = 10 a<br>a = 126,5 /10<br>\u00a0 \u00a0= 12,65 m/s\u00b2<br>mudah2an benar -_-",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dimanakah-sebuah-benda-harus-diletakkan-didepan-cermin-cekung-yan-868",
+            "question": "dimanakah sebuah benda harus diletakkan didepan cermin cekung yang R=30cm yang diperbesar 3 kali dan nyata?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "30 X 3 = 90 benda yang akan diletakan di depan cermin adalah 90 cm<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apa-pengertian-dari-anergi-mekanis-dan-sebutkan-contohnya-379",
+            "question": "Apa pengertian dari anergi mekanis dan sebutkan contohnya?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "energi mekanis adalah energi yang dimiliki suatu benda karena sifat geraknya.\u00a0<br>contoh: kelapa yang jatuh ke tanah",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-balok-bermassa-m-berada-di-atas-lantai-mendatar-licin-di-d-923",
+            "question": "sebuah balok bermassa m berada di atas lantai mendatar licin di dorong dengan gaya mendatar 21,5 N sehingga mengalami percepatan 2m/s\u00b2.berapakah gaya yang harus diberikan agar percepatan menjadi 4m/s\u00b2??",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "F=m.a<br>21,5=m.2<br>m=10,75 kg<br><br>F=m.a<br>F=10,75.4<br>F=43N<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "kita buat perbandingan aja,karna massanya sama kan :)<br>maka\u00a0<br>F1= 21,5 N<br>a1= 2 m/s^2<br>F2 = ..?<br>a2= 4 m/s^2<br><br>maka ..<br>F1/F2 = a1/a2<br>21,5 N/F2 = 2/4<br>21,5 N/F2 = 1/2<br>21,5 N . 2 = F2<br>43 N = F2 :)",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apakah-semua-jenis-gaya-menyebabkan-pertambahan-panjang-pegas-177",
+            "question": "Apakah semua jenis gaya menyebabkan pertambahan panjang pegas ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "belum tentu, liat massa jga kk...<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "semua gaya mempengaruhi pegas<br>tetapi gaya tarik menyebabkan pertambahan panjang,sedangkan gaya dorong atau tekan menyebabkan pemendekann pada pegas :)",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dua-buah-piringan-memiliki-inersia-i-dan-2i-dipasang-pada-sat-452",
+            "question": "Dua buah piringan memiliki inersia (I) dan (2I) dipasang pada satu poros yang licin dan dapat berputar bersama sebagai satu system. Piringan pertama awalnya di putar dengan kecepatan sudut ( \u03c9 ) dan yg kedua dengan kecepatan sudut (2\u03c9) ( keduanya berputar dalam arah yg sama ) dan kemudian keduanya di satukan dan terus berputar dengan kecepatan sudut \u2126. \u2126 sama dengan\u2026??",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "kecepatan sudut total =\u00a0\u221a\u03c9^2 + 2\u03c9^2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0=\u221a 5\u03c9^2",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "rumus-alfa-jika-hanya-diketahui-womega-massa-jari-jari-waktu-343",
+            "question": "Rumus alfa jika hanya diketahui W(OMEGA), massa, jari jari, waktu(s), frekuensi",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "\u03b1 = \u0394\u03c9/\u0394t<br>\u03b1 = torsi/inersia<br>\u03b1 = \u03c9t-\u03c9o/t-to",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "ada-yang-tau-rumus-rumus-gerak-melingkar-beraturan-359",
+            "question": "Ada yang tau rumus rumus GERAK MELINGKAR BERATURAN ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "rumus gerak melingkar beraturan adalah<br>v = 2\u03c0R/T \u00a0\u00a0atau \u00a0v = 2\u03c0Rf\u00a0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "seorang-siswa-memiliki-massa-60-kg-jika-percepatan-gravitasi-bum-135",
+            "question": "seorang siswa memiliki massa 60 kg, jika percepatan gravitasi bumi 10 m/s\u00b2, dan percepatan bulan 5,6 m/s\u00b2. htung berat siswa tsb di bumi dan di bulan? jelaskan dengan diket, tanya, dan jawab. trim's",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "diket:<br>m = 60 Kg<br>g bumi = 10 m/s\u00b2<br>g bulan= 5,6 m/s\u00b2<br><br>tanya :<br>W\u00a0bumi ...?<br>W bulan...?<br><br>jawab :<br>\u00a0W\u00a0bumi = m . g bumi<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 60 Kg . 10 m/s\u00b2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 600 kg.m/s\u00b2 atau 600 Newton<br><br>W\u00a0bulan = m. g bulan<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 60 kg. 5,6 m/s\u00b2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 336,0 kg.m/s\u00b2 atau 336 Newton",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "buatlah-masing-masing-3-contoh-soal-dan-jawaban-dari-konduksi-977",
+            "question": "Buatlah masing masing 3 Contoh soal dan jawaban\u00a0\u00a0dari konduksi dan konveksi!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>1. Suhu udara dalam sebuah ruangan sebesar 20\u00b0C, sedangkan suhu permukaan jendela\u00a0padaruangan tersebut 30\u00b0C. Berapa laju kalor yang diterima oleh jendelakaca seluas 1,5 m2<span>,\u00a0jika koefisien konveksi udara saat itu 7,5 X 10<span>J1\u00a0</span>kal/s\u00a0</span>m<span>2\u00a0</span>\u00b0C?</span><br><span>Jawab:</span><br><span><span><span>AT\u00a0</span><span>=\u00a0</span>t2\u2014 t1<span>\u00a0=30\u00b0C-20\u00b0C= 10\u00b0C</span></span><br><span><span>A\u00a0</span><span>=1,5m2</span>\u00a0</span><br><span><span>h\u00a0</span><span>=7,5x10-1kal/sm2\u00b0C</span></span></span><br><span><span><span>H\u00a0<span>=h.A.\u0394T</span></span>\u00a0</span><br><span><span>(7,5 x 10-1kal/sm2\u00b0C) (1,5m2) (10\u00b0C)\u00a0</span>= 11,25kal</span></span><span>Jadi, laju kalor yang diterima oleh jendela kaca 11,25 kal\u00a0<br>contoh lainnya ada di doc \u00a0tinggal download aja semoga membantu</span>",
+                    "attachments": [
+                        "answer-attachments/buatlah-masing-masing-3-contoh-soal-dan-jawaban-dari-konduksi-977-1.docx"
+                    ]
+                },
+                {
+                    "answer": "Sumber utama kehilangan\u00a0 panas dalam ruangan adalah melalui jendela. Misalkan terdapat sebuah jendela yang terbuat dari kaca dengan ukuran 2 m X 1,5 Derajat Celcius, sedangkan suhu di luar ruangan 14 derajat celcius. Hitunglah laju kehilangan panas melalui jendela.<span><br></span>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

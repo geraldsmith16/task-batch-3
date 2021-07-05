@@ -1,0 +1,138 @@
+{
+    "question": "Misalkan F adalah suatu fungsi yang memenuhi    F(1/x)+ 1/2 F(-x)= 2x untuk setiap x tidak sama dengan 0. Berapakah F(2)?",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "[tex]f(\\frac{1}{x})+\\frac{1}{2}f(-x)=2x\\ ; x \\neq 0\\\\\n\\\\\nuntuk\\ x=-2\n\\\\\nf(\\frac{1}{-2})+\\frac{1}{2}f(-(-2))=2(-2)\\\\\n\\\\ f(-\\frac{1}{2})+\\frac{1}{2}f(2)=-4\\\\\n\\\\\nuntuk\\ x=\\frac{1}{2} \\\\\nf(\\frac{1}{\\frac{1}{2}})+\\frac{1}{2}f(-\\frac{1}{2})=2(\\frac{1}{2})\\\\\n\\\\ f(2)+\\frac{1}{2}f(-\\frac{1}{2})=1\\\\\\\\\neliminasi\\ f(-\\frac{1}{2})\\ pada\\ kedua\\ persamaan\\\\\nf(-\\frac{1}{2})+\\frac{1}{2}f(2)=-4\\\\\n\\underlined{f(-\\frac{1}{2})+2f(2)=2\\ \\ \u2013}\\\\\n\\\\\n-\\frac{3}{2}f(2)=-6\\\\\nf(2)=4[/tex]",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "berapa-orang-yang-gemar-matematika-maupun-bahasa-ingggris-dari-se-872",
+            "question": "berapa orang yang gemar matematika maupun bahasa ingggris dari sekelompok siswa yang terdiri dari 35 orang, ternyata 18 orang gemar matematika, 22 orang gemar bahasa inggris, dan 7 orang tidak gemar matematika maupun bahasa inggris ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "orang yang gemar keduanya = (yg gemar matematika + yg gemar bahasa inggris + yg tidak gemar keduanya) - jumlah siswa\u00a0 -&gt; ( 18 + 22 + 7 ) - 35 = 47 - 35 = 12<br>jadi yang gemar matematika dan bahasa inggris ada 12 siswa.<br><br>semoga membantu :)<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "S(semua)=35 org<br>Matematika=18<br>b.inggris=22<br>tidak keduanya=7<br><br>Rumus<br>Semua+keduanya=Lainnya<br>35+I=(18+22+7)<br>35+I=47<br>I=47-35<br>I=<strong><em>12</em></strong>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "rumus-penjumlahan-pecahan-biasa-917",
+            "question": "Rumus penjumlahan pecahan biasa",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Perkalian Silang ato penyebut di samakan dengan, lalu baru bisa di jjumlahkan",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "rumus-keliling-itu-apa-605",
+            "question": "Rumus keliling itu apa ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "ini rumus kelilingnya apa ?<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "rumus untuk mencari keliling bagi bangun datar atau bangun ruang. rumus keliling itu berbeda - beda angka, tergantung\u00a0 dengan bangun datar atau bangun ruang yang akan di hitung keliling nya. (rumus keliling beda angka dengan rumus luas) <br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-k-x-3-lt-x-lt3-x-bilangan-bulat-l-296",
+            "question": "Diketahui:    K = {x |\u00a0\u207b3 &lt; x &lt;3, x\u00a0\u2208 bilangan bulat }\r\nL = {lima bilangan cacah pertama}\r\nM = {x | x&lt;5, x\u2208 bilangan asli}\r\n\r\ntentukan:\r\na.K U L\r\nb.K U M\r\nc.L U M\r\nd.K U L U M\r\ne.K\u00a0\u03a0 M\r\nf.K\u00a0\u03a0 L\r\ng.K\u00a0\u03a0 L M",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "K = {-2,-1,0,1,2}<br>L\u00a0= {0,1,2,3,4}<br>M = {1,2,3,4}<br><br>jawaban\u00a0<br>A. A={-2,-1,0,1,2,3,4}<br>B. B={-2,-1,0,1,2,3,4}<br>C. C={0,1,2,3,4}<br>D. D={-2,-1,0,1,2,3,4}<br>E. E={1,2}<br>F. F={0,1,2}<br>G. yang ini soalnya gak jelas",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-2y2-723-2-7gt3x-3-2x-4gt3x9-630",
+            "question": "1. 2y/2-7/2\u22643=\r\n2. 7&gt;3x =\r\n3. 2x-4&gt;3x+9=",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]\\frac{2y}{2}-\\frac{7}{2} \\leq 3\\\\\n\\frac{2y-7}{2} \\leq 3\\\\\n2y-7 \\leq 6\\\\\n2y \\leq 13\\\\\ny \\leq \\frac{13}{2}\\\\\\\\\n7&gt;3x\\\\\n\\frac{7}{3}&gt;x\\\\\nx&lt;\\frac{7}{3}\\\\\\\\\n2x-4&gt;3x+9\\\\\n-x&gt;13\\\\\nx&lt;-13[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "panjang-sebuah-taman-yang-berbentuk-persegi-panjang-3m-lebih-dari-857",
+            "question": "panjang sebuah taman yang berbentuk persegi panjang 3m lebih dari lebar nya. jika keliling taman tersebut 54m, maka luas taman adalah.,.......m^{2}",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "luas tamannya adalah 180",
+                    "attachments": []
+                },
+                {
+                    "answer": "panjang = (3 + lebar)<br>keliling = 2 (panjang + lebar)<br>54 = 2 ((3 + lebar) +lebar )<br>54 = 2 (3 + 2lebar)<br>54 = 6 + 4 lebar<br>54 - 6 = 4 lebar<br>48 = 4 lebar <br>lebar = 12<br><br>panjang = 3+ lebar<br>= 3 + 12<br>= 15<br><br>Luas = panjang x lebar<br>= 12 x 15<br>= 180 m2<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pak-ketut-akan-membangun-rumah-diatas-sebidang-tanah-berbentuk-p-659",
+            "question": "Pak Ketut akan membangun rumah\u00a0diatas sebidang tanah berbentuk persegi panjang yang panjangnya 30 m dan lebarnya (2y+1) m. Jika luas tanah pak Ketuttidak lebih dari 150\u00a0m2: \u00a0 \u00a0 A. Berapakah lebar tanah pak Ketut yang paling besar? \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 B. Biaya untuk membangun 1m2 dibutuhkan uang empat setengah juta rupiah, berapakah biaya maksimal yg harus disediakan pak Ketut jika seluruh tanahnya dibangun?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a.2y+1.30=150<br>2y+1=150;30<br>2y=5-4<br>y=4:2<br>y=2<br>jadi, 2.2+1=4+1=5cm<br><br>b.150m2x4.500.000=675.000.000<br><br>selesai:) jgn lupa terima kasih nya:)",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "habcdef-tulislah-semua-himpunan-bagian-dari-h-yg-mempunya-939",
+            "question": "H=(a,b,c,d,e,f)\r\ntulislah semua himpunan bagian dari H yg mempunyai 5anggota!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<strong>5 anggota</strong> = 6 <br>{a, b, c, d, e}; {a, b, c, d, f}; {a, b, c, e, f}; {a, b, d, e, f}; {b, c, d, e, f}; {a, c, d, e, f}<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-himpunanpenyelesaian-dri-persamaan-linear-a-24m-12-b-813",
+            "question": "Tentukan himpunanpenyelesaian dri persamaan linear    a. 24m = 12\r\nb. -4 x-15 = 1- 8r\r\nplis d jawab",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]24m=12 \\rightarrow m=\\frac{12}{24}=\\frac{1}{2}\\\\\nHp=\\{\\frac{1}{2}\\}\\\\\\\\\n(-4)(-15)=1-8r\\\\\n60-1=-8r\\\\\n59=-8r\\\\\nr=-\\frac{59}{8}\\\\\nHp=\\{-\\frac{59}{8}\\}[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "cara-mencari-tembereng-amp-apotema-pada-lingkaran-896",
+            "question": "Cara Mencari Tembereng &amp; apotema pada lingkaran",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Cara mencari Tembereng :<br>Luas tembereng = Luas Juring \u2013 Luas Segitiga\u00a0<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "kalo apotema bisa pake konsep luas segitiga sama pythagoras<br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

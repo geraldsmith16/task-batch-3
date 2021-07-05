@@ -1,0 +1,138 @@
+{
+    "question": "1/2x + 5 &gt; 15\r\n\r\ntolong dibantu",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "1/2x + 5 &gt; 15<br>1/2x &gt; 15 - 5<br>1/2x &gt; 10<br>x &gt; 10.2<br>x &gt; 20<br>",
+            "attachments": []
+        },
+        {
+            "answer": "1/2X + 5 &gt; 15<br>1/2x +5 = 15<br>1/2x = 10<br>x = 20\u00a0<br>insya Allah begini jawabannya",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "18-tenaga-dapat-menyelesaikan-pekerjaan-selama-36-haribila-peker-438",
+            "question": "18 tenaga dapat menyelesaikan pekerjaan selama 36 hari.bila pekerjaan itu di delesaikan oleh 24 orang tenaga maka waktu yang di perlukan untuk menyelesaikan pekerjaan itu adalah..",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "jawabannya adalah = 12 hari<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "18 tenaga\u00a0 ===&gt; 36 hari<br>24 tenaga ===&gt; ? hari<br><br>persamaan dibuat terbalik, yaitu : 18/24 = ?/36<br>lalu di kalikan silang, menjadi : 24 x ? = 18 x 36 ===&gt; ? = (18 x 36) / 24 = 27 hari<br><br>semoga membantu :)<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "panjang-hipotenusa-siku-siku-sama-kaki-adalah-8cm-jika-panjang-k-126",
+            "question": "Panjang hipotenusa siku-siku sama kaki adalah 8cm, jika panjang kaki-kakinya sama dengan x cm. berapakah nilai x?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "\u221a(x\u00b2+x\u00b2)=8<br>x\u00b2+x\u00b2=8\u00b2<br>2x\u00b2=8\u00b2<br>\u221a2 . x =8<br>x=8/\u221a2<br>x=4\u221a2",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukanlah-keliling-lingkaran-yang-berjari-jari-7-cm-panja-689",
+            "question": "Tentukanlah:     keliling lingkaran\u00a0 yang berjari - jari 7 cm.\r\npanjang jari - jari lingkaran jika keliling lingkarannya 314 cm dan \u03c0 = 3,14\r\npanjang diameter sebuah lingkaran yang kelilingnya 110 cm dengan \u03c0 = 22/7\r\nbesar sudut bdc, jika besar sudut aoc = 82 derajat",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]r=7cm\\\\\nkell=2 \\pi r=2(\\frac{22}{7})(7)\\\\\nkell=44cm\\\\\\\\\nkell=314\\\\\n2 \\pi r=314\\\\\n2(3,14)r=314\\\\\nr=50cm\\\\\\\\\nkell=110\\\\\n\\pi d=110\\\\\n(\\frac{22}{7})d=110\\\\\nd=35cm[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bagaimana-mencari-segi-empat-tali-busur-102",
+            "question": "Bagaimana mencari segi empat tali busur?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Mencari Luas Segiempat Talibusur menggunakan Rumus\u00a0Brahmagupta\n\t\n\t\t<span>Sekitar abad ke tujuh Masehi, dalam Geometri Euclidean,\u00a0 Brahmagupta,\n seorang matematikawan asal India menemukan Rumus untuk mencari luas \nsegiempat talibusur yang telah diketahui panjang sisi-sisinya dan \nbeberapa sudutnya.</span>\n\n\nRumus Umum:\n<span>Jika diketahui segiempat talibusur memiliki sisi-sisi , , , dan  serta setengah keliling , maka luas segiempat tali busur  dapat dinyatakan dengan</span>\n\n<span>.</span>\nBukti:\n<span>Salah satu metode sederhana untuk membuktikannya adalah dengan memanfaatkan trigonometri. Misalkan dalam segiempat talibusur  (Lihat ilustrasi berikut)<span>, </span>merupakan titik sudut antara  dan , , merupakan titik sudut antara  dengan , dan  merupakan diagonal yang menghubungkan kedua sudut yang lain.</span>\n\n<span>Karena , diperoleh:</span>\n<span> dan </span>\n<span>Dengan menggunakan Aturan Cosinus,</span>\n\n\u00a0 yang mana dapat diperoleh:\n\nPerhatikan pula bahwa Luas segiempat talibusur:\n<span>,</span>\ndari sini kita juga memperoleh:\n<span>Dengan mengkuadratkan  dan  kemudian dijumlahkan, akan diperoleh</span>\n\nyang dapat disederhanakan menjadi\n<span>Tentunya kita sudah tahu bahwa . dengan mengaplikasikan identitas ini berkali-kali akan diperoleh:</span>\n<span>Dimana </span>\nBagi dengan 16, kemudian ambil akar kuadrat dari masing-masing ruas diperoleh :\n<span>Bentuk spesial rumus ini adalah saat  yang mengakibatkan segiempat talibusur ini merupakan suatu segitiga yang memiliki sisi-sisi , , , dan setengah keliling , dengan luas:</span>\n<span>yang terkenal dengan nama Rumus Heron.</span>\nRumus Brahmagupta sendiri dapat diperluas untuk segiempat yang bukan merupakan segiempat talibusur\n<span>di mana  merupakan jumlah dua buah sudut yang berlawanan. Pada segiempat talibusur, karena jumlah kedua sudut yang berlawanan , maka .</span><br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sudut-pada-jam-0830-mencari-sudut-terkecil-nya-gimana-412",
+            "question": "Sudut pada jam\u00a0 08:30 mencari sudut terkecil nya gimana?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Satu putaran penuh\u00a0pada jam itu sama dengan satu putaran penuh lingkaran yaitu 360 derajat.<br>Pada jam setiap bertambah itu besarnya 30 derajat.<br><br>Jadi, kalau pakai cara kakak untuk mencari besar sudut jam 08.30 kamu gambar dulu jenis sudut apa jam 08.30 itu kemudian kamu ukur pakai busur.<br><br>semoga bisa membantu ^_^,,,<br>maaf jika ada yang salah ^_^,,,",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "rumus-keliling-itu-apa-605",
+            "question": "Rumus keliling itu apa ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "ini rumus kelilingnya apa ?<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "rumus untuk mencari keliling bagi bangun datar atau bangun ruang. rumus keliling itu berbeda - beda angka, tergantung\u00a0 dengan bangun datar atau bangun ruang yang akan di hitung keliling nya. (rumus keliling beda angka dengan rumus luas) <br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "himpunan-penyelesaian-dari-2-3-x-5-2-7-x-3-931",
+            "question": "Himpunan penyelesaian dari 2\u00a0(\u00a03\u00a0x\u00a0+\u00a05\u00a0) - 2 (\u00a07 x - 3 ) = x + 7",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "= 6x + 10 - 14x + 6 = x + 7<br>= -8x + 16 \u00a0= x + 7<br>= -8x - x \u00a0= 7 - 16<br>= -9x = -9<br>= x = 1",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-penyelesaian-dari-pertidaksamaan-berikut-pakai-cara-1-849",
+            "question": "Tentukan penyelesaian dari pertidaksamaan berikut (pakai cara)    1.2x - 4\u00a0&gt; 3x + 9\r\n2.\u00a02/3p + 4\u00a0\u2264 8\r\n3. 2y - 7 \u00a0 \u00a0 \u00a0 \u00a0\r\n--------------- \u00a0\u2264\u00a03\r\n\u00a0\u00a0 \u00a0 \u00a02",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1.2x-4&gt;3x+9<br>=2x-3x&gt;4+9<br>=-x&gt;13<br>=x&lt;-13<br>ni jawaban no 1<br><span>2/3p + 4\u00a0\u2264 8<br>=2/3p&lt;8-4<br>=p&lt;2/3:4<br>=p&lt;3/2.4<br>=p&lt;6 <br>ni jawban no 2<br></span><br><span> 2y - 7\u00a0 /2\u00a0 \u2264\u00a03<br>=y-7/2&lt;3<br>=y&lt;3+7/2<br>=y&lt;6 1/3<br></span>jadi nya 6 satu per dua dek <br>ni jawb nya<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "cari-nilai-x-144",
+            "question": "Cari nilai x..",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex] \\frac{x-5}{2} =0\n  [/tex]<br>x-5 = 0<br>x = 5<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "[tex]  \\sqrt{ 5^{x-5} } =1\n [/tex]<br>[tex] 5^{x-5} pngkt 1/2= 5^{0} [/tex]<br>(x-5)/2=0<br>x=5<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dphuruf-huruf-pembentuk-kata-stabilitas-381",
+            "question": "D.P={huruf huruf pembentuk kata ' stabilitas '}",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "jawaban nya adalah stabil<br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

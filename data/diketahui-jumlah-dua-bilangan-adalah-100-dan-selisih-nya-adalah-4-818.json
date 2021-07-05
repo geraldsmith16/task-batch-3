@@ -1,0 +1,142 @@
+{
+    "question": "Diketahui jumlah dua bilangan adalah 100 dan selisih nya adalah 40. bagaimana nilai dua bilangan tersebut dapat dinyatakan dua linear satu variabel???    (tolong sekalian caranya)",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "a+b=100<br>a-b=40<br>_________-<br>\u00a0\u00a02b=60<br>\u00a0\u00a0b = 30<br>masukaan b=30 ke persamaan 2<br>a-30=40<br>a=70",
+            "attachments": []
+        },
+        {
+            "answer": "a\u208ab=100<br>a\u208ab=40<br>________-<br>2b=60<br>b=30<br>a=30=40<br>a=70<br><br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "tentukan-himpunan-penyelesaian-dari-persamaan-berikut-a-6x-10-297",
+            "question": "Tentukan HIMPUNAN PENYELESAIAN dari persamaan berikut!    a. 6x - 10 = 2x + 2\r\nb. 5x - 4 = 3x - 8\r\nc. -7 - 2a = 4a - 19\r\nd. Jika diketahui 15x - 7 = 8 - 10x , maka tentukan nilai 2x + 1",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]a.6x-2x=2+10 \\\\ 4x=12 \\\\ x=3 \\\\  \\\\ b.5x-3x=-8+4 \\\\ 2x=-4 \\\\ x=-2 \\\\  \\\\c.-2a-4a=-19+7 \\\\ -6a=-12 \\\\ a=2 \\\\  \\\\ d.15x+10x=8+7 \\\\25x=15 \\\\ x=15/25  \\\\ x=3/5 \\\\  \\\\ 2x+1=2(3/5)+1 \\\\ 6/5+1=2,2[/tex]",
+                    "attachments": []
+                },
+                {
+                    "answer": "6x - 10 =2x +2<br>6x - 2x = 2 + 10<br>4x = 12<br>x = 3<br><br>5x - 4 =3x - 8<br>5x - 3x = -8+4<br>2x = -4<br>x = -2<br><br>-7 - 2a = 4a - 19<br>-2a - 4a = -19 + 7<br>-6a = -12<br>a = 2<br><br>15x - 7 =8 - 10 x<br>15x + 10x = 8 +7<br>25x = 15<br>x = 3/5<br>Nilai<br>2x + 1<br>2 x 3/5 + 1<br>6/5 + 1<br>6/5 + 5/5<br>11/5 = 2 1/5<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-naik-bentor-dheni-akan-sampai-di-sekolah-dalam-waktu-45-men-905",
+            "question": "jika naik bentor, dheni akan sampai di sekolah dalam waktu 45 menit dengan kecepatan rata-rata bentor 20 km/jam. berapa kecepatan rata-rata bentor agar dheni sampai di sekolah dalam waktu 30 menit?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "kecepatannya menjadi 30 km / jam<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-mobil-memerlukan-bahan-bakar-12-liter-untuk-menempuh-jarak-612",
+            "question": "sebuah mobil memerlukan bahan bakar 12 liter untuk menempuh jarak 120 km dengan kondisi mendatar 84 km dan sisanya menanjak. pada saat menanjak bahan bakar yang diperlukan 2 kali lipat\u00a0daripada jalan mendatar. jika suatu ketika mobil tersebut menempuh jarak 312 km dengan kondisi jalan mendatar saja,maka\u00a0banyak bahan bakar yang diperlukan?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "12 L\u00a0 untuk 120 km<br>bahan bakar utk 312 km ?<br><br><u>12</u> = <u>120</u><br>x\u00a0\u00a0 = 312<br><br>120 x = 312 x 12<br>120 x = 3744<br>x = 3744 \u00f7 120<br>x = 31,2<br>maka bahan bakar yang dibutuhkan 31,2 L<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-sebuah-dadu-dilempar-5-kaliberapakah-peluang-mata-dadu-yang-944",
+            "question": "Jika sebuah dadu dilempar 5 kali.Berapakah peluang mata dadu yang muncul selalu ganjil? Tolong ya di jawab dan jelaskan cara jalannya",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "sebuah dadu ada 1, 2,3,4,5,6 dilempar sebanyak 5 kai<br><br>\u00a0\u00a01 \u00a02 \u00a03\u00a0 4 \u00a05\u00a0<br>1\u00a02 \u00a03\u00a0 4 \u00a05 \u00a06<br>2 3 \u00a04 \u00a05 \u00a06 \u00a07<br>3 4\u00a0 5\u00a0 6 \u00a07 \u00a08\u00a0<br>4 5 \u00a06 \u00a07 \u00a08 \u00a09\u00a0<br>5 6 \u00a07 \u00a08 \u00a09 \u00a010<br>6 7 \u00a08 \u00a09 \u00a010 \u00a011<br><br>P (A) =\u00a0[tex] \\frac{banyaknya kejadian A}{banyaknya kejadian yang mungkin} [/tex]<br>[tex] \\frac{15}{30} [/tex] =\u00a0[tex] \\frac{1}{2} [/tex]<br><br>30 = banyaknya ruang sampel<br>15 = jumlah ganjil<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "2-4-x-22-tolongg-jawab-ini-dongg-pleasee-793",
+            "question": "2 - ( 4 + x )\u00a0\u2265 - 22\r\ntolongg, jawab ini dongg, pleasee!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>2 - ( 4 + x )\u00a0\u2265 - 22<br></span><br>-2 - x\u00a0 \u2265 - 22<br>- x\u00a0 \u2265 - 22 + 2<br>- x\u00a0 \u2265 - 20<br>\u00a0x\u00a0 \u2265 20<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "luas-lingkaran-pertama-80-cm2-hitunglah-a-luas-lingkaran-k-196",
+            "question": "Luas lingkaran pertama = 80 cm^2. Hitunglah : A) luas lingkaran kedua yang panjang jari-jarinya 3 kali panjang jari-jari lingkaran pertama. B) luas lingkaran ketiga yang panjang jari-jarinya 1/4 kali jari-jari lingkaran pertama.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "80=3,14.r^2<br>r^2=80/3,14 =25,47<br>r= akar 25,47 ..krn ga ada klakulator.. anggap aja 25..r=5\u00a0<br>luas 3x jari\" mula.. 3 x 5 =15..\u00a0<br>L= 3,14.15.15 =706,5<br><br>1/4 x 5 = 1.25\u00a0<br>L= 3,14 . 1,25 . 1,25 =4.9",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "hitunglah-keliling-lingkaran-yang-luasnya-1256-cm2-dengan-913",
+            "question": "Hitunglah keliling lingkaran yang luasnya 1.256 cm\u00b2 dengan",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Dik: L=1256<br>\u00a0\u00a0 \u00a0 \u00a0  \u03c0=3,14<br>\u00a0\u00a0 \u00a0 \u00a0 r^2=L/\u03c0<br>\u00a0\u00a0 \u00a0 \u00a0 r^2=1256/3,14=400<br>\u00a0\u00a0 \u00a0 \u00a0 r\u00a0 =\u221a400<br>\u00a0\u00a0 \u00a0 \u00a0 r\u00a0 =20<br>K=\u03c0\u00b7d<br>\u00a0 =3,14\u00b740<br>\u00a0 =<strong>125,6</strong><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "barapakah-hasil-dari-19999999999999828782428-694",
+            "question": "Barapakah hasil dari 19999999999999828782+428",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "jawabannya :20.000.000.000.427<br><br>maaf kalau salah :)",
+                    "attachments": []
+                },
+                {
+                    "answer": "19.999.999.999.999.829.210<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-lingkaran-dengan-juring-opq-mempunyai-sudut-135-derajat-159",
+            "question": "Sebuah lingkaran dengan juring\u00a0OPQ mempunyai\u00a0sudut 135 derajat di titik O (titik pusat). Diketahui panjang OP = 10 cm. Maka luas juring OPQ ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "135/360\u00a0\u00d7 3,14\u00a0\u00d7 10\u00a0\u00d7 10 = 117,75",
+                    "attachments": []
+                },
+                {
+                    "answer": "Luas Juring = sudut OPQ/360 x\u00a0\u03c0 x r\u00b2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 =135/360 x 3,14 x 10\u00b2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 =117,75 cm\u00b2",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "rumus-garis-phytagoras-245",
+            "question": "Rumus garis phytagoras",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "\u00a0C^ = A^ + B^<span>\u00a0, itu aja yang perlu diingat ingat oleh kamu. C = Panjang Garis bidang miring , A = Panjang Tinggi Garis, B=Panjang Garis Alas , .</span>",
+                    "attachments": []
+                },
+                {
+                    "answer": "C^2= A^2 + B^2 atau<br>C= akar dari A^2 + B^2\u00a0<br>ket: C = sisi miring segitiga siku-siku<br>A &amp; B = kaki-kaki atau sisi siku-sikunya<br>^ = pangkat",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

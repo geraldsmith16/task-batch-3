@@ -1,0 +1,134 @@
+{
+    "question": "Mina mengukur keliling kolam ikan yang berbentuk lingkaran dengan tali. Setelah diukur, ternyata panjang tali sama dengan 15,4 m. Berapakah panjang lintasan yang ditempuh?",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "744,6824<br>itu jawabnnya :)<br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "cara-menyelesaikan-12x-5-gt-15-ptlsv-bagaimana-647",
+            "question": "Cara menyelesaikan 1/2x + 5 &gt; 15 (PtLSV) bagaimana??",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1/2 X + 5 &gt; 15<br>1/2 X &gt; 15 -5<br>1/2 X &gt; 10<br>X &gt; 10/ 0,5<br>X &gt; 20",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pada-balok-klmnpqrs-berikut-ini-panjang-kl20cm-lm16cm-dan-lq1-681",
+            "question": "Pada balok KLMN.PQRS berikut ini panjang KL=20cm LM=16cm dan LQ=12 cm     hitunglah panjang LR dan Luas KLRS",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "LR^2=16^2\u00a0. 16^2<br>LR^2=256+256<br>LR^2=16/2 \u00a0 ket: / akar<br>luas KLRS = 20 . 16/2 = 320/2",
+                    "attachments": []
+                },
+                {
+                    "answer": "LR =\u00a0[tex] \\sqrt{LM + RM } [/tex]<br>=[tex] \\sqrt{16 ^{2} + 12 ^{2} } [/tex]<br>=[tex] \\sqrt{256 + 144} [/tex]<br>=\u00a0[tex] \\sqrt{400} [/tex]<br>= 20 CM\u00a0<br>L.KLRS = p x LR<br>=20 X 20<br>=400 cm^{2} [/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "misalkan-f-adalah-suatu-fungsi-yang-memenuhi-f1x-12-f-x-2-663",
+            "question": "Misalkan F adalah suatu fungsi yang memenuhi    F(1/x)+ 1/2 F(-x)= 2x untuk setiap x tidak sama dengan 0. Berapakah F(2)?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]f(\\frac{1}{x})+\\frac{1}{2}f(-x)=2x\\ ; x \\neq 0\\\\\n\\\\\nuntuk\\ x=-2\n\\\\\nf(\\frac{1}{-2})+\\frac{1}{2}f(-(-2))=2(-2)\\\\\n\\\\ f(-\\frac{1}{2})+\\frac{1}{2}f(2)=-4\\\\\n\\\\\nuntuk\\ x=\\frac{1}{2} \\\\\nf(\\frac{1}{\\frac{1}{2}})+\\frac{1}{2}f(-\\frac{1}{2})=2(\\frac{1}{2})\\\\\n\\\\ f(2)+\\frac{1}{2}f(-\\frac{1}{2})=1\\\\\\\\\neliminasi\\ f(-\\frac{1}{2})\\ pada\\ kedua\\ persamaan\\\\\nf(-\\frac{1}{2})+\\frac{1}{2}f(2)=-4\\\\\n\\underlined{f(-\\frac{1}{2})+2f(2)=2\\ \\ \u2013}\\\\\n\\\\\n-\\frac{3}{2}f(2)=-6\\\\\nf(2)=4[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-jika-diameter-27-berapakah-kelilingnya-2-jika-diameter-23-476",
+            "question": "1 . Jika Diameter 27 Berapakah Kelilingnya ?    2. Jika Diameter 23 Berapakah Kelilingnya ?\r\n\r\n\r\nPOIN MAKSUDNYA APA ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1.\u00a0 k =\u00a0[tex] \\pi [/tex]\u00a0\u00d7 diameter<br>\u00a0 \u00a0 \u00a0 \u00a0= \u00a0[tex] \\frac{22}{7} [/tex] x 27<br>\u00a0 \u00a0 \u00a0 \u00a0= \u00a085<br>2. \u00a0k =\u00a0[tex] \\pi [/tex]\u00a0\u00d7 diameter<br>\u00a0 \u00a0 \u00a0 \u00a0= \u00a0[tex] \\frac{22}{7} [/tex] x 23<br>\u00a0 \u00a0 \u00a0 \u00a0= 72<br><br>itu hasil pembulatan :)",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-nilai-x-jika-2x-1-2x-2-2x-3-471",
+            "question": "Tentukan nilai x , jika ( 2x + 1 ) + ( 2x +2 ) + ( 2x + 3 ) + ..........+ ( 2x + 50 ) = 4275",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kelas : IX (3 SMP)<br>Materi : Barisan dan Deret<br>Kata Kunci : suku, beda, jumlah suku<br>Pembahasan :<br>Barisan Aritmetika\nadalah suatu barisan dengan beda atau selisih antara dua suku berurutan selalu\ntetap atau konstan.<span><br>\nBentuk umum barisan aritmetika adalah<br>\nU</span>\u2081, U\u2082, U\u2083, ...,\nUn atau a, a + b, a + 2b, ..., a + (n - 1)b<span><br>\nSuku ke-n dari barisan aritmetika, yaitu : Un =\na + (n - 1)b.<br><span>Beda atau selisih antara dua suku berurutan,\nyaitu :\u00a0</span><br>\nb = Un - U(n - 1)<br>\nDeret Aritmetika adalah jumlah suku-suku barisan\naritmetika.<br>\nBentuk umum deret aritmetika adalah<br>\nSn = U</span>\u2081 + U\u2082 + U\u2083 + ...\n+ U(n - 1) + Un<span><br></span>\u21d4 Sn =\na + a + b + a + 2b + ... + a + (n - 1)b<span><br></span>\u21d4 Sn =\nn/2(2a + (n - 1)b)<span><br></span>\u21d4 Sn =\nn/2(a + a + (n - 1)b)<span><br></span>\u21d4 Sn =\nn/2(a + Un)<span><br>\nS(n - 1) = U</span>\u2081 + U\u2082 + U\u2083 + ...\n+ U(n - 1)<span><br>\nSn - S(n - 1) = Un.<br><span>Mari kita lihat soal tersebut.\u00a0<br></span></span>Jika (2x + 1) + (2x + 2) + (2x + 3) + ... + (2x + 50) = 4275, maka<br>a = 2x + 1<br>b = 2x + 2 - (2x + 1)<br>\u21d4 b = 2x - 2x + 2 - 1<br>\u21d4 b = 1<br>Un = 2x + 50<br>\u21d4 Un = a + (n - 1)b<br>\u21d4 2x + 50 = (2x + 1) + (n - 1) . 1<br>\u21d4 2x + 50 = 2x + 1 + n - 1<br>\u21d4 2x - 2x + 50 - 1 + 1 = n<br>\u21d4 n = 50<br>Sn = n/2{a + Un}<br>\u21d4 4275 = 50/2 . {2x + 1 + 2x + 50}<br>\u21d4 4275 = 25 . {4x + 51}<br>\u21d4 4275/25 = 4x + 51<br>\u21d4 171 = 4x + 51<br>\u21d4 171 - 51 = 4x<br>\u21d4 4x = 120<br>\u21d4 x = 120/4<br>\u21d4 x = 30<br><br>Jadi, nilai x adalah 30.<br><br>Semangat!<br>\u00a0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suatu-pekerjaan-dapat-diselesaikan-oleh-28-orang-dalam-waktu-9-ha-149",
+            "question": "Suatu pekerjaan dapat diselesaikan oleh 28 orang dalam waktu 9 hari. Setelah dikerjakan selama 2 hari pekerjaan terhenti selama 3 hari agar pekerjaan selesai tepat waktu, maka diperlukan pekerja tambahan sebanyak ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "21 orang pekerja tambahannya",
+                    "attachments": []
+                },
+                {
+                    "answer": "<u>28 x 3\u00a0</u>\u00a0 \u00a0\u00a0= 84/4 \u00a0 \u00a0= 21 orang.<br>9\u00a0-\u00a02\u00a0-\u00a03<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebutkan-rumus-phytagoras-lengkap-658",
+            "question": "Sebutkan rumus phytagoras lengkap ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Dalilnya berbunyi\u00a0<br>kuadrat sisi miring sama dengan jumlah siku-sikunya<br><br>BC\u00b2=AC\u00b2+AB\u00b2<br>A\u00b2=B\u00b2+C\u00b2",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span>Rumus Pythagoras adalah rumus yang \ndigunakan untuk mencari panjang sisi pada sebuah segitiga siku-siku. \nPenemu rumus ini adalah seorang ahli matematika dari Yunani yang bernama\n Pythagoras.<br><br><br></span><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-dari-sejumlah-siswa-diketahui-25-siswa-gemar-matematika-21-s-250",
+            "question": "1. dari sejumlah siswa diketahui 25 siswa gemar matematika , 21 siswa gemar bahasa inggris , dan 9 siswa gemar keduanya ..jumlah siswa pada kelompok itu adalah........    2. terdapat 30 pengendara sepeda motor yang terkena tilang .pengendara tidak membawa sim ada 15orang , 17 tidak membawa stnk dan 5 pengendara melakukan pelanggaran lain. banyaknya pengendara yang terkena tilang ,tidak membawa sin dan stnk adalah .....\r\n\r\n3.didalam suatu kelas terdiri dari 43 siswa , siswa yang gemar matematika 29 orang , sedangkan yang gemar bahasa ada 27 orang . jika ada 6 orang yang tidak gemar matematika \u00a0maupun bahasa maka berapa banyaknya siswa yang gemar keduanya ?\u00a0\r\n\r\ntolong dikasih caranya ya ......\r\ntolaong dibantu ......",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1. ( 25 - 9 ) + ( 21 - 9 )<br>= 16 + 12<br>= 28<br>jadi,\u00a0jumlah siswa di kelompok itu adalah 28 siswa<br><br>2. maaf yg no. 2 kurang tau<br><br>3. 29 + 27 + 6 = 62 - 43<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0= 19<br>jadi, banyak siswa yg gemar keduanya adalah 19 siswa<br><br>kalau hitungan nya ada yg salah mohon maaf :)",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "carilah-rumus-suku-ke-n-untuk-setiap-barisan-berikut-1-24-386",
+            "question": "Carilah rumus suku ke-n untuk setiap barisan berikut !    1.\u00a0 -2,4,-8,16\r\ntentukan 4 suku pertama dari barisan dg rumus suku ke-n berikut ini !\r\n1. Un=n\u00b2\r\n2. Un= 1 per 2n-1\r\n3. Un= (-1) pangkat n",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "jawaban no.1 <br>a = (-2)<br>r = (-2)<br>Un = [tex] ar^{n-1} [/tex]<br>Un = [tex] (-2).(-2)^{n-1} [/tex]<br><br><span>tentukan 4 suku pertama dari barisan dg rumus suku ke-n berikut ini !<br>1. Un=n\u00b2<br>jawab :<br>U1 = </span>[tex] 1^{2} [/tex] = 1<br>U2 = [tex] 2^{2} [/tex] = 4<br>U3 = [tex]3^{2} [/tex] = 9<br>U4 = [tex] 4^{2} [/tex] = 16<br><br><span>2. Un= 1 per 2n-1<br>jawab :<br>U1 = </span>[tex] \\frac{1}{2(1)-1} [/tex]<span> = 1<br>U2 = </span><span>[tex] \\frac{1}{2(2)-1} [/tex] = </span>[tex] \\frac{1}{3} [/tex]<br>U3 =<span> [tex] \\frac{1}{2(3)-1} [/tex] = </span>[tex] \\frac{1}{5} [/tex]<br><span><span>U4 =<span> [tex] \\frac{1}{2(4)-1} [/tex] = </span>[tex] \\frac{1}{7} [/tex]<br><br></span>3. Un= (-1) pangkat n</span><br>jawab :<br>U1 = [tex](-1)^{1} [/tex] = -1<br>U2 = [tex](-1)^{2} [/tex] = 1<br>U3 = [tex](-1)^{3} [/tex] = -1<br>U4 = [tex](-1)^{4} [/tex] = 1<br><br><br><br><br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-setigita-sama-kaki-memiliki-panjang-sisi-yang-sama-dengan-332",
+            "question": "Sebuah setigita sama kaki memiliki panjang sisi yang sama dengan 5 kali panjang sisi lainnya. Agarkeliling segitiga tersebut lebih besar dari 50 m, berapakah panjang masing-masing sisi segitigatersebut?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "5x+5x+x &gt; 50<br>11x &gt; 50<br>x &gt; 50/11<br>x &gt; 4,5<br>jadi x = 5<br>panjang masing masing sisi segitiga (5x,5x,5) = (5*5,5*5,5) = (25,25,5)<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 <br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

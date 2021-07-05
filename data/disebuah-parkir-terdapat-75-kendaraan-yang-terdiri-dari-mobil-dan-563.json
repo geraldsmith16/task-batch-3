@@ -1,0 +1,152 @@
+{
+    "question": "disebuah parkir terdapat 75 kendaraan yang terdiri dari mobil dan sepeda motor.banyak roda seluruhnya 210.jika tarif parkir untuk mobil rp:4.000 dan sepeda motor Rp;2.000 ,maka pendapatan uang parkir saat itu adalah ..",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "pemisalan mobil = x dan motor = y<br>x + y = 75<br>2x + 4y = 210<br>kedua persamaan tersebut terlebih dahulu ditentukan himpunan penyelesaiannya dengan metode eliminasi (agar lebih mudah)<br>jadi, x+y=75 dikali 2 = 2x+2y=150<br>maka, 2x+4y=210 dikurang dengan 2x+2y=150 dan hasilnya<br>2y=60<br>y=60/2<br>y=30<br>sedangkan x= x+y=75<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = x+30=75<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = x = 75-30<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 45<br>jadi HP = (45,30) berarti jumlah mobil = 45 dan motor = 30<br>penghasilan tukang parkir yaitu<br>1. Mobil = 45 x 4000<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 180.000<br>2. Motor = 30 x 2000<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 60.000<br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "apakah-yang-dimaksud-dengan-linear-satu-variabel-174",
+            "question": "Apakah yang dimaksud dengan linear satu variabel?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Persamaan linear satu variabel<span>\u00a0<br>adalah persamaan yang terdiri dari satu variabel dan pangkat terbesar dari variabel tersebut adalah satu.</span>",
+                    "attachments": []
+                },
+                {
+                    "answer": "kalimat terbuka yang di hubungkan dengan tanda (=) dan hanya mempunyai 1 variabel pangkat 1",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "3x6-2x8-10-tolon-dong-yang-bisa-756",
+            "question": "3(x+6) = 2(x+8)-10\u00a0\r\ntolon dong\u00a0yang bisa",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "3x+18 = 2x+16-10<br>3x-2x = 16-10-18<br>x = -12<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "3(x+6) = 2(x+8) -10<br>3x + 18 = 2x + 16 -10<br>3x - 2x = 6 - 18<br>x = -12<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "seorang-pedagang-membeli-2-jenis-kopi-masing-masing-sebanyak-18kg-740",
+            "question": "Seorang pedagang membeli 2 jenis kopi masing-masing sebanyak 18kg dengan harga Rp 3.500 per kg dan 12 kg dengan harga Rp 3.000 per kg. kedua jenis kopi kemudian dicampur menjadi satu dan dijual dengan harga Rp 3.200 per kg. pedagang kopi tersebut akan mengalami ...    a. Rugi Rp 3.000 per kg \r\nb. Rugi Rp 3.000 \r\nc. Untung Rp 200 per kg\r\nd. Untung Rp 5.000 \r\n\r\ntolong bantu saya ya! dengan caranya Terima Kasih :)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "kopi 1 = 18 x 3.500 = 63.000<br>kopi 2 = 12 x 3.000 = 36.000<br>maka total nya 99.000 <br><br>kopi 1 di campur kopi 2 = 30kg x 3.200 = 96.000<br><br>maka 96.000 - 99.000 = - 3000<br>maka rugi 3.000<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "perbandingan-umur-dono-dan-dini-adalah-45-jika-umur-dono-40-tah-437",
+            "question": "Perbandingan umur Dono dan Dini adalah 4:5. Jika Umur Dono 40 tahun. Berapakah umur Dini?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "perbandingan dono=4<br>dini = 5<br>dono = 40 thn<br>dini= 4\u00d740/5<br>dini 32 (perbandingan senilai)",
+                    "attachments": []
+                },
+                {
+                    "answer": "50 tahun<br>Do : Di = 4 : 5<br>4 : 5 = 40 / x<br>4x = 40.5<br>4x = 200<br>x = 200/4<br>x= 50",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "6-pangkat-3-8-pangkat-4-9-pangkat-2-3-pangkat-5-4-pan-677",
+            "question": "6 pangkat 3 \u00d7 8 pangkat 4 \u00d7 9 pangkat 2 \u00f7 3 pangkat 5 \u00d7 4 pangkat 4 \u00d7 2 pangkat 2",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "(6^3 \u00d7 8^4 \u00d7 9^2) \u00f7 (3^5 \u00d7 4^4 \u00d7 2<span>^2)<br>=<br></span>((2x3)^3 \u00d7 (2x4)^4 \u00d7 (3x3)^2) \u00f7 (3^5 \u00d7 4^4 \u00d7 2<span>^2)<br></span>=<br>(2^3 x 3^3 \u00d7 2^4 x 4^4 \u00d7 3^2x3^2) \u00f7 (3^5 \u00d7 4^4 \u00d7 2<span>^2)<br></span>=<br>(2^7 x 3^7 x 4^4) \u00f7 (3^5 \u00d7 4^4 \u00d7 2^2)<br>=<br>3^2 x 2^5<br>=<br>9 x 32<br>=<br>288<br><br>ingat setelah simbol \u00f7 angkanya dibawah per...<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-besar-sudut-x-dan-y-dalam-derajat-pada-segitiga-siku-s-927",
+            "question": "tentukan besar sudut x dan y (dalam derajat) pada segitiga siku-siku ini = terimakasih ya :) sertakan jawaban dan penjelasannya ya.. mohon bantuannya :)",
+            "attachments": [
+                "question-attachments/tentukan-besar-sudut-x-dan-y-dalam-derajat-pada-segitiga-siku-s-927-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "sudut\u00a0 x dan y masing\" adalah 60 dan 30<br>karena sudut istimewa pada phytagoras<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "udah ada rumusnya x=30 , y=60<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-besar-sudut-x-dan-y-dalam-derajat-pada-segitiga-siku-s-333",
+            "question": "tentukan besar sudut x dan y (dalam derajat) pada segitiga siku-siku berikut.. tolong dijawab ya beserta penjelasannya :) thanks!",
+            "attachments": [
+                "question-attachments/tentukan-besar-sudut-x-dan-y-dalam-derajat-pada-segitiga-siku-s-333-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "sudut x dan y = masing\" 45 derajat<br>Kenapa?<br>karena jumlah semua sudut dalam suatu segitiga adalah 180, dan besar sudut siku siku adalah 90.<br>180-90 = x+y<br>90 = x+y<br>karena segitiga tersebut adalah segitiga siku siku sama kaki, maka besar sudut x dan y adalah SAMA<br>jadi,<br>90:2 = 45<br>x= 45<br>y=45<br>semoga betul ^^",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-nilai-x-jika-2x12x22x32x504275-502",
+            "question": "Tentukan nilai x jika , (2x+1)+(2x+2)+(2x+3)+...+(2x+50)=4275",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "(2x + 1) + (2x + 2) + (2x + 3) +...+(2x + 50) = 4275<br> = (2x) x 50\u00a0+ (1 + 2 + 3\u00a0+...+ 50)<br>=\u00a0100x + 1275<br>100x = 4275\u00a0- 1275<br>100x = 3000<br>\u00a0 \u00a0 \u00a0x =\u00a0[tex] \\frac{3000}{100} [/tex]<br>\u00a0 \u00a0 \u00a0x = 30<br><br>jadi, nilai x adalah 30",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jarak-kota-a-ke-kota-b-adalah-350-kmjarak-kota-b-ke-kota-c-adala-685",
+            "question": "jarak kota A ke kota B adalah 350 km.jarak kota B ke kota C adalah 250 km.Berapakah perbandingan jarak kota A ke kota B dengan jarak kota A ke kota C ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "jarak kota A ke C = 350 + 250 = 600<br><br>perbandingan jarak kota a ke b dengan a ke c<br>350 : 600<br>7 : 12\u00a0 (sama\" dibagi 50)<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "jarak kota A ke kota C =350+250= 600<br>AB : AC = 350 : 600 = 7 : 12<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "nih-nilai-dari-673-adalah-921",
+            "question": "Nih nilai dari 6\u221a7/3 adalah?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "enam akar tujuh di bagi tiga sama dengan dua akar tujuh<br>",
+                    "attachments": [
+                        "answer-attachments/nih-nilai-dari-673-adalah-921-1.png"
+                    ]
+                },
+                {
+                    "answer": "mgkin soal nya kek gni<br><br><u>6\u221a7</u><br>\u00a0\u221a3<br><br>maka:<br><br><u><strong>6\u221a7</strong></u><strong>\u00a0  </strong>\u00d7 \u221a3<br>\u00a0<strong>\u221a3\u00a0\u00a0</strong> \u00d7 \u221a3<br><br><u>6\u221a21</u><br>\u00a0 3<br><br>2\u221a21",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

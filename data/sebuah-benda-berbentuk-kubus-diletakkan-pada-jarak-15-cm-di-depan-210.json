@@ -1,0 +1,150 @@
+{
+    "question": "Sebuah benda berbentuk kubus diletakkan pada jarak 15 cm di depan cermin cekung yang titik fokusnya 5 cm. jarak bayangan bendak kubus terbentuk pada jarak.....cm di depan cermin.    a. 7,5\r\nb. 6,0\r\nc. 5,0\r\nd. 4,5",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "[tex] \\frac{1}{f} =  \\frac{1}{s1} +  \\frac{1}{s} [/tex]<br>[tex] \\frac{1}{5} =  \\frac{1}{s1} + \\frac{1}{15} [/tex]<br>[tex] \\frac{3}{15} -  \\frac{1}{15} =  \\frac{1}{s1} [/tex]<br>[tex] \\frac{1}{s1} = \\frac{2}{15} [/tex]<br>s\u2081 = 7,5<br>",
+            "attachments": []
+        },
+        {
+            "answer": "1/f = 1/s + 1/s&#039; jadi jawabannya a.7,5 cm",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "perbedaan-sudut-inkinasi-positif-dan-negatif-638",
+            "question": "Perbedaan sudut inkinasi positif dan negatif ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Deklinasi memiliki 2 pengertian, \npertama adalah deklinasi jika hubungannya dengan bumi \nDeklinasi adalah sudut antara kutub-kutub magnet dengan kutub bumi (sudut antara jarum kompas dengan kutub bumi yang asli) \nkedua adlah deklinasi jika hubungannya dengan langit/luar angkasa \nDeklinasi adalah sudut antara benda langit dengan proyeksinya pada lingkaran khatulistiwa.Untuk benda langit di utara memakai tanda positif sedangkan jika benda berada di belahan langit selatan maka negatif",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span>Untuk benda langit di utara memakai tanda POSITIF sedangkan jika benda berada di belahan langit selatan maka NEGATIF</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apakah-gerhana-bulan-itu-428",
+            "question": "Apakah gerhana bulan itu?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Gerhana bulan terjadi saat sebagian atau keseluruhan penampang bulan tertutup oleh bayangan bumi. Itu terjadi bila bumi berada di antara matahari dan bulan pada satu garis lurus yang sama, sehingga sinar Matahari tidak dapat mencapai bulan karena terhalangi oleh bumi.<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "gerhana bulan adalah fenomena alam yg umum terjadi. Gerhana bulan terjadi karena sebagian atau keseluruhan penampang bulan tertutup oleh bayangan bumi. itu terjadi bila bumi berada diantara matahari dan bulan pada satu garis yg sama, sehingga sinar matahari tdak dapat mencapai bulan karena terhalang oleh bumi<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "hitunglah-panjang-gelombang-darisebuah-gelombang-yang-merambat-de-770",
+            "question": "hitunglah panjang gelombang darisebuah gelombang yang merambat dengan kecepatan 525 m/s dan frekuensinya 1250 hz",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "f = n.t <br>1250 = 525 t<br>t = 2<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-trafo-memiliki-efisiensi-75-tegangan-inputnya-220-v-dan-737",
+            "question": "sebuah trafo memiliki efisiensi 75%. tegangan inputnya 220 V dan tegangan outputnya 110 V . jika kekuatan arus primer yang mengalir 2A berapakah kekuatan arus sekundernya? \u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "220/2=Is/110<br>2Is=24200<br>Is=14100<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "rumusnya Vp / Vs= Is / Ip<br>\u00a0220 / 110 = Is / 2<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 2 = Is / 2<br>Jadi, Is ( Kuat arus sekunder) = 2 x 2 = 4 Ampere<br>\u00a0\u00a0\u00a0 \u00a0 <br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "gaya-ani-300-newtongaya-amir-400-newtondan-gaya-tono-650-newton-408",
+            "question": "gaya ani 300 newton,gaya amir 400 newton,dan gaya tono 650 newton. jika ani dan amir bekerja sama untuk melawan tono dalam tarik tambang , berapa resultannya dan ke arah mana tali bergerak?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "reseltan gaya = 300+400-650 = 50<br>ke arah ani dan amin<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "100-drajat-fahrenheit-drajat-kelfinkira-k-458",
+            "question": "100 drajat Fahrenheit = .................. drajat Kelfin???kira-kira caranya gimana\r\n;)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "rumus = \u00a0(\u00a0f\u00a0-\u00a032\u00a0) : 9 x 5<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0(100-32) : 9 x 5<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0(68) : 9 x 5\u00a0<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a037.7 derajat celcius<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span> </span>Fahrenheit ke Kelvin= (suhu fahrenheit - 32) : 9 x 5 + 273,15<br>= ( 100 - 32) : 9 x 5 + 273,15<br>= 68 : 9 x 5 + 273,15<br>= 7,5 x 5 + 273,15<br>= 37,7 + 273,15<br>= 310,927<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apa-yang-disebut-hukum-newton-3-113",
+            "question": "Apa yang disebut hukum newton 3?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "hukum newton 3 : gaya aksi dan reaksi dari dua benda memiliki besar yang sama, dengan \narah terbalik, dan segaris. Artinya jika ada benda A yang memberi gaya \nsebesar F pada benda B, maka benda B akan memberi gaya sebesar \u2013F kepada\n benda A. F dan \u2013F memiliki besar yang sama namun arahnya berbeda. Hukum\n ini juga terkenal sebagai hukum aksi-reaksi, dengan F disebut sebagai aksi dan \u2013F adalah reaksinya.<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Hukum 3 Newton menjelaskan bahwa setiap ada gaya aksi akan timbul gaya reaksi yang besarnya sama tetapi arahnya berlawanan. <span><br></span><span><br></span><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-transformator-perbandingan-lilitan-primer-dan-sekunder-ada-477",
+            "question": "sebuah transformator perbandingan lilitan primer dan sekunder adalah 4:1. transformator trsebut dihubungkan dngn tegangan 110 V. maka tegangan yg dihasilkan adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex] \\frac{1}{4} .110 =27,5 Volt[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "p-6-cm-l-4-cm-t-12-cm-m-240-g-g-10-ms-maka-tekanan-yan-817",
+            "question": "P : 6 cm    l : 4 cm\r\nt : 12 cm\r\nm : 240 g\r\ng : 10 m/s\r\nmaka tekanan yang di alami balok tersebut sebesar. . .",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Rumus ; P= F/ A<br>Dik:<br>m= 240 g\u00a0<br>g = 10 m/s<br>untuk mencari F= m.g<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 =240 x 10= 2400 g m/s<br>A (Luas permukaan dasar balok) berbentuk PESEGI PANJANG\u00a0<br>maka A= pxl<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 6x4<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 24 cm\u00b2=\u00a0<br>maka P (tekanan)= F/A<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 2400/ 24= 100 Pa",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "benda-logam-yang-bermuatan-listrik-positif-jika-dihubungkan-denga-353",
+            "question": "benda logam yang bermuatan listrik positif jika dihubungkan dengan tanah akan menjadi bermuatan apa , dan alasan ny apa? mohon bantuannya yh tmn :)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "benda logam yang bermuatan positif, dan dikenakan ke tanah muatan itu akan tetap atau positif. karena tanah tidak mempunyai muatan seperti positif atau negatif.",
+                    "attachments": []
+                },
+                {
+                    "answer": "Benda\u00a0 logam bermuatan postif<br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

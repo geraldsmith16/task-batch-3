@@ -1,0 +1,146 @@
+{
+    "question": "Tentukan nilai x jika (2x + 1) + (2x + 2) + (2x +3)+ ... + (2x+ 50) = 4275",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "U1=2x+1, U50=2x+50<br>S50=4275<br>S50=[tex] \\frac{1}{2} [/tex]. 50 (U1+U50)<br>4275=[tex] \\frac{1}{2} [/tex]. 50 (2x+1+2x+50)<br>4275=25(4x+51)<br>171=4x+51<br>171-51=4x<br>120=4x<br>x=30<br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "kakek-mempunyai-kebun-seluas-setengah-ha-kebun-tersebut-ditanami-383",
+            "question": "Kakek mempunyai kebun seluas setengah ha.    kebun tersebut ditanami pohon rambutan seluas 14 dam dan sisanya di tanami pohon durian. berapa luas kebun kakek yang di tanami pohon durian?\r\n\r\npakek penyelesaian yaa.. pliss bantu aku",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1ha = 100dam<br>1/2 ha = 50dam<br>50 - 14 = 36dam :)<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pak-dani-akan-mengecat-bangunan-yang-seperti-gambar-biaya-setia-818",
+            "question": "pak Dani akan mengecat bangunan yang seperti gambar.. Biaya setiap m2 adalah 20.000,00 . berapa biaya seluruh nya ?",
+            "attachments": [
+                "question-attachments/pak-dani-akan-mengecat-bangunan-yang-seperti-gambar-biaya-setia-818-1.png"
+            ],
+            "answers": [
+                {
+                    "answer": "jumlah biaya seluruhnya\u00a01560000",
+                    "attachments": []
+                },
+                {
+                    "answer": "13 m2 + 5 m2 + 4 m2 = 19 m2<br>19 \u00d7 20.000 = Rp 380.000<br><br>Jadi,biaya yang di butuhkan membiayai orang tersebut adalah Rp 380.000<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sederhanakanlah-5-akar-3-43-6-akar-2-3-akar-2-552",
+            "question": "Sederhanakanlah 5 akar 3 + 43 + 6 akar 2 - 3 akar 2",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "43 + 3 akar2 + 5 akar3<br>itu adalah jawaban yang paling sederhana",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "hasil-dari-3-14-kali-3-34-adalah-676",
+            "question": "Hasil dari 3 1/4 kali 3 3/4 adalah\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "195/8 ?<br><br>maaf kalau salah -_-<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span>3 1/4 x 3 3/4</span> = 13/4 x 15/4 <br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 195/4 = 48 3/4<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "help-kasih-caranya-juga-ya-thanks-783",
+            "question": "[HELP] kasih caranya juga ya thanks",
+            "attachments": [
+                "question-attachments/help-kasih-caranya-juga-ya-thanks-783-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "[tex]( \\sqrt[4]{2})^{6}  = (2^ \\frac{1}{4})^6 = 2^ \\frac{6}{4} = 2^ \\frac{3}{2} =  \\sqrt 2^{3}  = 2  \\sqrt{2} [/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "cara-penyelesaiannya-a4-b2-c-a-b6-c4-400",
+            "question": "Cara penyelesaiannya..( a\u207b\u2074 b\u00b2 c /a b\u207b\u2076 c)\u2074?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a = -4-1 =5<br>b= 2-(-6)=8<br>c= 1- 4= -3<br>(a&#039;5 b&#039;8 c&#039;-3)&#039;4<br>a&#039;5\u00d74 b&#039;8\u00d74 c&#039;-3\u00d74<br>a&#039;20 b&#039;32 c&#039;-12<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span>( a\u207b\u2074 b\u00b2 c /a b\u207b\u2076 c)\u2074<br>= a</span>\u207b\u2074.\u2074 b\u00b2.\u2074 c\u2074/ a\u2074 b\u207b\u2076.\u2074 c\u2074<br>= a^16 b^ 8 c^4 / a^4 b^-24 C^4<br>=a^ 16-4 b^8-(-24) c^4-4<br>=a^ 12 b ^ 32 c ^0<br><br>^ = dibaca pangkat ya....",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "berapa-hasil-dari-18-618-6-562",
+            "question": "Berapa hasil dari\u00a0 (\u221a18 +\u00a0\u221a6(\u221a18-\u221a6))",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "( \u221a18+\u221a16(\u221a18-\u221a16))<br>=(3\u221a2+4(3\u221a2-4))<br>=18+12\u221a2+12\u221a2-16<br>=18+24\u221a2-16<br>=2+24\u221a2",
+                    "attachments": []
+                },
+                {
+                    "answer": "\u00a0hasil perubahan soal\u00a0 \u00a0\u00a03\u221a2 +\u00a0\u221a6(2\u221a3-\u221a6)<br>hasil\u00a03\u221a2 - 6 + 6\u221a3",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-model-kerangka-kubus-yang-panjang-rusuknya-x2-cm-dibuat-697",
+            "question": "Sebuah model kerangka kubus yang panjang rusuknya (x+2) cm dibuat dari kawat. Jika panjang kawat yang diperlukan tidak melebihi 180 cm, tentukan panjang rusuk kubus tersebut. tolong kasih tau caranya ya,,,",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "rusuknya kubus kan ada 12 jadi :<br>12 (x + 2) = 180<br>\u00a0\u00a0 \u00a0 \u00a0\u00a0 x + 2 = 180 : 12 (yg 12 dipindah ruas)<br>\u00a0\u00a0 \u00a0 \u00a0\u00a0 x + 2 = 15<br>karena rusuk = x + 2\u00a0 = 15<br>jadi hasilnya 15<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "180 =12 . (x+2)<br>x+2 = 180/12<br>\u00a0 \u00a0 \u00a0 =15<br><br>x+2=15<br>x=15-2= 13<br>Panjang rusuk = x+2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0\u00a0 = 13+2 = 15",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "habcdef-tulislah-semua-himpunan-bagian-dari-h-yg-mempunya-939",
+            "question": "H=(a,b,c,d,e,f)\r\ntulislah semua himpunan bagian dari H yg mempunyai 5anggota!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<strong>5 anggota</strong> = 6 <br>{a, b, c, d, e}; {a, b, c, d, f}; {a, b, c, e, f}; {a, b, d, e, f}; {b, c, d, e, f}; {a, c, d, e, f}<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sisi-sisi-sebuah-segitiga-adalah-88-cm-105-cm-dan-137-cm-hitun-749",
+            "question": "sisi sisi sebuah segitiga adalah 88 cm, 105 cm, dan 137 cm. hitunglah garis tinggi segitiga yang menghadap sisi 105 cm?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>garis tinggi segitiga yang menghadap sisi 105 cm adalah 162,828 cm atau 225 cm\u00a0</span>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

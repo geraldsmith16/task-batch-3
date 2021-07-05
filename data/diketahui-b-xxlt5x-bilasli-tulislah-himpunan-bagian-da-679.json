@@ -1,0 +1,142 @@
+{
+    "question": "Diketahui B = { x|x&lt;5,x bil.asli }    tulislah himpunan bagian dari B yang mempunyai 2 anggota !",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "B = {1,2}<br><br>Sorry kalau salah, karena saya juga baru belajar :)",
+            "attachments": []
+        },
+        {
+            "answer": "[tex]B=\\{x|x&lt;5,x \\in bil.asli\\}\\\\\nB=\\{1,2,3,4\\}\\\\\n\\{1,2\\},\\{1,3\\},\\{1,4\\},\\{2,3\\},\\{2,4\\},\\{3,4\\}[/tex]",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "jumlah-kelereng-robincecepdan-budi-248-butir-banyak-kelereng-r-346",
+            "question": "Jumlah kelereng Robin,Cecep,dan Budi 248 butir. Banyak kelereng Robin 4/5 kali banyaknya kelereng Cecep. Tetapi banyak kelereng Budi sama banyak dengan kelereng Cecep. Berapa banyak kelereng mereka masing-masing?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "robin+cecep+budi=248<br>robin=4/5cecep<br>cecep=budi<br>maka-----&gt; robin+cecep+budi<br>----&gt; 4/5cecep+cecep+cecep/budi=248<br>4/5c + 2c=248<br>14/5c=248<br>c=248 : 14/5<br>=88,57 (cecep &amp; budi)<br>robin=\u00a0 4/5 x 88,57<br>=70,85<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-himpunan-penyelesaian-dari-persamaan-berikut-1-24m-1-898",
+            "question": "Tentukan himpunan penyelesaian dari persamaan berikut.    1. 24m = 12\r\n2. 25 - 4y = 6y + 15\r\n3. 6x + 5 = 26 - x",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1. 24m=12<br>\u00a0\u00a0 \u00a0  m=12:24<br>\u00a0\u00a0 \u00a0 m= 0,5<br>2. 25-4y=6y+15<br>\u00a0\u00a0 -4y-6y=15-25<br>\u00a0\u00a0 \u00a0 -10y= -10<br>\u00a0\u00a0 \u00a0 \u00a0 y=1<br>3. 6x=5=26-x<br>\u00a0\u00a0  6x-x=26-5<br>\u00a0\u00a0 \u00a0 7x=21<br>\u00a0\u00a0 \u00a0 x=3 ^^<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dphuruf-huruf-pembentuk-kata-stabilitas-381",
+            "question": "D.P={huruf huruf pembentuk kata ' stabilitas '}",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "jawaban nya adalah stabil<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-harga-3-pensil-dan-6-pulpen-rp1500000-sedangkan-harga-2-pen-449",
+            "question": "1. Harga 3 pensil dan 6 pulpen Rp15.000,00, Sedangkan harga 2 pensil dan 3 pulpen Rp.8.000,00. Harga 4 pulpen dan 2 pensil adalah ....    2. Keliling sebuah belahketupat 120 cm. Jika panjang salah satu diagonalnya\u00a0 48 cm, Luas belahketupat itu adalah ....\r\n\r\n3. Sebuah aula berbentuk balok dengan ukuran panjang 9 meter, lebar 7 meter, dan tinggi 4 meter.Dinding bagian dalamnya dicat dengan biaya Rp50.000,00 per meter persegi. Seluruh biaya pengecata aula adalah ....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kan keliling belah ketupat K= 120cm, trs rumusnya K=4.alas<br>jdi 120 : 4 =&gt; 30 &lt;= Alasnya<br>Nah diagonal 1 nya =&gt; \u00a048<br>trs diagonal 2 nya =&gt;\u00a0[tex] x^{2} = 30^{2} - 28^{2} =&gt;  \\sqrt{324}  =&gt; 18[/tex]<br>18+18=&gt; 36<br>Trs rumus luasnya =&gt; 1/2\u00a0\u00d7 d1\u00a0\u00d7 d2 =&gt; 1/2\u00a0\u00d7 48 \u00d7 36 =&gt; 864<br>Jawabannya nomor 2 = 864 ^^",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "ada-dua-buah-kubus-vol-kubus1-8-x-dari-vol-kubus-2-jika-panja-645",
+            "question": "Ada dua buah kubus. Vol kubus1 = 8 x dari Vol kubus 2. Jika panjang sisi kubus 1 = y x p kubus 2, maka berapa y ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Dik :<br>V1 = 8 V2<br>p1 = y p2<br><br>Dit : y = ?<br>Jawab :<br>V1 = 8 x V2<br>(p1)pangkat 3 = 8 x (p2)pangkat 3<br>(y x p2)pangkat 3 = 8 x (p2)pangkat 3<br>y pangkat 3 x p2 pangkatt 3 = 8 x p2 pangkat 3<br>y pangkat 3 = 8<br>y = akar pangkat 3 dari 8<br>y = 2<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-sebuah-himpunan-semesta-yang-mungkin-untuk-himpunan-himp-805",
+            "question": "Tentukan sebuah himpunan semesta yang mungkin untuk himpunan-himpunan berikut\u00a0    a.A={1,4,9,16,25}\r\nb.B={1,3,5,7,...}\r\nc.E={m,dm,cm,mm}\r\nd.F={kerucut,tabung,bola}",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a. A = { himpunan bilangan kuadrat }<br>b. B = { himpunan bilangan ganjil }<br>c. E = { himpunan satuan panjang }<br>d. F = { himpunan bangun ruang sisi lengkung }<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "ini-soalnya-tentang-perbandingan-berbalik-nilai-dheni-akan-sam-235",
+            "question": "Ini soalnya tentang perbandingan berbalik nilai :)    Dheni akan sampai disekolah dalam waktu 45 menit,dengan kecepatan rata-rata 20km/jam\r\nBerapa kecepatan rata-rata agar dheni sampaai disekolah dalam waktu 30 menit ?\r\n\r\n\r\ntolong dijwab ya,sama caranya,nanti aku jadika solusi terbaik",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "\u00a0\u00a0 \u00a0 \u00a0 t\u00a0 \u00a0 \u00a0 \u00a0\u00a0  \u00a0 \u00a0 \u00a0 \u00a0 v<br>\u00a0\u00a0 \u00a0  45\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 20<br>\u00a0\u00a0 \u00a0  30\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 x<br><br>45<u></u>/30 = x/20<br>30x\u00a0  =\u00a0  900<br>x\u00a0 \u00a0 = 30 km/jam<br><br>kalo waktunya diubah dari menit ke jam jg, hasilnya tetep sama. semoga bener.<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "dik : waktu1 = 45 menit ,dengan v1= 20 km/jam<br>\u00a0 \u00a0 \u00a0 \u00a0 waktu 2=30 menit ,dengan v2 = ..?<br><br>logikanya jika 20 km/jam sampainya 45 menit,maka jarak tempat yang akan dituju<br>= (45 menit ubah ke jam dulu) lalu di kali 20km.jam<br>= 3/4 jam . 20 km/jam<br>= 15 km (jarak total)<br><br>maka untuk sampai dalam waktu 30 menit,kecepatan yang dibutuhkan adalah<br>jarak total = waktu. kecepatan<br>15 km = 1/2 jam(ubah kejam yang 30 menit td) . kecepatn<br>15 km/1/2 jam)= kecepatan<br>30 km/jam = kecepatn :)<br><br>cara ke dua perbandingan berbalik nilai<br>45/30 = x/20<br>45.20 = 30.x<br>900=30 x<br>900/30 = x<br>30 km/jam = x :)<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "cipta-menjual-mobil-dengan-harga-rp-11160000-lalu-dia-rugi-320",
+            "question": "- Cipta menjual mobil dengan harga Rp. 11.160.000. Lalu, dia rugi 7%. Berapakah harga beli mobilnya?    - Evita menjual sebuah gedung dengan harga Rp 132.000.000, jika dia rugi 12%. Berapakah harga membelinya?\r\n\r\ntolong bantuin yaaa, pake jalan:) makasiih",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "11.160.000= (100-7)/100 x harga asli<br><span>11.160.000 x 100 /93= harga asli<br>harga asli = </span>11.160.000 x 100 /93<br>harga asli = 12.000.000<br><br><br><span>132.000.000 = (100-12)100 x harga asli<br>harga asli = </span><span>132.000.000 x 100 / 88<br>harga asli = 150.000.000<br></span><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "1. karena rugi 7%, maka persentase jual mnjadi <br>= 100% - 7%<br>= 93%<br>maka :<br>\u00a0\u00a0 harga beli = <u>100</u>\u00a0 \u00d7 11.160.000 <br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 93<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = Rp 12.000.000<br><br>2. karena\u00a0 rugi 12% maka persentase jual =<br>\u00a0 = 100% - 12%<br>\u00a0 = 88%<br>maka :<br>harga beli\u00a0 = <u>100</u>\u00a0  \u00d7\u00a0 132.000.000<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 88<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 = Rp 150.000.000<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jari-jari-sebuah-roda-adalah-84-cm-jika-sepeda-tersebut-menempuh-916",
+            "question": "jari jari sebuah roda adalah 84 cm. jika sepeda tersebut menempuh jarak 264 meter, maka roda sepeda harus berputar sebanyak?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "jari jari sebuah roda adalah 84 cm. jika sepeda tersebut menempuh jarak 264 meter, maka roda sepeda harus berputar sebanyak?<br>\u00a0kel = 2 x phi x r<br>\u00a0 \u00a0 \u00a0 = 2 x 22/7 x 84<br>\u00a0 \u00a0 \u00a0 = 2 x 12 x 22<br>\u00a0 \u00a0 \u00a0 = 528<br>banyak putar = 26400/528<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 50",
+                    "attachments": []
+                },
+                {
+                    "answer": "Keliling roda = 2.pi.r<br>= 2. 22/7 . 168<br>= 1056 cm<br>Jarak dalam cm = 264\u00d7100<br>= 26.400<br>Perlu berapa kali roda berputar?<br>26.400 : 1056<br>= 25 kali<br>Semoga betul dan dapat membantu ^^<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "seorang-pedagang-mainan-anak-anak-menjual-25-buah-boneka-dengan-h-266",
+            "question": "seorang pedagang mainan anak anak menjual 25 buah boneka dengan hasil penjualan Rp312.500,00.ternyata pedagang memperoleh untung Rp55.000,00.maka pembelian tiap boneka adalah...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "B = Jual - Untung <br>= 312.500 - 55.000<br>= 257.500 (harga beli seluruh boneka)<br><br>1 boneka: 257.500 : 25 = 10.300<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "RP.312.500,00-RP.55.000,00 : 25 = RP.10.300,000",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

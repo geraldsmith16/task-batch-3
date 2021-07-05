@@ -1,0 +1,146 @@
+{
+    "question": "Tolong dibantu ya    Hal menarik terjadi pada 2 termometer skala celcius dan skala fahrenheit, yakni kesamaan skala pada suhu benda tertentu. pada suhu berapakah kesamaan skala ini dapat terjadi? Buktikan perhitungannya!",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "Fahrenheit mempunyai suhu 32-212<br>Celcius mempunyai suhu 0-100<br>\u0394F : \u0394C = (212-32) : (100-0)<br>\u0394F : \u0394C = 180 : 100<br>(Tf - 32) : (Tc - 0) = 180 : 100<br><u></u>180/(Tf - 32) = 100/Tc, jika Tf = Tc<br>18/(Tc-32) = 10/Tc, kali silang<br>10Tc-320 = 18Tc<br>(10-18)Tc = 320<br><u></u>\u00a0 \u00a0 \u00a0  -8Tc = 320<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 Tc = -40 = Tf<br>maka, suhunya -40<br><br><br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "apa-hubungan-global-warming-dengan-penggunaan-energi-278",
+            "question": "Apa hubungan global warming dengan penggunaan energi?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "hubungan nya\u00a0karna penggunaan energi berlebihan akan menyebabkan pemanasan global (global warming)<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "karna kalau kita menggunakan\u00a0energi secara terus menerus akan mengakibatkan pemanasan global {global warming}",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "angka-muai-panjang-besi-besarnya-0000012-derajat-celcius-berart-287",
+            "question": "angka muai panjang besi besarnya 0,000012/ derajat celcius berarti nilai angka muai ruang besi besarnya?...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "angka muai panjang disebut \u03b1<br>sedangkan angka muai ruang besi adalah \u03b3<br>berlaku rumus \u03b3 = 3\u03b1<br>jadi koefisien muai ruang besi adalah <br>\u03b3 = 3 x 0,000012<br>\u03b3 = 0,000036<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pada-sebuah-rangkaian-listrik-hambatan-yang-terpasang-adalah-300-178",
+            "question": "Pada sebuah rangkaian listrik hambatan yang terpasang adalah 300\u00a0\u03a9 dan kuat arus yang mengalir 0,05 A beda potensial yang ada adalah\u00a0    a. 300,5 volt\r\nb. 299,5 volt\r\nc. 60 volt\r\nd. 15 v\r\n\r\nBeri penjelasannya juga yaa",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span><strong><em>\u00a0R=300\u00a0\u03a9 </em></strong><br><strong><em>I=0,05 A\u00a0</em></strong></span><br><br>[tex]V=I.R \\\\=300.0,05 \\\\15 V[/tex]",
+                    "attachments": []
+                },
+                {
+                    "answer": "v=i\u00d7R<br>v=0.05\u00d7300<br>v=15volt<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dua-mobil-a-dan-b-massanya-sama-masing-masing-bergerak-dengan-ke-185",
+            "question": "Dua mobil A dan B massanya sama, masing masing bergerak dengan kecepatan 2 m/s dan 4m/s. hitung perbandingan energi kinetik mobil a dan b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "EKa=1/2 ( m\u00d7v\u00b2)<br>EKb = 1/2 (m\u00d7v\u00b2<br><br>EKa/EKb = 1/2\u00d7 2\u00b2 / 1/2\u00d74\u00b2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 2 : 8<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 1 : 4",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bola-yang-massanya-800g-ditendang-melambung-hingga-ketinggian-4m-837",
+            "question": "Bola yang massanya 800g ditendang melambung hingga ketinggian 4m dari tanah. Jika percepatan gravitasinya 10m/s\u00b2 hitunglah:    a. Energi potensial gravitasi maximal\r\nb. Energi kinetik ketika bola kembali menyentuh tanah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Ep = m x g x h<br>Ep = 0,8 (massa jadikan kg) x 10 x 4<br>Ep = 32 J<br><br>Ek = 1/2 m vkuadrat<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "a. Energi potensial : m x g x h<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 : 0.8 kg x 4 m x 10 m/s<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 : 32<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tali-sepanjang-15m-di-getaran-dengan-frekuensi-20hz-dalam-1-seko-950",
+            "question": "tali sepanjang 15m di getaran dengan frekuensi 20Hz. dalam 1 sekon, pada tali terjadi gelombang sebanyak.........",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Bukannya frekuensi sudah menunjukkan banyaknya getaran per detik?<br>Frekuensi 20 Hz itu artinya ada 20 gelombang untuk setiap detiknya.<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apa-persamaan-mencari-panjang-periode-dan-amplitudo-gelombang-626",
+            "question": "Apa persamaan mencari panjang, periode, dan amplitudo\u00a0gelombang transversal?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "rumus <br><br>Y = A sin (wt-kx)<br>Y = A sin (2\u03c0/T - 2\u03c0/lamda)<br><br>wt= 2\u03c0/T \u00a0 \u00a0dan kx= 2\u03c0\u00a0/\u00a0lamda (panjang gelombang)<br><br>Semoga membantu :) D like",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span>y = A sin (wt-kx)<br>y = A sin (2\u03c0/T - 2\u03c0/lamda)<br>wt= 2\u03c0/T \u00a0 \u00a0dan kx= 2\u03c0\u00a0/lamda</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "benda-logam-yang-bermuatan-listrik-positif-jika-dihubungkan-denga-353",
+            "question": "benda logam yang bermuatan listrik positif jika dihubungkan dengan tanah akan menjadi bermuatan apa , dan alasan ny apa? mohon bantuannya yh tmn :)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "benda logam yang bermuatan positif, dan dikenakan ke tanah muatan itu akan tetap atau positif. karena tanah tidak mempunyai muatan seperti positif atau negatif.",
+                    "attachments": []
+                },
+                {
+                    "answer": "Benda\u00a0 logam bermuatan postif<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-tuliskan-apa-saja-yang-anda-ketahui-tentang-gaya-beratgaya-ge-835",
+            "question": "1. tuliskan apa saja yang anda ketahui tentang gaya berat,gaya gesek,dan hukum 1 newton?    2. tuliskan keuntungan dan kerugian gaya gesek?\r\n3.apakah yang dimaksud dengan gaya gesek statis dan gaya gesek kenetik",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "berat dari suatu benda adalah gaya yang disebabkan oleh gravitasi berkaitan dengan massa benda tersebut<br>Gaya gesek adalah gaya yang berarah melawan gerak benda atau arah kecenderungan benda akan bergerak.<br>  Hukum I Newton \n<span>Hukum I Newton  berbunyi: \u201cBenda yang dalam \nkeadaan diam akan mempertahankan  keadaannya untuk tetap diam dan benda \nyang sedang bergerak lurus beraturan akan  cenderung mempertahankan \nkeadaannya untuk bergerak lurus beraturan dalam arah  yang sama selama \ntidak ada gaya  yang bekerja padanya\u201d.<br><br>\n  Sifat benda  untuk mempertahankan keadaannya yang diam tetap diam, \nyang bergerak lurus  beraturan tetap\u00a0 bergerak lurus beraturan  disebut \ninersia benda.<br><br>\u00a0</span><br><span>\nKeuntungan yang ditimbulkan gaya gesek</span>\nGesekan\n     parasut dengan udara sehingga penerjun selamat sampai di bumiGesekan\n     angin dengan layar kapal membuat kapal dapat bergerakGesekan\n     kaki dengan lantai\u00a0membuat kita dapat berjalanGesekan\n     roda dengan jalan\u00a0 yang membuat kendaraan dapat melajuGesekan\n     pada pengereman\u00a0 agar laju kendaraan dapat dikurangiBenda\n     dapat bergerak/ berjalan di atas lantai tanpa tergelincirLaju\n     kendaraan dapat di-rem , sehingga terhindar dari kecelakaan.Menahan\n     / menghambat benda-benda angkasa yang jatuh ke bumi.Jalan\n     raya dibuat permukaannya kasar agar terjadi gaya gesekan antara ban mobil\n     dan permukaan jalan raya sehingga mobil dapat bergerak atau tidak mudah\n     tergelincir.Sepatu\n     olahraga permukaannya dibuat agak kasar agar pemai olahraga tidak mudah\n     terpeleset<span>\n<span>Kerugian yang ditimbulkan akibat gesekan<span>\u00a0:</span></span></span>\nKita\n     harus mengeluarkan banyak energi , untuk melawan gesekan.Gesekan\n     menyebabkan benda yang berputar menjadi aus (rusak).Gesekan\n     menyebabkan benda menjadi panas.Gesekan\n     permukaan ban dengan jalan menyebabkan ban menjadi aus.Gesekan\n     organ-organ mesin pada mobil yang berputar\u00a0menyebabkan organ mesin\n     menjadi aus.Gesekan\n     tali dengan katrol dapat menguras energi kita.Gaya\n     gesekan antara udara dengan mobil dapat menghambat laju mobilGaya\n     gesekan pada mesin mobil dapat menimbulkan panas sehingga mobil perlu\n     diberi minyak pelumas.Gaya gesek statis adalah gesekan antara dua benda padat yang tidak bergerak relatif satu sama lainnya<br>Gaya gesek kinetis (atau dinamis) terjadi ketika dua benda bergerak relatif satu sama lainnya dan saling bergesekan.<br><br><br><br><br><br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "1.-gaya berat adalah : gaya gravitasi bumi yang bekerja pada suatu benda,gaya\u00a0berat merupakan besaran vektor\u00a0<br>-gaya gesek adalah gaya timbul akibat bersentuhan langsung antara 2 permukaan benda dengan arah berlawanan terhadap kecenderungan arah gerak benda<br>-hukum netwon 1 sebuah benda yang terus dalam keadaan diam/terus bergerak dalam kelajuan tetap kecuali jika ada kelajuan yang memaksa benda tsb<br>2. keuntungan : - akibat gaya gesek,daoat berjalan di atas tanah dengan nyaman jika tidak ada gaya gesek\u00a0kita bisa tergelincir\u00a0<br>-gaya gesekan antar mobil dgn jalan membuat mobil bergerak dengan baik\u00a0jika tidak ada gaya gesek\u00a0kita bisa tergelincir\u00a0<br>- gaya gesek bermanfaat bagi rem dgn adanya karet dan\u00a0roda pada kendaraann<br>kerugian : - gaya gesekan pada bagian2 yg ada dalam mesin mobil dapat panas yang berlebihan menyebabkan mesin cepat rusak<br>-gesekkan dapat menyebabkan ban mobil cepat aus\u00a0<br>-gesekkan antara air laut dan kapal laut dapat menghambat gerakan kapal laut\u00a0<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebutkan-dan-jelaskan-dua-besaran-yang-sangat-memengaruhi-nilai-t-805",
+            "question": "sebutkan dan jelaskan dua besaran yang sangat memengaruhi nilai tekanan hidrostatis? tolong di jawab ya :)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "lihatt aja di rumusnya :<br>Ph:p x g x h<br>Ph;satuannya (Pa)<br>p satuannya (kg/m3)<br>h satuannya m<br>g satuannya m/s 2",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

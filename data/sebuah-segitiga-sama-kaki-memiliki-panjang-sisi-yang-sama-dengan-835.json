@@ -1,0 +1,142 @@
+{
+    "question": "Sebuah segitiga sama kaki memiliki panjang sisi yang sama dengan 5 kali panjang sisi lainnya. Agar keliling segitiga tersebut lebih besar dari 50 m, berapakah panjang masing-masing sisi segitiga tersebut?",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "5x+x+x&gt;50<br>7x&gt;50<br>x&gt;50/7 sisi(1) dan (2)<br>x&gt;250/7 sisi alas (3)<br><br><br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "berikan-contoh-soal-pertidaksamaan-linear-satu-variabel-dan-caran-517",
+            "question": "Berikan contoh soal pertidaksamaan linear satu variabel dan caranya",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "-3 <u>&lt;</u> 2x + 5 <u>&lt;</u> 1<br>jawab : -3 -5 <u>&lt;</u> 2x + 5 -5 <u>&lt;</u> 1-5<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 -8 <u>&lt;</u> 2x <u>&lt;</u> -4<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0  -4 <u>&lt;</u> x <u>&lt;</u> -2<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "\u207b3\u207b5\u22642\u00d7\u207a5\u207b5\u22641\u208b5\u208b8\u22642\u00d7\u2264\u208b4\u208b4\u2264\u00d7\u2264\u208b2",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-8-butir-keripik-singkong-beratnya-12-ons-jika-2-kg-berapa-551",
+            "question": "jika 8 butir keripik singkong beratnya 1,2 ons. jika 2 kg berapa butirkah keripik singkongkan yang dibutuhkan ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "8= 0,12 kg<br>x= 2 kg<br>16 = 0,12x<br>x = 16/0,12= 133,3333",
+                    "attachments": []
+                },
+                {
+                    "answer": "1 butir keripik = 0,15<br>2 kg = 133,3 butir keripik",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-sebuah-himpunan-semesta-yang-mungkin-untuk-himpunan-himp-805",
+            "question": "Tentukan sebuah himpunan semesta yang mungkin untuk himpunan-himpunan berikut\u00a0    a.A={1,4,9,16,25}\r\nb.B={1,3,5,7,...}\r\nc.E={m,dm,cm,mm}\r\nd.F={kerucut,tabung,bola}",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a. A = { himpunan bilangan kuadrat }<br>b. B = { himpunan bilangan ganjil }<br>c. E = { himpunan satuan panjang }<br>d. F = { himpunan bangun ruang sisi lengkung }<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "nyatakan-himp-berikut-dgn-kata-kata-dan-notasi-pembentuk-himpunan-538",
+            "question": "Nyatakan himp berikut dgn kata kata dan notasi pembentuk himpunan A= {1,3,5,7} B= {0,3,6,9,12,15}",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "A : {x|1\u2264x\u22647, x\u00a0\u2208 P}<br>b : {x|0\u2264x\u226415, x\u00a0\u2208 bilangan bulat\u00a0kelipatan 3}<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "A = {\u00a0<em>x | x</em>, <em>x</em> adalah bilangan ganjil \u00a0yang kurang dari 9\u00a0}<br>B = {\u00a0<em>x | x</em>,\u00a0<em>x</em> adalah bilangan bilangan cacah\u00a0kelipatan 3 yang kurang dari 18 }<br><br>Insya Allah jawaban ini benar. Amin",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "ada-dua-buah-kubus-vol-kubus1-8-x-dari-vol-kubus-2-jika-panja-645",
+            "question": "Ada dua buah kubus. Vol kubus1 = 8 x dari Vol kubus 2. Jika panjang sisi kubus 1 = y x p kubus 2, maka berapa y ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Dik :<br>V1 = 8 V2<br>p1 = y p2<br><br>Dit : y = ?<br>Jawab :<br>V1 = 8 x V2<br>(p1)pangkat 3 = 8 x (p2)pangkat 3<br>(y x p2)pangkat 3 = 8 x (p2)pangkat 3<br>y pangkat 3 x p2 pangkatt 3 = 8 x p2 pangkat 3<br>y pangkat 3 = 8<br>y = akar pangkat 3 dari 8<br>y = 2<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jari-jari-sebuah-roda-adalah-84-cm-jika-sepeda-tersebut-menempuh-916",
+            "question": "jari jari sebuah roda adalah 84 cm. jika sepeda tersebut menempuh jarak 264 meter, maka roda sepeda harus berputar sebanyak?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "jari jari sebuah roda adalah 84 cm. jika sepeda tersebut menempuh jarak 264 meter, maka roda sepeda harus berputar sebanyak?<br>\u00a0kel = 2 x phi x r<br>\u00a0 \u00a0 \u00a0 = 2 x 22/7 x 84<br>\u00a0 \u00a0 \u00a0 = 2 x 12 x 22<br>\u00a0 \u00a0 \u00a0 = 528<br>banyak putar = 26400/528<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 50",
+                    "attachments": []
+                },
+                {
+                    "answer": "Keliling roda = 2.pi.r<br>= 2. 22/7 . 168<br>= 1056 cm<br>Jarak dalam cm = 264\u00d7100<br>= 26.400<br>Perlu berapa kali roda berputar?<br>26.400 : 1056<br>= 25 kali<br>Semoga betul dan dapat membantu ^^<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-bantu-aku-yaa-dibawah-ini-persamaan-yang-tidak-ekuiva-151",
+            "question": "Tolong bantu aku yaa...\u00a0    Dibawah ini persamaan yang tidak ekuivalen dengan 5(x-3) - 2(x+1) = x + 3 adalah...\r\nA. 3x - 17 = x +\u00a03\r\nB. 3x = x +\u00a020\r\nC. 3x = x +16\r\nD. x = 10",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "5(x-3) - 2(x+1) = x+3<br>5x-15-2x-2 <span>=\u00a0</span>x+3<br>5x-2x-x\u00a0<span>=\u00a0</span>3+15+2<br>2x\u00a0<span>=\u00a0</span>20<br>x <span>= </span>20 \u00f7 2<br>x <span>=</span> 10<br><br>a. 3x -17 <span>= </span>x+3<br>\u00a0\u00a0\u00a0 3x-x <span>=</span> 3+17<br>\u00a0\u00a0 \u00a0 2x\u00a0  <span><strong></strong>= <strong></strong>20<br>\u00a0\u00a0 \u00a0  x = 20 \u00f7 2<br><br>\u00a0\u00a0 \u00a0  x <strong>= </strong>10<br>b. 3x = x+20 <br>\u00a0\u00a0  3x - x = 20<br>\u00a0\u00a0  2x = 20<br>\u00a0\u00a0 x = 20\u00f72<br>\u00a0\u00a0 x = 10<br>c. 3x = x+16 <br>\u00a0\u00a0\u00a0 3x - x = 16<br>\u00a0\u00a0 \u00a0 2x = 16<br>\u00a0\u00a0\u00a0\u00a0  x = 16\u00f72<br>\u00a0\u00a0 \u00a0 x = 8<br>d. x = 10<br><br>brarti yg tdak ekuivalen adlah c <br>maaf kalau salah.. ini jawaban saya :) <br></span><span><strong></strong>\n                </span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "3z11-28-itu-gimana-caranya-yah-506",
+            "question": "3z+11=-28 itu gimana caranya yah?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "3z+11=-28<br>3z=-28-11<br>3z=-39<br>z=-12",
+                    "attachments": []
+                },
+                {
+                    "answer": "3z +11 = -28<br>3z = -28 - 11<br>3z = -33<br>z = -11",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "misalkan-f-adalah-suatu-fungsi-yang-memenuhi-f1x-12-f-x-2-663",
+            "question": "Misalkan F adalah suatu fungsi yang memenuhi    F(1/x)+ 1/2 F(-x)= 2x untuk setiap x tidak sama dengan 0. Berapakah F(2)?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]f(\\frac{1}{x})+\\frac{1}{2}f(-x)=2x\\ ; x \\neq 0\\\\\n\\\\\nuntuk\\ x=-2\n\\\\\nf(\\frac{1}{-2})+\\frac{1}{2}f(-(-2))=2(-2)\\\\\n\\\\ f(-\\frac{1}{2})+\\frac{1}{2}f(2)=-4\\\\\n\\\\\nuntuk\\ x=\\frac{1}{2} \\\\\nf(\\frac{1}{\\frac{1}{2}})+\\frac{1}{2}f(-\\frac{1}{2})=2(\\frac{1}{2})\\\\\n\\\\ f(2)+\\frac{1}{2}f(-\\frac{1}{2})=1\\\\\\\\\neliminasi\\ f(-\\frac{1}{2})\\ pada\\ kedua\\ persamaan\\\\\nf(-\\frac{1}{2})+\\frac{1}{2}f(2)=-4\\\\\n\\underlined{f(-\\frac{1}{2})+2f(2)=2\\ \\ \u2013}\\\\\n\\\\\n-\\frac{3}{2}f(2)=-6\\\\\nf(2)=4[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-x-12-2x-36-2x45-3-24y-1133-20y-363",
+            "question": "1. X-12= 2x +36\r\n2+x/4=5\r\n3. 24y-11=33-20y",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]x-12=2x+36\\\\\n-x=48\\\\\nx=-48\\\\\\\\\n\\frac{x}{4}=5\\\\\nx=20\\\\\\\\\n24y-11=33-20y\\\\\n44y=44\\\\\ny=1[/tex]",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

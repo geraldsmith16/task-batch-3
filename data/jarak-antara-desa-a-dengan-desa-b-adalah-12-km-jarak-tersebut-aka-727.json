@@ -1,0 +1,146 @@
+{
+    "question": "jarak antara desa A dengan desa B adalah 12 km jarak tersebut akan digambar dengan skala 1 : 600.000, berapa CMkah desa A dan desa B pada gambar?",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "<span>CMkah desa A dan desa B adalah 2cm</span>",
+            "attachments": []
+        },
+        {
+            "answer": "12 km = 1200.000cm<br>skala 1: 600.000<br><br><u>\u00a01200000\u00a0</u>= 2 cm<u><br></u>600000<u><br></u>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "perbandingan-2-x-senilaidengan-y-27-dan-yx-16-tentukan-307",
+            "question": "Perbandingan 2 : x senilai,dengan y : 27 dan y/x - 1/6,\u00a0tentukan nilai x dan y",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "y/x = 1/6<br>x = 6y<br><br>2/x = y/27<br>2/6y = y/27<br>6y^2 = 54<br>y^2 = 9<br>y = 3<br>x = 6y<br>\u00a0\u00a0 = 18<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span>y/x = 1/6<br>x = 6y<br><br>2/x = y/27<br>2/6y = y/27<br>6y^2 = 54<br>y^2 = 9<br>y = 3<br>x = 6y<br>\u00a0\u00a0 = 18</span><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-suatu-barisan-geometri-memiliki-suku-pertama-3-dan-rasio-4-a-513",
+            "question": "1. Suatu barisan geometri memiliki suku pertama 3 dan rasio 4.    a. tuliskan barisan geometri tsb.\r\nb. tuliskan deret geometri tsb.\r\n\r\n2. Tentukanlah jumlah setiap deret geometri berikut.\r\na. 2+6+18+54+162+...+U7\r\nb. 3+15+75+...+U6\r\nc. 1+4+16+64+...+U7\r\nd. 5+10+20+40+80+...+U8\r\ne. 1/4+1/2+1+2+...+U10",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1.dik a= 3 r=4 <br>deret geometrinya\u00a0 un=ar^n-1<br>un = 3,12,48,192, . . . <br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pada-kegiatan-rally-sebuah-mobil-akan-sampai-di-garis-finish-dal-184",
+            "question": "pada kegiatan Rally, sebuah mobil akan sampai di garis finish dalam waktu 4,5 jam dengan kecepatan rata rata 63 km/jam. setelah 2 jam berjalan, ban mobil biru pecah sehingga terpaksa berhenti mengganti ban selama 15 menit. berapa kecepatan mobil biru di naikkan agar tetap sampai di garis finish tepat waktu?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>Jarak tempat = 4,5 jam x 63 km / jam <br>= 283,5 km<br>Perjalanan 2 jam , jaraknya = 2 jam x 63 km/jam <br>= 126 km<br>Berhenti selama 15 menit, total waktu yang sudah ditempuh <br>= 2 jam + 15 menit <br>= 2,25 jam<br>Jarak tempat yang belum di lalui <br>= 283,5 km - 126 km <br>= 157,5 km<br>Kecepatan agar tepat waktu <br>= 157,5 km / 2,25 jam <br>= 70 km/jam</span><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1sebuah-kapal-belayar-kearah-timur-sejauh-150-kmkemudian-kearah-764",
+            "question": "1.Sebuah kapal belayar kearah timur sejauh 150 km,kemudian kearah selatan sejauh 200 km. hitung jarak kapal sekarang dari tempat semula.    2. Sebuah tangga yang panjangx 12 m bersandar pada tembok yg tingginya 8m. jika kaki tangga terletak 6m dari tembok maka hitunglah panjang bagian tangga yang tersisa diatas tembok\r\n\r\nMohon Bantunnya yh :)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1. 150+200=350<br>2. 12m-6m=12m",
+                    "attachments": []
+                },
+                {
+                    "answer": "1. 50\u221a34 Km <br>2. 2m<br><br>dengan rumus abc<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dua-bilangan-berselisih-25jika-2-kali-bilangan-yang-besar-dikura-498",
+            "question": "dua bilangan berselisih 25.jika 2 kali bilangan yang besar dikurangi bilangan yang kecil adalah 175,tentukanlah bilangan itu.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a-b=25<br>(2xa)-b=175<br><br>lakukan eliminasi:<br>2a-b=175<br>a-b=25\u00a0 \u00a0 -<br>-------------------<br>a=150<br><br>lakukan substitusi untuk mencari b<br>a-b=25<br>150-b=25<br>b=150-25= 125<br>b=125<br><br>(2x150)-b=175<br>300-b=175<br>b=300-175<br>b=125<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sederhanakanlah-a27-b125-c180-d570-ubahlah-me-734",
+            "question": "Sederhanakanlah\u00a0    A.\u221a27\u00a0\r\nB.\u221a125\r\nC.\u221a180\r\nD.\u221a570\r\n\r\nUbahlah menjadi pangkat pecahan\u00a0\r\nA.\u221b15\r\nB.5\u221a12\u00b3\r\nC.\u221b12\r\nD.4\u221a48\u00b3",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a. 3\u221a3<br>b. 5\u221a5<br>c. 6\u221a5<br>d.\u00a0\u221a3.19.2.5\u00a0\u21d2hitung sendiri ajalahhhh<br><br>a. 15 pangkat 1/3<br>b. 300 pangkat 3/2<br>c. 12 pangkat 1/3<br>d. 767 pangkat 3/2<br>itulah hasilnyaaaa........<br>tolong di like yaaa",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-persamaan-linear-a-3s11-28-b-25-4y-6y15-c-64-112",
+            "question": "Tentukan persamaan linear    a). 3s+11=-28\r\nb). 25-4y = 6y+15\r\nc). 6/4 + 2 = 4\r\nd). 6x + 5 = 26-x\r\ne). 2-4x =3\r\npliaa tlng d jawab yah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "3s+11=-28<br>3s=-28-11<br>3s=-39<br>s=-13<br><br>25-4y=6y+15<br>4y+6y=25-15<br>10y=10<br>y=1<br><br>6x+5=26-x<br>6x+x=26-5<br>7x=21<br>x=3<br><br>2-4x=3<br>4x=2-3<br>4x=-1<br>x=-1/4<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sederhanakanlah-bentuk-akar-tersebut-53-1212-974",
+            "question": "Sederhanakanlah bentuk akar tersebut! 5\u221a3-12\u221a12=",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "5\u221a3 - 12\u00a0\u221a 3 . 4<br>5\u221a3 - 12 . 2\u00a0\u221a3<br>5\u221a3 - 24\u00a0\u221a3<br>- 19\u00a0\u221a3",
+                    "attachments": []
+                },
+                {
+                    "answer": "[tex]5 \\sqrt{3} -12 \\sqrt{12} = 5 \\sqrt{3} -12 \\sqrt{4.3} = 5 \\sqrt{3} -12.2 \\sqrt{3} \\\\ 5 \\sqrt{3} -24 \\sqrt{3}=(5-24) \\sqrt{3} = -19 \\sqrt{3} [/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "6-pangkat-3-8-pangkat-4-9-pangkat-2-3-pangkat-5-4-pan-814",
+            "question": "6 pangkat 3 \u00d7 8 pangkat 4 \u00d7 9 pangkat 2 \u00f7 3 pangkat 5 \u00d7 4 pangkat 4 \u00d7 2 pangkat 2    Ga pake cara juga gapapa",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "216x4096x81/243x256x4= 313.604.883,692",
+                    "attachments": []
+                },
+                {
+                    "answer": "216 x 4096 x 81 : 243 x 256 x 4 = 301.989.888<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "nyatakan-himp-berikut-dgn-kata-kata-dan-notasi-pembentuk-himpunan-538",
+            "question": "Nyatakan himp berikut dgn kata kata dan notasi pembentuk himpunan A= {1,3,5,7} B= {0,3,6,9,12,15}",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "A : {x|1\u2264x\u22647, x\u00a0\u2208 P}<br>b : {x|0\u2264x\u226415, x\u00a0\u2208 bilangan bulat\u00a0kelipatan 3}<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "A = {\u00a0<em>x | x</em>, <em>x</em> adalah bilangan ganjil \u00a0yang kurang dari 9\u00a0}<br>B = {\u00a0<em>x | x</em>,\u00a0<em>x</em> adalah bilangan bilangan cacah\u00a0kelipatan 3 yang kurang dari 18 }<br><br>Insya Allah jawaban ini benar. Amin",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

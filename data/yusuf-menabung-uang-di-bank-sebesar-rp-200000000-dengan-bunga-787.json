@@ -1,0 +1,144 @@
+{
+    "question": "yusuf menabung uang di bank sebesar rp 2.000.000.00 dengan bunga 7% setiap tahun.setelah diambil uangnya menjadi rp 2.105.000.00 setelah berapa bulan yusuf menabung di bank ... bulan",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "Besar bunga = waktu / 12 bulan x persen bunga x uang awal<br>105.000 = w / 12 x 7 / 100 x 2.000.000<br>w = 105.000 x 12 x 100 / 7 x 2.000.000<br>w = 15000 x 12 x 100 / 2.000.000<br>w = 180.000 / 20.000<br>w = 9 bulan",
+            "attachments": []
+        },
+        {
+            "answer": "jika setahun maka yusuf akan mendapat 140.000<br>sedangkan jika sebulan yusuf akan mendapat 11.666<br>berarti jika yusuf mendapat bunga sebesar 105.000, artinya lama yusuf menabung di bank adalah 9 bulan",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "himpunan-penyelesaian-persamaan-x2-2x-1-adalah-416",
+            "question": "Himpunan penyelesaian persamaan \u00a0 \u00a0\u00a0x+2 = 2x\u00a0+\u00a01 \u00a0adalah???    \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 \u00a0 \u00a0\u00a03 \u00a0 \u00a0 \u00a0 \u00a0 \u00a02\r\ntolong di jawab ya, kalau bisa,,,",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "(3)(2x+1) = (2)(x+2)<br>6x + 3 = 2x + 4<br>4x = 1<br>\u00d7 = 1/4<br>Kalau menurut saya itu jawabannya",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span>3(2x+1) = 2(x+2)<br>6x + 3\u00a0\u00a0 = 2x + 4<br>4x + 3\u00a0\u00a0 = 4<br></span>4x\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 1<br>x\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 1/4<br><br>Himpunan penyelesaian = {...; 0,22 ; 0,23 ; 0,24 ; 0,25}<br>Dijamin benar. :) <br>Balas \"terimakasih\" ya :)<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-bus-memiliki-daya-angkut-tidak-lebih-dari-60-orang-ubahl-436",
+            "question": "\"Sebuah bus memiliki daya angkut tidak lebih dari 60 orang\" ubahlah ke dalam bentuk pertidak samaan linear",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "{x I x\u00a0\u2264\u00a060, x\u00a0\u2208\u00a0R}<br>mnurutku ini jawabannya,,,, sorry klo salah jawabannyaaa",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "perbandingan-ab-berbalik-nilai-dengan-208jika-nilai-a2maka-n-766",
+            "question": "Perbandingan a:b berbalik nilai dengan 20:8.Jika nilai a=2,maka nilai b=",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Jika a\u00a0:\u00a0b berbalik nilai dengan 20\u00a0:\u00a08<br>maka, a : b = 8 : 20<br><br>Jika a = 2<br>maka, b = (20/8) x 2<br>b =\u00a05",
+                    "attachments": []
+                },
+                {
+                    "answer": "a/b=8/20<br>2/b=8/20<br>8b=40<br>b=40/8<br>b= 5",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "ubahlah-masalah-nyata-berikut-ke-dalam-bentuk-pertidaksaman-linea-706",
+            "question": "Ubahlah masalah nyata berikut ke dalam bentuk pertidaksaman linear satu variabel.    a) Sebuah bus dapat mengangkut tidak kurang dari enampuluh orang penumpang.\r\nb) Jarak rumah Beni ke sekolah lebih dari seratus meter.\r\nc) Penghasilan ibu Monika tidak lebih dari dua juta rupiah setiap bulannya.\r\nd) Sebuah pesawat berada diketinggian tidak kurang dari tiga ribu kaki di atas permukaanlaut.\r\ne) Kecepatan Udin berkendara tidak lebih dari 50 km/jam.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a. x&gt;=60<br>b.x&gt;100<br>c.x&lt;=2000000<br>d.x&gt;=3000<br>e.x&lt;=50",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "alas-sebuah-limas-berbentuk-belah-ketupat-dengan-keliling-60-cm-d-163",
+            "question": "alas sebuah limas berbentuk belah ketupat dengan keliling 60 cm dan panjang salah satu diagonalnya adalah 18 cm serta tinggi limas 12 cm .maka volume limas tersebut adalah ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "V limas =\u00a0[tex] \\frac{1}{3} [/tex].Luas Alat.Tinggi<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0[tex] \\frac{1}{3} [/tex].198.12<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0792 cm3<br>L\u00a0alas=\u00a0[tex] \\frac{1}{2}\u00a0[/tex].d1.d2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0[tex] \\frac{1}{2}\u00a0[/tex].18.22<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0198",
+                    "attachments": []
+                },
+                {
+                    "answer": "panjang diagonal 1 = 18<br>panjang diagonal 2 = 24 (triple phytagoras)<br>v = 1/3*luas alas*t<br>\u00a0 = 1/3*(1/2*18*24)*12<br>\u00a0 = 1/3*216*12<br>\u00a0 = 864<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-yg-tw-gw-kasih-poin-banyak-787",
+            "question": "Tolong yg tw gw kasih poin banyak :)",
+            "attachments": [
+                "question-attachments/tolong-yg-tw-gw-kasih-poin-banyak-787-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "4. jumlah siswa 40<br>30 gemar mat, 26 gemar fisika, 2 org tidak gemar keduanya, yang gemar keduanya dianggap x<br>maka :<br>40 = (30 - x) + x + (26 - x) +2<br>40 = 58 - x<br>x = 18<br><br>5. 23 gemar bakso dan mie, 45 gemar bakso, 34 gemar mie, 6 org tidak kedua nya, jumlah dianggp x maka :<br>x = 23 + (45 - 23) + (34 - 23) + 6<br>x = 62<br><br>1. jumlah smua 60, gemar basket 50, bulu tangkis 40, 35 gemar keduanya<br>maka :<br>60 = (50 - 35) + (40 - 35) + 35 + x<br>60 = 55 + x<br>5 = x<br><br>2. jumlah 38, menjahit 27, lukis 23, kedua nya 15, ketidak 2\" nya dianggap x<br>maka :<br>38 = (27 - 15) + (23 - 15) + 15 + x<br>38 = 35 + x<br>3 = x<br><br>3. jumlah 30, gemar bacca 25, nyanyi 20, 4 tidak keduanya, gemar keduanya dianggap x<br>maka :<br>30 = (25 - x) + (20 - x) + x + 4<br>30 = 49 - x<br>x = 19<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "berapakah-hasil-dari-pertanyaan-berikut-ini-747-575",
+            "question": "Berapakah hasil dari pertanyaan berikut ini\u00a0 (\u221a7+\u221a4)(\u221a7-\u221a4)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "\u221a49-\u221a28+\u221a28+\u221a16=7-4=3",
+                    "attachments": []
+                },
+                {
+                    "answer": "\u221a11 . \u221a3 = \u221a33<br>\u221a33 = 5 \u221a8",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apabila-besar-sebuah-segitigan-4x-7-5x-2-x-9-tent-735",
+            "question": "Apabila besar sebuah segitigan ( 4x + 7 ),( 5x + 2 ),( x-9 )    tentukan :\r\n1. Nilai X\r\n2. Jenis segitiga",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a. jika yang dimaksud sudut segitiga, maka :<br>(4x + 7 )\u00b0 + ( 5x + 2 )\u00b0 + ( x - 9 )\u00b0 = 180\u00b0<br>10x = 180\u00b0<br>x = 18\u00b0<br><br>b. sudut masing\"<br>@ 4x + 7<br>\u00a0\u00a0\u00a0 4 ( 18 ) + 7 =79\u00b0<br>@ 5x + 2<br>\u00a0\u00a0\u00a0 5 ( 18 ) + 2 = 92\u00b0<br>@ x - 9<br>\u00a0\u00a0\u00a0 18 - 9 = 9\u00b0<br>maka dari sudut yang tertera diatas maka segitiga tersebut adalah segitiga tumpul<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-belah-ketupat-pqrs-dengan-besar-tps-30-dan-panjang-297",
+            "question": "Diketahui belah ketupat PQRS dengan besar TPS = 30\u00b0 dan panjang PT = 24cm    hitunglah :\r\na. keliling, dan\r\nb. luas belah ketupat\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "PQ=QR=RS=SP=<em></em>\u221a24\u00b2+24\u00b2 =\u00a0\u221a576+576 = 33,9<br>Keliling = 4\u00a0\u00d7 PQ = 4\u00a0\u00d7 33,9 = 135,6 cm<br>Luas = 1/2 d1\u00a0\u00d7 d2 = 1/2\u00a0\u00d7 48\u00d7 48 = 1152 cm\u00b2<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-nilai-x-jika-2x-1-2x-2-2x-32x-5-961",
+            "question": "Tentukan nilai x, jika (2x + 1) + (2x + 2) + (2x + 3)+...+(2x + 50) = 4275. Tolong dijawab yaa, pleaseee",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "jawabannya 30<br><br>Sn = n/2 { a +Un } = 4275<br>&gt; 50/2 { (2x+1) + (2x+50) } = 4275<br>&gt; 25 { 4x + 51 } = 4275<br>&gt; 100x + 1275 = 4275<br>&gt;100x = 4275 - 1275<br>&gt;100x = 3000<br>&gt;x = 30<br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

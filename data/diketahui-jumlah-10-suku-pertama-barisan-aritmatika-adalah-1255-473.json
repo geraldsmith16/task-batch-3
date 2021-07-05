@@ -1,0 +1,130 @@
+{
+    "question": "diketahui jumlah 10 suku pertama barisan aritmatika adalah 1255, jika bedanya 6. tentukanlah suku pertama dan rumus suku ke-n?",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "U1 + U2 +..... + U10 = 10U1 + (1\u00a0+\u00a02\u00a0+ 3 + 4 + 5 + 6 + 7 + 8 + 9)b =1225<br><br>10U1 + 45.6 = 1255<br>10U1 +\u00a0270 = 1255<br>10U1 = 985<br>U1 = 98,5<br><br>Un = U1 + (n-1)b<br>Un = 98,5 + (n-1)6<br>Un = 98,5 + 6n -\u00a06<br>Un = 6n + 92,5",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "sebanyak-18-gram-glukosa-dibakar-dengan-oksigen-menghasilkan-264-772",
+            "question": "Sebanyak 18 gram glukosa dibakar dengan oksigen menghasilkan 26,4 gram gas karbondioksida dan 10,8 gram uap air. Hitunglah berapa gram oksigen yang diperlukan pada pembakaran tersebut?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "(buat dulu reaksinya)<br>jumlah reaksi = jumlah produk<br>18 gr + O2 = 26,4 + 10,8<br>18 gr + O2 = 37,2<br>O2 = 19,2 gr<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suku-pertama-barisan-geometri-adalah-5-dan-besar-suku-tengahnya-a-805",
+            "question": "suku pertama barisan geometri adalah 5 dan besar suku tengahnya adalah 3.645. banyak sukunya adalah.. \u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex] \\frac{3645}{5} = 729 = 9^{3} = 3^{6}[/tex]<br><br>jadi ada 2 jawaban nih yang mungkin.<br>kalau rasio = 9.<br>maka banyak sukunya = 7<br><br>kalau rasio = 3<br>maka banyak sukunya = 13<br><br>slahkan di cek.",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-nilai-a-dan-b-a-x3-bx-2-2x2x2x-6-498",
+            "question": "Tentukan nilai a dan b\r\n\r\na/ x+3 + b/x-2 = 2x+2/x\u00b2+x-6",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a/(x+3) + b/(x-2) = (2x + 2)/ (x+3)(x-2)<br>kedua ruas dikali (x+3)(x-2)<br>a(x-2) + b(x+3) = 2x+2<br>(a+b)x + (-2a+3b) = 2x + 2<br>-&gt; a+b=2<br>-&gt; -2a+3b=2<br>trus dieliminasi dan disubstitusi ketemu :<br>a= 4/5 dan b=6/5<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-sebuah-bangunan-dikerjakan-oleh-30-orang-akan-selesai-selama-960",
+            "question": "jika sebuah bangunan dikerjakan oleh 30 orang akan selesai selama 15 hari, jika dimnta pekerjaan harus selesai dalam waktu 5 hari berapa pekerja yang harus ditambahkan?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "30 org = 15 hari<br>x org\u00a0 = 5 hari<br><br>jawab:<br><u>x\u00a0</u> \u00a0 =\u00a0 <u>15</u><br>30\u00a0 \u00a0\u00a0 \u00a0 5 <br><br>5x = 30 \u00d7 15<br>x\u00a0 = <u>450</u><br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 5<br>x = 90 orang<br><br>pekerja yang harus ditambah:<br>90 - 30 = 60 orang<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "transpos-matriks-m-adalah-tolong-dijelaskan-230",
+            "question": "Transpos matriks M adalah ...\r\ntolong dijelaskan..",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "gol indonesia menang 3gol dari ac milan<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-fungsi-fx-dan-gx-mempunyai-invers-f-i-f-invers-x-2-753",
+            "question": "jika fungsi f(x) dan g(x) mempunyai invers f-i (f invers) (x) = 2x-4/5 dan g-i (g invers) (x) = 3-2x/4 tentukan nilai p jika (fog)-i (invers) (p) = 2",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "fog^-1 = 2(3-2x/4)-4/5<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 = 1/10(3-2x-4/5)= 2<br>p= - 25/2<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-vektor-p-dan-q-20-dan-1-vektor-p-dan-r-11-dan-2-j-434",
+            "question": "diketahui vektor p dan q 2,0, dan 1. vektor p dan r 1,1, dan 2. jika vektor p dan s 1/2 vektor p dan q maka tentukan vektor r dan s?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "vektor 2,1 jika s 1 per 2 2,0 cx :D<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span>Jika vektor p dan q 2,0, dan 1. vektor p dan r 1,1, dan 2.</span><br>maka Vektor S =\u00a0<span> 1 per 22</span><br><br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "log-x2-4x-4-leq-log-5x-10-685",
+            "question": "Log (X^{2} + 4X + 4 ) \\leq log ( 5X + 10 )",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]log(x^2+4x+4) \\leq log(5x+10)\\\\ x^2+4x+4 \\leq 5x+10\\\\ x^2-x-6 \\leq 0\\\\ (x-3)(x+2) \\leq 0\\\\ -2 \\leq x \\leq 3\\\\ syarat:\\\\ 1)\\ x^2+4x+4&gt;0\\\\ (x+2)^2&gt;0\\\\ x+2&gt;0\\\\ x&gt;-2\\\\ 2)\\ 5x+10&gt;0\\\\ 5x&gt;-10\\\\ x&gt;-2\\\\ maka\\ -2\\ tidak\\ memenuhi,\\ sehingga\\ Hp=\\{-2&lt;x\\leq3\\}[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bagaimana-cara-menampilkan-bilangan-fibonaci-dengan-assembler-193",
+            "question": "Bagaimana cara menampilkan bilangan fibonaci dengan assembler,??",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "barisan bilangan Fibonaccci yang pertama adalah:\n0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, 233, 377, 610, 987, 1597, 2584, 4181, 6765, 10946\u2026\nBarisan bilangan Fibonacci dapat dinyatakan sebagai berikut: Fn = (x1^n \u2013 x2^n)/ sqrt(5) dengan\nFn adalah bilangan Fibonacci ke-nx1 dan x2 adalah penyelesaian persamaan x^2-x-1=0<span>Perbandingan antara Fn+1 dengan Fn hampir selalu sama untuk sebarang \nnilai n dan mulai nilai n tertentu, perbandingan ini nilainya tetap. \nPerbandingan itu disebut Golden Ratio yang nilainya mendekati 1,618.</span><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-f2x-3-4x-7-maka-nilai-dari-f17-f7-adalah-383",
+            "question": "Diketahui, f(2x-3) = 4x-7, maka nilai dari f(17) - f(7) adalah?\u00a0 tolong bantu yaa",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "f(17)=f(2x-3)<br>17=2x-3<br>x=10\u00a0<br>f(17)=40-7 =33<br>f(7)=28-7=21\u00a0<br>33-21=12",
+                    "attachments": []
+                },
+                {
+                    "answer": "f (17)<br>2x - 3 = 17<br>2x= 17 + 3<br>2x = 20<br>x = 10<br><br>f (7)<br>2x - 3 = 7<br>2x = 7 +3<br>2x=10<br>x= 5<br><br>sehingga\u00a0\u00a0f(17) = 4x - 7 = 4.(10) - 7 =40 - 7 = 33<br>sehingga f(7) = 4x - 7 = 4(5) -7 = 20 -7 = 13 :)",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

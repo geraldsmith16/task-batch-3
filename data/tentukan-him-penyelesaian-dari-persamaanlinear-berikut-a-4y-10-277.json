@@ -1,0 +1,142 @@
+{
+    "question": "Tentukan him. penyelesaian dari persamaanlinear berikut?    a. 4y-10=14\r\nb. 7a+3= 0\r\nc. 8-4b= 6\r\nd. 24y-11=33-20y",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "a. 4y-10 = 14<br>\u00a0\u00a0 4y = 14+10 <br>\u00a0\u00a0  4y = 24<br>\u00a0\u00a0 y = 24\u00f74<br>\u00a0\u00a0 y = 6<br>d. 24y - 11 = 33 - 20y<br>\u00a0\u00a0  24y + 20y = 33 + 11 <br>\u00a0\u00a0  44y = 44<br>\u00a0\u00a0 y = 44\u00f744<br>\u00a0\u00a0 y = 1 <br><br>yang saya tau hanya a dan d saja..<br>maaf kalau salah, ini jawaban saya :) <br>",
+            "attachments": []
+        },
+        {
+            "answer": "<span>a. 4y-10=14<br>y = 14+10 / 4 = 24 / 4 = 6<br>b. 7a+3= 0<br>a = -3/7 <br>c. 8-4b= 6<br>b = 6-8 / -4 = 1/2<br>d. 24y-11=33-20y</span><br>24y+20y = 33 + 11<br>44y = 44<br>y = 44/44 = 1<br>itu jawaban saya, semoga benar dan bermanfaat<br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "help-berapakah-x-280",
+            "question": "[HELP]\u00a0 berapakah x?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "2^{x-5} = 4^{x+3}<br>2^{x-5} = 2^{2(x+3)}<br>x-5 = 2(x+3)<br>x-5 = 2x+6<br>x-2x = 6+5<br>-x = 11<br>x = -11",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "luas-lingkaran-dengan-diameter-175-adalah-493",
+            "question": "Luas lingkaran dengan diameter 17,5 adalah....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "L = (22/7 atau 3,14) . Jari2<br>\u00a0\u00a0 = 22/7.17.5.17,5<br>\u00a0\u00a0  = 22.0,4.17,5<br>\u00a0\u00a0 = 8,8.17,5<br>\u00a0\u00a0 = 154 cm2<br><br>L = 3,14.17,5.17,5<br>\u00a0\u00a0 = 54,95.17,5<br>\u00a0\u00a0 = 961,625<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "rumus : 1/4 x phi x d pangkat dua<br>1/4 x 3,14x17,5x17,5 = 240,406<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-tentukan-nilai-x-jika-2x-1-2x-2-2x-3-103",
+            "question": "1. tentukan nilai x , jika ( 2x +\u00a01 ) + ( 2x + 2 ) + ( 2x + \u00a03 ) + .... + ( 2x + 50 ) = 4275    2. Lina menyiapkan 40 kotak kue untuk ulang tahunnya . Kue tersebut dibawa ke kelas untuk dibagikan ke teman sekelasnya masing - masing satu . Karena ada temannya yang tidak masuk , maka ada kotak kue yg tersisa ..\u00a0\r\na . buat kalimat tertutup yg menyatakan banyaknya kue yg dibagikan dengan murid yg tidak masuk ?\r\nb . bila yang tidak masuk ada 3 orang , berapa kotak kue yang akan dibagikan ?\r\n\r\nSemua pake cara yaa",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1. \u00a08x + 56 + y = 4275<br>8x + y = 4275-56 = 4219<br>lalu saya tidak tahu :)<br><br>2. a.\u00a040 - x = y<br>\u00a0 \u00a0b. 40 - 3 = 37<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "1.((2x)\u00a0x\u00a050)\u00a0+\u00a0(1\u00a0+\u00a02\u00a0+\u00a03\u00a0+\u00a04\u00a0+\u00a0...\u00a0+\u00a050)<br>\u00a0 \u00a0100x + 1275<br>\u00a0 \u00a0100x = 4275 - 1275<br>\u00a0 \u00a0100x = 3000<br>\u00a0 \u00a0 \u00a0 \u00a0 x = 3000<u></u>/100<br>\u00a0 \u00a0 \u00a0 \u00a0\u00a0x = 30<br><br>2. a.40 - x = y<br>\u00a0 \u00a0\u00a0b, 40 - 3 = 37",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sederhanakanlah-bentuk-akar-tersebut-4268-323",
+            "question": "Sederhanakanlah bentuk akar tersebut! 4\u221a2+6\u221a8=",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]4\\sqrt{2}+12\\sqrt{2}=16\\sqrt{2}[/tex]",
+                    "attachments": []
+                },
+                {
+                    "answer": "4\u221a2 + 6 \u00d7 2\u221a2\u00a0 (\u221a8 = \u221a4\u00d72)<br>4\u221a2 + 12\u221a2<br>16 \u221a2",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-hasil-dan-berikan-jalannya-a-2a-22-b-8m2n3-213",
+            "question": "Tentukan hasil dan berikan jalannya..!!    a. (2a-2)\u00b2\r\n\r\nb. (-8m\u00b2n\u00b3)\u00d7(2k\u00b3n\u2074)\r\n\r\nc. \u221a3\u00d7\u221a8\r\n\r\nd. 4\u207b\u00b2+2\u207b\u2074 (buatlah hasil ke dalam pecahan)\r\n\r\ne. 3\u221a6\u00d7\u221a2\r\n\r\nf.\u221a15\u00d72\u221a5\r\n\r\ng.6\u221a10\u00f7\u221a15 \r\n\r\nh.\u221a8+\u221a18-\u221a32\r\n\r\ni. a\u00b2 \u2075\u221aa\u00b3",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a. (2a-2) (2a-2) = 4a\u00b2 -4a -4a +4<br>= 4a\u00b2-8a+4<br><br>b.\u00a0-16k\u00b3m\u00b2[tex] n^{7} [/tex]<br><br>c.\u00a0\u221a24<br><br>d. 4^-2 = 2^-4<br>(2^2)^-2\u00a0=2^-4<br><br>e. 3\u221a12<br><br>f. 2\u221a75<br><br>g. 6\u221a150/15<br><br>i. a^2+3/5= a^13/5",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-segitiga-sama-kaki-memiliki-panjang-sisi-yang-sama-dengan-873",
+            "question": "sebuah segitiga sama kaki memiliki panjang sisi yang sama dengan 5 kali panjang sisi lainnya. agar keliling segitiga tersebut lebih besar dari 50m, berapakah masing-masing sisi segitiga tersebut (pakai caranya juga yaa)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "jika sisi a=5 maka sisi b&amp;c 5x5=25. jadi kel= 25+25+5=55m . 55&gt;50 :)<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "help-me-5ab-pp-ab-x-a-370",
+            "question": "Help me :(\r\n-. \u2074\u221a5a\u00b3b\u00b2\r\n-. (-p\u00b2\u221ap\u00b2)\u2075\r\n-. ab\u207b\u00b2 x a\u207b\u00b2.b\u207b\u00b3",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex] \\sqrt[4]{5} [/tex]\u00a0a^3/4b^1/2<br>-p^10 . p^5 = p^15<br>a^-1 . a^-5<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suku-ke-4-suku-ke-7-barisan-aritmetika-masing-masing-19-dan-24-su-644",
+            "question": "Suku ke-4 suku ke-7 barisan aritmetika masing-masing 19 dan 24 suku pertama adalah...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "u4 = 19<br>u4= a+(4-1)b =&gt; 19 = a+3b / x2 \u00a0=&gt; 38=2a+6b<br>u7 = 24<br>u7=a+(7-1)b =&gt; 24=a+6b \u00a0/x1 \u00a0 \u00a0=&gt; \u00a024=a+6b<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 ---------------- ----<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 14= a \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 19=14+3b<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a05=3b<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a05/3=b<br>u1 = a+b<br>\u00a0 \u00a0 \u00a0 14+5/3<br>\u00a0 \u00a0 \u00a0 42/3+5/3 \u00a0= 47/3 = 15 2/3",
+                    "attachments": []
+                },
+                {
+                    "answer": "u4 = 19\n<br>u7 = 24\n<br><br>a+6b = 24 | X1 | a+6b = 24\n<br>a+3b = 19 | X2 | 2a+6b = 38\u00a0\n                       <br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 ------------------  ---\n                        <br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 -a       = -14\n                         <br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 a       = 14",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukanlah-penyelesaian-dari-pertidaksamaan-berikut-a-12x-292",
+            "question": "Tentukanlah penyelesaian dari pertidaksamaan berikut :    a.\u00a01/2x + 5\u00a0&gt; 15\r\nb. 2 - (4 + x)\u00a0\u2265 - 22",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a. 1/2x + 5 &gt; 15<br>x + 10 &gt;30<br>x &gt; 20<br><br>b. 2-(4+x) <span>\u2265 -22<br>2 - 4 - x \u2265 -22<br>-2 - x \u2265 - 22<br>-x \u2265 -22<br>x \u2264 22</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dalam-sebuah-kelas-terdapat-48-anak-anak-yang-gemar-matematika-3-838",
+            "question": "dalam sebuah kelas terdapat 48 anak ,anak yang gemar matematika 35 anak ,yang gemar fisiika 40 anak dan yang gemar kedua-duanya 30 anak .berapa anak yang tidak gemar matematika fiisika",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "48 - ( 35+40-30) = 48 - 45 = 3<br>Jadi ada 3 orang yang tidak gemar matematika dan fisika.",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

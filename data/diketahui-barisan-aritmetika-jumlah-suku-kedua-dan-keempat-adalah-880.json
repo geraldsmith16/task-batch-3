@@ -1,0 +1,134 @@
+{
+    "question": "diketahui barisan aritmetika jumlah suku kedua dan keempat adalah 24 dan jumlah suku ketiga dan kelima adalah 32 suku ke 9 barisan tersebut adalah??",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "a=4<br>b=4<br><br>u9=a+8b<br>\u00a0\u00a0  =4+32<br>\u00a0\u00a0 =36<br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "carilah-persamaan-lingkaran-yang-melengkapi-segitiga-siku-siku-ya-417",
+            "question": "carilah persamaan lingkaran yang melengkapi segitiga siku-siku yang titik-titik sudutnya adalah(0,0)(8,0)(0,6) ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "8x+6y klo gak salah\u00a0<br>harap dimaklumi\u00a0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sisa-pembagian-suku-banyak-x4ax23xb-oleh-x2-2x-3-adal-758",
+            "question": "sisa pembagian suku banyak x^{4}+ax^{2}+3x+b oleh x^{2}-2x-3 adalah 2x-4. tentukan nilai a dan b. \u00a0mohon bantuannya ..",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]x^2-2x-3=(x-3)(x+1)\\\\\nf(x)=x^4+ax^2+3x+b\\\\\nf(3)=3^4+a(3)^2+3(3)+b=2(3)-4\\\\\nf(3)=81+9a+9+b=2\\\\\nf(3)=9a+b=-88\\\\\\\\\nf(-1)=(-1)^4+a(-1)^2+3(-1)+b=2(-1)-4\\\\\nf(-1)=1+a-3+b=-6\\\\\nf(-1)=a+b=-4\\\\\\\\\neliminasi f(3)\\ dan\\ f(-1)\\\\\nf(3)=9a+b=-88\\\\\nf(-1)=a+b=-4\\\\\n8a=-84 \\rightarrow a=-\\frac{21}{2}\\\\\na+b=-4 \\rightarrow -\\frac{21}{2}\\\\+b=-4 \\rightarrow b=\\frac{13}{2}[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-fungsi-kuadrat-mempunyai-nilai-maksimum-3-pada-saat-x-2-852",
+            "question": "sebuah fungsi kuadrat mempunyai nilai maksimum -3 pada saat x = 2, sedangkan untuk x = -2 fungsi bernilai -11. Tentukan fungsi kuadrat tersebut.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "f(x) = 2xkuadrat + 2x - 15",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-3log-2-x-dan-2log-5y-nilai-5log-15-beserta-car-876",
+            "question": "Diketahui\u00a03log 2 = x dan\u00a0\r\n 2log 5=y. Nilai 5log 15 =\r\n\r\n\r\nBeserta caranya ya",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "3log2= x , diubah jadi 2log3=1/x<br>2log5=y<br><br>5log15 = 2log15 / 2log5<br>= 2log 3 x 2log5 / 2log5<br>= 1/x + y / y<br>= ( y + xy /xy) / y<br>= y + xy / y(xy)<br>= y + xy / xy^2<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-2-3-222",
+            "question": "1.     2. \r\n3.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "x+3 nya di misalkan u=x+3 du=1dx; dx=du<br>u^3du=u^4/4+c <br>(x+3)^4/4+c<br>yg lainnya juga sama<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "[tex]\\int (x+3)^4dx=\\int (x+3)^4\\frac{d(x+3)}{1)\\\\\n=\\int (x+3)^4d(x+3)\\\\\n=\\frac{1}{4+1}(x+3)^{4+1}+C\\\\\n=\\frac{1}{5}(x+3)^{5}+C\\\\\\\\\n\\int (2x+5)^3dx=\\int (2x+5)^3\\frac{d(2x+5)}{2}\\\\\n=\\frac{1}{2}\\int (2x+5)^3d(2x+5)\\\\\n=\\frac{\\frac{1}{2}}{3+1}(2x+5)^{3+1}\\\\\n\\int (2x+5)^3dx=\\frac{1}{8}(2x+5)^4\\\\\\\\\n=\\int (1-2x)^5\\frac{d(1-2x)}{-2}\\\\\n=\\frac{1}{-2}\\int (1-2x)^5d(1-2x)\\\\\n=-\\frac{1}{12}\\int (1-2x)^6[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "assalamualaikum-mau-minta-tolong-ni-ada-yang-bisa-bantu-nge-jaw-334",
+            "question": "Assalamualaikum,     mau minta tolong ni, ada yang bisa bantu nge-jawab soal ini?\r\ninvers dari f(x)=(1-x\u00b3)pangkat1/5 + 2\r\nterima kasih sebelumnya :)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]f(x)=(1-x^3)^{\\frac{1}{5}}+2\\\\\nf(x)-2=(1-x^3)^{\\frac{1}{5}}\\\\\n1-x^3=(f(x)-2)^5\\\\\n-x^3=(f(x)-2)^5-1\\\\\nx^3=1-(f(x)-2)^5\\\\\nx=(1-(f(x)-2)^5)^{\\frac{1}{3}}\\\\\nnyatakan\\ sebagai\\ f^{-1}(x)\\\\\nf^{-1}(x)=(1-(x-2)^5)^{\\frac{1}{3}}\\\\[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-maka-nilai-yang-mungkin-untuk-adalah-612",
+            "question": "Jika \u00a0maka nilai yang mungkin untuk \u00a0adalah ...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "soal olimpiade kah ini mas?<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-peta-berskala-110000000-jarak-kota-jambi-dan-palembang-p-299",
+            "question": "sebuah peta berskala 1:10000000. jarak kota jambi dan palembang pada peta jaraknya 2,4 cm. seorang supir bus berangkat dari kota jambi menuju kota palembang dengan kecepatan rata rata 80 km per jam. selama perjalanannya, ia berhenti istirahat sebanyak 1 kali selama 30 menit. ia tiba di kota palembang pukul 10.30 wib . \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 pertanyaannya: berapa jam bis tu di perjalanan? \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 jawabannya di berikan cara penyelesaiannya",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Jarak = skala \u00d7 jarak pd peta<br>Jarak = 100 \u00d7 2,4<br>Jarak = 240 km<br><br>Waktu = Jarak \u00f7 Kecepatan<br>Waktu = 240 \u00f7 80<br>Waktu = 3 jam<br><br>waktu perjalanan = 3 jam - 30 menit = 2 jam 30 menit<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "saya-membeli-1-bungkus-jelly-yang-berisi-30-jelly-harga-1-bungku-755",
+            "question": "saya membeli 1 bungkus jelly yang berisi 30 jelly. harga 1 bungkusnya yaitu Rp. 9.250,00. Jika jelly tersebut dijual eceran dengan harga Rp. 500,00 dapat 2 jelly. Maka berapakah keuntungannya?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "\u00a0kalo keuntungan nya enggak ada gimana ??? <br>jawaban sih gk ada <br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "1 bungkus Rp.9.250,00 isi 30 butir<br>30 : 2 = 15<br>harga eceran 2 butir Rp.500,00<br>jdi jumlah seluruh rugi<br>harganya menjadi Rp.7.500,00<br>maafkalu salah,\u00a0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "maaf-sebelumnya-kali-ini-aku-lagi-ada-masalah-besok-bakal-ada-r-646",
+            "question": "Maaf sebelumnya. kali ini aku lagi ada masalah. besok bakal ada razia jilbab,    jlbab aku masih di loundry dan bukanya siang aku lupa ngambil. gimana caranya biar besok aku bisa sakit (pura-pura sakit) dan ngga ketauan\r\n\r\n\"sekolahku bording school :(",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Pake jilbab orangtua aja , ato minjem temen<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "pukul kepela ke tembok aja kak-_-\" ato pagi2 basahin air ke jidat biar kelihatan berkeringat disangka sakit deh..<br><br>kalau ga pake jilbab gmn emg? jilbab temen yg lain?",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

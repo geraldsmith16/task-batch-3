@@ -1,0 +1,148 @@
+{
+    "question": "Apa itu elastisitas? dan apa hubunganyaa dengan hukum hooke",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "elastisitas\u00a0penambahan panjang",
+            "attachments": []
+        },
+        {
+            "answer": "elastisitas adalah kemampuan benda untuk kembali ke bentuk semula<br>hubungannya dengan hukum hooke adalah,\u00a0<span>Pada daerah elastisitas benda, gaya yang bekerja pada benda sebanding dengan pertambahan panjang benda</span>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "4-buah-pegas-identik-masingmasing-mempunyai-konstanta-elavasitas-344",
+            "question": "4 buah pegas identik masingmasing mempunyai konstanta elavasitas 1600N.M-1, disusun seri-paralel (lihat gambar)    beban w yang di gantung menyebabkan sistem pegas mengalami pertambahan panjang secara keseluruhan sebesar 5cm. berat beban w adalah",
+            "attachments": [
+                "question-attachments/4-buah-pegas-identik-masingmasing-mempunyai-konstanta-elavasitas-344-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "Ktotal = (4800x1600) : 4800 + 1600 = 1200 N/m<br>w=Fpegas<br>w=kx<br>w= 1200(0.05)<br>\u00a0 =60 n",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "rumus-berat-dalam-fisika-386",
+            "question": "Rumus berat dalam fisika?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "W = m . g<br><br>m = massa \u00a0(kg)<br>g \u00a0= gravitasi \u00a0(m/s\u00b2 )<br>W = berat (N)",
+                    "attachments": []
+                },
+                {
+                    "answer": "yang dimaksud berat kan? w = m x g, massa x gravitasi",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebutkan-contoh-penerapan-1-hukum-archimedes-2-hukum-pascal-3-659",
+            "question": "Sebutkan contoh penerapan :    1. Hukum Archimedes\r\n2. Hukum Pascal\r\n3. Hukum Bernuolli\r\ndalam teknologi ?\r\nmohon bantuannya",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1. apabila sebuah benda, sebagian atau seluruhnya terbenam kedalam air makabenda trsbt mendapat gaya tekan ke atas sebesar berat air yg dipindahkan oleh benda tersebut. contoh benda\u00a0yg menggunakan prinsip ini : kapal laut<br>2. tekanan yang diberikan kepada zat cair akan diteruskan ke segala arah dengan sama besar. contoh penggunaan : peralatan hidrolik<br>3. j<span>umlah dari tekanan, energi kinetik persatuan volume, dan energi potensial persatuan volume mempunyai nilai yang sama pada setiap titik sepanjang suatu garis arus. contoh : manometer, tabung venturi</span>",
+                    "attachments": []
+                },
+                {
+                    "answer": "kalau archimedes kapal laut , \u00a0kalau pascal pesawat terbang , kalau bernoulli parfum atau semprotan nyamuk yang pakai tangkai\u00a0<br>mohon maaf kalau ada kesalahan :D",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-sebuah-gaya-tunggal-dengan-besar-10-n-bekerja-pada-benda-ber-728",
+            "question": "1. sebuah gaya tunggal dengan besar 10 N bekerja pada\u00a0benda\u00a0bermassa m. benda bergerak dari keadaan diam waktu 6 sekon. massa benda tersebut adalah...\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "10 N/6 sekon = 1,67\u00a0<br>maaf yah klo kurang benar....<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "diket : gaya ( N) :10 N<br>\u00a0 \u00a0 \u00a0 \u00a0 : perpindahan jarak ( S ) : 6<br>ditanya : massa benda ( M):....?\u00a0<br>dijawab:<br>W = m\u00a0X g\u00a0<br>\u00a0 \u00a0 = 10N\u00a0X\u00a06 sekon\u00a0<br>\u00a0 \u00a0\u00a0= \u00a060\u00a0<br><br>maaf banget klo jwbnya slh ya ,aq ja ngrjainnya lupa rmsnnya klo ndak slh\u00a0<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "untuk-keamanan-dalam-mendakiseorang-pendaki-gunung-menggunakan-s-591",
+            "question": "untuk keamanan dalam mendaki,seorang pendaki gunung menggunakan sebuah tali nilon yang panjangnya 50 m dan garis tengahnya 1,0 cm.ketika menopang pendaki yang bermassa 80 kg, tali bertambah panjang 1,6 m. tentukan modulus elastis nilon ( ambil\u00a0\u03c0 = 3,15 dan\u00a0g = 9,86 m/\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>E = FLo / delta LA\u00a0<br>= mg Lo / delta LA\u00a0<br>= (80 x 9,86 x 0,5) / (1,6 x (1/4) x 3,15 x 0,01^2)\u00a0<br>= 3,13 x 10^6\u00a0<br><br></span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "besarnya-tegangan-yang-dilakukan-pada-sebuah-batang-adalah-2x106-688",
+            "question": "Besarnya tegangan yang dilakukan pada sebuah batang adalah 2x10^6 N/m^2. jika panjang batang adalah 4 meter dan modulus young elastisitasnya 2,5x10^8 N/m^2, maka pertambahan panjang batang adalah.... A. 0,8 cm B. 1,6 cm C. 3,2 cm D. 5,0 cm E. 6,4 cm \u00a0 dengan pembahasannya \u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "modulus young = stres /strain<br>2,5 . 10 ^8 N/m^2 = 2 . 10^6 N/m^2 . strain<br>2,5 . 10^ 8 N/m^2 / 2. 10^6 N/m^2 = strain<br>1,25 . 10^2 = strain<br><br>strain = pertambhan panjang / panjang awal<br>1,25 . 10^2 = pertambahn panjang / 4<br>1,25 .10^2 / 4 = pertambahn panjang<br>125 /4 = pertambahan panjang<br>31,25 m = pertambahn panjang<br>saya dapatnya gitu &gt;_&lt;",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-benda-dengan-volume-q-mempunyai-koefisien-muai-volume-sebe-129",
+            "question": "Sebuah benda dengan volume Q mempunyai koefisien muai volume sebesar 8,5 x 10\u207b\u2075/ \u2070C. Jika benda tersebut dipanaskan, untuk mencari penambahan luas dan panjang , besar koefisien yg dipakai adalah ? \u00a0 (A). \u0391= 2,83 x 10\u207b\u2075/ \u2070C \u00a0 \u00a0 \u00a0 \u00a0\u0392= 5,66 x 10\u207b\u2075/ \u2070C \u00a0 (B). A= 5,66 x 10\u207b\u2075/ \u2070C \u00a0 \u00a0 \u00a0 \u00a0B= 2,83 x 10\u207b\u2075/ \u2070C \u00a0 (C). A= 2,8 x 10\u207b\u2074/ \u2070C \u00a0 \u00a0 \u00a0 \u00a0 B= 8,5 x 10\u207b\u2074/ \u2070C \u00a0 (D). A= 5,6 x 10\u207b\u2074/ \u2070C \u00a0 \u00a0 \u00a0 \u00a0 B= 8,5 x 10\u207b\u2074/ \u2070C \u00a0 (E). A= 8,5 x 10\u207b\u2075/ \u2070C \u00a0 \u00a0 \u00a0 \u00a0 B= 8,5 x 10\u207b\u2075/ \u2070C \u00a0 PILIHLAH JAWABAN DAN SERTAKAN CARA MENGERJAKAN !!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>(E). A= 8,5 x 10\u207b\u2075/ \u2070C\n<span>\u00a0 \u00a0 \u00a0 \u00a0 B= 8,5 x 10\u207b\u2075/ \u2070C</span></span> <br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-bantuin-dong-sebuah-beban-20n-digantungkan-pada-kawat-ya-716",
+            "question": "Tolong bantuin dong..    sebuah beban 20N digantungkan pada kawat yang panjangnya 3,0 m dan luas penampangnya 8\u00a0x 10\u207b\u2077 m\u00b2 hingga menghasilkan pertambahan panjang 0,1 mm. hitunglah:\r\na. tegangan\r\nb. regangan\r\nc. modulus elastis kawat",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "tegangan:44<br>regangan:66<br>modulus 99<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<strong>tegangannya\u00a044</strong><br><strong>regangannya\u00a066</strong><br><span><strong>modulusnya\u00a0 99</strong></span><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-silender-pejal-diletakan-di-atas-puncak-bidang-miring-kasa-728",
+            "question": "sebuah silender pejal diletakan di atas puncak bidang miring kasar dengan ketinggian h.kecepatan silinder di kaki bidang miring adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "karena ga dikasih tau angkanya, saya kasih tau caranya<br>hitung I silinder pejal = 1/2 mr\u00b2<br>hitung torsi = I x\u00a0\u03b1<br>I = mr\u00b2<br>ingat, torsi adalah F.r<br>\u03a3F = m . a<br>F-fg (permukaan kasar, ada gaya gesek) = m .a<br>\u03b1 = a/r<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suatu-pipa-seragam-dengan-panjang-20-m-dan-massa-20-kg-disangga-o-295",
+            "question": "Suatu pipa seragam dengan panjang 20 m dan massa 20 kg disangga oleh penumpu pada salah satu titik di pipa tersebut. Ketika ujung kiri diberi beban 10 kg dan titik tumpu berada pada jarak 2 m dari tengah pipa, massa beban yang harus diberikan pada ujung kanan pipa agar terjadi keseimbangan adalah...........kg",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Ini penumpunya 2 meter disebelah kanan apa kiri dari tengahnya? <br>kalo di sebelah kiri benda di kanan bermassa :<br>20.8=.x.12<br>x=160/12=13,333 kg<br>kalo disebelah kanan<br>20.12=x.8<br>x=240/8=30 kg<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "diket= P pipa= 20m, m1=10kg, s1=12m , s2=8m<br>jawab: m1 . s1 = m2 .s2<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0\u00a0 10 . 12 = m2 . 8<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0  120 = 8m<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 m= 120 : 8<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0  m= 15kg<br>jadi, di ujung kanan harus di beri beban 15kg agar setimbang<br><br>maaf kalo GJ, saya krg paham ama soalnya,.<br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

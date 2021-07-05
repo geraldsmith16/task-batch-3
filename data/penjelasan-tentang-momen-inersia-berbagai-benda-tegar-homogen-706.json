@@ -1,0 +1,142 @@
+{
+    "question": "Penjelasan tentang momen inersia berbagai benda tegar homogen",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "Benda tegar tersusun dari banyak partikel yang tersebar di seluruh \nbagian benda. Momen inersia suatu benda tegar merupakan jumlah semua \nmomen inersia masing-masing partikel penyusun benda tegar.<br><br><br><br>",
+            "attachments": []
+        },
+        {
+            "answer": "<span>Benda tegar tersusun dari banyak partikel yang tersebar di seluruh \nbagian benda. Momen inersia suatu benda tegar merupakan jumlah semua \nmomen inersia masing-masing partikel penyusun benda tegar.<br></span><br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "satuan-momen-gaya-torsi-adalah-a-kg-m2s2-c-535",
+            "question": "Satuan momen gaya ( torsi ) adalah...    a. kg m\u00b2s\u00b2 \u00a0 \u00a0 \u00a0 \u00a0 c. kg\u00b2 m\u00b2 s \u00a0 \u00a0 \u00a0 \u00a0 \u00a0e. kg\u00b2 / m\u00b2 s\u00b2\r\nb. kg m\u00b2 / s\u00b2 \u00a0 \u00a0 \u00a0 d. kg\u00b2 m\u00b2 / s\u00b2\r\n\r\nseorang penari balet berputar dengan kecepatan\u00a0\u03c91 sambil ,merentangkan tangannya dengan momen inersia I1. penari tersebut kemudian melipat tangannya hingga kecepatan sudutnya menjadi\u00a0\u03c92 dan momen inersianya menjadi I2. jika\u00a0\u03c92 = 2\u00a0\u03c92 maka...\r\na. I2 = I1/4\r\nb. I2 = I1/2\r\nc. I2 = I1\r\nd. I2 = 2 I1\r\ne. I2 = 4 I1",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "I2 = I1/4<br>b. I2 = I1/2<br>c. I2 = I1<br><span>d. I2 = 2 I<br>ini jawabnya gan</span>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Maaf mohon diperiksa kembali soalnya sepertinya terdapat kesalahan Satuan Momen Gaya(Torsi/Torka) = Nm atau Kgm\u00b2<br>Untuk Soal ke 2 tolong diperiksa kembali karena\u00a0\u03c92=\u00a02\u03c92 bagaimana dikerjakan ?",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apa-yang-anda-ketahui-tentang-gaya-satu-newton-467",
+            "question": "Apa yang anda ketahui tentang gaya satu newton?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "disebut juga hukum kelembaman. suatu benda akan tetap diam jika tidak ada resultan gaya yang mengenainya",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span>Gaya Satu newton adalah besarnya gaya yang diperlukan untuk membuat benda\nbermassa\nsatu kilogram\nmengalami percepatan\nsebesar satu meter\nper detik</span>\n\n<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apabila-bayangan-terletak-20-cm-di-belakang-cermin-cekung-yang-me-356",
+            "question": "Apabila bayangan terletak 20 cm di belakang cermin cekung yang mempunyai jarakl fokus 20 cm, tentukan    a). letak benda\r\nb). perbesaran bayangan",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "diketahui :<br>s&#039; = -20\u00a0cm<br>f = 20 cm<br>ditanyakan :\u00a0<br>a. s<br>b. M<br>jawab :<br>a. 1/f = 1/s + 1/s&#039;<br>1/20 = 1/s - 1/20<br>1/s = 1/20 + 1/20<br>s = 10 cm<br>b. M = |s&#039;/s|<br>|-20/10|<br>2 kali",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apa-yang-dimaksut-dengan-torsi-906",
+            "question": "Apa yang dimaksut dengan torsi ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>Torsi adalah<em> kemampuan suatu gaya menghasilkan perputaran (rotasi) benda terhadap suatu poros atau pada sumbu putarnya.</em></span><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "sebuah besaran yang menyatakan besarnya gaya yang bekerja pada sebuah benda sehingga mengakibatkan benda tersebut berotasi\u00a0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "mengapa-gear-sepeda-berbeda-dengan-gear-sepeda-motor-lalu-kenap-474",
+            "question": "mengapa gear sepeda berbeda dengan gear sepeda motor? lalu, kenapa sepeda tidak meniru gear sepeda motor?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Karena gear sepedah di kayuh secara manual oleh manusia yang tenaganya terbatas..<br>sedangkan gear motor tdk dikayuh melainkan dengan mesin..<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suspensi-truk-sering-memiliki-pegas-pembantuyang-bekerja-ketik-784",
+            "question": "Suspensi truk (sering memiliki \"pegas pembantu\"yang bekerja ketika beban truk sangat besar. pegas ayun\u00a0 dengan pegas pembantu berupa pegaskoil dipasang ditengah-tengahnya. Pegas pembantu akan bekerja ketika pegas ayun tertekan sejauh",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "sejauh pembatas yang ada pada mobil truk dan sesuai dengan kemampuan pegas ayun yang akan menekannya",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-bola-pejal-yang-massanya-10-kg-dan-jari-jarinya-20-cm-meng-777",
+            "question": "sebuah bola pejal yang massanya 10 kg dan jari-jarinya 20 cm menggelinding dengan kecepatan 8 m/s . berapakah energi kinetiknya?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "ek = 1/2 . mv^2 = 1/2 . 10 kg . 8^2 = 1/2 . 10. 64 = 320 joule<br>ingat ya m= 10 kg<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 v = 8 m/s<br>jika m dan v sudah diketahui kita uda bisa ngerjain energi kinetiknya :)",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bagaimana-bentuk-permukaan-zat-cairsudut-kontak-untuk-air-alko-174",
+            "question": "bagaimana bentuk permukaan zat cair(sudut kontak) untuk air, alkohol dan raksa di dalam pipa kapiler ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "sudut kontak air dengan pipa kapiler adalah 0 derajat &lt; 0 &lt; 90 derajat<br>sudut kontak air raksa dengan pipa kapiler adalah 90 derajat &lt; 0 &lt; 180 derajat",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apakah-semua-jenis-gaya-menyebabkan-pertambahan-panjang-pegas-269",
+            "question": "Apakah semua jenis gaya menyebabkan pertambahan panjang pegas ?\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "semua jenis gaya mungkin bisa <br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tekanan-gas-yang-berada-dalam-suatu-ruangan-dikurangi-sehingga-me-983",
+            "question": "tekanan gas yang berada dalam suatu ruangan dikurangi sehingga menjadi 1/2 nya hal ini menyebabkan suhu gas tersebut turun menjadi 3/4 nya ,tentukan perbandingan volume gas akhir dan awal",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex] \\frac{1}{2} [/tex] :\u00a0[tex] \\frac{3}{4} [/tex] =\u00a0[tex] \\frac{6}{4} [/tex] = 3 : 2<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "[tex] \\frac{P1 x V1}{T1} =  \\frac{P2 x V2}{T2} [/tex]\u00a0 ( di soal kamu P1=1/2 P2 dan T1=3/4 T2 ) paham kak? <br>lalu masukan ke persamaan <br>[tex] \\frac{P1 x V1}{T1} =  \\frac{1/2 P1 x V2}{3/4 T1} [/tex]<br>( coret T1 dan P1 )\u00a0 <br>V1=[tex] \\frac{1}{2}: \\frac{3}{4} [/tex] V2 <br>V1/V2 = 2/3 <br><br><br><br><br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

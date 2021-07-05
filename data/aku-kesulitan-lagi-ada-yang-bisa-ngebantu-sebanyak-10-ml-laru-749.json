@@ -1,0 +1,144 @@
+{
+    "question": "Aku kesulitan lagi :(    ada yang bisa ngebantu?\r\n\r\nSebanyak 10 mL larutan cuka dapur (20% CH3COOH dalam air) ditambah\r\nair sampai volumenya 1 liter. Massa jenis larutan cuka dapur 1 kg/L dan\r\nKa CH3COOH = 4 \u00d7 10\u20136. Tentukan:\r\na. derajat ionisasi CH3COOH sebelum dan sesudah diencerkan\r\nb. pH larutan CH3COOH sesudah diencerkan",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "<span>10 mL larutan asam cuka (asam cuka 20% dalam larutan tersebut)<br>nah berarti ada 20% dari 10mL larutan tersebut adalah asam cuka murni<br>kita hitung volume asam cuka murninya :)<br>vol asam cuka = 20% x 10 mL larutan = 0,2 mL = 0,2 x 10^-3 L..... ^ dibaca pangkat :)<br>kita hitung massa larutan asam cuka<br>massa asam cuka = massa jenis x volume asam cuka <br>(ingat : massa jenis = massa/volume)<br>massa asam cuka = 1 Kg/L x 0,2 x 10^-3 L = 0,2 x 10^-3 Kg = 0,2 gram<br>Mr asam cuka (CH3COOH) = 60<br>derajat ionisasi kita sebut alpha ya :)<br><br>a. konsentrasi asam cuka<br>sebelum penambahan maka kita pakai volume larutan = 10 mL<br>M = gram/Mr x 1000/Volume (mL) = 0,2/60 x 1000/10 = 0,33333 M dibulatkan 0,3M<br>alpha = akar (Ka/Ma) = akar (4x10^-6/ 0,3) = akar(13,3 x 10^-6) = 3,65 x 10^-3<br><br>setelah penambahan maka volume larutan menjadi 1000mL (1 liter)<br>M = gram/Mr x 1000/volume(mL) = 0,2/60 x 1000/1000 = 0,003 M<br>alpha = akar (Ka/Ma) = akar (4x10^-6/ 0,003) = akar(1333,3 x 10^-6) = 36,5 x 10^-3<br><br><br>b.<br>pH larutan setelah di encerkan<br>[H+] = akar (Ka x Ma) = akar (4 x 10^-6 x 0,003) = akar(0,012 x 10^-6)<br>= 0,1 x 10^-6 = 10^-7<br><br>pH = - log [H+] = - log 10^-7 = 7<br><br>berarti larutan setelah pengenceran bisa di anggap larutan netral :)<br><br>semoga bisa membantu :)<br>beri label terbaik ya :)<br></span>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "nama-lain-dari-stirena-adalah-a-etilen-benzena-b-anilin-c-v-924",
+            "question": "- Nama lain dari stirena adalah?    a. etilen benzena\r\nb. anilin\r\nc. vinil etena\r\nd. asam benzoat\r\ne. toluena\r\n- Produk utama dari reaksi antara haloalkana dengan benzena ditambah katalisator asam sulfat pekat adalah..\r\na. toluena\r\nb. stirena\r\nc. fenol\r\nd. nitrobenzena\r\ne. anilin\r\n- Reaksi sulfonasi adalah reaksi benzena dengan..\r\na. asam nitrat\r\nb. asam sulfida\r\nc. asam klorida\r\nd. asam sulfat pekat\r\ne. natrium hidroksida\r\n- 2,3-dimetil fenol mempunyai isomer sebanyak..\r\na. 2 b. 3 c. 4 d. 5 e. 6",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "nomor satu c<br>nomor tiga a<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "nomer\u00a01. A .<span>etilen benzena</span><br>nomer\u00a02. B . stirena",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-sebanyak-4-gram-campuran-serbuk-magnesium-dibakar-menghasilkan-366",
+            "question": "1. Sebanyak 4 gram campuran serbuk magnesium dibakar menghasilkan 5 gram magnesium oksida. Kadar kemurnian serbuk magnesium dalam campuran adalah ... % ( Ar : Mg = 24, O = 16 ) a. 25 b. 40 c. 50 d. 75 e. 90 \u00a0 2. Jika gas elpiji diasumsikan hanya mengandung gas C3H8, tuliskan persamaan reaksi pembakaran dan tentukan volume gas oksigen yang diperlukan untuk membakar 10 liter gas elpiji ( diukur pada suhu dan tekanan sama )",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1. Mg=gr/mr=4/24=0,16<br>MgO=gr/mr=5/40=0,12<br>kadar kemurnian= 0,12/0,16 x100%=75%<br>maaf, hanya nomor satu yang bisa saya jawab.<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apa-yang-kamu-ketahui-tentang-gravimetri-140",
+            "question": "Apa yang kamu ketahui tentang\u00a0Gravimetri ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "salah satu metode kimia analitik\u00a0untuk menentukan kuantitas suatu zat atau komponen yang telah diketahui dengan cara mengukur\u00a0berat\u00a0komponen dalam keadaan murni setelah melalui proses pemisahan. Analisis gravimetri melibatkan proses isolasi dan pengukuran berat suatu\u00a0unsur\u00a0atau\u00a0senyawa\u00a0tertentu.",
+                    "attachments": []
+                },
+                {
+                    "answer": "salah satu metode analisis kuantitatif suatu zat\natau komponen yang telah diketahui dengan cara pengukuran berat komponen dalam\nkeadaan murni setelah melalui proses pemisahan.<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "indikator-asam-basa-fenolftalen-dibuat-dari-senyawa-turunan-benza-150",
+            "question": "Indikator asam basa fenolftalen dibuat dari senyawa turunan benzana. Senyawa apakah yg dimaksud? Bagaimana cara pembuatan senyawa tersebut?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "senyawa yang dimaksud adalah <br>3,3-Bis(4hidroksiphenil) - 2- benzofuran<br>gambar strukturnya dah saya uplud<br><br>pembuatan senyawanya atau pembuatan indikator PP?<br>kalo pembuatan indikator pp setahu saya<br>1 gram PP dilarutkan dalam 100mL alkohol (ethanol)<br><br><br>semoga bisa membantu :)<br>tandai sebagai yang terbaik ya :)<br><br>",
+                    "attachments": [
+                        "answer-attachments/indikator-asam-basa-fenolftalen-dibuat-dari-senyawa-turunan-benza-150-1.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "apa-perbedaan-dari-rumus-kimia-p4empatnya-kecil-dan-4p-503",
+            "question": "Apa perbedaan dari rumus kimia P4(empatnya kecil)\u00a0dan 4P?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kalau 4P biasanya ditemuin di matematika<br>P4 udh ketentuannya kali mbak, fosfor kan ya?<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pada-temperatur-dan-tekanan-yang-sama-50-ml-gas-hidrogen-bereaks-224",
+            "question": "Pada temperatur dan tekanan yang sama, 50 mL gas hidrogen bereaksi dengan 50 mL gas klorin menghasilkan gas hidrogen klorida. Tentukan gas hidrogen klorida yang terbentuk?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "HCI maybe? Setau aku sih begitu :D<br>Kalo salah ya maaf<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apakah-asam-oksi-termasuk-asam-kauat-atau-lemah-796",
+            "question": "Apakah asam oksi termasuk asam kauat atau lemah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Asam oksi (oxyacid) adalah asam terner yang mengandung atom oksigen. Untuk semua asam anorganik yang umum, atom-atom hidrogen yang dapat terion adalah atom-atom hidrogen yang mempunyai\u00a0<u>ikatan kafalen</u>\u00a0dengan atom oksigen. Oleh sebab itu, asam nitrat (HNO3) lebih tepat dituliskan sebagai HONO2, sedangkan asam perklorat HClO4\u00a0dituliskan sebagai HOClO3, dan seterusnya.<br>Dalam satu seri asam-asam oksi dari satu unsur terdapat hubungan antara\u00a0kekuatan\u00a0<u>asam</u>\u00a0dengan banyaknya atom oksigen dalam spesies yang bersangkutan. Semakin banyak atom oksigen semakin kuat asam yang bersangkutan. Asam nitrat, HONO2\u00a0(pKa\u00a0= -1,4) termasuk asam kuat, dan lebih kuat daripada asam (lemah) nitrit HONO (pKa\u00a0= +1,33). Parameter\u00a0<u>elektronegati</u>vi<u>t</u>a<u>s</u>\u00a0dapat dipakai untuk menjelaskan\u00a0<u>kekuatan relatif asam\u00a0</u>oksi ini. Atom oksigen bersifat elektronegatif tinggi, maka semakin banyak atom oksigen semakin besar densitas elektron tertarik menjauhi atom H sehingga semakin lemah ikatan O-H, dan akibatnya semakin mudah terion dengan melepaskan ion H+, atau dengan kata lain semakin kuat asam yang bersangkutan.<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Asam oksi (oxyacid) adalah asam terner yang mengandung atom \noksigen. Untuk semua asam anorganik yang umum, atom-atom hidrogen yang \ndapat terion adalah atom-atom hidrogen yang mempunyai ikatan kovalen dengan atom oksigen. Oleh sebab itu, asam nitrat (HNO3) lebih tepat dituliskan sebagai HONO2, sedangkan asam perklorat HClO4 dituliskan sebagai HOClO3, dan <br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "5-contoh-reaksi-asm-basa-menurut-lewis-457",
+            "question": "5 contoh reaksi asm basa menurut lewis",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Contoh reaksi netralisasi antara NH3 dan HCl  dalam bentuk cairan. \nPada reaksi tersebut terjadi transfer proton dari H3O+.  Transfer proton\n ini dapat dinyatakan sebagai berikut:\n              \u00a0\n              <span>Proton adalah suatu \nakseptor (penerima) pasangan elektron  bebas, yang menurut Lewis adalah \nasam. Ammonia yang memiliki pasangan elektron  bebas merupakan donatur \npasangan elektron bebas, karena itu amonia adalah basa  Lewis.</span><br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apa-saja-rumus-struktur-dari-glukosa-507",
+            "question": "Apa saja rumus struktur dari glukosa ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "rumus Glukosa \u21d2 C\u2086H\u2081\u2082O\u2082\u2082",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span>rumus glukosa \u00a0C\u2086H\u2081\u2082O\u2082\u2082</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "hf-merupakan-senyawa-kovalen-yang-dapat-membentuk-ion-162",
+            "question": "Hf merupakan senyawa kovalen yang dapat ... membentuk ion",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "berpasangan dengan senyawa lain dan dapat membentuk ion",
+                    "attachments": []
+                },
+                {
+                    "answer": "meninjukkan sifat anomali dalam hal kecenderungan dalam titik didih pembentukan senyawa (MUNGKIN)",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

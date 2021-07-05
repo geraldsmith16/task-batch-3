@@ -1,0 +1,142 @@
+{
+    "question": "Tentukan persamaan linear    a). 3s+11=-28\r\nb). 25-4y = 6y+15\r\nc). 6/4 + 2 = 4\r\nd). 6x + 5 = 26-x\r\ne). 2-4x =3\r\npliaa tlng d jawab yah",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "3s+11=-28<br>3s=-28-11<br>3s=-39<br>s=-13<br><br>25-4y=6y+15<br>4y+6y=25-15<br>10y=10<br>y=1<br><br>6x+5=26-x<br>6x+x=26-5<br>7x=21<br>x=3<br><br>2-4x=3<br>4x=2-3<br>4x=-1<br>x=-1/4<br><br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "dua-bilangan-berselisih-25jika-2-kali-bilangan-yang-besar-dikura-498",
+            "question": "dua bilangan berselisih 25.jika 2 kali bilangan yang besar dikurangi bilangan yang kecil adalah 175,tentukanlah bilangan itu.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a-b=25<br>(2xa)-b=175<br><br>lakukan eliminasi:<br>2a-b=175<br>a-b=25\u00a0 \u00a0 -<br>-------------------<br>a=150<br><br>lakukan substitusi untuk mencari b<br>a-b=25<br>150-b=25<br>b=150-25= 125<br>b=125<br><br>(2x150)-b=175<br>300-b=175<br>b=300-175<br>b=125<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pola-bilangan-ganjil-bentuk-umum-un-a-n-1-b-ten-448",
+            "question": "Pola bilangan ganjil \u00a0    bentuk umum Un = a + ( n-1) b \u00a0 \u00a0\u00a0\r\n\r\ntentukan suku n \u00a0=\r\n\r\n1) 7,13,,19,25,31,...\r\n2) 50,41,38,32,...\r\n3)\u00a012,7,2,-3,-8,...\r\n\r\n*jwbnnya pakai rumus dan cara ya?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1.) a = 7<br>b = 6<br>Un<span> = a + ( n-1) b <br></span><span>Un = 7+ (n-1)6<br></span><span><span>Un = </span>7+6n-6<br></span><span>Un =6n+1<br>3.) a= 12<br>b= -5</span><br>Un = a + ( n-1) b <br>Un<span> =</span> 12+ (n-1)-5<br>Un= 12 - 5n + 5<br>Un= 17-5n<br><br><br><br><br><br><br><br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-harga-1-kg-buah-anggur-adalah-tiga-kali-harga-1-kg-buah-312",
+            "question": "Diketahui harga 1 kg buah anggur adalah tiga kali harga 1 kg buah duku. Jika Tino membeli 2 kg buah anggur dan 5 kg buah duku, ia harus membayar Rp38.500,00.    a) Berapakah harga 1 kg buah anggur dan 1 kg buah duku ?\r\nb) Jika ia ingin membeli 4 kg buah anggur dan 5 kg buah duku, berapa yang harus dibayarnya ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a)buah aggur:10.500 dan buah duku:3.500 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 b)42.000 +17.500=59.500",
+                    "attachments": []
+                },
+                {
+                    "answer": "1 a\u00a0= 3d<br>a.\u00a02 a + 5d\u00a0= 3.2d + 5d = 6d + 5d = 11d =38.500<br>duku\u00a0= 38.500/11d =3500\u00a0<br>anggur= 3d = 3. 3500 = 10500<br>jadi harga 1 kg duku adalah Rp.3500 dan harga 1 kg anggur adalah Rp.10500<br>b. 4a+5d= 4(10500) + 5(3500) = 42000 + 17500 = 59500<br>jadi harga 4 kg\u00a0anggur dan 5 kg duku adalah Rp.59500\u00a0<br>ket:<br>a= anggur<br>d=\u00a0duku<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-nilai-x-jika-2x12x22x32x504275-893",
+            "question": "Tentukan nilai X, jika (2x+1)+(2x+2)+(2x+3)+...+(2x+50)=4275",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]Sn= \\frac{n}{2} (U1+Ut)[/tex]<br>u1 adalah suku pertama =(2x+1)<br>ut adalah suku terakhir=(2x+50)<br>banyak nya n suku tsb adalah 50 atau n = 50<br>[tex]Sn= \\frac{n}{2} (U1+Ut)[/tex]<br>4275=[tex] \\frac{50}{2} ( (2x+1)+(2x+50))[/tex]<br>4275=[tex]25(4x+51)[/tex]<br>[tex] \\frac{4275}{25} =4x+51[/tex]<br>171=4x+51<br>120=4x<br>x=3",
+                    "attachments": []
+                },
+                {
+                    "answer": "Dik : a = 2x+1<br>\u00a0\u00a0 \u00a0 \u00a0  n = 50\u00a0 , b = 1<br>\u00a0\u00a0 \u00a0 \u00a0 S50 = 4275<br>Dit : x , untuk mencari x maka harus tau nilai a<br>Jawab :<br>Sn = 1/2 n (2a + (n-1) b)<br>4275 = 1/2 (50) (2a + (50-1)(1))<br>4275 = 25 (2a + 49)<br>171 = 2a + 49<br>171 - 49 = 2a<br>122 = 2a<br>a = 61<br><br>a = 2x+1<br>61 = 2x + 1<br>61-1 = 2x<br>60 = 2x<br>x = 30<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "hitunglah-luas-dan-keliling-lingkaran-yang-berjari-jari-21-cm-809",
+            "question": "Hitunglah:    luas dan keliling lingkaran yang berjari - jari 21 cm. \r\nluas dan keliling lingkaran yang berdiameter 6,28 cm.\r\nluas dan keliling lingkaran yang berjari - jari 4,2 cm",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1) r:21cm --&gt;L:1386cm\u00b2 --&gt; K:132cm<br>2)d: 6,28 --&gt;L:30,959144cm\u00b2 --&gt; K:19,7192cm<br>3)r:4,2 --&gt; L:55,44cm\u00b2 --&gt; K:26,4cm",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "caranya-segitiga-pascal-483",
+            "question": "Caranya segitiga pascal?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kelas : VII (1 SMP)<br>Materi : Operasi dan Faktorisasi Bentuk Aljabar<br>Kata Kunci : aljabar, segitiga, pascal<br><br>Pembahasan :<br>Menggunakan pola bilangan segitiga Pascal untuk menjabarkan bentuk aljabar (a + b)\u207f.<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 1 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u2192 (a + b)\u2070<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a01 \u00a0 \u00a0 \u00a0 \u00a0 1 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u2192 (a + b)\u00b9<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 1 \u00a0 \u00a0 \u00a0 \u00a0 2 \u00a0 \u00a0 \u00a0 \u00a0 \u00a01 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u2192 (a + b)\u00b2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 1 \u00a0 \u00a0 \u00a0 \u00a0 \u00a03 \u00a0 \u00a0 \u00a0 \u00a0 3 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 1 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u2192 (a + b)\u00b3<br>\u00a0 \u00a0 \u00a01 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 4 \u00a0 \u00a0 \u00a0 \u00a0 6 \u00a0 \u00a0 \u00a0 \u00a0 \u00a04 \u00a0 \u00a0 \u00a0 \u00a0 \u00a01 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u2192 (a + b)\u2074<br>1 \u00a0 \u00a0 \u00a0 \u00a0 \u00a05 \u00a0 \u00a0 \u00a0 \u00a0 10 \u00a0 \u00a0 \u00a0 \u00a0 10 \u00a0 \u00a0 \u00a0 \u00a0 5 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a01 \u00a0 \u00a0 \u00a0 \u2192 (a + b)\u2075<br>\u2191 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u2191<br>Koefisien suku ke-1 \u00a0 \u00a0 \u00a0... \u00a0 Koefisien suku ke-6<br><br>Contoh :<br>(x + 3y)\u00b3 = x\u00b3 + 3.x\u00b2.3y + 3.x.(3y)\u00b2 + (3y)\u00b3 = x\u00b3 + 9x\u00b2y + 27xy\u00b2 + 27y\u00b3.<br><br>(a - 2b)\u2074 = a\u2074 + 4.a\u00b3.(-2b) + 6.a\u00b2.(-2b)\u00b2 + 4.a.(-2b)\u00b3 + (-2b)\u2074 = a\u2074 - 8a\u00b3b + 24a\u00b2b\u00b2 - 32ab\u00b3.<br><br>(-2x + 5y)\u2075 = (-2x)\u2075 + 5.(-2x)\u2074.(5y) + 10.(-2x)\u00b3.(5y)\u00b2 + 10.(-2x)\u00b2.(5y)\u00b3 + 5.(-2x).(5y)\u2074 + (5y)\u2075 = -32x\u2075 + 400x\u2074y - 2.000x\u00b3y\u00b2 + 5.000x\u00b2y\u00b3 - 6.250xy\u2074 + 3125y\u2075.<br><br>Semangat!",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "cara-mencari-tembereng-amp-apotema-pada-lingkaran-896",
+            "question": "Cara Mencari Tembereng &amp; apotema pada lingkaran",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Cara mencari Tembereng :<br>Luas tembereng = Luas Juring \u2013 Luas Segitiga\u00a0<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "kalo apotema bisa pake konsep luas segitiga sama pythagoras<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "perbandingan-a-b-berbalik-nilai-dengan-c-d-bila-bd-175-dan-918",
+            "question": "Perbandingan a : b berbalik nilai dengan c : d. Bila bd = 175 dan a = 5, maka nilai d =",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "bd : a<br>175 : 5<br>d = 35<br>Smoga ajha:) biar sya coba lagi nanti klu salah :3<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "kalian-bisa-gakbikin-soal-persamaan-linear-1-variabelbtuh-bnge-852",
+            "question": "Kalian bisa gak,bikin soal persamaan linear 1 variabel,,btuh bnget nihh,,,klo bleh bserta jwbannya yah .. :)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1. 2x + 5 = 13<br>jawab: 2x = 13 - 5<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 2x = 8<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0  x = 4<br><br>2. 5x - 10 = 5<br>jawab : 5x = 10 +5<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0  5x = 15<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0  x\u00a0 = 3<br><br>3. 7y + 5 = 5y + 11<br>jawab : 7y - 5y = 11 - 5<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0  2y = 6<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 y = 3<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "soal : 7x-12=2x+3<br>penyelesaian:<br>7x-12<strong>-2x</strong>=2x+3<strong>-2x</strong><br>5x-12=3<br>5x-12<strong>+12</strong>=3<strong>+12</strong><br>5x=15<br>x=3<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "2057-87-83-untuk-test-978",
+            "question": "20+(57-87)-83 =\r\n\r\nuntuk test",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "20 + (57-87) - 83 =<br>Dahulukan yang di dalam kurung<br>57 - 87 = -30<br>20 + -30 - 83 = -93<br>Jadi jawabannya -93",
+                    "attachments": []
+                },
+                {
+                    "answer": "20+(-30)-83 = 20-30-83 = -93 <br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

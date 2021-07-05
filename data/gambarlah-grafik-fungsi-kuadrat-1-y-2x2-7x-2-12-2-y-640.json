@@ -1,0 +1,133 @@
+{
+    "question": "Gambarlah grafik fungsi kuadrat\r\n 1. y = 2x^2 - 7x + 2 1/2\r\n 2. y = -x^2 + 4x - 3",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "nih gambarnya, silakan dipelajari",
+            "attachments": [
+                "answer-attachments/gambarlah-grafik-fungsi-kuadrat-1-y-2x2-7x-2-12-2-y-640-1.png",
+                "answer-attachments/gambarlah-grafik-fungsi-kuadrat-1-y-2x2-7x-2-12-2-y-640-2.png"
+            ]
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "tolong-dijawab-ya-442",
+            "question": "Tolong dijawab ya :)",
+            "attachments": [
+                "question-attachments/tolong-dijawab-ya-442-1.docx"
+            ],
+            "answers": [
+                {
+                    "answer": "apaan itu kk itu pel kls brp<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tinggi-badan-andi-kurang-3cm-dari-tinggi-badan-johan-sedangkan-j-856",
+            "question": "tinggi badan andi kurang 3cm dari tinggi badan johan, sedangkan jumlah tinggi badan kedua orang tersebut 329 cm. berapakah tinggi badan masing - masing anak itu",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "misal tinggi badan andi = x - 3<br>johan = x\u00a0<br>x + ( x - 3 ) = 329<br>2x - 3 = 329<br>2x = 332<br>x = 166<br>johan = 166 cm\u00a0<br><br>andi = 166 - 3 = 163 cm\u00a0",
+                    "attachments": []
+                },
+                {
+                    "answer": "andi : 163cm johan :166cm",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "untuk-modal-berjualan-bu-fitri-meminjam-uang-di-koperasi-sebesar-291",
+            "question": "untuk modal berjualan bu fitri meminjam uang di koperasi sebesar rp 5.000.000.00 dengan bunga 1% per bulan ,ansuran tiap bulan yang harus di bayar bu fitri jika meminjam selama 10 bulan adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "bunga perbulan = 1% x 5jt = 50.000<br>angsuran perbulan = (1/10) x 5.000.000 + bunga perbulan = 500.000 + 50.000<br>angsuran perbulan = Rp 550.000<br>dengan total yang harus dibayar Rp 5.500.000 selama 10 bulan",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "mohon-bantuannya-kak-jika-seutas-tali-dipotong-mnjadi-7-bagian-727",
+            "question": "Mohon bantuannya kak..    jika seutas tali dipotong mnjadi 7 bagian .masing masing bagian membentuk bilangan geometri potongan terpendek adalah 6 cm terpanjang adalah 384 cm maka panjang tali sebelum dipotong adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a=6cm<br>U7=ar^6<br><strong></strong> \u00a0 \u00a0=6r^6=384<br>\u00a0 \u00a0 =r^6=64<br>\u00a0 \u00a0 =r=2<br>S7=a(r^7-1)/r-1 = 6(2^7-1)/2-1= 6(127)/1=762",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diana-mempunyai-sejumlah-uang-sebanyak-bagian-uang-tersebut-di-983",
+            "question": "Diana mempunyai sejumlah uang. sebanyak\u00a0 bagian uang tersebut digunakan untuk membeli sepatu. jika setelah membeli sepatu sisa uang Diana kurang dari Rp50.000,00 . uang Diana mula-mula ...    A. Kurang dari Rp150.000,00\r\nB. Kurang dari Rp100.000,00\r\nC. lebih dari Rp100.000,00\r\nD. Lebih dari Rp150.000,00\r\n\r\nSuatu fungsi f:R\u00a0\u21d2 R dinyatakan dengan rumus f(x) = 5x + b. Jika f(3) = 12 , rumus fungsi f(x) adalah...\r\n\r\nA. \u00a0f(x) = 5x - 7\r\nB.\u00a0 f(x) = 5x - 3\r\nC. \u00a0f(x) = 5x + 3\r\nD. \u00a0f(x) = 5x + 7",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]misal\\ jumlah\\ uang\\ awal = x\\\\dibelanjakan\\ sebanyak\\ \\frac{2}{3}x,\\ sisa\\ \\frac{1}{3}x\\\\sisa\\ uang\\ &lt;Rp50.000,00\\\\\\frac{1}{3}x&lt;Rp50.000,00\\\\x&lt;Rp150.000,00\\\\\\\\f(3)=5(3)+b=12\\\\15+b=12\\\\b=-3\\\\<span>f(x)=5x-3[/tex]</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "gimana-nieh-sob-cara-ngerjain-tugas-ini-326",
+            "question": "Gimana nieh sob cara ngerjain tugas ini :\u00a0    \u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]  \\left[\\begin{array}{ccc}-12&amp;33\\\\16&amp;24\\end{array}\\right] [/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-nilai-kebenaran-implikasi-berikut-ajika-x4-maka-x2-328",
+            "question": "Tentukan nilai kebenaran implikasi berikut !    a.Jika x=4 maka x\u00b2=16\r\nb.Jika 0\u00a0\u2264 x\u00a0\u2264 2 maka x\u00b2\u00a0-\u00a0x\u00a0-\u00a06\u00a0\u2264 10 dengan x\u00a0\u2208 {Bil.Bulat}\r\nc.Jika x\u00b2 = 9 maka x\u00a0\u2265 3",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a. benar<br>b. benar<br>c. salah, karena nilai x di bolehkan lebih dari 3<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "hasil-penjumlahan-suku-ke-4-dan-suku-ke-8-sebuah-barisan-aritmeti-975",
+            "question": "Hasil penjumlahan suku ke 4 dan suku ke 8 sebuah barisan aritmetika adalah -46. Suku terakhir barisan tersebut adalah 47. Tentukan : A.suku ke 6...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Un = a + (n-1)b<br><br>U\u2084 + U\u2088 = -46<br>(a + 3b) + (a + 7b) = -46<br><strong>2a + 10b = -46 \u00a0</strong>dibagi 2 \u00a0=\u00a0<strong>a + 5b = -23<br><br><br>a+ 5b =\u00a0U</strong>\u2086 = -23<strong><br><br></strong>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "mohon-penjelasan-cara-mengerjakan-nya-terimakasih-482",
+            "question": "Mohon penjelasan cara mengerjakan nya, terimakasih",
+            "attachments": [
+                "question-attachments/mohon-penjelasan-cara-mengerjakan-nya-terimakasih-482-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "insyaallah<br>tapi man soalnya?",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dik-jari-juring-lingkaran-20-cm-dan-mempunyai-luas-60-cm2-hit-818",
+            "question": "dik: jari\" juring lingkaran 20 cm dan mempunyai luas 60 cm\u00b2. hitunglah sudut juring tersebut dalam ukuran derajad !",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]\\frac{sudut\\ yg\\ dibentuk\\ oleh\\ juring}{360^o}=\\frac{luas\\ juring}{luas\\ lingkaran}\\\\\nsudut\\ yg\\ dibentuk\\ oleh\\ juring=\\frac{60}{ \\pi (20^2)}360^o\\\\\nsudut\\ yg\\ dibentuk\\ oleh\\ juring=\\frac{54}{\\pi }^o\\\\[/tex]",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

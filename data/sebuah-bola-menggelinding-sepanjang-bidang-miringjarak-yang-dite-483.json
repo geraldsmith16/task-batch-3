@@ -1,0 +1,128 @@
+{
+    "question": "Sebuah bola menggelinding sepanjang bidang miring,jarak yang ditempuh S dari titik asal selama t detik dinyatakan dengan rumus s=3/2t\u00b2+0,6t ( s dalam satuan meter dan t dalam detik)    a)tentukan ds/dt\r\nb)tentukan kecepatan sesaat pda saat t=0,3 detik\r\nc)carilah waktu yg diperlukan shg kecepatan sesaat mencapai 6,6m/detik",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "a. 3t + 0,6<br>b. kecepatan itu turunan dari jarak (s) jadi persamaan pada s diturunkan\u00a0<br>\u00a0 \u00a0 \u00a0v= 3t+ 0,6<br>\u00a0 \u00a0 t(0,30 = 3 (0,3) + 0,6<br>\u00a0 \u00a0 \u00a0V = 0,9 + 0,6<br>\u00a0 \u00a0 \u00a0V = 1,5 m/s<br>c. v = 3t +0,6<br>\u00a0 \u00a0 \u00a06,6 = 3t + 0,6<br>\u00a0 \u00a0 \u00a06,6 - 0,6 = 3t<br>\u00a0 \u00a0 \u00a06 = 3t\u00a0<br>\u00a0 \u00a0 \u00a0t = 2\u00a0<br>inysaAllah gt :)",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "log-x2-4x-4-leq-log-5x-10-685",
+            "question": "Log (X^{2} + 4X + 4 ) \\leq log ( 5X + 10 )",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]log(x^2+4x+4) \\leq log(5x+10)\\\\ x^2+4x+4 \\leq 5x+10\\\\ x^2-x-6 \\leq 0\\\\ (x-3)(x+2) \\leq 0\\\\ -2 \\leq x \\leq 3\\\\ syarat:\\\\ 1)\\ x^2+4x+4&gt;0\\\\ (x+2)^2&gt;0\\\\ x+2&gt;0\\\\ x&gt;-2\\\\ 2)\\ 5x+10&gt;0\\\\ 5x&gt;-10\\\\ x&gt;-2\\\\ maka\\ -2\\ tidak\\ memenuhi,\\ sehingga\\ Hp=\\{-2&lt;x\\leq3\\}[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "nilaixyyang-memenuhi-sistem-persamaan-2x-y5-x-2y7-687",
+            "question": "Nilai(x,y)yang memenuhi sistem persamaan\r\n2x + y=5\r\nx + 2y=7",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>2x + y=5<br>y= 5-2x.................(1)<br><br>x + 2y=7<br>x+ 2(5-2x)=7<br>x+10-4x=7<br>-3x=-3<br>x=1......................(2)<br><br><br>2x+y=5<br>2(1)+y=5<br>2+y=5<br>y=3.........................(3)<br><br><br></span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-barisan-aritmetika-mempunyai-suku-ke-7-adalah-20-suku-te-161",
+            "question": "sebuah barisan aritmetika mempunyai suku ke 7 adalah 20., suku terakhir 44, dan jumlah 3 suku pertama adalah 12. suku tengah barisan ini adalah...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "u7=20<br>a+6b=20<br><br>u1+u2+u3=12<br>a+a+b+a+2b=12<br>3a+3b=12<br>a+b=4<br><br>eliminasikan persamaan a+6b=20 dan a+b=4<br>didapat b=[tex] \\frac{16}{5} [/tex]dan a=[tex] \\frac{4}{5} [/tex]<br>Un=44<br>a+(n-1)b=44<br>4/5 + (n-1) 16/5 =44<br>4/5 + 16/5 n - 16/5 =44<br>4/5 n= 44+ 12/5<br>4/5 n =[tex] \\frac{220+12}{5} [/tex]<br>n=58<br><br>yg dicari tengah2 n berarti n:2=58:2=29<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "selesaikan-dengan-rumus-abc-9x2-12x-2-0-744",
+            "question": "Selesaikan dengan rumus abc\r\n9x\u00b2 - 12x + 2 = 0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "144+akar kuadrat dari 72 per 18 atau<br>144-akar kuadrat dari 72 per 18<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "[tex]9x^2-12x+2=0\\ ; a=9,b=-12,c=2\\\\\nx_{1,2}=\\frac{-b \\underline{+} \\sqrt{b^2-4ac}}{2a}\\\\\nx_{1,2}=\\frac{-(-12) \\underline{+} \\sqrt{(-12)^2-4(9)(2)c}}{2(9)}\\\\\nx_{1,2}=\\frac{12 \\underline{+} \\sqrt{144-72}}{18}\\\\\nx_{1,2}=\\frac{12 \\underline{+} \\sqrt{72}}{18}\\\\\nx_{1,2}=\\frac{12 \\underline{+} 6\\sqrt{2}}{18}\\\\\nx_{1,2}=\\frac{2 \\underline{+} \\sqrt{2}}{3}\\\\[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-akar-akar-persamaan-kuadrat-jika-23y252y1-yang-bisa-758",
+            "question": "Tentukan akar akar persamaan kuadrat jika 2/3y2+5/2y=1 ,yang bisa jawab jawab ya",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]\\frac{2}{3}y^2+\\frac{5}{2}y=1\\ kalikan\\ kedua\\ ruas\\ dengan\\ 6\\\\\n4y^2+15y-6=0\\\\\ny_{1,2}=\\frac{-b \\underline{+} \\sqrt{b^2-4ac}}{2a}\\\\\ny_{1,2}=\\frac{-15 \\underline{+} \\sqrt{15^2-4(4)(-6)}}{2(4)}\\\\\ny_{1,2}=\\frac{-15 \\underline{+} \\sqrt{225+96}}{8}\\\\\ny_{1,2}=\\frac{-15 \\underline{+} \\sqrt{321}}{8}\\\\[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dengan-mengunakan-tabel-kebenaran-buktikanlah-bahwa-pernyataan-pe-908",
+            "question": "Dengan mengunakan tabel kebenaran buktikanlah bahwa pernyataan pernyataan \u00a0berikut ini mrupakan pernyataan majemuk yang ekuivalen !    a. (p^q) \u00a0= ~ (~pv~q) \u00a0 b. (~p^q) = ~ (pv~q) \u00a0 c. (~p^~q) = ~(pvq) \u00a0 d. (~p^~q) = ~(~pv~q) \u00a0 e. (~p^~q) = pvq",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "silakan dipelajari, sekalian diperiksa apabila terdapat kesalahan",
+                    "attachments": [
+                        "answer-attachments/dengan-mengunakan-tabel-kebenaran-buktikanlah-bahwa-pernyataan-pe-908-1.docx"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "5-sin-a-cos-a-4-sin-a-3-cos-a-tentukan-nilai-a-dengan-kis-323",
+            "question": "5 (sin A - cos A) = 4 sin A - 3 cos A\r\n\r\nTentukan nilai A dengan kisaran 0-360 derajat",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "5(sin A - cos A) = 4 sin A -3 cos A<br>5 sin A - 5 cos A = 4 sin A - 3 cos A<br>2 cos A = sin A<br>A = 2 (\u03c0n + tan^-1(1/2(-1-\u221a5)))<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "panjang-busur-lingkaran-dengan-sudut-pusat-120-dan-panjang-diam-570",
+            "question": "Panjang busur lingkaran dengan sudut pusat 120\u00b0 dan panjang diameter 21 cm adalah..",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "21.98 jadi 22<br>cari keliling dulu, trs 120/360.kliling lingkaran",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "besar-sudut-p-dari-sebuah-segitiga-pqr-adalah-70-selisih-antara-535",
+            "question": "Besar sudut P dari sebuah segitiga PQR adalah 70, selisih antara besar sudut Q dan R adalah 36\u00b0 tentukan besar sudut Q dan R. Perlu diketahui total sudut sebuah segitiga adalah 180\u00b0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]P=70^o\\\\\nQ-R=36^o \\rightarrow Q=36^o+R\\\\\\\\\nP+Q+R=180^o\\\\\n70^o+36^o+R+R=180^o\\\\\n2R=74^o\\\\\nR=37^o\\\\\\\\\nQ=36^o+R\\\\\nQ=36^o+37^o\\\\\nQ=73^o[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "cara-menjawab-soal-pola-bilangan-yang-tidak-berurutan-seperti-soa-325",
+            "question": "Cara menjawab soal pola bilangan yang tidak berurutan seperti soal psikotest itu gimana sih ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Tergantung dengan pola bilangannya juga sih.Tapi menurut pendapat saya, carilah angka yang paling kecil, lalu bandingkan dengan angka terkecil kedua. Okay ? @Liwed",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,142 @@
+{
+    "question": "Teks percakapan pemesanan barang mealui telepon",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "A: Halo saya ingin pesan 10 modem<br>B : yang spesifikasinya apa ya pak?<br>A : yang bisa tersambung dengan kabel : FTP dan UTP sekaligus, apabila ada yang bisa tersambung dengan kabel fiber optic maka lebih bagus<br>B : ada pak tapi kita hanya punya 5 dengan merk CISCO<br>A : nomor seri berapa ya<br>B : yang nomor seri nya A5510<br>A : oke saya pesan 5<br>B : baik pak, akan kami emailkan invoicenya dan akan kami kirim barang stelah bapak bayar invoice nya<br>A: oke hari ini saya selesaikan transaksinya\u00a0<br>B : terima kasih pak\u00a0",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "bagaimanakah-cara-membuat-blog-pribadi-475",
+            "question": "Bagaimanakah cara membuat Blog Pribadi?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "buat email, kunjungiHttp://www.Blogger.com dan ikuti langkah selanjutnya di bloger<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "daftarkan diri anda ke blogger/gmail lalu buatlah dngan mengikuti petunjuk tersebut<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "50-sistem-operasi-beserta-logo-dan-distronya-642",
+            "question": "50 sistem operasi beserta logo dan distronya ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "nih gue kasih link nya,,,soalnya gambarnya sulit dan ukurannya terlalu besar untuk di masukan di jawaban ini<br>link nya =distrowatch dot com<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bagaimanakah-cara-membuat-blog-pribadi-380",
+            "question": "Bagaimanakah cara membuat Blog Pribadi?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "cara yang paling mudah adalah dengan anda memiliki email GMAIL. gmail sudah terintegrasi dengan Blogger sehingga mudah untuk digunakan<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "tinggal buat aja di\u00a0blogger.com,tapi km hrus daftar dulu di google,biar bisa punya akunnya. sudah itu kamu ikuti petunjuknya.",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bagaimana-cara-mengkoneksikan-antara-desain-web-php-dengan-databa-616",
+            "question": "Bagaimana cara mengkoneksikan antara desain web PHP dengan Databases Mysql",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "bila kamu memakai Dreamweaver harus membuat site definition dahulu, agar database kamu connect dengan php<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "ada-yang-tahu-aplikasi-yang-bagus-dan-simple-untuk-membuat-presen-820",
+            "question": "Ada yang tahu aplikasi yang bagus dan simple untuk membuat presentasi lebih menarik ??",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "aplikasi yang bagus + keren :\u00a0keynote, prezi, atau google presentations",
+                    "attachments": []
+                },
+                {
+                    "answer": "menambahkan gambar gif, buat animasi 3d",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "buat-rumus-microsoft-excel-menentukan-angsuran-dari-pinjaman-deng-155",
+            "question": "buat rumus microsoft excel menentukan angsuran dari pinjaman dengan cicilan per minggu atau per bulan\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "=(average) atau auuto custom",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dalam-istilah-kata-desain-grafis-huruf-manakah-yang-paling-tepa-924",
+            "question": "Dalam istilah kata desain grafis,\u00a0huruf manakah yang paling tepat. design graphic,\u00a0desain\u00a0graphic, design grafis? dan alasan",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "tergantung,<br>jika inggris, benarnya \"design graphic\"<br>jika dalam bahasa, benarnya \"desain grafis\"<br><br>CMIIW",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "kenapa-sih-windows-7-tidak-bisa-update-otomatis-lagi-ketika-diu-167",
+            "question": "Kenapa sih Windows 7 tidak bisa update otomatis lagi ?    Ketika diupdate, malah gagal.\r\n\r\nSolusi mengatasinya gimana ya ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "lebih baik anda langsung membawanya ke tempat2 yg memang ahli untuk menginstal perangkat anda..krn jika salah program..bisa-bisa file/data2 dalam perangkat anda akan hilang.",
+                    "attachments": []
+                },
+                {
+                    "answer": "coba di cek pengaturan windows update nya, biasanya kalo gitu masalahnya itu karena settingan windows updatenya mati #kayapunyaku :x",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-jelaskan-hierarchy-chomsky-735",
+            "question": "1.\u00a0\u00a0\u00a0\u00a0\u00a0\r\nJelaskan Hierarchy Chomsky",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>Dalam bidang ilmu komputer, khususnya di bidang bahasa formal, hirarki Chomsky (kadang-kadang disebut sebagai hirarki Chomsky-Schutzenberger) adalah sebuah hirarki penahanan kelas tata bahasa formal. Ini hirarki tata bahasa digambarkan oleh Noam Chomsky pada tahun 1956. [1] Hal ini juga dinamai Marcel-Paul Schutzenberger, yang memainkan peran penting dalam pengembangan teori bahasa formal. The Chomsky Hierarchy, pada dasarnya, memungkinkan kemungkinan bagi pemahaman dan penggunaan model ilmu komputer yang memungkinkan programmer untuk mencapai tujuan linguistik bermakna secara sistematis</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "maaf-mengganggu-saya-mau-tanya-hp-saya-kan-ada-memori-telepon-628",
+            "question": "Maaf mengganggu,\u00a0saya mau tanya    hp saya kan ada memori telepon, sama memori eksternal, nah memori telepon saya terformat waktu lagi di hubung USB ke komputer, kira2 cara ngembali in nya gimana?\r\n\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "pake recovery saja.. butuh waktu lama utk mengembalikannya<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "sory mas, tapi kayaknya gak ada caranya ngembalikinnya apalagi saat usbnya udah tercabut",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

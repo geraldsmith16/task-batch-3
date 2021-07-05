@@ -1,0 +1,134 @@
+{
+    "question": "P={1,3,5,7,9} tuliskan semua himpunan bagian yang mungkin dari p dan hitung banyaknya",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "kalau 1 anggotanya = 5<br>kalau 2 anggotanya = 10<br>kalau 3 anggotanya = 10<br>kalau 4 anggotanya = 5<br>kalau 5 anggotanya = 1<br><br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "pada-peta-yang-berskala-1-1500000-terdapat-gambar-hutan-yang-212",
+            "question": "pada peta yang berskala 1 : 1.500.000 terdapat gambar hutan yang berbentuk persegi panjang 12 cm dan lebar 8 cm . luas hutan sebenarnya",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1440 KM<br>Sorry kalo salah ya",
+                    "attachments": []
+                },
+                {
+                    "answer": "1.500.000:96=15625 cm<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0=0,15625",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "hitunglah-luas-dan-keliling-lingkaran-yang-berjari-jari-21-cm-809",
+            "question": "Hitunglah:    luas dan keliling lingkaran yang berjari - jari 21 cm. \r\nluas dan keliling lingkaran yang berdiameter 6,28 cm.\r\nluas dan keliling lingkaran yang berjari - jari 4,2 cm",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1) r:21cm --&gt;L:1386cm\u00b2 --&gt; K:132cm<br>2)d: 6,28 --&gt;L:30,959144cm\u00b2 --&gt; K:19,7192cm<br>3)r:4,2 --&gt; L:55,44cm\u00b2 --&gt; K:26,4cm",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "rasionalkan-bentuk-akar-ab-a-b-5-302",
+            "question": "Rasionalkan bentuk akar \r\n\u221aa+b\r\n\u221aa-b-\u221a5",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "maaf aku hanya memberi contoh nya\u00a0<br><span>* Bentuk Rasional Akar<br>Mengalikan penyebut dengan akar sekawannya.<br><br>a. a/Vb\u00a0<br>akar sekawan Vb adalah Vb<br>a/Vb x (Vb/Vb) = (aVb)/b = a/b Vb<br><br>Contoh :<br>2/V3 = 2/V3 x (V3/V3) = 2V3/3 = 2/3 V3<br><br>b.c/(a +- Vb)<br>akar sekawan (a+Vb) adalah (a-Vb)<br>c/(a + Vb) x (a - Vb)/(a - Vb) = c (a \u2013 Vb)/(a^2 \u2013b)<br><br>akar sekawan (a-Vb) adalah (a+Vb)<br>c/(a \u2013 Vb) x (a + Vb)/(a + Vb) = c (a + Vb)/ (a^2 \u2013 b)<br><br>Contoh :<br>3/(3 + V6) = 3/(3+V6) x (3-V6)/(3-V6) = 3(3+V6)/(9-6) = 3(3+V6)/3 = 3+V6<br><br>c. c/(Va +- Vb)<br>akar sekawan (Va+Vb) adalah (Va-Vb)<br>c/(Va+Vb) x (Va-Vb)/(Va-Vb) = c(Va-Vb)/(a-b)<br><br>akar sekawan (Va-Vb) adalah (Va+Vb)<br>c/(Va-Vb) x (Va+Vb)/(Va+Vb) = c(Va+Vb)/(a-b)<br><br>Contoh :<br>8/(V5\u2013V2) = 8/(V5-V2) x (V5+V2)/(V5+V2) = 8(V5+V2)/(5-2) = 8(V5+V2)/3 = 8/3(V5+V2)<br></span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "3z11-28-itu-gimana-caranya-yah-506",
+            "question": "3z+11=-28 itu gimana caranya yah?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "3z+11=-28<br>3z=-28-11<br>3z=-39<br>z=-12",
+                    "attachments": []
+                },
+                {
+                    "answer": "3z +11 = -28<br>3z = -28 - 11<br>3z = -33<br>z = -11",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-mobil-memerlukan-bahan-bakar-12-liter-untuk-menempuh-jarak-612",
+            "question": "sebuah mobil memerlukan bahan bakar 12 liter untuk menempuh jarak 120 km dengan kondisi mendatar 84 km dan sisanya menanjak. pada saat menanjak bahan bakar yang diperlukan 2 kali lipat\u00a0daripada jalan mendatar. jika suatu ketika mobil tersebut menempuh jarak 312 km dengan kondisi jalan mendatar saja,maka\u00a0banyak bahan bakar yang diperlukan?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "12 L\u00a0 untuk 120 km<br>bahan bakar utk 312 km ?<br><br><u>12</u> = <u>120</u><br>x\u00a0\u00a0 = 312<br><br>120 x = 312 x 12<br>120 x = 3744<br>x = 3744 \u00f7 120<br>x = 31,2<br>maka bahan bakar yang dibutuhkan 31,2 L<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "perbaikan-jalan-akan-selesai-dikerjakan-dalam-waktu-3-bulan-1-b-918",
+            "question": "perbaikan jalan akan selesai dikerjakan dalam waktu 3 bulan ( 1 bulan-30 hari) , jika dikerjakan denga 16 orang tenaga . setiapa minggu ( 1 bulan ada 5 hari minggu ) buruh libur berkeja. berapa orang buruh harus ditambah agar jalan selesai pada waktunya?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "3(30)x16 org = 1440<br>libur 5x3=15 hari tidak berkerja<br>90-15=75 hari<br><br>banyak pekerja = 1440/75=19,2 - 16= 3 orang yang harus di tambah<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bantuin-yah-1p-48-2-2x-4-gt3x-9-3-4-sebuah-segitiga-820",
+            "question": "Bantuin yah,    1.p + 48\r\n2. 2x - 4 &gt;3x + 9\r\n3. \r\n4. sebuah segitiga sama kaki memiliki panjang sisi yang sama dengan 5 kali panjang sisi lainnya. Agar keliling segitiga tersebut lebih besar dari 50cm, berapakah masing-masing sisi segitiga tersebut ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]\\frac{2}{3}p+4 \\leq 8\\\\\n\\frac{2}{3}p \\leq 4\\\\\np \\leq 6\\\\\\\\\n2x-4&gt;3x+9\\\\\n-x&gt;5\\\\\nx&lt;-5\\\\\\\\\n\\frac{2y-7}{2} \\leq 3\\\\\n2y-7 \\leq 6\\\\\n2y \\leq 13\\\\\ny \\leq \\frac{13}{2}\\\\\\\\\nmisal\\ panjang\\ sisi\\ terpendek\\ adalah\\ x\\\\\nmaka\\ 2\\ sisi\\ yg\\ sama\\ panjang\\ memiliki\\ panjang\\ 5x\\\\\nagar\\ keliling&gt;50\\ :\\\\\nx+5x+5x&gt;50\\\\\n11x&gt;50\\\\\nx&gt;\\frac{50}{11}[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-dpqr-dengan-panjang-sisi-pqqr15-cm-dan-pr-pq-6-685",
+            "question": "Diketahui \u0394PQR dengan panjang sisi PQ=QR=15 cm dan PR : PQ = 6 : 5. Luas \u0394PQR adalah.....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "PR = 6x3 = 18<br>t = triple 9, 15, 12cm<br>l = 1/2 x 12 x 15<br>=\u00a090 cm^2",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "hasil-dari-3-5-x-204-235",
+            "question": "Hasil dari (-3-5) x (-20+4)\r\n\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0-------------------\r\n\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0-(-7-3)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "ini jawaban saya<br>(-3-5) X (-20+4) / -(-7-3)<br>-60-12+100-20 / 7+3<br>-92+100 / 10<br>8 / 10 = 0,8<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "ditentukan-h-abcdef-atulislah-semua-himpunan-bagian-da-694",
+            "question": "Ditentukan H = {a,b,c,d,e,f}.    a.tulislah semua himpunan bagian dari H yang mempunyai 3 anggota !\r\nb.tulislah semua himpunan bagian dari H yang mempunyai 5 anggota !",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]H=\\{a,b,c,d,e,f\\}\\\\\na)\\ \\{a,b,c\\},\\{a,b,d\\},\\{a,b,e\\},\\{a,b,f\\},\\{a,c,d\\},\\{a,c,e\\},\\{a,c,f\\},\\\\\n\\{a,d,e\\},\\{a,d,f\\},\\{a,e,f\\},\\{b,c,d\\},\\{b,c,e\\},\\{b,c,f\\},\\{b,d,e\\},\\{b,d,f\\},\\\\\n\\{b,e,f\\},\\{c,d,e\\},\\{c,d,f\\},\\{c,e,f\\}\\\\\\\\\nb) \\{a,b,c,d,e\\},\\{a,b,c,d,f\\},\\{b,c,d,e,f\\},[/tex]",
+                    "attachments": []
+                },
+                {
+                    "answer": "a. h = { ( abc) (bcd) (cde) (bcd) (dec) (def) (efc) (cdf) }<br>b. h= { ( abcde) (bcdef) (acdef) (abcef) (abcdf)<br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

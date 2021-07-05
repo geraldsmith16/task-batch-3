@@ -1,0 +1,142 @@
+{
+    "question": "A.\u00a02\u221a7+5\u221a7-6\u221a7\r\nb.5\u221a13-2\u221a13+6\u221a13",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "a.\u00a0[tex] \\sqrt{7} [/tex]<br>b. 9\u00a0<u></u>[tex] \\sqrt{13} [/tex]",
+            "attachments": []
+        },
+        {
+            "answer": "A.\u00a0\u00a0dari :\u00a0\u00a02\u221a7+5\u221a7-6\u221a7<br>B.\u00a09\u00a0<u></u>\u00a0dari :\u00a0<span>5\u221a13-2\u221a13+6\u221a13</span>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "alas-sebuah-limas-berbentuk-belah-ketupat-dengan-keliling-60-cm-d-163",
+            "question": "alas sebuah limas berbentuk belah ketupat dengan keliling 60 cm dan panjang salah satu diagonalnya adalah 18 cm serta tinggi limas 12 cm .maka volume limas tersebut adalah ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "V limas =\u00a0[tex] \\frac{1}{3} [/tex].Luas Alat.Tinggi<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0[tex] \\frac{1}{3} [/tex].198.12<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0792 cm3<br>L\u00a0alas=\u00a0[tex] \\frac{1}{2}\u00a0[/tex].d1.d2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0[tex] \\frac{1}{2}\u00a0[/tex].18.22<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0198",
+                    "attachments": []
+                },
+                {
+                    "answer": "panjang diagonal 1 = 18<br>panjang diagonal 2 = 24 (triple phytagoras)<br>v = 1/3*luas alas*t<br>\u00a0 = 1/3*(1/2*18*24)*12<br>\u00a0 = 1/3*216*12<br>\u00a0 = 864<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "amir-berlatih-naik-mobil-dengan-mengelilingi-lintasan-berbentuk-l-863",
+            "question": "Amir berlatih naik mobil dengan mengelilingi lintasan berbentuk lingkaran berjari jari 15 m. Tentukanlah jarak yang ditempuh amir untuk:    a. 1 kali putaran\r\n b.1,5 putaran \r\n c. 2 putaran\r\n d. 2 3/4 putaran",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Lintasan=keliling<br>2r=d=15<br>A)Kell.=\u03c0\u00b7d<br>\u00a0\u00a0  =3,14\u00b730.1<br>\u00a0\u00a0 =<strong>94,2<br></strong>B)Kell.=\u03c0\u00b7d<br>\u00a0\u00a0 =3,14\u00b730\u00b71,5<br>\u00a0\u00a0 =<strong>141,3</strong><br>C)kell.=\u03c0\u00b7d<br>\u00a0\u00a0 =3,14\u00b730\u00b72<br>\u00a0\u00a0 =<strong>188,4</strong><br>D)kell.=\u03c0\u00b7d<br>\u00a0\u00a0 =3,14\u00b730\u00b72 3/4<br>\u00a0\u00a0 =<strong>141,3</strong><br><br><strong></strong>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "carilah-rumus-suku-ke-n-untuk-setiap-barisan-berikut-1-24-386",
+            "question": "Carilah rumus suku ke-n untuk setiap barisan berikut !    1.\u00a0 -2,4,-8,16\r\ntentukan 4 suku pertama dari barisan dg rumus suku ke-n berikut ini !\r\n1. Un=n\u00b2\r\n2. Un= 1 per 2n-1\r\n3. Un= (-1) pangkat n",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "jawaban no.1 <br>a = (-2)<br>r = (-2)<br>Un = [tex] ar^{n-1} [/tex]<br>Un = [tex] (-2).(-2)^{n-1} [/tex]<br><br><span>tentukan 4 suku pertama dari barisan dg rumus suku ke-n berikut ini !<br>1. Un=n\u00b2<br>jawab :<br>U1 = </span>[tex] 1^{2} [/tex] = 1<br>U2 = [tex] 2^{2} [/tex] = 4<br>U3 = [tex]3^{2} [/tex] = 9<br>U4 = [tex] 4^{2} [/tex] = 16<br><br><span>2. Un= 1 per 2n-1<br>jawab :<br>U1 = </span>[tex] \\frac{1}{2(1)-1} [/tex]<span> = 1<br>U2 = </span><span>[tex] \\frac{1}{2(2)-1} [/tex] = </span>[tex] \\frac{1}{3} [/tex]<br>U3 =<span> [tex] \\frac{1}{2(3)-1} [/tex] = </span>[tex] \\frac{1}{5} [/tex]<br><span><span>U4 =<span> [tex] \\frac{1}{2(4)-1} [/tex] = </span>[tex] \\frac{1}{7} [/tex]<br><br></span>3. Un= (-1) pangkat n</span><br>jawab :<br>U1 = [tex](-1)^{1} [/tex] = -1<br>U2 = [tex](-1)^{2} [/tex] = 1<br>U3 = [tex](-1)^{3} [/tex] = -1<br>U4 = [tex](-1)^{4} [/tex] = 1<br><br><br><br><br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bilangan-cacah-ganjil-yang-kurang-dari-16-dan-habis-dibagi-3-nota-716",
+            "question": "Bilangan cacah ganjil yang kurang dari 16 dan habis dibagi 3 notasinya mendaftar anggotanya \u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "angota :15,12,9,6,3<br><br>K={3,6,9,12,15}<br><br>Notasi:<br>{x|x adalah himp yang kurang dari 16 dan dapat dibagi habis 3}<br><br><br>Menurut saya itu jawabannya",
+                    "attachments": []
+                },
+                {
+                    "answer": "{\u00a0x | x adalah bilangan cacah ganjil yang habis dibagi 3 dan\u00a0bernilai\u00a0kurang dari 16 }<br><br>x = {3, 6, 9, 12, 15}",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pada-kegiatan-rally-sebuah-mobil-akan-sampai-di-garis-finis-dala-961",
+            "question": "pada kegiatan rally, sebuah mobil akan sampai di garis finis dalam waktu 4,5 jam dengan kecepatan rata-rata 63 km/jam. setelah 2 jam berjalan, ban mobil biru pecah sehingga terpaksa berhenti mangganti ban selama 15 menit. berapa kecepatan mobil biru dinaikkan agar tetap sampai di finis tepat waktu?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "= 2,5/2,25 = 63/x <br>2,25/2,5 x 63/x<br>= 2,25 x = 157,5<br>x = 157,5/2,25<br>x = 70 km/jam <br>semoga membantu yaa<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "m-adalah-himpunan-yang-didefinisikan-oleh-x-b-x2-646",
+            "question": "M adalah himpunan yang didefinisikan oleh { X\u00a0\u2208 B\u00a0| X\u00b2\u00a0\u2264 10, X -1 2 } dengan B adalah himpunan bilangan bulat. tetnukan banyaknya himpunan bagian tak kosong\u00a0dari M.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>{ X\u00a0\u2208 B\u00a0| X\u00b2\u00a0\u2264 10, X -1 2 }<br>himpunan bagian : M = X pangkat 2 kurang lebih dari 10, dan X-12. X itu elemen Bilangan Bulat, maka X pangkat 2 adalah bilangan bulat kurang dari 10. Maka pakai segitiga pascal hasil akhir = 6</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-sudut-terkecil-dari-jam-0430-341",
+            "question": "Tentukan sudut terkecil dari jam 04.30",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "130 &#039; ( derajat )\u00a0<br>semoga betul",
+                    "attachments": []
+                },
+                {
+                    "answer": "Sudut terkecilnya adalah 130 derajat",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "64-pangakat-1spertiga-466",
+            "question": "64 pangakat -1spertiga =?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]64^{- \\frac{1}{3} } [/tex]<br><br>[tex]4^{3^{- \\frac{1}{3} } } [/tex]<br><br>maka jwbnya\u00a0  [tex] 4^{-1} [/tex]",
+                    "attachments": []
+                },
+                {
+                    "answer": "\u00a064 pangkat -1sepertiga = 8pangkat -6<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "ubalah-satuan-sudut-berikut-ke-dalam-derajat-1-360-menit-2-948-227",
+            "question": "Ubalah satuan sudut berikut ke dalam derajat    1. 360 menit\r\n 2. 948 menit\r\n 3. 1.020 menit\r\n 5. 75.600 detik",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1. (360*60)/360 = 60<br>2. (948*60)/360 = 158<br>3. (1020*60)/360 = 170<br>4. (75600/360) = 210<br><br>mungkin seperti itu yang dimaksud!!!<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-2y2-723-2-7gt3x-3-2x-4gt3x9-630",
+            "question": "1. 2y/2-7/2\u22643=\r\n2. 7&gt;3x =\r\n3. 2x-4&gt;3x+9=",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]\\frac{2y}{2}-\\frac{7}{2} \\leq 3\\\\\n\\frac{2y-7}{2} \\leq 3\\\\\n2y-7 \\leq 6\\\\\n2y \\leq 13\\\\\ny \\leq \\frac{13}{2}\\\\\\\\\n7&gt;3x\\\\\n\\frac{7}{3}&gt;x\\\\\nx&lt;\\frac{7}{3}\\\\\\\\\n2x-4&gt;3x+9\\\\\n-x&gt;13\\\\\nx&lt;-13[/tex]",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

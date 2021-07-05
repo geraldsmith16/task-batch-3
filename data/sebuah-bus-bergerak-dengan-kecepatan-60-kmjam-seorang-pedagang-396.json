@@ -1,0 +1,139 @@
+{
+    "question": "sebuah bus bergerak dengan kecepatan 60 km/jam. seorang pedagang asongan di dalam bus berjalan dari depan ke belakang dengan kecepatan 1 km/jam. kecepatan pedagang asongan menurut pengamat yang diam ditepi jalan ..... km/jam",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "kecepatan\u00a0pejualan asongan\u00a0 3m/sec menurut pejalan kaki",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "sebuah-baterai-dihubungkan-dengan-sebuah-resistor-akan-menghasilk-862",
+            "question": "Sebuah baterai dihubungkan dengan sebuah resistor akan menghasilkan arus 0,6 ampere. Jika pada rangkaian tersebut ditambahkan sebuah resistor 4,0 ohm yang dihubungkan seri dengan resistor pertama maka arus akan turun menjadi 0,5 ampere. Gaya gerak listrik (ggl) baterai (dalam volt) adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "v=I.R (sebelum ditambah resistor) <br>v=0.6R1 <br>v=I total ( R1 + R2 ) (setelah ditambah resistor ) <br>nah lalu substitusi <br>I R1 = I total . (R1+R2)<br>0.6R1=0.5 . ( R1 + 4) <br>0.6R1 - 0.5R1 =2<br>0.1R1=2 <br>R1=20ohm ==&gt; V=IR <br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 V=0.6x20 = 12volt <br>maaf kalau ada salah <br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-uji-dilakukan-terhadap-seutas-kawat-tembaga-dengan-jari-ja-661",
+            "question": "Sebuah uji dilakukan terhadap seutas kawat tembaga dengan jari-jari 1,00 mm untuk menentukan bagaimana kawat tembaga akan menahan tumpukan es ketika kawat digunakan sebagai jaringan listrik. Diperoleh hasil bahwa suatu gaya 300 N akan menyebabkan kawat tertarik dari panjang 100,00 m menjadi 100,11 m, dan ketika tumpukan es dibersihkan (dihilangkan), kawat kembali kepada panjang asalnya. Tegangan, regangan, dan modulus elastis kawat tembaga dalam satuan SI berturut-turut adalah ....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Dik F = 300 N<br>\u00a0\u00a0 \u00a0  lo = 100,00 m<br>\u00a0\u00a0 \u00a0 l = 100,11 m<br>Dit\u00a0 tegangan , regangan , modulus yong<br>jawab.<br><br>\u2208 regangan = \u0394l / lo<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 100,11-100,00 / 100,00<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 0,11 / 100,00<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0  = 0,0011 tanpasatuan<br><br>E elastisitas tembaga = 11.10^10 pa satuan dan tetapan elastisitas young untuk tembaga Sl<br><br>Tegangn = E young . \u2208regangan<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 11x10^10 .0,0011<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 121x10^6 N/m^2<br><br>like<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-benda-bergerak-dari-keadaan-diam-dan-setelah-10-detik-kece-952",
+            "question": "sebuah benda bergerak dari keadaan diam dan setelah 10 detik kecepatannya 40m/s.jarak yang telah ditempuh adalah?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "s = v/t<br>s = 40/10 = 4\u00a0",
+                    "attachments": []
+                },
+                {
+                    "answer": "s=v.t = 40 m/s . 10 s<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 400 meter\u00a0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-pegas-meregang-10-mm-ketika-di-tarik-oleh-gaya-2-n-berapa-985",
+            "question": "sebuah pegas meregang 10 mm ketika di tarik oleh gaya 2 N. berapa pertambahan panjang ketika ditarik gaya 5 N",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "m1/m2 = F2/F1<br>10/m2 = akar5/2<br>10/m2 = akar2,5<br>10/m2 = 1,58<br>m2 = 10/1,58<br>m2 = 6,3 mm",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bola-05-kg-dijatuhkan-diatas-pegas-dari-ketinggian-2-m-ketika-t-576",
+            "question": "bola 0,5 kg dijatuhkan diatas pegas dari ketinggian 2 m. ketika tertimpa bola, pegas tersebut mampat sejauh 20cm. tentukan konstanta pegas tsb.. (g=10m/s^2)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "mgh=1/2 k \u0394x\u00b2<br>k=\u00a0[tex] \\frac{2mgh}{\u0394x\u00b2} [/tex]<br>tinggal masukin angkanya ntr dapet k=500 N/m.<br>jangan lupa 20 cm nya rubah dulu ke m",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tinggi-nada-senar-gitar-tergantung-1-4-558",
+            "question": "Tinggi nada senar gitar tergantung ?\u00a0\r\n( 1-4)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "frekuensi gelombang longitudinal nya<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "frekuensi dari gelombang longitudinal\u00a0gitar itu sendiri",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-elektron-yg-mula-mula-diam-dipercepat-oleh-beda-potensia-806",
+            "question": "sebuah elektron yg mula mula diam dipercepat\u00a0 oleh beda potensial sebesar V sehingga panjang gelombang de Broglie adalah lamda. jika elektron yg mula mula diam tersebut dipercepat dengan beda potensial 4V, maka panjang gelombang de Broglie elektron menjadi . . .",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "panjang gelombang de broglie elektron 4v2<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-jawab-ini-ya-fisika-kesetimbangan-benda-tegar-kelas-2-sma-182",
+            "question": "Tolong jawab ini ya, fisika kesetimbangan benda tegar kelas 2 sma",
+            "attachments": [
+                "question-attachments/tolong-jawab-ini-ya-fisika-kesetimbangan-benda-tegar-kelas-2-sma-182-1.jpg",
+                "question-attachments/tolong-jawab-ini-ya-fisika-kesetimbangan-benda-tegar-kelas-2-sma-182-2.jpg",
+                "question-attachments/tolong-jawab-ini-ya-fisika-kesetimbangan-benda-tegar-kelas-2-sma-182-3.jpg",
+                "question-attachments/tolong-jawab-ini-ya-fisika-kesetimbangan-benda-tegar-kelas-2-sma-182-4.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "\u00a0\u03a3\u0442=0 (no1)<br>\u04421=\u04422 (sumbu putar di A jadi \u0442a=0 paham ? ) <br>NBxL= w(batang)x[tex] \\frac{1}{2} [/tex] L + w(bola) x [tex] \\frac{3}{4}[/tex]L (semua L dicoret) <br>NB= 200x[tex] \\frac{1}{2} [/tex] + 450 x [tex] \\frac{3}{4}[/tex] <br>NB= 437.5 N <br><br>\u03a3\u0442=0 <br>\u04421=\u04422 ( sumbu putar di B jadi \u0442b=0 ) <br>NAxL= w(batang)x[tex] \\frac{1}{2} [/tex] L + w(bola) x [tex] \\frac{1}{4}[/tex]L (semua L dicoret) <br>NA= 212.5 <br>semoga untuk yang nomor 2 di coba dulu konsepnya sama <br><br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "seorang-anak-melemparkan-sebuah-buku-fisika-kepada-temannya-yang-255",
+            "question": "seorang anak melemparkan sebuah buku fisika kepada temannya yang berada di lantai 2 setinggi 4 m dari tanah . buku tersebut ditangkap oleh temannya setelah 1,5 s. berapakah kecepatan awal buku tersebu?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "kecepatan awal =\u00a02,666666667 m/s",
+                    "attachments": []
+                },
+                {
+                    "answer": "h=vot-1/2gt^2<br>4=vo.1,5-1/2.10.1,5^2<br>4=1,5vo-11,25<br>15,25=1,5vo<br>vo=10,1 m/s<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "besarnya-tegangan-yang-dilakukan-pada-sebuah-batang-adalah-210pa-954",
+            "question": "Besarnya tegangan yang dilakukan pada sebuah batang adalah 2.10pangkat6 N/m2.jika panjang batang adalah 4 m dan modolus elastisnya 2,5.10N\\m2,maka pertambahan panjang batang?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "\u0431= 2\u00d710^6 N/m\u00b2<br>lo= 4m<br>E= 2,5\u00a0\u00d710 N/m\u00b2<br><br>ditanya=\u00a0\u0394l<br>jawab :<br>\u00a0 \u00a0E=\u00a0\u0431\u00d7lo/\u0394l<br><br>\u00a0 \u00a0\u0394l=\u0431\u00d7lo/E<br>\u0394l \u00a0 =2\u00d710^6 x 4 \u00a0/ 2,5 x 10<br>\u00a0 \u00a0 \u00a0 = 8x10^6/25<br>\u00a0 \u00a0 \u00a0 = 800x10^4/25<br>\u00a0 \u00a0 \u00a0 = 32x10^4<br><br>terbaik ya :)",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,138 @@
+{
+    "question": "Jika F (x) =5x+8 tentukan nilai f.apabila x=-4",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "F(x) = 5x + 8<br>jika x = - 4<br><br>maka:<br>F (-4) = 5 (-4) + 8<br>F(-4) = -20 +8<br>F(-4) = -12<br>",
+            "attachments": []
+        },
+        {
+            "answer": "f ( -4 ) = 5 (-4) + 8<br>f (-4) = -20 + 8<br>f (-4) = -12<br>f\u00a0 \u00a0 \u00a0 \u00a0 = -12/-4<br>f\u00a0 = 3<br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "tentukanlah-penyelesaian-dari-pertidaksamaan-berikut-a-12x-292",
+            "question": "Tentukanlah penyelesaian dari pertidaksamaan berikut :    a.\u00a01/2x + 5\u00a0&gt; 15\r\nb. 2 - (4 + x)\u00a0\u2265 - 22",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a. 1/2x + 5 &gt; 15<br>x + 10 &gt;30<br>x &gt; 20<br><br>b. 2-(4+x) <span>\u2265 -22<br>2 - 4 - x \u2265 -22<br>-2 - x \u2265 - 22<br>-x \u2265 -22<br>x \u2264 22</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "panjang-pr-52-cm-panjang-pt-12-cm-dan-panjang-qs-180-cm-hi-700",
+            "question": "Panjang PR = 52 cm\u00a0    panjang PT= 12 cm\r\ndan panjang QS = 180 cm\r\nhitunglah kelilingnya\r\n\r\n\r\n\r\n\r\nNB : paki cara :)",
+            "attachments": [
+                "question-attachments/panjang-pr-52-cm-panjang-pt-12-cm-dan-panjang-qs-180-cm-hi-700-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "panjang PT = 12<br>panjang TS = 18 \u00f7 2 = 9<br>maka panjang PS :<br>a\u00b2 = b\u00b2 + c\u00b2<br>a\u00b2 = 12\u00b2 + 9\u00b2<br>a\u00b2 = 144 + 81<br>a\u00a0 = \u221a225<br>a = 15<br><br>Panjang PR = 52 dan PT 12 maka:<br>TR = 52 -12 = 40<br>panjang RS:<br>a\u00b2 = b\u00b2 + c\u00b2<br>a\u00b2 = 40\u00b2 + 9\u00b2<br>a\u00b2 = 1600 + 81<br>a = \u221a1681<br>a = 41<br><br>maka keliling layang - layang:<br>K = PS + PQ + SR + RQ<br>K = 15 + 15 + 41 + 41<br>K = 112 cm<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-tenda-yang-terbuat-dari-kain-parasut-berbentuk-limas-denga-831",
+            "question": "Sebuah tenda yang terbuat dari kain parasut berbentuk limas dengan alas persegi jika panjang sisi alas nya 100 cm dan tinggi limas 120 cm maka hitunglah\u00a0    a.luas kain yang diperlukan utk membuat 1 tenda\r\nb.besar biaya yg di perlukan membuat 3 tenda yg sama jika harga 1 m2 kain adlah Rp.50.000\r\ntolong plise",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]<br>a.\\ L_{permukaan\\ limas}=L_{alas}+4L_{sisi\\ tegak}\\\\<br>L_{permukaan\\ limas}=100(100)+4\\frac{(100)(130)}{2}\\\\<br>L_{permukaan\\ limas}=10000+26000\\\\<br>L_{permukaan\\ limas}=36000\\ cm^2\\\\<br>L_{permukaan\\ limas}=3,6\\ m^2\\\\<br><br>b.\\ 3(3,6)(Rp50.000)=Rp140.000,00<br>[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-seorang-ayah-berumur-28-tahun-ketika-anaknya-lahir-berapak-158",
+            "question": "1.) seorang ayah berumur 28 tahun , ketika anaknya lahir. Berapakah umur anak itu ketika jumlah umur mereka 48 tahun.    2.) Diketahui jumlah dua bilangan adalah 100 dan selisihnya adalah 40. Bagaimana nilai dua bilangan tersebut dapat dinyatakan dua linear satu variabel.\r\n\u00a0tolong jawabannya pake caranya ya....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "jjawaban nomer satu\u00a01.20<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "gradien-garis-yang-mempunyai-persamaan-4x-3y-5-0-adalah-586",
+            "question": "Gradien garis yang mempunyai persamaan -4x + 3y -5 =0 adalah...........\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]m= \\frac{-a}{b} = \\frac{-(-4)}{3} = \\frac{4}{3} [/tex]",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span>-4x + 3y -5 =0<br>a= -4 ; b= 3<br>m=<u></u><u></u> -a<u></u><strong></strong>:b = -(-4) : 3 = 4: 3</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-besar-sudut-x-dan-y-dalam-derajat-pada-segitiga-siku-s-333",
+            "question": "tentukan besar sudut x dan y (dalam derajat) pada segitiga siku-siku berikut.. tolong dijawab ya beserta penjelasannya :) thanks!",
+            "attachments": [
+                "question-attachments/tentukan-besar-sudut-x-dan-y-dalam-derajat-pada-segitiga-siku-s-333-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "sudut x dan y = masing\" 45 derajat<br>Kenapa?<br>karena jumlah semua sudut dalam suatu segitiga adalah 180, dan besar sudut siku siku adalah 90.<br>180-90 = x+y<br>90 = x+y<br>karena segitiga tersebut adalah segitiga siku siku sama kaki, maka besar sudut x dan y adalah SAMA<br>jadi,<br>90:2 = 45<br>x= 45<br>y=45<br>semoga betul ^^",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "mina-mengukur-keliling-kolam-ikan-yang-berbentuk-lingkaran-dengan-285",
+            "question": "Mina mengukur keliling kolam ikan yang berbentuk lingkaran dengan tali. Setelah diukur, ternyata panjang tali sama dengan 15,4 m. Berapakah panjang lintasan yang ditempuh?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "744,6824<br>itu jawabnnya :)<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "luas-lingkaran-dengan-diameter-175-adalah-493",
+            "question": "Luas lingkaran dengan diameter 17,5 adalah....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "L = (22/7 atau 3,14) . Jari2<br>\u00a0\u00a0 = 22/7.17.5.17,5<br>\u00a0\u00a0  = 22.0,4.17,5<br>\u00a0\u00a0 = 8,8.17,5<br>\u00a0\u00a0 = 154 cm2<br><br>L = 3,14.17,5.17,5<br>\u00a0\u00a0 = 54,95.17,5<br>\u00a0\u00a0 = 961,625<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "rumus : 1/4 x phi x d pangkat dua<br>1/4 x 3,14x17,5x17,5 = 240,406<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "faktor-dari-3x2-12-651",
+            "question": "Faktor dari\u00a0 3x\u00b2 -12 =",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "3x^2 -12<br>= 3 ( x^2 - 4)",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "himpunan-penyelesaian-dari-2x-5-11dengan-x-bilangan-bulat-364",
+            "question": "Himpunan penyelesaian dari 2x + 5 \u2264 11,dengan x bilangan bulat adalah?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>2x + 5 \u2264 11<br>2x</span>\u2264\u00a011-5<br>2x\u2264\u00a06<br>x\u2264\u00a03",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

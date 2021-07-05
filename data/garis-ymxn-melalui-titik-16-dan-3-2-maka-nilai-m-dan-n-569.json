@@ -1,0 +1,148 @@
+{
+    "question": "Garis y=mx+n melalui titik (1,6) dan (-3,-2), maka nilai m dan n berturut-turut adalah",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "m=[tex] \\frac{Y2-Y1}{X2-X1} [/tex]<br>m = [tex] \\frac{-2-6}{-3-1} = \\frac{-8}{-4}=2 [/tex]<br>Y - Y1 = m(X-X1) <br>y - 6 = 2 (x-1)<br>y = 2x - 2 + 6<br>y = 2x + 4 <br><br>mudah mudahan membantu ya! dan jangan lupa istirahat he he <br>",
+            "attachments": []
+        },
+        {
+            "answer": "&gt;&gt;\u00a0m=\u00a0<br>&gt;&gt;\u00a0<span>m =\u00a0</span><br><span>&gt;&gt; y\u00a0- y1 = m(x-x1)\u00a0 <br>&gt;&gt;\u00a0</span>y - 6 = 2 (x-1)<br>&gt;&gt;\u00a0y = 2x - 2 + 6<br><span>&gt;&gt;\u00a0y = 2x + 4\u00a0<br>maaf kalo ngelantur habis ngantuk sih</span>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "ada-3-orang-anak-bernama-yoga-ragil-pengayom-anak-bertiga-it-547",
+            "question": "Ada 3 orang anak bernama , yoga, ragil, pengayom. anak bertiga itu iuran 5000 per orang. jadi semuanya terkumpul 15.000. lalu ketiga anak itu ingin membeli makanan seharga 10.000 dan menyuruh orang lain yang bernama dea. sisa uang tersebut tinggal 5.000. lalu dibagikan kembali 1000 per orang dan yang 2000 diberikan ke dea untuk upah membeli jajan. sama saja ketiga anak itu iuran 4000 kan ? jadi 4000 x 3 = 12000 + 2000 ( uang upah ) = 14.000 . dimana uang 1000 itu ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "kan iuranya 5000!!! kok bisa jadi 4000???<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "uang sisa\u00a01.000 x 3 = 3.000<br>uang dea 2.000<br>=&gt;\u00a03.000 + 2.000 = 5.000<br>membeli makanan 10.000<br><br>10.000 + 5.000 = 15.000<br>berarti jumlah uang mereka memang 15.000, bukan 14.000",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "rasionalkan-bentuk-pecahan-a-25-3-431",
+            "question": "Rasionalkan bentuk pecahan\u00a0    a.\u00a0 \u00a0 2\u221a5 \u00a0 \u00a0\r\n \u00a0 \u00a0\u221a3 +\u00a0\u221a5\r\n\r\nBeri penjelasannya yaa. Dan LENGKAP Juga :)\r\nyang Lengkap\u00a0bintang 5.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "ini namnya persekutuan sekawanan.Jadi kalo ypenyebut minus,ntar dikalikan dengan yang plus.Dan sebaliknya<br><br>2\u221a5 per(/) \u221a3+\u221a5 dikali(*)\u221a3-\u221a5 per(/) \u221a3-\u221a5 = 2\u221a15-2\u221a25 per(/) 3-5=2\u221a15-2\u221a25 per(/) -2<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "\\frac{2V5}{V3+V5} = \\frac{2V5}{V3+V5} \\frac{V3-V5}{V3-V5 }=\n \\frac{2V5(V3-V5)}{3-5}  =\u00a0V5(V3-V5)",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tiga-bilangan-positif-membenrik-barisan-geometri-dengan-rasio-rg-198",
+            "question": "Tiga bilangan positif membenrik barisan geometri dengan rasio r&gt;1.jika suku tengah ditambah 4,maka terbentuk sebuah barisan aritmatika yang jumlahnya 30.tentukan hasil kali dari ketiga bilangan tersebut.    Tolong dongg",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a,b,c,nanti saat di barisan aritmatika b+4<br>a+b+c = 30<br>b= a.r^n-1,<br>6=a.r^1 = 6/r = a , c = a.r^n-1= 6/r . r^2 = 6.r<br>maka. a + b + c = 30<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a06/r + 6 + 6r = 30<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 6/r + 6r = 24<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 6r+ 6 = 24<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a06r = 18<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 r = 3<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0<br><br>a= 2<br>b = 6<br>c = 18<br>r= 3<br>jika b +4 = 6+ 4 =10,maka a+b+c= 30 :)<br>sehingga 2 x 6 x18 =156 :)",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-akar-akar-dari-persamaan-3x-2-x-6-0-pake-cara-365",
+            "question": "Tentukan akar-akar dari persamaan: 3x\u00a0\u00b2\u00a0- x + 6 = 0\r\n\r\npake cara melengkapkan kuadrat",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>3x\u00a0\u00b2\u00a0- x + 6 = 0<br></span>(3x - 3)(x + 2)<br>x = 3/3\u00a0=\u00a01 atau x= -2<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pada-fungsi-kuadrat-apa-yang-terjadi-jika-a-gt-0-dan-apa-yang-847",
+            "question": "Pada fungsi kuadrat, apa yang terjadi jika a &gt; 0 dan apa yang terjadi jika a &lt; 0 ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Jika nilai a &gt; 0 maka parabola terbuka ke atas dan mempunyai nilai ekstrem minimum<br><br>\nJika nilai a &lt; 0 maka parabola terbuka ke bawah dan mempunyai nilai ekstrem maksimum<br><br><br><br>",
+                    "attachments": [
+                        "answer-attachments/pada-fungsi-kuadrat-apa-yang-terjadi-jika-a-gt-0-dan-apa-yang-847-1.jpg"
+                    ]
+                },
+                {
+                    "answer": "untuk a\u00a0&gt;\u00a00, grafik/kurvanya menghadap ke atas, dan memiliki nilai minimum (puncaknya ada di bawah)<br><br>untuk a\u00a0&lt;\u00a00, grafik/kurvanya menghadap ke bawah, dan memiliki nilai maksimum\u00a0(puncaknya ada di atas)<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bagaimana-cara-menyelesaikan-soal-seperti-ini-dengan-caranya-9-458",
+            "question": "Bagaimana cara menyelesaikan soal seperti ini? dengan caranya\r\n\u00a09\u221a14 + 6\u221a21\r\n \u00a0 \u00a0 3\u221a42",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<u>\u221a81x14 +\u00a0\u221a36x21\u00a0</u> =\u00a0<u>\u221a1134 +\u00a0\u221a756</u>\u00a0<br>\u00a0 \u00a0 \u00a0 \u00a0\u221a9x42 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u221a378<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0=\u00a0<u>\u221a1134</u> \u00a0 + \u00a0 \u00a0<u>\u221a756</u><br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0<u></u>\u221a378 \u00a0 \u00a0 \u00a0 \u00a0\u00a0\u221a378\u00a0<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 biar akarnya ilang, masing\u00b2 di kuadratkan (dalam teori\u00a0\u221aa x\u00a0\u221aa = a)<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0(\u00a0<u>\u221a1134)</u>\u00b2\u00a0\u00a0 + \u00a0 \u00a0(<u>\u221a756)</u>\u00b2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0(\u00a0<u></u>\u00a0\u221a378 ) \u00a0 \u00a0 \u00a0 \u00a0\u00a0\u00a0(\u221a378)<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 =\u00a0<u>1134 </u>\u00a0 \u00a0 \u00a0 \u00a0+ \u00a0 \u00a0 <u>756<br></u>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 378 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0378\u00a0<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 3 + 2 = 5 .. ;)",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suku-ke-3-deret-geometri-adalah-20-jumlah-suku-ke-5-dan-suku-ke-101",
+            "question": "suku ke-3 deret geometri adalah 20, jumlah suku ke-5 dan suku ke-6 adalah -80. jumlah 5 suku pertama deret ini adalah?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "suku ke 3 = ar^(3-1)=ar^2<br>suku ke 5 = ar^(5-1)=ar^4<br>suku ke 6\u00a0= ar^(6-1)=ar^5<br><br>ar^2=20.............(1)<br><br>ar^4+ar^5=\u00a0-\u00a080<br>ar^4(r+1)= - 80<br><br>ar^2x r^2 (r+1)= - 80<br>20 xr^2 (r+1)= - 80<br>r^2 (r+1)= - 4<br><br>r^3+r^2+4=0........(2)<br><br>faktorkan dg cara horner dapat (r+2)(r+1)(r-2)<br><br>r yang dpt memenuhi ke2 persamaan adalah r=\u00a0- 2<br><br>maka ar^2=20<br>a=5<br><br>S5=a(1-r^5)/(1-r)<br>=5(1-(-32))/(1-(-2))<br>=5(33)/(1+2)<br>=55",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-jumlah-10-suku-pertama-barisan-aritmatika-adalah-1255-473",
+            "question": "diketahui jumlah 10 suku pertama barisan aritmatika adalah 1255, jika bedanya 6. tentukanlah suku pertama dan rumus suku ke-n?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "U1 + U2 +..... + U10 = 10U1 + (1\u00a0+\u00a02\u00a0+ 3 + 4 + 5 + 6 + 7 + 8 + 9)b =1225<br><br>10U1 + 45.6 = 1255<br>10U1 +\u00a0270 = 1255<br>10U1 = 985<br>U1 = 98,5<br><br>Un = U1 + (n-1)b<br>Un = 98,5 + (n-1)6<br>Un = 98,5 + 6n -\u00a06<br>Un = 6n + 92,5",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "b-x-x-lt-10-x-eur-bilangan-prima-837",
+            "question": "B = { x | x &lt; 10 ; x \u20ac bilangan prima }",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "2,3,5,7<br>itu adalah angka prima yang kurang dari 10",
+                    "attachments": []
+                },
+                {
+                    "answer": "B = {x l x &lt; 10 , x elemen bilangan prima}<br>Jawab :<br>B = { 2,3,5,7}<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suatu-kotak-berisi-5-kelereng-merah-dan-3-kelereng-putihdua-kele-757",
+            "question": "suatu kotak berisi 5 kelereng merah dan 3 kelereng putih.dua kelereng di ambil satu persatu tanpa pengembalian kelereng pertama kedalam kotak.peluang terambilnya kelereng pertama\u00a0dan kedua berwarna merah adalah?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "klu ndasalh 1/4<br><br>maaf klau slahhhh<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "5\u00d73= 15<br>15:5 = 3<br>5= ADALAH kelereng pertama berwarna merah<br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

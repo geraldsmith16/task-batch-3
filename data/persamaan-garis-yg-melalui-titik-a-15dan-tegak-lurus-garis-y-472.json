@@ -1,0 +1,150 @@
+{
+    "question": "Persamaan garis yg melalui titik A(-1,5)dan tegak lurus garis y =1/4X-3 adalah ?",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "y=1/4x-3, 1/4x-y-3=0<br>m= -a/b<br>-1/4/-1= 1/4<br>y-y1= M(x-x1)<br>y+1= 1/4(X-1/4)<br>y+1=1/4x-1/16<br>1/4x-y-1 1/16 (dikali 16)<br>4x-16y-17<br>",
+            "attachments": []
+        },
+        {
+            "answer": "[tex]y=\\frac{1}{4}x-3 \\rightarrow m_1=\\frac{1}{4}\\\\\nagar\\ tegak\\ lurus\\, maka\\ m_1.m_2=-1\\\\\n\\frac{1}{4}m_2=-1\\\\\nm_2=-4\\\\\npersamaan\\ yg\\ tegak\\ lurus\\ garis\\ y=\\frac{1}{4}x-3\\ dan\\ melalui\\ A(-1,5)\\\\\ny-y_1=m(x-x_1)\\\\\ny-5=(-4)(x-(-1))\\\\\ny=-4x-4+5\\\\\n4x+y=1[/tex]",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "tentukan-himpunan-penyelesaian-ari-persamaan-linear-berikut-2-820",
+            "question": "Tentukan himpunan penyelesaian ari persamaan linear berikut:\u00a0\r\n2\u00a0+\u00a0x/4\u00a0= 5\r\n\u00a0 \u00a0/= per",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "2+x/4 = 5<br>x/4= 5-2<br>x/4 = 3<br>x = 12<br>begitu jawabannya",
+                    "attachments": []
+                },
+                {
+                    "answer": "2\u00a0+<u></u>\u00a0x/4\u00a0=\u00a05<br>2\u00a0.\u00a04\u00a0:\u00a0x\u00a0=\u00a05<br>8\u00a0:\u00a0x\u00a0=\u00a05<br>x\u00a0=\u00a05\u00a0-\u00a08<br>x\u00a0=\u00a0-3<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "cara-menghitung-jari-jari-lingkaran-jika-diketahui-kelilingnya-292",
+            "question": "Cara menghitung jari jari lingkaran jika diketahui kelilingnya ?\u00a0    Mohon bantuannya kalo ada sama penyelesaian nya\u00a0 \u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "2r = d<br><br>K =\u00a0\u03c0.d<br>d = K/\u03c0<br><br>atau r = k/2\u03c0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-3z-11-28-itu-nilai-z-nya-brp-gan-314",
+            "question": "Jika 3z + 11 =-28 itu nilai z nya brp gan?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "3z + 11 = -28<br>3z = -28 - 11<br>3z = - 39<br>z = -39/3<br>z = -13",
+                    "attachments": []
+                },
+                {
+                    "answer": "3z+11\u00a0 \u00a0 =-28<br>3z+11-11=-28-11<br>3z\u00a0 \u00a0 \u00a0 \u00a0\u00a0 =-39<br>1/3(3z)\u00a0\u00a0 =1/3(-39)<br>\u00a0 \u00a0 z\u00a0 \u00a0 \u00a0\u00a0 =-13<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "2-707",
+            "question": "\u00a0 \u00a0 2",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Maksudnya?<br><br>2[tex] \\sqrt{5} [/tex] =\u00a0[tex] \\sqrt{4} [/tex] +\u00a0[tex] \\sqrt{5} [/tex]<br>\u00a0 \u00a0 \u00a0 \u00a0 = [tex] \\sqrt{9} [/tex]<br>\u00a0 \u00a0 \u00a0 \u00a0 = 3<br><br>[tex] \\sqrt{3} [/tex] +\u00a0[tex] \\sqrt{5} [/tex] =\u00a0[tex] \\sqrt{8} [/tex]<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 =\u00a0[tex] \\sqrt{4} [/tex] x\u00a0[tex] \\sqrt{2} [/tex]<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 2[tex] \\sqrt{2} [/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1dari-sekelompok-siswa-yang-terdiri-dari-35-orang-ternyata-18-o-400",
+            "question": "1.)Dari Sekelompok Siswa Yang Terdiri Dari 35 Orang Ternyata 18 Orang Gemar Matematika 22 Orang Gemar B Inggris, Dan 7 Orang Tidak Gemar Matematika Maupun B Inggris.    a) Buatlah Diagram Venn Berdasarkan Keterangan Diatas!\r\nB) Berapa Orang Yang Gemar Matematika Maupun B.Inggris\u00a0\r\n\r\n2.)Tuliskan semua himpunan bagian dari {xl-10&lt;x&lt;10,x\u2208\u00a0bilangan bulat yg habis dibagi 3} yg mempunyai 3 anggota\r\n\r\n3.) Diketahui n(A) =35,n(B)=29,dan n(AUB)=50\r\n\u00a0\u00a0 \u00a0Dketahuin(p)=28,n(Q)=27,dan (PNQ)={}\r\n\u00a0\u00a0 \u00a0Diketahuin(k)=59,n(LNK)=13,DAN n(kUl=110\r\n\u00a0\u00a0 \u00a0Tentukan n(L)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "kalo buat diagram venn disini caranya gimana?<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "contoh-teks-eksplanasi-tsunami-504",
+            "question": "Contoh teks eksplanasi tsunami",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1.pengertian tsunami<br>2.saat terjadinya tsunami<br>3.akibat dari terjadinya tsunami<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Tsunami adlh serangkaian gelombang yg terbentuk karena gempa/letusang gunung api di bawah laut/daratan pantai.Tsunami tercipta saat permukaan laut bergerak naik turun (pergeseran lempeng di dasar laut) disepanjang patahan selama gempa terjadi.Selain itu,tsunami juga tercipta karena meletusny gunung api yg menyebabkan pergerakan air laut/perairan sekitarny yg tinggi.Gelombang tsunami yg terjadi di laut melaju lebih cepat daripada gelombang normal.Gelombang tsb menyebar ke segala arah dengan ketinggian 30-50 m dan kec 800 km/jam.Ketika gelombang tsunami memasuki air dangkal,kecepatannya akan menurun dan ketinggiannya bertambah.Tsunami selalu menyebabkan kerusakan besar bagi manusia.Kerusakan yg paling besar terjadi ketika gelombang besar tsunami itu mengenai pemukiman manusia sehingga menyeret apa saja yg dilaluiny.",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-jari-jari-yang-mempunyai-luas-a-11304cm-b385-cm-se-331",
+            "question": "Tentukan jari-jari yang mempunyai luas\u00a0\r\na. 113,04cm\r\nb.38,5 cm\r\n\r\nsecepatnya tri makasih :)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]luas= \\pi r^2\\\\\\\\\nr= \\sqrt{ \\frac{luas}{ \\pi } } \\\\\\\\\\\\\na.\\\\r= \\sqrt{ \\frac{113,04}{ 3,14 } }\\\\\nr= \\sqrt{36}\\\\\nr=6\\\\\\\\\\\\\nb.\\\\\nr= \\sqrt{ \\frac{38,5}{ \\frac{22}{7} } } \\\\\nr= \\sqrt{12,25}\\\\\nr=3,5 [/tex]",
+                    "attachments": []
+                },
+                {
+                    "answer": "rumus luas lingkaran\u00a0[tex] \\pi [/tex] x r x r\u00a0<br>Pi: 22/7 / 3,14<br><br>a.\u00a0113,04:3,14=36 akar pangkat 36= 6cm\u00a0<br>b. 38,5x7= 269.5 : 22= 12.25 akar pangkat 12.25=3.5cm\u00a0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "manakah-di-bawah-ini-yang-merupakan-persamaan-linear-satu-variabe-667",
+            "question": "Manakah di bawah ini yang merupakan persamaan linear satu variabel ??     A. 2\u00d7 - 4 = 8\r\nB. - 4 + 3s = 24\r\nC. - 8 - d2 = 32\r\nD. 5(u - 2 ) = u - 2",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Jawabannya adalah\u00a0A. 2x - 4 = 8",
+                    "attachments": []
+                },
+                {
+                    "answer": "A, B, C, D merupakan persamaan linier satu variabel, karena sma sma memiliki 1 variabel, dihubungkan dengan tanda sama dengan, pangkat tertinggi variabel yaitu 1<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "help-berapakah-x-280",
+            "question": "[HELP]\u00a0 berapakah x?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "2^{x-5} = 4^{x+3}<br>2^{x-5} = 2^{2(x+3)}<br>x-5 = 2(x+3)<br>x-5 = 2x+6<br>x-2x = 6+5<br>-x = 11<br>x = -11",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jumlah-umur-fani-dan-rian-adalah-36-tahunsedangkan-perbandingan-697",
+            "question": "jumlah umur fani dan rian adalah 36 tahun,sedangkan perbandingan umur fani terhadap umur rian adalah 4:5 umur rian adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "perbandingan = 4:5<br>4+5= 9 = 36<br>1= 36 : 9 = 4<br>perbandingan umur rian = 5<br>maka umur rian adalah 4.5 = 20",
+                    "attachments": []
+                },
+                {
+                    "answer": "misal fani = x, dan rian = y.<br><br>fani + rian = 36 menjadi x + y = 36<br>fani/rian = 4/5 menjadi x/y = 4/5 maka, x = 4/5 y ( masukan ke persamaan x + y = 36)<br><br>menjadi : 4/5 y + y = 36<br>9/5 y = 36<br>y = 36*5 / 9<br>y= 20<br><br>jadi umur rian adalah 20<br>semoga membantu :)<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

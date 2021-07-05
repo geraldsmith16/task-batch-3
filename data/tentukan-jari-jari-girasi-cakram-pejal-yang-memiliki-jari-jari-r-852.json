@@ -1,0 +1,138 @@
+{
+    "question": "Tentukan jari-jari girasi cakram pejal yang memiliki jari-jari R bila sumbu berada pada tepi cakram!",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "girasi itu apa?<br>dan R itu nama atau jari jari(r)",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "sebuah-benda-bergerak-dari-keadaan-diam-dan-setelah-10-detik-kece-952",
+            "question": "sebuah benda bergerak dari keadaan diam dan setelah 10 detik kecepatannya 40m/s.jarak yang telah ditempuh adalah?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "s = v/t<br>s = 40/10 = 4\u00a0",
+                    "attachments": []
+                },
+                {
+                    "answer": "s=v.t = 40 m/s . 10 s<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 400 meter\u00a0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "modulus-elastisitas-alumunium-7x10-pangkat-10-nm2-jika-kawat-a-176",
+            "question": "modulus elastisitas alumunium 7x10 pangkat 10 n/m\u00b2. jika kawat alumunium berdiameter 1,5 mm dan panjang 50 cm direnggangkan 10 mm. hitunglah gaya yg di kerjakan pd kawat tsb",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "E = F kali\u00a0panjang mula-mula dibagi A (luas penampang) kali delta l (pertambahan panjang)<br>tuh<br>rumusnya, cari ayo :D",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dua-pegas-identik-memiliki-kostanta-gaya-400nm-apabila-kedua-peg-630",
+            "question": "dua pegas identik memiliki kostanta gaya 400N/m apabila kedua pegas tersebut disusun secara paralel,maka besarnya gaya yang dubutuhkan untuk menarik pegas sehingga bertambah panjang sebesar 5cm adalah...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "5 cm = 0,05 m<br>k = F/delta l<br>400 = F/0,05<br>400 X 0,05 =F<br>20 N = F<br><br>Jadi, gaya yang diperlukan adalah 20 N<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-beban-bermassa-m-digantungkan-pada-ujung-bawah-pegas-deng-511",
+            "question": "Sebuah beban bermassa\u00a0m digantungkan pada ujung bawah pegas dengan tetapan pegas\u00a0k=50 N/m. berapa periode osilasi pegas?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "periodenya<br>T = 2\u03c0\u221a[tex] \\frac{m}{50} [/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pada-titik-titik-sudut-abc-dan-d-sebuah-persegi-abcd-dengan-pan-854",
+            "question": "Pada titik-titik sudut A,B,C dan D sebuah persegi ABCD dengan panjang a ditempatkan muatan berturut-turut +q, -q, -q, dan -q. akibatnya muatan +q mengalami resultan gaya dari muatan lain sebesar ( q^/ (4\u03c0    a^2) x. nilai x adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "benda mengalami resultan gaya istrik bersudut 90 derajat. Sehingga mendapatkan rumus F=\u221a(Fab\u00b2 tambah Fad\u00b2)<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 =\u221a((k.q.q/r\u00b2)\u00b2 ditambah\u00a0(k.q.q/r\u00b2)\u00b2)<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 =\u221a2.(k.q.q/r\u00b2)\u00b2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 =k.q.q/r\u00b2.\u221a2<br><br>(q kuadrat per 4 phi epsilon a kuadrat)x=k.q\u00b2/a\u00b2.\u221a2<br>sehingga nilai x adalah \u00a0\u221a2 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "benda-bermassa-10-kg-di-atas-bidang-datar-licin-dipengaruhi-gaya-694",
+            "question": "Benda bermassa 10 kg di atas bidang datar licin dipengaruhi gaya 40 N membentuk sudut 60 derajat terhadap horizontal,jika g= 10 m/s^2.tentukan perpindahan benda setelah gaya bekerja 60 \u00a0sekon",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "karena permukaannya licin, maka fg (gaya gesek) = 0<br>cari\u00a0\u03a3 F = m.a<br>\u00a0 \u00a0 \u00a0F + w cos 30 = m .a \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0w = m .g<br>\u00a0 \u00a0 \u00a040 + (10.10.1/2\u221a3) = 10.a<br>\u00a0 \u00a0 \u00a0 40 + 50\u221a3 = 10.a<br>\u00a0\u221a3 = 1,73<br>40 + 50 (1,73) = 10a<br>40 + 86,5 = 10a<br>126,5 = 10 a<br>a = 126,5 /10<br>\u00a0 \u00a0= 12,65 m/s\u00b2<br>mudah2an benar -_-",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-sebuah-gaya-tunggal-dengan-besar-10-n-bekerja-pada-benda-ber-728",
+            "question": "1. sebuah gaya tunggal dengan besar 10 N bekerja pada\u00a0benda\u00a0bermassa m. benda bergerak dari keadaan diam waktu 6 sekon. massa benda tersebut adalah...\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "10 N/6 sekon = 1,67\u00a0<br>maaf yah klo kurang benar....<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "diket : gaya ( N) :10 N<br>\u00a0 \u00a0 \u00a0 \u00a0 : perpindahan jarak ( S ) : 6<br>ditanya : massa benda ( M):....?\u00a0<br>dijawab:<br>W = m\u00a0X g\u00a0<br>\u00a0 \u00a0 = 10N\u00a0X\u00a06 sekon\u00a0<br>\u00a0 \u00a0\u00a0= \u00a060\u00a0<br><br>maaf banget klo jwbnya slh ya ,aq ja ngrjainnya lupa rmsnnya klo ndak slh\u00a0<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "berapakah-energi-kinetik-bola-pejal-yang-menggelinding-dengan-kec-179",
+            "question": "Berapakah energi kinetik bola pejal yang menggelinding dengan kecepatan 10m/s. Jika masanya 20kg.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "EK = 1/2 * 20 * 10*10 = 1000 Joule",
+                    "attachments": []
+                },
+                {
+                    "answer": "Dik : m=20kg<br>\u00a0\u00a0 \u00a0 \u00a0\u00a0 v=10m/s<br>dit : Ek..?<br>Jwb : Ek = <u>1</u><em></em> . m . v\u00b2<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 2<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 =<u>1</u> . 20 . 10\u00b2<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 2<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 =<u>1</u> . 20 . 100<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 2<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 =<u></u><u>2000</u><u><br></u>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0\u00a0\u00a0\u00a0 2<u><br></u>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 = 1000 J<u><br></u><u></u>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-partikel-bermassa-1-g-berputar-mengelilingi-poros-dengan-k-562",
+            "question": "Sebuah partikel bermassa 1 g berputar mengelilingi poros dengan kecepatan 90 rpm.Jika jarak partikel ke poros 50 cm,tentukan besar momentum sudutnya?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "massa 1 gram = 0,001 kg<br>kecepatan = 90 putaran/menit<br>frekuensi = 90/60 Hz = 1,2 Hz<br>momentum sudut = 2. phi. f = 2 . phi . 1,2 Hz = 2,4 rad/s<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suatu-gaya-menyinggungtepi-silinder-pejal-homogen-yang-massanya-932",
+            "question": "Suatu gaya menyinggungtepi silinder pejal homogen, yang massanya 200 gram. jari - jari 50 cm, akibat gaya tersebut silinder memiliki percepatan 4rad/s2, nilai gaya momen silinder sebesar...    A.0,1 b. 0,2 c.0,3 d.0,4 e. 0,5",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Dik : m = 200 g = 0,2 kg <br>\u00a0\u00a0 \u00a0 \u00a0\u00a0 r = 50 cm = 0,5 m <br>\u00a0\u00a0 \u00a0 \u00a0 \u03b1 = 4 rad/s2 <br>Dit : \u03c3 = ...?<br>Jwb : <br>silinder pejal ---&gt; I = 1/2 m r^2 <br>I = 1/2 . 0,2 . 0,5^2 = 0,025 <br>\u03c3 = I . \u03b1<br>\u00a0\u00a0 = 0,025 . 4 = 0,1 <br>(A) <br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Dik m = 200 gr = 0,2 kg<br>\u00a0 \u00a0 \u00a0 r = 50 cm = 0,5 m<br>\u00a0 \u00a0 \u00a0\u00a0\u03b1 = 4 rad/s<br>Dit torsi ?<br>jawab.<br>i =\u00a0[tex] \\frac{1}{2} m r^{2} [/tex]<br>\u00a0 = 1/2 . 0,2 . 0,5^2<br>\u00a0\u00a0= 0,025 kgm^2<br><br>torsi = \u00a0i .\u00a0\u03b1<br>\u00a0 \u00a0 \u00a0 \u00a0= 0,025 . 4<br>\u00a0 \u00a0 \u00a0 \u00a0= 0,1 Nm",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

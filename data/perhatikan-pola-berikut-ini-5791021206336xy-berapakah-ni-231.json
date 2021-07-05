@@ -1,0 +1,150 @@
+{
+    "question": "Perhatikan pola berikut ini 5,7,9,10,21,20,63,36,x,y\r\nberapakah nilai y ?",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "imajiner (sepertinya itu bukan merupakan pola)<br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "180-dijadikan-pecahan-biasa-pecahan-campuran-dan-persen-tlng-b-329",
+            "question": "1,80 dijadikan pecahan biasa, pecahan campuran dan persen. tlng bantunya kawan :)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1,80<br>bentuk persen\u00a0<br>1,80 X 100/100 = 180 %<br><br>bentuk pecahan\u00a0campuran<br>1,80 = 180/100 = 18/10 = 9/5 = 1 4/5<br><br>bentuk pecahan biasa<br>yaa, 1,80 = 180/100 = 18/10 = 9/5 :)",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bilangan-negatif-kurang-bil-negatif-bagaimana-cara-mengerjakannya-188",
+            "question": "Bilangan negatif kurang bil negatif bagaimana cara mengerjakannya",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "\u00a0-2-(-3) = (dalam kurung sama juga dengan kali, negatif dan negatif jadinya positif)<br>-2+3= 1",
+                    "attachments": []
+                },
+                {
+                    "answer": "-a-(-b)= -a (bila angka nya lbih bsar)/b (bila angkanya lbih besar dri a)<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bagaimana-cara-mengerjakan-hitung-campuran-berbagai-bentuk-pecaha-663",
+            "question": "Bagaimana Cara mengerjakan Hitung Campuran Berbagai Bentuk Pecahan",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "samakan penyebutnya, atau jika penyebut yang satu dengan yang lain sudah sama tinggal di jumlahkan. sedangkan apabila operasinya perkalian, caranya pembilang di kalikan pembilang dan penyebut dikalikan penyebut. apabila operasi hitungnya pembagian, harus dijadikan perkalian dulu dengan cara membalik pecahan yang terakhir (penyebut jadikan pembilang dan pembilang jadikan penyebut)<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Caranya kita harus menyamakan penyebutnya terlebih dahulu yaitu KPK dari bilangan - bilangan penyebut. Kemudian, setelah kita operasikan ( operasi + dan - ) jika nilai bilangan pembilangnya lebih besar daripada bilangan penyebutnya maka masih bisa disederhanakan begitu pula sebaliknya.<br>Perhatikan juga tanda operasinya, jika terdapat tanda kali dan bagi maka dahulukan mengerjakan yang kali atau bagi terlebih dahulu, tetapi jika terdapat tanda tambah atau kurang maka dahulukan mengerjakan tanda yang paling depan, terserah mau tambah atau kurang, yang penting pokoknya\u00a0yang paling depan, yang harus dikerjakan, pengeculian berlaku untuk tanda kali dan bagi.<br><br><br>semoga bisa membantu ^_^,,,<br>maaf jika ada yang salah ^_^,,,<br>apabila ada yang tidak dimengerti, silahkan ditanyakan ^_^,,,",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-gerbong-mengangkut-12785-kg-batu-bara-atau-sama-dengan-273",
+            "question": "Sebuah gerbong mengangkut 12.785 kg batu bara , atau sama dengan.....    a. 127 ton + 0,85 kuintal\r\nb. 127 ton + 8,5 kuintal\r\nc. 12 ton + 0,785 kuintal\r\nd. 12 ton + 7,85 kuintal\r\n\r\nPake caranya :)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1ton=1000kg<br>1kwntal= 100kg<br>jd 12785kg = 12ton dan 7,85kw",
+                    "attachments": []
+                },
+                {
+                    "answer": "dari kg ke ton naik 3 = dibagi 1000<br>12.785 kg = 12 ton\u00a0<br>dari kg ke kuintal naik 2 = dibagi 100<br>785 kg = 7,85 kuintal<br>Jadi jawabannya 12 ton + 7,85 kuintal \u00a0( d )",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "ubahlah-pecahan-berikut-ke-bentuk-desimal-a-715-928",
+            "question": "Ubahlah pecahan berikut ke bentuk desimal; a. 7/15",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "bentuk desimal 7/15 = 0,46667<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "[tex] \\frac{7}{15} [/tex] = 0,467",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "soal-trigonometri-sin-3p-sin-p-adalah-a-4-sin-p-b4-304",
+            "question": "Soal Trigonometri :\u00a0    sin 3p + sin p adalah\u00a0\r\n\r\na. 4 sin p\r\n\r\nb.\u00a0\u00a04\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>sin 3p + sin p = 4 sin p cos\u00b2p. Maka jawaban yang benar adalah A. 4 sin p cos\u00b2p</strong></p><p>Simak pembahasan berikut.</p><h3>Pembahasan</h3><p><strong>Penjumlahan</strong> trigonometri dua sudut diantaranya:</p><ol><li><strong>sin (a + b) = sin a cos b + cos a sin b</strong></li><li>sin (a - b) = sin a cos b - cos a sin b</li><li>cos (a + b) = cos a cos b - sin a sin b</li><li>cos (a - b) = cos a cos b + sin a sin b</li></ol><p>Beberapa <strong>identitas trigonometri </strong>diantaranya:</p><ol><li><strong>sin 2x = 2 sin x cos x</strong></li><li><strong>cos 2x = cos\u00b2x - sin\u00b2x</strong></li><li><strong>sin\u00b2x + cos\u00b2x = 1</strong></li></ol><p>Maka <strong>nilai dari sin 3p + sin p</strong> adalah</p><p>sin 3p + sin p = sin (2p + p) + sin p</p><p>sin 3p + sin p = sin 2p cos p + cos 2p sin p + sin p</p><p>sin 3p + sin p = sin 2p cos p + sinp(cos 2p + 1)</p><p>sin 3p + sin p = 2 sin p cos p cos p + sinp(cos\u00b2p - sin\u00b2p + sin\u00b2p + cos\u00b2p)</p><p>sin 3p + sin p = 2 sin p cos\u00b2p + sinp(cos\u00b2p + cos\u00b2p)</p><p>sin 3p + sin p = 2 sin p cos\u00b2p + sinp(2cos\u00b2p)</p><p>sin 3p + sin p = 2 sin p cos\u00b2p + 2 sinp cos\u00b2p</p><p>sin 3p + sin p = 4 sin p cos\u00b2p</p><p><strong>\u2234 jadi nilai dari sin 3p + sin p adalah 4 sin p cos\u00b2p</strong></p><p></p><h3>Pelajari lebih lanjut</h3><ol><li>Menentukan nilai dari sinus suatu sudut https://brainly.co.id/tugas/22869793</li><li>Menentukan panjang sisi segitiga dengan aturan sinus dan kosinus https://brainly.co.id/tugas/22872598</li></ol><h3>------------------------------------------------</h3><h3></h3><h3>Detil jawaban</h3><p><strong>Kelas:</strong> 10</p><p><strong>Mapel:</strong> Matematika</p><p><strong>Bab:</strong> Trigonometri</p><p><strong>Kode:</strong> 10.2.7</p><p></p><p><strong>Kata kunci: </strong>sin 3p, sin p, identitas trigonometri</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "deni-dan-heni-mengerjakan-sejumlah-soal-pekerjaann-rumah-deni-da-503",
+            "question": "Deni dan Heni mengerjakan sejumlah soal pekerjaann rumah. Deni dan Heni bekerja sama untuk mengerjakan soal itu. Saat ini Deni sudah mampu mengerjakan 1/2 dari seluruh soal dan Heni mampu mengerjakan 1/3 dari seluruh soal. Jika soal yang mereka kerjakan tidak sama, berapa bagian soal yang belum mereka kerjakan ?    (Ingat: jumlah pecahan haru sama dengan 1)\r\n\r\ntolong bantuin ya ^^ pake cara juga ya^^~",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "kalau menurut saya ini soal pecahan kan ? :)<br><br>soal utuh - soal yang sudah dikerjakan<br><br>1 - 1/2+1/3<br>1 - 3/6 + 2/6<br>1- 5/6<br>1/6<br><br>sehingga sisa soal yang belum dikerjakan adalah 1/6 bagian lagi :)",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "kmu-pya-uang-1000-kmu-beli-permen-500klau-mau-beli-teh-gelas-b-269",
+            "question": "Kmu pya uang 1000\r\n\u00a0kmu beli permen 500,klau mau beli teh gelas bisa,gk?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "kyaknya gak kan uangnya tinggal 500, tpi kan sesuai dengan yg menjual teh gelas itu berpa? 1000 / 500. klu harga 500, psti bisa buat bli teh gelas.",
+                    "attachments": []
+                },
+                {
+                    "answer": "sisanya kan 500, uangnya memang gak cukup, tapi sebenarnya bisa..<br>caranya, pulang kerumah dulu, minta uang ke mama/papa, atau ngutang dulu, atau minta bayarin sama temen yg kebetulan juga lgi di warung",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebatang-bambu-panjangnya-6-25-meter-kemudianbambu-tersebut-dip-737",
+            "question": "Sebatang bambu panjangnya 6 2/5 meter kemudian,bambu tersebut dipotong sepanjang 4 2/3\u00a0meter. berapa panjang bambu yang tersisa?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex] \\frac{32}{5} [/tex] -\u00a0[tex] \\frac{14}{3} [/tex] = ...<br>[tex] \\frac{96}{15} [/tex]\u00a0-\u00a0[tex] \\frac{70}{15} [/tex] =\u00a0[tex] \\frac{26}{15} [/tex]<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "6 + 2/5 m \u00a0=32/5 m = 6,4 m<br>dipotong 4 + 2/3 m = 14/3 = 4,66 m<br>sehingga menjadi 1,74 m :)",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "renang-45-derajattenis-meja-30-derajat-basket-90-derajat-bola-vo-932",
+            "question": "Renang 45 derajattenis meja 30 derajat\u00a0basket 90 derajat bola voli 60 derajat\u00a0    diagram diatas aldalah hasil survey tentang olahraga favorit yang dilakukan terhadap 1000 orang responden yang ditana sepak bola presentasi orang yang menyukai sepak bola ? jawabannya: persen dibuku",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "360 - 45\u00a0- 30 - 90 - 60 = 135 derajat<br>135 derajat = 37,5 %\u00a0<br>Caranya\u00a0<u></u>[tex] \\frac{135}{360} [/tex] x 100 % = 37,5 %<br>\u00a037,5 % dari 1000 orang = 375<br>Caranya\u00a0[tex] \\frac{37,5}{100} [/tex] x 1000 = 375 orang\u00a0<br>Jadi yang suka sepak bola sebanyak 135 derajat<br>Jadi yang suka sepak bola sebanyak 37,5 %<br>Jadi yang suka sepak bola sebanyak 375 orang",
+                    "attachments": []
+                },
+                {
+                    "answer": "semua\u00a0persenan di jumlah lalu di kurangi 360 karena 1 lingkaran bersudut 360 jika dah ketemu di bagi 360 di kali 1000 mka\u00a0itulah\u00a0hasilnya<br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

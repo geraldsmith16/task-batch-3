@@ -1,0 +1,144 @@
+{
+    "question": "Sebuah peta berskala 1 : 10.000.000. Jarak kota Jambi dan Palembang pada peta jaraknya 2, 4 cm. Seorang sopir bis berangkat dari kota Jambi menuju kota Palembang dengan kecepatan rata-rata 80 km per jam. Selama perjalanannya ia berhenti istirahat sebanyak 1 kali selama 30 menit. Ia tiba di kota Palembang pukul 10.30 WIB.\u00a0    A. Berapa jam bis itu diperjalanan?\r\nB. Pukul berapa sopir bis itu berangkat dari kota Jambi?",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "Jarak Sebenarnya = 2,4\u00a0\u00d7 10.000.000<br>= 24.000.000 cm / 240 km<br>Waktu yang dibutuhkan untuk tiba di palembang tanpa istirahat =<br>240 : 80 = 3 jam<br>Dengan istirahat = 3 jam 30 menit<br>A. Di perjalanan membutuhkan waktu 3 jam (apabila istirahat tidak dihitung) dan 3 jam 30 menit (apabila istirahat dihitung)<br>B. Sopir berangkat pada pukul =<br>10.30 - 3.30 = 7.00<br>Semoga betul dan bermanfaat ^^",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "apakah-rumus-energi-potensial-690",
+            "question": "Apakah rumus energi potensial",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Ep = m . g . h<br>m = massa (kg)<br>g = percepatan gravitasi ( 10 m/s\u00b2 atau 9,8 m/s\u00b2)<br>h = ketinggian ( m )",
+                    "attachments": []
+                },
+                {
+                    "answer": "Energi potensial itu banyak jenisnya.<br>rumus dasarnya<br><br><strong>Ep = m . g . h<br></strong><br>Ep = energi potensial (Joule)<strong><br></strong><strong></strong>m = massa (kg)<br>g = percepatan gravitasi (m/s^2)<br>h = ketinggian (m)",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-4-suku-pertama-dari-barisan-dengan-rumus-suku-ke-n-berik-930",
+            "question": "Tentukan 4 suku pertama dari barisan dengan rumus suku ke-n berikut ini !    a. Un = 3n\r\nb. Un = 3n+1\r\nc. Un = n x (n+1) x (n+2)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a) U4 = 3(4) = 12<br>\u00a0\u00a0\u00a0 S4 = 4/2 (3+12) = 30<br>b) U4 = 3(4)+1 = 13<br>\u00a0\u00a0\u00a0 S4 = 4/2 (4+13) = 34<br>c) U4 = 4 x (4+1) x (4+2) = 128<br>\u00a0\u00a0\u00a0  S4 = 4/2 (6+128) =268<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-untuk-227-hitunglah-diameter-lingkaran-yang-luasnya-220cm-946",
+            "question": "1. Untuk\u00a0 = 22/7 hitunglah diameter lingkaran yang luasnya 220cm\u00b2    2. Jika keliling suatu kebun yang berbentuk lingkaran adalah 176 m, berapakah luas kebun tersebut?\r\n\r\n3. Hitunglah luas daerah yang diarsir! (Lihat di gambar)",
+            "attachments": [
+                "question-attachments/1-untuk-227-hitunglah-diameter-lingkaran-yang-luasnya-220cm-946-1.png"
+            ],
+            "answers": [
+                {
+                    "answer": "a. L = \u03c0 r\u00b2<br>220 = <u>22</u>\u00a0 \u00d7 r\u00b2<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0\u00a0 7<br>220 \u00d7<u>\u00a0 7\u00a0</u> = r\u00b2<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0\u00a0 22<br>\u221a70 = r<br><br>b. K = \u03c0 d<br>176 = <u>22</u> \u00d7 d<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0\u00a0 7<br>176 \u00d7\u00a0<u> 7\u00a0</u> = d<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 22<br>56 = d<br>28 = r<br><br>L = \u03c0 x r\u00b2<br>\u00a0\u00a0 = <u>22</u> \u00d7 28 \u00d7 28<br>\u00a0\u00a0 \u00a0 \u00a0 7<br>\u00a0\u00a0  = 2464 cm\u00b2<br><br>c. L arsir = L persegi - L 1/2 lingkaran<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0  = 14 \u00d7 14\u00a0 -\u00a0 <u>1 </u>\u00d7 <u>22</u> \u00d7 7 \u00d7 7<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 2 \u00a0\u00a0 7 \u00a0 \u00a0 <br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 196 - 77<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 119 cm\u00b2",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-sebuah-segitiga-panjang-sisinya-adalah-8-cm-15-cm-17-483",
+            "question": "Diketahui sebuah segitiga panjang sisinya adalah 8 cm, 15 cm, 17 cm. hitunglah panjang jari-jari lingkaran dari dalam segitiga dan luas segitiga.    tolong dijawab. besok mau dikumpul..",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "\u00a0 \u00a0 \u00a0segitiga dengan sisi 8 , 15 dan 17\u00a0<br>\u00a0adalah segitiga siku2 jadi luas = 1/2 alas x tinggi \u00a0= 1/2 x8 x 15<br>s = 1/2(8+15+17)=20<br>r lingkaran dalam adalah r = (s - a)tan 1/2\u03b1<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0=( 20 - 17) tan 1/2 90<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 3 tan 45\u00a0<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 3<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-diketahui-barisan-aritmatika-dengan-u1-3-un-87-dan-u6-u7-359",
+            "question": "1. Diketahui barisan aritmatika dengan U1= 3, Un= 87, dan U6 + U7 = 9. Tentukan : a) b=...? b) n=...? c) U50=....?    Pake caraa .. please jawab yaaa:)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "U1 = a = 3<br><br><span>U6 + U7 = 9<br>[a + (6-1)b] + [a + (7-1)b] = 9<br>[3 + 5b] + [3 + 6b] = 9<br>6 + 11b = 9<br>11 b = 9 - 6<br>11b = 3<br>b = [tex] \\frac{11}{3} [/tex] <br><br><br><br><br></span><span>Un= 87<br>a + (n-1)b = 87<br>3 + (n-1) </span>[tex] \\frac{11}{3} [/tex] = 87<br>3 + [tex] \\frac{3}{11} n[/tex] - [tex] \\frac{3}{11} [/tex] = 87<br>[tex] \\frac{36}{11} [/tex] + [tex] \\frac{3}{11} n[/tex] = 87<br>[tex] \\frac{3}{11} n[/tex] = 87 - [tex] \\frac{36}{11} [/tex]<br>[tex] \\frac{3}{11} n[/tex] = [tex] \\frac{957}{11} [/tex]<br>3n = 957<br>n = 319<br><br><br><span>U50 = 3 + 49b<br>\u00a0\u00a0 \u00a0\u00a0\u00a0 = 3 + 49 [tex] \\frac{3}{11} [/tex]<br>\u00a0\u00a0 \u00a0 \u00a0 = 3 + 13,3<br>\u00a0\u00a0 \u00a0 \u00a0 = 16,3<br><br><br><br>semoga membantu :)<br></span><br><br><br><br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bagaimana-menghitung-bilangan-berpangkat-dan-cara-menyederhanakan-788",
+            "question": "Bagaimana menghitung bilangan berpangkat dan cara menyederhanakannya?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "apa bila angkanx sama tinggal menjumlah pangkatnx<br>ex : 5\u00b2+5\u00b3 = ...<br>5\u00b2<u><em></em></u><em></em>+\u00b3 =...<br>= 5x5x5x5x5<br>5 pangkat 5<br><br>yg lainnx gtu\u00a0<br><br><br>atatan : ntuk perkalian tinggal menjumlahkan pangkatnx, pembagian tinggal ngurangi pangkatnx (apabila bilangannx sama)",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sifat-sifat-yang-berlaku-pada-bentuk-akar-460",
+            "question": "Sifat sifat yang berlaku pada bentuk akar?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>a^n x a</span><span>^n = a</span><span><span><span>^(</span>m + n) </span><br></span>a<span>^m : a</span><span>^n = a</span><span><span><span>^(</span>m \u2013 n)</span><br></span>(a<span>^m)</span><span>^n = a</span><span><span>^(m x n)</span><br></span>(a x b)<span>^m = a</span><span>^m x b</span><span>^m<br></span>(a\u00a0: b)<span>^m = a</span><span>^m : b</span><span>^m<br></span><br><span>^= pangkat</span><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Akar adalah bagian pokok di samping batang dan daun bagi tumbuhan yang tubuhnya telah merupakan kormus.<br><br>Sifat-sifat akar:<br>1. Merupakan bagian tumbuhan yang biasanya terdapat di dalam tanah, dengan arah tumbuh ke pusat bumi (geotrop) atau menuju ke air (hidrotrop), meninggalkan udara dan cahaya<br>2. Tidak berbuku-buku, jadi juga tidak beruas dan tidak mendukung daun-daun atau sisik-sisik maupun bagian-bagian lainnya<br>3. Warna tidak hijau, biasanya keputih-putihan atau kekuning-kuningan<br>4. Tumbuh terus pada ujungnya, tetapi umumnya pertumbuhannya masih kalah pesat jika dibandingkan dengan bagian permukaan tanah<br><span>5. Bentuk ujungnya seringkali meruncing, hingga lebih mudah untuk menembus tanah</span><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-penyelesaian-dari-pertidak-samaan-brikut-6x-18-gt-668",
+            "question": "Tentukan penyelesaian dari pertidak samaan brikut : 6x - 18 &gt; 18\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "\u00a0 6x - 18 &gt; 18<br>(=)6x - 18 + 18 &gt; 18+ 18<br>(=)6x\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 &gt; 36<br>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 x &gt; 36/6<br>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 x &gt; 6\u00a0\u00a0\u00a0 <br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "[tex]6x&gt;18+18 \\\\6x&gt;36 \\\\ x&gt;6[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pak-adi-mempunyai-sebidang-tanah-yang-di-tanamai-pohon-manggakar-959",
+            "question": "Pak Adi mempunyai sebidang tanah yang di tanamai pohon mangga,karena bentuk tanahnya miring,maka pada baris pertama di tanami 75 pohon mangga,baris ke dua 70 pohon,baris ketiga 65 pohon ,dan seterusnya berkurang 5 pohon mangga,hitunglah    a.banyaknya baris yang di tanami pohon mangga\r\nb.jumlah pohon mangga yang di tanami seluruhnya",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "A.336 m\nB. 510 POHON",
+                    "attachments": []
+                },
+                {
+                    "answer": "a. 75 : 5 = 15<br>b. jumlah pohon = 15/ 2 (2.5 + (15-1)5)<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 15/ 2 (10 + 14 x 5)<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 15/ 2 .80<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 600<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "seorang-walikota-merencanakan-membuat-taman-rekreasi-berbentuk-li-127",
+            "question": "Seorang walikota merencanakan membuat taman rekreasi berbentuk lingkaran dengan diameter 1.400 m. Oleh karena kurang dana, dalam realisasinya hanya dibangun taman dengan diameter 700 m. Berapa persen biaya yang dapat dihemat dari biaya pembebasan tanah untuk taman itu dari rencana semula?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "50% <br><br>Maaf kalo salah yaaa<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "karena 700 itu setengah dari 1400 berarti dana yang di hemat juga setengahnya atau 50%",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

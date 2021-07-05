@@ -1,0 +1,132 @@
+{
+    "question": "\u00a0apakah kekekalan momentum linear konsisten dengan hukum kedua dan ketiga Newton?",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "Hukum kekekalan momentum linear menyatakan bahwa jika tidak ada gaya luar yang bekerja pada dua benda yang bertumbukan maka momentum benda sebelum tumbukan sama dengan momentum benda setelah tumbukan.<br>Hukum Kedua: sebuah benda dengan massa M mengalami gaya resultan sebesar F akan mengalami percepatan a yang arahnya\n sama dengan arah gaya, dan besarnya berbanding lurus terhadap F dan \nberbanding terbalik terhadap M. atau F=Ma. Bisa juga diartikan resultan \ngaya yang bekerja pada suatu benda sama dengan turunan dari momentum linear benda tersebut terhadap waktu.<br>Hukum Ketiga: gaya aksi dan reaksi dari dua benda memiliki \nbesar yang sama, dengan arah terbalik, dan segaris. Artinya jika ada \nbenda A yang memberi gaya sebesar F pada benda B, maka benda B akan \nmemberi gaya sebesar \u2013F kepada benda A. F dan \u2013F memiliki besar yang \nsama namun arahnya berbeda. Hukum ini juga terkenal sebagai hukum \naksi-reaksi, dengan F disebut sebagai aksi dan \u2013F adalah reaksinya.<br><br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "suatu-gaya-menyinggungtepi-silinder-pejal-homogen-yang-massanya-932",
+            "question": "Suatu gaya menyinggungtepi silinder pejal homogen, yang massanya 200 gram. jari - jari 50 cm, akibat gaya tersebut silinder memiliki percepatan 4rad/s2, nilai gaya momen silinder sebesar...    A.0,1 b. 0,2 c.0,3 d.0,4 e. 0,5",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Dik : m = 200 g = 0,2 kg <br>\u00a0\u00a0 \u00a0 \u00a0\u00a0 r = 50 cm = 0,5 m <br>\u00a0\u00a0 \u00a0 \u00a0 \u03b1 = 4 rad/s2 <br>Dit : \u03c3 = ...?<br>Jwb : <br>silinder pejal ---&gt; I = 1/2 m r^2 <br>I = 1/2 . 0,2 . 0,5^2 = 0,025 <br>\u03c3 = I . \u03b1<br>\u00a0\u00a0 = 0,025 . 4 = 0,1 <br>(A) <br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Dik m = 200 gr = 0,2 kg<br>\u00a0 \u00a0 \u00a0 r = 50 cm = 0,5 m<br>\u00a0 \u00a0 \u00a0\u00a0\u03b1 = 4 rad/s<br>Dit torsi ?<br>jawab.<br>i =\u00a0[tex] \\frac{1}{2} m r^{2} [/tex]<br>\u00a0 = 1/2 . 0,2 . 0,5^2<br>\u00a0\u00a0= 0,025 kgm^2<br><br>torsi = \u00a0i .\u00a0\u03b1<br>\u00a0 \u00a0 \u00a0 \u00a0= 0,025 . 4<br>\u00a0 \u00a0 \u00a0 \u00a0= 0,1 Nm",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "rumus-reaksi-sempurna-kimia-apa-ya-374",
+            "question": "Rumus reaksi sempurna kimia apa ya?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>C8H18 (l) +12 \u00bd O2 (g) \u2013&gt; 8 CO2 (g) + 9 H2O (g) \u0394H = -5460 kJ</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "penjelasan-tentang-momen-inersia-berbagai-benda-tegar-homogen-706",
+            "question": "Penjelasan tentang momen inersia berbagai benda tegar homogen",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Benda tegar tersusun dari banyak partikel yang tersebar di seluruh \nbagian benda. Momen inersia suatu benda tegar merupakan jumlah semua \nmomen inersia masing-masing partikel penyusun benda tegar.<br><br><br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span>Benda tegar tersusun dari banyak partikel yang tersebar di seluruh \nbagian benda. Momen inersia suatu benda tegar merupakan jumlah semua \nmomen inersia masing-masing partikel penyusun benda tegar.<br></span><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "buatkan-dua-contoh-dari-bilangan-kuantum-orbital-dari-metode-bohr-195",
+            "question": "Buatkan dua contoh dari bilangan kuantum orbital dari metode bohr!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "dalam file word aja ya :) biar lebih mudah kamu mempelajarinnya :)<br>",
+                    "attachments": [
+                        "answer-attachments/buatkan-dua-contoh-dari-bilangan-kuantum-orbital-dari-metode-bohr-195-1.docx"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "kenapa-energi-potensial-pada-listrik-statis-skalar-ttapi-medan-da-869",
+            "question": "Kenapa energi potensial pada listrik statis skalar ttapi medan dan gaya listrik vektor?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "karena energi memiliki nilai saja\u00a0tidak memiliki arah maka merupakan\u00a0vektor<br>medan dan gaya listrik memiliki nilai dan\u00a0arah yaitu muatan + ke - sehinnga merupakan besaran skalar",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apa-betul-jawaban-saya-tlng-di-cmnt-seorang-pelari-menempuh-2-412",
+            "question": "APA\u00a0BETUL JAWABAN SAYA? TLNG DI CMNT !    seorang\r\n pelari menempuh 2 km dalam 5 menit dan kemudian membutuhkan 10 menit untuk\r\n berjalan kembali ketitik awal. a) berapakah kecepatan rata-rata untuk 5 menit\r\n pertama? (b) berapakah kecepatan rata-rata selama waktu yang dipakai berjalan?\r\n (c) berapakah kecepatan rata-rata untuk total perjalanan? (d) berapakah\r\n kelajuan rata-rata untuk total perjalanan?\r\n\r\n JAWABAN\r\n\r\n\r\na)\u00a0dikt :s\r\n = 2 km ~\u00a02000 m,\u00a0t = 5 menit ~\u00a0300 second\r\n\r\n v = s/t = 2000/300 = 6,66 m/s\r\nb)\u00a0dikt :s\r\n = 2 km ~\u00a02000 m,\u00a0t = 10 menit ~ 600 second\r\n\r\n v = s/t = 2000/600 = 3,33 m/s\r\n\u00a0 \u00a0 P1 + P2 =\u00a06,66 + 3,33 = 9,99 m/s\r\n\r\n\r\nc)\r\nd)\u00a0dikt :s\r\n = 2 km ~ 2000 x 2 = 4000 m,\u00a0t = 5 + 10 = 15 menit ~\u00a0900 second\r\n\r\n\r\n\u00a0 \u00a0 v = s/t = 4000/900 = 4,44",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "semuanya betul semua<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "ada-yg-tau-ngga-website-buat-download-ppt-fisika-tentang-pemanfaa-839",
+            "question": "ada yg tau ngga website buat download ppt fisika tentang pemanfaatan energi nuklr dan radioisotop? (ini materi kelas xii semester 2) sy sdhputus asa krn sejak 2 hari yg lalu smpe skrg ngga dapat-dapat",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Bisa cari di slideshare.com disitu banyak materi-materi yang dibutuhin",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bagaimanakah-momentum-benda-sebelum-dan-sesudah-tumbukan-218",
+            "question": "Bagaimanakah momentum benda sebelum dan sesudah tumbukan ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Berdasarkan hukum kekekalan momentum,\"jika tidak ada gaya luar yang bekerja pada benda,maka jumlah momentum sebelum tumbukan = jumlah momentum setelah tumbukan\"",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "seorang-siswa-memiliki-massa-60-kg-jika-percepatan-gravitasi-bum-135",
+            "question": "seorang siswa memiliki massa 60 kg, jika percepatan gravitasi bumi 10 m/s\u00b2, dan percepatan bulan 5,6 m/s\u00b2. htung berat siswa tsb di bumi dan di bulan? jelaskan dengan diket, tanya, dan jawab. trim's",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "diket:<br>m = 60 Kg<br>g bumi = 10 m/s\u00b2<br>g bulan= 5,6 m/s\u00b2<br><br>tanya :<br>W\u00a0bumi ...?<br>W bulan...?<br><br>jawab :<br>\u00a0W\u00a0bumi = m . g bumi<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 60 Kg . 10 m/s\u00b2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 600 kg.m/s\u00b2 atau 600 Newton<br><br>W\u00a0bulan = m. g bulan<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 60 kg. 5,6 m/s\u00b2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 336,0 kg.m/s\u00b2 atau 336 Newton",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "modulus-elastis-kawat-a-dua-kali-kawat-b-panjang-kawat-a-dan-b-m-937",
+            "question": "Modulus elastis kawat A dua kali kawat B. Panjang kawat A dan B masing masing 2 m. Jari-jari kawat A setengah kali kawat B. Hitunglah nilai perbandingan tetapan gaya kawat A dan B!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kalo aku jawabannya 1/2 : 1",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

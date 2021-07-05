@@ -1,0 +1,126 @@
+{
+    "question": "Jika \u00a0a\u00b2 + a - 3 = 0, maka nilai terbesar yang mungkin dari a\u00b3 + 4a\u00b2 + 9988 adalah ..    dibantu yaahh .. :(",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "a\u00b2+a-3 = 0<br>persamaan a\u00b2=3-a<br>persamaan a\u00b3=3a-a\u00b2<br><br>=a\u00b3+4a\u00b2+9988<br>=3a-a\u00b2+4(3-a)+9988<br>=3a-a\u00b2+12-4a+9988<br>=-a-a\u00b2+10000<br>=-a-(3-a)+10000<br>=-a-3+a+10000<br>=-3+10000<br>=9997 <br><br><br>voila dapat hasilnya :D<br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "hasil-penjumlahan-suku-ke-4-dan-suku-ke-8-sebuah-barisan-aritmeti-975",
+            "question": "Hasil penjumlahan suku ke 4 dan suku ke 8 sebuah barisan aritmetika adalah -46. Suku terakhir barisan tersebut adalah 47. Tentukan : A.suku ke 6...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Un = a + (n-1)b<br><br>U\u2084 + U\u2088 = -46<br>(a + 3b) + (a + 7b) = -46<br><strong>2a + 10b = -46 \u00a0</strong>dibagi 2 \u00a0=\u00a0<strong>a + 5b = -23<br><br><br>a+ 5b =\u00a0U</strong>\u2086 = -23<strong><br><br></strong>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suatu-kotak-berisi-5-kelereng-merah-dan-3-kelereng-putihdua-kele-757",
+            "question": "suatu kotak berisi 5 kelereng merah dan 3 kelereng putih.dua kelereng di ambil satu persatu tanpa pengembalian kelereng pertama kedalam kotak.peluang terambilnya kelereng pertama\u00a0dan kedua berwarna merah adalah?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "klu ndasalh 1/4<br><br>maaf klau slahhhh<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "5\u00d73= 15<br>15:5 = 3<br>5= ADALAH kelereng pertama berwarna merah<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "nih-ada-pr-mtk-sains-gurunya-blm-nerangin-mohon-di-bantu-yok-c-359",
+            "question": "Nih ada pr mtk sains gurunya blm nerangin :( mohon di bantu yok cekidot nih soalny..    Tentukanlah himpunan penyelesaian dari persamaan trigonometri 2-2sin(2x+15\u00b0)=3 untuk 0\u00b0\u2264x\u2264360\u00b0\r\n\r\n\r\nnah tolong bantuin ngerjain soal di atas oke :) please gan sis",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span> 2-2sin(2x+15\u00b0)=3 <br><br>2sin(2x+15) = -1 <br><br></span><span>sin(2x+15) = -1/2 <br><br></span><span>sin(2x+15) = sin 210 <br><br></span>berarti himpunan penyelesaiannya = { 210 , 330 ) <br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "faktor2-linear-lain-dari-px-x4-4x3-9x216x20-429",
+            "question": "Faktor2 linear lain dari p(x) =\u00a0x^{4}-4x^{3}-9x^{2}+16x+20",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "dengan menggunakan cara horner diperoleh :<br>(x+1)(x+2)(x-2)(x-5)",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-nilai-a-dan-b-a-x3-bx-2-2x2x2x-6-498",
+            "question": "Tentukan nilai a dan b\r\n\r\na/ x+3 + b/x-2 = 2x+2/x\u00b2+x-6",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a/(x+3) + b/(x-2) = (2x + 2)/ (x+3)(x-2)<br>kedua ruas dikali (x+3)(x-2)<br>a(x-2) + b(x+3) = 2x+2<br>(a+b)x + (-2a+3b) = 2x + 2<br>-&gt; a+b=2<br>-&gt; -2a+3b=2<br>trus dieliminasi dan disubstitusi ketemu :<br>a= 4/5 dan b=6/5<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-y-2-cos-x-1-dari-030609012015018021024-743",
+            "question": "Tentukan\u00a0\r\ny = 2 cos x + 1\u00a0\r\ndari : 0,30,60,90,120,150,180,210,240,270,300,330,360 \u00a0(derajat)\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "2 cos x+1=0<br>2cos x=-1<br>cos x = - 1/2<br>cos yang bernilai 1/2 adalah 60 secara umum<br>diketahui dari soal nilainya minus berarti di kuadran 2 dan 3<br><br>yaitu 120 dan 240",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bagaimana-cara-menampilkan-bilangan-fibonaci-dengan-assembler-193",
+            "question": "Bagaimana cara menampilkan bilangan fibonaci dengan assembler,??",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "barisan bilangan Fibonaccci yang pertama adalah:\n0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, 233, 377, 610, 987, 1597, 2584, 4181, 6765, 10946\u2026\nBarisan bilangan Fibonacci dapat dinyatakan sebagai berikut: Fn = (x1^n \u2013 x2^n)/ sqrt(5) dengan\nFn adalah bilangan Fibonacci ke-nx1 dan x2 adalah penyelesaian persamaan x^2-x-1=0<span>Perbandingan antara Fn+1 dengan Fn hampir selalu sama untuk sebarang \nnilai n dan mulai nilai n tertentu, perbandingan ini nilainya tetap. \nPerbandingan itu disebut Golden Ratio yang nilainya mendekati 1,618.</span><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "besar-sudut-p-dari-sebuah-segitiga-pqr-adalah-70-selisih-antara-535",
+            "question": "Besar sudut P dari sebuah segitiga PQR adalah 70, selisih antara besar sudut Q dan R adalah 36\u00b0 tentukan besar sudut Q dan R. Perlu diketahui total sudut sebuah segitiga adalah 180\u00b0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]P=70^o\\\\\nQ-R=36^o \\rightarrow Q=36^o+R\\\\\\\\\nP+Q+R=180^o\\\\\n70^o+36^o+R+R=180^o\\\\\n2R=74^o\\\\\nR=37^o\\\\\\\\\nQ=36^o+R\\\\\nQ=36^o+37^o\\\\\nQ=73^o[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-rumus-invers-dr-fungsi-brikut-a-fxx-3-b-fx2x5-436",
+            "question": "Tentukan rumus invers dr fungsi\" brikut:    a. f(x)=x-3\r\nb. f(x)=2x+5\r\nc. f(x)=2-seperdua x\r\nd. f(x)=x3\r\ne. f(x)= 6per x, tidak sama dengan 0\r\nf). f(x)= 2 per x-1, x tidak sama dengan 1\r\ng). f(x)=2x-3 per 4x-1, xtidak sama dengan seperempat\r\nh). f(x)= 3x+5 per x-5, x-5 tidak sama dengan 0.\r\nthanks bg yang bs jwb.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "perhatikan caranya : f(x) = x+ 3<br>&lt;=&gt; y = x + 3<br>&lt;=&gt; x = y - 3<br>&lt;=&gt; finvers(y) = y - 3\u00a0<br>jadi finvers (x) = x - 3 \u00a0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-matriks-a-x1-2-b-x-3-dan-526",
+            "question": "Diketahui matriks A = ( x+1 \u00a02), B = ( \u00a0\u00a0x \u00a0 \u00a0\u00a0 3 \u00a0 ), dan C (\u00a03 \u00a05). Jika A\u00a0+ B\u00a0= C\u00a0    \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 3 \u00a0 \u00a05 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a02 \u00a0 \u00a0y+\u00a02 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 5 \u00a04\u00a0\r\n\r\nMaka nilai x + y adalah....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]  \\left[\\begin{array}{cc}{x+1}&amp;2\\\\3&amp;5\\\\\\end{array}\\right] + \\left[\\begin{array}{cc}x&amp;3\\\\2&amp;{y+2}\\\\\\end{array}\\right] = \\left[\\begin{array}{cc}3&amp;5\\\\5&amp;4\\\\\\end{array}\\right] \\\\\\\\\n\\left[\\begin{array}{cc}{(x+1)+x}&amp;2+3\\\\3+2&amp;5+(y+2)\\\\\\end{array}\\right] = \\left[\\begin{array}{cc}3&amp;5\\\\5&amp;4\\\\\\end{array}\\right] \\\\\\\\\n\\left[\\begin{array}{cc}{2x+1}&amp;5\\\\5&amp;{y+6}\\\\\\end{array}\\right] = \\left[\\begin{array}{cc}3&amp;5\\\\5&amp;4\\\\\\end{array}\\right] \\\\\\\\\nmaka\\\\\n2x+1=3 \\rightarrow x=1\\\\\ny+6=4 \\rightarrow y=-2\\\\\nsehingga\\ x+y=1+(-2)=-1[/tex]",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

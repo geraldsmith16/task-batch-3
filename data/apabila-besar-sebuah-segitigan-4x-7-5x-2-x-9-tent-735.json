@@ -1,0 +1,140 @@
+{
+    "question": "Apabila besar sebuah segitigan ( 4x + 7 ),( 5x + 2 ),( x-9 )    tentukan :\r\n1. Nilai X\r\n2. Jenis segitiga",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "a. jika yang dimaksud sudut segitiga, maka :<br>(4x + 7 )\u00b0 + ( 5x + 2 )\u00b0 + ( x - 9 )\u00b0 = 180\u00b0<br>10x = 180\u00b0<br>x = 18\u00b0<br><br>b. sudut masing\"<br>@ 4x + 7<br>\u00a0\u00a0\u00a0 4 ( 18 ) + 7 =79\u00b0<br>@ 5x + 2<br>\u00a0\u00a0\u00a0 5 ( 18 ) + 2 = 92\u00b0<br>@ x - 9<br>\u00a0\u00a0\u00a0 18 - 9 = 9\u00b0<br>maka dari sudut yang tertera diatas maka segitiga tersebut adalah segitiga tumpul<br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "1diketahui-jarak-kota-jakarta-kota-bandung-adalah-200-km-748",
+            "question": "1.Diketahui : jarak kota Jakarta-kota Bandung adalah 200 km    \u00a0\u00a0 Ditanya : Berapa skala pada peta jika jarak kedua kota pada peta 12 cm?\r\n2.Diketahui : Pada suatu peta,jarak 20 km ditunjukkan dengan jarak 4 cm\r\n\u00a0\u00a0 Ditanya : Beraoa km jarak yang ditunjukkan dengan panjang 16 cm?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1.skala = jarak pada peta : jarak sebenarnya<br>skala = \u00a012 cm/200km\u00a0<br>skala = \u00a012 cm/20000000cm sederhanakan masing masing dibagi 12<br>skala = \u00a0 1/1,66<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jarak-antara-desa-a-dengan-desa-b-adalah-12-km-jarak-tersebut-aka-727",
+            "question": "jarak antara desa A dengan desa B adalah 12 km jarak tersebut akan digambar dengan skala 1 : 600.000, berapa CMkah desa A dan desa B pada gambar?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>CMkah desa A dan desa B adalah 2cm</span>",
+                    "attachments": []
+                },
+                {
+                    "answer": "12 km = 1200.000cm<br>skala 1: 600.000<br><br><u>\u00a01200000\u00a0</u>= 2 cm<u><br></u>600000<u><br></u>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-persegi-panjang-memiliki-luas-8cm-dan-lebar-2sqrt2c-519",
+            "question": "sebuah persegi panjang memiliki luas 8cm, dan lebar (2+\\sqrt{2})cm. ditanya: a.panjang? b.keliling?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "L =\u00a0 p \u00d7 l<br>8 = p \u00d7 (2 +\u221a2)<br><u>\u00a0\u00a0\u00a0 8\u00a0\u00a0\u00a0 </u>\u00a0 = p<br>2 + \u221a2<br><u>\u00a0\u00a0 \u00a0 8 (2 - \u221a2) \u00a0 \u00a0 </u>\u00a0 = p \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 <br>(2 + \u221a2) (2 - \u221a2)<br><u>16 - 8\u221a2\u00a0</u>  = p<br>\u00a0\u00a0 4 - 2<br>8 - 4\u221a2 = p<br><br>K = 2 ( p + l )<br>K = 2 ( (8 - 4\u221a2) + (2 + \u221a2))<br>K = 2 ( 10 - 2\u221a2)<br>K = 20 - 4\u221a2",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "ke-dalam-sebuah-kaleng-akan-dimasukkan-5o-keping-uang-logam-yang-759",
+            "question": "ke dalam sebuah kaleng akan dimasukkan 5o keping uang logam yang terdiri atas uang\u00a0Rp200,00-an\u00a0dan\u00a0Rp500,00-an. Agar nilai uang dalam kaleng paling sedikit Rp16.000,00, banyak uang\u00a0Rp200,00-an adalah...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Rp.500 koin = 20 koin<br>Rp.200 koin = 30 koin<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pilihan-ganda-ya-pasangan-bilangan-di-bawah-ini-yang-bukan-tripel-840",
+            "question": "Pilihan ganda ya    pasangan bilangan di bawah ini yang bukan tripel pytboras adalah \r\na. 20,16,12\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 C,5,4,3\r\nb. 10,24,26\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 D. 4,3,2",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "yang D<br>4,3,2<br>........................................",
+                    "attachments": []
+                },
+                {
+                    "answer": "d. 4, 3, 2\u00a0 <br>karena tdk memenuhi syarat [tex]a= \\sqrt{ b^{2}+ c^{2}  } [/tex]\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pada-peta-yang-berskala-1-1500000-terdapat-gambar-hutan-yang-212",
+            "question": "pada peta yang berskala 1 : 1.500.000 terdapat gambar hutan yang berbentuk persegi panjang 12 cm dan lebar 8 cm . luas hutan sebenarnya",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1440 KM<br>Sorry kalo salah ya",
+                    "attachments": []
+                },
+                {
+                    "answer": "1.500.000:96=15625 cm<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0=0,15625",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-penyelesaian-setiap-pertidaksamaan-berikut-ini-23-x-739",
+            "question": "Tentukan penyelesaian setiap pertidaksamaan berikut ini :\r\n2/3 x - 1/6 &gt; 3/4 x",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "2/3x-1/6&gt;3/4x<br>2/3x-3/4x&gt;1/6<br>8x-9x&gt;2<br>-x&gt;2<br>x&lt;-2",
+                    "attachments": []
+                },
+                {
+                    "answer": "2/3 x - 1/6 &gt; 2/4 x<br>= 4x-1/6 ? 3x/4<br>= 4 (4x-1) &gt; 6 (3x)<br>= 16x - 4 &gt; 18x<br>= 16x - 18x &gt; 4<br>= -2x &gt; 4<br>= 2x &lt; -4<br>= x &lt; -2",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-yg-tw-gw-kasih-poin-banyak-787",
+            "question": "Tolong yg tw gw kasih poin banyak :)",
+            "attachments": [
+                "question-attachments/tolong-yg-tw-gw-kasih-poin-banyak-787-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "4. jumlah siswa 40<br>30 gemar mat, 26 gemar fisika, 2 org tidak gemar keduanya, yang gemar keduanya dianggap x<br>maka :<br>40 = (30 - x) + x + (26 - x) +2<br>40 = 58 - x<br>x = 18<br><br>5. 23 gemar bakso dan mie, 45 gemar bakso, 34 gemar mie, 6 org tidak kedua nya, jumlah dianggp x maka :<br>x = 23 + (45 - 23) + (34 - 23) + 6<br>x = 62<br><br>1. jumlah smua 60, gemar basket 50, bulu tangkis 40, 35 gemar keduanya<br>maka :<br>60 = (50 - 35) + (40 - 35) + 35 + x<br>60 = 55 + x<br>5 = x<br><br>2. jumlah 38, menjahit 27, lukis 23, kedua nya 15, ketidak 2\" nya dianggap x<br>maka :<br>38 = (27 - 15) + (23 - 15) + 15 + x<br>38 = 35 + x<br>3 = x<br><br>3. jumlah 30, gemar bacca 25, nyanyi 20, 4 tidak keduanya, gemar keduanya dianggap x<br>maka :<br>30 = (25 - x) + (20 - x) + x + 4<br>30 = 49 - x<br>x = 19<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bu-aminah-menyimpan-uang-di-bang-sebesar-rp-60000000-setelah-4-329",
+            "question": "bu aminah menyimpan uang di bang sebesar rp 600.000.00 setelah 4 bulan jumlah simpenan bu aminah\u00a0 menjadi rp 648000.00 suku bunga tunggal (%) yang di berikan bank itu per tahun adalah ...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "4 bulan = 648.000 - 600.000 = 48.000<br>1 bulan = 12.000<br>1 tahun = 12 x 12.000 = 144.000<br><br>% = (144.000/600.000) x 100%<br>% = (12/50) x 100%<br>% = 24 %",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-nilai-xjika-2x12x22x32x504275-589",
+            "question": "Tentukan nilai x,jika (2x+1)+(2x+2)+(2x+3)+....+(2x+50)=4275",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Sn = U1 + U2 + U3 .....+ U50\u00a0<br>Sn = a + (a+b) + (a+2b) + ....\u00a0<br>a / U1 = 2x + 1<br>Sn = 4725\u00a0<br>n = 50\u00a0<br>b = U2 - U1<br>b\u00a0= (2x + 2) - (2x +1)<br>b= 1<br><br>Rumus Sn = n/2 (2a + (n-1) b)\u00a0<br>4725 = 50 / 2 (2 (2x + 1) + (50 - 1) 1)<br>4275 = 25 ( 4x +2 + 49)<br>4275 = 25 ( 4x + 51)\u00a0<br>4275 = 100x + 1275<br>4275 - 1275 = 100x<br>3000 = 100x\u00a0<br>30 = x",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

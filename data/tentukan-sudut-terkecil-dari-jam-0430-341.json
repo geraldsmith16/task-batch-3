@@ -1,0 +1,154 @@
+{
+    "question": "Tentukan sudut terkecil dari jam 04.30",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "130 &#039; ( derajat )\u00a0<br>semoga betul",
+            "attachments": []
+        },
+        {
+            "answer": "Sudut terkecilnya adalah 130 derajat",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "rumus-cara-mencari-jari2-jika-diketahui-pi-314-dan-luasnya-dik-346",
+            "question": "Rumus cara mencari jari2 jika diketahui pi = 3,14 dan luasnya diketahui gimana? Rumusnya saja ya",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "luas\u00a0=22/7.[tex] r^{2} [/tex]<br>misalnya l=314cm2<br>luas 314=3,14x\u00a0r^{2} [/tex]",
+                    "attachments": []
+                },
+                {
+                    "answer": "r= \\sqrt({ \\frac{L}{ \\pi } }  )[/tex] L/pi<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "12x-5-gt-15-816",
+            "question": "1/2x + 5 &gt; 15 = ....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1/2x + 5\u00a0&gt; 15<br>semua kalikan 2<br>x + 10 &gt; 30<br>x + 10 - 10 &gt; 30 -10<br>x &gt; 20<br>Jadi penyelesaiannya x &gt; 20",
+                    "attachments": []
+                },
+                {
+                    "answer": "1/2x +5 &gt; 15<br>1/2x \u00a0 \u00a0 \u00a0&gt; 15-5<br>1/2x \u00a0 \u00a0 \u00a0&gt; 10<br>1/2x :1/2&gt; 10 :1/2<br><u></u><br>\u00a0 \u00a0 \u00a0 \u00a0x \u00a0 \u00a0&lt; 20<u></u>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "persamaan-garis-yang-melalui-titik-34-dan-2-1-adalah-860",
+            "question": "Persamaan garis yang melalui titik (-3,4) dan (2,-1) adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "(y-y1)/y2-y1)=(x-x1)/(x2-x1)\u00a0\u00a0 dari (-3,4) dan (2,-1)<br>(y-4)/(-5)=(x+3)/(5)<br>y-4= -x-3 jadi x+y = 1<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "25-4y6y15-tlong-bantu-jawab-secepatnya-yah-138",
+            "question": "25-4y=6y+15 tlong bantu jawab secepatnya yah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]-4y-6y=15-25 \\\\ -10y=-10 \\\\ y=1[/tex]",
+                    "attachments": []
+                },
+                {
+                    "answer": "25-4y=6y+15<br>25-4y-6y+15<br>25-10y+15<br>10-10y<br>10y=-10<br>y=-10/10<br>y=-1<br><br>semogaa bermanfaat da membantu",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "berapakah-jawaban-dari-33-803",
+            "question": "Berapakah jawaban dari 3+3?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "jawaban 3 di tambah 3 yaitu adalah enam\u00a0<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "\u00a0jawabannya ya 6 lah...",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "roda-sepeda-motor-dengan-jari-jari-20-cm-jika-roda-itu-berputar-745",
+            "question": "roda sepeda motor dengan jari -jari 20 cm, jika roda itu berputar sebanyak 1.500 putaran,berapa panjang lintasan yang dilalui sepeda motor itu adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "k=2x3,14xr<br>k=2x3,14x20=125,6<br>125,6x1500=188400<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Keliling = 2[tex] \\pi [/tex]r\u00a0<br>K = 2 x 3,14 x 20<br>K = 125,6 cm<br><br>Panjang lintasan = K x Putaran<br>Pl = 125,6 x 1500<br>Pl = 188.400 cm<br>Pl = 1.884 m<br><br>Maaf jika ada kesalahan :)<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-k-235711-tentukan-ahimpunan-bagian-k-yang-mem-547",
+            "question": "diketahui K = { 2,3,5,7,11} tentukan a.himpunan bagian K yang mempunyai dua anggota b.himpunan bagian K yang mempunyai tiga anggota c.himpunan bagian K yang mempunyai empat anggota",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a.) (2,3);(2,5);(2,7);(2,11);(3,5);(3,7);(3,11);(5,7);(5,11);(7,11)<br>b.)(2,3,5);(2,3,7);(2,3,11),(2,5,7);(2,5,11);(2,7,11);(3,5,7);(3,7,11);(5,7,11)<br>c.)(2,3,5,7);(2,3,5,11);(2,5,7,11);(3,5,7,11)<br>Maaf kalau kurang lengkap?!",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "batuin-yah-16100-132-382",
+            "question": "Batuin yah :)\r\n\r\n16\u221a100\r\n1+\u221a32",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "hasilnya 160/ 5[tex] \\sqrt{2} [/tex]",
+                    "attachments": []
+                },
+                {
+                    "answer": "[tex] \\frac{16 \\sqrt{100} }{1+ \\sqrt{32} } = \\frac{16 \\sqrt{10.10} }{1+ \\sqrt{16.2} } = \\frac{16.10 }{1+ 4\\sqrt{2} }  \\\\  \\\\ =\\frac{160 }{1+ 4\\sqrt{2} }. \\frac{1- 4\\sqrt{2}}{1- 4\\sqrt{2}} = \\frac{160-640 \\sqrt{2} }{1-32} \\\\  \\\\ =\\frac{160-640 \\sqrt{2} }{-31}  =-\\frac{160-640 \\sqrt{2} }{31}[/tex]<br><br>atau lebih bagus gini<br>[tex]- \\frac{160}{31} (1-4 \\sqrt{2} )[/tex]<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-segitiga-siku-siku-memiliki-panjang-sisi-siku-siku-20-cm-d-552",
+            "question": "sebuah segitiga siku siku memiliki panjang sisi siku-siku 20 cm dan 24 cm,sedangkan panjang sisi miringnya\u00a0\u00a0,kelilingnya ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Sm^2 = 24^2 + 20^2 \n           = 576 + 400\n            = 976\n Sm     = \u221a976\n            = ? \nItu entar kamu cari aja akar dari 976 :) semoga membantu.",
+                    "attachments": []
+                },
+                {
+                    "answer": "<u></u>[tex] \\sqrt{20^{2} + 24^{2}  [/tex]<br>[tex] \\sqrt{400+576} [/tex]<br>[tex] \\sqrt{976} [/tex]<br>= 31,24099870362662<br><br>semoga jawanan ini bermanfaat",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-suatu-barisan-geometri-memiliki-suku-pertama-3-dan-rasio-4-a-513",
+            "question": "1. Suatu barisan geometri memiliki suku pertama 3 dan rasio 4.    a. tuliskan barisan geometri tsb.\r\nb. tuliskan deret geometri tsb.\r\n\r\n2. Tentukanlah jumlah setiap deret geometri berikut.\r\na. 2+6+18+54+162+...+U7\r\nb. 3+15+75+...+U6\r\nc. 1+4+16+64+...+U7\r\nd. 5+10+20+40+80+...+U8\r\ne. 1/4+1/2+1+2+...+U10",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1.dik a= 3 r=4 <br>deret geometrinya\u00a0 un=ar^n-1<br>un = 3,12,48,192, . . . <br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,136 @@
+{
+    "question": "Deret geometri dengan U5 dan U8 masing masing 48 dan 384.    Tentukan jumlah 9 suku pertama serta langkah2 nya.",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "[tex]U_5=ar^4=48\\\\\nU_8=ar^7=384\\\\\\\\\nar^7=384\\\\\nar^4.r^3=384\\\\\n48r^3=384\\\\\nr^3=8\\\\\nr=2\\\\\nar^4=48\\\\\na(2^4)=48\\\\\n16a=48\\\\\na=3\\\\\\\\\nS_n=\\frac{a(r^n-1)}{r-1}\\\\\nS_9=\\frac{3(2^9-1)}{2-1}\\\\\nS_9=3(512-1)\\\\\nS_9=1533[/tex]",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "di-berikan-titik-titik-p6-4-q-1-6-r8-1-s42-tentu-623",
+            "question": "Di berikan titik - titik P(6,-4), Q(-1,-6), R(8,-1), S(4,2) Tentukan :    a. garis yang tegak lurus PR dan Melewati titik Q\r\nb. garis lain yang sejajar RS dan melewati titik P dan hitung keliling segitiga PRS\r\nc. Gradient PQ dan RS",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]gradien\\ PR=\\frac{-1-(-4)}{8-6}=\\frac{3}{2}\\\\ garis\\ yg\\ tegak\\ lurus\\ PR,\\ m_2.m_{PR}=-1\\\\ m_2.\\frac{3}{2}=-1\\\\ m_2=-\\frac{2}{3}\\\\ persamaan\\ garis\\ yg\\ melalui\\ Q(-1,-6) dan\\ tegak\\ lurus\\ PR :\\\\ y-(-6)=-\\frac{2}{3}(x-(-1))\\\\ 3y+18=-2x-2\\\\ 2x+3y+20=0\\\\\n\\\\\ngradien\\ RS=\\frac{2-(-1)}{4-8}=-\\frac{3}{4}\\\\\npersamaan\\ garis\\ melalui\\ P(6,-4)\\ dan\\ sejajar\\ RS:\\\\\ny-(-4)=-\\frac{3}{4}(x-6)\\\\\n4y+16=-3x+18\\\\\n3x+4y=2\\\\[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-bola-dilempar-vertikal-ke-atas-dgn-kecepatan-awal-vo-39-939",
+            "question": "Sebuah bola dilempar vertikal ke atas dgn kecepatan awal Vo = 39, 2m/s\u00b2 dan tanah dgn g=9,8 m/s\u00b2. Nyatakan dahulu posisi bola, y (dalam meter) setelah t sekon. Kapankah ketinggian y lebih dari 34,3 m?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "kalau saya cari hasil nya 1 sekon lebih agar ketinggian lebih dari 34,3<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "persamaan-4x2-px250-akar-akarnya-sama-nilai-p-adalah-a-20-424",
+            "question": "Persamaan 4x\u00b2-px+25=0 ,akar-akarnya sama.    Nilai p adalah\r\na. -20 atau 20\r\nb.-10 atau 10\r\nc. -5 atau 5\r\nd. -2 atau 2\r\ne. -1 atau 1\r\n\r\nMohon dibantu dan jangan lupa memberikan pembahasannya\r\n\r\nTerima kasih.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "akar - akar sama -&gt; D = 0<br>[tex] b^{2} [/tex] - 4ac = 0<br>[tex] p^{2} [/tex] - 4 x 4 x 25 = 0<br>[tex] p^{2} [/tex] = 400<br>p = 20 atau -20",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "hitung-jumlah-bilangan-yg-habis-dibagi-3-tapi-tidak-habis-dibagi-361",
+            "question": "Hitung jumlah bilangan yg habis dibagi 3 tapi tidak habis dibagi 5. Dari 1-75\r\ntolong bantuuu u.u",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "3,6,9,12,18,21,24,27,33,36,39,42,48,51,54,57,63,66,69,72<br>berarti jumlah ada 20 bilangan yang habis dibagi 3 dan tidak habis dibagi 5",
+                    "attachments": []
+                },
+                {
+                    "answer": "3, 6.9.12,18,21,24,27,33,36,39,42,48,51,54,57,63,66,69,72<br><br>jadi ada 20",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-xy-23-adalah-penyelesaian-dari-sistempersamaan-ax-b-844",
+            "question": "Jika (x,y) =(2,3) adalah penyelesaian dari sistempersamaan\r\nax + by=1\r\nay - bx=8",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "substitusikan nilai (x,y) dalam pers.<br><br>a(2) + b(3) = 1<br>a(3) - b(2) = 8<br><br>2a + 3b = 1 .... x3<br>3a - 2b = 8 .... x2<br><br>6a + 9b = 3<br>6a - 4b = 16<br>(dikurang), maka<br>13b = -13<br><strong>b = -1</strong><br><br>subs b ke pers 1.<br><br>2a + 3(-1) = 1<br>2a -3 = 1<br>2a = 4<br><strong>a = 2</strong><br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-999-997-995-adalah-barisan-aretmatika-maka-suku-brni-497",
+            "question": "Jika -999,-997,-995,... Adalah barisan aretmatika, maka suku brnilai positif yg muncul prtama kali adalah suku ke .. \u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1 = a + (n-1)b<br>1\u00a0=- 999 + 2n -2<br>3 = -999 + 2n<br>1112 = 2n<br>556 = n :)",
+                    "attachments": []
+                },
+                {
+                    "answer": "a = -999<br>b = -997 - (-999) = 2<br><br>suku positif pertama<br>Un = -999 + 2(n-1)<br><br>yang cocok pada saat n-1 bernilai 500<br>jadi<br>Un = -999 + 2(500) = -999 + 1000 = 1<br><br>jadi<br>n - 1 = 500<br>n = 501<br><br>jadi suku ke 501",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "nilai-x-yang-memenuhi-x-20-lt-0-adalah-pliss-bantu-313",
+            "question": "Nilai x yang memenuhi : \u00a0+ x - 20 &lt; 0 adalah ?\r\npliss bantu......",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "silakan dipelajari dan dipahami",
+                    "attachments": [
+                        "answer-attachments/nilai-x-yang-memenuhi-x-20-lt-0-adalah-pliss-bantu-313-1.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "x2-54-maka-4x-420",
+            "question": "X/2 = 5/4, maka 4x =",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Resolution:<br>[tex] \\frac{x}{2}=  \\frac{5}{4}  \\\\ 4x=10[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "logika-matematika-1-manakah-yang-merupakan-pernyataan-kalimat-t-813",
+            "question": "Logika matematika    1. Manakah yang merupakan pernyataan, kalimat terbuka atau bukan pernyataan dari kalimat kalimat berikut ini.\r\na. Gunung Kerinci terletak di Bali\r\nb. Oslo ibukota Norwegia.\r\nc. Pergilah engkau sekarang!\r\nd. x adalah bilangan prima kurang dari 30.\r\ne. 9 adalah faktor dari 63\r\njawabannya\r\n\u00a0\u00a0 \u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kalimat terbuka : D<br>pernyataan : a,b,e<br>bukan pernyataan : c",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "selesaikan-persamaan-kuadat-berikut-dengan-pemfaktoran-atau-den-825",
+            "question": "Selesaikan persamaan kuadat \u00a0berikut dengan pemfaktoran atau dengan melengkapkan kuadrat / rumus ABC    1. x\u00b2 - 2x -15 = 0\r\n2. 5 + 3x - 2x\u00b2 = 0\r\n3. ax\u00b2 + (ab + 1) x + b = 0\r\n4.x\u00b2 - 8x - 24 = 0\r\n5. 9x\u00b2 - 12x + 2 = 0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1 (x-5)(x+3)=0<br>2(-2x+5)( \u00a0x+1 )=0<br>\u00a0yg bisa pake faktor cuma itu,,sisanya mau pake abc lama.. panjang..<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "1.(+) 3+(-5)<br>\u00a0 \u00a0(x) 3x5<br><br>x+3 = 0<br>x1 = -3<br><br>x-5=0<br>x2 = 5 \u00a0 \u00a0akarnya -3 dan 5<br><br><br><br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

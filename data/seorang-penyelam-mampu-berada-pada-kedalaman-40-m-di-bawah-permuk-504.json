@@ -1,0 +1,142 @@
+{
+    "question": "Seorang penyelam mampu berada pada kedalaman 40 m di bawah permukaan laut. Jikamassa jenis air laut 1,2 g/cm3 dan percepatan gravitasi 10 m/s\u00b2, maka hitunglah besar tekanan hidrostatis yang dialami penyelam!",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "rho= 1,2 g/cm\u00b3=1,2\u00d7(10^-3/10^-6)=1,2\u00d710^3=1200<br>Ph=rho\u00d7g\u00d7h=1200\u00d710\u00d740=480000 N/m\u00b2",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "sebuah-batu-gerinda-memiliki-massa-4-kg-dan-jari-jari-8-cm-ketik-802",
+            "question": "Sebuah batu gerinda memiliki massa 4 kg dan jari-jari 8 cm. ketika sebuah momen gaya tetap dikerjakan, roda mencapai kecepatan sudut 1200 rpm dalam 15 sekon. anggap roda mulai dari keadaan diam dan batu gerinda berbentuk silinder pejal. tentukan:    a. percepatan sudut\r\nb. resultan momen gaya\r\nc. sudut putaran yang ditempuh dalam 15 sekon",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "(a.)<br>\u00a0\u03c9=at<br>\u00a0(1200/60) (2\u03c0)=\u03b1(15)<br>\u03b1=8\u03c0/3rad/s\u00b2<br>\u00a0(b.) momen inersianya adlh<br>I=1/2 m r\u00b2 <br>momen gaya <br>T=I \u03b1<br>\u00a0=1/2 m r\u00b2 \u03b1<br>\u00a0=1/2 (4) (0.08)\u00b2(8\u03c0/3)<br>\u00a0=0.107233 N.m<br>(c.)<br>\u03b8=1/2 \u03b1 t\u00b2<br>\u03b8=1/2 (8\u03c0/3) (15)\u00b2<br>\u03b8=300\u03c0 rad<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pa-saya-mau-nanya-ada-sebuah-mobil-mainan-dgn-masa-2kg-melaju-dgn-651",
+            "question": "pa saya mau nanya ada sebuah mobil mainan dgn masa 2kg melaju dgn kecepatan 6m2/s berapakah energi mobil kinetik itu???",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1/2 kali 2 kali 12 = 12 joule<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "klo gx salah sih<br>kan rumus nya<br>1/2.m.v= 1/2. 2kg. 6km/s<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a01/2. 2kg. 6km/s<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 =1/2. 12 {12tu dibagi 2 dan dapat 12 dari 6km/s dikali 2kg<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0=6j<br>jadi energi kinetik nya yaitu 6j<br>maaf klu salh",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebutkan-contoh-penerapan-1-hukum-archimedes-2-hukum-pascal-3-659",
+            "question": "Sebutkan contoh penerapan :    1. Hukum Archimedes\r\n2. Hukum Pascal\r\n3. Hukum Bernuolli\r\ndalam teknologi ?\r\nmohon bantuannya",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1. apabila sebuah benda, sebagian atau seluruhnya terbenam kedalam air makabenda trsbt mendapat gaya tekan ke atas sebesar berat air yg dipindahkan oleh benda tersebut. contoh benda\u00a0yg menggunakan prinsip ini : kapal laut<br>2. tekanan yang diberikan kepada zat cair akan diteruskan ke segala arah dengan sama besar. contoh penggunaan : peralatan hidrolik<br>3. j<span>umlah dari tekanan, energi kinetik persatuan volume, dan energi potensial persatuan volume mempunyai nilai yang sama pada setiap titik sepanjang suatu garis arus. contoh : manometer, tabung venturi</span>",
+                    "attachments": []
+                },
+                {
+                    "answer": "kalau archimedes kapal laut , \u00a0kalau pascal pesawat terbang , kalau bernoulli parfum atau semprotan nyamuk yang pakai tangkai\u00a0<br>mohon maaf kalau ada kesalahan :D",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dua-mobil-a-dan-b-mula-mula-diam-massa-mobil-a-dua-kali-mobil-b-777",
+            "question": "Dua mobil A dan B mula mula diam, Massa Mobil A dua kali mobil B agar dalam waktu yang sama kecepatan mobil B dua kali mobil A. Perbandingan usaha yang dilakukan mobil A dan Mobil B yang tepat adalah ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1:2<br>dapat diperoleh dari teori usaha = perubahan energi kinetik dengan rumus 1/2mv\u00b2<br>Untuk memastikan dapat dicoba.",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apakah-yang-dimaksud-dengan-proyektor-219",
+            "question": "Apakah yang dimaksud dengan proyektor",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>Proyektor LCD adalah suatu jenis proyektor video untuk menampilkan video, gambar atau data komputer di layar atau permukaan datar lainnya. Ini adalah analog modern dari proyektor slide atau proyektor overhead. Untuk menampilkan gambar, LCD (liquid crystal display) Proyektor biasanya mengirim cahaya dari lampu halida logam melalui prisma yang memisahkan cahaya untuk tiga panel silikon poli - masing-masing untuk komponen merah, hijau, dan biru dari sinyal video. Sebagai cahaya terpolarisasi melewati panel (kombinasi polarizer, panel LCD dan analyzer), piksel individu dapat dibuka untuk memungkinkan cahaya untuk lulus atau tertutup untuk memblokir cahaya. Kombinasi piksel terbuka dan tertutup dapat menghasilkan berbagai macam warna dan nuansa pada gambar yang diproyeksikan.</span>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Menurut Saya, : Proyektor merupakan alat optik yg digunakan untuk menampilkan media dalam sebuah layar permukaan yg serupa<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "rumus-alfa-jika-hanya-diketahui-womega-massa-jari-jari-waktu-343",
+            "question": "Rumus alfa jika hanya diketahui W(OMEGA), massa, jari jari, waktu(s), frekuensi",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "\u03b1 = \u0394\u03c9/\u0394t<br>\u03b1 = torsi/inersia<br>\u03b1 = \u03c9t-\u03c9o/t-to",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-tongkat-homogen-sepanjang-50-cm-bermasa-4-kg-pada-salah-sa-611",
+            "question": "sebuah tongkat homogen sepanjang 50 cm bermasa 4 kg pada salah satu ujung tongkat diberi beban ,sedangkan ujung tongkat lainnya sebagai tumpuan .jika f= 200 N Momen gaya pada titik O adalah......N.m\u00a0\u00a0\u00a0\u00a0 (g=9.8 m/s2)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "momen inersia terhadap batang = <span><span>1/12m.l kuadrat + m(1/2) kuadrat = 1/3 ml kuadrat</span></span><br><br><br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span>tinggal di masukkin nilainya<br>sepertinya itu</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apabila-bayangan-terletak-20-cm-di-belakang-cermin-cekung-yang-me-356",
+            "question": "Apabila bayangan terletak 20 cm di belakang cermin cekung yang mempunyai jarakl fokus 20 cm, tentukan    a). letak benda\r\nb). perbesaran bayangan",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "diketahui :<br>s&#039; = -20\u00a0cm<br>f = 20 cm<br>ditanyakan :\u00a0<br>a. s<br>b. M<br>jawab :<br>a. 1/f = 1/s + 1/s&#039;<br>1/20 = 1/s - 1/20<br>1/s = 1/20 + 1/20<br>s = 10 cm<br>b. M = |s&#039;/s|<br>|-20/10|<br>2 kali",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-roda-pejal-massanya-45-kg-dengan-jari-jari-15-m-berada-p-988",
+            "question": "sebuah roda pejal massanya 4,5 kg dengan jari-jari 1,5 m berada pada lantai kasar melalui sumbunya roda tersebut ditarik dengan gaya 20N, sehingga roda menggelinding pada arah mendatar pada saat 15s tentukan energi kinetik totalnya?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "900 kah jawabnnya ???",
+                    "attachments": []
+                },
+                {
+                    "answer": "energi kinetik total dari sebuah roda pejal yaitu 900",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pada-titik-titik-sudut-abc-dan-d-sebuah-persegi-abcd-dengan-pan-854",
+            "question": "Pada titik-titik sudut A,B,C dan D sebuah persegi ABCD dengan panjang a ditempatkan muatan berturut-turut +q, -q, -q, dan -q. akibatnya muatan +q mengalami resultan gaya dari muatan lain sebesar ( q^/ (4\u03c0    a^2) x. nilai x adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "benda mengalami resultan gaya istrik bersudut 90 derajat. Sehingga mendapatkan rumus F=\u221a(Fab\u00b2 tambah Fad\u00b2)<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 =\u221a((k.q.q/r\u00b2)\u00b2 ditambah\u00a0(k.q.q/r\u00b2)\u00b2)<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 =\u221a2.(k.q.q/r\u00b2)\u00b2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 =k.q.q/r\u00b2.\u221a2<br><br>(q kuadrat per 4 phi epsilon a kuadrat)x=k.q\u00b2/a\u00b2.\u221a2<br>sehingga nilai x adalah \u00a0\u221a2 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

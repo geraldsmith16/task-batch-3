@@ -1,0 +1,152 @@
+{
+    "question": "sebuah perangkat hidrolik memiliki perbandingan\u00a0diameter kecil dan besar 2:100. tentukanlahgaya yang dihasilkan pada penghisap besar jika beban yang di letakkan pada penghisap kecil 2N?",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "F2 =\u00a0[tex] (\\frac{d2}{d1} )^2 . F1[/tex]<br>F2 = 10000/4 . 2<br>\u00a0 \u00a0 \u00a0= 5000 N",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "contih-soal-hukum-hooke-570",
+            "question": "Contih soal hukum hooke?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Ketika seseorang yang bermasaa 60kg bergelantungan pada ujung sebuah pegas, pegas bertambah panjang 15 cm. tentukan terapan gaya pegas.",
+                    "attachments": []
+                },
+                {
+                    "answer": "sebuah pegas digantung pd statif, panjang mula mula adlh 40 cm, kemudian pd ujungnya digantungi beban seberat 1 kg ternyata panjang pegas menjadi 45 cm. tentukan besar konstanta pegas tersebut jika \u00a0g = 10 m/s\u00b2",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "help-me-1-tepat-di-tengah-batang-ditancapkan-paku-masa-bata-439",
+            "question": "HELP ME!!    1)\u00a0Tepat di tengah\u00a0batang ditancapkan paku. Masa batang adalah 0,4 kg. Berapakah kecepatan sudut yg dialami batang jika diputar dari keadaan diam selama 5 menit?\r\n\r\n2)\u00a0Dari keadaan diam sebuah lempeng silinder pejal tipis berdiameter 400 cm menuruni sebuah bidang miring seperti gambar. Berapa kecepatan silinder di titik x?",
+            "attachments": [
+                "question-attachments/help-me-1-tepat-di-tengah-batang-ditancapkan-paku-masa-bata-439-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "yang nomor 2 pakai hukum kekekalan energi .....<br>Em1=Em2 <br>Ep=EK ( Rotasi) + EK ( Translasi )\u00a0 { sudah diajarkan kan persamaan ini????} <br>m.g.h=[tex] \\frac{1}{2} [/tex] m.[tex] v^{2} [/tex] + [tex] \\frac{1}{2} [/tex] I . [tex]w^{2} [/tex]<br>m.g.h= [tex] \\frac{1}{2} [/tex] { m . [tex] v^{2} [/tex] + [tex] \\frac{1}{2} [/tex] m.[tex] r^{2} [/tex] . [tex] \\frac{ v^{2} }{ r^{2} } [/tex] } } <br>\u00a0\u00a0 g.h = [tex] \\frac{1}{2} [/tex] m.[tex] v^{2} [/tex] + [tex] \\frac{1}{4} [/tex] m.[tex] v^{2} [/tex]<br>\u00a0\u00a0 v = [tex] \\sqrt{ \\frac{4}{3}  . gh} [/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-lensa-cembung-mempunyai-fokus-sebesar-15-cm-jika-sebuah-b-783",
+            "question": "Sebuah lensa cembung mempunyai fokus sebesar 15 cm. Jika sebuah benda diletakkan 20 cm dari lensa. Tentukan :    a. Jarak bayangan;\r\nb. Perbesaran bayangan; dan\r\nc. Sifat bayangan",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Diketahui :<br>f = 15<br>s = 20<br><br>a. [tex] \\frac{1}{f} =  \\frac{1}{s} + \\frac{1}{s\u2081} [/tex]<br>[tex] \\frac{1}{15} = \\frac{1}{20} + \\frac{1}{s\u2081} \n \\frac{1}{s\u2081} =\u00a0 \\frac{1}{15} - \\frac{1}{20} \n \\frac{1}{s\u2081} = \\frac{4-3}{60} [/tex]<br>s\u2081 = 60<br><br>b. |M| = [tex] \\frac{\\frac{60}{20} [/tex]<br>|M| = 3<br><br>c. Sifat Bayangan:<br>maya, tegak, diperbesar<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "besarnya-tegangan-yang-dilakukan-pada-sebuah-batang-adalah-210pa-954",
+            "question": "Besarnya tegangan yang dilakukan pada sebuah batang adalah 2.10pangkat6 N/m2.jika panjang batang adalah 4 m dan modolus elastisnya 2,5.10N\\m2,maka pertambahan panjang batang?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "\u0431= 2\u00d710^6 N/m\u00b2<br>lo= 4m<br>E= 2,5\u00a0\u00d710 N/m\u00b2<br><br>ditanya=\u00a0\u0394l<br>jawab :<br>\u00a0 \u00a0E=\u00a0\u0431\u00d7lo/\u0394l<br><br>\u00a0 \u00a0\u0394l=\u0431\u00d7lo/E<br>\u0394l \u00a0 =2\u00d710^6 x 4 \u00a0/ 2,5 x 10<br>\u00a0 \u00a0 \u00a0 = 8x10^6/25<br>\u00a0 \u00a0 \u00a0 = 800x10^4/25<br>\u00a0 \u00a0 \u00a0 = 32x10^4<br><br>terbaik ya :)",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "cara-mencari-dimensi-modulitas-young-258",
+            "question": "Cara mencari dimensi modulitas young?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "tegangan dibagi regangan",
+                    "attachments": []
+                },
+                {
+                    "answer": "E = tegangan / regangan =\u00a0[tex] \\frac{F . l}{A . delta l} [/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "seutas-kawat-sepanjang-10-m-dengan-luas-penampangnya-01-cm2-dib-512",
+            "question": "seutas kawat sepanjang 10 m dengan luas penampangnya 0,1 cm\u00b2 diberi beban 100 kg sehingga panjangnya bertambah 13mm. modulus elastisitasnya adalah....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "modulus elastis = tegangan : regangan<br>= 100000000 : 0,00013<br>769230770000 n/m^2",
+                    "attachments": []
+                },
+                {
+                    "answer": "Elastisitas dan gerak harmonis<br>Dik l0 = 10 m<br>\u00a0 \u00a0 \u00a0\u00a0A\u00a0= 0,1 cm^2 = 0,0001 m^2<br>\u00a0 \u00a0 \u00a0 m = 100 kg\u00a0<br>\u00a0 \u00a0 \u00a0\u0394l = 13 mm = 0,013 m<br>Dit\u00a0\u2208 ?<br>jawab.<br><br>F = m.g<br>\u00a0 \u00a0= 100 . 10<br>\u00a0 \u00a0= 1000 N<br><br>E = F.l0\u00a0/ A.\u00a0\u0394l<br>\u00a0 \u00a0= 1000. 10 / 0,0001 . 0,013<br>\u00a0 \u00a0= 10.000 / 13x10^-7\u00a0<br>\u00a0 \u00a0= 13x10^11 Pa\u00a0\u00a0<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "coba-jelasin-bagaimana-transformasi-lorentz-itu-soalnya-masih-921",
+            "question": "Coba jelasin bagaimana transformasi lorentz itu? \u00a0soalnya masih kurang ngerti aku. Thx:)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Transformasi Lorenz menyatakan transformasi ruang-waktu yang melandasi \nteori relativitas khusus antara dua pengamat yang bergerak dengan \nkecepatan konstan.<br>Transformasi Lorentz hanya berlaku untuk kerangka acuan yang bergerak \nseragam (tanpa percepatan) terhadap kerangka acuan lain. Pada \nkenyataannya kehadiran percepatan tidak dapat dipungkiri dalam kehidupan\n sehari-hari. Contohnya adalah: jika penumpang keretaapi tadi menarik \nrem darurat tiba-tiba, maka ia akan merasakan percepatan ke arah \nlokomotif, atau keretaapi mengalami perlambatan. Jika hanya bermodalkan \nTRK, maka keraguan terhadap prinsip relativitas akan merasuki kita untuk\n kasus ini. Namun Einstein berusaha mencari pemecahannya dengan motivasi\n bahwa hukum alam tetap sama untuk kerangka acuan jenis apapun.         \n <br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span>\u00a0transformasi Lorentz ditemukan pengabaian fundamental pada arah sebaran cahaya dari objek kepada pengamat yang mengakibatkan tidak terpenuhinya kondisi tertentu dalam konsep koordinat ruang dan waktu.</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "kak-tolong-jelasin-tentang-rumus-hukum-newton-2-698",
+            "question": "Kak tolong jelasin tentang Rumus hukum newton 2",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "percepatan yg dihasilkan oleh resultan gaya bekerja pada suatu benda berbanding lurus dgn resultan gaya dan searah dengan resultan gaya dan berbanding terbalik dgnn massa",
+                    "attachments": []
+                },
+                {
+                    "answer": "\"Percepatan sebuah benda berbanding lurus dengan resultan gaya dan berbalik terbalik dengan massa benda.\"<br>a= F/m<br><u></u><strong>S\u00a0F= m a</strong><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tekanan-gas-yang-berada-dalam-suatu-ruangan-dikurangi-sehingga-me-983",
+            "question": "tekanan gas yang berada dalam suatu ruangan dikurangi sehingga menjadi 1/2 nya hal ini menyebabkan suhu gas tersebut turun menjadi 3/4 nya ,tentukan perbandingan volume gas akhir dan awal",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex] \\frac{1}{2} [/tex] :\u00a0[tex] \\frac{3}{4} [/tex] =\u00a0[tex] \\frac{6}{4} [/tex] = 3 : 2<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "[tex] \\frac{P1 x V1}{T1} =  \\frac{P2 x V2}{T2} [/tex]\u00a0 ( di soal kamu P1=1/2 P2 dan T1=3/4 T2 ) paham kak? <br>lalu masukan ke persamaan <br>[tex] \\frac{P1 x V1}{T1} =  \\frac{1/2 P1 x V2}{3/4 T1} [/tex]<br>( coret T1 dan P1 )\u00a0 <br>V1=[tex] \\frac{1}{2}: \\frac{3}{4} [/tex] V2 <br>V1/V2 = 2/3 <br><br><br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "ketika-seorang-penjinak-singa-melecutkan-cambuknya-cambuk-itu-men-367",
+            "question": "Ketika seorang penjinak singa melecutkan cambuknya cambuk itu mengeluarkan \"ledakan\" sangat keras.akan tetapi ia tidak memukul sang singa,dan ujungnya pun tidak menyentuh tanah. apa yaang membuat cambuk itu berbunyi ??    Jelaskan..",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "gesekan antara tali cambuk yang kuat dan lentur dengan angin yang didorong oleh gaya yang juga besar, sehingga gerakan menjadi cepat dan suara cambuk pun terdengar.",
+                    "attachments": []
+                },
+                {
+                    "answer": "gesekan antara cambuk dengan angin<br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}
